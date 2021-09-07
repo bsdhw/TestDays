@@ -1,7 +1,7 @@
 OpenBSD 6.9 - Tested Hardware & Statistics (Desktops)
 -----------------------------------------------------
 
-A project to collect tested hardware configurations for OpenBSD 6.9 (Beta test).
+A project to collect tested hardware configurations for OpenBSD 6.9.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe/blob/master/INSTALL.BSD.md) tool:
 

@@ -1,7 +1,7 @@
 NomadBSD 1.4 - Tested Hardware & Statistics (Notebooks)
 -------------------------------------------------------
 
-A project to collect tested hardware configurations for NomadBSD 1.4 (Beta test).
+A project to collect tested hardware configurations for NomadBSD 1.4.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe/blob/master/INSTALL.BSD.md) tool:
 

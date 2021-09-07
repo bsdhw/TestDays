@@ -1,7 +1,7 @@
 BSD Community Hardware Test Coverage
 ------------------------------------
 
-A project to collect tested hardware configurations for upcoming versions of BSD variants (Beta test).
+A project to collect tested hardware configurations for upcoming and released versions of BSD variants.
 
 Anyone can contribute to this project by the [hw-probe](https://github.com/linuxhw/hw-probe/blob/master/INSTALL.BSD.md) tool:
 

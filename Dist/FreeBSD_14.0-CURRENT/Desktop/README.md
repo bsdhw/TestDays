@@ -1,7 +1,7 @@
 FreeBSD 14.0-CURRENT - Tested Hardware & Statistics (Desktops)
 --------------------------------------------------------------
 
-A project to collect tested hardware configurations for FreeBSD 14.0-CURRENT (Beta test).
+A project to collect tested hardware configurations for FreeBSD 14.0-CURRENT.
 
 Anyone can contribute to this report by the [hw-probe](https://github.com/linuxhw/hw-probe/blob/master/INSTALL.BSD.md) tool:
 
