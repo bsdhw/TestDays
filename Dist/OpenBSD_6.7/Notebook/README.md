@@ -825,11 +825,11 @@ Storage controller vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Intel               | 19        | 73.08%  |
-| Samsung Electronics | 4         | 15.38%  |
-| Sandisk             | 1         | 3.85%   |
-| Lenovo              | 1         | 3.85%   |
-| AMD                 | 1         | 3.85%   |
+| Intel               | 18        | 72%     |
+| Samsung Electronics | 4         | 16%     |
+| Sandisk             | 1         | 4%      |
+| Lenovo              | 1         | 4%      |
+| AMD                 | 1         | 4%      |
 
 Storage Model
 -------------
@@ -841,24 +841,24 @@ Storage controller models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 4         | 13.33%  |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 10%     |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 6.67%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 2         | 6.67%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                 | 2         | 6.67%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 6.67%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 6.67%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 6.67%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 6.67%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 3.33%   |
-| Samsung SM951 AHCI                                                             | 1         | 3.33%   |
-| Lenovo unknown                                                                 | 1         | 3.33%   |
-| Intel SSD 660P Series                                                          | 1         | 3.33%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                         | 1         | 3.33%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 3.33%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 3.33%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 1         | 3.33%   |
-| AMD FCH IDE Controller                                                         | 1         | 3.33%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 10.34%  |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 3         | 10.34%  |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 6.9%    |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 2         | 6.9%    |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                 | 2         | 6.9%    |
+| Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 6.9%    |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 6.9%    |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 6.9%    |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 6.9%    |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 3.45%   |
+| Samsung SM951 AHCI                                                             | 1         | 3.45%   |
+| Lenovo unknown                                                                 | 1         | 3.45%   |
+| Intel SSD 660P Series                                                          | 1         | 3.45%   |
+| Intel 82801FBM (ICH6M) SATA Controller                                         | 1         | 3.45%   |
+| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 3.45%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 3.45%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 1         | 3.45%   |
+| AMD FCH IDE Controller                                                         | 1         | 3.45%   |
 
 Storage Kind
 ------------
@@ -870,10 +870,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 18        | 60%     |
-| NVMe | 6         | 20%     |
-| IDE  | 5         | 16.67%  |
-| RAID | 1         | 3.33%   |
+| SATA | 17        | 58.62%  |
+| NVMe | 6         | 20.69%  |
+| IDE  | 5         | 17.24%  |
+| RAID | 1         | 3.45%   |
 
 Processor
 ---------

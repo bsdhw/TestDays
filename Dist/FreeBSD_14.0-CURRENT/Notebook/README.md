@@ -519,8 +519,8 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 17        | 53.13%  |
-| 2      | 14        | 43.75%  |
+| 1      | 16        | 50%     |
+| 2      | 15        | 46.88%  |
 | 3      | 1         | 3.13%   |
 
 Has CD-ROM

@@ -927,7 +927,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | Phison SATA SSD 16GB               | 10       | 5.81%   |
-| OPENBSD SR RAID 1 304GB            | 4        | 2.33%   |
+| OPENBSD SR RAID 1 240GB            | 4        | 2.33%   |
 | Dell PERC H710 282GB               | 4        | 2.33%   |
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |

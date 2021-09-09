@@ -623,7 +623,7 @@ Hard drive models
 | Samsung Flash Drive FIT 32GB    | 1        | 3.23%   |
 | Phison SATA SSD 64GB            | 1        | 3.23%   |
 | Phison SATA SSD 16GB            | 1        | 3.23%   |
-| OPENBSD SR RAID 1 304GB         | 1        | 3.23%   |
+| OPENBSD SR RAID 1 240GB         | 1        | 3.23%   |
 | LSI Logical Volume 997GB        | 1        | 3.23%   |
 | Kingston SUV500MS240G 240GB     | 1        | 3.23%   |
 | Kingston DataTraveler G3 8GB    | 1        | 3.23%   |

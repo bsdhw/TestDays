@@ -1741,7 +1741,7 @@ Memory module vendors
 | Micron Technology   | 5         | 12.82%  |
 | Unknown             | 4         | 10.26%  |
 | Kingston            | 3         | 7.69%   |
-| ELPIDA              | 2         | 5.13%   |
+| Elpida              | 2         | 5.13%   |
 | A-DATA Technology   | 2         | 5.13%   |
 | Magnum Tech         | 1         | 2.56%   |
 | Crucial             | 1         | 2.56%   |

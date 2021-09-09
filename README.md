@@ -19,3 +19,4 @@ Contents
 * [ OpenBSD 6.9 ](/Dist/OpenBSD_6.9)
 * [ OpenBSD 6.8 ](/Dist/OpenBSD_6.8)
 * [ OpenBSD 6.7 ](/Dist/OpenBSD_6.7)
+* [ GhostBSD 20.04.02 ](/Dist/GhostBSD_20.04.02)
