@@ -874,7 +874,7 @@ Storage controller models
 | Sandisk WD Blue SN550 NVMe SSD                                                   | 1         | 3.33%   |
 | Sandisk PC SN520 NVMe SSD                                                        | 1         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 3.33%   |
-| Samsung NVMe Controller                                                          | 1         | 3.33%   |
+| Samsung NVMe SSD Controller 980                                                  | 1         | 3.33%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 3.33%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 1         | 3.33%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 1         | 3.33%   |

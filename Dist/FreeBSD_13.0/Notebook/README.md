@@ -1142,7 +1142,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 3         | 3.57%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 3         | 3.57%   |
 | AMD FCH SATA Controller [AHCI mode]                                              | 3         | 3.57%   |
-| Samsung NVMe Controller                                                          | 2         | 2.38%   |
+| Samsung NVMe SSD Controller 980                                                  | 2         | 2.38%   |
 | Phison E12 NVMe Controller                                                       | 2         | 2.38%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 2         | 2.38%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 2         | 2.38%   |
