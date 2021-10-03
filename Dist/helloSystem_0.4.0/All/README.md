@@ -151,6 +151,7 @@ Test Cases
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| HP            | 81B4 01                     | Desktop     | [5b28c9bb75](https://bsd-hardware.info/?probe=5b28c9bb75) | Sep 20, 2021 |
 | Dell          | 0MGK50 A02                  | Desktop     | [2468e9d0ba](https://bsd-hardware.info/?probe=2468e9d0ba) | Aug 17, 2021 |
 | Samsung       | 3570R/370R/470R/450R/510... | Notebook    | [31d42f4469](https://bsd-hardware.info/?probe=31d42f4469) | Jul 05, 2021 |
 | MSI           | G41M-P25                    | Desktop     | [5cc75b4df0](https://bsd-hardware.info/?probe=5cc75b4df0) | Jun 25, 2021 |
@@ -983,7 +984,7 @@ Hard drive vendors
 | WDC                 | 46        | 58     | 16.61%  |
 | Samsung Electronics | 46        | 66     | 16.61%  |
 | Seagate             | 39        | 49     | 14.08%  |
-| Kingston            | 23        | 23     | 8.3%    |
+| Kingston            | 23        | 24     | 8.3%    |
 | Crucial             | 19        | 24     | 6.86%   |
 | SanDisk             | 18        | 19     | 6.5%    |
 | Toshiba             | 17        | 17     | 6.14%   |
@@ -1120,7 +1121,7 @@ Solid state drive vendors
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 30        | 37     | 21.28%  |
-| Kingston            | 20        | 20     | 14.18%  |
+| Kingston            | 20        | 21     | 14.18%  |
 | SanDisk             | 18        | 19     | 12.77%  |
 | Crucial             | 18        | 23     | 12.77%  |
 | WDC                 | 11        | 12     | 7.8%    |
@@ -1157,7 +1158,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 114       | 156    | 48.31%  |
+| SSD  | 114       | 157    | 48.31%  |
 | HDD  | 92        | 138    | 38.98%  |
 | NVMe | 30        | 38     | 12.71%  |
 
@@ -1171,7 +1172,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 172       | 294    | 85.15%  |
+| SATA | 172       | 295    | 85.15%  |
 | NVMe | 30        | 38     | 14.85%  |
 
 Drive Size
@@ -1184,7 +1185,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 149       | 210    | 70.62%  |
+| 0.01-0.5   | 149       | 211    | 70.62%  |
 | 0.51-1.0   | 46        | 64     | 21.8%   |
 | 1.01-2.0   | 11        | 14     | 5.21%   |
 | 3.01-4.0   | 2         | 2      | 0.95%   |
@@ -1365,7 +1366,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 157       | 270    | 75.12%  |
+| Works    | 157       | 271    | 75.12%  |
 | Malfunc  | 50        | 60     | 23.92%  |
 | Detected | 2         | 2      | 0.96%   |
 
@@ -2633,68 +2634,68 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Computers | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                | 4         | 1.6%    |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 3         | 1.2%    |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 1.2%    |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1333MT/s        | 3         | 1.2%    |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2         | 0.8%    |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.8%    |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.8%    |
-| SK Hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s       | 2         | 0.8%    |
-| SK Hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s         | 2         | 0.8%    |
-| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s       | 2         | 0.8%    |
-| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s       | 2         | 0.8%    |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.8%    |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.8%    |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s     | 2         | 0.8%    |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 2         | 0.8%    |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s        | 2         | 0.8%    |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 2         | 0.8%    |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s          | 2         | 0.8%    |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 2         | 0.8%    |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s        | 2         | 0.8%    |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 2         | 0.8%    |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                 | 2         | 0.8%    |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2         | 0.8%    |
-| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s       | 2         | 0.8%    |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s     | 2         | 0.8%    |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2         | 0.8%    |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                | 2         | 0.8%    |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2         | 0.8%    |
-| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s               | 2         | 0.8%    |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s          | 2         | 0.8%    |
-| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s            | 1         | 0.4%    |
-| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                    | 1         | 0.4%    |
-| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                    | 1         | 0.4%    |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR2                        | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM 1066MT/s                    | 1         | 0.4%    |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1         | 0.4%    |
-| Unknown RAM Module 4096MB DIMM DDR2                          | 1         | 0.4%    |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                 | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM DDR2                          | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 1         | 0.4%    |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1         | 0.4%    |
-| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s  | 1         | 0.4%    |
-| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s      | 1         | 0.4%    |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s             | 1         | 0.4%    |
-| Team RAM Elite-1600 8192MB DIMM DDR3 1600MT/s                | 1         | 0.4%    |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 1         | 0.4%    |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s        | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s     | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s     | 1         | 0.4%    |
-| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1         | 0.4%    |
-| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s              | 1         | 0.4%    |
-| SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s              | 1         | 0.4%    |
-| SK Hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s       | 1         | 0.4%    |
-| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s      | 1         | 0.4%    |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 4         | 1.6%    |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3         | 1.2%    |
+| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 3         | 1.2%    |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1333MT/s          | 3         | 1.2%    |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2         | 0.8%    |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 0.8%    |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 0.8%    |
+| SK Hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s         | 2         | 0.8%    |
+| SK Hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2         | 0.8%    |
+| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s         | 2         | 0.8%    |
+| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s         | 2         | 0.8%    |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 0.8%    |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 0.8%    |
+| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s       | 2         | 0.8%    |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s          | 2         | 0.8%    |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s          | 2         | 0.8%    |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s          | 2         | 0.8%    |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2         | 0.8%    |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                  | 2         | 0.8%    |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s          | 2         | 0.8%    |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 2         | 0.8%    |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2         | 0.8%    |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2         | 0.8%    |
+| Kingston RAM KHX1600C10D3/8G 8192MB DIMM DDR3 1600MT/s         | 2         | 0.8%    |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s       | 2         | 0.8%    |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2         | 0.8%    |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                  | 2         | 0.8%    |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2         | 0.8%    |
+| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s                 | 2         | 0.8%    |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s            | 2         | 0.8%    |
+| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s              | 1         | 0.4%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                      | 1         | 0.4%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                      | 1         | 0.4%    |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                  | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR2                          | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s                      | 1         | 0.4%    |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1         | 0.4%    |
+| Unknown RAM Module 4096MB DIMM DDR2                            | 1         | 0.4%    |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1         | 0.4%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1         | 0.4%    |
+| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s    | 1         | 0.4%    |
+| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s        | 1         | 0.4%    |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1         | 0.4%    |
+| Team RAM Elite-1600 8192MB DIMM DDR3 1600MT/s                  | 1         | 0.4%    |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s          | 1         | 0.4%    |
+| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s          | 1         | 0.4%    |
+| Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s       | 1         | 0.4%    |
+| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s       | 1         | 0.4%    |
+| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                | 1         | 0.4%    |
+| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1         | 0.4%    |
+| SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                | 1         | 0.4%    |
+| SK Hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s         | 1         | 0.4%    |
+| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s        | 1         | 0.4%    |
 
 Memory Kind
 -----------
@@ -2888,7 +2889,7 @@ Camera device models
 | Realtek Realtek USB2.0 PC Camera                           | 3         | 3.33%   |
 | Microdia Integrated_Webcam_HD                              | 3         | 3.33%   |
 | Lite-On Integrated Camera                                  | 3         | 3.33%   |
-| Suyin Laptop_Integrated_Webcam_HD                          | 2         | 2.22%   |
+| Suyin Integrated_Webcam_HD                                 | 2         | 2.22%   |
 | Realtek USB Camera                                         | 2         | 2.22%   |
 | Realtek Integrated_Webcam_HD                               | 2         | 2.22%   |
 | IMC Networks USB2.0 HD UVC WebCam                          | 2         | 2.22%   |

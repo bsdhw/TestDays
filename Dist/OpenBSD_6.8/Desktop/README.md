@@ -937,7 +937,7 @@ Hard drive models
 | Samsung SSD 860 EVO mSATA 500GB    | 2        | 1.16%   |
 | Samsung SSD 850 EVO M.2 250GB      | 2        | 1.16%   |
 | Samsung SSD 850 EVO 1TB            | 2        | 1.16%   |
-| NVMe Samsung SSD 970 1TB           | 2        | 1.16%   |
+| NVMe Samsung SSD 970 250GB         | 2        | 1.16%   |
 | Kingston SUV500MS240G 240GB        | 2        | 1.16%   |
 | Kingston SUV500MS120G 120GB        | 2        | 1.16%   |
 | Kingston SUV500240G 240GB          | 2        | 1.16%   |
@@ -1082,8 +1082,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 89       | 134    | 65.44%  |
-| 0.51-1.0   | 24       | 31     | 17.65%  |
+| 0.01-0.5   | 91       | 136    | 66.91%  |
+| 0.51-1.0   | 22       | 29     | 16.18%  |
 | 1.01-2.0   | 13       | 26     | 9.56%   |
 | 3.01-4.0   | 6        | 7      | 4.41%   |
 | 2.01-3.0   | 2        | 4      | 1.47%   |

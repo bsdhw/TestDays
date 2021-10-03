@@ -861,7 +861,7 @@ Hard drive models
 | Samsung SSD 850 EVO 500GB           | 2         | 1.8%    |
 | Samsung SSD 850 EVO 250GB           | 2         | 1.8%    |
 | PNY CS900 120GB SSD                 | 2         | 1.8%    |
-| NVMe Samsung SSD 970 1TB            | 2         | 1.8%    |
+| NVMe Samsung SSD 970 250GB          | 2         | 1.8%    |
 | NVMe SAMSUNG MZVLB256 256GB         | 2         | 1.8%    |
 | Crucial CT1000MX500SSD1 1TB         | 2         | 1.8%    |
 | Zheino CHN-mSATAQ3-120 120GB        | 1         | 0.9%    |
@@ -1001,11 +1001,11 @@ Size of hard drive
 
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 66        | 82     | 68.04%  |
-| 0.51-1.0        | 24        | 24     | 24.74%  |
-| 1.01-2.0        | 5         | 7      | 5.15%   |
-| More than 100.0 | 1         | 1      | 1.03%   |
-| 0               | 1         | 1      | 1.03%   |
+| 0.01-0.5        | 67        | 84     | 69.79%  |
+| 0.51-1.0        | 22        | 22     | 22.92%  |
+| 1.01-2.0        | 5         | 7      | 5.21%   |
+| More than 100.0 | 1         | 1      | 1.04%   |
+| 0               | 1         | 1      | 1.04%   |
 
 Space Total
 -----------

@@ -2386,7 +2386,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                               | 3         | 4%      |
 | Microdia Integrated_Webcam_HD                              | 3         | 4%      |
 | Lite-On Integrated Camera                                  | 3         | 4%      |
-| Suyin Laptop_Integrated_Webcam_HD                          | 2         | 2.67%   |
+| Suyin Integrated_Webcam_HD                                 | 2         | 2.67%   |
 | Realtek USB Camera                                         | 2         | 2.67%   |
 | Realtek Realtek USB2.0 PC Camera                           | 2         | 2.67%   |
 | Realtek Integrated_Webcam_HD                               | 2         | 2.67%   |
