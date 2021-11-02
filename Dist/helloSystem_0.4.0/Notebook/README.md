@@ -2188,7 +2188,7 @@ Memory module models
 | SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s          | 2         | 1.63%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.63%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.63%   |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s        | 2         | 1.63%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.63%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.63%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s           | 2         | 1.63%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s           | 2         | 1.63%   |
@@ -2231,7 +2231,7 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM DDR3 1333MT/s                  | 1         | 0.81%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
-| Samsung RAM M471B5673FH0-CH9 2048MB SODIMM DDR3 1333MT/s        | 1         | 0.81%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5273EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5273CH0-CF8 4096MB SODIMM DDR3 1067MT/s        | 1         | 0.81%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |

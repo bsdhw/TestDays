@@ -927,7 +927,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | Phison SATA SSD 16GB               | 10       | 5.81%   |
-| OPENBSD SR RAID 1 240GB            | 4        | 2.33%   |
+| OPENBSD SR RAID 1 1TB              | 4        | 2.33%   |
 | Dell PERC H710 282GB               | 4        | 2.33%   |
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |
@@ -1082,12 +1082,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 91       | 136    | 66.91%  |
-| 0.51-1.0   | 22       | 29     | 16.18%  |
-| 1.01-2.0   | 13       | 26     | 9.56%   |
-| 3.01-4.0   | 6        | 7      | 4.41%   |
-| 2.01-3.0   | 2        | 4      | 1.47%   |
-| 4.01-10.0  | 2        | 4      | 1.47%   |
+| 0.01-0.5   | 89       | 132    | 64.96%  |
+| 0.51-1.0   | 25       | 33     | 18.25%  |
+| 1.01-2.0   | 13       | 26     | 9.49%   |
+| 3.01-4.0   | 6        | 7      | 4.38%   |
+| 2.01-3.0   | 2        | 4      | 1.46%   |
+| 4.01-10.0  | 2        | 4      | 1.46%   |
 
 Space Total
 -----------
@@ -1978,7 +1978,7 @@ Controller models
 | Intel Ethernet Connection (2) I218-V                                          | 1        | 0.68%   |
 | Intel Centrino Wireless-N 2200                                                | 1        | 0.68%   |
 | Intel Centrino Advanced-N 6235                                                | 1        | 0.68%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 0.68%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1        | 0.68%   |
 | Intel 82576 Gigabit Network Connection                                        | 1        | 0.68%   |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                             | 1        | 0.68%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 0.68%   |
@@ -2099,7 +2099,7 @@ Ethernet models
 | Intel Ethernet Connection I219-LM                                             | 1        | 0.83%   |
 | Intel Ethernet Connection (7) I219-LM                                         | 1        | 0.83%   |
 | Intel Ethernet Connection (2) I218-V                                          | 1        | 0.83%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 0.83%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1        | 0.83%   |
 | Intel 82576 Gigabit Network Connection                                        | 1        | 0.83%   |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                             | 1        | 0.83%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 0.83%   |

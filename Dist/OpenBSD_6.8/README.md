@@ -1092,10 +1092,10 @@ Hard drive models
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
 | Phison SATA SSD 16GB                | 10        | 3.42%   |
-| OPENBSD SR RAID 1 240GB             | 5         | 1.71%   |
+| OPENBSD SR RAID 1 1TB               | 5         | 1.71%   |
 | NVMe Samsung SSD 970 250GB          | 5         | 1.71%   |
 | Dell PERC H710 282GB                | 4         | 1.37%   |
-| NVMe WDC PC SN730 SDB 1TB           | 3         | 1.03%   |
+| NVMe WDC PC SN730 SDB 256GB         | 3         | 1.03%   |
 | Kingston SUV500MS240G 240GB         | 3         | 1.03%   |
 | HGST HUS724020ALA640 2TB            | 3         | 1.03%   |
 | Crucial CT120BX500SSD1 120GB        | 3         | 1.03%   |
@@ -1260,10 +1260,10 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 164       | 226    | 68.05%  |
-| 0.51-1.0        | 45        | 52     | 18.67%  |
-| 1.01-2.0        | 20        | 35     | 8.3%    |
-| 3.01-4.0        | 6         | 7      | 2.49%   |
+| 0.01-0.5        | 164       | 225    | 67.77%  |
+| 0.51-1.0        | 49        | 57     | 20.25%  |
+| 1.01-2.0        | 17        | 31     | 7.02%   |
+| 3.01-4.0        | 6         | 7      | 2.48%   |
 | 2.01-3.0        | 2         | 4      | 0.83%   |
 | 4.01-10.0       | 2         | 4      | 0.83%   |
 | More than 100.0 | 1         | 1      | 0.41%   |
@@ -2452,7 +2452,7 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-LM                                         | 1         | 0.49%   |
 | Intel Ethernet Connection (2) I218-V                                          | 1         | 0.49%   |
 | Intel 82801CAM (ICH3) PRO/100 VM (KM) Ethernet Controller                     | 1         | 0.49%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1         | 0.49%   |
+| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1         | 0.49%   |
 | Intel 82576 Gigabit Network Connection                                        | 1         | 0.49%   |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                             | 1         | 0.49%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1         | 0.49%   |

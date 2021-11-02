@@ -2016,7 +2016,7 @@ Memory module vendors
 | Micron Technology   | 11        | 18.97%  |
 | Unknown             | 5         | 8.62%   |
 | Kingston            | 5         | 8.62%   |
-| Elpida              | 3         | 5.17%   |
+| ELPIDA              | 3         | 5.17%   |
 | Corsair             | 3         | 5.17%   |
 | G.Skill             | 2         | 3.45%   |
 | Crucial             | 2         | 3.45%   |
@@ -2051,7 +2051,7 @@ Memory module models
 | SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
 | SK Hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK Hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1066MT/s              | 1         | 1.64%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2059,7 +2059,7 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
@@ -2067,7 +2067,7 @@ Memory module models
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.64%   |
 | Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.64%   |
-| Micron RAM 8HTF12864AZ-800H1 1024MB DIMM DDR2 800MT/s         | 1         | 1.64%   |
+| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s            | 1         | 1.64%   |
 | Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 1.64%   |
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.64%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 1.64%   |

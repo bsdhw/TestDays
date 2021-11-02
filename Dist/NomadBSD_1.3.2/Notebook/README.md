@@ -1741,7 +1741,7 @@ Memory module vendors
 | Micron Technology   | 5         | 12.82%  |
 | Unknown             | 4         | 10.26%  |
 | Kingston            | 3         | 7.69%   |
-| Elpida              | 2         | 5.13%   |
+| ELPIDA              | 2         | 5.13%   |
 | A-DATA Technology   | 2         | 5.13%   |
 | Magnum Tech         | 1         | 2.56%   |
 | Crucial             | 1         | 2.56%   |
@@ -1770,14 +1770,14 @@ Memory module models
 | SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 2.38%   |
 | SK Hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK Hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1066MT/s              | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s      | 1         | 2.38%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |

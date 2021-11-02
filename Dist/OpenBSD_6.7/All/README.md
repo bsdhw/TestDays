@@ -755,7 +755,7 @@ Hard drive models
 | Phison SATA SSD 64GB             | 1         | 1.64%   |
 | Phison SATA SSD 16GB             | 1         | 1.64%   |
 | Phison SATA SSD 128GB            | 1         | 1.64%   |
-| OPENBSD SR RAID 1 240GB          | 1         | 1.64%   |
+| OPENBSD SR RAID 1 1TB            | 1         | 1.64%   |
 | NVMe WDC PC SN720 SDA 1TB        | 1         | 1.64%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 1.64%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |
@@ -857,10 +857,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 36        | 40     | 63.16%  |
-| 0.51-1.0   | 15        | 15     | 26.32%  |
-| 1.01-2.0   | 5         | 9      | 8.77%   |
-| 2.01-3.0   | 1         | 1      | 1.75%   |
+| 0.01-0.5   | 36        | 39     | 62.07%  |
+| 0.51-1.0   | 16        | 16     | 27.59%  |
+| 1.01-2.0   | 5         | 9      | 8.62%   |
+| 2.01-3.0   | 1         | 1      | 1.72%   |
 
 Space Total
 -----------

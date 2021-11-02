@@ -1478,7 +1478,7 @@ Memory module models
 | SK Hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s   | 1        | 6.25%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 6.25%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
-| Micron RAM 8HTF12864AZ-800H1 1024MB DIMM DDR2 800MT/s     | 1        | 6.25%   |
+| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 6.25%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s         | 1        | 6.25%   |
 | Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s    | 1        | 6.25%   |

@@ -149,6 +149,7 @@ Test Cases
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Google        | Treeya                      | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
 | ASUSTek       | X555LB                      | [e3443d9f27](https://bsd-hardware.info/?probe=e3443d9f27) | Oct 02, 2021 |
 | IBM           | ThinkPad H 1846AQG          | [5e5c7247ca](https://bsd-hardware.info/?probe=5e5c7247ca) | Oct 01, 2021 |
 | ASUSTek       | UX305FA                     | [decf219ff2](https://bsd-hardware.info/?probe=decf219ff2) | Sep 30, 2021 |
@@ -746,7 +747,7 @@ Hard drive models
 |----------------------------------|-----------|---------|
 | WDC WD1600BEVT-22ZCT0 160GB      | 3         | 5.36%   |
 | Samsung SSD 850 EVO 250GB        | 2         | 3.57%   |
-| NVMe WDC PC SN730 SDB 1TB        | 2         | 3.57%   |
+| NVMe WDC PC SN730 SDB 256GB      | 2         | 3.57%   |
 | NVMe Samsung SSD 960 500GB       | 2         | 3.57%   |
 | Zheino CHN-mSATAQ3-120 120GB     | 1         | 1.79%   |
 | WDC WDS500G2B0A-00SM50 500GB     | 1         | 1.79%   |
@@ -874,9 +875,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 43     | 75.47%  |
+| 0.01-0.5   | 42        | 46     | 79.25%  |
 | 0.51-1.0   | 8         | 8      | 15.09%  |
-| 1.01-2.0   | 4         | 5      | 7.55%   |
+| 1.01-2.0   | 2         | 2      | 3.77%   |
 | 4.01-10.0  | 1         | 1      | 1.89%   |
 
 Space Total
@@ -1952,19 +1953,19 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                    | Notebooks | Percent |
-|----------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 16.67%  |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s              | 1         | 8.33%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s              | 1         | 8.33%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 1         | 8.33%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1066MT/s         | 1         | 8.33%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s    | 1         | 8.33%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s    | 1         | 8.33%   |
-| Samsung RAM M471B5173BH0-CK0 4096MB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s   | 1         | 8.33%   |
-| Micron RAM 8JSF12864HZ-1G1F1 1GB SODIMM DDR3 800MT/s     | 1         | 8.33%   |
-| Elpida RAM Module 1GB SODIMM DDR2 533MT/s                | 1         | 8.33%   |
+| Model                                                  | Notebooks | Percent |
+|--------------------------------------------------------|-----------|---------|
+| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 16.67%  |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 8.33%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
+| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 8.33%   |
+| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 8.33%   |
+| Micron RAM 8JSF12864HZ-1G1F1 1GB SODIMM DDR3 800MT/s   | 1         | 8.33%   |
+| Elpida RAM Module 1GB SODIMM DDR2 533MT/s              | 1         | 8.33%   |
 
 Memory Kind
 -----------
@@ -2093,7 +2094,7 @@ Camera device models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                | 3         | 9.09%   |
+| Chicony Integrated Camera                | 4         | 12.12%  |
 | Lite-On Integrated Camera                | 2         | 6.06%   |
 | Chicony Ltd., VGA Webcam                 | 2         | 6.06%   |
 | Acer Integrated Camera                   | 2         | 6.06%   |
@@ -2113,7 +2114,6 @@ Camera device models
 | IMC Networks Lenovo EasyCamera           | 1         | 3.03%   |
 | IMC Networks Integrated Camera           | 1         | 3.03%   |
 | Chicony thinkpad t430s camera            | 1         | 3.03%   |
-| Chicony Ltd., Integrated Camera          | 1         | 3.03%   |
 | Chicony Lenovo Integrated Camera (0.3MP) | 1         | 3.03%   |
 | Chicony Integrated Camera [ThinkPad]     | 1         | 3.03%   |
 | Chicony HD Webcam                        | 1         | 3.03%   |
@@ -2204,14 +2204,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 36        | 46.15%  |
-| Graphics card            | 15        | 19.23%  |
-| Net/wireless             | 9         | 11.54%  |
-| Firewire controller      | 9         | 11.54%  |
-| Sound                    | 2         | 2.56%   |
-| Net/ethernet             | 2         | 2.56%   |
-| Modem                    | 2         | 2.56%   |
-| Storage/ide              | 1         | 1.28%   |
-| Storage/ata              | 1         | 1.28%   |
-| Network                  | 1         | 1.28%   |
+| Communication controller | 36        | 45.57%  |
+| Graphics card            | 16        | 20.25%  |
+| Net/wireless             | 9         | 11.39%  |
+| Firewire controller      | 9         | 11.39%  |
+| Sound                    | 2         | 2.53%   |
+| Net/ethernet             | 2         | 2.53%   |
+| Modem                    | 2         | 2.53%   |
+| Storage/ide              | 1         | 1.27%   |
+| Storage/ata              | 1         | 1.27%   |
+| Network                  | 1         | 1.27%   |
 
