@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=ghostbsd-20.04.02
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1300,7 +1300,7 @@ Graphics card models
 | Intel Haswell-ULT Integrated Graphics Controller                              | 9         | 12.68%  |
 | Intel 3rd Gen Core processor Graphics Controller                              | 9         | 12.68%  |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 7         | 9.86%   |
-| AMD Picasso                                                                   | 4         | 5.63%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 4         | 5.63%   |
 | Nvidia C79 [GeForce 9400M]                                                    | 3         | 4.23%   |
 | Intel Skylake GT2 [HD Graphics 520]                                           | 3         | 4.23%   |
 | Intel HD Graphics 620                                                         | 3         | 4.23%   |
@@ -1975,7 +1975,7 @@ Memory module vendors
 | Micron Technology   | 5         | 6.67%   |
 | Kingston            | 5         | 6.67%   |
 | Crucial             | 5         | 6.67%   |
-| ELPIDA              | 3         | 4%      |
+| Elpida              | 3         | 4%      |
 | G.Skill             | 2         | 2.67%   |
 | A-DATA Technology   | 2         | 2.67%   |
 | Team                | 1         | 1.33%   |

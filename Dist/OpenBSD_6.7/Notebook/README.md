@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=openbsd-6.7
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1052,7 +1052,7 @@ Graphics card models
 | AMD RV515/M54 [Mobility Radeon X1400]                                         | 1         | 3.33%   |
 | AMD RV200/M7 [Mobility Radeon 7500]                                           | 1         | 3.33%   |
 | AMD Robson CE [Radeon HD 6370M/7370M]                                         | 1         | 3.33%   |
-| AMD Picasso                                                                   | 1         | 3.33%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 1         | 3.33%   |
 
 GPU Combo
 ---------

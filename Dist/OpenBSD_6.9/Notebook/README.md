@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=openbsd-6.9
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -149,7 +149,7 @@ Test Cases
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
-| Google        | Treeya                      | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
+| Google        | Grunt                       | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
 | ASUSTek       | X555LB                      | [e3443d9f27](https://bsd-hardware.info/?probe=e3443d9f27) | Oct 02, 2021 |
 | IBM           | ThinkPad H 1846AQG          | [5e5c7247ca](https://bsd-hardware.info/?probe=5e5c7247ca) | Oct 01, 2021 |
 | ASUSTek       | UX305FA                     | [decf219ff2](https://bsd-hardware.info/?probe=decf219ff2) | Sep 30, 2021 |
@@ -1959,7 +1959,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 8.33%   |
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 8.33%   |
@@ -2018,14 +2018,13 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 1600  | 3         | 27.27%  |
-| 1067  | 2         | 18.18%  |
-| 3200  | 1         | 9.09%   |
-| 1334  | 1         | 9.09%   |
-| 1333  | 1         | 9.09%   |
-| 1066  | 1         | 9.09%   |
-| 800   | 1         | 9.09%   |
-| 533   | 1         | 9.09%   |
+| 1600  | 3         | 30%     |
+| 1067  | 2         | 20%     |
+| 3200  | 1         | 10%     |
+| 1334  | 1         | 10%     |
+| 1333  | 1         | 10%     |
+| 800   | 1         | 10%     |
+| 533   | 1         | 10%     |
 
 Printers & scanners
 -------------------
@@ -2096,7 +2095,6 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 4         | 12.12%  |
 | Lite-On Integrated Camera                | 2         | 6.06%   |
-| Chicony Ltd., VGA Webcam                 | 2         | 6.06%   |
 | Acer Integrated Camera                   | 2         | 6.06%   |
 | Acer EasyCamera                          | 2         | 6.06%   |
 | Syntek Lenovo EasyCamera                 | 1         | 3.03%   |
@@ -2113,7 +2111,9 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam        | 1         | 3.03%   |
 | IMC Networks Lenovo EasyCamera           | 1         | 3.03%   |
 | IMC Networks Integrated Camera           | 1         | 3.03%   |
+| Chicony VGA WebCam                       | 1         | 3.03%   |
 | Chicony thinkpad t430s camera            | 1         | 3.03%   |
+| Chicony Ltd., VGA Webcam                 | 1         | 3.03%   |
 | Chicony Lenovo Integrated Camera (0.3MP) | 1         | 3.03%   |
 | Chicony Integrated Camera [ThinkPad]     | 1         | 3.03%   |
 | Chicony HD Webcam                        | 1         | 3.03%   |

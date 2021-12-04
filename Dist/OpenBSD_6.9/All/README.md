@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/OpenBSD_6.9/Desktop/README.md) and [notebooks](/Dist/OpenBSD_6.9/Notebook/README.md).
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=openbsd-6.9
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -153,7 +153,7 @@ Test Cases
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | HP            | ProDesk 600 G1 SFF          | Desktop     | [7f19a8a566](https://bsd-hardware.info/?probe=7f19a8a566) | Oct 26, 2021 |
 | Supermicro    | X7SBL                       | Desktop     | [f5b4e8e7ab](https://bsd-hardware.info/?probe=f5b4e8e7ab) | Oct 23, 2021 |
-| Google        | Treeya                      | Notebook    | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
+| Google        | Grunt                       | Notebook    | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
 | Gigabyte      | B450M DS3H                  | Desktop     | [50e4e13ee0](https://bsd-hardware.info/?probe=50e4e13ee0) | Oct 07, 2021 |
 | MSI           | MS-7B53                     | Desktop     | [c7104d301e](https://bsd-hardware.info/?probe=c7104d301e) | Oct 05, 2021 |
 | ASUSTek       | X555LB                      | Notebook    | [e3443d9f27](https://bsd-hardware.info/?probe=e3443d9f27) | Oct 02, 2021 |
@@ -1245,7 +1245,7 @@ Storage controller models
 | Toshiba BG3 NVMe SSD Controller                                                         | 1         | 0.91%   |
 | SK Hynix BC511                                                                          | 1         | 0.91%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                        | 1         | 0.91%   |
-| Sandisk WD Black SN850                                                                  | 1         | 0.91%   |
+| Sandisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.91%   |
 | Phison E12 NVMe Controller                                                              | 1         | 0.91%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                              | 1         | 0.91%   |
 | Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                                 | 1         | 0.91%   |
@@ -1572,7 +1572,7 @@ Graphics card models
 | Intel GeminiLake [UHD Graphics 605]                                                | 1         | 0.98%   |
 | Intel GeminiLake [UHD Graphics 600]                                                | 1         | 0.98%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                               | 1         | 0.98%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                           | 1         | 0.98%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                          | 1         | 0.98%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                          | 1         | 0.98%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller | 1         | 0.98%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller          | 1         | 0.98%   |
@@ -2096,7 +2096,7 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-V                                 | 1         | 1.19%   |
 | Intel Ethernet Connection (14) I219-V                                | 1         | 1.19%   |
 | Intel Ethernet Connection (10) I219-V                                | 1         | 1.19%   |
-| Intel 82599 10 Gigabit Dual Port Network Connection                  | 1         | 1.19%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                 | 1         | 1.19%   |
 | Intel 82576 Gigabit Network Connection                               | 1         | 1.19%   |
 | Intel 82573L Gigabit Ethernet Controller                             | 1         | 1.19%   |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                    | 1         | 1.19%   |
@@ -2338,7 +2338,7 @@ Memory module models
 | Unknown RAM Module 256MB DIMM 333MT/s                  | 1         | 5.56%   |
 | Unknown RAM Module 1GB DIMM 400MT/s                    | 1         | 5.56%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5.56%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s  | 1         | 5.56%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 5.56%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
@@ -2404,17 +2404,16 @@ Memory module speed
 
 | Speed | Computers | Percent |
 |-------|-----------|---------|
-| 1600  | 3         | 20%     |
-| 1333  | 2         | 13.33%  |
-| 1067  | 2         | 13.33%  |
-| 3200  | 1         | 6.67%   |
-| 2400  | 1         | 6.67%   |
-| 1334  | 1         | 6.67%   |
-| 1066  | 1         | 6.67%   |
-| 800   | 1         | 6.67%   |
-| 533   | 1         | 6.67%   |
-| 400   | 1         | 6.67%   |
-| 333   | 1         | 6.67%   |
+| 1600  | 3         | 21.43%  |
+| 1333  | 2         | 14.29%  |
+| 1067  | 2         | 14.29%  |
+| 3200  | 1         | 7.14%   |
+| 2400  | 1         | 7.14%   |
+| 1334  | 1         | 7.14%   |
+| 800   | 1         | 7.14%   |
+| 533   | 1         | 7.14%   |
+| 400   | 1         | 7.14%   |
+| 333   | 1         | 7.14%   |
 
 Printers & scanners
 -------------------
@@ -2486,7 +2485,6 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 4         | 11.76%  |
 | Lite-On Integrated Camera                | 2         | 5.88%   |
-| Chicony Ltd., VGA Webcam                 | 2         | 5.88%   |
 | Acer Integrated Camera                   | 2         | 5.88%   |
 | Acer EasyCamera                          | 2         | 5.88%   |
 | Syntek Lenovo EasyCamera                 | 1         | 2.94%   |
@@ -2504,7 +2502,9 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam        | 1         | 2.94%   |
 | IMC Networks Lenovo EasyCamera           | 1         | 2.94%   |
 | IMC Networks Integrated Camera           | 1         | 2.94%   |
+| Chicony VGA WebCam                       | 1         | 2.94%   |
 | Chicony thinkpad t430s camera            | 1         | 2.94%   |
+| Chicony Ltd., VGA Webcam                 | 1         | 2.94%   |
 | Chicony Lenovo Integrated Camera (0.3MP) | 1         | 2.94%   |
 | Chicony Integrated Camera [ThinkPad]     | 1         | 2.94%   |
 | Chicony HD Webcam                        | 1         | 2.94%   |

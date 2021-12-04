@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/NomadBSD_1.4/Desktop/README.md) and [notebooks](/Dist/NomadBSD_1.4/Notebook/README.md).
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=nomadbsd-1.4
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1074,7 +1074,7 @@ Graphics card models
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 7.69%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 7.69%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 2         | 7.69%   |
-| AMD Picasso                                                                              | 2         | 7.69%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 2         | 7.69%   |
 | Nvidia GK106GLM [Quadro K2100M]                                                          | 1         | 3.85%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 1         | 3.85%   |
 | Nvidia G72M [GeForce Go 7400]                                                            | 1         | 3.85%   |
@@ -1083,7 +1083,7 @@ Graphics card models
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 1         | 3.85%   |
 | Intel HD Graphics 630                                                                    | 1         | 3.85%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 3.85%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 1         | 3.85%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1         | 3.85%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 3.85%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 1         | 3.85%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                                   | 1         | 3.85%   |

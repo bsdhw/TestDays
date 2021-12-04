@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=ghostbsd-20.04.02
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1296,7 +1296,7 @@ Graphics card models
 | Nvidia GP108 [GeForce GT 1030]                                            | 2        | 4.17%   |
 | Nvidia GP104 [GeForce GTX 1070 Ti]                                        | 2        | 4.17%   |
 | Nvidia GM107 [GeForce GTX 750 Ti]                                         | 2        | 4.17%   |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller          | 2        | 4.17%   |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                    | 2        | 4.17%   |
 | Nvidia TU116 [GeForce GTX 1660 Ti]                                        | 1        | 2.08%   |
 | Nvidia TU106 [GeForce RTX 2060 SUPER]                                     | 1        | 2.08%   |
 | Nvidia TU104 [GeForce RTX 2080]                                           | 1        | 2.08%   |
@@ -1311,7 +1311,7 @@ Graphics card models
 | Nvidia GA104 [GeForce RTX 3070]                                           | 1        | 2.08%   |
 | Intel HD Graphics 630                                                     | 1        | 2.08%   |
 | Intel HD Graphics 620                                                     | 1        | 2.08%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                  | 1        | 2.08%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                 | 1        | 2.08%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller | 1        | 2.08%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                     | 1        | 2.08%   |
 | AMD Wrestler [Radeon HD 7310]                                             | 1        | 2.08%   |

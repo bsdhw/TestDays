@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=nomadbsd-1.3.2
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1741,7 +1741,7 @@ Memory module vendors
 | Micron Technology   | 5         | 12.82%  |
 | Unknown             | 4         | 10.26%  |
 | Kingston            | 3         | 7.69%   |
-| ELPIDA              | 2         | 5.13%   |
+| Elpida              | 2         | 5.13%   |
 | A-DATA Technology   | 2         | 5.13%   |
 | Magnum Tech         | 1         | 2.56%   |
 | Crucial             | 1         | 2.56%   |
@@ -1770,7 +1770,7 @@ Memory module models
 | SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 2.38%   |
 | SK Hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK Hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
@@ -1864,7 +1864,7 @@ Memory module speed
 | 1867    | 1         | 2.94%   |
 | 1334    | 1         | 2.94%   |
 | 1333    | 1         | 2.94%   |
-| 1066    | 1         | 2.94%   |
+| 1067    | 1         | 2.94%   |
 | 800     | 1         | 2.94%   |
 | 667     | 1         | 2.94%   |
 

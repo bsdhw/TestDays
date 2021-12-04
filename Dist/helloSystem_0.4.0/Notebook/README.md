@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=hellosystem-0.4.0
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1449,7 +1449,7 @@ Graphics card models
 | Intel Skylake GT2 [HD Graphics 520]                                                | 6         | 5.5%    |
 | Intel Core Processor Integrated Graphics Controller                                | 6         | 5.5%    |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                        | 3         | 2.75%   |
-| AMD Picasso                                                                        | 3         | 2.75%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]               | 3         | 2.75%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                            | 2         | 1.83%   |
 | Nvidia GM108M [GeForce 840M]                                                       | 2         | 1.83%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]               | 2         | 1.83%   |
@@ -2233,7 +2233,7 @@ Memory module models
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5273EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
-| Samsung RAM M471B5273CH0-CF8 4096MB SODIMM DDR3 1067MT/s        | 1         | 0.81%   |
+| Samsung RAM M471B5273CH0-CF8 4GB SODIMM DDR3 1067MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471A5244BB0-CRC 4096MB SODIMM DDR4 2400MT/s        | 1         | 0.81%   |

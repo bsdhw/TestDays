@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/NomadBSD_1.3.2/Desktop/README.md) and [notebooks](/Dist/NomadBSD_1.3.2/Notebook/README.md).
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=nomadbsd-1.3.2
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1337,7 +1337,7 @@ Graphics card models
 | Intel HD Graphics                                                                        | 1         | 1.72%   |
 | Intel Crystal Well Integrated Graphics Controller                                        | 1         | 1.72%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 1.72%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 1         | 1.72%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1         | 1.72%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 1.72%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 1         | 1.72%   |
 | Intel 82Q35 Express Integrated Graphics Controller                                       | 1         | 1.72%   |
@@ -2016,7 +2016,7 @@ Memory module vendors
 | Micron Technology   | 11        | 18.97%  |
 | Unknown             | 5         | 8.62%   |
 | Kingston            | 5         | 8.62%   |
-| ELPIDA              | 3         | 5.17%   |
+| Elpida              | 3         | 5.17%   |
 | Corsair             | 3         | 5.17%   |
 | G.Skill             | 2         | 3.45%   |
 | Crucial             | 2         | 3.45%   |
@@ -2051,7 +2051,7 @@ Memory module models
 | SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
 | SK Hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK Hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1066MT/s         | 1         | 1.64%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2158,14 +2158,15 @@ Memory module speed
 | 2667    | 6         | 11.54%  |
 | 800     | 4         | 7.69%   |
 | 1333    | 3         | 5.77%   |
-| 1066    | 3         | 5.77%   |
 | Unknown | 3         | 5.77%   |
 | 3200    | 2         | 3.85%   |
+| 1066    | 2         | 3.85%   |
 | 667     | 2         | 3.85%   |
 | 3600    | 1         | 1.92%   |
 | 2133    | 1         | 1.92%   |
 | 1867    | 1         | 1.92%   |
 | 1334    | 1         | 1.92%   |
+| 1067    | 1         | 1.92%   |
 | 533     | 1         | 1.92%   |
 
 Printers & scanners

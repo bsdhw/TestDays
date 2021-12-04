@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=nomadbsd-1.3.2
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------

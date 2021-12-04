@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=nomadbsd-1.4
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1018,7 +1018,7 @@ Graphics card models
 | Intel HD Graphics 620                                                                    | 2         | 9.52%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 9.52%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 2         | 9.52%   |
-| AMD Picasso                                                                              | 2         | 9.52%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 2         | 9.52%   |
 | Nvidia GK106GLM [Quadro K2100M]                                                          | 1         | 4.76%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 1         | 4.76%   |
 | Nvidia G72M [GeForce Go 7400]                                                            | 1         | 4.76%   |

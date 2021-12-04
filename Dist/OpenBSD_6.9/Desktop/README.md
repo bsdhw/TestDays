@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=openbsd-6.9
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -986,7 +986,7 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1        | 2.13%   |
 | Toshiba BG3 NVMe SSD Controller                                                         | 1        | 2.13%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                        | 1        | 2.13%   |
-| Sandisk WD Black SN850                                                                  | 1        | 2.13%   |
+| Sandisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 2.13%   |
 | Sandisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 2.13%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 2.13%   |
 | Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                                 | 1        | 2.13%   |
@@ -1232,7 +1232,7 @@ Graphics card models
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1        | 3.23%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 1        | 3.23%   |
 | Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1        | 3.23%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                      | 1        | 3.23%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                     | 1        | 3.23%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1        | 3.23%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1        | 3.23%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller     | 1        | 3.23%   |
@@ -1505,7 +1505,7 @@ Controller models
 | Intel Ethernet Connection (14) I219-V                                         | 1        | 2.13%   |
 | Intel Centrino Wireless-N 2200                                                | 1        | 2.13%   |
 | Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 2.13%   |
-| Intel 82599 10 Gigabit Dual Port Network Connection                           | 1        | 2.13%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 2.13%   |
 | Intel 82576 Gigabit Network Connection                                        | 1        | 2.13%   |
 | Intel 82573L Gigabit Ethernet Controller                                      | 1        | 2.13%   |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                             | 1        | 2.13%   |
@@ -1585,7 +1585,7 @@ Ethernet models
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.7%    |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 2.7%    |
 | Intel Ethernet Connection (14) I219-V                             | 1        | 2.7%    |
-| Intel 82599 10 Gigabit Dual Port Network Connection               | 1        | 2.7%    |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 1        | 2.7%    |
 | Intel 82576 Gigabit Network Connection                            | 1        | 2.7%    |
 | Intel 82573L Gigabit Ethernet Controller                          | 1        | 2.7%    |
 | Intel 82573E Gigabit Ethernet Controller (Copper)                 | 1        | 2.7%    |

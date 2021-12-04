@@ -9,7 +9,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
 Please submit a probe of your configuration if it's not presented on the page or is rare.
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=openbsd-6.7
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -624,7 +624,7 @@ Hard drive models
 | Phison SATA SSD 64GB            | 1        | 3.23%   |
 | Phison SATA SSD 16GB            | 1        | 3.23%   |
 | OPENBSD SR RAID 1 1TB           | 1        | 3.23%   |
-| LSI Logical Volume 997GB        | 1        | 3.23%   |
+| LSI Logical Volume 5.7TB        | 1        | 3.23%   |
 | Kingston SUV500MS240G 240GB     | 1        | 3.23%   |
 | Kingston DataTraveler G3 8GB    | 1        | 3.23%   |
 | Hitachi HUA722020ALA331 2TB     | 1        | 3.23%   |
@@ -643,13 +643,12 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 7        | 10     | 41.18%  |
-| WDC                 | 3        | 3      | 17.65%  |
-| Hitachi             | 3        | 3      | 17.65%  |
-| Samsung Electronics | 1        | 1      | 5.88%   |
-| OPENBSD             | 1        | 1      | 5.88%   |
-| LSI                 | 1        | 1      | 5.88%   |
-| China               | 1        | 1      | 5.88%   |
+| Seagate             | 7        | 10     | 43.75%  |
+| WDC                 | 3        | 3      | 18.75%  |
+| Hitachi             | 3        | 3      | 18.75%  |
+| Samsung Electronics | 1        | 1      | 6.25%   |
+| OPENBSD             | 1        | 1      | 6.25%   |
+| China               | 1        | 1      | 6.25%   |
 
 SSD Vendor
 ----------
@@ -661,11 +660,12 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 4        | 5      | 33.33%  |
-| SanDisk             | 3        | 4      | 25%     |
-| Phison              | 2        | 2      | 16.67%  |
-| Kingston            | 2        | 2      | 16.67%  |
-| Crucial             | 1        | 1      | 8.33%   |
+| Samsung Electronics | 4        | 5      | 30.77%  |
+| SanDisk             | 3        | 4      | 23.08%  |
+| Phison              | 2        | 2      | 15.38%  |
+| Kingston            | 2        | 2      | 15.38%  |
+| LSI                 | 1        | 1      | 7.69%   |
+| Crucial             | 1        | 1      | 7.69%   |
 
 Drive Kind
 ----------
@@ -677,8 +677,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 13       | 20     | 52%     |
-| SSD  | 12       | 14     | 48%     |
+| SSD  | 13       | 15     | 50%     |
+| HDD  | 13       | 19     | 50%     |
 
 Drive Connector
 ---------------
@@ -703,9 +703,10 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 19       | 22     | 67.86%  |
-| 0.51-1.0   | 6        | 6      | 21.43%  |
+| 0.51-1.0   | 5        | 5      | 17.86%  |
 | 1.01-2.0   | 2        | 5      | 7.14%   |
 | 2.01-3.0   | 1        | 1      | 3.57%   |
+| 4.01-10.0  | 1        | 1      | 3.57%   |
 
 Space Total
 -----------

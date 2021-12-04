@@ -11,7 +11,7 @@ Please submit a probe of your configuration if it's not presented on the page or
 
 This is a report for all computer types. See also reports for [desktops](/Dist/GhostBSD_20.04.02/Desktop/README.md) and [notebooks](/Dist/GhostBSD_20.04.02/Notebook/README.md).
 
-Full-feature report is available here: https://bsd-hardware.info/?view=trends&rel=ghostbsd-20.04.02
+Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1565,7 +1565,7 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                              | 9         | 7.2%    |
 | Intel HD Graphics 620                                                         | 5         | 4%      |
 | Intel UHD Graphics 620                                                        | 4         | 3.2%    |
-| AMD Picasso                                                                   | 4         | 3.2%    |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 4         | 3.2%    |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                            | 3         | 2.4%    |
 | Nvidia GM206 [GeForce GTX 960]                                                | 3         | 2.4%    |
 | Nvidia GK107 [GeForce GTX 650]                                                | 3         | 2.4%    |
@@ -1577,7 +1577,7 @@ Graphics card models
 | Nvidia GP104 [GeForce GTX 1070 Ti]                                            | 2         | 1.6%    |
 | Nvidia GM107 [GeForce GTX 750 Ti]                                             | 2         | 1.6%    |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]          | 2         | 1.6%    |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 2         | 1.6%    |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                        | 2         | 1.6%    |
 | Intel HD Graphics 630                                                         | 2         | 1.6%    |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                      | 2         | 1.6%    |
 | Nvidia TU116 [GeForce GTX 1660 Ti]                                            | 1         | 0.8%    |
@@ -1609,8 +1609,8 @@ Graphics card models
 | Intel HD Graphics 530                                                         | 1         | 0.8%    |
 | Intel Core Processor Integrated Graphics Controller                           | 1         | 0.8%    |
 | Intel CometLake-U GT2 [UHD Graphics]                                          | 1         | 0.8%    |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                      | 1         | 0.8%    |
 | Intel CoffeeLake-U GT3e [Iris Plus Graphics 655]                              | 1         | 0.8%    |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                     | 1         | 0.8%    |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 0.8%    |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller     | 1         | 0.8%    |
 | Intel 4 Series Chipset Integrated Graphics Controller                         | 1         | 0.8%    |
@@ -2421,7 +2421,7 @@ Memory module vendors
 | Corsair             | 8         | 6.06%   |
 | Micron Technology   | 6         | 4.55%   |
 | A-DATA Technology   | 4         | 3.03%   |
-| ELPIDA              | 3         | 2.27%   |
+| Elpida              | 3         | 2.27%   |
 | Nanya Technology    | 2         | 1.52%   |
 | Team                | 1         | 0.76%   |
 | Smart               | 1         | 0.76%   |
