@@ -1655,7 +1655,7 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 31        | 40.79%  |
+| 15     | 32        | 42.11%  |
 | 13     | 28        | 36.84%  |
 | 12     | 5         | 6.58%   |
 | 14     | 4         | 5.26%   |
@@ -1664,7 +1664,6 @@ Diagonal size in inches
 | 31     | 1         | 1.32%   |
 | 22     | 1         | 1.32%   |
 | 21     | 1         | 1.32%   |
-| 10     | 1         | 1.32%   |
 
 Monitor Width
 -------------
@@ -1676,8 +1675,8 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 49        | 64.47%  |
-| 201-300     | 20        | 26.32%  |
+| 301-350     | 50        | 65.79%  |
+| 201-300     | 19        | 25%     |
 | 501-600     | 2         | 2.63%   |
 | 401-500     | 2         | 2.63%   |
 | 351-400     | 2         | 2.63%   |
@@ -1707,14 +1706,13 @@ Area in inch²
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
 | 81-90          | 26        | 34.21%  |
-| 91-100         | 21        | 27.63%  |
+| 91-100         | 22        | 28.95%  |
 | 101-110        | 10        | 13.16%  |
 | 71-80          | 6         | 7.89%   |
 | 61-70          | 5         | 6.58%   |
 | 201-250        | 3         | 3.95%   |
 | 121-130        | 2         | 2.63%   |
 | 351-500        | 1         | 1.32%   |
-| 41-50          | 1         | 1.32%   |
 | 251-300        | 1         | 1.32%   |
 
 Pixel Density
@@ -1728,9 +1726,9 @@ Pixels per inch
 | Density | Notebooks | Percent |
 |---------|-----------|---------|
 | 101-120 | 32        | 42.67%  |
-| 121-160 | 28        | 37.33%  |
+| 121-160 | 29        | 38.67%  |
 | 51-100  | 9         | 12%     |
-| 161-240 | 6         | 8%      |
+| 161-240 | 5         | 6.67%   |
 
 Multiple Monitors
 -----------------
@@ -2229,14 +2227,14 @@ Memory module models
 | Samsung RAM Module 4096MB SODIMM DDR3 1067MT/s                  | 1         | 0.81%   |
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1600MT/s                | 1         | 0.81%   |
 | Samsung RAM Module 2048MB SODIMM DDR3 1333MT/s                  | 1         | 0.81%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.81%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s                | 1         | 0.81%   |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5273EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5273CH0-CF8 4GB SODIMM DDR3 1067MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s           | 1         | 0.81%   |
-| Samsung RAM M471A5244BB0-CRC 4096MB SODIMM DDR4 2400MT/s        | 1         | 0.81%   |
+| Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2400MT/s           | 1         | 0.81%   |
 | Samsung RAM M471A5143DB0-CPB 4096MB SODIMM DDR4 2133MT/s        | 1         | 0.81%   |
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2400MT/s          | 1         | 0.81%   |
 
@@ -2296,20 +2294,20 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 34        | 32.69%  |
-| 1333    | 18        | 17.31%  |
-| 2400    | 15        | 14.42%  |
-| 2133    | 8         | 7.69%   |
-| 667     | 7         | 6.73%   |
-| 2667    | 5         | 4.81%   |
-| 1067    | 5         | 4.81%   |
-| 3200    | 4         | 3.85%   |
-| 1867    | 2         | 1.92%   |
-| 1334    | 2         | 1.92%   |
-| 1066    | 1         | 0.96%   |
-| 800     | 1         | 0.96%   |
-| 533     | 1         | 0.96%   |
-| Unknown | 1         | 0.96%   |
+| 1600    | 35        | 33.98%  |
+| 1333    | 16        | 15.53%  |
+| 2400    | 15        | 14.56%  |
+| 2133    | 8         | 7.77%   |
+| 667     | 7         | 6.8%    |
+| 2667    | 5         | 4.85%   |
+| 1067    | 5         | 4.85%   |
+| 3200    | 4         | 3.88%   |
+| 1867    | 2         | 1.94%   |
+| 1334    | 2         | 1.94%   |
+| 1066    | 1         | 0.97%   |
+| 800     | 1         | 0.97%   |
+| 533     | 1         | 0.97%   |
+| Unknown | 1         | 0.97%   |
 
 Printers & scanners
 -------------------

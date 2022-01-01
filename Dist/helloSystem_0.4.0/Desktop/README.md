@@ -2307,7 +2307,7 @@ Memory module models
 | Kingston RAM CBD24D4S7S8MA-8 8192MB SODIMM DDR4 2400MT/s          | 1        | 0.85%   |
 | Kingston RAM 99U5584-007.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
 | Kingston RAM 99U5474-037.A00LF 4096MB DIMM DDR3 1333MT/s          | 1        | 0.85%   |
-| Kingston RAM 99U5474-028.A00LF 4096MB DIMM DDR3 1333MT/s          | 1        | 0.85%   |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
 | Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s             | 1        | 0.85%   |
 | Kingston RAM 99U5471-050.A00LF 8192MB DIMM DDR3 1600MT/s          | 1        | 0.85%   |
 | Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |

@@ -1975,7 +1975,7 @@ Memory module vendors
 | Micron Technology   | 5         | 6.67%   |
 | Kingston            | 5         | 6.67%   |
 | Crucial             | 5         | 6.67%   |
-| Elpida              | 3         | 4%      |
+| ELPIDA              | 3         | 4%      |
 | G.Skill             | 2         | 2.67%   |
 | A-DATA Technology   | 2         | 2.67%   |
 | Team                | 1         | 1.33%   |

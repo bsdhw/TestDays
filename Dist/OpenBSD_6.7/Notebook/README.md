@@ -1548,7 +1548,7 @@ Memory module models
 | Unknown RAM Module 512MB SODIMM DDR                   | 1         | 20%     |
 | Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 20%     |
 | Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 20%     |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1333MT/s | 1         | 20%     |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s      | 1         | 20%     |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 20%     |
 
 Memory Kind
@@ -1601,9 +1601,10 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 1         | 33.33%  |
-| 1333    | 1         | 33.33%  |
-| Unknown | 1         | 33.33%  |
+| 1600    | 1         | 25%     |
+| 1334    | 1         | 25%     |
+| 1333    | 1         | 25%     |
+| Unknown | 1         | 25%     |
 
 Printers & scanners
 -------------------

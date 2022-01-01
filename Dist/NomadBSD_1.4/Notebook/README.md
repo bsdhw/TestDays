@@ -1535,7 +1535,7 @@ Memory module models
 | Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                          | 1         | 4.35%   |
 | SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                         | 1         | 4.35%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                       | 1         | 4.35%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1333MT/s                        | 1         | 4.35%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s                             | 1         | 4.35%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 1         | 4.35%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
@@ -1603,15 +1603,14 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 5         | 25%     |
-| 2667    | 4         | 20%     |
-| 2400    | 3         | 15%     |
-| 1334    | 2         | 10%     |
-| 667     | 2         | 10%     |
-| 1867    | 1         | 5%      |
-| 1866    | 1         | 5%      |
-| 1333    | 1         | 5%      |
-| Unknown | 1         | 5%      |
+| 1600    | 5         | 26.32%  |
+| 2667    | 4         | 21.05%  |
+| 2400    | 3         | 15.79%  |
+| 1334    | 2         | 10.53%  |
+| 667     | 2         | 10.53%  |
+| 1867    | 1         | 5.26%   |
+| 1866    | 1         | 5.26%   |
+| Unknown | 1         | 5.26%   |
 
 Printers & scanners
 -------------------

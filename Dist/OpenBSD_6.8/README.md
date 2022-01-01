@@ -2897,9 +2897,9 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam                             | 1         | 1.64%   |
 | IMC Networks USB2.0 HD UVC WebCam                             | 1         | 1.64%   |
 | IMC Networks EasyCamera                                       | 1         | 1.64%   |
+| Chicony USB2.0 0.3M UVC WebCam                                | 1         | 1.64%   |
 | Chicony ThinkPad T490 Webcam                                  | 1         | 1.64%   |
 | Chicony Ltd., USB2.0 HD UVC WebCam                            | 1         | 1.64%   |
-| Chicony Ltd., USB2.0 0.3M UVC WebCam                          | 1         | 1.64%   |
 | Chicony Ltd., HP 0.3MP Webcam                                 | 1         | 1.64%   |
 | Chicony Integrated Camera (1280x720@30)                       | 1         | 1.64%   |
 | Chicony 2.0M UVC Webcam / CNF7129                             | 1         | 1.64%   |

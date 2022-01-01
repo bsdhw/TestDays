@@ -2421,7 +2421,7 @@ Memory module vendors
 | Corsair             | 8         | 6.06%   |
 | Micron Technology   | 6         | 4.55%   |
 | A-DATA Technology   | 4         | 3.03%   |
-| Elpida              | 3         | 2.27%   |
+| ELPIDA              | 3         | 2.27%   |
 | Nanya Technology    | 2         | 1.52%   |
 | Team                | 1         | 0.76%   |
 | Smart               | 1         | 0.76%   |

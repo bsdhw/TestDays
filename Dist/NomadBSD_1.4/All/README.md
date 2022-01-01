@@ -1637,7 +1637,7 @@ Memory module models
 | SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM 192MT/s                               | 1         | 3.23%   |
 | SK Hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s                              | 1         | 3.23%   |
 | SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                       | 1         | 3.23%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1333MT/s                        | 1         | 3.23%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s                             | 1         | 3.23%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 1         | 3.23%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 3.23%   |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 3.23%   |
@@ -1712,19 +1712,18 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 2667    | 5         | 18.52%  |
-| 1600    | 5         | 18.52%  |
-| 2400    | 4         | 14.81%  |
-| 1334    | 2         | 7.41%   |
-| 800     | 2         | 7.41%   |
-| 667     | 2         | 7.41%   |
-| 3200    | 1         | 3.7%    |
-| 1867    | 1         | 3.7%    |
-| 1866    | 1         | 3.7%    |
-| 1333    | 1         | 3.7%    |
-| 1066    | 1         | 3.7%    |
-| 192     | 1         | 3.7%    |
-| Unknown | 1         | 3.7%    |
+| 2667    | 5         | 19.23%  |
+| 1600    | 5         | 19.23%  |
+| 2400    | 4         | 15.38%  |
+| 1334    | 2         | 7.69%   |
+| 800     | 2         | 7.69%   |
+| 667     | 2         | 7.69%   |
+| 3200    | 1         | 3.85%   |
+| 1867    | 1         | 3.85%   |
+| 1866    | 1         | 3.85%   |
+| 1066    | 1         | 3.85%   |
+| 192     | 1         | 3.85%   |
+| Unknown | 1         | 3.85%   |
 
 Printers & scanners
 -------------------

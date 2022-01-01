@@ -1890,7 +1890,7 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 11.11%  |
 | Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 11.11%  |
 | Unknown RAM Module 1024MB DIMM DDR                    | 1         | 11.11%  |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1333MT/s | 1         | 11.11%  |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s      | 1         | 11.11%  |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 11.11%  |
 | Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 11.11%  |
@@ -1948,10 +1948,11 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| Unknown | 3         | 50%     |
-| 1600    | 1         | 16.67%  |
-| 1333    | 1         | 16.67%  |
-| 800     | 1         | 16.67%  |
+| Unknown | 3         | 42.86%  |
+| 1600    | 1         | 14.29%  |
+| 1334    | 1         | 14.29%  |
+| 1333    | 1         | 14.29%  |
+| 800     | 1         | 14.29%  |
 
 Printers & scanners
 -------------------
