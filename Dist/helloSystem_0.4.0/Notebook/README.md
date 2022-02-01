@@ -549,21 +549,20 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 17        | 18.68%  |
-| 2013 | 14        | 15.38%  |
-| 2019 | 11        | 12.09%  |
-| 2009 | 8         | 8.79%   |
-| 2017 | 7         | 7.69%   |
-| 2018 | 6         | 6.59%   |
-| 2016 | 6         | 6.59%   |
-| 2015 | 4         | 4.4%    |
+| 2013 | 17        | 18.68%  |
+| 2009 | 10        | 10.99%  |
+| 2020 | 8         | 8.79%   |
+| 2018 | 8         | 8.79%   |
+| 2017 | 8         | 8.79%   |
+| 2016 | 8         | 8.79%   |
+| 2019 | 7         | 7.69%   |
+| 2015 | 5         | 5.49%   |
+| 2014 | 5         | 5.49%   |
+| 2010 | 5         | 5.49%   |
 | 2012 | 4         | 4.4%    |
-| 2010 | 4         | 4.4%    |
-| 2014 | 3         | 3.3%    |
 | 2011 | 2         | 2.2%    |
 | 2008 | 2         | 2.2%    |
 | 2007 | 2         | 2.2%    |
-| 2021 | 1         | 1.1%    |
 
 Form Factor
 -----------
@@ -630,9 +629,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 74        | 81.32%  |
-| 2      | 13        | 14.29%  |
+| 1      | 72        | 79.12%  |
+| 2      | 14        | 15.38%  |
 | 0      | 4         | 4.4%    |
+| 3      | 1         | 1.1%    |
 
 Has CD-ROM
 ----------
@@ -1573,7 +1573,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch     | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch     | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch     | 1         | 1.32%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 240x130mm 10.7-inch    | 1         | 1.32%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch    | 1         | 1.32%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch                  | 1         | 1.32%   |
 | PANDA LM156LF1L03 NCP001C 1920x1080 340x190mm 15.3-inch                  | 1         | 1.32%   |
 | LG Display LCD Monitor LGDCF01 1366x768 340x190mm 15.3-inch              | 1         | 1.32%   |
@@ -2179,7 +2179,7 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                   | 4         | 3.25%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 3         | 2.44%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1333MT/s           | 3         | 2.44%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 3         | 2.44%   |
 | SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.63%   |
 | SK Hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s          | 2         | 1.63%   |
 | SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s          | 2         | 1.63%   |
@@ -2295,15 +2295,15 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 35        | 33.98%  |
-| 1333    | 16        | 15.53%  |
 | 2400    | 15        | 14.56%  |
+| 1333    | 13        | 12.62%  |
 | 2133    | 8         | 7.77%   |
 | 667     | 7         | 6.8%    |
 | 2667    | 5         | 4.85%   |
+| 1334    | 5         | 4.85%   |
 | 1067    | 5         | 4.85%   |
 | 3200    | 4         | 3.88%   |
 | 1867    | 2         | 1.94%   |
-| 1334    | 2         | 1.94%   |
 | 1066    | 1         | 0.97%   |
 | 800     | 1         | 0.97%   |
 | 533     | 1         | 0.97%   |

@@ -384,19 +384,20 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2020    | 4        | 15.38%  |
+| 2018    | 5        | 19.23%  |
 | 2017    | 3        | 11.54%  |
 | Unknown | 3        | 11.54%  |
-| 2019    | 2        | 7.69%   |
 | 2014    | 2        | 7.69%   |
 | 2012    | 2        | 7.69%   |
 | 2011    | 2        | 7.69%   |
 | 2010    | 2        | 7.69%   |
-| 2005    | 2        | 7.69%   |
-| 2018    | 1        | 3.85%   |
+| 2020    | 1        | 3.85%   |
+| 2016    | 1        | 3.85%   |
 | 2015    | 1        | 3.85%   |
 | 2013    | 1        | 3.85%   |
 | 2009    | 1        | 3.85%   |
+| 2005    | 1        | 3.85%   |
+| 2004    | 1        | 3.85%   |
 
 Form Factor
 -----------
@@ -1062,7 +1063,7 @@ Graphics card models
 | Intel 82Q963/Q965 Integrated Graphics Controller                            | 1        | 6.67%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                      | 1        | 6.67%   |
 | AMD Wrestler [Radeon HD 6310]                                               | 1        | 6.67%   |
-| AMD Oland PRO [Radeon R7 240/340]                                           | 1        | 6.67%   |
+| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 1        | 6.67%   |
 
 GPU Combo
 ---------

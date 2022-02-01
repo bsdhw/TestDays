@@ -461,22 +461,22 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2020    | 9         | 18%     |
-| 2019    | 8         | 16%     |
-| 2017    | 4         | 8%      |
-| 2011    | 4         | 8%      |
+| 2011    | 6         | 12%     |
+| 2018    | 5         | 10%     |
+| 2017    | 5         | 10%     |
+| 2020    | 4         | 8%      |
+| 2019    | 4         | 8%      |
+| 2015    | 4         | 8%      |
+| 2012    | 4         | 8%      |
+| 2006    | 4         | 8%      |
 | Unknown | 4         | 8%      |
-| 2012    | 3         | 6%      |
-| 2018    | 2         | 4%      |
-| 2016    | 2         | 4%      |
-| 2015    | 2         | 4%      |
-| 2014    | 2         | 4%      |
+| 2014    | 3         | 6%      |
 | 2010    | 2         | 4%      |
-| 2007    | 2         | 4%      |
-| 2006    | 2         | 4%      |
-| 2005    | 2         | 4%      |
+| 2016    | 1         | 2%      |
 | 2013    | 1         | 2%      |
 | 2009    | 1         | 2%      |
+| 2005    | 1         | 2%      |
+| 2004    | 1         | 2%      |
 
 Form Factor
 -----------
@@ -991,14 +991,14 @@ Storage controller vendors
 
 | Vendor              | Computers | Percent |
 |---------------------|-----------|---------|
-| Intel               | 30        | 58.82%  |
-| AMD                 | 10        | 19.61%  |
-| Samsung Electronics | 4         | 7.84%   |
-| Nvidia              | 2         | 3.92%   |
-| ASMedia Technology  | 2         | 3.92%   |
-| Sandisk             | 1         | 1.96%   |
-| Lenovo              | 1         | 1.96%   |
-| Broadcom / LSI      | 1         | 1.96%   |
+| Intel               | 31        | 59.62%  |
+| AMD                 | 10        | 19.23%  |
+| Samsung Electronics | 4         | 7.69%   |
+| Nvidia              | 2         | 3.85%   |
+| ASMedia Technology  | 2         | 3.85%   |
+| Sandisk             | 1         | 1.92%   |
+| Lenovo              | 1         | 1.92%   |
+| Broadcom / LSI      | 1         | 1.92%   |
 
 Storage Model
 -------------
@@ -1010,41 +1010,41 @@ Storage controller models
 
 | Model                                                                          | Computers | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 4         | 6.78%   |
-| AMD FCH SATA Controller [IDE mode]                                             | 4         | 6.78%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 4         | 6.78%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 5.08%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 5.08%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 3         | 5.08%   |
-| Nvidia MCP61 SATA Controller                                                   | 2         | 3.39%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 2         | 3.39%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                 | 2         | 3.39%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 3.39%   |
-| Intel 82801EB/ER (ICH5/ICH5R) IDE Controller                                   | 2         | 3.39%   |
-| Intel 82801EB (ICH5) SATA Controller                                           | 2         | 3.39%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 3.39%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 3.39%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 2         | 3.39%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.69%   |
-| Samsung SM951 AHCI                                                             | 1         | 1.69%   |
-| Lenovo unknown                                                                 | 1         | 1.69%   |
-| Intel SSD 660P Series                                                          | 1         | 1.69%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 1         | 1.69%   |
-| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 1         | 1.69%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 1.69%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                     | 1         | 1.69%   |
-| Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                     | 1         | 1.69%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]           | 1         | 1.69%   |
-| Intel 82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]            | 1         | 1.69%   |
-| Intel 82801H (ICH8 Family) 4 port SATA Controller [IDE mode]                   | 1         | 1.69%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                         | 1         | 1.69%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 1.69%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 1.69%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 1         | 1.69%   |
-| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 1         | 1.69%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1         | 1.69%   |
-| AMD FCH IDE Controller                                                         | 1         | 1.69%   |
-| AMD CS5536 [Geode companion] IDE                                               | 1         | 1.69%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 4         | 6.67%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 4         | 6.67%   |
+| AMD FCH SATA Controller [IDE mode]                                             | 4         | 6.67%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 4         | 6.67%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 5%      |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 5%      |
+| Nvidia MCP61 SATA Controller                                                   | 2         | 3.33%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 2         | 3.33%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                 | 2         | 3.33%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 3.33%   |
+| Intel 82801EB/ER (ICH5/ICH5R) IDE Controller                                   | 2         | 3.33%   |
+| Intel 82801EB (ICH5) SATA Controller                                           | 2         | 3.33%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 3.33%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 3.33%   |
+| ASMedia ASM1062 Serial ATA Controller                                          | 2         | 3.33%   |
+| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.67%   |
+| Samsung SM951 AHCI                                                             | 1         | 1.67%   |
+| Lenovo unknown                                                                 | 1         | 1.67%   |
+| Intel SSD 660P Series                                                          | 1         | 1.67%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 1         | 1.67%   |
+| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 1         | 1.67%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 1         | 1.67%   |
+| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                     | 1         | 1.67%   |
+| Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                     | 1         | 1.67%   |
+| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]           | 1         | 1.67%   |
+| Intel 82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]            | 1         | 1.67%   |
+| Intel 82801H (ICH8 Family) 4 port SATA Controller [IDE mode]                   | 1         | 1.67%   |
+| Intel 82801FBM (ICH6M) SATA Controller                                         | 1         | 1.67%   |
+| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 1.67%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 1         | 1.67%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 1         | 1.67%   |
+| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 1         | 1.67%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1         | 1.67%   |
+| AMD FCH IDE Controller                                                         | 1         | 1.67%   |
+| AMD CS5536 [Geode companion] IDE                                               | 1         | 1.67%   |
 
 Storage Kind
 ------------
@@ -1056,11 +1056,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 31        | 57.41%  |
-| IDE  | 15        | 27.78%  |
-| NVMe | 6         | 11.11%  |
-| RAID | 1         | 1.85%   |
-| SAS  | 1         | 1.85%   |
+| SATA | 32        | 58.18%  |
+| IDE  | 15        | 27.27%  |
+| NVMe | 6         | 10.91%  |
+| RAID | 1         | 1.82%   |
+| SAS  | 1         | 1.82%   |
 
 Processor
 ---------
@@ -1294,7 +1294,7 @@ Graphics card models
 | AMD RV200/M7 [Mobility Radeon 7500]                                           | 1         | 2.17%   |
 | AMD Robson CE [Radeon HD 6370M/7370M]                                         | 1         | 2.17%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 1         | 2.17%   |
-| AMD Oland PRO [Radeon R7 240/340]                                             | 1         | 2.17%   |
+| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                | 1         | 2.17%   |
 
 GPU Combo
 ---------
@@ -1890,7 +1890,7 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 11.11%  |
 | Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 11.11%  |
 | Unknown RAM Module 1024MB DIMM DDR                    | 1         | 11.11%  |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s      | 1         | 11.11%  |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 11.11%  |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 11.11%  |
 | Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 11.11%  |

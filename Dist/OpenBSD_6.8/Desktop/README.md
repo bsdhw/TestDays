@@ -595,24 +595,24 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2020    | 19       | 17.43%  |
-| 2019    | 19       | 17.43%  |
-| Unknown | 10       | 9.17%   |
-| 2018    | 9        | 8.26%   |
-| 2017    | 9        | 8.26%   |
+| 2016    | 17       | 15.6%   |
+| 2018    | 15       | 13.76%  |
+| 2019    | 14       | 12.84%  |
+| 2014    | 8        | 7.34%   |
+| Unknown | 8        | 7.34%   |
+| 2020    | 7        | 6.42%   |
 | 2013    | 7        | 6.42%   |
+| 2017    | 6        | 5.5%    |
 | 2012    | 6        | 5.5%    |
 | 2011    | 5        | 4.59%   |
-| 2016    | 4        | 3.67%   |
-| 2014    | 4        | 3.67%   |
 | 2008    | 4        | 3.67%   |
 | 2015    | 3        | 2.75%   |
 | 2007    | 3        | 2.75%   |
 | 2010    | 2        | 1.83%   |
-| 2005    | 2        | 1.83%   |
-| 2021    | 1        | 0.92%   |
 | 2009    | 1        | 0.92%   |
 | 2006    | 1        | 0.92%   |
+| 2005    | 1        | 0.92%   |
+| 2004    | 1        | 0.92%   |
 
 Form Factor
 -----------
@@ -692,8 +692,8 @@ Number of drives on board
 | Drives | Desktops | Percent |
 |--------|----------|---------|
 | 1      | 63       | 56.25%  |
-| 2      | 25       | 22.32%  |
-| 3      | 13       | 11.61%  |
+| 2      | 26       | 23.21%  |
+| 3      | 12       | 10.71%  |
 | 4      | 5        | 4.46%   |
 | 10     | 2        | 1.79%   |
 | 12     | 1        | 0.89%   |
@@ -1641,7 +1641,7 @@ Graphics card models
 | AMD Rage Mobility AGP 2x Series                                                          | 1        | 1.2%    |
 | AMD Rage 3 [Rage XL PCI]                                                                 | 1        | 1.2%    |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]                    | 1        | 1.2%    |
-| AMD Oland PRO [Radeon R7 240/340]                                                        | 1        | 1.2%    |
+| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                           | 1        | 1.2%    |
 | AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                                         | 1        | 1.2%    |
 | AMD Caicos PRO [Radeon HD 7450]                                                          | 1        | 1.2%    |
 | AMD Barts XT [Radeon HD 6870]                                                            | 1        | 1.2%    |
@@ -2317,7 +2317,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 266MT/s             | 1        | 9.09%   |
 | Unknown RAM Module 1024MB DIMM DDR                      | 1        | 9.09%   |
 | Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 9.09%   |
-| Transcend RAM TS1GSK64W6H 8192MB DIMM DDR3 1600MT/s     | 1        | 9.09%   |
+| Transcend RAM TS1GSK64W6H 8GB DIMM DDR3 1600MT/s        | 1        | 9.09%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s | 1        | 9.09%   |
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s     | 1        | 9.09%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1        | 9.09%   |

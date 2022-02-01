@@ -374,12 +374,12 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2019 | 5         | 27.78%  |
+| 2019 | 4         | 22.22%  |
 | 2010 | 3         | 16.67%  |
 | 2020 | 2         | 11.11%  |
 | 2017 | 2         | 11.11%  |
+| 2015 | 2         | 11.11%  |
 | 2016 | 1         | 5.56%   |
-| 2015 | 1         | 5.56%   |
 | 2014 | 1         | 5.56%   |
 | 2013 | 1         | 5.56%   |
 | 2011 | 1         | 5.56%   |
@@ -1525,29 +1525,29 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                                        | Notebooks | Percent |
-|------------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                        | 2         | 8.7%    |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                        | 2         | 8.7%    |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                   | 1         | 4.35%   |
-| Unknown RAM Module 2GB SODIMM DDR2                                           | 1         | 4.35%   |
-| Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                   | 1         | 4.35%   |
-| Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                          | 1         | 4.35%   |
-| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                         | 1         | 4.35%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                       | 1         | 4.35%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM 1334MT/s                             | 1         | 4.35%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                        | 1         | 4.35%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
-| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
-| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s                       | 1         | 4.35%   |
-| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s                         | 1         | 4.35%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                         | 1         | 4.35%   |
-| Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
-| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                        | 1         | 4.35%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                        | 1         | 4.35%   |
-| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                   | 1         | 4.35%   |
-| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                      | 1         | 4.35%   |
-| 48spaces RAM 012345678901234567890123456789012345 2048MB SODIMM DDR2 667MT/s | 1         | 4.35%   |
+| Model                                                                     | Notebooks | Percent |
+|---------------------------------------------------------------------------|-----------|---------|
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
+| Unknown RAM Module 2GB SODIMM DDR2                                        | 1         | 4.35%   |
+| Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
+| Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                       | 1         | 4.35%   |
+| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                      | 1         | 4.35%   |
+| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 1         | 4.35%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 4.35%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 4.35%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s                    | 1         | 4.35%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s                      | 1         | 4.35%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 4.35%   |
+| Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.35%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
+| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.35%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.35%   |
 
 Memory Kind
 -----------

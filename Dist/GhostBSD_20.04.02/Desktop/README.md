@@ -458,17 +458,17 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 9        | 20%     |
-| 2020 | 7        | 15.56%  |
-| 2019 | 7        | 15.56%  |
-| 2012 | 6        | 13.33%  |
+| 2018 | 10       | 22.22%  |
+| 2020 | 6        | 13.33%  |
+| 2019 | 6        | 13.33%  |
+| 2012 | 5        | 11.11%  |
+| 2014 | 3        | 6.67%   |
 | 2013 | 3        | 6.67%   |
-| 2021 | 2        | 4.44%   |
+| 2008 | 3        | 6.67%   |
 | 2017 | 2        | 4.44%   |
+| 2016 | 2        | 4.44%   |
 | 2015 | 2        | 4.44%   |
-| 2014 | 2        | 4.44%   |
-| 2008 | 2        | 4.44%   |
-| 2016 | 1        | 2.22%   |
+| 2011 | 1        | 2.22%   |
 | 2010 | 1        | 2.22%   |
 | 2009 | 1        | 2.22%   |
 
@@ -541,10 +541,9 @@ Number of drives on board
 | 2      | 17       | 36.96%  |
 | 1      | 16       | 34.78%  |
 | 3      | 4        | 8.7%    |
+| 6      | 3        | 6.52%   |
 | 5      | 3        | 6.52%   |
 | 4      | 3        | 6.52%   |
-| 6      | 2        | 4.35%   |
-| 7      | 1        | 2.17%   |
 
 Has CD-ROM
 ----------
@@ -1016,20 +1015,20 @@ Storage controller vendors
 
 | Vendor                        | Desktops | Percent |
 |-------------------------------|----------|---------|
-| Intel                         | 22       | 37.29%  |
-| AMD                           | 22       | 37.29%  |
-| Samsung Electronics           | 4        | 6.78%   |
-| Silicon Motion                | 1        | 1.69%   |
-| Sandisk                       | 1        | 1.69%   |
-| Phison Electronics            | 1        | 1.69%   |
-| Nvidia                        | 1        | 1.69%   |
-| Micron/Crucial Technology     | 1        | 1.69%   |
-| Marvell Technology Group      | 1        | 1.69%   |
-| Kingston Technology Company   | 1        | 1.69%   |
-| Integrated Technology Express | 1        | 1.69%   |
-| HighPoint Technologies        | 1        | 1.69%   |
-| ASMedia Technology            | 1        | 1.69%   |
-| Adaptec                       | 1        | 1.69%   |
+| AMD                           | 23       | 37.1%   |
+| Intel                         | 22       | 35.48%  |
+| Samsung Electronics           | 4        | 6.45%   |
+| Sandisk                       | 2        | 3.23%   |
+| ASMedia Technology            | 2        | 3.23%   |
+| Silicon Motion                | 1        | 1.61%   |
+| Phison Electronics            | 1        | 1.61%   |
+| Nvidia                        | 1        | 1.61%   |
+| Micron/Crucial Technology     | 1        | 1.61%   |
+| Marvell Technology Group      | 1        | 1.61%   |
+| Kingston Technology Company   | 1        | 1.61%   |
+| Integrated Technology Express | 1        | 1.61%   |
+| HighPoint Technologies        | 1        | 1.61%   |
+| Adaptec                       | 1        | 1.61%   |
 
 Storage Model
 -------------
@@ -1041,42 +1040,43 @@ Storage controller models
 
 | Model                                                                                   | Desktops | Percent |
 |-----------------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                                     | 18       | 24%     |
-| AMD 400 Series Chipset SATA Controller                                                  | 6        | 8%      |
-| Intel SATA Controller [RAID mode]                                                       | 5        | 6.67%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 3        | 4%      |
-| AMD 300 Series Chipset SATA Controller                                                  | 3        | 4%      |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2        | 2.67%   |
-| Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 2.67%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 4 port SATA Controller [IDE mode]                     | 2        | 2.67%   |
-| Intel 82801I (ICH9 Family) 2 port SATA Controller [IDE mode]                            | 2        | 2.67%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 2        | 2.67%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 2        | 2.67%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 2.67%   |
-| AMD FCH SATA Controller [IDE mode]                                                      | 2        | 2.67%   |
-| AMD FCH SATA Controller D                                                               | 2        | 2.67%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1        | 1.33%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.33%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.33%   |
-| Phison E12 NVMe Controller                                                              | 1        | 1.33%   |
-| Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.33%   |
-| Micron/Crucial NVMe Controller                                                          | 1        | 1.33%   |
-| Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.33%   |
-| Kingston Company A2000 NVMe SSD                                                         | 1        | 1.33%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.33%   |
-| Intel SSD 660P Series                                                                   | 1        | 1.33%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.33%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 1.33%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 1        | 1.33%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 1        | 1.33%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.33%   |
-| Integrated Express IT8213 IDE Controller                                                | 1        | 1.33%   |
-| HighPoint RocketRAID 230x 4 Port SATA-II Controller                                     | 1        | 1.33%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 1        | 1.33%   |
-| AMD X370 Series Chipset SATA Controller                                                 | 1        | 1.33%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1        | 1.33%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 1        | 1.33%   |
-| Adaptec AIC-7850T/7856T [AVA-2902/4/6 / AHA-2910]                                       | 1        | 1.33%   |
+| AMD FCH SATA Controller [AHCI mode]                                                     | 19       | 24.36%  |
+| AMD 400 Series Chipset SATA Controller                                                  | 6        | 7.69%   |
+| Intel SATA Controller [RAID mode]                                                       | 5        | 6.41%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 3        | 3.85%   |
+| AMD 300 Series Chipset SATA Controller                                                  | 3        | 3.85%   |
+| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2        | 2.56%   |
+| Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 2.56%   |
+| Intel 82801IR/IO/IH (ICH9R/DO/DH) 4 port SATA Controller [IDE mode]                     | 2        | 2.56%   |
+| Intel 82801I (ICH9 Family) 2 port SATA Controller [IDE mode]                            | 2        | 2.56%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 2        | 2.56%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 2        | 2.56%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 2.56%   |
+| ASMedia ASM1062 Serial ATA Controller                                                   | 2        | 2.56%   |
+| AMD FCH SATA Controller [IDE mode]                                                      | 2        | 2.56%   |
+| AMD FCH SATA Controller D                                                               | 2        | 2.56%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1        | 1.28%   |
+| Sandisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.28%   |
+| Sandisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.28%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.28%   |
+| Phison E12 NVMe Controller                                                              | 1        | 1.28%   |
+| Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.28%   |
+| Micron/Crucial NVMe Controller                                                          | 1        | 1.28%   |
+| Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.28%   |
+| Kingston Company A2000 NVMe SSD                                                         | 1        | 1.28%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.28%   |
+| Intel SSD 660P Series                                                                   | 1        | 1.28%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.28%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                              | 1        | 1.28%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 1        | 1.28%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 1        | 1.28%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.28%   |
+| Integrated Express IT8213 IDE Controller                                                | 1        | 1.28%   |
+| HighPoint RocketRAID 230x 4 Port SATA-II Controller                                     | 1        | 1.28%   |
+| AMD X370 Series Chipset SATA Controller                                                 | 1        | 1.28%   |
+| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1        | 1.28%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 1        | 1.28%   |
+| Adaptec AIC-7850T/7856T [AVA-2902/4/6 / AHA-2910]                                       | 1        | 1.28%   |
 
 Storage Kind
 ------------
@@ -1088,11 +1088,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 34       | 58.62%  |
-| NVMe | 10       | 17.24%  |
-| IDE  | 7        | 12.07%  |
-| RAID | 5        | 8.62%   |
-| SCSI | 2        | 3.45%   |
+| SATA | 35       | 58.33%  |
+| NVMe | 11       | 18.33%  |
+| IDE  | 7        | 11.67%  |
+| RAID | 5        | 8.33%   |
+| SCSI | 2        | 3.33%   |
 
 Processor
 ---------
@@ -1426,7 +1426,7 @@ Monitor models
 | Toshiba TV TSB010F 1920x1080 890x500mm 40.2-inch                       | 1        | 2.04%   |
 | Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch     | 1        | 2.04%   |
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1        | 2.04%   |
-| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1210x680mm 54.6-inch | 1        | 2.04%   |
+| Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1020x570mm 46.0-inch | 1        | 2.04%   |
 | Samsung Electronics LCD Monitor SAM02A4 1360x768                       | 1        | 2.04%   |
 | Pixio PX247 PNS0247 1920x1080 520x310mm 23.8-inch                      | 1        | 2.04%   |
 | Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1        | 2.04%   |
@@ -1983,7 +1983,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.89%   |
 | SK Hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
 | SK Hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1333MT/s     | 1        | 1.89%   |
+| SK Hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
 | SK Hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
 | SK Hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s   | 1        | 1.89%   |
 | Samsung RAM M393B5170FH0 4GB DIMM DDR3 1600MT/s          | 1        | 1.89%   |
@@ -2078,10 +2078,10 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 13       | 26.53%  |
+| 1600  | 14       | 28.57%  |
 | 3200  | 9        | 18.37%  |
 | 2400  | 7        | 14.29%  |
-| 1333  | 6        | 12.24%  |
+| 1333  | 5        | 10.2%   |
 | 2667  | 3        | 6.12%   |
 | 2133  | 2        | 4.08%   |
 | 800   | 2        | 4.08%   |

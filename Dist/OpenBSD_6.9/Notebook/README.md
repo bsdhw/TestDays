@@ -472,21 +472,20 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| 2020    | 11        | 20%     |
-| 2019    | 7         | 12.73%  |
-| 2021    | 6         | 10.91%  |
-| 2018    | 5         | 9.09%   |
-| 2013    | 4         | 7.27%   |
+| 2020    | 8         | 14.55%  |
+| 2013    | 6         | 10.91%  |
+| 2019    | 5         | 9.09%   |
+| 2009    | 5         | 9.09%   |
+| 2018    | 4         | 7.27%   |
+| 2015    | 4         | 7.27%   |
+| 2011    | 4         | 7.27%   |
+| 2021    | 3         | 5.45%   |
+| 2017    | 3         | 5.45%   |
+| 2010    | 3         | 5.45%   |
 | 2008    | 3         | 5.45%   |
-| 2017    | 2         | 3.64%   |
-| 2015    | 2         | 3.64%   |
-| 2012    | 2         | 3.64%   |
-| 2011    | 2         | 3.64%   |
-| 2010    | 2         | 3.64%   |
-| 2009    | 2         | 3.64%   |
 | 2006    | 2         | 3.64%   |
 | Unknown | 2         | 3.64%   |
-| 2014    | 1         | 1.82%   |
+| 2012    | 1         | 1.82%   |
 | 2005    | 1         | 1.82%   |
 | 2002    | 1         | 1.82%   |
 
@@ -1960,7 +1959,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 8.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 8.33%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 8.33%   |
