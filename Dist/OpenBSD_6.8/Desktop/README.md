@@ -453,7 +453,7 @@ Motherboard model
 
 | Name                                    | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| PC Engines APU2                         | 13       | 11.93%  |
+| PC Engines apu2                         | 13       | 11.93%  |
 | Unknown                                 | 7        | 6.42%   |
 | PC Engines apu4                         | 4        | 3.67%   |
 | PC Engines apu1                         | 4        | 3.67%   |
@@ -597,8 +597,8 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2016    | 17       | 15.6%   |
 | 2018    | 15       | 13.76%  |
-| 2019    | 14       | 12.84%  |
-| 2014    | 8        | 7.34%   |
+| 2019    | 13       | 11.93%  |
+| 2014    | 9        | 8.26%   |
 | Unknown | 8        | 7.34%   |
 | 2020    | 7        | 6.42%   |
 | 2013    | 7        | 6.42%   |
@@ -692,8 +692,8 @@ Number of drives on board
 | Drives | Desktops | Percent |
 |--------|----------|---------|
 | 1      | 63       | 56.25%  |
-| 2      | 26       | 23.21%  |
-| 3      | 12       | 10.71%  |
+| 2      | 25       | 22.32%  |
+| 3      | 13       | 11.61%  |
 | 4      | 5        | 4.46%   |
 | 10     | 2        | 1.79%   |
 | 12     | 1        | 0.89%   |
@@ -816,7 +816,7 @@ Geographic location (city)
 | Svenstrup                  | 2        | 1.82%   |
 | St Petersburg              | 2        | 1.82%   |
 | Skien                      | 2        | 1.82%   |
-| Saint-Martin-d'Hères      | 2        | 1.82%   |
+| Saint-Martin-d'HГЁres    | 2        | 1.82%   |
 | Paris                      | 2        | 1.82%   |
 | Lebanon                    | 2        | 1.82%   |
 | Atlanta                    | 2        | 1.82%   |
@@ -843,7 +843,7 @@ Geographic location (city)
 | Oviedo                     | 1        | 0.91%   |
 | Oslo                       | 1        | 0.91%   |
 | Ockenheim                  | 1        | 0.91%   |
-| Nérac                     | 1        | 0.91%   |
+| NГ©rac                   | 1        | 0.91%   |
 | Nuremberg                  | 1        | 0.91%   |
 | Nantes                     | 1        | 0.91%   |
 | Munich                     | 1        | 0.91%   |
@@ -2259,7 +2259,7 @@ Sound card models
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2        | 2.44%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2        | 2.44%   |
 | AMD Navi 10 HDMI Audio                                                                            | 2        | 2.44%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 2        | 2.44%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2        | 2.44%   |
 | Nvidia High Definition Audio Controller                                                           | 1        | 1.22%   |
 | Nvidia GP106 High Definition Audio Controller                                                     | 1        | 1.22%   |
 | Nvidia GF110 High Definition Audio Controller                                                     | 1        | 1.22%   |

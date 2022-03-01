@@ -499,8 +499,8 @@ Number of drives on board
 | Drives | Desktops | Percent |
 |--------|----------|---------|
 | 2      | 10       | 31.25%  |
-| 1      | 8        | 25%     |
-| 3      | 6        | 18.75%  |
+| 1      | 9        | 28.13%  |
+| 3      | 5        | 15.63%  |
 | 6      | 2        | 6.25%   |
 | 5      | 2        | 6.25%   |
 | 4      | 2        | 6.25%   |
@@ -594,35 +594,35 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                  | Desktops | Percent |
-|-----------------------|----------|---------|
-| Moscow                | 4        | 12.9%   |
-| Berlin                | 2        | 6.45%   |
-| Wittersham            | 1        | 3.23%   |
-| Vechta                | 1        | 3.23%   |
-| Van Nuys              | 1        | 3.23%   |
-| Syeverodonets'k       | 1        | 3.23%   |
-| Sedavi                | 1        | 3.23%   |
-| Saint-Martin-d'Hères | 1        | 3.23%   |
-| Roubaix               | 1        | 3.23%   |
-| Riyadh                | 1        | 3.23%   |
-| Plainfield            | 1        | 3.23%   |
-| Onalaska              | 1        | 3.23%   |
-| Oensingen             | 1        | 3.23%   |
-| New York              | 1        | 3.23%   |
-| New Taipei            | 1        | 3.23%   |
-| Monts                 | 1        | 3.23%   |
-| Miedziana Gora        | 1        | 3.23%   |
-| Kingston              | 1        | 3.23%   |
-| Independence          | 1        | 3.23%   |
-| Heilbronn             | 1        | 3.23%   |
-| Hamilton              | 1        | 3.23%   |
-| Dallas                | 1        | 3.23%   |
-| Cassville             | 1        | 3.23%   |
-| Bucharest             | 1        | 3.23%   |
-| Bielefeld             | 1        | 3.23%   |
-| Barneveld             | 1        | 3.23%   |
-| Amsterdam             | 1        | 3.23%   |
+| City                    | Desktops | Percent |
+|-------------------------|----------|---------|
+| Moscow                  | 4        | 12.9%   |
+| Berlin                  | 2        | 6.45%   |
+| Wittersham              | 1        | 3.23%   |
+| Vechta                  | 1        | 3.23%   |
+| Van Nuys                | 1        | 3.23%   |
+| Syeverodonets'k         | 1        | 3.23%   |
+| Sedavi                  | 1        | 3.23%   |
+| Saint-Martin-d'HГЁres | 1        | 3.23%   |
+| Roubaix                 | 1        | 3.23%   |
+| Riyadh                  | 1        | 3.23%   |
+| Plainfield              | 1        | 3.23%   |
+| Onalaska                | 1        | 3.23%   |
+| Oensingen               | 1        | 3.23%   |
+| New York                | 1        | 3.23%   |
+| New Taipei              | 1        | 3.23%   |
+| Monts                   | 1        | 3.23%   |
+| Miedziana Gora          | 1        | 3.23%   |
+| Kingston                | 1        | 3.23%   |
+| Independence            | 1        | 3.23%   |
+| Heilbronn               | 1        | 3.23%   |
+| Hamilton                | 1        | 3.23%   |
+| Dallas                  | 1        | 3.23%   |
+| Cassville               | 1        | 3.23%   |
+| Bucharest               | 1        | 3.23%   |
+| Bielefeld               | 1        | 3.23%   |
+| Barneveld               | 1        | 3.23%   |
+| Amsterdam               | 1        | 3.23%   |
 
 Drives
 ------
@@ -1715,7 +1715,7 @@ Sound card models
 | AMD Starship/Matisse HD Audio Controller                                          | 2        | 6.67%   |
 | AMD Renoir Radeon High Definition Audio Controller                                | 2        | 6.67%   |
 | AMD Navi 10 HDMI Audio                                                            | 2        | 6.67%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                               | 2        | 6.67%   |
+| AMD Family 17h/19h HD Audio Controller                                            | 2        | 6.67%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                               | 2        | 6.67%   |
 | VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                         | 1        | 3.33%   |
 | Nvidia TU104 HD Audio Controller                                                  | 1        | 3.33%   |

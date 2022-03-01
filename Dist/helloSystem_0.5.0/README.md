@@ -527,8 +527,8 @@ EFI or BIOS
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
-| EFI  | 193       | 80.08%  |
-| BIOS | 48        | 19.92%  |
+| EFI  | 194       | 80.5%   |
+| BIOS | 47        | 19.5%   |
 
 Filesystem
 ----------
@@ -758,7 +758,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 33        | 13.69%  |
+| 2020 | 34        | 14.11%  |
 | 2019 | 31        | 12.86%  |
 | 2013 | 29        | 12.03%  |
 | 2012 | 25        | 10.37%  |
@@ -768,8 +768,8 @@ Motherboard manufacture year
 | 2010 | 13        | 5.39%   |
 | 2015 | 12        | 4.98%   |
 | 2009 | 12        | 4.98%   |
-| 2021 | 11        | 4.56%   |
 | 2016 | 11        | 4.56%   |
+| 2021 | 10        | 4.15%   |
 | 2017 | 6         | 2.49%   |
 | 2008 | 6         | 2.49%   |
 | 2007 | 4         | 1.66%   |
@@ -851,11 +851,11 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 151       | 61.89%  |
+| 1      | 152       | 62.3%   |
 | 2      | 48        | 19.67%  |
-| 3      | 16        | 6.56%   |
 | 0      | 15        | 6.15%   |
-| 4      | 6         | 2.46%   |
+| 3      | 14        | 5.74%   |
+| 4      | 7         | 2.87%   |
 | 6      | 3         | 1.23%   |
 | 5      | 3         | 1.23%   |
 | 10     | 1         | 0.41%   |
@@ -997,9 +997,9 @@ Geographic location (city)
 | Brisbane        | 3         | 1.22%   |
 | Zurich          | 2         | 0.81%   |
 | Wroclaw         | 2         | 0.81%   |
-| São Paulo      | 2         | 0.81%   |
+| SГЈo Paulo    | 2         | 0.81%   |
 | Surabaya        | 2         | 0.81%   |
-| S??o Paulo      | 2         | 0.81%   |
+| SÃ£o Paulo    | 2         | 0.81%   |
 | New York        | 2         | 0.81%   |
 | Mumbai          | 2         | 0.81%   |
 | Mar del Plata   | 2         | 0.81%   |
@@ -1012,7 +1012,7 @@ Geographic location (city)
 | Berlin          | 2         | 0.81%   |
 | Athens          | 2         | 0.81%   |
 | Aberdeen        | 2         | 0.81%   |
-| Šiauliai       | 1         | 0.41%   |
+| Е iauliai     | 1         | 0.41%   |
 | Zhongshan       | 1         | 0.41%   |
 | Zhengzhou       | 1         | 0.41%   |
 | Zagreb          | 1         | 0.41%   |
@@ -1025,12 +1025,12 @@ Geographic location (city)
 | Warmond         | 1         | 0.41%   |
 | Wandur          | 1         | 0.41%   |
 | Vladivostok     | 1         | 0.41%   |
-| Vitória        | 1         | 0.41%   |
+| VitГіria      | 1         | 0.41%   |
 | Vilnius         | 1         | 0.41%   |
 | Villeurbanne    | 1         | 0.41%   |
 | Vigonovo        | 1         | 0.41%   |
 | Vienna          | 1         | 0.41%   |
-| V?�ster??s      | 1         | 0.41%   |
+| VÃ¤sterÃ¥s  | 1         | 0.41%   |
 | Vawkavysk       | 1         | 0.41%   |
 | Vancouver       | 1         | 0.41%   |
 | Utrecht         | 1         | 0.41%   |
@@ -1290,9 +1290,9 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 1-20       | 153       | 62.7%   |
+| 1-20       | 154       | 63.11%  |
 | 101-250    | 37        | 15.16%  |
-| 251-500    | 23        | 9.43%   |
+| 251-500    | 22        | 9.02%   |
 | 501-1000   | 18        | 7.38%   |
 | 51-100     | 7         | 2.87%   |
 | 21-50      | 4         | 1.64%   |
@@ -2039,7 +2039,7 @@ Monitor models
 | ViewSonic LCD Monitor VSC8724 1440x900 410x260mm 19.1-inch             | 1         | 0.54%   |
 | VIE A/G2356 VIE2300 1920x1080 500x300mm 23.0-inch                      | 1         | 0.54%   |
 | Videoseven WL19A IGM1908 1280x1024 380x300mm 19.1-inch                 | 1         | 0.54%   |
-| Toshiba TV TSB0108 1360x768 480x270mm 21.7-inch                        | 1         | 0.54%   |
+| Toshiba TV TSB0108 1360x768 700x390mm 31.5-inch                        | 1         | 0.54%   |
 | Sun X7202A SUN0595 1280x1024 380x300mm 19.1-inch                       | 1         | 0.54%   |
 | Sony TV SNYC901 1920x1080                                              | 1         | 0.54%   |
 | Sony SDM-HS95P SNY2500 1280x1024 380x300mm 19.1-inch                   | 1         | 0.54%   |
@@ -2262,10 +2262,10 @@ Controller vendors
 
 | Vendor                            | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| Realtek Semiconductor             | 127       | 37.46%  |
-| Intel                             | 109       | 32.15%  |
-| Qualcomm Atheros                  | 42        | 12.39%  |
-| Broadcom                          | 28        | 8.26%   |
+| Realtek Semiconductor             | 127       | 37.35%  |
+| Intel                             | 109       | 32.06%  |
+| Qualcomm Atheros                  | 42        | 12.35%  |
+| Broadcom                          | 28        | 8.24%   |
 | Ralink                            | 7         | 2.06%   |
 | Ralink Technology                 | 4         | 1.18%   |
 | Marvell Technology Group          | 4         | 1.18%   |
@@ -2280,6 +2280,7 @@ Controller vendors
 | Mellanox Technologies             | 1         | 0.29%   |
 | Huawei Technologies               | 1         | 0.29%   |
 | Hewlett-Packard                   | 1         | 0.29%   |
+| Google                            | 1         | 0.29%   |
 | Ericsson Business Mobile Networks | 1         | 0.29%   |
 | D-Link System                     | 1         | 0.29%   |
 | ASUSTek Computer                  | 1         | 0.29%   |
@@ -2296,12 +2297,12 @@ Controller models
 
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 100       | 24.57%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                   | 19        | 4.67%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                   | 15        | 3.69%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 100       | 24.51%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                   | 19        | 4.66%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                   | 15        | 3.68%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                        | 9         | 2.21%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 8         | 1.97%   |
-| Intel Wireless 7260                                                     | 8         | 1.97%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter              | 8         | 1.96%   |
+| Intel Wireless 7260                                                     | 8         | 1.96%   |
 | Intel Wireless 7265                                                     | 7         | 1.72%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 7         | 1.72%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                     | 6         | 1.47%   |
@@ -2462,15 +2463,16 @@ Ethernet vendors
 
 | Vendor                           | Computers | Percent |
 |----------------------------------|-----------|---------|
-| Realtek Semiconductor            | 120       | 52.63%  |
-| Intel                            | 67        | 29.39%  |
-| Broadcom                         | 20        | 8.77%   |
-| Qualcomm Atheros                 | 12        | 5.26%   |
+| Realtek Semiconductor            | 120       | 52.4%   |
+| Intel                            | 67        | 29.26%  |
+| Broadcom                         | 20        | 8.73%   |
+| Qualcomm Atheros                 | 12        | 5.24%   |
 | Marvell Technology Group         | 4         | 1.75%   |
-| Samsung Electronics              | 2         | 0.88%   |
+| Samsung Electronics              | 2         | 0.87%   |
 | VIA Technologies                 | 1         | 0.44%   |
 | Silicon Integrated Systems [SiS] | 1         | 0.44%   |
 | Huawei Technologies              | 1         | 0.44%   |
+| Google                           | 1         | 0.44%   |
 
 Ethernet Model
 --------------
@@ -2482,29 +2484,29 @@ Ethernet models
 
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 100       | 43.29%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 19        | 8.23%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 15        | 6.49%   |
-| Intel Ethernet Connection (7) I219-V                              | 6         | 2.6%    |
-| Intel 82579V Gigabit Network Connection                           | 4         | 1.73%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 4         | 1.73%   |
-| Intel I211 Gigabit Network Connection                             | 3         | 1.3%    |
-| Intel Ethernet Connection I219-LM                                 | 3         | 1.3%    |
-| Intel Ethernet Connection I218-LM                                 | 3         | 1.3%    |
-| Intel Ethernet Connection I217-LM                                 | 3         | 1.3%    |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 1.3%    |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 3         | 1.3%    |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3         | 1.3%    |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.87%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 0.87%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 0.87%   |
-| Intel Ethernet Connection I218-V                                  | 2         | 0.87%   |
-| Intel Ethernet Connection (6) I219-LM                             | 2         | 0.87%   |
-| Intel Ethernet Connection (3) I218-V                              | 2         | 0.87%   |
-| Intel 82567LM Gigabit Network Connection                          | 2         | 0.87%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 2         | 0.87%   |
-| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 2         | 0.87%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 2         | 0.87%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 100       | 43.1%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 19        | 8.19%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 15        | 6.47%   |
+| Intel Ethernet Connection (7) I219-V                              | 6         | 2.59%   |
+| Intel 82579V Gigabit Network Connection                           | 4         | 1.72%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 4         | 1.72%   |
+| Intel I211 Gigabit Network Connection                             | 3         | 1.29%   |
+| Intel Ethernet Connection I219-LM                                 | 3         | 1.29%   |
+| Intel Ethernet Connection I218-LM                                 | 3         | 1.29%   |
+| Intel Ethernet Connection I217-LM                                 | 3         | 1.29%   |
+| Intel 82577LM Gigabit Network Connection                          | 3         | 1.29%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 3         | 1.29%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3         | 1.29%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.86%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 0.86%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 0.86%   |
+| Intel Ethernet Connection I218-V                                  | 2         | 0.86%   |
+| Intel Ethernet Connection (6) I219-LM                             | 2         | 0.86%   |
+| Intel Ethernet Connection (3) I218-V                              | 2         | 0.86%   |
+| Intel 82567LM Gigabit Network Connection                          | 2         | 0.86%   |
+| Intel 82566DM-2 Gigabit Network Connection                        | 2         | 0.86%   |
+| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 2         | 0.86%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 2         | 0.86%   |
 | VIA VT6105/VT6106S [Rhine-III]                                    | 1         | 0.43%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 0.43%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 0.43%   |
@@ -2541,7 +2543,7 @@ Ethernet models
 | Intel 82562V-2 10/100 Network Connection                          | 1         | 0.43%   |
 | Intel 82557/8/9/0/1 Ethernet Pro 100                              | 1         | 0.43%   |
 | Huawei USB Composite Device                                       | 1         | 0.43%   |
-| Broadcom NetXtreme II BCM5708 Gigabit Ethernet                    | 1         | 0.43%   |
+| Google Nexus/Pixel Device (charging + debug)                      | 1         | 0.43%   |
 
 Net Controller Kind
 -------------------
@@ -2735,7 +2737,7 @@ Sound card models
 | Intel Haswell-ULT HD Audio Controller                                                             | 11        | 2.97%   |
 | Intel 8 Series HD Audio Controller                                                                | 11        | 2.97%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 10        | 2.7%    |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 10        | 2.7%    |
+| AMD Family 17h/19h HD Audio Controller                                                            | 10        | 2.7%    |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 9         | 2.43%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                                             | 8         | 2.16%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 7         | 1.89%   |
@@ -2970,13 +2972,13 @@ Memory module speed
 | 1600    | 72        | 27.17%  |
 | 1333    | 45        | 16.98%  |
 | 2400    | 27        | 10.19%  |
-| 2667    | 25        | 9.43%   |
+| 2667    | 26        | 9.81%   |
 | 2133    | 18        | 6.79%   |
 | 800     | 13        | 4.91%   |
 | 1334    | 12        | 4.53%   |
 | 667     | 11        | 4.15%   |
 | 3200    | 9         | 3.4%    |
-| 2666    | 6         | 2.26%   |
+| 2666    | 5         | 1.89%   |
 | 1867    | 5         | 1.89%   |
 | 1067    | 4         | 1.51%   |
 | Unknown | 4         | 1.51%   |
@@ -3218,8 +3220,8 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 1     | 96        | 39.34%  |
-| 2     | 58        | 23.77%  |
+| 1     | 95        | 38.93%  |
+| 2     | 59        | 24.18%  |
 | 0     | 55        | 22.54%  |
 | 3     | 26        | 10.66%  |
 | 4     | 7         | 2.87%   |
@@ -3236,14 +3238,15 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 158       | 50.64%  |
-| Card reader              | 58        | 18.59%  |
-| Net/wireless             | 38        | 12.18%  |
-| Bluetooth                | 23        | 7.37%   |
-| Fingerprint reader       | 13        | 4.17%   |
-| Firewire controller      | 12        | 3.85%   |
+| Communication controller | 158       | 50.48%  |
+| Card reader              | 58        | 18.53%  |
+| Net/wireless             | 38        | 12.14%  |
+| Bluetooth                | 23        | 7.35%   |
+| Fingerprint reader       | 13        | 4.15%   |
+| Firewire controller      | 12        | 3.83%   |
 | Sound                    | 5         | 1.6%    |
 | Storage                  | 3         | 0.96%   |
 | Storage/raid             | 1         | 0.32%   |
+| Network                  | 1         | 0.32%   |
 | Dvb card                 | 1         | 0.32%   |
 

@@ -537,10 +537,10 @@ Geographic location (city)
 | Moscow           | 1        | 7.14%   |
 | Langen           | 1        | 7.14%   |
 | Duncan           | 1        | 7.14%   |
-| Córdoba         | 1        | 7.14%   |
-| Bogotá          | 1        | 7.14%   |
+| CГіrdoba       | 1        | 7.14%   |
+| BogotГЎ        | 1        | 7.14%   |
 | Belgrade         | 1        | 7.14%   |
-| Balıkesir       | 1        | 7.14%   |
+| BalД±kesir     | 1        | 7.14%   |
 
 Drives
 ------
@@ -1437,7 +1437,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 4.76%   |
 | C-Media Electronics Audio Adapter                                          | 1        | 4.76%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 4.76%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 4.76%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 4.76%   |
 
 Memory
 ------

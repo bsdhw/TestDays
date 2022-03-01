@@ -629,10 +629,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 48        | 52.75%  |
-| 2      | 32        | 35.16%  |
-| 3      | 6         | 6.59%   |
-| 4      | 5         | 5.49%   |
+| 1      | 49        | 54.44%  |
+| 2      | 30        | 33.33%  |
+| 4      | 6         | 6.67%   |
+| 3      | 5         | 5.56%   |
 
 Has CD-ROM
 ----------
@@ -741,7 +741,7 @@ Geographic location (city)
 
 | City                | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Québec             | 5         | 5.43%   |
+| QuГ©bec           | 5         | 5.43%   |
 | Vladivostok         | 3         | 3.26%   |
 | Sydney              | 2         | 2.17%   |
 | Riga                | 2         | 2.17%   |
@@ -2164,7 +2164,7 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 8         | 6.84%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                                           | 7         | 5.98%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 6         | 5.13%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 6         | 5.13%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 6         | 5.13%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 5         | 4.27%   |
 | Intel 8 Series HD Audio Controller                                                                | 5         | 4.27%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 5         | 4.27%   |

@@ -495,12 +495,12 @@ Motherboard manufacture year
 | 2020 | 10        | 17.24%  |
 | 2013 | 8         | 13.79%  |
 | 2014 | 7         | 12.07%  |
-| 2019 | 5         | 8.62%   |
 | 2017 | 5         | 8.62%   |
 | 2011 | 5         | 8.62%   |
+| 2019 | 4         | 6.9%    |
+| 2015 | 4         | 6.9%    |
 | 2012 | 4         | 6.9%    |
 | 2009 | 4         | 6.9%    |
-| 2015 | 3         | 5.17%   |
 | 2016 | 2         | 3.45%   |
 | 2010 | 2         | 3.45%   |
 | 2018 | 1         | 1.72%   |
@@ -705,7 +705,7 @@ Geographic location (city)
 | Lenzburg            | 1         | 1.67%   |
 | Kyiv                | 1         | 1.67%   |
 | Krasnoyarsk         | 1         | 1.67%   |
-| Jyväskylä         | 1         | 1.67%   |
+| JyvГ¤skylГ¤     | 1         | 1.67%   |
 | Huddersfield        | 1         | 1.67%   |
 | Hamilton            | 1         | 1.67%   |
 | Hamburg             | 1         | 1.67%   |
@@ -1444,7 +1444,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch | 1         | 1.89%   |
 | Philips PHL BDM4065 PHL08E1 3840x2160 880x490mm 39.7-inch            | 1         | 1.89%   |
 | PANDA LCD Monitor NCP0040 1920x1080 340x190mm 15.3-inch              | 1         | 1.89%   |
 | Panasonic VVX13F009G00 MEI96A2 1920x1080 290x170mm 13.2-inch         | 1         | 1.89%   |
@@ -1954,7 +1954,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 8         | 10%     |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 8.75%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 4         | 5%      |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 4         | 5%      |
+| AMD Family 17h/19h HD Audio Controller                                     | 4         | 5%      |
 | Nvidia MCP79 High Definition Audio                                         | 3         | 3.75%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 3.75%   |
 | Intel Broadwell-U Audio Controller                                         | 3         | 3.75%   |
@@ -1995,7 +1995,7 @@ Memory module vendors
 | Micron Technology   | 5         | 6.49%   |
 | Kingston            | 5         | 6.49%   |
 | Crucial             | 5         | 6.49%   |
-| ELPIDA              | 3         | 3.9%    |
+| Elpida              | 3         | 3.9%    |
 | G.Skill             | 2         | 2.6%    |
 | A-DATA Technology   | 2         | 2.6%    |
 | Unknown (ABCD)      | 1         | 1.3%    |
@@ -2078,7 +2078,7 @@ Memory module models
 | Crucial RAM Module 4096MB SODIMM DDR3 1067MT/s                      | 1         | 1.28%   |
 | Crucial RAM CT8G4SFD824A.M16FB 8GB SODIMM DDR4 2133MT/s             | 1         | 1.28%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s             | 1         | 1.28%   |
-| Crucial RAM CT204864BF160B.C16 16384MB SODIMM DDR3 1600MT/s         | 1         | 1.28%   |
+| Crucial RAM CT204864BF160B.C16 16GB SODIMM DDR3 1600MT/s            | 1         | 1.28%   |
 
 Memory Kind
 -----------
@@ -2223,6 +2223,7 @@ Camera device models
 | Chicony Integrated Camera                                      | 2         | 4.08%   |
 | Chicony HD WebCam                                              | 2         | 4.08%   |
 | Chicony Chicony USB2.0 Camera                                  | 2         | 4.08%   |
+| Alcor Micro USB 2.0 Camera                                     | 2         | 4.08%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 2.04%   |
 | Suyin HD WebCam                                                | 1         | 2.04%   |
 | Sunplus MTD camera                                             | 1         | 2.04%   |
@@ -2245,8 +2246,6 @@ Camera device models
 | Chicony Lenovo Integrated Camera (0.3MP)                       | 1         | 2.04%   |
 | Chicony Lenovo EasyCamera                                      | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.04%   |
-| Alcor Micro USB 2.0 Camera                                     | 1         | 2.04%   |
-| Alcor Micro SHUNCCM2MP                                         | 1         | 2.04%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 2.04%   |
 | Alcor Micro Acer Integrated Webcam                             | 1         | 2.04%   |
 | Acer ThinkPad Integrated Camera                                | 1         | 2.04%   |

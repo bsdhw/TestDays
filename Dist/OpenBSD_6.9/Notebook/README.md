@@ -669,7 +669,7 @@ Geographic location (city)
 | Valdivia          | 1         | 1.79%   |
 | Vacaville         | 1         | 1.79%   |
 | Teriang           | 1         | 1.79%   |
-| São Paulo        | 1         | 1.79%   |
+| SГЈo Paulo      | 1         | 1.79%   |
 | Surabaya          | 1         | 1.79%   |
 | Spokane           | 1         | 1.79%   |
 | Solna             | 1         | 1.79%   |
@@ -1905,7 +1905,7 @@ Sound card models
 | Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 4.35%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 3         | 4.35%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 3         | 4.35%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 3         | 4.35%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 3         | 4.35%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 2         | 2.9%    |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 2.9%    |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 2         | 2.9%    |

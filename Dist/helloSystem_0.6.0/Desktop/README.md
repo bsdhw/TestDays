@@ -149,6 +149,7 @@ Test Cases
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| Intel     | H81                         | [dd19abd47d](https://bsd-hardware.info/?probe=dd19abd47d) | Feb 25, 2022 |
 | Dell      | 014GRG A03                  | [8e0a22c065](https://bsd-hardware.info/?probe=8e0a22c065) | Jan 28, 2022 |
 | Dell      | 014GRG A03                  | [5996ba19b1](https://bsd-hardware.info/?probe=5996ba19b1) | Jan 27, 2022 |
 | Dell      | 014GRG A03                  | [223d955a90](https://bsd-hardware.info/?probe=223d955a90) | Jan 26, 2022 |
@@ -499,13 +500,13 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2019 | 8        | 13.56%  |
 | 2021 | 6        | 10.17%  |
+| 2013 | 6        | 10.17%  |
 | 2010 | 6        | 10.17%  |
 | 2020 | 5        | 8.47%   |
 | 2016 | 5        | 8.47%   |
-| 2015 | 5        | 8.47%   |
-| 2013 | 5        | 8.47%   |
 | 2018 | 4        | 6.78%   |
 | 2017 | 4        | 6.78%   |
+| 2015 | 4        | 6.78%   |
 | 2012 | 4        | 6.78%   |
 | 2011 | 3        | 5.08%   |
 | 2014 | 2        | 3.39%   |
@@ -686,63 +687,63 @@ Geographic location (city)
 
 | City              | Desktops | Percent |
 |-------------------|----------|---------|
-| Marlborough       | 2        | 3.39%   |
-| Hobart            | 2        | 3.39%   |
-| Yekaterinburg     | 1        | 1.69%   |
-| Xiamen            | 1        | 1.69%   |
-| Wolgast           | 1        | 1.69%   |
-| Warrenton         | 1        | 1.69%   |
-| Voronezh          | 1        | 1.69%   |
-| Tula de Allende   | 1        | 1.69%   |
-| Torre del Mar     | 1        | 1.69%   |
-| Tampa             | 1        | 1.69%   |
-| Stuttgart         | 1        | 1.69%   |
-| Stralsund         | 1        | 1.69%   |
-| Sofia             | 1        | 1.69%   |
-| Siedlce           | 1        | 1.69%   |
-| Shepetivka        | 1        | 1.69%   |
-| Santiago          | 1        | 1.69%   |
-| Rzesz??w          | 1        | 1.69%   |
-| Rostov-on-Don     | 1        | 1.69%   |
-| Riehen            | 1        | 1.69%   |
-| Richmond          | 1        | 1.69%   |
-| Reriutaba         | 1        | 1.69%   |
-| Qingdao           | 1        | 1.69%   |
-| Pistoia           | 1        | 1.69%   |
-| Old Town          | 1        | 1.69%   |
-| Nieuwegein        | 1        | 1.69%   |
-| Newtownabbey      | 1        | 1.69%   |
-| Munich            | 1        | 1.69%   |
-| Moscow            | 1        | 1.69%   |
-| Manaus            | 1        | 1.69%   |
-| Kyiv              | 1        | 1.69%   |
-| Kosekoy           | 1        | 1.69%   |
-| Kochi             | 1        | 1.69%   |
-| Kirkkonummi       | 1        | 1.69%   |
-| Katowice          | 1        | 1.69%   |
-| Irkutsk           | 1        | 1.69%   |
-| Inhapim           | 1        | 1.69%   |
-| Ilh?�us           | 1        | 1.69%   |
-| Idaho Falls       | 1        | 1.69%   |
-| Hsinchu           | 1        | 1.69%   |
-| Hong Kong         | 1        | 1.69%   |
-| Hicksville        | 1        | 1.69%   |
-| Heidelberg        | 1        | 1.69%   |
-| Harrisburg        | 1        | 1.69%   |
-| Gy?�r             | 1        | 1.69%   |
-| Gwangyang         | 1        | 1.69%   |
-| Guatemala City    | 1        | 1.69%   |
-| Grottazzolina     | 1        | 1.69%   |
-| Fuente Carreteros | 1        | 1.69%   |
-| Frederiksberg     | 1        | 1.69%   |
-| Filderstadt       | 1        | 1.69%   |
-| Ernakulam         | 1        | 1.69%   |
-| Chelyabinsk       | 1        | 1.69%   |
-| Bydgoszcz         | 1        | 1.69%   |
-| Brisbane          | 1        | 1.69%   |
-| Bari              | 1        | 1.69%   |
-| Bangkok           | 1        | 1.69%   |
-| Anaheim           | 1        | 1.69%   |
+| Marlborough       | 2        | 3.33%   |
+| Hobart            | 2        | 3.33%   |
+| Ernakulam         | 2        | 3.33%   |
+| Yekaterinburg     | 1        | 1.67%   |
+| Xiamen            | 1        | 1.67%   |
+| Wolgast           | 1        | 1.67%   |
+| Warrenton         | 1        | 1.67%   |
+| Voronezh          | 1        | 1.67%   |
+| Tula de Allende   | 1        | 1.67%   |
+| Torre del Mar     | 1        | 1.67%   |
+| Tampa             | 1        | 1.67%   |
+| Stuttgart         | 1        | 1.67%   |
+| Stralsund         | 1        | 1.67%   |
+| Sofia             | 1        | 1.67%   |
+| Siedlce           | 1        | 1.67%   |
+| Shepetivka        | 1        | 1.67%   |
+| Santiago          | 1        | 1.67%   |
+| RzeszÃ³w        | 1        | 1.67%   |
+| Rostov-on-Don     | 1        | 1.67%   |
+| Riehen            | 1        | 1.67%   |
+| Richmond          | 1        | 1.67%   |
+| Reriutaba         | 1        | 1.67%   |
+| Qingdao           | 1        | 1.67%   |
+| Pistoia           | 1        | 1.67%   |
+| Old Town          | 1        | 1.67%   |
+| Nieuwegein        | 1        | 1.67%   |
+| Newtownabbey      | 1        | 1.67%   |
+| Munich            | 1        | 1.67%   |
+| Moscow            | 1        | 1.67%   |
+| Manaus            | 1        | 1.67%   |
+| Kyiv              | 1        | 1.67%   |
+| Kosekoy           | 1        | 1.67%   |
+| Kochi             | 1        | 1.67%   |
+| Kirkkonummi       | 1        | 1.67%   |
+| Katowice          | 1        | 1.67%   |
+| Irkutsk           | 1        | 1.67%   |
+| Inhapim           | 1        | 1.67%   |
+| IlhÃ©us         | 1        | 1.67%   |
+| Idaho Falls       | 1        | 1.67%   |
+| Hsinchu           | 1        | 1.67%   |
+| Hong Kong         | 1        | 1.67%   |
+| Hicksville        | 1        | 1.67%   |
+| Heidelberg        | 1        | 1.67%   |
+| Harrisburg        | 1        | 1.67%   |
+| GyÅ‘r          | 1        | 1.67%   |
+| Gwangyang         | 1        | 1.67%   |
+| Guatemala City    | 1        | 1.67%   |
+| Grottazzolina     | 1        | 1.67%   |
+| Fuente Carreteros | 1        | 1.67%   |
+| Frederiksberg     | 1        | 1.67%   |
+| Filderstadt       | 1        | 1.67%   |
+| Chelyabinsk       | 1        | 1.67%   |
+| Bydgoszcz         | 1        | 1.67%   |
+| Brisbane          | 1        | 1.67%   |
+| Bari              | 1        | 1.67%   |
+| Bangkok           | 1        | 1.67%   |
+| Anaheim           | 1        | 1.67%   |
 
 Drives
 ------
@@ -758,7 +759,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 25       | 31     | 25.51%  |
-| Seagate             | 18       | 22     | 18.37%  |
+| Seagate             | 18       | 23     | 18.37%  |
 | Samsung Electronics | 13       | 18     | 13.27%  |
 | Toshiba             | 5        | 7      | 5.1%    |
 | Hitachi             | 5        | 7      | 5.1%    |
@@ -775,7 +776,7 @@ Hard drive vendors
 | PNY                 | 1        | 1      | 1.02%   |
 | PLEXTOR             | 1        | 1      | 1.02%   |
 | LITEONIT            | 1        | 1      | 1.02%   |
-| KingSpec            | 1        | 1      | 1.02%   |
+| KingSpec            | 1        | 2      | 1.02%   |
 | Hewlett-Packard     | 1        | 1      | 1.02%   |
 | GOODRAM             | 1        | 1      | 1.02%   |
 | Gigabyte Technology | 1        | 1      | 1.02%   |
@@ -864,7 +865,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 23       | 28     | 41.07%  |
-| Seagate             | 18       | 22     | 32.14%  |
+| Seagate             | 18       | 23     | 32.14%  |
 | Toshiba             | 5        | 7      | 8.93%   |
 | Hitachi             | 5        | 7      | 8.93%   |
 | Samsung Electronics | 4        | 6      | 7.14%   |
@@ -890,7 +891,7 @@ Solid state drive vendors
 | PNY                 | 1        | 1      | 3.13%   |
 | PLEXTOR             | 1        | 1      | 3.13%   |
 | LITEONIT            | 1        | 1      | 3.13%   |
-| KingSpec            | 1        | 1      | 3.13%   |
+| KingSpec            | 1        | 2      | 3.13%   |
 | Intel               | 1        | 1      | 3.13%   |
 | GOODRAM             | 1        | 1      | 3.13%   |
 | Apacer              | 1        | 1      | 3.13%   |
@@ -906,8 +907,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 40       | 71     | 50%     |
-| SSD  | 28       | 40     | 35%     |
+| HDD  | 40       | 72     | 50%     |
+| SSD  | 28       | 41     | 35%     |
 | NVMe | 12       | 14     | 15%     |
 
 Drive Connector
@@ -920,7 +921,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 53       | 111    | 81.54%  |
+| SATA | 53       | 113    | 81.54%  |
 | NVMe | 12       | 14     | 18.46%  |
 
 Drive Size
@@ -933,7 +934,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 46       | 68     | 56.1%   |
+| 0.01-0.5   | 46       | 70     | 56.1%   |
 | 0.51-1.0   | 22       | 26     | 26.83%  |
 | 1.01-2.0   | 6        | 7      | 7.32%   |
 | 2.01-3.0   | 4        | 6      | 4.88%   |
@@ -1064,7 +1065,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 54       | 106    | 77.14%  |
+| Works    | 54       | 108    | 77.14%  |
 | Malfunc  | 15       | 18     | 21.43%  |
 | Detected | 1        | 1      | 1.43%   |
 
@@ -1360,9 +1361,9 @@ Vendors of graphics cards
 
 | Vendor | Desktops | Percent |
 |--------|----------|---------|
-| Nvidia | 24       | 38.71%  |
-| AMD    | 21       | 33.87%  |
-| Intel  | 17       | 27.42%  |
+| Nvidia | 24       | 38.1%   |
+| AMD    | 21       | 33.33%  |
+| Intel  | 18       | 28.57%  |
 
 GPU Model
 ---------
@@ -1374,48 +1375,48 @@ Graphics card models
 
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
-| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 5        | 8.06%   |
-| Nvidia GF119 [GeForce GT 610]                                               | 4        | 6.45%   |
-| Nvidia GK208B [GeForce GT 710]                                              | 3        | 4.84%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 3        | 4.84%   |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 3        | 4.84%   |
-| Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 2        | 3.23%   |
-| Nvidia GM206 [GeForce GTX 950]                                              | 2        | 3.23%   |
-| Intel HD Graphics 630                                                       | 2        | 3.23%   |
-| Intel HD Graphics 530                                                       | 2        | 3.23%   |
-| Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 2        | 3.23%   |
-| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 2        | 3.23%   |
-| AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                              | 2        | 3.23%   |
-| Nvidia TU116 [GeForce GTX 1660]                                             | 1        | 1.61%   |
-| Nvidia GT215 [GeForce GT 220]                                               | 1        | 1.61%   |
-| Nvidia GP108 [GeForce GT 1030]                                              | 1        | 1.61%   |
-| Nvidia GP107 [GeForce GTX 1050 Ti]                                          | 1        | 1.61%   |
-| Nvidia GP106 [GeForce GTX 1060 3GB]                                         | 1        | 1.61%   |
-| Nvidia GP104 [GeForce GTX 1060 3GB]                                         | 1        | 1.61%   |
-| Nvidia GP102 [GeForce GTX 1080 Ti]                                          | 1        | 1.61%   |
-| Nvidia GK104 [GeForce GTX 770]                                              | 1        | 1.61%   |
-| Nvidia GK104 [GeForce GTX 680]                                              | 1        | 1.61%   |
-| Nvidia GF108 [GeForce GT 530]                                               | 1        | 1.61%   |
-| Nvidia GF108 [GeForce GT 440]                                               | 1        | 1.61%   |
-| Nvidia G96C [GeForce 9500 GT]                                               | 1        | 1.61%   |
-| Nvidia G92 [GeForce GT 330]                                                 | 1        | 1.61%   |
-| Intel IvyBridge GT2 [HD Graphics 4000]                                      | 1        | 1.61%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                    | 1        | 1.61%   |
-| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 1        | 1.61%   |
-| Intel 82Q963/Q965 Integrated Graphics Controller                            | 1        | 1.61%   |
-| Intel 4 Series Chipset Integrated Graphics Controller                       | 1        | 1.61%   |
-| AMD Wrestler [Radeon HD 6320]                                               | 1        | 1.61%   |
-| AMD Turks XT [Radeon HD 6670/7670]                                          | 1        | 1.61%   |
-| AMD RS880 [Radeon HD 4250]                                                  | 1        | 1.61%   |
-| AMD RS780L [Radeon 3000]                                                    | 1        | 1.61%   |
-| AMD Richland [Radeon HD 8470D]                                              | 1        | 1.61%   |
-| AMD Renoir                                                                  | 1        | 1.61%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 1.61%   |
-| AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 1.61%   |
-| AMD Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]                              | 1        | 1.61%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 1        | 1.61%   |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                            | 1        | 1.61%   |
-| AMD Baffin [Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X]         | 1        | 1.61%   |
+| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 5        | 7.94%   |
+| Nvidia GF119 [GeForce GT 610]                                               | 4        | 6.35%   |
+| Nvidia GK208B [GeForce GT 710]                                              | 3        | 4.76%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 3        | 4.76%   |
+| Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 3        | 4.76%   |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 3        | 4.76%   |
+| Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 2        | 3.17%   |
+| Nvidia GM206 [GeForce GTX 950]                                              | 2        | 3.17%   |
+| Intel HD Graphics 630                                                       | 2        | 3.17%   |
+| Intel HD Graphics 530                                                       | 2        | 3.17%   |
+| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 2        | 3.17%   |
+| AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                              | 2        | 3.17%   |
+| Nvidia TU116 [GeForce GTX 1660]                                             | 1        | 1.59%   |
+| Nvidia GT215 [GeForce GT 220]                                               | 1        | 1.59%   |
+| Nvidia GP108 [GeForce GT 1030]                                              | 1        | 1.59%   |
+| Nvidia GP107 [GeForce GTX 1050 Ti]                                          | 1        | 1.59%   |
+| Nvidia GP106 [GeForce GTX 1060 3GB]                                         | 1        | 1.59%   |
+| Nvidia GP104 [GeForce GTX 1060 3GB]                                         | 1        | 1.59%   |
+| Nvidia GP102 [GeForce GTX 1080 Ti]                                          | 1        | 1.59%   |
+| Nvidia GK104 [GeForce GTX 770]                                              | 1        | 1.59%   |
+| Nvidia GK104 [GeForce GTX 680]                                              | 1        | 1.59%   |
+| Nvidia GF108 [GeForce GT 530]                                               | 1        | 1.59%   |
+| Nvidia GF108 [GeForce GT 440]                                               | 1        | 1.59%   |
+| Nvidia G96C [GeForce 9500 GT]                                               | 1        | 1.59%   |
+| Nvidia G92 [GeForce GT 330]                                                 | 1        | 1.59%   |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                      | 1        | 1.59%   |
+| Intel CometLake-S GT2 [UHD Graphics 630]                                    | 1        | 1.59%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 1        | 1.59%   |
+| Intel 82Q963/Q965 Integrated Graphics Controller                            | 1        | 1.59%   |
+| Intel 4 Series Chipset Integrated Graphics Controller                       | 1        | 1.59%   |
+| AMD Wrestler [Radeon HD 6320]                                               | 1        | 1.59%   |
+| AMD Turks XT [Radeon HD 6670/7670]                                          | 1        | 1.59%   |
+| AMD RS880 [Radeon HD 4250]                                                  | 1        | 1.59%   |
+| AMD RS780L [Radeon 3000]                                                    | 1        | 1.59%   |
+| AMD Richland [Radeon HD 8470D]                                              | 1        | 1.59%   |
+| AMD Renoir                                                                  | 1        | 1.59%   |
+| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 1.59%   |
+| AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 1.59%   |
+| AMD Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]                              | 1        | 1.59%   |
+| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 1        | 1.59%   |
+| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                            | 1        | 1.59%   |
+| AMD Baffin [Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X]         | 1        | 1.59%   |
 
 GPU Combo
 ---------
@@ -1427,12 +1428,12 @@ Combinations of graphics cards
 
 | Name           | Desktops | Percent |
 |----------------|----------|---------|
-| 1 x Nvidia     | 22       | 37.29%  |
-| 1 x AMD        | 20       | 33.9%   |
-| 1 x Intel      | 13       | 22.03%  |
-| Intel + Nvidia | 2        | 3.39%   |
-| 2 x Intel      | 1        | 1.69%   |
-| Intel + AMD    | 1        | 1.69%   |
+| 1 x Nvidia     | 22       | 36.67%  |
+| 1 x AMD        | 20       | 33.33%  |
+| 1 x Intel      | 14       | 23.33%  |
+| Intel + Nvidia | 2        | 3.33%   |
+| 2 x Intel      | 1        | 1.67%   |
+| Intel + AMD    | 1        | 1.67%   |
 
 GPU Driver
 ----------
@@ -1479,24 +1480,25 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 5        | 13.89%  |
-| Hewlett-Packard      | 4        | 11.11%  |
-| Iiyama               | 3        | 8.33%   |
-| Goldstar             | 3        | 8.33%   |
-| Dell                 | 3        | 8.33%   |
-| Philips              | 2        | 5.56%   |
-| Lenovo               | 2        | 5.56%   |
-| BenQ                 | 2        | 5.56%   |
-| Ancor Communications | 2        | 5.56%   |
-| Acer                 | 2        | 5.56%   |
-| Vizio                | 1        | 2.78%   |
-| ViewSonic            | 1        | 2.78%   |
-| Medion               | 1        | 2.78%   |
-| Haier                | 1        | 2.78%   |
-| Eizo                 | 1        | 2.78%   |
-| ASUSTek Computer     | 1        | 2.78%   |
-| AOC                  | 1        | 2.78%   |
-| ALP                  | 1        | 2.78%   |
+| Samsung Electronics  | 5        | 13.51%  |
+| Hewlett-Packard      | 4        | 10.81%  |
+| Iiyama               | 3        | 8.11%   |
+| Goldstar             | 3        | 8.11%   |
+| Dell                 | 3        | 8.11%   |
+| Philips              | 2        | 5.41%   |
+| Lenovo               | 2        | 5.41%   |
+| BenQ                 | 2        | 5.41%   |
+| Ancor Communications | 2        | 5.41%   |
+| Acer                 | 2        | 5.41%   |
+| Vizio                | 1        | 2.7%    |
+| ViewSonic            | 1        | 2.7%    |
+| SGT                  | 1        | 2.7%    |
+| Medion               | 1        | 2.7%    |
+| Haier                | 1        | 2.7%    |
+| Eizo                 | 1        | 2.7%    |
+| ASUSTek Computer     | 1        | 2.7%    |
+| AOC                  | 1        | 2.7%    |
+| ALP                  | 1        | 2.7%    |
 
 Monitor Model
 -------------
@@ -1508,42 +1510,43 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Iiyama PLE2407HDS IVM560D 1920x1080 520x300mm 23.6-inch              | 2        | 5.41%   |
-| Vizio LCD Monitor VIZ0022 1920x540 480x270mm 21.7-inch               | 1        | 2.7%    |
-| ViewSonic VX2458-mhd VSC0437 1920x1080 520x290mm 23.4-inch           | 1        | 2.7%    |
-| Samsung Electronics T22D390 SAM0B69 1920x1080 480x270mm 21.7-inch    | 1        | 2.7%    |
-| Samsung Electronics SyncMaster SAM05CD 1920x1080                     | 1        | 2.7%    |
-| Samsung Electronics SyncMaster SAM05C5 1920x1080                     | 1        | 2.7%    |
-| Samsung Electronics SMS24A450 SAM083A 1920x1200 520x320mm 24.0-inch  | 1        | 2.7%    |
-| Samsung Electronics LCD Monitor SAM4A75 1024x768 300x230mm 14.9-inch | 1        | 2.7%    |
-| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch              | 1        | 2.7%    |
-| Philips PHL 193V5 PHLC0CD 1366x768 410x230mm 18.5-inch               | 1        | 2.7%    |
-| Medion MD21281 MED3947 1366x768 410x230mm 18.5-inch                  | 1        | 2.7%    |
-| Lenovo LEN-M73Z-D LEN00A0 1600x900 440x240mm 19.7-inch               | 1        | 2.7%    |
-| Lenovo LEN-E73Z-D LEN00A1 1600x900 440x240mm 19.7-inch               | 1        | 2.7%    |
-| Iiyama PL2409HD IVM560C 1920x1080 520x290mm 23.4-inch                | 1        | 2.7%    |
-| Hewlett-Packard ZR22w HWP2867 1920x1080 480x270mm 21.7-inch          | 1        | 2.7%    |
-| Hewlett-Packard E243m HPN3465 1920x1080 530x300mm 24.0-inch          | 1        | 2.7%    |
-| Hewlett-Packard 2310 HWP288F 1920x1080 510x290mm 23.1-inch           | 1        | 2.7%    |
-| Hewlett-Packard 19ka HWP3328 1366x768 410x230mm 18.5-inch            | 1        | 2.7%    |
-| Haier HT-20216B(C) HAI2031 1920x1080 480x270mm 21.7-inch             | 1        | 2.7%    |
-| Goldstar L1553S GSM3BB0 1024x768 300x230mm 14.9-inch                 | 1        | 2.7%    |
-| Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                  | 1        | 2.7%    |
-| Goldstar D2342P GSM5840 1920x1080 510x290mm 23.1-inch                | 1        | 2.7%    |
-| Eizo EV2316W ENC2394 1920x1080 510x290mm 23.1-inch                   | 1        | 2.7%    |
-| Dell ST2321L DELF033 1920x1080 510x290mm 23.1-inch                   | 1        | 2.7%    |
-| Dell ST2321L DELF031 1920x1080 510x290mm 23.1-inch                   | 1        | 2.7%    |
-| Dell E228WFP DELD014 1680x1050 470x300mm 22.0-inch                   | 1        | 2.7%    |
-| Dell 1708FP DEL4024 1280x1024 340x270mm 17.1-inch                    | 1        | 2.7%    |
-| BenQ LCD Monitor BNQ7725 1920x1080 480x270mm 21.7-inch               | 1        | 2.7%    |
-| BenQ GW2765 BNQ78D6 2560x1440 600x340mm 27.2-inch                    | 1        | 2.7%    |
-| ASUSTek Computer VP247 AUS24CA 1920x1080 520x290mm 23.4-inch         | 1        | 2.7%    |
-| AOC LE19W037 AOC1907 1360x768 410x230mm 18.5-inch                    | 1        | 2.7%    |
-| Ancor Communications MW221 ACI22B1 1680x1050 470x300mm 22.0-inch     | 1        | 2.7%    |
-| Ancor Communications BE24A ACI24AB 1920x1200 520x320mm 24.0-inch     | 1        | 2.7%    |
-| ALP 2476 IPS ALP2476 1920x1080 530x300mm 24.0-inch                   | 1        | 2.7%    |
-| Acer ET430K ACR0558 3840x2160 940x530mm 42.5-inch                    | 1        | 2.7%    |
-| Acer B223W ACR0018 1680x1050 470x300mm 22.0-inch                     | 1        | 2.7%    |
+| Iiyama PLE2407HDS IVM560D 1920x1080 520x300mm 23.6-inch              | 2        | 5.26%   |
+| Vizio LCD Monitor VIZ0022 1920x540 480x270mm 21.7-inch               | 1        | 2.63%   |
+| ViewSonic VX2458-mhd VSC0437 1920x1080 520x290mm 23.4-inch           | 1        | 2.63%   |
+| SGT YSD SGT1700 1280x1024 380x210mm 17.1-inch                        | 1        | 2.63%   |
+| Samsung Electronics T22D390 SAM0B69 1920x1080 480x270mm 21.7-inch    | 1        | 2.63%   |
+| Samsung Electronics SyncMaster SAM05CD 1920x1080                     | 1        | 2.63%   |
+| Samsung Electronics SyncMaster SAM05C5 1920x1080                     | 1        | 2.63%   |
+| Samsung Electronics SMS24A450 SAM083A 1920x1200 520x320mm 24.0-inch  | 1        | 2.63%   |
+| Samsung Electronics LCD Monitor SAM4A75 1024x768 300x230mm 14.9-inch | 1        | 2.63%   |
+| Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch              | 1        | 2.63%   |
+| Philips PHL 193V5 PHLC0CD 1366x768 410x230mm 18.5-inch               | 1        | 2.63%   |
+| Medion MD21281 MED3947 1366x768 410x230mm 18.5-inch                  | 1        | 2.63%   |
+| Lenovo LEN-M73Z-D LEN00A0 1600x900 440x240mm 19.7-inch               | 1        | 2.63%   |
+| Lenovo LEN-E73Z-D LEN00A1 1600x900 440x240mm 19.7-inch               | 1        | 2.63%   |
+| Iiyama PL2409HD IVM560C 1920x1080 520x290mm 23.4-inch                | 1        | 2.63%   |
+| Hewlett-Packard ZR22w HWP2867 1920x1080 480x270mm 21.7-inch          | 1        | 2.63%   |
+| Hewlett-Packard E243m HPN3465 1920x1080 530x300mm 24.0-inch          | 1        | 2.63%   |
+| Hewlett-Packard 2310 HWP288F 1920x1080 510x290mm 23.1-inch           | 1        | 2.63%   |
+| Hewlett-Packard 19ka HWP3328 1366x768 410x230mm 18.5-inch            | 1        | 2.63%   |
+| Haier HT-20216B(C) HAI2031 1920x1080 480x270mm 21.7-inch             | 1        | 2.63%   |
+| Goldstar L1553S GSM3BB0 1024x768 300x230mm 14.9-inch                 | 1        | 2.63%   |
+| Goldstar E1942 GSM4C09 1366x768 410x230mm 18.5-inch                  | 1        | 2.63%   |
+| Goldstar D2342P GSM5840 1920x1080 510x290mm 23.1-inch                | 1        | 2.63%   |
+| Eizo EV2316W ENC2394 1920x1080 510x290mm 23.1-inch                   | 1        | 2.63%   |
+| Dell ST2321L DELF033 1920x1080 510x290mm 23.1-inch                   | 1        | 2.63%   |
+| Dell ST2321L DELF031 1920x1080 510x290mm 23.1-inch                   | 1        | 2.63%   |
+| Dell E228WFP DELD014 1680x1050 470x300mm 22.0-inch                   | 1        | 2.63%   |
+| Dell 1708FP DEL4024 1280x1024 340x270mm 17.1-inch                    | 1        | 2.63%   |
+| BenQ LCD Monitor BNQ7725 1920x1080 480x270mm 21.7-inch               | 1        | 2.63%   |
+| BenQ GW2765 BNQ78D6 2560x1440 600x340mm 27.2-inch                    | 1        | 2.63%   |
+| ASUSTek Computer VP247 AUS24CA 1920x1080 520x290mm 23.4-inch         | 1        | 2.63%   |
+| AOC LE19W037 AOC1907 1360x768 410x230mm 18.5-inch                    | 1        | 2.63%   |
+| Ancor Communications MW221 ACI22B1 1680x1050 470x300mm 22.0-inch     | 1        | 2.63%   |
+| Ancor Communications BE24A ACI24AB 1920x1200 520x320mm 24.0-inch     | 1        | 2.63%   |
+| ALP 2476 IPS ALP2476 1920x1080 530x300mm 24.0-inch                   | 1        | 2.63%   |
+| Acer ET430K ACR0558 3840x2160 940x530mm 42.5-inch                    | 1        | 2.63%   |
+| Acer B223W ACR0018 1680x1050 470x300mm 22.0-inch                     | 1        | 2.63%   |
 
 Monitor Resolution
 ------------------
@@ -1555,17 +1558,17 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 18       | 50%     |
-| 1366x768 (WXGA)    | 4        | 11.11%  |
-| 1680x1050 (WSXGA+) | 3        | 8.33%   |
-| 1920x1200 (WUXGA)  | 2        | 5.56%   |
-| 1600x900 (HD+)     | 2        | 5.56%   |
-| 1024x768 (XGA)     | 2        | 5.56%   |
-| 3840x2160 (4K)     | 1        | 2.78%   |
-| 2560x1440 (QHD)    | 1        | 2.78%   |
-| 1920x540           | 1        | 2.78%   |
-| 1360x768           | 1        | 2.78%   |
-| 1280x1024 (SXGA)   | 1        | 2.78%   |
+| 1920x1080 (FHD)    | 18       | 48.65%  |
+| 1366x768 (WXGA)    | 4        | 10.81%  |
+| 1680x1050 (WSXGA+) | 3        | 8.11%   |
+| 1920x1200 (WUXGA)  | 2        | 5.41%   |
+| 1600x900 (HD+)     | 2        | 5.41%   |
+| 1280x1024 (SXGA)   | 2        | 5.41%   |
+| 1024x768 (XGA)     | 2        | 5.41%   |
+| 3840x2160 (4K)     | 1        | 2.7%    |
+| 2560x1440 (QHD)    | 1        | 2.7%    |
+| 1920x540           | 1        | 2.7%    |
+| 1360x768           | 1        | 2.7%    |
 
 Monitor Diagonal
 ----------------
@@ -1577,17 +1580,17 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 23      | 9        | 25%     |
-| 24      | 5        | 13.89%  |
-| 21      | 5        | 13.89%  |
-| 18      | 5        | 13.89%  |
-| 22      | 3        | 8.33%   |
-| 19      | 2        | 5.56%   |
-| 14      | 2        | 5.56%   |
-| Unknown | 2        | 5.56%   |
-| 42      | 1        | 2.78%   |
-| 27      | 1        | 2.78%   |
-| 17      | 1        | 2.78%   |
+| 23      | 9        | 24.32%  |
+| 24      | 5        | 13.51%  |
+| 21      | 5        | 13.51%  |
+| 18      | 5        | 13.51%  |
+| 22      | 3        | 8.11%   |
+| 19      | 2        | 5.41%   |
+| 17      | 2        | 5.41%   |
+| 14      | 2        | 5.41%   |
+| Unknown | 2        | 5.41%   |
+| 42      | 1        | 2.7%    |
+| 27      | 1        | 2.7%    |
 
 Monitor Width
 -------------
@@ -1599,12 +1602,13 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 15       | 41.67%  |
-| 401-500     | 15       | 41.67%  |
-| 201-300     | 2        | 5.56%   |
-| Unknown     | 2        | 5.56%   |
-| 301-350     | 1        | 2.78%   |
-| 901-1000    | 1        | 2.78%   |
+| 501-600     | 15       | 40.54%  |
+| 401-500     | 15       | 40.54%  |
+| 201-300     | 2        | 5.41%   |
+| Unknown     | 2        | 5.41%   |
+| 351-400     | 1        | 2.7%    |
+| 301-350     | 1        | 2.7%    |
+| 901-1000    | 1        | 2.7%    |
 
 Aspect Ratio
 ------------
@@ -1616,10 +1620,10 @@ Proportional relationship between the width and the height
 
 | Ratio | Desktops | Percent |
 |-------|----------|---------|
-| 16/9  | 28       | 77.78%  |
-| 16/10 | 5        | 13.89%  |
-| 4/3   | 2        | 5.56%   |
-| 5/4   | 1        | 2.78%   |
+| 16/9  | 29       | 78.38%  |
+| 16/10 | 5        | 13.51%  |
+| 4/3   | 2        | 5.41%   |
+| 5/4   | 1        | 2.7%    |
 
 Monitor Area
 ------------
@@ -1631,14 +1635,15 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 20       | 55.56%  |
-| 141-150        | 6        | 16.67%  |
-| 251-300        | 2        | 5.56%   |
-| 151-200        | 2        | 5.56%   |
-| 101-110        | 2        | 5.56%   |
-| Unknown        | 2        | 5.56%   |
-| 301-350        | 1        | 2.78%   |
-| 501-1000       | 1        | 2.78%   |
+| 201-250        | 20       | 54.05%  |
+| 141-150        | 6        | 16.22%  |
+| 251-300        | 2        | 5.41%   |
+| 151-200        | 2        | 5.41%   |
+| 101-110        | 2        | 5.41%   |
+| Unknown        | 2        | 5.41%   |
+| 301-350        | 1        | 2.7%    |
+| 121-130        | 1        | 2.7%    |
+| 501-1000       | 1        | 2.7%    |
 
 Pixel Density
 -------------
@@ -1650,9 +1655,9 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 28       | 77.78%  |
-| 101-120 | 6        | 16.67%  |
-| Unknown | 2        | 5.56%   |
+| 51-100  | 29       | 78.38%  |
+| 101-120 | 6        | 16.22%  |
+| Unknown | 2        | 5.41%   |
 
 Multiple Monitors
 -----------------
@@ -1664,9 +1669,9 @@ Total monitors connected
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 34       | 57.63%  |
-| 0     | 23       | 38.98%  |
-| 2     | 2        | 3.39%   |
+| 1     | 35       | 58.33%  |
+| 0     | 23       | 38.33%  |
+| 2     | 2        | 3.33%   |
 
 Network
 -------
@@ -1975,58 +1980,58 @@ Sound card models
 
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 8        | 6.96%   |
-| AMD SBx00 Azalia (Intel HDA)                                               | 7        | 6.09%   |
-| AMD Starship/Matisse HD Audio Controller                                   | 6        | 5.22%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 6        | 5.22%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 5        | 4.35%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 5        | 4.35%   |
-| Nvidia GF119 HDMI Audio Controller                                         | 4        | 3.48%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 4        | 3.48%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 4        | 3.48%   |
-| Nvidia TU116 High Definition Audio Controller                              | 3        | 2.61%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                      | 3        | 2.61%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 3        | 2.61%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.61%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 3        | 2.61%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3        | 2.61%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 3        | 2.61%   |
-| Texas Instruments PCM2902 Audio Codec                                      | 2        | 1.74%   |
-| Nvidia GM206 High Definition Audio Controller                              | 2        | 1.74%   |
-| Nvidia GK104 HDMI Audio Controller                                         | 2        | 1.74%   |
-| Nvidia GF108 High Definition Audio Controller                              | 2        | 1.74%   |
-| Intel Cannon Lake PCH cAVS                                                 | 2        | 1.74%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 2        | 1.74%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.74%   |
-| Intel 200 Series PCH HD Audio                                              | 2        | 1.74%   |
-| C-Media Electronics CM108 Audio Controller                                 | 2        | 1.74%   |
-| Plantronics Plantronics Blackwire 325.1                                    | 1        | 0.87%   |
-| Nvidia High Definition Audio Controller                                    | 1        | 0.87%   |
-| Nvidia GP108 High Definition Audio Controller                              | 1        | 0.87%   |
-| Nvidia GP107GL High Definition Audio Controller                            | 1        | 0.87%   |
-| Nvidia GP106 High Definition Audio Controller                              | 1        | 0.87%   |
-| Nvidia GP104 High Definition Audio Controller                              | 1        | 0.87%   |
-| Nvidia GP102 HDMI Audio Controller                                         | 1        | 0.87%   |
-| Logitech HD Webcam C910                                                    | 1        | 0.87%   |
-| Logitech HD Webcam C510                                                    | 1        | 0.87%   |
-| Intel Comet Lake PCH cAVS                                                  | 1        | 0.87%   |
-| Intel 82801H (ICH8 Family) HD Audio Controller                             | 1        | 0.87%   |
-| Hewlett-Packard E243m                                                      | 1        | 0.87%   |
-| Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1        | 0.87%   |
-| Creative Labs CA0110 [Sound Blaster X-Fi Xtreme Audio]                     | 1        | 0.87%   |
-| C-Media Electronics CM102-A+/102S+ Audio Controller                        | 1        | 0.87%   |
-| C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 0.87%   |
-| C-Media Electronics Audio Adapter                                          | 1        | 0.87%   |
-| BEHRINGER International UMC202HD 192k                                      | 1        | 0.87%   |
-| AMD Wrestler HDMI Audio                                                    | 1        | 0.87%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 1        | 0.87%   |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 1        | 0.87%   |
-| AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                     | 1        | 0.87%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 0.87%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 0.87%   |
-| AMD Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]                  | 1        | 0.87%   |
-| AMD FCH Azalia Controller                                                  | 1        | 0.87%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 0.87%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 8        | 6.9%    |
+| AMD SBx00 Azalia (Intel HDA)                                               | 7        | 6.03%   |
+| AMD Starship/Matisse HD Audio Controller                                   | 6        | 5.17%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 6        | 5.17%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 5        | 4.31%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 5        | 4.31%   |
+| Nvidia GF119 HDMI Audio Controller                                         | 4        | 3.45%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 4        | 3.45%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 4        | 3.45%   |
+| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 4        | 3.45%   |
+| Nvidia TU116 High Definition Audio Controller                              | 3        | 2.59%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                      | 3        | 2.59%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.59%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 3        | 2.59%   |
+| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3        | 2.59%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 3        | 2.59%   |
+| Texas Instruments PCM2902 Audio Codec                                      | 2        | 1.72%   |
+| Nvidia GM206 High Definition Audio Controller                              | 2        | 1.72%   |
+| Nvidia GK104 HDMI Audio Controller                                         | 2        | 1.72%   |
+| Nvidia GF108 High Definition Audio Controller                              | 2        | 1.72%   |
+| Intel Cannon Lake PCH cAVS                                                 | 2        | 1.72%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 2        | 1.72%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.72%   |
+| Intel 200 Series PCH HD Audio                                              | 2        | 1.72%   |
+| C-Media Electronics CM108 Audio Controller                                 | 2        | 1.72%   |
+| Plantronics Plantronics Blackwire 325.1                                    | 1        | 0.86%   |
+| Nvidia High Definition Audio Controller                                    | 1        | 0.86%   |
+| Nvidia GP108 High Definition Audio Controller                              | 1        | 0.86%   |
+| Nvidia GP107GL High Definition Audio Controller                            | 1        | 0.86%   |
+| Nvidia GP106 High Definition Audio Controller                              | 1        | 0.86%   |
+| Nvidia GP104 High Definition Audio Controller                              | 1        | 0.86%   |
+| Nvidia GP102 HDMI Audio Controller                                         | 1        | 0.86%   |
+| Logitech HD Webcam C910                                                    | 1        | 0.86%   |
+| Logitech HD Webcam C510                                                    | 1        | 0.86%   |
+| Intel Comet Lake PCH cAVS                                                  | 1        | 0.86%   |
+| Intel 82801H (ICH8 Family) HD Audio Controller                             | 1        | 0.86%   |
+| Hewlett-Packard E243m                                                      | 1        | 0.86%   |
+| Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1        | 0.86%   |
+| Creative Labs CA0110 [Sound Blaster X-Fi Xtreme Audio]                     | 1        | 0.86%   |
+| C-Media Electronics CM102-A+/102S+ Audio Controller                        | 1        | 0.86%   |
+| C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 0.86%   |
+| C-Media Electronics Audio Adapter                                          | 1        | 0.86%   |
+| BEHRINGER International UMC202HD 192k                                      | 1        | 0.86%   |
+| AMD Wrestler HDMI Audio                                                    | 1        | 0.86%   |
+| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 1        | 0.86%   |
+| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                               | 1        | 0.86%   |
+| AMD RS780 HDMI Audio [Radeon 3000/3100 / HD 3200/3300]                     | 1        | 0.86%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 0.86%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 0.86%   |
+| AMD Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]                  | 1        | 0.86%   |
+| AMD FCH Azalia Controller                                                  | 1        | 0.86%   |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 0.86%   |
 
 Memory
 ------
@@ -2071,7 +2076,7 @@ Memory module models
 | Unknown                                                 | 3        | 4.29%   |
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.86%   |
 | SK Hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.86%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM 1333MT/s          | 2        | 2.86%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.86%   |
 | Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s    | 2        | 2.86%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                    | 1        | 1.43%   |
 | Unknown RAM Module 4GB FB-DIMM DDR2 667MT/s             | 1        | 1.43%   |

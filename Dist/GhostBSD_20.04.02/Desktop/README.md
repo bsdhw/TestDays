@@ -541,9 +541,10 @@ Number of drives on board
 | 2      | 17       | 36.96%  |
 | 1      | 16       | 34.78%  |
 | 3      | 4        | 8.7%    |
-| 6      | 3        | 6.52%   |
 | 5      | 3        | 6.52%   |
 | 4      | 3        | 6.52%   |
+| 6      | 2        | 4.35%   |
+| 7      | 1        | 2.17%   |
 
 Has CD-ROM
 ----------
@@ -641,7 +642,7 @@ Geographic location (city)
 | Paris            | 3        | 6.67%   |
 | Berlin           | 3        | 6.67%   |
 | Obninsk          | 2        | 4.44%   |
-| Ōta-ku          | 1        | 2.22%   |
+| ЕЊta-ku        | 1        | 2.22%   |
 | Washington       | 1        | 2.22%   |
 | Vidnoye          | 1        | 2.22%   |
 | Veenendaal       | 1        | 2.22%   |
@@ -663,7 +664,7 @@ Geographic location (city)
 | Larnod           | 1        | 2.22%   |
 | Kyiv             | 1        | 2.22%   |
 | Kuala Lumpur     | 1        | 2.22%   |
-| Jyväskylä      | 1        | 2.22%   |
+| JyvГ¤skylГ¤  | 1        | 2.22%   |
 | Huntingdon       | 1        | 2.22%   |
 | Heilbronn        | 1        | 2.22%   |
 | Hamilton         | 1        | 2.22%   |
@@ -1912,7 +1913,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                   | 2        | 2.13%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                   | 2        | 2.13%   |
 | Intel 200 Series PCH HD Audio                                                         | 2        | 2.13%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                   | 2        | 2.13%   |
+| AMD Family 17h/19h HD Audio Controller                                                | 2        | 2.13%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                          | 2        | 2.13%   |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller           | 1        | 1.06%   |
 | Nvidia TU116 High Definition Audio Controller                                         | 1        | 1.06%   |

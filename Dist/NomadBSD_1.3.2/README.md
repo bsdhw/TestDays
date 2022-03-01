@@ -684,7 +684,7 @@ Geographic location (city)
 | Rome             | 2         | 3.77%   |
 | New Braunfels    | 2         | 3.77%   |
 | Los Angeles      | 2         | 3.77%   |
-| Bogotá          | 2         | 3.77%   |
+| BogotГЎ        | 2         | 3.77%   |
 | Wissen           | 1         | 1.89%   |
 | Vladimir         | 1         | 1.89%   |
 | Swindon          | 1         | 1.89%   |
@@ -701,10 +701,10 @@ Geographic location (city)
 | Kowloon          | 1         | 1.89%   |
 | Hranice          | 1         | 1.89%   |
 | Duncan           | 1         | 1.89%   |
-| Córdoba         | 1         | 1.89%   |
+| CГіrdoba       | 1         | 1.89%   |
 | Berkeley         | 1         | 1.89%   |
 | Belgrade         | 1         | 1.89%   |
-| Balıkesir       | 1         | 1.89%   |
+| BalД±kesir     | 1         | 1.89%   |
 | Atlanta          | 1         | 1.89%   |
 
 Drives
@@ -1460,8 +1460,8 @@ Monitor models
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
 | Hewlett-Packard HPQ 8300 AiO HWP4212 1920x1080 510x290mm 23.1-inch        | 1         | 2.08%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 2.08%   |
 | HannStar LCD Monitor HSD0013 1280x1024 380x300mm 19.1-inch                | 1         | 2.08%   |
-| HannStar HSD100IFW1 HSD03E9 1024x600 220x130mm 10.1-inch                  | 1         | 2.08%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 480x270mm 21.7-inch                     | 1         | 2.08%   |
 | Dell U2414H DELA0A4 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |
 | Dell U2414H DELA0A2 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |
@@ -1995,7 +1995,7 @@ Sound card models
 | C-Media Electronics Audio Adapter                                                                 | 1         | 1.39%   |
 | Blue Microphones Yeti Stereo Microphone                                                           | 1         | 1.39%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 1         | 1.39%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 1         | 1.39%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 1         | 1.39%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1         | 1.39%   |
 
 Memory

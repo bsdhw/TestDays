@@ -658,9 +658,9 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 48        | 53.33%  |
+| 1      | 49        | 54.44%  |
 | 2      | 24        | 26.67%  |
-| 3      | 8         | 8.89%   |
+| 3      | 7         | 7.78%   |
 | 4      | 4         | 4.44%   |
 | 6      | 2         | 2.22%   |
 | 5      | 2         | 2.22%   |
@@ -765,68 +765,68 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                  | Computers | Percent |
-|-----------------------|-----------|---------|
-| Saint-Laurent         | 7         | 7.78%   |
-| Moscow                | 4         | 4.44%   |
-| Yekaterinburg         | 2         | 2.22%   |
-| Riga                  | 2         | 2.22%   |
-| Papillion             | 2         | 2.22%   |
-| Miedziana Gora        | 2         | 2.22%   |
-| Los Angeles           | 2         | 2.22%   |
-| Brooklyn              | 2         | 2.22%   |
-| Bielefeld             | 2         | 2.22%   |
-| Berlin                | 2         | 2.22%   |
-| Barneveld             | 2         | 2.22%   |
-| 's-Hertogenbosch      | 2         | 2.22%   |
-| Wolfsburg             | 1         | 1.11%   |
-| Wittersham            | 1         | 1.11%   |
-| Watford               | 1         | 1.11%   |
-| Victoria              | 1         | 1.11%   |
-| Vechta                | 1         | 1.11%   |
-| Van Nuys              | 1         | 1.11%   |
-| Valdivia              | 1         | 1.11%   |
-| Vacaville             | 1         | 1.11%   |
-| Teriang               | 1         | 1.11%   |
-| São Paulo            | 1         | 1.11%   |
-| Syeverodonets'k       | 1         | 1.11%   |
-| Surabaya              | 1         | 1.11%   |
-| Spokane               | 1         | 1.11%   |
-| Solna                 | 1         | 1.11%   |
-| Soeraker              | 1         | 1.11%   |
-| Sedavi                | 1         | 1.11%   |
-| Sechelt               | 1         | 1.11%   |
-| Sammamish             | 1         | 1.11%   |
-| Saint-Martin-d'Hères | 1         | 1.11%   |
-| Roubaix               | 1         | 1.11%   |
-| Roseville             | 1         | 1.11%   |
-| Rodgau                | 1         | 1.11%   |
-| Riyadh                | 1         | 1.11%   |
-| Quezon City           | 1         | 1.11%   |
-| Plainfield            | 1         | 1.11%   |
-| Onalaska              | 1         | 1.11%   |
-| Oensingen             | 1         | 1.11%   |
-| Oeiras                | 1         | 1.11%   |
-| New York              | 1         | 1.11%   |
-| New Taipei            | 1         | 1.11%   |
-| Neuilly-sur-Marne     | 1         | 1.11%   |
-| Monts                 | 1         | 1.11%   |
-| McLeod                | 1         | 1.11%   |
-| Madrid                | 1         | 1.11%   |
-| Kyiv                  | 1         | 1.11%   |
-| Korolyov              | 1         | 1.11%   |
-| Kingston              | 1         | 1.11%   |
-| Independence          | 1         | 1.11%   |
-| Hoeviksnaes           | 1         | 1.11%   |
-| Hockenheim            | 1         | 1.11%   |
-| Heilbronn             | 1         | 1.11%   |
-| Hamilton              | 1         | 1.11%   |
-| Greensburg            | 1         | 1.11%   |
-| Frankfurt am Main     | 1         | 1.11%   |
-| Estoril               | 1         | 1.11%   |
-| Donetsk               | 1         | 1.11%   |
-| Dallas                | 1         | 1.11%   |
-| Covington             | 1         | 1.11%   |
+| City                    | Computers | Percent |
+|-------------------------|-----------|---------|
+| Saint-Laurent           | 7         | 7.78%   |
+| Moscow                  | 4         | 4.44%   |
+| Yekaterinburg           | 2         | 2.22%   |
+| Riga                    | 2         | 2.22%   |
+| Papillion               | 2         | 2.22%   |
+| Miedziana Gora          | 2         | 2.22%   |
+| Los Angeles             | 2         | 2.22%   |
+| Brooklyn                | 2         | 2.22%   |
+| Bielefeld               | 2         | 2.22%   |
+| Berlin                  | 2         | 2.22%   |
+| Barneveld               | 2         | 2.22%   |
+| 's-Hertogenbosch        | 2         | 2.22%   |
+| Wolfsburg               | 1         | 1.11%   |
+| Wittersham              | 1         | 1.11%   |
+| Watford                 | 1         | 1.11%   |
+| Victoria                | 1         | 1.11%   |
+| Vechta                  | 1         | 1.11%   |
+| Van Nuys                | 1         | 1.11%   |
+| Valdivia                | 1         | 1.11%   |
+| Vacaville               | 1         | 1.11%   |
+| Teriang                 | 1         | 1.11%   |
+| SГЈo Paulo            | 1         | 1.11%   |
+| Syeverodonets'k         | 1         | 1.11%   |
+| Surabaya                | 1         | 1.11%   |
+| Spokane                 | 1         | 1.11%   |
+| Solna                   | 1         | 1.11%   |
+| Soeraker                | 1         | 1.11%   |
+| Sedavi                  | 1         | 1.11%   |
+| Sechelt                 | 1         | 1.11%   |
+| Sammamish               | 1         | 1.11%   |
+| Saint-Martin-d'HГЁres | 1         | 1.11%   |
+| Roubaix                 | 1         | 1.11%   |
+| Roseville               | 1         | 1.11%   |
+| Rodgau                  | 1         | 1.11%   |
+| Riyadh                  | 1         | 1.11%   |
+| Quezon City             | 1         | 1.11%   |
+| Plainfield              | 1         | 1.11%   |
+| Onalaska                | 1         | 1.11%   |
+| Oensingen               | 1         | 1.11%   |
+| Oeiras                  | 1         | 1.11%   |
+| New York                | 1         | 1.11%   |
+| New Taipei              | 1         | 1.11%   |
+| Neuilly-sur-Marne       | 1         | 1.11%   |
+| Monts                   | 1         | 1.11%   |
+| McLeod                  | 1         | 1.11%   |
+| Madrid                  | 1         | 1.11%   |
+| Kyiv                    | 1         | 1.11%   |
+| Korolyov                | 1         | 1.11%   |
+| Kingston                | 1         | 1.11%   |
+| Independence            | 1         | 1.11%   |
+| Hoeviksnaes             | 1         | 1.11%   |
+| Hockenheim              | 1         | 1.11%   |
+| Heilbronn               | 1         | 1.11%   |
+| Hamilton                | 1         | 1.11%   |
+| Greensburg              | 1         | 1.11%   |
+| Frankfurt am Main       | 1         | 1.11%   |
+| Estoril                 | 1         | 1.11%   |
+| Donetsk                 | 1         | 1.11%   |
+| Dallas                  | 1         | 1.11%   |
+| Covington               | 1         | 1.11%   |
 
 Drives
 ------
@@ -2263,7 +2263,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                                   | 6         | 6%      |
 | Intel Broadwell-U Audio Controller                                                | 6         | 6%      |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 5         | 5%      |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                               | 5         | 5%      |
+| AMD Family 17h/19h HD Audio Controller                                            | 5         | 5%      |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                          | 4         | 4%      |
 | AMD Renoir Radeon High Definition Audio Controller                                | 4         | 4%      |
 | Intel Cannon Point-LP High Definition Audio Controller                            | 3         | 3%      |

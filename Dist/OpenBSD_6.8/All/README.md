@@ -733,7 +733,7 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 26        | 12.5%   |
+| 2019    | 25        | 12.02%  |
 | 2016    | 23        | 11.06%  |
 | 2018    | 21        | 10.1%   |
 | 2020    | 19        | 9.13%   |
@@ -743,8 +743,8 @@ Motherboard manufacture year
 | 2012    | 11        | 5.29%   |
 | Unknown | 11        | 5.29%   |
 | 2010    | 10        | 4.81%   |
+| 2014    | 9         | 4.33%   |
 | 2011    | 9         | 4.33%   |
-| 2014    | 8         | 3.85%   |
 | 2007    | 7         | 3.37%   |
 | 2009    | 6         | 2.88%   |
 | 2006    | 6         | 2.88%   |
@@ -835,11 +835,11 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 116       | 54.72%  |
-| 2      | 62        | 29.25%  |
-| 3      | 18        | 8.49%   |
-| 4      | 10        | 4.72%   |
-| 10     | 2         | 0.94%   |
+| 1      | 117       | 55.45%  |
+| 2      | 59        | 27.96%  |
+| 3      | 18        | 8.53%   |
+| 4      | 11        | 5.21%   |
+| 10     | 2         | 0.95%   |
 | 12     | 1         | 0.47%   |
 | 7      | 1         | 0.47%   |
 | 6      | 1         | 0.47%   |
@@ -964,7 +964,7 @@ Geographic location (city)
 | Amsterdam                  | 8         | 3.79%   |
 | Berlin                     | 6         | 2.84%   |
 | Vladivostok                | 5         | 2.37%   |
-| Québec                    | 5         | 2.37%   |
+| QuГ©bec                  | 5         | 2.37%   |
 | St Petersburg              | 4         | 1.9%    |
 | New Taipei                 | 4         | 1.9%    |
 | Malmo                      | 4         | 1.9%    |
@@ -978,7 +978,7 @@ Geographic location (city)
 | Svenstrup                  | 2         | 0.95%   |
 | Sofia                      | 2         | 0.95%   |
 | Skien                      | 2         | 0.95%   |
-| Saint-Martin-d'Hères      | 2         | 0.95%   |
+| Saint-Martin-d'HГЁres    | 2         | 0.95%   |
 | Saint-Herblain             | 2         | 0.95%   |
 | Riga                       | 2         | 0.95%   |
 | Paris                      | 2         | 0.95%   |
@@ -2622,7 +2622,7 @@ Sound card models
 | Intel NM10/ICH7 Family High Definition Audio Controller                                           | 9         | 4.25%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 8         | 3.77%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 8         | 3.77%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 8         | 3.77%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 8         | 3.77%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 7         | 3.3%    |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7         | 3.3%    |
 | Intel Haswell-ULT HD Audio Controller                                                             | 6         | 2.83%   |

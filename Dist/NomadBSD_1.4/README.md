@@ -1581,7 +1581,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 6.25%   |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 6.25%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 6.25%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 2         | 6.25%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2         | 6.25%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 1         | 3.13%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 3.13%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1         | 3.13%   |

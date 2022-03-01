@@ -617,7 +617,7 @@ Geographic location (city)
 | London           | 1         | 2.86%   |
 | Kowloon          | 1         | 2.86%   |
 | Hranice          | 1         | 2.86%   |
-| Bogotá          | 1         | 2.86%   |
+| BogotГЎ        | 1         | 2.86%   |
 | Atlanta          | 1         | 2.86%   |
 
 Drives
@@ -1254,7 +1254,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 3.57%   |
-| HannStar HSD100IFW1 HSD03E9 1024x600 220x130mm 10.1-inch                  | 1         | 3.57%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 310x170mm 13.9-inch          | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1490 1366x768 310x170mm 13.9-inch           | 1         | 3.57%   |

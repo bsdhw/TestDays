@@ -613,12 +613,12 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 20        | 18.35%  |
 | 2018 | 12        | 11.01%  |
-| 2019 | 11        | 10.09%  |
 | 2013 | 11        | 10.09%  |
+| 2019 | 10        | 9.17%   |
 | 2014 | 10        | 9.17%   |
 | 2012 | 9         | 8.26%   |
 | 2017 | 7         | 6.42%   |
-| 2015 | 6         | 5.5%    |
+| 2015 | 7         | 6.42%   |
 | 2011 | 6         | 5.5%    |
 | 2009 | 5         | 4.59%   |
 | 2016 | 4         | 3.67%   |
@@ -701,10 +701,11 @@ Number of drives on board
 | 1      | 63        | 57.27%  |
 | 2      | 31        | 28.18%  |
 | 3      | 4         | 3.64%   |
-| 6      | 3         | 2.73%   |
 | 5      | 3         | 2.73%   |
 | 4      | 3         | 2.73%   |
 | 0      | 3         | 2.73%   |
+| 6      | 2         | 1.82%   |
+| 7      | 1         | 0.91%   |
 
 Has CD-ROM
 ----------
@@ -812,68 +813,68 @@ Geographic location (city)
 ![City](./All/images/pie_chart_bsd/node_city.svg)
 
 
-| City           | Computers | Percent |
-|----------------|-----------|---------|
-| Paris          | 3         | 2.7%    |
-| London         | 3         | 2.7%    |
-| Franconville   | 3         | 2.7%    |
-| Chrusty        | 3         | 2.7%    |
-| Berlin         | 3         | 2.7%    |
-| Richmond       | 2         | 1.8%    |
-| Oslo           | 2         | 1.8%    |
-| Obninsk        | 2         | 1.8%    |
-| Kyiv           | 2         | 1.8%    |
-| Jyväskylä    | 2         | 1.8%    |
-| Hamilton       | 2         | 1.8%    |
-| Giessen        | 2         | 1.8%    |
-| Eiken          | 2         | 1.8%    |
-| Cologne        | 2         | 1.8%    |
-| Clemmons       | 2         | 1.8%    |
-| Atascadero     | 2         | 1.8%    |
-| Ōta-ku        | 1         | 0.9%    |
-| Zurich         | 1         | 0.9%    |
-| Yokohama       | 1         | 0.9%    |
-| Yaroslavl      | 1         | 0.9%    |
-| Whittier       | 1         | 0.9%    |
-| Wenatchee      | 1         | 0.9%    |
-| Washington     | 1         | 0.9%    |
-| Vidnoye        | 1         | 0.9%    |
-| Veenendaal     | 1         | 0.9%    |
-| Truro          | 1         | 0.9%    |
-| Taita          | 1         | 0.9%    |
-| Sydney         | 1         | 0.9%    |
-| Swindon        | 1         | 0.9%    |
-| Stiring-Wendel | 1         | 0.9%    |
-| St Petersburg  | 1         | 0.9%    |
-| Sollentuna     | 1         | 0.9%    |
-| Santo Tomas    | 1         | 0.9%    |
-| Salem          | 1         | 0.9%    |
-| Rome           | 1         | 0.9%    |
-| Rochester      | 1         | 0.9%    |
-| Riedstadt      | 1         | 0.9%    |
-| Resistencia    | 1         | 0.9%    |
-| Prague         | 1         | 0.9%    |
-| Phoenix        | 1         | 0.9%    |
-| Peoria         | 1         | 0.9%    |
-| Palm Bay       | 1         | 0.9%    |
-| Oshakati       | 1         | 0.9%    |
-| Omaha          | 1         | 0.9%    |
-| Moscow         | 1         | 0.9%    |
-| Moncton        | 1         | 0.9%    |
-| Milan          | 1         | 0.9%    |
-| Marysville     | 1         | 0.9%    |
-| Makati City    | 1         | 0.9%    |
-| Madrid         | 1         | 0.9%    |
-| Luxembourg     | 1         | 0.9%    |
-| Lutz           | 1         | 0.9%    |
-| Lorient        | 1         | 0.9%    |
-| Lenzburg       | 1         | 0.9%    |
-| Larnod         | 1         | 0.9%    |
-| Kuala Lumpur   | 1         | 0.9%    |
-| Krasnoyarsk    | 1         | 0.9%    |
-| Huntingdon     | 1         | 0.9%    |
-| Huddersfield   | 1         | 0.9%    |
-| Heilbronn      | 1         | 0.9%    |
+| City            | Computers | Percent |
+|-----------------|-----------|---------|
+| Paris           | 3         | 2.7%    |
+| London          | 3         | 2.7%    |
+| Franconville    | 3         | 2.7%    |
+| Chrusty         | 3         | 2.7%    |
+| Berlin          | 3         | 2.7%    |
+| Richmond        | 2         | 1.8%    |
+| Oslo            | 2         | 1.8%    |
+| Obninsk         | 2         | 1.8%    |
+| Kyiv            | 2         | 1.8%    |
+| JyvГ¤skylГ¤ | 2         | 1.8%    |
+| Hamilton        | 2         | 1.8%    |
+| Giessen         | 2         | 1.8%    |
+| Eiken           | 2         | 1.8%    |
+| Cologne         | 2         | 1.8%    |
+| Clemmons        | 2         | 1.8%    |
+| Atascadero      | 2         | 1.8%    |
+| ЕЊta-ku       | 1         | 0.9%    |
+| Zurich          | 1         | 0.9%    |
+| Yokohama        | 1         | 0.9%    |
+| Yaroslavl       | 1         | 0.9%    |
+| Whittier        | 1         | 0.9%    |
+| Wenatchee       | 1         | 0.9%    |
+| Washington      | 1         | 0.9%    |
+| Vidnoye         | 1         | 0.9%    |
+| Veenendaal      | 1         | 0.9%    |
+| Truro           | 1         | 0.9%    |
+| Taita           | 1         | 0.9%    |
+| Sydney          | 1         | 0.9%    |
+| Swindon         | 1         | 0.9%    |
+| Stiring-Wendel  | 1         | 0.9%    |
+| St Petersburg   | 1         | 0.9%    |
+| Sollentuna      | 1         | 0.9%    |
+| Santo Tomas     | 1         | 0.9%    |
+| Salem           | 1         | 0.9%    |
+| Rome            | 1         | 0.9%    |
+| Rochester       | 1         | 0.9%    |
+| Riedstadt       | 1         | 0.9%    |
+| Resistencia     | 1         | 0.9%    |
+| Prague          | 1         | 0.9%    |
+| Phoenix         | 1         | 0.9%    |
+| Peoria          | 1         | 0.9%    |
+| Palm Bay        | 1         | 0.9%    |
+| Oshakati        | 1         | 0.9%    |
+| Omaha           | 1         | 0.9%    |
+| Moscow          | 1         | 0.9%    |
+| Moncton         | 1         | 0.9%    |
+| Milan           | 1         | 0.9%    |
+| Marysville      | 1         | 0.9%    |
+| Makati City     | 1         | 0.9%    |
+| Madrid          | 1         | 0.9%    |
+| Luxembourg      | 1         | 0.9%    |
+| Lutz            | 1         | 0.9%    |
+| Lorient         | 1         | 0.9%    |
+| Lenzburg        | 1         | 0.9%    |
+| Larnod          | 1         | 0.9%    |
+| Kuala Lumpur    | 1         | 0.9%    |
+| Krasnoyarsk     | 1         | 0.9%    |
+| Huntingdon      | 1         | 0.9%    |
+| Huddersfield    | 1         | 0.9%    |
+| Heilbronn       | 1         | 0.9%    |
 
 Drives
 ------
@@ -1753,7 +1754,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1020x570mm 46.0-inch | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM02A4 1360x768                       | 1         | 0.94%   |
@@ -2351,7 +2352,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                                    | 9         | 4.95%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                                   | 8         | 4.4%    |
 | AMD Starship/Matisse HD Audio Controller                                              | 7         | 3.85%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                   | 7         | 3.85%   |
+| AMD Family 17h/19h HD Audio Controller                                                | 7         | 3.85%   |
 | AMD FCH Azalia Controller                                                             | 6         | 3.3%    |
 | Nvidia GK107 HDMI Audio Controller                                                    | 5         | 2.75%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                   | 5         | 2.75%   |
@@ -2427,7 +2428,7 @@ Memory module vendors
 | Corsair             | 8         | 5.97%   |
 | Micron Technology   | 6         | 4.48%   |
 | A-DATA Technology   | 4         | 2.99%   |
-| ELPIDA              | 3         | 2.24%   |
+| Elpida              | 3         | 2.24%   |
 | Nanya Technology    | 2         | 1.49%   |
 | Unknown (ABCD)      | 1         | 0.75%   |
 | Team                | 1         | 0.75%   |
@@ -2677,6 +2678,7 @@ Camera device models
 | Microdia Integrated Webcam                                     | 2         | 3.57%   |
 | Chicony HD WebCam                                              | 2         | 3.57%   |
 | Chicony Chicony USB2.0 Camera                                  | 2         | 3.57%   |
+| Alcor Micro USB 2.0 Camera                                     | 2         | 3.57%   |
 | Xiongmai web camera                                            | 1         | 1.79%   |
 | Trust Trust USB Camera                                         | 1         | 1.79%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 1.79%   |
@@ -2704,8 +2706,6 @@ Camera device models
 | Chicony Lenovo EasyCamera                                      | 1         | 1.79%   |
 | Chicony HP High Definition 1MP Webcam                          | 1         | 1.79%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.79%   |
-| Alcor Micro USB 2.0 Camera                                     | 1         | 1.79%   |
-| Alcor Micro SHUNCCM2MP                                         | 1         | 1.79%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 1.79%   |
 | Alcor Micro Acer Integrated Webcam                             | 1         | 1.79%   |
 | Acer ThinkPad Integrated Camera                                | 1         | 1.79%   |

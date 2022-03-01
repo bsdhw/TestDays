@@ -630,9 +630,9 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 35       | 39.33%  |
-| 3      | 18       | 20.22%  |
+| 1      | 36       | 40.45%  |
 | 2      | 18       | 20.22%  |
+| 3      | 17       | 19.1%   |
 | 4      | 11       | 12.36%  |
 | 5      | 3        | 3.37%   |
 | 6      | 2        | 2.25%   |
@@ -759,7 +759,7 @@ Geographic location (city)
 | Terni               | 1        | 1.11%   |
 | Taoyuan District    | 1        | 1.11%   |
 | Tallinn             | 1        | 1.11%   |
-| São Paulo          | 1        | 1.11%   |
+| SГЈo Paulo        | 1        | 1.11%   |
 | St Petersburg       | 1        | 1.11%   |
 | Sheffield           | 1        | 1.11%   |
 | Sevastopol          | 1        | 1.11%   |
@@ -778,7 +778,7 @@ Geographic location (city)
 | Renens              | 1        | 1.11%   |
 | Reigate             | 1        | 1.11%   |
 | Ravenna             | 1        | 1.11%   |
-| Querétaro City     | 1        | 1.11%   |
+| QuerГ©taro City   | 1        | 1.11%   |
 | Qinnan              | 1        | 1.11%   |
 | Pyrgos Dirou        | 1        | 1.11%   |
 | Pau                 | 1        | 1.11%   |
@@ -791,11 +791,11 @@ Geographic location (city)
 | Moscow              | 1        | 1.11%   |
 | Metzingen           | 1        | 1.11%   |
 | Melbourne           | 1        | 1.11%   |
-| Medellín           | 1        | 1.11%   |
+| MedellГ­n         | 1        | 1.11%   |
 | Madrid              | 1        | 1.11%   |
 | Macatuba            | 1        | 1.11%   |
 | Macao               | 1        | 1.11%   |
-| Lübeck             | 1        | 1.11%   |
+| LГјbeck           | 1        | 1.11%   |
 | Lucca               | 1        | 1.11%   |
 | Lima                | 1        | 1.11%   |
 | Kyiv                | 1        | 1.11%   |
@@ -2102,7 +2102,7 @@ Controller models
 | Intel Bluetooth wireless interface                      | 3        | 10.71%  |
 | Intel AX200 Bluetooth                                   | 3        | 10.71%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                       | 2        | 7.14%   |
-| ASUS As}weUSB-BT500                                     | 2        | 7.14%   |
+| ASUS ASUS USB-BT500                                     | 2        | 7.14%   |
 | Realtek  Bluetooth Adapter                              | 1        | 3.57%   |
 | Realtek  Bluetooth 4.0 Adapter                          | 1        | 3.57%   |
 | Realtek Bluetooth Radio                                 | 1        | 3.57%   |
@@ -2178,7 +2178,7 @@ Sound card models
 | Nvidia GF119 HDMI Audio Controller                                         | 2        | 1.14%   |
 | Nvidia GF108 High Definition Audio Controller                              | 2        | 1.14%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 1.14%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 2        | 1.14%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 2        | 1.14%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 2        | 1.14%   |
 | Texas Instruments PCM2704 16-bit stereo audio DAC                          | 1        | 0.57%   |
 | Nvidia TU116 High Definition Audio Controller                              | 1        | 0.57%   |
@@ -2369,8 +2369,8 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 25       | 27.17%  |
-| 1333    | 21       | 22.83%  |
+| 1600    | 26       | 28.26%  |
+| 1333    | 20       | 21.74%  |
 | 2400    | 13       | 14.13%  |
 | 800     | 7        | 7.61%   |
 | 3200    | 4        | 4.35%   |

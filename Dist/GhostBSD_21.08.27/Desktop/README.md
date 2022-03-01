@@ -1285,7 +1285,7 @@ Sound card models
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                              | 1        | 6.25%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 6.25%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 6.25%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                        | 1        | 6.25%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 1        | 6.25%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 6.25%   |
 
 Memory

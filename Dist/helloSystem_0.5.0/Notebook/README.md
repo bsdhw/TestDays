@@ -787,68 +787,68 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                 | Notebooks | Percent |
-|----------------------|-----------|---------|
-| Zurich               | 2         | 1.69%   |
-| Wroclaw              | 2         | 1.69%   |
-| Surabaya             | 2         | 1.69%   |
-| Berlin               | 2         | 1.69%   |
-| Zhengzhou            | 1         | 0.85%   |
-| Zagreb               | 1         | 0.85%   |
-| Wuhan                | 1         | 0.85%   |
-| Washington           | 1         | 0.85%   |
-| Warmond              | 1         | 0.85%   |
-| Wandur               | 1         | 0.85%   |
-| Vilnius              | 1         | 0.85%   |
-| Vigonovo             | 1         | 0.85%   |
-| Vienna               | 1         | 0.85%   |
-| V?�ster??s           | 1         | 0.85%   |
-| Vancouver            | 1         | 0.85%   |
-| Utrecht              | 1         | 0.85%   |
-| Tula de Allende      | 1         | 0.85%   |
-| Traverse City        | 1         | 0.85%   |
-| The Bronx            | 1         | 0.85%   |
-| Tangara              | 1         | 0.85%   |
-| Sungai Buloh         | 1         | 0.85%   |
-| Solarino             | 1         | 0.85%   |
-| Sofia                | 1         | 0.85%   |
-| Shibakoen            | 1         | 0.85%   |
-| Shasta               | 1         | 0.85%   |
-| S??o Paulo           | 1         | 0.85%   |
-| Santo Domingo Este   | 1         | 0.85%   |
-| Sankt Augustin       | 1         | 0.85%   |
-| Roosendaal           | 1         | 0.85%   |
-| Riga                 | 1         | 0.85%   |
-| Redondela            | 1         | 0.85%   |
-| Pleidelsheim         | 1         | 0.85%   |
-| Plav                 | 1         | 0.85%   |
-| Plattsburgh          | 1         | 0.85%   |
-| Perwez               | 1         | 0.85%   |
-| Padova               | 1         | 0.85%   |
-| Osasco               | 1         | 0.85%   |
-| Oosterhout           | 1         | 0.85%   |
-| Oklahoma City        | 1         | 0.85%   |
-| Notting Hill Gate    | 1         | 0.85%   |
-| Nizwa                | 1         | 0.85%   |
-| New Braunfels        | 1         | 0.85%   |
-| Munich               | 1         | 0.85%   |
-| Morden               | 1         | 0.85%   |
-| Montreuil            | 1         | 0.85%   |
-| Miskolc              | 1         | 0.85%   |
-| Mar del Plata        | 1         | 0.85%   |
-| Macerata             | 1         | 0.85%   |
-| Lusk                 | 1         | 0.85%   |
-| Lule??               | 1         | 0.85%   |
-| Lisbon               | 1         | 0.85%   |
-| Liptovský Mikuláš | 1         | 0.85%   |
-| Limassol             | 1         | 0.85%   |
-| Leipzig              | 1         | 0.85%   |
-| Leesville            | 1         | 0.85%   |
-| Las Vegas            | 1         | 0.85%   |
-| Langnau am Albis     | 1         | 0.85%   |
-| Lake Forest          | 1         | 0.85%   |
-| Lajeado              | 1         | 0.85%   |
-| Lahti                | 1         | 0.85%   |
+| City                       | Notebooks | Percent |
+|----------------------------|-----------|---------|
+| Zurich                     | 2         | 1.69%   |
+| Wroclaw                    | 2         | 1.69%   |
+| Surabaya                   | 2         | 1.69%   |
+| Berlin                     | 2         | 1.69%   |
+| Zhengzhou                  | 1         | 0.85%   |
+| Zagreb                     | 1         | 0.85%   |
+| Wuhan                      | 1         | 0.85%   |
+| Washington                 | 1         | 0.85%   |
+| Warmond                    | 1         | 0.85%   |
+| Wandur                     | 1         | 0.85%   |
+| Vilnius                    | 1         | 0.85%   |
+| Vigonovo                   | 1         | 0.85%   |
+| Vienna                     | 1         | 0.85%   |
+| VÃ¤sterÃ¥s             | 1         | 0.85%   |
+| Vancouver                  | 1         | 0.85%   |
+| Utrecht                    | 1         | 0.85%   |
+| Tula de Allende            | 1         | 0.85%   |
+| Traverse City              | 1         | 0.85%   |
+| The Bronx                  | 1         | 0.85%   |
+| Tangara                    | 1         | 0.85%   |
+| Sungai Buloh               | 1         | 0.85%   |
+| Solarino                   | 1         | 0.85%   |
+| Sofia                      | 1         | 0.85%   |
+| Shibakoen                  | 1         | 0.85%   |
+| Shasta                     | 1         | 0.85%   |
+| SÃ£o Paulo               | 1         | 0.85%   |
+| Santo Domingo Este         | 1         | 0.85%   |
+| Sankt Augustin             | 1         | 0.85%   |
+| Roosendaal                 | 1         | 0.85%   |
+| Riga                       | 1         | 0.85%   |
+| Redondela                  | 1         | 0.85%   |
+| Pleidelsheim               | 1         | 0.85%   |
+| Plav                       | 1         | 0.85%   |
+| Plattsburgh                | 1         | 0.85%   |
+| Perwez                     | 1         | 0.85%   |
+| Padova                     | 1         | 0.85%   |
+| Osasco                     | 1         | 0.85%   |
+| Oosterhout                 | 1         | 0.85%   |
+| Oklahoma City              | 1         | 0.85%   |
+| Notting Hill Gate          | 1         | 0.85%   |
+| Nizwa                      | 1         | 0.85%   |
+| New Braunfels              | 1         | 0.85%   |
+| Munich                     | 1         | 0.85%   |
+| Morden                     | 1         | 0.85%   |
+| Montreuil                  | 1         | 0.85%   |
+| Miskolc                    | 1         | 0.85%   |
+| Mar del Plata              | 1         | 0.85%   |
+| Macerata                   | 1         | 0.85%   |
+| Lusk                       | 1         | 0.85%   |
+| LuleÃ¥                   | 1         | 0.85%   |
+| Lisbon                     | 1         | 0.85%   |
+| LiptovskГЅ MikulГЎЕЎ | 1         | 0.85%   |
+| Limassol                   | 1         | 0.85%   |
+| Leipzig                    | 1         | 0.85%   |
+| Leesville                  | 1         | 0.85%   |
+| Las Vegas                  | 1         | 0.85%   |
+| Langnau am Albis           | 1         | 0.85%   |
+| Lake Forest                | 1         | 0.85%   |
+| Lajeado                    | 1         | 0.85%   |
+| Lahti                      | 1         | 0.85%   |
 
 Drives
 ------
@@ -2285,7 +2285,7 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                                        | 3         | 1.99%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3         | 1.99%   |
 | AMD FCH Azalia Controller                                                                         | 3         | 1.99%   |
-| AMD Family 17h (Models 10h-1fh) HD Audio Controller                                               | 3         | 1.99%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 3         | 1.99%   |
 | Nvidia GT216 HDMI Audio Controller                                                                | 2         | 1.32%   |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 2         | 1.32%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 2         | 1.32%   |
@@ -2629,7 +2629,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Realtek DMFT - RGB  | 1         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP Universal Camera | 1         | 1.18%   |
 | ALi M5602 Video Camera Controller                          | 1         | 1.18%   |
-| Alcor Micro SHUNCCM2MP                                     | 1         | 1.18%   |
+| Alcor Micro USB 2.0 Camera                                 | 1         | 1.18%   |
 | Alcor Micro Acer Integrated Webcam                         | 1         | 1.18%   |
 | Acer ThinkPad Integrated Camera                            | 1         | 1.18%   |
 | Acer Lenovo Integrated Webcam                              | 1         | 1.18%   |
