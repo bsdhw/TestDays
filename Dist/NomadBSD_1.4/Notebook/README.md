@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 21
+
 | Vendor   | Model                       | Probe                                                     | Date         |
 |----------|-----------------------------|-----------------------------------------------------------|--------------|
 | Lenovo   | ThinkPad T510 4384FF3       | [25e208721d](https://bsd-hardware.info/?probe=25e208721d) | Jul 02, 2021 |

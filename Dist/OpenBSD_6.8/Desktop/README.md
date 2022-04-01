@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 132
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | ASRock        | X99 WS                      | [201a7417a5](https://bsd-hardware.info/?probe=201a7417a5) | Jun 11, 2021 |
@@ -453,7 +455,7 @@ Motherboard model
 
 | Name                                    | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| PC Engines apu2                         | 13       | 11.93%  |
+| PC Engines APU2                         | 13       | 11.93%  |
 | Unknown                                 | 7        | 6.42%   |
 | PC Engines apu4                         | 4        | 3.67%   |
 | PC Engines apu1                         | 4        | 3.67%   |

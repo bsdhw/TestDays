@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 82
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | Jumper        | EZbook                      | [7d648bcdc7](https://bsd-hardware.info/?probe=7d648bcdc7) | Jan 17, 2022 |
@@ -1440,7 +1442,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SEC4542 1366x768 310x170mm 13.9-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch | 1         | 1.89%   |
@@ -1511,7 +1513,7 @@ Diagonal size in inches
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
 | 15      | 26        | 49.06%  |
-| 13      | 14        | 26.42%  |
+| 13      | 13        | 24.53%  |
 | 17      | 4         | 7.55%   |
 | 12      | 3         | 5.66%   |
 | 39      | 1         | 1.89%   |
@@ -1519,6 +1521,7 @@ Diagonal size in inches
 | 24      | 1         | 1.89%   |
 | 22      | 1         | 1.89%   |
 | 21      | 1         | 1.89%   |
+| 14      | 1         | 1.89%   |
 | Unknown | 1         | 1.89%   |
 
 Monitor Width
@@ -1531,8 +1534,8 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 39        | 75%     |
-| 201-300     | 4         | 7.69%   |
+| 301-350     | 38        | 73.08%  |
+| 201-300     | 5         | 9.62%   |
 | 351-400     | 3         | 5.77%   |
 | 801-900     | 2         | 3.85%   |
 | 401-500     | 2         | 3.85%   |
@@ -1549,8 +1552,8 @@ Proportional relationship between the width and the height
 
 | Ratio | Notebooks | Percent |
 |-------|-----------|---------|
-| 16/9  | 44        | 89.8%   |
-| 16/10 | 3         | 6.12%   |
+| 16/9  | 43        | 87.76%  |
+| 16/10 | 4         | 8.16%   |
 | 5/4   | 1         | 2.04%   |
 | 21/9  | 1         | 2.04%   |
 

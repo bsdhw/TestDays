@@ -149,6 +149,8 @@ Contents
 Test Cases
 ----------
 
+Total: 107
+
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | HP            | ProDesk 600 G1 SFF          | Desktop     | [7f19a8a566](https://bsd-hardware.info/?probe=7f19a8a566) | Oct 26, 2021 |
@@ -1238,8 +1240,8 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                          | 2         | 1.82%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 2         | 1.82%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                          | 2         | 1.82%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 2         | 1.82%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2         | 1.82%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 2         | 1.82%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 2         | 1.82%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1         | 0.91%   |
 | Toshiba BG3 NVMe SSD Controller                                                         | 1         | 0.91%   |

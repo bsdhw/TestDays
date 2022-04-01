@@ -149,6 +149,8 @@ Contents
 Test Cases
 ----------
 
+Total: 297
+
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | Fujitsu Si... | ESPRIMO Mobile V5535        | Notebook    | [f4c9b911fe](https://bsd-hardware.info/?probe=f4c9b911fe) | Jan 16, 2022 |
@@ -758,15 +760,15 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 34        | 14.11%  |
+| 2020 | 33        | 13.69%  |
 | 2019 | 31        | 12.86%  |
-| 2013 | 29        | 12.03%  |
+| 2013 | 28        | 11.62%  |
 | 2012 | 25        | 10.37%  |
 | 2018 | 19        | 7.88%   |
 | 2014 | 15        | 6.22%   |
-| 2011 | 14        | 5.81%   |
+| 2011 | 15        | 6.22%   |
+| 2015 | 13        | 5.39%   |
 | 2010 | 13        | 5.39%   |
-| 2015 | 12        | 4.98%   |
 | 2009 | 12        | 4.98%   |
 | 2016 | 11        | 4.56%   |
 | 2021 | 10        | 4.15%   |
@@ -1595,10 +1597,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 194       | 64.03%  |
-| IDE  | 43        | 14.19%  |
-| NVMe | 42        | 13.86%  |
-| RAID | 18        | 5.94%   |
+| SATA | 194       | 64.24%  |
+| IDE  | 43        | 14.24%  |
+| NVMe | 42        | 13.91%  |
+| RAID | 17        | 5.63%   |
 | SAS  | 3         | 0.99%   |
 | SCSI | 3         | 0.99%   |
 
@@ -2808,7 +2810,7 @@ Memory module vendors
 | Unknown                    | 35        | 12.03%  |
 | Micron Technology          | 28        | 9.62%   |
 | Crucial                    | 22        | 7.56%   |
-| Elpida                     | 13        | 4.47%   |
+| ELPIDA                     | 13        | 4.47%   |
 | G.Skill                    | 9         | 3.09%   |
 | Nanya Technology           | 7         | 2.41%   |
 | Corsair                    | 7         | 2.41%   |
@@ -2902,7 +2904,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 1333MT/s                               | 1         | 0.32%   |
 | Unknown RAM Module 1024MB DIMM SDRAM 667MT/s                       | 1         | 0.32%   |
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1         | 0.32%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s       | 1         | 0.32%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s     | 1         | 0.32%   |
 | Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1         | 0.32%   |
 
 Memory Kind
@@ -3130,7 +3132,7 @@ Camera device models
 | Lite-On Integrated Camera                                  | 1         | 1.04%   |
 | Lite-On HP IR Camera                                       | 1         | 1.04%   |
 | Lenovo Integrated Webcam [R5U877]                          | 1         | 1.04%   |
-| Intel Intel(R) RealSense(TM) 3D Camera (Front F200)        | 1         | 1.04%   |
+| Intel RealSense 3D Camera (Front F200)                     | 1         | 1.04%   |
 | Importek TOSHIBA Web Camera - HD                           | 1         | 1.04%   |
 | Importek TOSHIBA Web Camera                                | 1         | 1.04%   |
 | IMC Networks USB2.0 VGA UVC WebCam                         | 1         | 1.04%   |

@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 142
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | Fujitsu Si... | ESPRIMO Mobile V5535        | [f4c9b911fe](https://bsd-hardware.info/?probe=f4c9b911fe) | Jan 16, 2022 |
@@ -581,15 +583,15 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 17        | 14.78%  |
-| 2020 | 15        | 13.04%  |
+| 2013 | 16        | 13.91%  |
+| 2020 | 14        | 12.17%  |
 | 2019 | 12        | 10.43%  |
 | 2012 | 10        | 8.7%    |
 | 2009 | 10        | 8.7%    |
+| 2015 | 9         | 7.83%   |
+| 2011 | 9         | 7.83%   |
 | 2018 | 8         | 6.96%   |
-| 2015 | 8         | 6.96%   |
 | 2014 | 8         | 6.96%   |
-| 2011 | 8         | 6.96%   |
 | 2016 | 7         | 6.09%   |
 | 2010 | 3         | 2.61%   |
 | 2007 | 3         | 2.61%   |
@@ -2331,7 +2333,7 @@ Memory module vendors
 | SK Hynix            | 27        | 19.15%  |
 | Micron Technology   | 16        | 11.35%  |
 | Kingston            | 12        | 8.51%   |
-| Elpida              | 10        | 7.09%   |
+| ELPIDA              | 10        | 7.09%   |
 | Unknown             | 9         | 6.38%   |
 | Smart               | 4         | 2.84%   |
 | Ramaxel Technology  | 4         | 2.84%   |
@@ -2385,7 +2387,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 0.67%   |
 | Unknown RAM Module 2048MB SODIMM 800MT/s                                  | 1         | 0.67%   |
 | Unknown RAM Module 2048MB SODIMM 667MT/s                                  | 1         | 0.67%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s              | 1         | 0.67%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s            | 1         | 0.67%   |
 | Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s                    | 1         | 0.67%   |
 | Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s                      | 1         | 0.67%   |
 | Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s                       | 1         | 0.67%   |

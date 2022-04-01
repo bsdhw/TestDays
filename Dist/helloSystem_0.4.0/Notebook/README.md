@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 125
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | Apple         | MacBookPro4,1               | [d852363467](https://bsd-hardware.info/?probe=d852363467) | Feb 08, 2022 |
@@ -555,12 +557,12 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2013 | 17        | 18.48%  |
 | 2009 | 10        | 10.87%  |
-| 2020 | 8         | 8.7%    |
 | 2018 | 8         | 8.7%    |
 | 2017 | 8         | 8.7%    |
 | 2016 | 8         | 8.7%    |
+| 2020 | 7         | 7.61%   |
 | 2019 | 7         | 7.61%   |
-| 2015 | 5         | 5.43%   |
+| 2015 | 6         | 6.52%   |
 | 2014 | 5         | 5.43%   |
 | 2010 | 5         | 5.43%   |
 | 2012 | 4         | 4.35%   |
@@ -1576,7 +1578,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch     | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch     | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch     | 1         | 1.32%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 240x130mm 10.7-inch    | 1         | 1.32%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch    | 1         | 1.32%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch                  | 1         | 1.32%   |
 | PANDA LM156LF1L03 NCP001C 1920x1080 340x190mm 15.3-inch                  | 1         | 1.32%   |
 | LG Display LCD Monitor LGDCF01 1366x768 340x190mm 15.3-inch              | 1         | 1.32%   |
@@ -2215,10 +2217,10 @@ Memory module models
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s           | 1         | 0.8%    |
 | Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s           | 1         | 0.8%    |
 | Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.8%    |
-| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.8%    |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
 | SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 0.8%    |
 | SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                 | 1         | 0.8%    |
-| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s         | 1         | 0.8%    |
+| SK Hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s            | 1         | 0.8%    |
 | SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.8%    |
 | SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 0.8%    |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.8%    |
@@ -2257,11 +2259,11 @@ Memory module kinds
 
 | Kind    | Notebooks | Percent |
 |---------|-----------|---------|
-| DDR3    | 54        | 58.06%  |
-| DDR4    | 25        | 26.88%  |
-| DDR2    | 10        | 10.75%  |
-| LPDDR3  | 3         | 3.23%   |
-| Unknown | 1         | 1.08%   |
+| DDR3    | 55        | 58.51%  |
+| DDR4    | 25        | 26.6%   |
+| DDR2    | 10        | 10.64%  |
+| LPDDR3  | 3         | 3.19%   |
+| Unknown | 1         | 1.06%   |
 
 Memory Form Factor
 ------------------

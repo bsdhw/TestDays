@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 24
+
 | Vendor   | Model             | Probe                                                     | Date         |
 |----------|-------------------|-----------------------------------------------------------|--------------|
 | HP       | 0AACh             | [b7cac343f6](https://bsd-hardware.info/?probe=b7cac343f6) | Jan 29, 2021 |

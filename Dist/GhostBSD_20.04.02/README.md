@@ -149,6 +149,8 @@ Contents
 Test Cases
 ----------
 
+Total: 146
+
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | Jumper        | EZbook                      | Notebook    | [7d648bcdc7](https://bsd-hardware.info/?probe=7d648bcdc7) | Jan 17, 2022 |
@@ -1320,7 +1322,7 @@ Storage controller models
 | Integrated Express IT8213 IDE Controller                                                | 1         | 0.66%   |
 | HighPoint RocketRAID 230x 4 Port SATA-II Controller                                     | 1         | 0.66%   |
 | AMD X370 Series Chipset SATA Controller                                                 | 1         | 0.66%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1         | 0.66%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 1         | 0.66%   |
 | Adaptec AIC-7850T/7856T [AVA-2902/4/6 / AHA-2910]                                       | 1         | 0.66%   |
 
 Storage Kind
@@ -1750,7 +1752,7 @@ Monitor models
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC4542 1366x768 310x170mm 13.9-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.94%   |
@@ -1833,7 +1835,7 @@ Diagonal size in inches
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
 | 15      | 26        | 25.49%  |
-| 13      | 17        | 16.67%  |
+| 13      | 16        | 15.69%  |
 | Unknown | 9         | 8.82%   |
 | 27      | 7         | 6.86%   |
 | 21      | 6         | 5.88%   |
@@ -1853,6 +1855,7 @@ Diagonal size in inches
 | 32      | 1         | 0.98%   |
 | 28      | 1         | 0.98%   |
 | 16      | 1         | 0.98%   |
+| 14      | 1         | 0.98%   |
 
 Monitor Width
 -------------
@@ -1864,11 +1867,11 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 42        | 41.58%  |
+| 301-350     | 41        | 40.59%  |
 | 501-600     | 14        | 13.86%  |
 | 401-500     | 13        | 12.87%  |
 | Unknown     | 9         | 8.91%   |
-| 201-300     | 6         | 5.94%   |
+| 201-300     | 7         | 6.93%   |
 | 601-700     | 5         | 4.95%   |
 | 801-900     | 4         | 3.96%   |
 | 351-400     | 4         | 3.96%   |
@@ -1885,8 +1888,8 @@ Proportional relationship between the width and the height
 
 | Ratio   | Computers | Percent |
 |---------|-----------|---------|
-| 16/9    | 76        | 79.17%  |
-| 16/10   | 6         | 6.25%   |
+| 16/9    | 75        | 78.13%  |
+| 16/10   | 7         | 7.29%   |
 | Unknown | 6         | 6.25%   |
 | 5/4     | 3         | 3.13%   |
 | 21/9    | 3         | 3.13%   |

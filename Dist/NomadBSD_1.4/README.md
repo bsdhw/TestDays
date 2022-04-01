@@ -149,6 +149,8 @@ Contents
 Test Cases
 ----------
 
+Total: 30
+
 | Vendor   | Model                       | Form-Factor | Probe                                                     | Date         |
 |----------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | Lenovo   | ThinkPad X13 Yoga Gen 1 ... | Convertible | [8818f01ff2](https://bsd-hardware.info/?probe=8818f01ff2) | Aug 27, 2021 |

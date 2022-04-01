@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Arch                     ](#arch)
   - [ DE                       ](#de)
   - [ Display Server           ](#display-server)
@@ -147,12 +149,28 @@ Contents
 Test Cases
 ----------
 
+Total: 1
+
 | Vendor  | Model | Probe                                                     | Date         |
 |---------|-------|-----------------------------------------------------------|--------------|
 | ASUSTek | X71SL | [b8e364a2c0](https://bsd-hardware.info/?probe=b8e364a2c0) | May 07, 2020 |
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+Zero info for selected period =(
+
+OS Family
+---------
+
+OS without a version
+
+Zero info for selected period =(
 
 Arch
 ----

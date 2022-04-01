@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 37
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | Intel         | D945GSEJT                   | [bf6a38dfcb](https://bsd-hardware.info/?probe=bf6a38dfcb) | Feb 26, 2022 |
@@ -847,11 +849,10 @@ Drive models with a malfunction
 
 | Model                           | Desktops | Drives | Percent |
 |---------------------------------|----------|--------|---------|
-| WDC WD10EADS-00M2B0 1TB         | 1        | 1      | 20%     |
-| Toshiba MQ04ABF100 1TB          | 1        | 1      | 20%     |
-| Toshiba MK2555GSX 250GB         | 1        | 1      | 20%     |
-| Seagate ST250DM000-1BD141 250GB | 1        | 1      | 20%     |
-| Kingston SMS200S330G 32GB       | 1        | 2      | 20%     |
+| WDC WD10EADS-00M2B0 1TB         | 1        | 1      | 25%     |
+| Toshiba MQ04ABF100 1TB          | 1        | 1      | 25%     |
+| Seagate ST250DM000-1BD141 250GB | 1        | 1      | 25%     |
+| Kingston SMS200S330G 32GB       | 1        | 2      | 25%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -863,10 +864,10 @@ Vendors of faulty drives
 
 | Vendor   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Toshiba  | 2        | 2      | 40%     |
-| WDC      | 1        | 1      | 20%     |
-| Seagate  | 1        | 1      | 20%     |
-| Kingston | 1        | 2      | 20%     |
+| WDC      | 1        | 1      | 25%     |
+| Toshiba  | 1        | 1      | 25%     |
+| Seagate  | 1        | 1      | 25%     |
+| Kingston | 1        | 2      | 25%     |
 
 Malfunc. HDD Vendor
 -------------------
@@ -878,9 +879,9 @@ Vendors of faulty HDD drives
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Toshiba | 2        | 2      | 50%     |
-| WDC     | 1        | 1      | 25%     |
-| Seagate | 1        | 1      | 25%     |
+| WDC     | 1        | 1      | 33.33%  |
+| Toshiba | 1        | 1      | 33.33%  |
+| Seagate | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Kind
 -------------------
@@ -892,8 +893,8 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 4        | 4      | 80%     |
-| SSD  | 1        | 2      | 20%     |
+| HDD  | 3        | 3      | 75%     |
+| SSD  | 1        | 2      | 25%     |
 
 Failed Drives
 -------------
@@ -929,10 +930,10 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 22       | 34     | 61.11%  |
-| Detected | 8        | 13     | 22.22%  |
-| Malfunc  | 5        | 6      | 13.89%  |
-| Failed   | 1        | 1      | 2.78%   |
+| Works    | 22       | 35     | 62.86%  |
+| Detected | 8        | 13     | 22.86%  |
+| Malfunc  | 4        | 5      | 11.43%  |
+| Failed   | 1        | 1      | 2.86%   |
 
 Storage controller
 ------------------
@@ -969,7 +970,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                            | 7        | 19.44%  |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2        | 5.56%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2        | 5.56%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                       | 2        | 5.56%   |
+| AMD 500 Series Chipset SATA Controller                                         | 2        | 5.56%   |
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 5.56%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                    | 1        | 2.78%   |
 | VIA VT8237A SATA 2-Port Controller                                             | 1        | 2.78%   |
@@ -1191,7 +1192,7 @@ Graphics card models
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller   | 2        | 8.7%    |
-| AMD Navi 22 [Radeon RX 6700/6700 XT / 6800M]                                  | 2        | 8.7%    |
+| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]                          | 2        | 8.7%    |
 | Nvidia GF110 [GeForce GTX 580]                                                | 1        | 4.35%   |
 | Intel UHD Graphics 620                                                        | 1        | 4.35%   |
 | Intel RocketLake-S GT1 [UHD Graphics 750]                                     | 1        | 4.35%   |
@@ -1667,7 +1668,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                          | 2        | 5.88%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller     | 2        | 5.88%   |
 | C-Media Electronics Digital Hifi Audio Digital Hifi Audio SPDIFs        | 2        | 5.88%   |
-| AMD Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]               | 2        | 5.88%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                                 | 2        | 5.88%   |
 | AMD FCH Azalia Controller                                               | 2        | 5.88%   |
 | VIA Technologies VX900/VT8xxx High Definition Audio Controller          | 1        | 2.94%   |
 | Nvidia GF110 High Definition Audio Controller                           | 1        | 2.94%   |

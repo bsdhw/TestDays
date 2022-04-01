@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Arch                     ](#arch)
   - [ DE                       ](#de)
   - [ Display Server           ](#display-server)
@@ -147,8 +149,11 @@ Contents
 Test Cases
 ----------
 
+Total: 56
+
 | Vendor   | Model                       | Probe                                                     | Date         |
 |----------|-----------------------------|-----------------------------------------------------------|--------------|
+| MSI      | U-100 Ver.001               | [6859308aa9](https://bsd-hardware.info/?probe=6859308aa9) | Mar 01, 2022 |
 | Gigabyte | X570S GAMING X              | [ff39ace6ec](https://bsd-hardware.info/?probe=ff39ace6ec) | Feb 16, 2022 |
 | Intel    | DCP847SKE G80890-105        | [2828ef2a6d](https://bsd-hardware.info/?probe=2828ef2a6d) | Jan 20, 2022 |
 | Dell     | 0M9KCM A01                  | [4db0a0ea05](https://bsd-hardware.info/?probe=4db0a0ea05) | Dec 06, 2021 |
@@ -207,6 +212,36 @@ Test Cases
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+![OS](./images/pie_chart_bsd/os_name.svg)
+
+
+| Name              | Desktops | Percent |
+|-------------------|----------|---------|
+| NomadBSD 5806f915 | 14       | 35.9%   |
+| NomadBSD 1.3.2    | 14       | 35.9%   |
+| NomadBSD 1.4-RC1  | 4        | 10.26%  |
+| NomadBSD 1.4      | 3        | 7.69%   |
+| NomadBSD 1.3.1    | 2        | 5.13%   |
+| NomadBSD 1.3      | 1        | 2.56%   |
+| NomadBSD 1.0      | 1        | 2.56%   |
+
+OS Family
+---------
+
+OS without a version
+
+![OS Family](./images/pie_chart_bsd/os_family.svg)
+
+
+| Name     | Desktops | Percent |
+|----------|----------|---------|
+| NomadBSD | 39       | 100%    |
 
 Arch
 ----
@@ -453,10 +488,10 @@ Motherboard manufacture year
 | 2021 | 3        | 7.69%   |
 | 2020 | 3        | 7.69%   |
 | 2017 | 3        | 7.69%   |
-| 2016 | 3        | 7.69%   |
+| 2015 | 3        | 7.69%   |
 | 2010 | 3        | 7.69%   |
 | 2018 | 2        | 5.13%   |
-| 2015 | 2        | 5.13%   |
+| 2016 | 2        | 5.13%   |
 | 2013 | 2        | 5.13%   |
 | 2012 | 2        | 5.13%   |
 | 2014 | 1        | 2.56%   |
@@ -1045,11 +1080,11 @@ Storage controller models
 | Intel 82801GR/GDH (ICH7R/ICH7DH) SATA Controller [RAID mode]                   | 1        | 1.33%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 1        | 1.33%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 1        | 1.33%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                       | 1        | 1.33%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1        | 1.33%   |
 | AMD SB600 Non-Raid-5 SATA                                                      | 1        | 1.33%   |
 | AMD SB600 IDE                                                                  | 1        | 1.33%   |
 | AMD FCH SATA Controller D                                                      | 1        | 1.33%   |
+| AMD 500 Series Chipset SATA Controller                                         | 1        | 1.33%   |
 | AMD 300 Series Chipset SATA Controller                                         | 1        | 1.33%   |
 | Unknown                                                                        | 1        | 1.33%   |
 
@@ -1880,7 +1915,7 @@ Sound card models
 | AMD Vega 20 HDMI Audio [Radeon VII]                                               | 1        | 1.33%   |
 | AMD Renoir Radeon High Definition Audio Controller                                | 1        | 1.33%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1        | 1.33%   |
-| AMD Navi 21 HDMI Audio [Radeon RX 6800/6800 XT / 6900 XT]                         | 1        | 1.33%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                                           | 1        | 1.33%   |
 | AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                    | 1        | 1.33%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1        | 1.33%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                      | 1        | 1.33%   |

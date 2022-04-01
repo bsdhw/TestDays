@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 7
+
 | Vendor | Model                       | Probe                                                     | Date         |
 |--------|-----------------------------|-----------------------------------------------------------|--------------|
 | ECT    | One Computer AMD A10-785... | [41a2a2e434](https://bsd-hardware.info/?probe=41a2a2e434) | Apr 07, 2021 |

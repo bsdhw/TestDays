@@ -17,6 +17,8 @@ Contents
 * [ Test Cases ](#test-cases)
 
 * [ System ](#system)
+  - [ OS                       ](#os)
+  - [ OS Family                ](#os-family)
   - [ Arch                     ](#arch)
   - [ DE                       ](#de)
   - [ Display Server           ](#display-server)
@@ -147,11 +149,27 @@ Contents
 Test Cases
 ----------
 
+Total: 0
+
 | Vendor | Model | Probe | Date |
 |--------|-------|-------|------|
 
 System
 ------
+
+OS
+--
+
+Installed operating systems
+
+Zero info for selected period =(
+
+OS Family
+---------
+
+OS without a version
+
+Zero info for selected period =(
 
 Arch
 ----

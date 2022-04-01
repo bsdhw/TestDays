@@ -149,6 +149,8 @@ Contents
 Test Cases
 ----------
 
+Total: 247
+
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | Apple         | MacBookPro4,1               | Notebook    | [d852363467](https://bsd-hardware.info/?probe=d852363467) | Feb 08, 2022 |
@@ -697,14 +699,14 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2018 | 24        | 12.7%   |
 | 2013 | 24        | 12.7%   |
-| 2020 | 20        | 10.58%  |
 | 2019 | 20        | 10.58%  |
-| 2014 | 18        | 9.52%   |
+| 2020 | 19        | 10.05%  |
+| 2014 | 17        | 8.99%   |
 | 2016 | 14        | 7.41%   |
 | 2009 | 14        | 7.41%   |
 | 2017 | 13        | 6.88%   |
-| 2012 | 10        | 5.29%   |
-| 2015 | 8         | 4.23%   |
+| 2012 | 11        | 5.82%   |
+| 2015 | 9         | 4.76%   |
 | 2011 | 7         | 3.7%    |
 | 2010 | 7         | 3.7%    |
 | 2008 | 6         | 3.17%   |
@@ -1890,7 +1892,7 @@ Monitor models
 | ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch              | 1         | 0.67%   |
 | ViewSonic VA2026w VSC5020 1680x1050 430x270mm 20.0-inch               | 1         | 0.67%   |
 | ViewSonic LCD Monitor VSC941C 1280x1024 340x270mm 17.1-inch           | 1         | 0.67%   |
-| Vestel Elektronik 22W_LCD_TV VES3700 1920x540                         | 1         | 0.67%   |
+| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 530x300mm 24.0-inch    | 1         | 0.67%   |
 | Toshiba TV TSB0218 3840x2160                                          | 1         | 0.67%   |
 | Sony TV SNY9C01 1360x768                                              | 1         | 0.67%   |
 | Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch               | 1         | 0.67%   |
@@ -1904,7 +1906,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch  | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 240x130mm 10.7-inch | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM03A2 1440x900 410x260mm 19.1-inch  | 1         | 0.67%   |
 | PRI LED-MONITOR PRI0828 3840x2160 1150x650mm 52.0-inch                | 1         | 0.67%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch               | 1         | 0.67%   |
@@ -1988,11 +1990,11 @@ Diagonal size in inches
 | 12      | 5         | 3.36%   |
 | 17      | 4         | 2.68%   |
 | 14      | 4         | 2.68%   |
-| Unknown | 4         | 2.68%   |
 | 34      | 3         | 2.01%   |
+| Unknown | 3         | 2.01%   |
+| 42      | 2         | 1.34%   |
 | 22      | 2         | 1.34%   |
 | 52      | 1         | 0.67%   |
-| 42      | 1         | 0.67%   |
 | 31      | 1         | 0.67%   |
 | 28      | 1         | 0.67%   |
 | 25      | 1         | 0.67%   |
@@ -2015,10 +2017,10 @@ Physical width
 | 201-300     | 20        | 13.51%  |
 | 601-700     | 4         | 2.7%    |
 | 351-400     | 4         | 2.7%    |
-| Unknown     | 4         | 2.7%    |
 | 701-800     | 3         | 2.03%   |
+| Unknown     | 3         | 2.03%   |
+| 901-1000    | 2         | 1.35%   |
 | 1001-1500   | 1         | 0.68%   |
-| 901-1000    | 1         | 0.68%   |
 
 Aspect Ratio
 ------------
@@ -2030,11 +2032,10 @@ Proportional relationship between the width and the height
 
 | Ratio | Computers | Percent |
 |-------|-----------|---------|
-| 16/9  | 112       | 78.32%  |
+| 16/9  | 113       | 79.02%  |
 | 16/10 | 21        | 14.69%  |
 | 5/4   | 4         | 2.8%    |
 | 21/9  | 4         | 2.8%    |
-| 32/9  | 1         | 0.7%    |
 | 3/2   | 1         | 0.7%    |
 
 Monitor Area
@@ -2057,11 +2058,11 @@ Area in inch²
 | 251-300        | 7         | 4.76%   |
 | 61-70          | 5         | 3.4%    |
 | 351-500        | 4         | 2.72%   |
-| Unknown        | 4         | 2.72%   |
 | 141-150        | 3         | 2.04%   |
+| Unknown        | 3         | 2.04%   |
 | 121-130        | 2         | 1.36%   |
+| 501-1000       | 2         | 1.36%   |
 | More than 1000 | 1         | 0.68%   |
-| 501-1000       | 1         | 0.68%   |
 
 Pixel Density
 -------------
@@ -2073,11 +2074,11 @@ Pixels per inch
 
 | Density | Computers | Percent |
 |---------|-----------|---------|
+| 51-100  | 54        | 36.49%  |
 | 101-120 | 53        | 35.81%  |
-| 51-100  | 53        | 35.81%  |
 | 121-160 | 31        | 20.95%  |
 | 161-240 | 7         | 4.73%   |
-| Unknown | 4         | 2.7%    |
+| Unknown | 3         | 2.03%   |
 
 Multiple Monitors
 -----------------
@@ -2641,68 +2642,68 @@ Memory module models
 ![Memory Model](./All/images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Computers | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                | 4         | 1.59%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 3         | 1.19%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 1.19%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s        | 3         | 1.19%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2         | 0.79%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.79%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 0.79%   |
-| SK Hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s       | 2         | 0.79%   |
-| SK Hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s         | 2         | 0.79%   |
-| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s       | 2         | 0.79%   |
-| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s       | 2         | 0.79%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.79%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.79%   |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s        | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s        | 2         | 0.79%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 2         | 0.79%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s          | 2         | 0.79%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                | 2         | 0.79%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s        | 2         | 0.79%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s         | 2         | 0.79%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                 | 2         | 0.79%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2         | 0.79%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 2         | 0.79%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s     | 2         | 0.79%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2         | 0.79%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                | 2         | 0.79%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2         | 0.79%   |
-| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s               | 2         | 0.79%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s          | 2         | 0.79%   |
-| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s            | 1         | 0.4%    |
-| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                    | 1         | 0.4%    |
-| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                    | 1         | 0.4%    |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM DDR2                        | 1         | 0.4%    |
-| Unknown RAM Module 4096MB SODIMM 1066MT/s                    | 1         | 0.4%    |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1         | 0.4%    |
-| Unknown RAM Module 4096MB DIMM DDR2                          | 1         | 0.4%    |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s               | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                 | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM DDR2                          | 1         | 0.4%    |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 1         | 0.4%    |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1         | 0.4%    |
-| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s  | 1         | 0.4%    |
-| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s      | 1         | 0.4%    |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s             | 1         | 0.4%    |
-| Team RAM Elite-1600 8192MB DIMM DDR3 1600MT/s                | 1         | 0.4%    |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 1         | 0.4%    |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s        | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s     | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NWRNSQR 4096MB SODIMM DDR3 1600MT/s     | 1         | 0.4%    |
-| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1         | 0.4%    |
-| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s              | 1         | 0.4%    |
-| SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s              | 1         | 0.4%    |
-| SK Hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s       | 1         | 0.4%    |
-| SK Hynix RAM HMT851S6AMR6A-PB 4096MB Chip DDR3 1600MT/s      | 1         | 0.4%    |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                  | 4         | 1.59%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3         | 1.19%   |
+| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 3         | 1.19%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s          | 3         | 1.19%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2         | 0.79%   |
+| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 0.79%   |
+| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 2         | 0.79%   |
+| SK Hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s         | 2         | 0.79%   |
+| SK Hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2         | 0.79%   |
+| SK Hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s         | 2         | 0.79%   |
+| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s         | 2         | 0.79%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s          | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s          | 2         | 0.79%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s          | 2         | 0.79%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2         | 0.79%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                  | 2         | 0.79%   |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 2         | 0.79%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2         | 0.79%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2         | 0.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 2         | 0.79%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s       | 2         | 0.79%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2         | 0.79%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                  | 2         | 0.79%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s                 | 2         | 0.79%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s            | 2         | 0.79%   |
+| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s              | 1         | 0.4%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                      | 1         | 0.4%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                      | 1         | 0.4%    |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                  | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM DDR2                          | 1         | 0.4%    |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s                      | 1         | 0.4%    |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1         | 0.4%    |
+| Unknown RAM Module 4096MB DIMM DDR2                            | 1         | 0.4%    |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1         | 0.4%    |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1         | 0.4%    |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1         | 0.4%    |
+| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s    | 1         | 0.4%    |
+| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s        | 1         | 0.4%    |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1         | 0.4%    |
+| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                     | 1         | 0.4%    |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s          | 1         | 0.4%    |
+| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s          | 1         | 0.4%    |
+| Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s       | 1         | 0.4%    |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s          | 1         | 0.4%    |
+| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                | 1         | 0.4%    |
+| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1         | 0.4%    |
+| SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                | 1         | 0.4%    |
+| SK Hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s         | 1         | 0.4%    |
+| SK Hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s           | 1         | 0.4%    |
 
 Memory Kind
 -----------
@@ -2714,11 +2715,11 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 103       | 54.79%  |
-| DDR4    | 57        | 30.32%  |
-| DDR2    | 19        | 10.11%  |
-| Unknown | 4         | 2.13%   |
-| LPDDR3  | 3         | 1.6%    |
+| DDR3    | 104       | 55.03%  |
+| DDR4    | 57        | 30.16%  |
+| DDR2    | 19        | 10.05%  |
+| Unknown | 4         | 2.12%   |
+| LPDDR3  | 3         | 1.59%   |
 | SDRAM   | 1         | 0.53%   |
 | LPDDR4  | 1         | 0.53%   |
 

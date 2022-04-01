@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 140
+
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | MSI           | B450 TOMAHAWK MAX           | [14f1956220](https://bsd-hardware.info/?probe=14f1956220) | Dec 04, 2021 |
@@ -1305,7 +1307,7 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 4-port SATA Controller 1 [IDE mode]           | 2        | 1.03%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 2        | 1.03%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 2        | 1.03%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 2        | 1.03%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 2        | 1.03%   |
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                             | 2        | 1.03%   |
 | Adaptec AIC-7850T/7856T [AVA-2902/4/6 / AHA-2910]                                       | 2        | 1.03%   |
 | Toshiba unknown                                                                         | 1        | 0.52%   |
@@ -1339,12 +1341,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 88       | 55.35%  |
-| IDE  | 31       | 19.5%   |
-| NVMe | 25       | 15.72%  |
-| RAID | 9        | 5.66%   |
-| SAS  | 3        | 1.89%   |
-| SCSI | 3        | 1.89%   |
+| SATA | 88       | 55.7%   |
+| IDE  | 31       | 19.62%  |
+| NVMe | 25       | 15.82%  |
+| RAID | 8        | 5.06%   |
+| SAS  | 3        | 1.9%    |
+| SCSI | 3        | 1.9%    |
 
 Processor
 ---------

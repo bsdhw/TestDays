@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 42
+
 | Vendor     | Model                   | Probe                                                     | Date         |
 |------------|-------------------------|-----------------------------------------------------------|--------------|
 | HP         | ProDesk 600 G1 SFF      | [7f19a8a566](https://bsd-hardware.info/?probe=7f19a8a566) | Oct 26, 2021 |
@@ -980,7 +982,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 3        | 6.38%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 2        | 4.26%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 2        | 4.26%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 2        | 4.26%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 2        | 4.26%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 2        | 4.26%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1        | 2.13%   |
 | Toshiba BG3 NVMe SSD Controller                                                         | 1        | 2.13%   |

@@ -147,6 +147,8 @@ Contents
 Test Cases
 ----------
 
+Total: 56
+
 | Vendor   | Model                       | Probe                                                     | Date         |
 |----------|-----------------------------|-----------------------------------------------------------|--------------|
 | ASUSTek  | PRIME B350-PLUS             | [0ee3fe080c](https://bsd-hardware.info/?probe=0ee3fe080c) | Aug 30, 2021 |
@@ -1075,8 +1077,8 @@ Storage controller models
 | Integrated Express IT8213 IDE Controller                                                | 1        | 1.28%   |
 | HighPoint RocketRAID 230x 4 Port SATA-II Controller                                     | 1        | 1.28%   |
 | AMD X370 Series Chipset SATA Controller                                                 | 1        | 1.28%   |
-| AMD Starship/Matisse Chipset SATA Controller [AHCI mode]                                | 1        | 1.28%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 1        | 1.28%   |
+| AMD 500 Series Chipset SATA Controller                                                  | 1        | 1.28%   |
 | Adaptec AIC-7850T/7856T [AVA-2902/4/6 / AHA-2910]                                       | 1        | 1.28%   |
 
 Storage Kind
