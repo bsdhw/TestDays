@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -494,7 +492,7 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 10        | 17.24%  |
+| 2020 | 9         | 15.52%  |
 | 2013 | 8         | 13.79%  |
 | 2014 | 7         | 12.07%  |
 | 2017 | 5         | 8.62%   |
@@ -503,9 +501,9 @@ Motherboard manufacture year
 | 2015 | 4         | 6.9%    |
 | 2012 | 4         | 6.9%    |
 | 2009 | 4         | 6.9%    |
+| 2018 | 2         | 3.45%   |
 | 2016 | 2         | 3.45%   |
 | 2010 | 2         | 3.45%   |
-| 2018 | 1         | 1.72%   |
 | 2008 | 1         | 1.72%   |
 | 2007 | 1         | 1.72%   |
 

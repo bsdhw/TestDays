@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -2333,7 +2331,7 @@ Memory module vendors
 | SK Hynix            | 27        | 19.15%  |
 | Micron Technology   | 16        | 11.35%  |
 | Kingston            | 12        | 8.51%   |
-| ELPIDA              | 10        | 7.09%   |
+| Elpida              | 10        | 7.09%   |
 | Unknown             | 9         | 6.38%   |
 | Smart               | 4         | 2.84%   |
 | Ramaxel Technology  | 4         | 2.84%   |
@@ -2366,7 +2364,7 @@ Memory module models
 | SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                    | 4         | 2.68%   |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s                     | 3         | 2.01%   |
 | SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 3         | 2.01%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s                          | 3         | 2.01%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s                     | 3         | 2.01%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 3         | 2.01%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 3         | 2.01%   |
 | Unknown                                                                   | 3         | 2.01%   |
@@ -2397,7 +2395,7 @@ Memory module models
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
 | Smart Brazil RAM SMS4TDC3C0K0446SCG 4096MB SODIMM DDR4 2400MT/s           | 1         | 0.67%   |
 | SK Hynix RAM Module 2GB DDR3 1600MT/s                                     | 1         | 0.67%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s                      | 1         | 0.67%   |
+| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                     | 1         | 0.67%   |
 | SK Hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.67%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.67%   |
 | SK Hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.67%   |

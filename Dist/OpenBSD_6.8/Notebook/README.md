@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -902,7 +900,7 @@ Hard drive models
 | SanDisk SD7UB3Q256G1001 256GB       | 1         | 0.9%    |
 | SanDisk SD6SB1M128G1022I 128GB      | 1         | 0.9%    |
 | SanDisk Cruzer Fit 32GB             | 1         | 0.9%    |
-| SanDisk Cruzer Blade 16GB           | 1         | 0.9%    |
+| SanDisk Cruzer Blade 32GB           | 1         | 0.9%    |
 | Samsung SSD 860 EVO 250GB           | 1         | 0.9%    |
 | Samsung SSD 850 PRO 512GB           | 1         | 0.9%    |
 | Samsung SSD 850 PRO 256GB           | 1         | 0.9%    |
@@ -2193,7 +2191,7 @@ Sound card models
 | Intel 82801CA/CAM AC'97 Audio Controller                                                          | 1         | 0.85%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 0.85%   |
 | ESS Technology ES1988 Allegro-1                                                                   | 1         | 0.85%   |
-| C-Media Electronics BIRD UM1                                                                      | 1         | 0.85%   |
+| C-Media Electronics Anua Mic CM 900                                                               | 1         | 0.85%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 0.85%   |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1         | 0.85%   |
 | AMD Renoir Radeon High Definition Audio Controller                                                | 1         | 0.85%   |

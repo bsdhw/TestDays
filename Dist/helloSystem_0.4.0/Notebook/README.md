@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1571,7 +1569,7 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD03AB 1366x768 340x190mm 15.3-inch              | 2         | 2.63%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 2         | 2.63%   |
+| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch                  | 2         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 340x190mm 15.3-inch          | 2         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN14B1 1920x1080 310x170mm 13.9-inch         | 2         | 2.63%   |
 | Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch                  | 1         | 1.32%   |
@@ -2216,7 +2214,7 @@ Memory module models
 | Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s         | 1         | 0.8%    |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s           | 1         | 0.8%    |
 | Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s           | 1         | 0.8%    |
-| Smart RAM SH564128FJ8NZRNSDG 4096MB SODIMM DDR3 1600MT/s        | 1         | 0.8%    |
+| Smart RAM SH564128FJ8NZRNSDG 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
 | Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
 | SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 0.8%    |
 | SK Hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                 | 1         | 0.8%    |
@@ -2239,7 +2237,7 @@ Memory module models
 | Samsung RAM Module 2048MB SODIMM LPDDR3 1600MT/s                | 1         | 0.8%    |
 | Samsung RAM Module 2048MB SODIMM DDR3 1333MT/s                  | 1         | 0.8%    |
 | Samsung RAM Module 1024MB SODIMM DDR2 667MT/s                   | 1         | 0.8%    |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s                | 1         | 0.8%    |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.8%    |
 | Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s           | 1         | 0.8%    |
 | Samsung RAM M471B5273EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
@@ -2289,11 +2287,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 51        | 49.51%  |
-| 2048  | 23        | 22.33%  |
-| 8192  | 22        | 21.36%  |
-| 16384 | 5         | 4.85%   |
-| 1024  | 2         | 1.94%   |
+| 4096  | 51        | 49.04%  |
+| 2048  | 23        | 22.12%  |
+| 8192  | 21        | 20.19%  |
+| 16384 | 7         | 6.73%   |
+| 1024  | 2         | 1.92%   |
 
 Memory Speed
 ------------

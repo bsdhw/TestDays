@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1209,7 +1207,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 4%      |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch          | 1         | 4%      |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1         | 4%      |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch              | 1         | 4%      |
+| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch              | 1         | 4%      |
 | Dell U2312HM DEL4073 1920x1080 510x290mm 23.1-inch                   | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN1604 1920x1080 360x200mm 16.2-inch     | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 340x190mm 15.3-inch     | 1         | 4%      |

@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -415,12 +413,12 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
+| 2019    | 6        | 19.35%  |
 | 2020    | 5        | 16.13%  |
-| 2019    | 5        | 16.13%  |
 | 2018    | 4        | 12.9%   |
-| 2021    | 3        | 9.68%   |
 | 2008    | 3        | 9.68%   |
 | Unknown | 3        | 9.68%   |
+| 2021    | 2        | 6.45%   |
 | 2016    | 2        | 6.45%   |
 | 2014    | 2        | 6.45%   |
 | 2012    | 2        | 6.45%   |
@@ -673,7 +671,7 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| OPENBSD SR RAID 1 1TB             | 5        | 7.94%   |
+| OPENBSD SR RAID 1 752GB           | 5        | 7.94%   |
 | Toshiba MQ04ABF100 1TB            | 2        | 3.17%   |
 | NVMe Samsung SSD 970 250GB        | 2        | 3.17%   |
 | HGST HUS724020ALA640 2TB          | 2        | 3.17%   |

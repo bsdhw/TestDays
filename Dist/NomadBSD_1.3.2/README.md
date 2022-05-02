@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/NomadBSD_1.3.2/Desktop/README.md) and [notebooks](/Dist/NomadBSD_1.3.2/Notebook/README.md).
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -2018,7 +2016,7 @@ Memory module vendors
 | Micron Technology   | 11        | 18.97%  |
 | Unknown             | 5         | 8.62%   |
 | Kingston            | 5         | 8.62%   |
-| ELPIDA              | 3         | 5.17%   |
+| Elpida              | 3         | 5.17%   |
 | Corsair             | 3         | 5.17%   |
 | G.Skill             | 2         | 3.45%   |
 | Crucial             | 2         | 3.45%   |

@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/OpenBSD_6.7/Desktop/README.md) and [notebooks](/Dist/OpenBSD_6.7/Notebook/README.md).
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -467,12 +465,12 @@ Motherboard manufacture year
 | 2018    | 5         | 10%     |
 | 2017    | 5         | 10%     |
 | 2015    | 5         | 10%     |
+| 2012    | 5         | 10%     |
 | 2019    | 4         | 8%      |
-| 2012    | 4         | 8%      |
 | 2006    | 4         | 8%      |
 | Unknown | 4         | 8%      |
 | 2020    | 3         | 6%      |
-| 2014    | 3         | 6%      |
+| 2014    | 2         | 4%      |
 | 2010    | 2         | 4%      |
 | 2016    | 1         | 2%      |
 | 2013    | 1         | 2%      |
@@ -757,7 +755,7 @@ Hard drive models
 | Phison SATA SSD 64GB             | 1         | 1.64%   |
 | Phison SATA SSD 16GB             | 1         | 1.64%   |
 | Phison SATA SSD 128GB            | 1         | 1.64%   |
-| OPENBSD SR RAID 1 1TB            | 1         | 1.64%   |
+| OPENBSD SR RAID 1 752GB          | 1         | 1.64%   |
 | NVMe WDC PC SN720 SDA 1TB        | 1         | 1.64%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 1.64%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |

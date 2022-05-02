@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -388,14 +386,14 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2018    | 5        | 19.23%  |
 | 2017    | 3        | 11.54%  |
+| 2012    | 3        | 11.54%  |
 | Unknown | 3        | 11.54%  |
-| 2014    | 2        | 7.69%   |
-| 2012    | 2        | 7.69%   |
 | 2011    | 2        | 7.69%   |
 | 2010    | 2        | 7.69%   |
 | 2020    | 1        | 3.85%   |
 | 2016    | 1        | 3.85%   |
 | 2015    | 1        | 3.85%   |
+| 2014    | 1        | 3.85%   |
 | 2013    | 1        | 3.85%   |
 | 2009    | 1        | 3.85%   |
 | 2005    | 1        | 3.85%   |
@@ -626,7 +624,7 @@ Hard drive models
 | Samsung Flash Drive FIT 32GB    | 1        | 3.23%   |
 | Phison SATA SSD 64GB            | 1        | 3.23%   |
 | Phison SATA SSD 16GB            | 1        | 3.23%   |
-| OPENBSD SR RAID 1 1TB           | 1        | 3.23%   |
+| OPENBSD SR RAID 1 752GB         | 1        | 3.23%   |
 | LSI Logical Volume 5.7TB        | 1        | 3.23%   |
 | Kingston SUV500MS240G 240GB     | 1        | 3.23%   |
 | Kingston DataTraveler G3 8GB    | 1        | 3.23%   |

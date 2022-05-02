@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -927,7 +925,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | Phison SATA SSD 16GB               | 10       | 5.81%   |
-| OPENBSD SR RAID 1 1TB              | 4        | 2.33%   |
+| OPENBSD SR RAID 1 752GB            | 4        | 2.33%   |
 | Dell PERC H710 282GB               | 4        | 2.33%   |
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |
@@ -2224,12 +2222,13 @@ Sound card vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Intel               | 33       | 49.25%  |
-| AMD                 | 25       | 37.31%  |
-| Nvidia              | 5        | 7.46%   |
-| ULi Electronics     | 2        | 2.99%   |
-| ESS Technology      | 1        | 1.49%   |
-| C-Media Electronics | 1        | 1.49%   |
+| Intel               | 33       | 48.53%  |
+| AMD                 | 25       | 36.76%  |
+| Nvidia              | 5        | 7.35%   |
+| ULi Electronics     | 2        | 2.94%   |
+| Lenovo              | 1        | 1.47%   |
+| ESS Technology      | 1        | 1.47%   |
+| C-Media Electronics | 1        | 1.47%   |
 
 Sound Model
 -----------
@@ -2241,49 +2240,50 @@ Sound card models
 
 | Model                                                                                             | Desktops | Percent |
 |---------------------------------------------------------------------------------------------------|----------|---------|
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7        | 8.54%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 5        | 6.1%    |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 4        | 4.88%   |
-| AMD SBx00 Azalia (Intel HDA)                                                                      | 4        | 4.88%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3        | 3.66%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3        | 3.66%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3        | 3.66%   |
-| AMD Starship/Matisse HD Audio Controller                                                          | 3        | 3.66%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3        | 3.66%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3        | 3.66%   |
-| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2        | 2.44%   |
-| Nvidia MCP61 High Definition Audio                                                                | 2        | 2.44%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 2        | 2.44%   |
-| Intel Cannon Lake PCH cAVS                                                                        | 2        | 2.44%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 2        | 2.44%   |
-| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2        | 2.44%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2        | 2.44%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2        | 2.44%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2        | 2.44%   |
-| AMD Navi 10 HDMI Audio                                                                            | 2        | 2.44%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 2        | 2.44%   |
-| Nvidia High Definition Audio Controller                                                           | 1        | 1.22%   |
-| Nvidia GP106 High Definition Audio Controller                                                     | 1        | 1.22%   |
-| Nvidia GF110 High Definition Audio Controller                                                     | 1        | 1.22%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.22%   |
-| Intel Crystal Well HD Audio Controller                                                            | 1        | 1.22%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 1        | 1.22%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1        | 1.22%   |
-| Intel C610/X99 series chipset HD Audio Controller                                                 | 1        | 1.22%   |
-| Intel Broadwell-U Audio Controller                                                                | 1        | 1.22%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1        | 1.22%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1        | 1.22%   |
-| Intel 200 Series PCH HD Audio                                                                     | 1        | 1.22%   |
-| ESS Technology ES1968 Maestro 2                                                                   | 1        | 1.22%   |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                     | 1        | 1.22%   |
-| AMD Wrestler HDMI Audio                                                                           | 1        | 1.22%   |
-| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1        | 1.22%   |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1        | 1.22%   |
-| AMD FCH Azalia Controller                                                                         | 1        | 1.22%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1        | 1.22%   |
-| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]                               | 1        | 1.22%   |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                                        | 1        | 1.22%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1        | 1.22%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7        | 8.43%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 5        | 6.02%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 4        | 4.82%   |
+| AMD SBx00 Azalia (Intel HDA)                                                                      | 4        | 4.82%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3        | 3.61%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3        | 3.61%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3        | 3.61%   |
+| AMD Starship/Matisse HD Audio Controller                                                          | 3        | 3.61%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3        | 3.61%   |
+| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3        | 3.61%   |
+| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2        | 2.41%   |
+| Nvidia MCP61 High Definition Audio                                                                | 2        | 2.41%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 2        | 2.41%   |
+| Intel Cannon Lake PCH cAVS                                                                        | 2        | 2.41%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 2        | 2.41%   |
+| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2        | 2.41%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2        | 2.41%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2        | 2.41%   |
+| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2        | 2.41%   |
+| AMD Navi 10 HDMI Audio                                                                            | 2        | 2.41%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2        | 2.41%   |
+| Nvidia High Definition Audio Controller                                                           | 1        | 1.2%    |
+| Nvidia GP106 High Definition Audio Controller                                                     | 1        | 1.2%    |
+| Nvidia GF110 High Definition Audio Controller                                                     | 1        | 1.2%    |
+| Lenovo Lenovo USB Soundbar                                                                        | 1        | 1.2%    |
+| Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.2%    |
+| Intel Crystal Well HD Audio Controller                                                            | 1        | 1.2%    |
+| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 1        | 1.2%    |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1        | 1.2%    |
+| Intel C610/X99 series chipset HD Audio Controller                                                 | 1        | 1.2%    |
+| Intel Broadwell-U Audio Controller                                                                | 1        | 1.2%    |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1        | 1.2%    |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1        | 1.2%    |
+| Intel 200 Series PCH HD Audio                                                                     | 1        | 1.2%    |
+| ESS Technology ES1968 Maestro 2                                                                   | 1        | 1.2%    |
+| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                     | 1        | 1.2%    |
+| AMD Wrestler HDMI Audio                                                                           | 1        | 1.2%    |
+| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1        | 1.2%    |
+| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1        | 1.2%    |
+| AMD FCH Azalia Controller                                                                         | 1        | 1.2%    |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1        | 1.2%    |
+| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]                               | 1        | 1.2%    |
+| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                                        | 1        | 1.2%    |
+| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1        | 1.2%    |
 
 Memory
 ------

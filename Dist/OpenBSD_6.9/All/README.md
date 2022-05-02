@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/OpenBSD_6.9/Desktop/README.md) and [notebooks](/Dist/OpenBSD_6.9/Notebook/README.md).
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -565,9 +563,9 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2020    | 14        | 15.73%  |
-| 2019    | 11        | 12.36%  |
+| 2019    | 12        | 13.48%  |
 | 2018    | 8         | 8.99%   |
-| 2021    | 7         | 7.87%   |
+| 2021    | 6         | 6.74%   |
 | 2013    | 6         | 6.74%   |
 | 2008    | 6         | 6.74%   |
 | 2009    | 5         | 5.62%   |
@@ -887,7 +885,7 @@ Hard drive models
 
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| OPENBSD SR RAID 1 1TB             | 5         | 4%      |
+| OPENBSD SR RAID 1 752GB           | 5         | 4%      |
 | WDC WD1600BEVT-22ZCT0 160GB       | 3         | 2.4%    |
 | Samsung SSD 850 EVO 250GB         | 3         | 2.4%    |
 | NVMe Samsung SSD 960 500GB        | 3         | 2.4%    |
@@ -1700,7 +1698,7 @@ Monitor models
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch              | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4036 1440x900 300x190mm 14.0-inch                  | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4033 1440x900 300x190mm 14.0-inch                  | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch                  | 1         | 2.08%   |
 | InfoVision M116NWR1 R0  IVO0489 1366x768 260x140mm 11.6-inch             | 1         | 2.08%   |
 | Goldstar L1715S GSM436F 1280x1024 340x270mm 17.1-inch                    | 1         | 2.08%   |
 | Eizo EV2450 ENC2530 1920x1080 530x300mm 24.0-inch                        | 1         | 2.08%   |

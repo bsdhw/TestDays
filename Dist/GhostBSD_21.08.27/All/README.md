@@ -7,11 +7,9 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
+Please contribute! Especially if your hardware is rare.
 
 This is a report for all computer types. See also reports for [desktops](/Dist/GhostBSD_21.08.27/Desktop/README.md) and [notebooks](/Dist/GhostBSD_21.08.27/Notebook/README.md).
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
 
 Contents
 --------
@@ -1353,7 +1351,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch           | 1         | 2.78%   |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch           | 1         | 2.78%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch              | 1         | 2.78%   |
-| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 2.78%   |
+| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch               | 1         | 2.78%   |
 | Hewlett-Packard W2072a HWP299F 1600x900 440x250mm 19.9-inch           | 1         | 2.78%   |
 | Fujitsu Siemens P24-9 TE FUS08B8 1920x1080 530x300mm 24.0-inch        | 1         | 2.78%   |
 | Dell U2711 DELA057 2560x1440 600x340mm 27.2-inch                      | 1         | 2.78%   |

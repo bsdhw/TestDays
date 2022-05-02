@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -871,12 +869,11 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 23       | 28     | 40.35%  |
-| Seagate             | 18       | 23     | 31.58%  |
-| Hitachi             | 6        | 8      | 10.53%  |
-| Toshiba             | 5        | 7      | 8.77%   |
-| Samsung Electronics | 4        | 6      | 7.02%   |
-| Hewlett-Packard     | 1        | 1      | 1.75%   |
+| WDC                 | 23       | 28     | 41.07%  |
+| Seagate             | 18       | 23     | 32.14%  |
+| Hitachi             | 6        | 8      | 10.71%  |
+| Toshiba             | 5        | 7      | 8.93%   |
+| Samsung Electronics | 4        | 6      | 7.14%   |
 
 SSD Vendor
 ----------
@@ -888,21 +885,22 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 7        | 8      | 21.88%  |
-| Crucial             | 5        | 8      | 15.63%  |
-| Kingston            | 4        | 7      | 12.5%   |
-| SanDisk             | 3        | 3      | 9.38%   |
-| Smartbuy            | 2        | 2      | 6.25%   |
-| China               | 2        | 2      | 6.25%   |
-| Verbatim            | 1        | 1      | 3.13%   |
-| PNY                 | 1        | 1      | 3.13%   |
-| PLEXTOR             | 1        | 1      | 3.13%   |
-| LITEONIT            | 1        | 1      | 3.13%   |
-| KingSpec            | 1        | 2      | 3.13%   |
-| Intel               | 1        | 1      | 3.13%   |
-| GOODRAM             | 1        | 1      | 3.13%   |
-| Apacer              | 1        | 1      | 3.13%   |
-| A-DATA Technology   | 1        | 2      | 3.13%   |
+| Samsung Electronics | 7        | 8      | 21.21%  |
+| Crucial             | 5        | 8      | 15.15%  |
+| Kingston            | 4        | 7      | 12.12%  |
+| SanDisk             | 3        | 3      | 9.09%   |
+| Smartbuy            | 2        | 2      | 6.06%   |
+| China               | 2        | 2      | 6.06%   |
+| Verbatim            | 1        | 1      | 3.03%   |
+| PNY                 | 1        | 1      | 3.03%   |
+| PLEXTOR             | 1        | 1      | 3.03%   |
+| LITEONIT            | 1        | 1      | 3.03%   |
+| KingSpec            | 1        | 2      | 3.03%   |
+| Intel               | 1        | 1      | 3.03%   |
+| Hewlett-Packard     | 1        | 1      | 3.03%   |
+| GOODRAM             | 1        | 1      | 3.03%   |
+| Apacer              | 1        | 1      | 3.03%   |
+| A-DATA Technology   | 1        | 2      | 3.03%   |
 
 Drive Kind
 ----------
@@ -914,8 +912,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 41       | 73     | 50.62%  |
-| SSD  | 28       | 41     | 34.57%  |
+| HDD  | 40       | 72     | 49.38%  |
+| SSD  | 29       | 42     | 35.8%   |
 | NVMe | 12       | 14     | 14.81%  |
 
 Drive Connector
@@ -941,8 +939,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 46       | 70     | 55.42%  |
-| 0.51-1.0   | 23       | 27     | 27.71%  |
+| 0.01-0.5   | 47       | 71     | 56.63%  |
+| 0.51-1.0   | 22       | 26     | 26.51%  |
 | 1.01-2.0   | 6        | 7      | 7.23%   |
 | 2.01-3.0   | 4        | 6      | 4.82%   |
 | 3.01-4.0   | 3        | 3      | 3.61%   |

@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1742,7 +1740,7 @@ Memory module vendors
 | Micron Technology   | 5         | 12.82%  |
 | Unknown             | 4         | 10.26%  |
 | Kingston            | 3         | 7.69%   |
-| ELPIDA              | 2         | 5.13%   |
+| Elpida              | 2         | 5.13%   |
 | A-DATA Technology   | 2         | 5.13%   |
 | Magnum Tech         | 1         | 2.56%   |
 | Crucial             | 1         | 2.56%   |

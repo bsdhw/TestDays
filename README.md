@@ -7,6 +7,8 @@ Anyone can contribute to this project by the [hw-probe](https://github.com/linux
 
     hw-probe -all -upload
 
+This report is for real hardware. Report for virtual hardware: [TestCoverage_VE](https://github.com/bsdhw/TestCoverage_VE)
+
 Contents
 --------
 
@@ -24,7 +26,17 @@ Contents
 * [ OpenBSD 6.9 ](/Dist/OpenBSD_6.9)
 * [ OpenBSD 6.8 ](/Dist/OpenBSD_6.8)
 * [ OpenBSD 6.7 ](/Dist/OpenBSD_6.7)
+
+Variant-specific Reports
+------------------------
+
+* [ All BSD variants ](/All)
+* [ FreeBSD ](/Dist/FreeBSD)
+* [ GhostBSD ](/Dist/GhostBSD)
+* [ helloSystem ](/Dist/helloSystem)
 * [ NetBSD ](/Dist/NetBSD)
 * [ NomadBSD ](/Dist/NomadBSD)
+* [ OpenBSD ](/Dist/OpenBSD)
+* [ OPNsense ](/Dist/OPNsense)
 * [ pfSense ](/Dist/pfSense)
 * [ TrueNAS ](/Dist/TrueNAS)

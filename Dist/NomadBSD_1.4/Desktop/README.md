@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -1185,9 +1183,9 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 16.67%  |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM 192MT/s          | 1        | 16.67%  |
+| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s    | 1        | 16.67%  |
 | SK Hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s         | 1        | 16.67%  |
-| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 800MT/s   | 1        | 16.67%  |
+| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s  | 1        | 16.67%  |
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s          | 1        | 16.67%  |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s | 1        | 16.67%  |
 
@@ -1201,10 +1199,10 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR4    | 1        | 25%     |
-| DDR3    | 1        | 25%     |
-| DDR2    | 1        | 25%     |
-| Unknown | 1        | 25%     |
+| DDR3    | 2        | 40%     |
+| DDR4    | 1        | 20%     |
+| DDR2    | 1        | 20%     |
+| Unknown | 1        | 20%     |
 
 Memory Form Factor
 ------------------
@@ -1243,10 +1241,10 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 800   | 2        | 40%     |
+| 1067  | 2        | 40%     |
 | 2400  | 1        | 20%     |
 | 1066  | 1        | 20%     |
-| 192   | 1        | 20%     |
+| 800   | 1        | 20%     |
 
 Printers & scanners
 -------------------

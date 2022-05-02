@@ -7,9 +7,7 @@ Anyone can contribute to this report by the [hw-probe](https://github.com/linuxh
 
     hw-probe -all -upload
 
-Please submit a probe of your configuration if it's not presented on the page or is rare.
-
-Full-feature report is available here: https://bsd-hardware.info/?view=trends
+Please contribute! Especially if your hardware is rare.
 
 Contents
 --------
@@ -461,8 +459,8 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 10       | 22.22%  |
-| 2020 | 6        | 13.33%  |
-| 2019 | 6        | 13.33%  |
+| 2019 | 7        | 15.56%  |
+| 2020 | 5        | 11.11%  |
 | 2012 | 5        | 11.11%  |
 | 2014 | 3        | 6.67%   |
 | 2013 | 3        | 6.67%   |
@@ -877,7 +875,7 @@ Size of hard drive
 | 1.01-2.0   | 8        | 10     | 11.76%  |
 | 3.01-4.0   | 4        | 4      | 5.88%   |
 | 4.01-10.0  | 3        | 7      | 4.41%   |
-| 10.01-20.0 | 1        | 2      | 1.47%   |
+| 2.01-3.0   | 1        | 2      | 1.47%   |
 
 Space Total
 -----------
