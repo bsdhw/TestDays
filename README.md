@@ -42,3 +42,21 @@ Variant-specific Reports
 * [ OPNsense ](/Dist/OPNsense)
 * [ pfSense ](/Dist/pfSense)
 * [ TrueNAS ](/Dist/TrueNAS)
+
+Location-specific Reports
+-------------------------
+
+* [ Australia ](/Location/Australia)
+* [ Austria ](/Location/Austria)
+* [ Brazil ](/Location/Brazil)
+* [ Canada ](/Location/Canada)
+* [ France ](/Location/France)
+* [ Germany ](/Location/Germany)
+* [ Italy ](/Location/Italy)
+* [ Netherlands ](/Location/Netherlands)
+* [ Poland ](/Location/Poland)
+* [ Russia ](/Location/Russia)
+* [ Sweden ](/Location/Sweden)
+* [ Switzerland ](/Location/Switzerland)
+* [ UK ](/Location/UK)
+* [ USA ](/Location/USA)
