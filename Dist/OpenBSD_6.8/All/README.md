@@ -733,12 +733,12 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 25        | 12.02%  |
+| 2019    | 24        | 11.54%  |
 | 2016    | 23        | 11.06%  |
 | 2018    | 21        | 10.1%   |
 | 2020    | 19        | 9.13%   |
 | 2013    | 15        | 7.21%   |
-| 2017    | 13        | 6.25%   |
+| 2017    | 14        | 6.73%   |
 | 2015    | 13        | 6.25%   |
 | 2012    | 11        | 5.29%   |
 | Unknown | 11        | 5.29%   |
@@ -1101,7 +1101,7 @@ Hard drive models
 | WDC WDS240G2G0A-00JH30 240GB        | 2         | 0.68%   |
 | WDC WD10JPLX-00MBPT0 1TB            | 2         | 0.68%   |
 | WDC WD Elements 25A1 4TB            | 2         | 0.68%   |
-| USB SanDisk 3.2Gen1 16GB            | 2         | 0.68%   |
+| USB SanDisk 3.2Gen1 64GB            | 2         | 0.68%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 2         | 0.68%   |
 | Seagate ST1000LM035-1RK172 1TB      | 2         | 0.68%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB  | 2         | 0.68%   |
@@ -1160,29 +1160,29 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 35        | 42     | 25.55%  |
-| Seagate             | 28        | 37     | 20.44%  |
-| NVMe                | 20        | 24     | 14.6%   |
-| Hitachi             | 9         | 9      | 6.57%   |
-| HGST                | 7         | 8      | 5.11%   |
-| OPENBSD             | 6         | 6      | 4.38%   |
-| Dell                | 6         | 10     | 4.38%   |
-| Toshiba             | 4         | 5      | 2.92%   |
-| Samsung Electronics | 4         | 6      | 2.92%   |
-| Apple               | 3         | 3      | 2.19%   |
-| USB                 | 2         | 2      | 1.46%   |
-| Generic             | 2         | 2      | 1.46%   |
-| UFD 2.0             | 1         | 1      | 0.73%   |
-| SABRENT             | 1         | 1      | 0.73%   |
-| Multiple            | 1         | 1      | 0.73%   |
-| Maxtor              | 1         | 1      | 0.73%   |
-| MaxDigital          | 1         | 1      | 0.73%   |
-| LSI                 | 1         | 1      | 0.73%   |
-| Lexar               | 1         | 1      | 0.73%   |
-| JetFlash            | 1         | 1      | 0.73%   |
-| IBM                 | 1         | 1      | 0.73%   |
-| General             | 1         | 1      | 0.73%   |
-| ASMT                | 1         | 1      | 0.73%   |
+| WDC                 | 35        | 42     | 25.36%  |
+| Seagate             | 28        | 37     | 20.29%  |
+| NVMe                | 20        | 24     | 14.49%  |
+| Hitachi             | 9         | 9      | 6.52%   |
+| HGST                | 7         | 8      | 5.07%   |
+| OPENBSD             | 6         | 6      | 4.35%   |
+| Dell                | 6         | 10     | 4.35%   |
+| Toshiba             | 4         | 5      | 2.9%    |
+| Samsung Electronics | 4         | 6      | 2.9%    |
+| Apple               | 3         | 3      | 2.17%   |
+| USB                 | 2         | 2      | 1.45%   |
+| LSI                 | 2         | 2      | 1.45%   |
+| Generic             | 2         | 2      | 1.45%   |
+| UFD 2.0             | 1         | 1      | 0.72%   |
+| SABRENT             | 1         | 1      | 0.72%   |
+| Multiple            | 1         | 1      | 0.72%   |
+| Maxtor              | 1         | 1      | 0.72%   |
+| MaxDigital          | 1         | 1      | 0.72%   |
+| Lexar               | 1         | 1      | 0.72%   |
+| JetFlash            | 1         | 1      | 0.72%   |
+| IBM                 | 1         | 1      | 0.72%   |
+| General             | 1         | 1      | 0.72%   |
+| ASMT                | 1         | 1      | 0.72%   |
 
 SSD Vendor
 ----------
@@ -1194,20 +1194,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 24        | 31     | 17.02%  |
-| Kingston            | 19        | 20     | 13.48%  |
-| SanDisk             | 13        | 15     | 9.22%   |
-| Crucial             | 13        | 22     | 9.22%   |
-| Phison              | 11        | 11     | 7.8%    |
-| NVMe                | 10        | 10     | 7.09%   |
-| Transcend           | 9         | 12     | 6.38%   |
-| Intel               | 8         | 8      | 5.67%   |
-| WDC                 | 6         | 6      | 4.26%   |
-| PNY                 | 5         | 5      | 3.55%   |
-| A-DATA Technology   | 4         | 5      | 2.84%   |
-| LITEONIT            | 2         | 2      | 1.42%   |
-| Hewlett-Packard     | 2         | 3      | 1.42%   |
-| Apple               | 2         | 2      | 1.42%   |
+| Samsung Electronics | 24        | 31     | 17.14%  |
+| Kingston            | 19        | 20     | 13.57%  |
+| SanDisk             | 13        | 15     | 9.29%   |
+| Crucial             | 13        | 22     | 9.29%   |
+| Phison              | 11        | 11     | 7.86%   |
+| NVMe                | 10        | 10     | 7.14%   |
+| Transcend           | 9         | 12     | 6.43%   |
+| Intel               | 8         | 8      | 5.71%   |
+| WDC                 | 6         | 6      | 4.29%   |
+| PNY                 | 5         | 5      | 3.57%   |
+| A-DATA Technology   | 4         | 5      | 2.86%   |
+| LITEONIT            | 2         | 2      | 1.43%   |
+| Hewlett-Packard     | 2         | 3      | 1.43%   |
+| Apple               | 2         | 2      | 1.43%   |
 | Zheino              | 1         | 1      | 0.71%   |
 | Toshiba             | 1         | 1      | 0.71%   |
 | SPCC                | 1         | 1      | 0.71%   |
@@ -1215,7 +1215,6 @@ Solid state drive vendors
 | QUMO                | 1         | 1      | 0.71%   |
 | OCZ                 | 1         | 1      | 0.71%   |
 | MidasForce          | 1         | 1      | 0.71%   |
-| LSI                 | 1         | 1      | 0.71%   |
 | LITEON              | 1         | 1      | 0.71%   |
 | KingSpec            | 1         | 1      | 0.71%   |
 | Hoodisk             | 1         | 2      | 0.71%   |
@@ -1232,8 +1231,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 123       | 166    | 52.56%  |
-| HDD  | 109       | 165    | 46.58%  |
+| SSD  | 122       | 165    | 52.14%  |
+| HDD  | 110       | 166    | 47.01%  |
 | NVMe | 2         | 2      | 0.85%   |
 
 Drive Connector
@@ -1260,11 +1259,11 @@ Size of hard drive
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
 | 0.01-0.5        | 164       | 225    | 67.49%  |
-| 0.51-1.0        | 49        | 57     | 20.16%  |
+| 0.51-1.0        | 50        | 58     | 20.58%  |
 | 1.01-2.0        | 17        | 31     | 7%      |
 | 3.01-4.0        | 6         | 7      | 2.47%   |
-| 4.01-10.0       | 3         | 5      | 1.23%   |
 | 2.01-3.0        | 2         | 4      | 0.82%   |
+| 4.01-10.0       | 2         | 4      | 0.82%   |
 | More than 100.0 | 1         | 1      | 0.41%   |
 | 0               | 1         | 1      | 0.41%   |
 
@@ -1987,7 +1986,7 @@ Monitor models
 | Samsung Electronics SMB2340 SAM0691 1920x1080 510x290mm 23.1-inch    | 1         | 0.96%   |
 | Samsung Electronics SE790C SAM0BFE 3440x1440 800x330mm 34.1-inch     | 1         | 0.96%   |
 | Samsung Electronics S24C450 SAM09CF 1920x1200 520x320mm 24.0-inch    | 1         | 0.96%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch | 1         | 0.96%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch | 1         | 0.96%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch | 1         | 0.96%   |
 | Samsung Electronics LCD Monitor SDC314D 1366x768 310x170mm 13.9-inch | 1         | 0.96%   |
 | Samsung Electronics C34H89x SAM0E25 3440x1440 800x330mm 34.1-inch    | 1         | 0.96%   |
@@ -2069,8 +2068,8 @@ Diagonal size in inches
 
 | Inches | Computers | Percent |
 |--------|-----------|---------|
-| 15     | 23        | 23%     |
-| 13     | 22        | 22%     |
+| 15     | 24        | 24%     |
+| 13     | 21        | 21%     |
 | 24     | 9         | 9%      |
 | 27     | 8         | 8%      |
 | 23     | 7         | 7%      |
@@ -2131,14 +2130,14 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 81-90          | 21        | 21.21%  |
+| 81-90          | 20        | 20.2%   |
 | 91-100         | 19        | 19.19%  |
 | 201-250        | 14        | 14.14%  |
 | 301-350        | 8         | 8.08%   |
 | 61-70          | 7         | 7.07%   |
+| 101-110        | 6         | 6.06%   |
 | 151-200        | 5         | 5.05%   |
 | 141-150        | 5         | 5.05%   |
-| 101-110        | 5         | 5.05%   |
 | 71-80          | 4         | 4.04%   |
 | 351-500        | 4         | 4.04%   |
 | 251-300        | 3         | 3.03%   |
@@ -2157,8 +2156,8 @@ Pixels per inch
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
 | 121-160       | 33        | 32.67%  |
-| 51-100        | 29        | 28.71%  |
-| 101-120       | 21        | 20.79%  |
+| 51-100        | 30        | 29.7%   |
+| 101-120       | 20        | 19.8%   |
 | 161-240       | 13        | 12.87%  |
 | More than 240 | 3         | 2.97%   |
 | 1-50          | 2         | 1.98%   |

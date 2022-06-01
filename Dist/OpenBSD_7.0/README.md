@@ -911,7 +911,7 @@ Hard drive models
 | Toshiba MK2555GSX 250GB                              | 1         | 0.93%   |
 | Toshiba MK1629GSGF 160GB                             | 1         | 0.93%   |
 | Toshiba DT01ACA050 500GB                             | 1         | 0.93%   |
-| StoreJet Transcend 1TB                               | 1         | 0.93%   |
+| StoreJet Transcend 120GB                             | 1         | 0.93%   |
 | SSDPR-CX 400-512-G2 512GB                            | 1         | 0.93%   |
 | SK Hynix SC311 SATA 256GB                            | 1         | 0.93%   |
 | SK Hynix HFS128G32TNF-N3A0A 128GB                    | 1         | 0.93%   |
@@ -943,7 +943,7 @@ Hard drive models
 | NVMe WDS500G3X0C-00SJ 500GB                          | 1         | 0.93%   |
 | NVMe WDC WDS100T2B0C- 1TB                            | 1         | 0.93%   |
 | NVMe TOSHIBA-RC100 240GB                             | 1         | 0.93%   |
-| NVMe Samsung SSD 980 500GB                           | 1         | 0.93%   |
+| NVMe Samsung SSD 980 1TB                             | 1         | 0.93%   |
 | NVMe SAMSUNG MZVLW1T0 1TB                            | 1         | 0.93%   |
 | NVMe SAMSUNG MZVLB256 256GB                          | 1         | 0.93%   |
 
@@ -1039,10 +1039,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 62        | 84     | 72.09%  |
-| 0.51-1.0   | 16        | 18     | 18.6%   |
-| 1.01-2.0   | 7         | 14     | 8.14%   |
-| 4.01-10.0  | 1         | 1      | 1.16%   |
+| 0.01-0.5   | 63        | 84     | 72.41%  |
+| 0.51-1.0   | 16        | 18     | 18.39%  |
+| 1.01-2.0   | 7         | 14     | 8.05%   |
+| 4.01-10.0  | 1         | 1      | 1.15%   |
 
 Space Total
 -----------
@@ -1683,7 +1683,7 @@ Monitor models
 | Samsung Electronics S24D390 SAM0B65 1920x1080 520x290mm 23.4-inch        | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch     | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SAM7103 3840x2160 700x390mm 31.5-inch    | 1         | 1.89%   |
 | Philips LCD Monitor PHLC00B 1280x1024 340x270mm 17.1-inch                | 1         | 1.89%   |
 | PANDA LCD Monitor NCP0004 1920x1080 290x170mm 13.2-inch                  | 1         | 1.89%   |
@@ -1763,9 +1763,9 @@ Diagonal size in inches
 
 | Inches | Computers | Percent |
 |--------|-----------|---------|
-| 13     | 14        | 26.92%  |
+| 13     | 13        | 25%     |
+| 15     | 10        | 19.23%  |
 | 12     | 10        | 19.23%  |
-| 15     | 9         | 17.31%  |
 | 31     | 3         | 5.77%   |
 | 11     | 3         | 5.77%   |
 | 34     | 2         | 3.85%   |
@@ -1820,17 +1820,17 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 81-90          | 15        | 28.85%  |
+| 81-90          | 14        | 26.92%  |
 | 61-70          | 10        | 19.23%  |
 | 91-100         | 8         | 15.38%  |
 | 351-500        | 6         | 11.54%  |
 | 201-250        | 5         | 9.62%   |
 | 51-60          | 3         | 5.77%   |
+| 101-110        | 2         | 3.85%   |
 | 71-80          | 1         | 1.92%   |
 | 251-300        | 1         | 1.92%   |
 | 151-200        | 1         | 1.92%   |
 | 141-150        | 1         | 1.92%   |
-| 101-110        | 1         | 1.92%   |
 
 Pixel Density
 -------------
@@ -1843,8 +1843,8 @@ Pixels per inch
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
 | 121-160       | 26        | 50%     |
-| 101-120       | 10        | 19.23%  |
-| 51-100        | 7         | 13.46%  |
+| 101-120       | 9         | 17.31%  |
+| 51-100        | 8         | 15.38%  |
 | 161-240       | 5         | 9.62%   |
 | More than 240 | 3         | 5.77%   |
 | 1-50          | 1         | 1.92%   |
@@ -2336,7 +2336,7 @@ Memory module models
 | SK Hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s    | 1         | 5.26%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5.26%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.26%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 5.26%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.26%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.26%   |
@@ -2477,10 +2477,10 @@ Camera device models
 
 | Model                                         | Computers | Percent |
 |-----------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                     | 3         | 9.38%   |
 | Acer Integrated Camera                        | 3         | 9.38%   |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.25%   |
 | IMC Networks Integrated Camera                | 2         | 6.25%   |
+| Chicony Integrated Camera                     | 2         | 6.25%   |
 | Z-Star Integrated Camera                      | 1         | 3.13%   |
 | Syntek Lenovo EasyCamera                      | 1         | 3.13%   |
 | Sunplus Integrated_Webcam_FHD                 | 1         | 3.13%   |
@@ -2492,6 +2492,7 @@ Camera device models
 | Luxvisions Innotech Limited Integrated Camera | 1         | 3.13%   |
 | Lite-On Integrated Camera                     | 1         | 3.13%   |
 | Chicony Sonix ST50220 USB Video Camera        | 1         | 3.13%   |
+| Chicony Ltd., Integrated Camera               | 1         | 3.13%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 3.13%   |
 | Chicony Integrated Camera (1280x720@30)       | 1         | 3.13%   |
 | Chicony HP Webcam [2 MP]                      | 1         | 3.13%   |

@@ -461,12 +461,12 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2011    | 6         | 12%     |
+| 2011    | 7         | 14%     |
 | 2018    | 5         | 10%     |
 | 2017    | 5         | 10%     |
 | 2015    | 5         | 10%     |
-| 2012    | 5         | 10%     |
 | 2019    | 4         | 8%      |
+| 2012    | 4         | 8%      |
 | 2006    | 4         | 8%      |
 | Unknown | 4         | 8%      |
 | 2020    | 3         | 6%      |
@@ -761,7 +761,7 @@ Hard drive models
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |
 | NVMe INTEL SSDPEKNW51 512GB      | 1         | 1.64%   |
 | Micron 1100_MTFDDAK256TBN 256GB  | 1         | 1.64%   |
-| LSI Logical Volume 5.7TB         | 1         | 1.64%   |
+| LSI Logical Volume 597GB         | 1         | 1.64%   |
 | Leven JAJS600M512C 512GB         | 1         | 1.64%   |
 | Kingston SUV500MS240G 240GB      | 1         | 1.64%   |
 | Kingston SA400S37120G 120GB      | 1         | 1.64%   |
@@ -788,15 +788,16 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 10        | 13     | 33.33%  |
-| Hitachi             | 6         | 6      | 20%     |
-| NVMe                | 5         | 6      | 16.67%  |
-| WDC                 | 4         | 4      | 13.33%  |
-| Toshiba             | 1         | 1      | 3.33%   |
-| Samsung Electronics | 1         | 1      | 3.33%   |
-| OPENBSD             | 1         | 1      | 3.33%   |
-| HGST                | 1         | 1      | 3.33%   |
-| China               | 1         | 1      | 3.33%   |
+| Seagate             | 10        | 13     | 32.26%  |
+| Hitachi             | 6         | 6      | 19.35%  |
+| NVMe                | 5         | 6      | 16.13%  |
+| WDC                 | 4         | 4      | 12.9%   |
+| Toshiba             | 1         | 1      | 3.23%   |
+| Samsung Electronics | 1         | 1      | 3.23%   |
+| OPENBSD             | 1         | 1      | 3.23%   |
+| LSI                 | 1         | 1      | 3.23%   |
+| HGST                | 1         | 1      | 3.23%   |
+| China               | 1         | 1      | 3.23%   |
 
 SSD Vendor
 ----------
@@ -808,19 +809,18 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 10        | 11     | 34.48%  |
-| SanDisk             | 3         | 4      | 10.34%  |
-| Phison              | 3         | 3      | 10.34%  |
-| Kingston            | 3         | 3      | 10.34%  |
-| WDC                 | 2         | 2      | 6.9%    |
-| Transcend           | 1         | 1      | 3.45%   |
-| NVMe                | 1         | 1      | 3.45%   |
-| Micron Technology   | 1         | 1      | 3.45%   |
-| LSI                 | 1         | 1      | 3.45%   |
-| Leven               | 1         | 1      | 3.45%   |
-| Intel               | 1         | 1      | 3.45%   |
-| Gigabyte Technology | 1         | 1      | 3.45%   |
-| Crucial             | 1         | 1      | 3.45%   |
+| Samsung Electronics | 10        | 11     | 35.71%  |
+| SanDisk             | 3         | 4      | 10.71%  |
+| Phison              | 3         | 3      | 10.71%  |
+| Kingston            | 3         | 3      | 10.71%  |
+| WDC                 | 2         | 2      | 7.14%   |
+| Transcend           | 1         | 1      | 3.57%   |
+| NVMe                | 1         | 1      | 3.57%   |
+| Micron Technology   | 1         | 1      | 3.57%   |
+| Leven               | 1         | 1      | 3.57%   |
+| Intel               | 1         | 1      | 3.57%   |
+| Gigabyte Technology | 1         | 1      | 3.57%   |
+| Crucial             | 1         | 1      | 3.57%   |
 
 Drive Kind
 ----------
@@ -832,8 +832,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 27        | 31     | 51.92%  |
-| HDD  | 25        | 34     | 48.08%  |
+| SSD  | 26        | 30     | 50.98%  |
+| HDD  | 25        | 35     | 49.02%  |
 
 Drive Connector
 ---------------
@@ -858,10 +858,9 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 36        | 39     | 62.07%  |
-| 0.51-1.0   | 15        | 15     | 25.86%  |
+| 0.51-1.0   | 16        | 16     | 27.59%  |
 | 1.01-2.0   | 5         | 9      | 8.62%   |
 | 2.01-3.0   | 1         | 1      | 1.72%   |
-| 4.01-10.0  | 1         | 1      | 1.72%   |
 
 Space Total
 -----------

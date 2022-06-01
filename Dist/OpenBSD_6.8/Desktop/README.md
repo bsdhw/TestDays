@@ -597,12 +597,12 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2016    | 17       | 15.6%   |
 | 2018    | 15       | 13.76%  |
-| 2019    | 13       | 11.93%  |
+| 2019    | 12       | 11.01%  |
 | 2014    | 9        | 8.26%   |
 | Unknown | 8        | 7.34%   |
 | 2020    | 7        | 6.42%   |
+| 2017    | 7        | 6.42%   |
 | 2013    | 7        | 6.42%   |
-| 2017    | 6        | 5.5%    |
 | 2012    | 6        | 5.5%    |
 | 2011    | 5        | 4.59%   |
 | 2008    | 4        | 3.67%   |
@@ -930,7 +930,7 @@ Hard drive models
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |
 | WDC WD Elements 25A1 4TB           | 2        | 1.16%   |
-| USB SanDisk 3.2Gen1 16GB           | 2        | 1.16%   |
+| USB SanDisk 3.2Gen1 64GB           | 2        | 1.16%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB | 2        | 1.16%   |
 | Samsung SSD 860 EVO mSATA 500GB    | 2        | 1.16%   |
 | Samsung SSD 850 EVO M.2 250GB      | 2        | 1.16%   |
@@ -995,26 +995,26 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 20       | 27     | 23.53%  |
-| Seagate             | 19       | 28     | 22.35%  |
-| Hitachi             | 8        | 8      | 9.41%   |
-| HGST                | 6        | 7      | 7.06%   |
-| Dell                | 6        | 10     | 7.06%   |
-| OPENBSD             | 5        | 5      | 5.88%   |
-| NVMe                | 5        | 6      | 5.88%   |
-| Samsung Electronics | 3        | 4      | 3.53%   |
-| USB                 | 2        | 2      | 2.35%   |
-| SABRENT             | 1        | 1      | 1.18%   |
-| Multiple            | 1        | 1      | 1.18%   |
-| Maxtor              | 1        | 1      | 1.18%   |
-| MaxDigital          | 1        | 1      | 1.18%   |
-| LSI                 | 1        | 1      | 1.18%   |
-| Lexar               | 1        | 1      | 1.18%   |
-| JetFlash            | 1        | 1      | 1.18%   |
-| IBM                 | 1        | 1      | 1.18%   |
-| General             | 1        | 1      | 1.18%   |
-| ASMT                | 1        | 1      | 1.18%   |
-| Apple               | 1        | 1      | 1.18%   |
+| WDC                 | 20       | 27     | 23.26%  |
+| Seagate             | 19       | 28     | 22.09%  |
+| Hitachi             | 8        | 8      | 9.3%    |
+| HGST                | 6        | 7      | 6.98%   |
+| Dell                | 6        | 10     | 6.98%   |
+| OPENBSD             | 5        | 5      | 5.81%   |
+| NVMe                | 5        | 6      | 5.81%   |
+| Samsung Electronics | 3        | 4      | 3.49%   |
+| USB                 | 2        | 2      | 2.33%   |
+| LSI                 | 2        | 2      | 2.33%   |
+| SABRENT             | 1        | 1      | 1.16%   |
+| Multiple            | 1        | 1      | 1.16%   |
+| Maxtor              | 1        | 1      | 1.16%   |
+| MaxDigital          | 1        | 1      | 1.16%   |
+| Lexar               | 1        | 1      | 1.16%   |
+| JetFlash            | 1        | 1      | 1.16%   |
+| IBM                 | 1        | 1      | 1.16%   |
+| General             | 1        | 1      | 1.16%   |
+| ASMT                | 1        | 1      | 1.16%   |
+| Apple               | 1        | 1      | 1.16%   |
 
 SSD Vendor
 ----------
@@ -1026,25 +1026,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 16       | 17     | 21.62%  |
-| Phison              | 11       | 11     | 14.86%  |
-| Samsung Electronics | 8        | 15     | 10.81%  |
-| Crucial             | 8        | 17     | 10.81%  |
-| Transcend           | 5        | 8      | 6.76%   |
-| Intel               | 5        | 5      | 6.76%   |
-| NVMe                | 4        | 4      | 5.41%   |
-| A-DATA Technology   | 4        | 5      | 5.41%   |
-| WDC                 | 2        | 2      | 2.7%    |
-| SanDisk             | 2        | 3      | 2.7%    |
-| SK Hynix            | 1        | 1      | 1.35%   |
-| QUMO                | 1        | 1      | 1.35%   |
-| PNY                 | 1        | 1      | 1.35%   |
-| OCZ                 | 1        | 1      | 1.35%   |
-| MidasForce          | 1        | 1      | 1.35%   |
-| LSI                 | 1        | 1      | 1.35%   |
-| LITEONIT            | 1        | 1      | 1.35%   |
-| Hoodisk             | 1        | 2      | 1.35%   |
-| Hewlett-Packard     | 1        | 2      | 1.35%   |
+| Kingston            | 16       | 17     | 21.92%  |
+| Phison              | 11       | 11     | 15.07%  |
+| Samsung Electronics | 8        | 15     | 10.96%  |
+| Crucial             | 8        | 17     | 10.96%  |
+| Transcend           | 5        | 8      | 6.85%   |
+| Intel               | 5        | 5      | 6.85%   |
+| NVMe                | 4        | 4      | 5.48%   |
+| A-DATA Technology   | 4        | 5      | 5.48%   |
+| WDC                 | 2        | 2      | 2.74%   |
+| SanDisk             | 2        | 3      | 2.74%   |
+| SK Hynix            | 1        | 1      | 1.37%   |
+| QUMO                | 1        | 1      | 1.37%   |
+| PNY                 | 1        | 1      | 1.37%   |
+| OCZ                 | 1        | 1      | 1.37%   |
+| MidasForce          | 1        | 1      | 1.37%   |
+| LITEONIT            | 1        | 1      | 1.37%   |
+| Hoodisk             | 1        | 2      | 1.37%   |
+| Hewlett-Packard     | 1        | 2      | 1.37%   |
 
 Drive Kind
 ----------
@@ -1056,8 +1055,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 65       | 98     | 52%     |
-| HDD  | 60       | 108    | 48%     |
+| SSD  | 64       | 97     | 51.2%   |
+| HDD  | 61       | 109    | 48.8%   |
 
 Drive Connector
 ---------------
@@ -1082,11 +1081,11 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 89       | 132    | 64.96%  |
-| 0.51-1.0   | 24       | 32     | 17.52%  |
+| 0.51-1.0   | 25       | 33     | 18.25%  |
 | 1.01-2.0   | 13       | 26     | 9.49%   |
 | 3.01-4.0   | 6        | 7      | 4.38%   |
-| 4.01-10.0  | 3        | 5      | 2.19%   |
 | 2.01-3.0   | 2        | 4      | 1.46%   |
+| 4.01-10.0  | 2        | 4      | 1.46%   |
 
 Space Total
 -----------

@@ -463,8 +463,8 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2014    | 6         | 15.79%  |
 | Unknown | 6         | 15.79%  |
-| 2019    | 4         | 10.53%  |
-| 2018    | 4         | 10.53%  |
+| 2018    | 5         | 13.16%  |
+| 2019    | 3         | 7.89%   |
 | 2016    | 3         | 7.89%   |
 | 2013    | 3         | 7.89%   |
 | 2012    | 3         | 7.89%   |
@@ -811,15 +811,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 18        | 85     | 33.96%  |
-| Seagate             | 17        | 107    | 32.08%  |
-| Toshiba             | 6         | 9      | 11.32%  |
-| Hitachi             | 6         | 22     | 11.32%  |
-| HPT                 | 2         | 31     | 3.77%   |
-| WD MediaMax         | 1         | 3      | 1.89%   |
-| Samsung Electronics | 1         | 3      | 1.89%   |
-| HGST                | 1         | 10     | 1.89%   |
-| Hewlett-Packard     | 1         | 3      | 1.89%   |
+| WDC                 | 18        | 85     | 33.33%  |
+| Seagate             | 17        | 107    | 31.48%  |
+| Toshiba             | 6         | 9      | 11.11%  |
+| Hitachi             | 6         | 22     | 11.11%  |
+| HPT                 | 2         | 31     | 3.7%    |
+| Hewlett-Packard     | 2         | 8      | 3.7%    |
+| WD MediaMax         | 1         | 3      | 1.85%   |
+| Samsung Electronics | 1         | 3      | 1.85%   |
+| HGST                | 1         | 10     | 1.85%   |
 
 SSD Vendor
 ----------
@@ -831,20 +831,19 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 6         | 8      | 21.43%  |
-| Kingston            | 4         | 7      | 14.29%  |
-| Intel               | 4         | 12     | 14.29%  |
-| SanDisk             | 3         | 3      | 10.71%  |
-| Crucial             | 2         | 3      | 7.14%   |
-| Transcend           | 1         | 1      | 3.57%   |
-| Toshiba             | 1         | 2      | 3.57%   |
-| SPCC                | 1         | 1      | 3.57%   |
-| PNY                 | 1         | 1      | 3.57%   |
-| Mushkin             | 1         | 1      | 3.57%   |
-| Hewlett-Packard     | 1         | 5      | 3.57%   |
-| China               | 1         | 1      | 3.57%   |
-| Apacer              | 1         | 1      | 3.57%   |
-| AMD                 | 1         | 2      | 3.57%   |
+| Samsung Electronics | 6         | 8      | 22.22%  |
+| Kingston            | 4         | 7      | 14.81%  |
+| Intel               | 4         | 12     | 14.81%  |
+| SanDisk             | 3         | 3      | 11.11%  |
+| Crucial             | 2         | 3      | 7.41%   |
+| Transcend           | 1         | 1      | 3.7%    |
+| Toshiba             | 1         | 2      | 3.7%    |
+| SPCC                | 1         | 1      | 3.7%    |
+| PNY                 | 1         | 1      | 3.7%    |
+| Mushkin             | 1         | 1      | 3.7%    |
+| China               | 1         | 1      | 3.7%    |
+| Apacer              | 1         | 1      | 3.7%    |
+| AMD                 | 1         | 2      | 3.7%    |
 
 Drive Kind
 ----------
@@ -856,9 +855,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 32        | 273    | 53.33%  |
-| SSD  | 23        | 48     | 38.33%  |
-| NVMe | 5         | 6      | 8.33%   |
+| HDD  | 32        | 278    | 54.24%  |
+| SSD  | 22        | 43     | 37.29%  |
+| NVMe | 5         | 6      | 8.47%   |
 
 Drive Connector
 ---------------
@@ -1755,7 +1754,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s                | 1         | 2.22%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                     | 1         | 2.22%   |
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s                | 1         | 2.22%   |
-| Transcend RAM TS1GLK72V6H 8192MB DIMM DDR3 1600MT/s         | 1         | 2.22%   |
+| Transcend RAM TS1GLK72V6H 8GB DIMM DDR3 1600MT/s            | 1         | 2.22%   |
 | Toshiba RAM 9965525-138.A00LF 8192MB DIMM DDR3 1600MT/s     | 1         | 2.22%   |
 | Team RAM Vulcan-2400 8192MB DIMM DDR3 1333MT/s              | 1         | 2.22%   |
 | SK Hynix RAM HYMP151F72CP4N3-Y5 4096MB FB-DIMM DDR2 667MT/s | 1         | 2.22%   |

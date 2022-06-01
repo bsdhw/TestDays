@@ -2243,7 +2243,7 @@ Memory module models
 | Samsung RAM M471B5273EB0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
 | Samsung RAM M471B5273CH0-CF8 4GB SODIMM DDR3 1067MT/s           | 1         | 0.8%    |
 | Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s           | 1         | 0.8%    |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s           | 1         | 0.8%    |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2400MT/s           | 1         | 0.8%    |
 | Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s           | 1         | 0.8%    |
 
@@ -2303,7 +2303,7 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 35        | 33.65%  |
+| 1600    | 34        | 32.69%  |
 | 2400    | 15        | 14.42%  |
 | 1333    | 13        | 12.5%   |
 | 2133    | 8         | 7.69%   |
@@ -2312,7 +2312,7 @@ Memory module speed
 | 1334    | 5         | 4.81%   |
 | 1067    | 5         | 4.81%   |
 | 3200    | 4         | 3.85%   |
-| 1867    | 2         | 1.92%   |
+| 1867    | 3         | 2.88%   |
 | 1066    | 1         | 0.96%   |
 | 800     | 1         | 0.96%   |
 | 533     | 1         | 0.96%   |

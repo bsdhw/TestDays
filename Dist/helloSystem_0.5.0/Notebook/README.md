@@ -2418,7 +2418,7 @@ Memory module models
 | Samsung RAM M471B5674EB0-YMA 2GB Row Of Chips DDR3 1600MT/s               | 1         | 0.67%   |
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
 | Samsung RAM M471B5273BH1-CH9 4096MB SODIMM DDR3 1333MT/s                  | 1         | 0.67%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s                     | 1         | 0.67%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
 | Samsung RAM M471B1G73AH0-CH9 8GB SODIMM DDR3 1333MT/s                     | 1         | 0.67%   |
 
@@ -2482,7 +2482,7 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 43        | 33.86%  |
+| 1600    | 42        | 33.07%  |
 | 1333    | 20        | 15.75%  |
 | 1334    | 12        | 9.45%   |
 | 2400    | 11        | 8.66%   |
@@ -2491,8 +2491,8 @@ Memory module speed
 | 800     | 7         | 5.51%   |
 | 1067    | 4         | 3.15%   |
 | 3200    | 3         | 2.36%   |
+| 1867    | 3         | 2.36%   |
 | 667     | 3         | 2.36%   |
-| 1867    | 2         | 1.57%   |
 | Unknown | 2         | 1.57%   |
 | 1777    | 1         | 0.79%   |
 | 975     | 1         | 0.79%   |
@@ -2629,7 +2629,7 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) Realtek DMFT - RGB  | 1         | 1.18%   |
 | Cheng Uei Precision Industry (Foxlink) HP Universal Camera | 1         | 1.18%   |
 | ALi M5602 Video Camera Controller                          | 1         | 1.18%   |
-| Alcor Micro USB 2.0 Camera                                 | 1         | 1.18%   |
+| Alcor Micro USB 2.0 Web Camera                             | 1         | 1.18%   |
 | Alcor Micro Acer Integrated Webcam                         | 1         | 1.18%   |
 | Acer ThinkPad Integrated Camera                            | 1         | 1.18%   |
 | Acer Lenovo Integrated Webcam                              | 1         | 1.18%   |

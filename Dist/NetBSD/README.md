@@ -2024,7 +2024,7 @@ Memory module models
 | SHARETRONIC RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1         | 2.44%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s      | 1         | 2.44%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s      | 1         | 2.44%   |
 | Samsung RAM M386B4G70DM0-YK04 32GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
 | Samsung RAM M386B4G70DM0-YK03 32GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
 | Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s    | 1         | 2.44%   |
@@ -2116,7 +2116,7 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 10        | 27.03%  |
+| 1600    | 9         | 24.32%  |
 | Unknown | 4         | 10.81%  |
 | 2133    | 3         | 8.11%   |
 | 1333    | 3         | 8.11%   |
@@ -2127,6 +2127,7 @@ Memory module speed
 | 2933    | 1         | 2.7%    |
 | 2667    | 1         | 2.7%    |
 | 2666    | 1         | 2.7%    |
+| 1867    | 1         | 2.7%    |
 | 1334    | 1         | 2.7%    |
 | 1066    | 1         | 2.7%    |
 | 667     | 1         | 2.7%    |

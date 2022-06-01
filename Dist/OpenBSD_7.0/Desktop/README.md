@@ -696,7 +696,7 @@ Hard drive models
 | Toshiba MK3276GSX -63 320GB                          | 1        | 2.04%   |
 | Toshiba MK2555GSX 250GB                              | 1        | 2.04%   |
 | Toshiba DT01ACA050 500GB                             | 1        | 2.04%   |
-| StoreJet Transcend 1TB                               | 1        | 2.04%   |
+| StoreJet Transcend 120GB                             | 1        | 2.04%   |
 | SSDPR-CX 400-512-G2 512GB                            | 1        | 2.04%   |
 | Seagate ST3250318AS 250GB                            | 1        | 2.04%   |
 | Seagate ST250DM000-1BD141 250GB                      | 1        | 2.04%   |
@@ -718,7 +718,7 @@ Hard drive models
 | NVMe WDS500G3X0C-00SJ 500GB                          | 1        | 2.04%   |
 | NVMe WDC WDS100T2B0C- 1TB                            | 1        | 2.04%   |
 | NVMe TOSHIBA-RC100 240GB                             | 1        | 2.04%   |
-| NVMe Samsung SSD 980 500GB                           | 1        | 2.04%   |
+| NVMe Samsung SSD 980 1TB                             | 1        | 2.04%   |
 | NVMe Samsung SSD 970 250GB                           | 1        | 2.04%   |
 | NVMe PCIe SSD 512GB                                  | 1        | 2.04%   |
 | MAXTOR 6Y160P0 160GB                                 | 1        | 2.04%   |
@@ -819,10 +819,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 37     | 66.67%  |
-| 0.51-1.0   | 8        | 10     | 22.22%  |
-| 1.01-2.0   | 3        | 8      | 8.33%   |
-| 4.01-10.0  | 1        | 1      | 2.78%   |
+| 0.01-0.5   | 25       | 37     | 67.57%  |
+| 0.51-1.0   | 8        | 10     | 21.62%  |
+| 1.01-2.0   | 3        | 8      | 8.11%   |
+| 4.01-10.0  | 1        | 1      | 2.7%    |
 
 Space Total
 -----------

@@ -1389,7 +1389,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO106C 1366x768 280x160mm 12.7-inch            | 2         | 5.26%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch     | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.63%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 2.63%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2.63%   |
 | PANDA LCD Monitor NCP0004 1920x1080 290x170mm 13.2-inch                  | 1         | 2.63%   |
 | LG Display LCD Monitor LGD058B 2560x1440 310x170mm 13.9-inch             | 1         | 2.63%   |
 | LG Display LCD Monitor LGD046D 1920x1080 310x170mm 13.9-inch             | 1         | 2.63%   |
@@ -1450,8 +1450,8 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 13     | 14        | 36.84%  |
-| 15     | 9         | 23.68%  |
+| 13     | 13        | 34.21%  |
+| 15     | 10        | 26.32%  |
 | 12     | 9         | 23.68%  |
 | 11     | 3         | 7.89%   |
 | 28     | 1         | 2.63%   |
@@ -1497,14 +1497,14 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 14        | 36.84%  |
+| 81-90          | 13        | 34.21%  |
 | 61-70          | 9         | 23.68%  |
 | 91-100         | 8         | 21.05%  |
 | 51-60          | 3         | 7.89%   |
+| 101-110        | 2         | 5.26%   |
 | 71-80          | 1         | 2.63%   |
 | 351-500        | 1         | 2.63%   |
 | 201-250        | 1         | 2.63%   |
-| 101-110        | 1         | 2.63%   |
 
 Pixel Density
 -------------
@@ -1517,10 +1517,10 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 23        | 60.53%  |
-| 101-120       | 6         | 15.79%  |
 | 161-240       | 5         | 13.16%  |
+| 101-120       | 5         | 13.16%  |
+| 51-100        | 3         | 7.89%   |
 | More than 240 | 2         | 5.26%   |
-| 51-100        | 2         | 5.26%   |
 
 Multiple Monitors
 -----------------
@@ -1949,7 +1949,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 7.14%   |
 | SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 7.14%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 7.14%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 1         | 7.14%   |
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |
@@ -2084,10 +2084,10 @@ Camera device models
 
 | Model                                         | Notebooks | Percent |
 |-----------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                     | 3         | 10%     |
 | Acer Integrated Camera                        | 3         | 10%     |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.67%   |
 | IMC Networks Integrated Camera                | 2         | 6.67%   |
+| Chicony Integrated Camera                     | 2         | 6.67%   |
 | Syntek Lenovo EasyCamera                      | 1         | 3.33%   |
 | Sunplus Integrated_Webcam_FHD                 | 1         | 3.33%   |
 | Silicon Motion Web Camera                     | 1         | 3.33%   |
@@ -2097,6 +2097,7 @@ Camera device models
 | Luxvisions Innotech Limited Integrated Camera | 1         | 3.33%   |
 | Lite-On Integrated Camera                     | 1         | 3.33%   |
 | Chicony Sonix ST50220 USB Video Camera        | 1         | 3.33%   |
+| Chicony Ltd., Integrated Camera               | 1         | 3.33%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 3.33%   |
 | Chicony Integrated Camera (1280x720@30)       | 1         | 3.33%   |
 | Chicony HP Webcam [2 MP]                      | 1         | 3.33%   |

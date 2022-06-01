@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 46
+Total: 48
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo    | IdeaPad Y700-15ISK 80NV     | [1cc5f44e4a](https://bsd-hardware.info/?probe=1cc5f44e4a) | May 25, 2022 |
+| Lenovo    | IdeaPad Y700-15ISK 80NV     | [ddaca5356c](https://bsd-hardware.info/?probe=ddaca5356c) | May 21, 2022 |
 | Deciso    | DEC2700 - OPNsense Appli... | [926afc7ac8](https://bsd-hardware.info/?probe=926afc7ac8) | Apr 07, 2022 |
 | Deciso    | Netboard A20                | [835d6c060f](https://bsd-hardware.info/?probe=835d6c060f) | Mar 25, 2022 |
 | Deciso    | Netboard A20                | [5a6b66aa01](https://bsd-hardware.info/?probe=5a6b66aa01) | Mar 24, 2022 |
@@ -211,29 +213,30 @@ Installed operating systems
 
 | Name                    | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| helloSystem 0.5.0       | 3         | 10%     |
-| FreeBSD 13.0            | 3         | 10%     |
-| FreeBSD 13.0-STABLE     | 2         | 6.67%   |
-| FreeBSD 13.0-p7         | 2         | 6.67%   |
-| FreeBSD 12.1-p8         | 2         | 6.67%   |
-| OPNsense 22.1.4         | 1         | 3.33%   |
-| OPNsense 22.1.1         | 1         | 3.33%   |
-| OPNsense 21.1.5         | 1         | 3.33%   |
-| OpenBSD 7.0             | 1         | 3.33%   |
-| OpenBSD 6.8             | 1         | 3.33%   |
-| OpenBSD 6.7             | 1         | 3.33%   |
-| GhostBSD 21.08.27       | 1         | 3.33%   |
-| GhostBSD 20.04.02       | 1         | 3.33%   |
-| FreeBSD 14.0-CURRENT    | 1         | 3.33%   |
-| FreeBSD 13.1-PRERELEASE | 1         | 3.33%   |
-| FreeBSD 13.0-p6         | 1         | 3.33%   |
-| FreeBSD 13.0-p5         | 1         | 3.33%   |
-| FreeBSD 13.0-p1         | 1         | 3.33%   |
-| FreeBSD 12.2-STABLE     | 1         | 3.33%   |
-| FreeBSD 12.2-p4         | 1         | 3.33%   |
-| FreeBSD 12.2            | 1         | 3.33%   |
-| FreeBSD 12.1-p22-HBSD   | 1         | 3.33%   |
-| FreeBSD 12.1            | 1         | 3.33%   |
+| helloSystem 0.5.0       | 3         | 9.68%   |
+| FreeBSD 13.0            | 3         | 9.68%   |
+| FreeBSD 13.0-STABLE     | 2         | 6.45%   |
+| FreeBSD 13.0-p7         | 2         | 6.45%   |
+| FreeBSD 12.1-p8         | 2         | 6.45%   |
+| OPNsense 22.1.4         | 1         | 3.23%   |
+| OPNsense 22.1.1         | 1         | 3.23%   |
+| OPNsense 21.1.5         | 1         | 3.23%   |
+| OpenBSD 7.0             | 1         | 3.23%   |
+| OpenBSD 6.8             | 1         | 3.23%   |
+| OpenBSD 6.7             | 1         | 3.23%   |
+| GhostBSD 21.08.27       | 1         | 3.23%   |
+| GhostBSD 20.04.02       | 1         | 3.23%   |
+| FreeBSD 14.0-CURRENT    | 1         | 3.23%   |
+| FreeBSD 13.1-STABLE     | 1         | 3.23%   |
+| FreeBSD 13.1-PRERELEASE | 1         | 3.23%   |
+| FreeBSD 13.0-p6         | 1         | 3.23%   |
+| FreeBSD 13.0-p5         | 1         | 3.23%   |
+| FreeBSD 13.0-p1         | 1         | 3.23%   |
+| FreeBSD 12.2-STABLE     | 1         | 3.23%   |
+| FreeBSD 12.2-p4         | 1         | 3.23%   |
+| FreeBSD 12.2            | 1         | 3.23%   |
+| FreeBSD 12.1-p22-HBSD   | 1         | 3.23%   |
+| FreeBSD 12.1            | 1         | 3.23%   |
 
 OS Family
 ---------
@@ -660,7 +663,7 @@ Hard drive vendors
 | Intel               | 2         | 3      | 6.67%   |
 | Crucial             | 2         | 2      | 6.67%   |
 | Seagate             | 1         | 1      | 3.33%   |
-| LITEON              | 1         | 8      | 3.33%   |
+| LITEON              | 1         | 9      | 3.33%   |
 | Kingston            | 1         | 1      | 3.33%   |
 
 Drive Model
@@ -733,7 +736,7 @@ Solid state drive vendors
 | SanDisk             | 2         | 2      | 12.5%   |
 | WDC                 | 1         | 1      | 6.25%   |
 | Transcend           | 1         | 1      | 6.25%   |
-| LITEON              | 1         | 8      | 6.25%   |
+| LITEON              | 1         | 9      | 6.25%   |
 | Kingston            | 1         | 1      | 6.25%   |
 | Intel               | 1         | 2      | 6.25%   |
 | Crucial             | 1         | 1      | 6.25%   |
@@ -748,7 +751,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 15        | 26     | 51.72%  |
+| SSD  | 15        | 27     | 51.72%  |
 | NVMe | 10        | 10     | 34.48%  |
 | HDD  | 4         | 4      | 13.79%  |
 
@@ -762,7 +765,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 18        | 30     | 64.29%  |
+| SATA | 18        | 31     | 64.29%  |
 | NVMe | 10        | 10     | 35.71%  |
 
 Drive Size
@@ -776,7 +779,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 13        | 17     | 68.42%  |
-| 0.51-1.0   | 5         | 12     | 26.32%  |
+| 0.51-1.0   | 5         | 13     | 26.32%  |
 | 1.01-2.0   | 1         | 1      | 5.26%   |
 
 Space Total
@@ -876,7 +879,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 25        | 36     | 89.29%  |
+| Works    | 25        | 37     | 89.29%  |
 | Detected | 2         | 2      | 7.14%   |
 | Malfunc  | 1         | 2      | 3.57%   |
 

@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 47
+Total: 48
 
 | Vendor  | Model                       | Probe                                                     | Date         |
 |---------|-----------------------------|-----------------------------------------------------------|--------------|
+| Dell    | G5 5590                     | [86bac52410](https://bsd-hardware.info/?probe=86bac52410) | May 29, 2022 |
 | HP      | ZBook 14                    | [a646255b51](https://bsd-hardware.info/?probe=a646255b51) | May 02, 2022 |
 | Lenovo  | ThinkPad T470 20HES0ES1F    | [f1f0676663](https://bsd-hardware.info/?probe=f1f0676663) | Apr 28, 2022 |
 | HP      | Notebook                    | [eea4cff90b](https://bsd-hardware.info/?probe=eea4cff90b) | Apr 27, 2022 |
@@ -212,29 +213,30 @@ Installed operating systems
 
 | Name                | Notebooks | Percent |
 |---------------------|-----------|---------|
-| FreeBSD 13.0        | 4         | 11.11%  |
-| OpenBSD 6.8         | 3         | 8.33%   |
-| helloSystem 0.4.0   | 3         | 8.33%   |
-| OPNsense 22.1.6     | 2         | 5.56%   |
-| OPNsense 21.1.3     | 2         | 5.56%   |
-| helloSystem 0.6.0   | 2         | 5.56%   |
-| FreeBSD 12.2        | 2         | 5.56%   |
-| FreeBSD 12.1-p10    | 2         | 5.56%   |
-| FreeBSD 12.1        | 2         | 5.56%   |
-| OPNsense 22.1.1     | 1         | 2.78%   |
-| OPNsense 21.7.1     | 1         | 2.78%   |
-| OPNsense 21.7       | 1         | 2.78%   |
-| OpenBSD 6.7         | 1         | 2.78%   |
-| NomadBSD 1.4        | 1         | 2.78%   |
-| helloSystem 0.5.0   | 1         | 2.78%   |
-| FreeBSD 13.0-RC5    | 1         | 2.78%   |
-| FreeBSD 13.0-p7     | 1         | 2.78%   |
-| FreeBSD 13.0-p6     | 1         | 2.78%   |
-| FreeBSD 13.0-BETA1  | 1         | 2.78%   |
-| FreeBSD 12.2-p3     | 1         | 2.78%   |
-| FreeBSD 12.2-p2     | 1         | 2.78%   |
-| FreeBSD 12.1-p6     | 1         | 2.78%   |
-| FreeBSD 11.4-STABLE | 1         | 2.78%   |
+| FreeBSD 13.0        | 4         | 10.81%  |
+| OpenBSD 6.8         | 3         | 8.11%   |
+| helloSystem 0.4.0   | 3         | 8.11%   |
+| OPNsense 22.1.6     | 2         | 5.41%   |
+| OPNsense 21.1.3     | 2         | 5.41%   |
+| helloSystem 0.6.0   | 2         | 5.41%   |
+| FreeBSD 12.2        | 2         | 5.41%   |
+| FreeBSD 12.1-p10    | 2         | 5.41%   |
+| FreeBSD 12.1        | 2         | 5.41%   |
+| OPNsense 22.1.1     | 1         | 2.7%    |
+| OPNsense 21.7.1     | 1         | 2.7%    |
+| OPNsense 21.7       | 1         | 2.7%    |
+| OpenBSD 6.7         | 1         | 2.7%    |
+| NomadBSD 1.4        | 1         | 2.7%    |
+| helloSystem 0.5.0   | 1         | 2.7%    |
+| FreeBSD 13.1        | 1         | 2.7%    |
+| FreeBSD 13.0-RC5    | 1         | 2.7%    |
+| FreeBSD 13.0-p7     | 1         | 2.7%    |
+| FreeBSD 13.0-p6     | 1         | 2.7%    |
+| FreeBSD 13.0-BETA1  | 1         | 2.7%    |
+| FreeBSD 12.2-p3     | 1         | 2.7%    |
+| FreeBSD 12.2-p2     | 1         | 2.7%    |
+| FreeBSD 12.1-p6     | 1         | 2.7%    |
+| FreeBSD 11.4-STABLE | 1         | 2.7%    |
 
 OS Family
 ---------
@@ -275,17 +277,17 @@ Desktop Environment
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| Console      | 9         | 27.27%  |
-| helloDesktop | 6         | 18.18%  |
-| fvwm         | 4         | 12.12%  |
-| XFCE         | 3         | 9.09%   |
-| GNOME        | 3         | 9.09%   |
-| KDE5         | 2         | 6.06%   |
-| i3           | 2         | 6.06%   |
-| TWM          | 1         | 3.03%   |
-| Openbox      | 1         | 3.03%   |
-| Fluxbox      | 1         | 3.03%   |
-| AwesomeWM    | 1         | 3.03%   |
+| Console      | 9         | 26.47%  |
+| helloDesktop | 6         | 17.65%  |
+| fvwm         | 4         | 11.76%  |
+| XFCE         | 3         | 8.82%   |
+| KDE5         | 3         | 8.82%   |
+| GNOME        | 3         | 8.82%   |
+| i3           | 2         | 5.88%   |
+| TWM          | 1         | 2.94%   |
+| Openbox      | 1         | 2.94%   |
+| Fluxbox      | 1         | 2.94%   |
+| AwesomeWM    | 1         | 2.94%   |
 
 Display Server
 --------------
@@ -329,12 +331,12 @@ Language
 
 | Lang            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Unknown         | 15        | 42.86%  |
-| en_US           | 9         | 25.71%  |
-| C               | 6         | 17.14%  |
-| en_AU           | 3         | 8.57%   |
-| en_AU.US-ASCII  | 1         | 2.86%   |
-| en_AU.ISO8859-1 | 1         | 2.86%   |
+| Unknown         | 15        | 41.67%  |
+| en_US           | 9         | 25%     |
+| C               | 6         | 16.67%  |
+| en_AU           | 4         | 11.11%  |
+| en_AU.US-ASCII  | 1         | 2.78%   |
+| en_AU.ISO8859-1 | 1         | 2.78%   |
 
 Boot Mode
 ---------
@@ -684,7 +686,7 @@ Hard drive vendors
 | SanDisk             | 2         | 3      | 6.45%   |
 | Kingston            | 2         | 2      | 6.45%   |
 | WDC                 | 1         | 1      | 3.23%   |
-| SK Hynix            | 1         | 2      | 3.23%   |
+| SK Hynix            | 1         | 3      | 3.23%   |
 | Silicon Motion      | 1         | 1      | 3.23%   |
 | HGST                | 1         | 1      | 3.23%   |
 | Fujitsu             | 1         | 1      | 3.23%   |
@@ -778,7 +780,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 17        | 18     | 54.84%  |
-| NVMe | 7         | 9      | 22.58%  |
+| NVMe | 7         | 10     | 22.58%  |
 | HDD  | 7         | 8      | 22.58%  |
 
 Drive Connector
@@ -792,7 +794,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 24        | 26     | 77.42%  |
-| NVMe | 7         | 9      | 22.58%  |
+| NVMe | 7         | 10     | 22.58%  |
 
 Drive Size
 ----------
@@ -834,10 +836,10 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 1-20    | 29        | 85.29%  |
-| 21-50   | 3         | 8.82%   |
-| 101-250 | 1         | 2.94%   |
-| 51-100  | 1         | 2.94%   |
+| 1-20    | 29        | 82.86%  |
+| 21-50   | 3         | 8.57%   |
+| 51-100  | 2         | 5.71%   |
+| 101-250 | 1         | 2.86%   |
 
 Malfunc. Drives
 ---------------
@@ -918,7 +920,7 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 27        | 31     | 87.1%   |
+| Works   | 27        | 32     | 87.1%   |
 | Malfunc | 4         | 4      | 12.9%   |
 
 Storage controller
@@ -1385,8 +1387,8 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 20        | 60.61%  |
-| 0     | 13        | 39.39%  |
+| 1     | 20        | 58.82%  |
+| 0     | 14        | 41.18%  |
 
 Network
 -------

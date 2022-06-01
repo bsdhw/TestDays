@@ -2016,7 +2016,7 @@ Memory module vendors
 | Micron Technology   | 11        | 18.97%  |
 | Unknown             | 5         | 8.62%   |
 | Kingston            | 5         | 8.62%   |
-| Elpida              | 3         | 5.17%   |
+| ELPIDA              | 3         | 5.17%   |
 | Corsair             | 3         | 5.17%   |
 | G.Skill             | 2         | 3.45%   |
 | Crucial             | 2         | 3.45%   |
@@ -2060,7 +2060,7 @@ Memory module models
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
@@ -2153,21 +2153,21 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 17        | 32.69%  |
-| 2400    | 7         | 13.46%  |
-| 2667    | 6         | 11.54%  |
-| 800     | 4         | 7.69%   |
-| 1333    | 3         | 5.77%   |
-| Unknown | 3         | 5.77%   |
-| 3200    | 2         | 3.85%   |
-| 1066    | 2         | 3.85%   |
-| 667     | 2         | 3.85%   |
-| 3600    | 1         | 1.92%   |
-| 2133    | 1         | 1.92%   |
-| 1867    | 1         | 1.92%   |
-| 1334    | 1         | 1.92%   |
-| 1067    | 1         | 1.92%   |
-| 533     | 1         | 1.92%   |
+| 1600    | 17        | 32.08%  |
+| 2400    | 7         | 13.21%  |
+| 2667    | 6         | 11.32%  |
+| 800     | 4         | 7.55%   |
+| 1333    | 3         | 5.66%   |
+| Unknown | 3         | 5.66%   |
+| 3200    | 2         | 3.77%   |
+| 1867    | 2         | 3.77%   |
+| 1066    | 2         | 3.77%   |
+| 667     | 2         | 3.77%   |
+| 3600    | 1         | 1.89%   |
+| 2133    | 1         | 1.89%   |
+| 1334    | 1         | 1.89%   |
+| 1067    | 1         | 1.89%   |
+| 533     | 1         | 1.89%   |
 
 Printers & scanners
 -------------------

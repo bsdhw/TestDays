@@ -1740,7 +1740,7 @@ Memory module vendors
 | Micron Technology   | 5         | 12.82%  |
 | Unknown             | 4         | 10.26%  |
 | Kingston            | 3         | 7.69%   |
-| Elpida              | 2         | 5.13%   |
+| ELPIDA              | 2         | 5.13%   |
 | A-DATA Technology   | 2         | 5.13%   |
 | Magnum Tech         | 1         | 2.56%   |
 | Crucial             | 1         | 2.56%   |
@@ -1777,7 +1777,7 @@ Memory module models
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 2.38%   |
@@ -1855,17 +1855,17 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 16        | 47.06%  |
-| 2667    | 4         | 11.76%  |
-| 2400    | 3         | 8.82%   |
-| Unknown | 3         | 8.82%   |
-| 3200    | 2         | 5.88%   |
-| 1867    | 1         | 2.94%   |
-| 1334    | 1         | 2.94%   |
-| 1333    | 1         | 2.94%   |
-| 1067    | 1         | 2.94%   |
-| 800     | 1         | 2.94%   |
-| 667     | 1         | 2.94%   |
+| 1600    | 16        | 45.71%  |
+| 2667    | 4         | 11.43%  |
+| 2400    | 3         | 8.57%   |
+| Unknown | 3         | 8.57%   |
+| 3200    | 2         | 5.71%   |
+| 1867    | 2         | 5.71%   |
+| 1334    | 1         | 2.86%   |
+| 1333    | 1         | 2.86%   |
+| 1067    | 1         | 2.86%   |
+| 800     | 1         | 2.86%   |
+| 667     | 1         | 2.86%   |
 
 Printers & scanners
 -------------------

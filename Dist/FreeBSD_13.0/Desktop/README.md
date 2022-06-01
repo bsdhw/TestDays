@@ -577,12 +577,12 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2019    | 10       | 13.16%  |
 | 2018    | 10       | 13.16%  |
+| 2019    | 9        | 11.84%  |
 | 2020    | 8        | 10.53%  |
 | 2021    | 6        | 7.89%   |
+| 2013    | 6        | 7.89%   |
 | 2016    | 5        | 6.58%   |
-| 2013    | 5        | 6.58%   |
 | 2012    | 5        | 6.58%   |
 | 2011    | 5        | 6.58%   |
 | 2017    | 4        | 5.26%   |
@@ -927,7 +927,7 @@ Hard drive models
 | WDC WD102KRYZ-01A5AB0 10TB           | 1        | 0.58%   |
 | WDC WD100EZAZ-11TDBA0 10TB           | 1        | 0.58%   |
 | WDC WD1001FALS-00J7B0 1TB            | 1        | 0.58%   |
-| Verbatim Vi550 S3 SSD 128GB          | 1        | 0.58%   |
+| Verbatim Vi550 S3 SSD 512GB          | 1        | 0.58%   |
 | Toshiba MQ02ABD100H 1TB              | 1        | 0.58%   |
 | Toshiba MQ01ACF032 320GB             | 1        | 0.58%   |
 | Toshiba MK3261GSYN 320GB             | 1        | 0.58%   |
@@ -1034,13 +1034,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 81     | 42.11%  |
-| 0.51-1.0   | 27       | 42     | 23.68%  |
-| 3.01-4.0   | 10       | 20     | 8.77%   |
-| 1.01-2.0   | 10       | 21     | 8.77%   |
-| 4.01-10.0  | 10       | 49     | 8.77%   |
-| 2.01-3.0   | 5        | 18     | 4.39%   |
-| 10.01-20.0 | 4        | 19     | 3.51%   |
+| 0.01-0.5   | 48       | 80     | 41.74%  |
+| 0.51-1.0   | 28       | 43     | 24.35%  |
+| 3.01-4.0   | 10       | 20     | 8.7%    |
+| 1.01-2.0   | 10       | 21     | 8.7%    |
+| 4.01-10.0  | 10       | 49     | 8.7%    |
+| 2.01-3.0   | 5        | 18     | 4.35%   |
+| 10.01-20.0 | 4        | 19     | 3.48%   |
 
 Space Total
 -----------
@@ -1319,9 +1319,10 @@ Processor vendors
 
 | Vendor  | Desktops | Percent |
 |---------|----------|---------|
-| Intel   | 50       | 65.79%  |
-| AMD     | 25       | 32.89%  |
-| Unknown | 1        | 1.32%   |
+| Intel   | 50       | 64.94%  |
+| AMD     | 25       | 32.47%  |
+| ARM     | 1        | 1.3%    |
+| Unknown | 1        | 1.3%    |
 
 CPU Model
 ---------
@@ -1333,66 +1334,66 @@ Processor models
 
 | Model                                         | Desktops | Percent |
 |-----------------------------------------------|----------|---------|
-| Intel Core i7-6700 CPU @ 3.40GHz              | 3        | 3.95%   |
-| AMD Ryzen 7 2700 Eight-Core Processor         | 3        | 3.95%   |
-| Intel Core i5-8350U CPU @ 1.70GHz             | 2        | 2.63%   |
-| Intel Core 2 Quad CPU Q6600 @ 2.40GHz         | 2        | 2.63%   |
-| AMD Ryzen 9 5950X 16-Core Processor           | 2        | 2.63%   |
-| AMD Ryzen 9 5900X 12-Core Processor           | 2        | 2.63%   |
-| AMD Ryzen 9 3900X 12-Core Processor           | 2        | 2.63%   |
-| AMD Ryzen 3 3200G with Radeon Vega Graphics   | 2        | 2.63%   |
-| Intel Xeon CPU X3440 @ 2.53GHz                | 1        | 1.32%   |
-| Intel Xeon CPU E5-2680 v4 @ 2.40GHz           | 1        | 1.32%   |
-| Intel Xeon CPU E5-2620 v2 @ 2.10GHz           | 1        | 1.32%   |
-| Intel Xeon CPU E3-1275 v5 @ 3.60GHz           | 1        | 1.32%   |
-| Intel Pentium II                              | 1        | 1.32%   |
-| Intel Pentium CPU G630T @ 2.30GHz             | 1        | 1.32%   |
-| Intel Pentium CPU G3420 @ 3.20GHz             | 1        | 1.32%   |
-| Intel Pentium CPU G3220 @ 3.00GHz             | 1        | 1.32%   |
-| Intel Pentium CPU G2030 @ 3.00GHz             | 1        | 1.32%   |
-| Intel Pentium CPU G2020 @ 2.90GHz             | 1        | 1.32%   |
-| Intel Pentium 4 CPU 3.40GHz                   | 1        | 1.32%   |
-| Intel Pentium 4 CPU                           | 1        | 1.32%   |
-| Intel Pentium 4                               | 1        | 1.32%   |
-| Intel Core i9-9900X CPU @ 3.50GHz             | 1        | 1.32%   |
-| Intel Core i7-8700K CPU @ 3.70GHz             | 1        | 1.32%   |
-| Intel Core i7-6700K CPU @ 4.00GHz             | 1        | 1.32%   |
-| Intel Core i7-4790S CPU @ 3.20GHz             | 1        | 1.32%   |
-| Intel Core i7-4770T CPU @ 2.50GHz             | 1        | 1.32%   |
-| Intel Core i7-3770 CPU @ 3.40GHz              | 1        | 1.32%   |
-| Intel Core i7-3610QE CPU @ 2.30GHz            | 1        | 1.32%   |
-| Intel Core i7-2600 CPU                        | 1        | 1.32%   |
-| Intel Core i7-10700K CPU @ 3.80GHz            | 1        | 1.32%   |
-| Intel Core i7 CPU                             | 1        | 1.32%   |
-| Intel Core i5-9600K CPU @ 3.70GHz             | 1        | 1.32%   |
-| Intel Core i5-6500 CPU @ 3.20GHz              | 1        | 1.32%   |
-| Intel Core i5-4690 CPU @ 3.50GHz              | 1        | 1.32%   |
-| Intel Core i5-4460 CPU @ 3.20GHz              | 1        | 1.32%   |
-| Intel Core i5-4440 CPU @ 3.10GHz              | 1        | 1.32%   |
-| Intel Core i5-3570 CPU @ 3.40GHz              | 1        | 1.32%   |
-| Intel Core i5 CPU 650 @ 3.20GHz               | 1        | 1.32%   |
-| Intel Core i3-10100 CPU @ 3.60GHz             | 1        | 1.32%   |
-| Intel Core i3 CPU 530 @ 2.93GHz               | 1        | 1.32%   |
-| Intel Core 2 Duo CPU E7300 @ 2.66GHz          | 1        | 1.32%   |
-| Intel Core 2 Duo CPU E6750 @ 2.66GHz          | 1        | 1.32%   |
-| Intel Core 2 CPU 6300 @ 1.86GHz               | 1        | 1.32%   |
-| Intel Celeron J4105 CPU @ 1.50GHz             | 1        | 1.32%   |
-| Intel Celeron CPU J3455 @ 1.50GHz             | 1        | 1.32%   |
-| Intel Celeron CPU G1610T @ 2.30GHz            | 1        | 1.32%   |
-| Intel Celeron CPU G1101 @ 2.27GHz             | 1        | 1.32%   |
-| Intel Celeron CPU 847 @ 1.10GHz               | 1        | 1.32%   |
-| Intel Atom CPU E3845 @ 1.91GHz                | 1        | 1.32%   |
-| Intel Atom CPU E3827 @ 1.74GHz                | 1        | 1.32%   |
-| Intel Atom CPU D510 @ 1.66GHz                 | 1        | 1.32%   |
-| AMD Turion II Neo N40L Dual-Core Processor    | 1        | 1.32%   |
-| AMD Ryzen Threadripper 1900X 8-Core Processor | 1        | 1.32%   |
-| AMD Ryzen 9 3950X 16-Core Processor           | 1        | 1.32%   |
-| AMD Ryzen 7 3700X 8-Core Processor            | 1        | 1.32%   |
-| AMD Ryzen 7 2700X Eight-Core Processor        | 1        | 1.32%   |
-| AMD Ryzen 7 1700X Eight-Core Processor        | 1        | 1.32%   |
-| AMD Ryzen 7 1700 Eight-Core Processor         | 1        | 1.32%   |
-| AMD Ryzen 5 5600G with Radeon Graphics        | 1        | 1.32%   |
-| AMD Ryzen 5 2600X Six-Core Processor          | 1        | 1.32%   |
+| Intel Core i7-6700 CPU @ 3.40GHz              | 3        | 3.9%    |
+| AMD Ryzen 7 2700 Eight-Core Processor         | 3        | 3.9%    |
+| Intel Core i5-8350U CPU @ 1.70GHz             | 2        | 2.6%    |
+| Intel Core 2 Quad CPU Q6600 @ 2.40GHz         | 2        | 2.6%    |
+| AMD Ryzen 9 5950X 16-Core Processor           | 2        | 2.6%    |
+| AMD Ryzen 9 5900X 12-Core Processor           | 2        | 2.6%    |
+| AMD Ryzen 9 3900X 12-Core Processor           | 2        | 2.6%    |
+| AMD Ryzen 3 3200G with Radeon Vega Graphics   | 2        | 2.6%    |
+| Intel Xeon CPU X3440 @ 2.53GHz                | 1        | 1.3%    |
+| Intel Xeon CPU E5-2680 v4 @ 2.40GHz           | 1        | 1.3%    |
+| Intel Xeon CPU E5-2620 v2 @ 2.10GHz           | 1        | 1.3%    |
+| Intel Xeon CPU E3-1275 v5 @ 3.60GHz           | 1        | 1.3%    |
+| Intel Pentium II                              | 1        | 1.3%    |
+| Intel Pentium CPU G630T @ 2.30GHz             | 1        | 1.3%    |
+| Intel Pentium CPU G3420 @ 3.20GHz             | 1        | 1.3%    |
+| Intel Pentium CPU G3220 @ 3.00GHz             | 1        | 1.3%    |
+| Intel Pentium CPU G2030 @ 3.00GHz             | 1        | 1.3%    |
+| Intel Pentium CPU G2020 @ 2.90GHz             | 1        | 1.3%    |
+| Intel Pentium 4 CPU 3.40GHz                   | 1        | 1.3%    |
+| Intel Pentium 4 CPU                           | 1        | 1.3%    |
+| Intel Pentium 4                               | 1        | 1.3%    |
+| Intel Core i9-9900X CPU @ 3.50GHz             | 1        | 1.3%    |
+| Intel Core i7-8700K CPU @ 3.70GHz             | 1        | 1.3%    |
+| Intel Core i7-6700K CPU @ 4.00GHz             | 1        | 1.3%    |
+| Intel Core i7-4790S CPU @ 3.20GHz             | 1        | 1.3%    |
+| Intel Core i7-4770T CPU @ 2.50GHz             | 1        | 1.3%    |
+| Intel Core i7-3770 CPU @ 3.40GHz              | 1        | 1.3%    |
+| Intel Core i7-3610QE CPU @ 2.30GHz            | 1        | 1.3%    |
+| Intel Core i7-2600 CPU                        | 1        | 1.3%    |
+| Intel Core i7-10700K CPU @ 3.80GHz            | 1        | 1.3%    |
+| Intel Core i7 CPU                             | 1        | 1.3%    |
+| Intel Core i5-9600K CPU @ 3.70GHz             | 1        | 1.3%    |
+| Intel Core i5-6500 CPU @ 3.20GHz              | 1        | 1.3%    |
+| Intel Core i5-4690 CPU @ 3.50GHz              | 1        | 1.3%    |
+| Intel Core i5-4460 CPU @ 3.20GHz              | 1        | 1.3%    |
+| Intel Core i5-4440 CPU @ 3.10GHz              | 1        | 1.3%    |
+| Intel Core i5-3570 CPU @ 3.40GHz              | 1        | 1.3%    |
+| Intel Core i5 CPU 650 @ 3.20GHz               | 1        | 1.3%    |
+| Intel Core i3-10100 CPU @ 3.60GHz             | 1        | 1.3%    |
+| Intel Core i3 CPU 530 @ 2.93GHz               | 1        | 1.3%    |
+| Intel Core 2 Duo CPU E7300 @ 2.66GHz          | 1        | 1.3%    |
+| Intel Core 2 Duo CPU E6750 @ 2.66GHz          | 1        | 1.3%    |
+| Intel Core 2 CPU 6300 @ 1.86GHz               | 1        | 1.3%    |
+| Intel Celeron J4105 CPU @ 1.50GHz             | 1        | 1.3%    |
+| Intel Celeron CPU J3455 @ 1.50GHz             | 1        | 1.3%    |
+| Intel Celeron CPU G1610T @ 2.30GHz            | 1        | 1.3%    |
+| Intel Celeron CPU G1101 @ 2.27GHz             | 1        | 1.3%    |
+| Intel Celeron CPU 847 @ 1.10GHz               | 1        | 1.3%    |
+| Intel Atom CPU E3845 @ 1.91GHz                | 1        | 1.3%    |
+| Intel Atom CPU E3827 @ 1.74GHz                | 1        | 1.3%    |
+| Intel Atom CPU D510 @ 1.66GHz                 | 1        | 1.3%    |
+| ARM Cortex-A72 r0p2                           | 1        | 1.3%    |
+| AMD Turion II Neo N40L Dual-Core Processor    | 1        | 1.3%    |
+| AMD Ryzen Threadripper 1900X 8-Core Processor | 1        | 1.3%    |
+| AMD Ryzen 9 3950X 16-Core Processor           | 1        | 1.3%    |
+| AMD Ryzen 7 3700X 8-Core Processor            | 1        | 1.3%    |
+| AMD Ryzen 7 2700X Eight-Core Processor        | 1        | 1.3%    |
+| AMD Ryzen 7 1700X Eight-Core Processor        | 1        | 1.3%    |
+| AMD Ryzen 7 1700 Eight-Core Processor         | 1        | 1.3%    |
+| AMD Ryzen 5 5600G with Radeon Graphics        | 1        | 1.3%    |
 
 CPU Model Family
 ----------------
@@ -1404,29 +1405,30 @@ Processor model prefix
 
 | Model                  | Desktops | Percent |
 |------------------------|----------|---------|
-| Intel Core i7          | 12       | 15.79%  |
-| Intel Core i5          | 9        | 11.84%  |
-| AMD Ryzen 9            | 7        | 9.21%   |
-| AMD Ryzen 7            | 7        | 9.21%   |
-| Intel Pentium          | 6        | 7.89%   |
-| Intel Celeron          | 5        | 6.58%   |
-| Intel Xeon             | 4        | 5.26%   |
-| Intel Pentium 4        | 3        | 3.95%   |
-| Intel Atom             | 3        | 3.95%   |
-| AMD Ryzen 5            | 3        | 3.95%   |
-| Intel Core i3          | 2        | 2.63%   |
-| Intel Core 2 Quad      | 2        | 2.63%   |
-| Intel Core 2 Duo       | 2        | 2.63%   |
-| AMD Ryzen 3            | 2        | 2.63%   |
-| Other                  | 1        | 1.32%   |
-| Intel Core i9          | 1        | 1.32%   |
-| Intel Core 2           | 1        | 1.32%   |
-| AMD Turion II Neo      | 1        | 1.32%   |
-| AMD Ryzen Threadripper | 1        | 1.32%   |
-| AMD FX                 | 1        | 1.32%   |
-| AMD Athlon X4          | 1        | 1.32%   |
-| AMD Athlon             | 1        | 1.32%   |
-| AMD A10                | 1        | 1.32%   |
+| Intel Core i7          | 12       | 15.58%  |
+| Intel Core i5          | 9        | 11.69%  |
+| AMD Ryzen 9            | 7        | 9.09%   |
+| AMD Ryzen 7            | 7        | 9.09%   |
+| Intel Pentium          | 6        | 7.79%   |
+| Intel Celeron          | 5        | 6.49%   |
+| Intel Xeon             | 4        | 5.19%   |
+| Intel Pentium 4        | 3        | 3.9%    |
+| Intel Atom             | 3        | 3.9%    |
+| AMD Ryzen 5            | 3        | 3.9%    |
+| Intel Core i3          | 2        | 2.6%    |
+| Intel Core 2 Quad      | 2        | 2.6%    |
+| Intel Core 2 Duo       | 2        | 2.6%    |
+| AMD Ryzen 3            | 2        | 2.6%    |
+| Other                  | 1        | 1.3%    |
+| Intel Core i9          | 1        | 1.3%    |
+| Intel Core 2           | 1        | 1.3%    |
+| ARM Cortex             | 1        | 1.3%    |
+| AMD Turion II Neo      | 1        | 1.3%    |
+| AMD Ryzen Threadripper | 1        | 1.3%    |
+| AMD FX                 | 1        | 1.3%    |
+| AMD Athlon X4          | 1        | 1.3%    |
+| AMD Athlon             | 1        | 1.3%    |
+| AMD A10                | 1        | 1.3%    |
 
 CPU Cores
 ---------
@@ -1459,10 +1461,11 @@ Number of sockets
 ![CPU Sockets](./images/pie_chart_bsd/cpu_sockets.svg)
 
 
-| Number | Desktops | Percent |
-|--------|----------|---------|
-| 1      | 73       | 96.05%  |
-| 2      | 3        | 3.95%   |
+| Number  | Desktops | Percent |
+|---------|----------|---------|
+| 1       | 73       | 94.81%  |
+| 2       | 3        | 3.9%    |
+| Unknown | 1        | 1.3%    |
 
 CPU Threads
 -----------

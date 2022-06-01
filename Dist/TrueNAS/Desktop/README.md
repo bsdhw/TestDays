@@ -432,11 +432,11 @@ Motherboard manufacture year
 |---------|----------|---------|
 | Unknown | 6        | 20%     |
 | 2014    | 4        | 13.33%  |
-| 2019    | 3        | 10%     |
+| 2018    | 3        | 10%     |
 | 2016    | 3        | 10%     |
 | 2013    | 3        | 10%     |
 | 2012    | 3        | 10%     |
-| 2018    | 2        | 6.67%   |
+| 2019    | 2        | 6.67%   |
 | 2011    | 2        | 6.67%   |
 | 2021    | 1        | 3.33%   |
 | 2020    | 1        | 3.33%   |
@@ -764,15 +764,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 14       | 68     | 35%     |
-| Seagate             | 10       | 47     | 25%     |
-| Toshiba             | 5        | 8      | 12.5%   |
-| Hitachi             | 5        | 16     | 12.5%   |
-| HPT                 | 2        | 31     | 5%      |
-| WD MediaMax         | 1        | 3      | 2.5%    |
-| Samsung Electronics | 1        | 3      | 2.5%    |
-| HGST                | 1        | 10     | 2.5%    |
-| Hewlett-Packard     | 1        | 3      | 2.5%    |
+| WDC                 | 14       | 68     | 34.15%  |
+| Seagate             | 10       | 47     | 24.39%  |
+| Toshiba             | 5        | 8      | 12.2%   |
+| Hitachi             | 5        | 16     | 12.2%   |
+| HPT                 | 2        | 31     | 4.88%   |
+| Hewlett-Packard     | 2        | 8      | 4.88%   |
+| WD MediaMax         | 1        | 3      | 2.44%   |
+| Samsung Electronics | 1        | 3      | 2.44%   |
+| HGST                | 1        | 10     | 2.44%   |
 
 SSD Vendor
 ----------
@@ -784,19 +784,18 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 5        | 6      | 21.74%  |
-| Kingston            | 4        | 7      | 17.39%  |
-| SanDisk             | 3        | 3      | 13.04%  |
-| Crucial             | 2        | 3      | 8.7%    |
-| Toshiba             | 1        | 2      | 4.35%   |
-| SPCC                | 1        | 1      | 4.35%   |
-| PNY                 | 1        | 1      | 4.35%   |
-| Mushkin             | 1        | 1      | 4.35%   |
-| Intel               | 1        | 2      | 4.35%   |
-| Hewlett-Packard     | 1        | 5      | 4.35%   |
-| China               | 1        | 1      | 4.35%   |
-| Apacer              | 1        | 1      | 4.35%   |
-| AMD                 | 1        | 2      | 4.35%   |
+| Samsung Electronics | 5        | 6      | 22.73%  |
+| Kingston            | 4        | 7      | 18.18%  |
+| SanDisk             | 3        | 3      | 13.64%  |
+| Crucial             | 2        | 3      | 9.09%   |
+| Toshiba             | 1        | 2      | 4.55%   |
+| SPCC                | 1        | 1      | 4.55%   |
+| PNY                 | 1        | 1      | 4.55%   |
+| Mushkin             | 1        | 1      | 4.55%   |
+| Intel               | 1        | 2      | 4.55%   |
+| China               | 1        | 1      | 4.55%   |
+| Apacer              | 1        | 1      | 4.55%   |
+| AMD                 | 1        | 2      | 4.55%   |
 
 Drive Kind
 ----------
@@ -808,9 +807,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 24       | 189    | 52.17%  |
-| SSD  | 19       | 35     | 41.3%   |
-| NVMe | 3        | 4      | 6.52%   |
+| HDD  | 24       | 194    | 53.33%  |
+| SSD  | 18       | 30     | 40%     |
+| NVMe | 3        | 4      | 6.67%   |
 
 Drive Connector
 ---------------

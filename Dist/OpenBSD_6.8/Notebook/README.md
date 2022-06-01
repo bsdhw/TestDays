@@ -1599,7 +1599,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO34ED 1920x1080 340x190mm 15.3-inch       | 2         | 3.23%   |
 | AU Optronics LCD Monitor AUO21EC 1366x768 340x190mm 15.3-inch        | 2         | 3.23%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.61%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch | 1         | 1.61%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC314D 1366x768 310x170mm 13.9-inch | 1         | 1.61%   |
 | Samsung Electronics C34H89x SAM0E25 3440x1440 800x330mm 34.1-inch    | 1         | 1.61%   |
@@ -1683,8 +1683,8 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 23        | 37.1%   |
-| 13     | 20        | 32.26%  |
+| 15     | 24        | 38.71%  |
+| 13     | 19        | 30.65%  |
 | 12     | 7         | 11.29%  |
 | 14     | 3         | 4.84%   |
 | 18     | 2         | 3.23%   |
@@ -1738,10 +1738,10 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 20        | 32.26%  |
+| 81-90          | 19        | 30.65%  |
 | 91-100         | 19        | 30.65%  |
 | 61-70          | 7         | 11.29%  |
-| 101-110        | 4         | 6.45%   |
+| 101-110        | 5         | 8.06%   |
 | 71-80          | 3         | 4.84%   |
 | 41-50          | 2         | 3.23%   |
 | 201-250        | 2         | 3.23%   |
@@ -1761,9 +1761,9 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 30        | 48.39%  |
-| 101-120       | 16        | 25.81%  |
+| 101-120       | 15        | 24.19%  |
 | 161-240       | 7         | 11.29%  |
-| 51-100        | 6         | 9.68%   |
+| 51-100        | 7         | 11.29%  |
 | More than 240 | 3         | 4.84%   |
 
 Multiple Monitors
