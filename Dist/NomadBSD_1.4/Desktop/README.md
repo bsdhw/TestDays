@@ -473,7 +473,7 @@ Hard drive vendors
 | WDC                 | 2        | 2      | 40%     |
 | Seagate             | 1        | 1      | 20%     |
 | Samsung Electronics | 1        | 2      | 20%     |
-| MAXTOR              | 1        | 1      | 20%     |
+| Maxtor              | 1        | 1      | 20%     |
 
 Drive Model
 -----------
@@ -490,7 +490,7 @@ Hard drive models
 | Seagate ST1000LX015-1U7172 1TB | 1        | 16.67%  |
 | Samsung SSD 870 QVO 2TB        | 1        | 16.67%  |
 | Samsung SSD 850 EVO 500GB      | 1        | 16.67%  |
-| MAXTOR STM3250310AS 250GB      | 1        | 16.67%  |
+| Maxtor STM3250310AS 250GB      | 1        | 16.67%  |
 
 HDD Vendor
 ----------
@@ -504,7 +504,7 @@ Hard disk drive vendors
 |---------|----------|--------|---------|
 | WDC     | 2        | 2      | 50%     |
 | Seagate | 1        | 1      | 25%     |
-| MAXTOR  | 1        | 1      | 25%     |
+| Maxtor  | 1        | 1      | 25%     |
 
 SSD Vendor
 ----------
@@ -1166,11 +1166,11 @@ Memory module vendors
 
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
-| Unknown  | 1        | 20%     |
-| SK Hynix | 1        | 20%     |
+| SK hynix | 1        | 20%     |
 | Kingston | 1        | 20%     |
 | Elpida   | 1        | 20%     |
 | Crucial  | 1        | 20%     |
+| Unknown  | 1        | 20%     |
 
 Memory Model
 ------------
@@ -1182,12 +1182,12 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 16.67%  |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s    | 1        | 16.67%  |
-| SK Hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s         | 1        | 16.67%  |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s    | 1        | 16.67%  |
+| SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s         | 1        | 16.67%  |
 | Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s  | 1        | 16.67%  |
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s          | 1        | 16.67%  |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s | 1        | 16.67%  |
+| Unknown                                                 | 1        | 16.67%  |
 
 Memory Kind
 -----------

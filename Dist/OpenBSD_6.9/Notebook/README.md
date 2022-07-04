@@ -725,7 +725,7 @@ Hard drive vendors
 | Zheino              | 1         | 1      | 1.82%   |
 | Team                | 1         | 1      | 1.82%   |
 | SPCC                | 1         | 1      | 1.82%   |
-| SK Hynix            | 1         | 1      | 1.82%   |
+| SK hynix            | 1         | 1      | 1.82%   |
 | Patriot             | 1         | 1      | 1.82%   |
 | Netac               | 1         | 1      | 1.82%   |
 | Hitachi             | 1         | 1      | 1.82%   |
@@ -762,7 +762,7 @@ Hard drive models
 | Toshiba MK1665GSX 160GB          | 1         | 1.79%   |
 | Team T253X2001T 1TB              | 1         | 1.79%   |
 | SPCC Solid State Disk 128GB      | 1         | 1.79%   |
-| SK Hynix SC311 SATA 256GB        | 1         | 1.79%   |
+| SK hynix SC311 SATA 256GB        | 1         | 1.79%   |
 | Seagate ST9160821A 160GB         | 1         | 1.79%   |
 | Seagate ST500LT012-9WS142 500GB  | 1         | 1.79%   |
 | SanDisk Ultra Fit 16GB           | 1         | 1.79%   |
@@ -833,7 +833,7 @@ Solid state drive vendors
 | WDC                 | 1         | 1      | 3.45%   |
 | Team                | 1         | 1      | 3.45%   |
 | SPCC                | 1         | 1      | 3.45%   |
-| SK Hynix            | 1         | 1      | 3.45%   |
+| SK hynix            | 1         | 1      | 3.45%   |
 | Patriot             | 1         | 1      | 3.45%   |
 | Netac               | 1         | 1      | 3.45%   |
 | Apple               | 1         | 1      | 3.45%   |
@@ -1015,9 +1015,9 @@ Storage controller vendors
 | Intel                    | 42        | 75%     |
 | Samsung Electronics      | 4         | 7.14%   |
 | AMD                      | 3         | 5.36%   |
-| Sandisk                  | 2         | 3.57%   |
+| SanDisk                  | 2         | 3.57%   |
 | KIOXIA                   | 2         | 3.57%   |
-| SK Hynix                 | 1         | 1.79%   |
+| SK hynix                 | 1         | 1.79%   |
 | Phison Electronics       | 1         | 1.79%   |
 | Marvell Technology Group | 1         | 1.79%   |
 
@@ -1036,7 +1036,7 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                | 4         | 6.67%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 3         | 5%      |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 3         | 5%      |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                   | 2         | 3.33%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 2         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                | 2         | 3.33%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 2         | 3.33%   |
 | KIOXIA unknown                                                               | 2         | 3.33%   |
@@ -1047,7 +1047,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller               | 2         | 3.33%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller               | 2         | 3.33%   |
 | AMD FCH SATA Controller [AHCI mode]                                          | 2         | 3.33%   |
-| SK Hynix BC511                                                               | 1         | 1.67%   |
+| SK hynix BC511                                                               | 1         | 1.67%   |
 | Phison E12 NVMe Controller                                                   | 1         | 1.67%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                   | 1         | 1.67%   |
 | Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                   | 1         | 1.67%   |
@@ -1396,7 +1396,7 @@ Monitor models
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 340x190mm 15.3-inch                  | 1         | 2.78%   |
 | Sharp LCD Monitor SHP1449 1920x1080 290x170mm 13.2-inch                  | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.78%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 2.78%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2.78%   |
 | Samsung Electronics LCD Monitor SDC374A 3200x1800 290x170mm 13.2-inch    | 1         | 2.78%   |
 | LG Philips LCD Monitor LPLDB00 1280x800 330x210mm 15.4-inch              | 1         | 2.78%   |
 | LG Display LCD Monitor LGD04E2 1366x768 340x190mm 15.3-inch              | 1         | 2.78%   |
@@ -1458,8 +1458,8 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 13     | 11        | 30.56%  |
-| 15     | 8         | 22.22%  |
+| 13     | 10        | 27.78%  |
+| 15     | 9         | 25%     |
 | 12     | 6         | 16.67%  |
 | 11     | 6         | 16.67%  |
 | 14     | 3         | 8.33%   |
@@ -1505,12 +1505,12 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 11        | 30.56%  |
+| 81-90          | 10        | 27.78%  |
 | 61-70          | 6         | 16.67%  |
 | 51-60          | 6         | 16.67%  |
 | 91-100         | 6         | 16.67%  |
 | 71-80          | 3         | 8.33%   |
-| 101-110        | 2         | 5.56%   |
+| 101-110        | 3         | 8.33%   |
 | 1-40           | 1         | 2.78%   |
 | 201-250        | 1         | 2.78%   |
 
@@ -1525,10 +1525,10 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 21        | 58.33%  |
-| 101-120       | 9         | 25%     |
+| 101-120       | 8         | 22.22%  |
 | 161-240       | 3         | 8.33%   |
 | More than 240 | 2         | 5.56%   |
-| 51-100        | 1         | 2.78%   |
+| 51-100        | 2         | 5.56%   |
 
 Multiple Monitors
 -----------------
@@ -1939,7 +1939,7 @@ Memory module vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 4         | 36.36%  |
-| SK Hynix            | 3         | 27.27%  |
+| SK hynix            | 3         | 27.27%  |
 | Unknown             | 2         | 18.18%  |
 | Micron Technology   | 1         | 9.09%   |
 | Elpida              | 1         | 9.09%   |
@@ -1954,12 +1954,11 @@ Memory module models
 
 | Model                                                  | Notebooks | Percent |
 |--------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 16.67%  |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 8.33%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 16.67%  |
+| Unknown                                                | 2         | 16.67%  |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 8.33%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 8.33%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 8.33%   |

@@ -553,12 +553,12 @@ Motherboard manufacture year
 | 2014 | 12       | 13.33%  |
 | 2020 | 9        | 10%     |
 | 2019 | 9        | 10%     |
-| 2016 | 7        | 7.78%   |
+| 2016 | 8        | 8.89%   |
 | 2013 | 7        | 7.78%   |
 | 2012 | 7        | 7.78%   |
 | 2011 | 5        | 5.56%   |
-| 2017 | 4        | 4.44%   |
 | 2009 | 4        | 4.44%   |
+| 2017 | 3        | 3.33%   |
 | 2015 | 3        | 3.33%   |
 | 2008 | 3        | 3.33%   |
 | 2021 | 2        | 2.22%   |
@@ -831,14 +831,14 @@ Hard drive vendors
 | Micron Technology   | 3        | 3      | 1.82%   |
 | PNY                 | 2        | 2      | 1.21%   |
 | Intel               | 2        | 2      | 1.21%   |
-| GOODRAM             | 2        | 2      | 1.21%   |
+| Goodram             | 2        | 2      | 1.21%   |
 | Gigabyte Technology | 2        | 3      | 1.21%   |
 | Corsair             | 2        | 2      | 1.21%   |
 | Transcend           | 1        | 1      | 0.61%   |
-| SK Hynix            | 1        | 1      | 0.61%   |
+| SK hynix            | 1        | 1      | 0.61%   |
 | Phison              | 1        | 3      | 0.61%   |
 | OCZ                 | 1        | 2      | 0.61%   |
-| MAXTOR              | 1        | 1      | 0.61%   |
+| Maxtor              | 1        | 1      | 0.61%   |
 | Leven               | 1        | 2      | 0.61%   |
 | Intenso             | 1        | 2      | 0.61%   |
 | Hoodisk             | 1        | 1      | 0.61%   |
@@ -933,7 +933,7 @@ Hard disk drive vendors
 | Samsung Electronics | 10       | 15     | 12.82%  |
 | Toshiba             | 5        | 5      | 6.41%   |
 | Hitachi             | 5        | 7      | 6.41%   |
-| MAXTOR              | 1        | 1      | 1.28%   |
+| Maxtor              | 1        | 1      | 1.28%   |
 | HGST                | 1        | 1      | 1.28%   |
 
 SSD Vendor
@@ -955,7 +955,7 @@ Solid state drive vendors
 | Micron Technology   | 3        | 3      | 4%      |
 | SPCC                | 2        | 2      | 2.67%   |
 | PNY                 | 2        | 2      | 2.67%   |
-| GOODRAM             | 2        | 2      | 2.67%   |
+| Goodram             | 2        | 2      | 2.67%   |
 | Transcend           | 1        | 1      | 1.33%   |
 | OCZ                 | 1        | 2      | 1.33%   |
 | Leven               | 1        | 2      | 1.33%   |
@@ -1171,7 +1171,7 @@ Storage controller vendors
 | Phison Electronics          | 5        | 4.42%   |
 | ASMedia Technology          | 5        | 4.42%   |
 | Kingston Technology Company | 2        | 1.77%   |
-| SK Hynix                    | 1        | 0.88%   |
+| SK hynix                    | 1        | 0.88%   |
 | Nvidia                      | 1        | 0.88%   |
 | Marvell Technology Group    | 1        | 0.88%   |
 | JMicron Technology          | 1        | 0.88%   |
@@ -1215,7 +1215,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2        | 1.43%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 1.43%   |
 | Unknown                                                                        | 2        | 1.43%   |
-| SK Hynix BC501 NVMe Solid State Drive                                          | 1        | 0.71%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1        | 0.71%   |
 | Samsung SM951 AHCI                                                             | 1        | 0.71%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 0.71%   |
 | Nvidia MCP73 IDE Controller                                                    | 1        | 0.71%   |
@@ -1625,7 +1625,7 @@ Monitor models
 |-----------------------------------------------------------------------|----------|---------|
 | Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                  | 2        | 2.99%   |
 | ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch              | 1        | 1.49%   |
-| Vestel Elektronik 24W_LCD_TV VES3700 1920x1080 530x300mm 24.0-inch    | 1        | 1.49%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch    | 1        | 1.49%   |
 | Toshiba TV TSB0218 3840x2160                                          | 1        | 1.49%   |
 | Sony TV SNY9C01 1360x768                                              | 1        | 1.49%   |
 | Samsung Electronics SyncMaster SAM0600 1600x900 440x250mm 19.9-inch   | 1        | 1.49%   |
@@ -2231,10 +2231,10 @@ Memory module vendors
 |---------------------|----------|---------|
 | Kingston            | 22       | 20.56%  |
 | Crucial             | 15       | 14.02%  |
-| Unknown             | 11       | 10.28%  |
 | Samsung Electronics | 11       | 10.28%  |
 | Corsair             | 11       | 10.28%  |
-| SK Hynix            | 9        | 8.41%   |
+| Unknown             | 11       | 10.28%  |
+| SK hynix            | 9        | 8.41%   |
 | Micron Technology   | 9        | 8.41%   |
 | G.Skill             | 8        | 7.48%   |
 | Nanya Technology    | 2        | 1.87%   |
@@ -2256,68 +2256,68 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 1.68%   |
-| SK Hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s       | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                            | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1        | 0.84%   |
-| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                     | 1        | 0.84%   |
-| SK Hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1        | 0.84%   |
-| SK Hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK Hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| SK Hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
-| SK Hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
-| SK Hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
-| SK Hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s           | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s   | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s              | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2048MB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
-| Ramos RAM EWB8GB681PAE-16IC 8192MB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s             | 1        | 0.84%   |
-| Nanya RAM 99P5471-039.A00LF 8192MB DIMM DDR3 1067MT/s          | 1        | 0.84%   |
-| Micron RAM Module 4096MB FB-DIMM DDR2 667MT/s                  | 1        | 0.84%   |
-| Micron RAM CT102464BD160B.C16 8192MB DIMM DDR3 1600MT/s        | 1        | 0.84%   |
-| Micron RAM 9KSF25672AZ-1G6K1 2048MB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Micron RAM 8KTF51264HZ-1G6J1 4096MB SODIMM DDR3 1333MT/s       | 1        | 0.84%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s           | 1        | 0.84%   |
-| Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| KomputerBay RAM KB_8G_D3_1600_C10 8192MB DIMM DDR3 1600MT/s    | 1        | 0.84%   |
-| Kingston RAM MSI24D4U7S8MB-8 8192MB DIMM DDR4 2400MT/s         | 1        | 0.84%   |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s            | 1        | 0.84%   |
-| Kingston RAM CBD24D4S7S8MA-8 8192MB SODIMM DDR4 2400MT/s       | 1        | 0.84%   |
-| Kingston RAM 99U5584-007.A00LF 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Kingston RAM 99U5474-037.A00LF 4096MB DIMM DDR3 1333MT/s       | 1        | 0.84%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown                                                           | 11       | 9.4%    |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 1.71%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s               | 2        | 1.71%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2        | 1.71%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2        | 1.71%   |
+| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s               | 2        | 1.71%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2        | 1.71%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2        | 1.71%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2        | 1.71%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s               | 2        | 1.71%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.85%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.85%   |
+| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                        | 1        | 0.85%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.85%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.85%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 1        | 0.85%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.85%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 0.85%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s              | 1        | 0.85%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1        | 0.85%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s      | 1        | 0.85%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s                 | 1        | 0.85%   |
+| Samsung RAM M391B5673EH1-CH9 2048MB DIMM DDR3 1333MT/s            | 1        | 0.85%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.85%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.85%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s               | 1        | 0.85%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.85%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.85%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s               | 1        | 0.85%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 0.85%   |
+| Ramos RAM EWB8GB681PAE-16IC 8192MB DIMM DDR3 1600MT/s             | 1        | 0.85%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                | 1        | 0.85%   |
+| Nanya RAM 99P5471-039.A00LF 8192MB DIMM DDR3 1067MT/s             | 1        | 0.85%   |
+| Micron RAM Module 4096MB FB-DIMM DDR2 667MT/s                     | 1        | 0.85%   |
+| Micron RAM CT102464BD160B.C16 8192MB DIMM DDR3 1600MT/s           | 1        | 0.85%   |
+| Micron RAM 9KSF25672AZ-1G6K1 2048MB DIMM DDR3 1600MT/s            | 1        | 0.85%   |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s             | 1        | 0.85%   |
+| Micron RAM 8KTF51264HZ-1G6J1 4096MB SODIMM DDR3 1333MT/s          | 1        | 0.85%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 1        | 0.85%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s              | 1        | 0.85%   |
+| Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s             | 1        | 0.85%   |
+| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s               | 1        | 0.85%   |
+| KomputerBay RAM KB_8G_D3_1600_C10 8192MB DIMM DDR3 1600MT/s       | 1        | 0.85%   |
+| Kingston RAM MSI24D4U7S8MB-8 8192MB DIMM DDR4 2400MT/s            | 1        | 0.85%   |
+| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s               | 1        | 0.85%   |
+| Kingston RAM CBD24D4S7S8MA-8 8192MB SODIMM DDR4 2400MT/s          | 1        | 0.85%   |
+| Kingston RAM 99U5584-007.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5474-037.A00LF 4096MB DIMM DDR3 1333MT/s          | 1        | 0.85%   |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5471-050.A00LF 8192MB DIMM DDR3 1600MT/s          | 1        | 0.85%   |
+| Kingston RAM 99U5471-020.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5471-002.A01LF 2GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5471-002.A00LF 2GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 99U5402-031.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 9905474-023.A00LF 2048MB DIMM DDR3 1333MT/s          | 1        | 0.85%   |
+| Kingston RAM 9905471-051.A00LF 8192MB DIMM DDR3 1333MT/s          | 1        | 0.85%   |
+| Kingston RAM 9905471-001.A01LF 2GB DIMM DDR3 1333MT/s             | 1        | 0.85%   |
+| Kingston RAM 9905403-011.A 2048MB DIMM DDR3 1333MT/s              | 1        | 0.85%   |
 
 Memory Kind
 -----------

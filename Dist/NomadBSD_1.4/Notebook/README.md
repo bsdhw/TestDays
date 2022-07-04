@@ -812,7 +812,7 @@ Storage controller vendors
 |---------------------|-----------|---------|
 | Intel               | 15        | 71.43%  |
 | AMD                 | 3         | 14.29%  |
-| Sandisk             | 2         | 9.52%   |
+| SanDisk             | 2         | 9.52%   |
 | Samsung Electronics | 1         | 4.76%   |
 
 Storage Model
@@ -829,8 +829,8 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 2         | 8.7%    |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 8.7%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 8.7%    |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 1         | 4.35%   |
-| Sandisk PC SN520 NVMe SSD                                                        | 1         | 4.35%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 4.35%   |
+| SanDisk PC SN520 NVMe SSD                                                        | 1         | 4.35%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 4.35%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 4.35%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 1         | 4.35%   |
@@ -1509,8 +1509,8 @@ Memory module vendors
 |---------------------|-----------|---------|
 | Samsung Electronics | 8         | 40%     |
 | Micron Technology   | 3         | 15%     |
+| SK hynix            | 2         | 10%     |
 | Unknown             | 2         | 10%     |
-| SK Hynix            | 2         | 10%     |
 | Unknown (09D5)      | 1         | 5%      |
 | Nanya Technology    | 1         | 5%      |
 | Elpida              | 1         | 5%      |
@@ -1527,27 +1527,25 @@ Memory module models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
-| Unknown RAM Module 2GB SODIMM DDR2                                        | 1         | 4.35%   |
-| Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
-| Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                       | 1         | 4.35%   |
-| SK Hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                      | 1         | 4.35%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 1         | 4.35%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 4.35%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 4.35%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
-| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
-| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s                    | 1         | 4.35%   |
-| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s                      | 1         | 4.35%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 4.35%   |
-| Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
-| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.35%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
-| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
-| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.35%   |
-| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.35%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 2         | 9.09%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 9.09%   |
+| Unknown                                                                   | 2         | 9.09%   |
+| Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                       | 1         | 4.55%   |
+| SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                      | 1         | 4.55%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 1         | 4.55%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 4.55%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 1         | 4.55%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.55%   |
+| Samsung RAM M471B5173BH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.55%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s                    | 1         | 4.55%   |
+| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s                      | 1         | 4.55%   |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 4.55%   |
+| Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.55%   |
+| Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.55%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.55%   |
+| Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.55%   |
+| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.55%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.55%   |
 
 Memory Kind
 -----------

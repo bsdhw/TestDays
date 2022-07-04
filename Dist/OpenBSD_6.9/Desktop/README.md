@@ -649,7 +649,7 @@ Hard drive vendors
 | Hewlett-Packard     | 2        | 6      | 3.7%    |
 | USB                 | 1        | 1      | 1.85%   |
 | Transcend           | 1        | 4      | 1.85%   |
-| SK Hynix            | 1        | 1      | 1.85%   |
+| SK hynix            | 1        | 1      | 1.85%   |
 | SanDisk             | 1        | 1      | 1.85%   |
 | Product:            | 1        | 1      | 1.85%   |
 | Phison              | 1        | 1      | 1.85%   |
@@ -659,7 +659,7 @@ Hard drive vendors
 | LSI                 | 1        | 1      | 1.85%   |
 | GLOWAY              | 1        | 1      | 1.85%   |
 | Crucial             | 1        | 1      | 1.85%   |
-| asmedia             | 1        | 1      | 1.85%   |
+| ASMedia             | 1        | 1      | 1.85%   |
 
 Drive Model
 -----------
@@ -679,10 +679,10 @@ Hard drive models
 | WDC WD10SPCX-24HWST1 1TB          | 1        | 1.59%   |
 | WDC WD1005FBYZ-01YCBB3 1TB        | 1        | 1.59%   |
 | WDC WD Elements 25A3 4TB          | 1        | 1.59%   |
-| USB SanDisk 3.2Gen1 16GB          | 1        | 1.59%   |
+| USB SanDisk 3.2Gen1 64GB          | 1        | 1.59%   |
 | Transcend 3E128-TS2-550B01 100GB  | 1        | 1.59%   |
 | Toshiba DT01ACA100 1TB            | 1        | 1.59%   |
-| SK Hynix HFS128G39TND-N210A 128GB | 1        | 1.59%   |
+| SK hynix HFS128G39TND-N210A 128GB | 1        | 1.59%   |
 | Seagate ST950032 5AS 500GB        | 1        | 1.59%   |
 | Seagate ST9160310AS 160GB         | 1        | 1.59%   |
 | Seagate ST3808110AS 80GB          | 1        | 1.59%   |
@@ -726,7 +726,7 @@ Hard drive models
 | HP EG0300FBVFL 304GB              | 1        | 1.59%   |
 | GLOWAY FER60GS3-S7 64GB           | 1        | 1.59%   |
 | Crucial CT1000MX500SSD1 1TB       | 1        | 1.59%   |
-| asmedia ASMT1051 240GB            | 1        | 1.59%   |
+| ASMedia ASMT1051 240GB            | 1        | 1.59%   |
 
 HDD Vendor
 ----------
@@ -766,14 +766,14 @@ Solid state drive vendors
 | NVMe                | 3        | 3      | 15%     |
 | Intel               | 3        | 4      | 15%     |
 | Transcend           | 1        | 4      | 5%      |
-| SK Hynix            | 1        | 1      | 5%      |
+| SK hynix            | 1        | 1      | 5%      |
 | SanDisk             | 1        | 1      | 5%      |
 | Phison              | 1        | 1      | 5%      |
 | Micron Technology   | 1        | 1      | 5%      |
 | MEMXPRO             | 1        | 1      | 5%      |
 | GLOWAY              | 1        | 1      | 5%      |
 | Crucial             | 1        | 1      | 5%      |
-| asmedia             | 1        | 1      | 5%      |
+| ASMedia             | 1        | 1      | 5%      |
 
 Drive Kind
 ----------
@@ -958,7 +958,7 @@ Storage controller vendors
 | Intel                    | 18       | 43.9%   |
 | AMD                      | 9        | 21.95%  |
 | Samsung Electronics      | 4        | 9.76%   |
-| Sandisk                  | 2        | 4.88%   |
+| SanDisk                  | 2        | 4.88%   |
 | Hewlett-Packard          | 2        | 4.88%   |
 | Broadcom / LSI           | 2        | 4.88%   |
 | VIA Technologies         | 1        | 2.44%   |
@@ -985,8 +985,8 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1        | 2.13%   |
 | Toshiba BG3 NVMe SSD Controller                                                         | 1        | 2.13%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                        | 1        | 2.13%   |
-| Sandisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 2.13%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 2.13%   |
+| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 2.13%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 1        | 2.13%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 2.13%   |
 | Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                                 | 1        | 2.13%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 2.13%   |
@@ -1757,12 +1757,9 @@ Memory module models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM 400MT/s               | 1        | 16.67%  |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s         | 1        | 16.67%  |
-| Unknown RAM Module 256MB DIMM 333MT/s               | 1        | 16.67%  |
-| Unknown RAM Module 1GB DIMM 400MT/s                 | 1        | 16.67%  |
-| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s | 1        | 16.67%  |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s   | 1        | 16.67%  |
+| Unknown                                             | 2        | 50%     |
+| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s | 1        | 25%     |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s   | 1        | 25%     |
 
 Memory Kind
 -----------

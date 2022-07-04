@@ -879,8 +879,8 @@ Hard drive vendors
 | Apple               | 2         | 2      | 1.63%   |
 | Transcend           | 1         | 2      | 0.81%   |
 | SSSTC               | 1         | 1      | 0.81%   |
-| SMART               | 1         | 1      | 0.81%   |
-| SK Hynix            | 1         | 1      | 0.81%   |
+| Smart               | 1         | 1      | 0.81%   |
+| SK hynix            | 1         | 1      | 0.81%   |
 | PNY                 | 1         | 1      | 0.81%   |
 | Patriot             | 1         | 1      | 0.81%   |
 | MyDigitalSSD        | 1         | 1      | 0.81%   |
@@ -942,8 +942,8 @@ Hard drive models
 | SSSTC CVB-8D128-HP 128GB             | 1         | 0.79%   |
 | SPCC Solid State Disk 256GB          | 1         | 0.79%   |
 | SPCC Solid State Disk 1TB            | 1         | 0.79%   |
-| SMART SSD XceedValue2 mSATA 32GB     | 1         | 0.79%   |
-| SK Hynix SHGP31-1000GM-2 1TB         | 1         | 0.79%   |
+| Smart SSD XceedValue2 mSATA 32GB     | 1         | 0.79%   |
+| SK hynix SHGP31-1000GM-2 1TB         | 1         | 0.79%   |
 | Seagate ST980811AS 80GB              | 1         | 0.79%   |
 | Seagate ST9320423AS 320GB            | 1         | 0.79%   |
 | Seagate ST9250315AS 250GB            | 1         | 0.79%   |
@@ -1004,7 +1004,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 2      | 3.23%   |
 | Transcend           | 1         | 2      | 1.61%   |
 | SSSTC               | 1         | 1      | 1.61%   |
-| SMART               | 1         | 1      | 1.61%   |
+| Smart               | 1         | 1      | 1.61%   |
 | PNY                 | 1         | 1      | 1.61%   |
 | Patriot             | 1         | 1      | 1.61%   |
 | MyDigitalSSD        | 1         | 1      | 1.61%   |
@@ -1232,10 +1232,10 @@ Storage controller vendors
 |----------------------------------|-----------|---------|
 | Intel                            | 99        | 81.82%  |
 | AMD                              | 9         | 7.44%   |
-| Sandisk                          | 3         | 2.48%   |
+| SanDisk                          | 3         | 2.48%   |
 | Samsung Electronics              | 3         | 2.48%   |
 | Toshiba                          | 2         | 1.65%   |
-| SK Hynix                         | 1         | 0.83%   |
+| SK hynix                         | 1         | 0.83%   |
 | Silicon Integrated Systems [SiS] | 1         | 0.83%   |
 | Realtek Semiconductor            | 1         | 0.83%   |
 | Micron/Crucial Technology        | 1         | 0.83%   |
@@ -1263,7 +1263,7 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 3         | 2.29%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 3         | 2.29%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 3         | 2.29%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 2         | 1.53%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 1.53%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 1.53%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 2         | 1.53%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 2         | 1.53%   |
@@ -1274,10 +1274,10 @@ Storage controller models
 | Unknown                                                                          | 2         | 1.53%   |
 | Toshiba unknown                                                                  | 1         | 0.76%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.76%   |
-| SK Hynix Gold P31 SSD                                                            | 1         | 0.76%   |
+| SK hynix Gold P31 SSD                                                            | 1         | 0.76%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 0.76%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 0.76%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                       | 1         | 0.76%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                       | 1         | 0.76%   |
 | Samsung SM951 AHCI                                                               | 1         | 0.76%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 0.76%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 1         | 0.76%   |
@@ -2328,16 +2328,15 @@ Memory module vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 33        | 23.4%   |
-| SK Hynix            | 27        | 19.15%  |
+| SK hynix            | 27        | 19.15%  |
 | Micron Technology   | 16        | 11.35%  |
 | Kingston            | 12        | 8.51%   |
+| Unknown             | 12        | 8.51%   |
 | Elpida              | 10        | 7.09%   |
-| Unknown             | 9         | 6.38%   |
 | Smart               | 4         | 2.84%   |
 | Ramaxel Technology  | 4         | 2.84%   |
 | Crucial             | 4         | 2.84%   |
 | Nanya Technology    | 3         | 2.13%   |
-| Unknown             | 3         | 2.13%   |
 | Teikon              | 2         | 1.42%   |
 | High Bridge         | 2         | 1.42%   |
 | Apacer              | 2         | 1.42%   |
@@ -2361,66 +2360,66 @@ Memory module models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                    | 4         | 2.68%   |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s                     | 3         | 2.01%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 3         | 2.01%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s                     | 3         | 2.01%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 3         | 2.01%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 3         | 2.01%   |
-| Unknown                                                                   | 3         | 2.01%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                               | 2         | 1.34%   |
-| SK Hynix RAM Module 2GB SODIMM DDR3 1600MT/s                              | 2         | 1.34%   |
-| SK Hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                    | 2         | 1.34%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 2         | 1.34%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 2         | 1.34%   |
-| Samsung RAM M471A5143EB0-CPB 4GB SODIMM DDR4 2133MT/s                     | 2         | 1.34%   |
-| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s                    | 2         | 1.34%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s                     | 2         | 1.34%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s                     | 2         | 1.34%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                               | 1         | 0.67%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1333MT/s                               | 1         | 0.67%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                               | 1         | 0.67%   |
-| Unknown RAM Module 4GB SODIMM DDR3                                        | 1         | 0.67%   |
-| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                                | 1         | 0.67%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 0.67%   |
-| Unknown RAM Module 2048MB SODIMM 800MT/s                                  | 1         | 0.67%   |
-| Unknown RAM Module 2048MB SODIMM 667MT/s                                  | 1         | 0.67%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s            | 1         | 0.67%   |
-| Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s                    | 1         | 0.67%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s                      | 1         | 0.67%   |
-| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s                       | 1         | 0.67%   |
-| Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s                 | 1         | 0.67%   |
-| Teikon RAM TML251S6EFR8A-PBHC 4096MB SODIMM DDR3 1600MT/s                 | 1         | 0.67%   |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s                     | 1         | 0.67%   |
-| Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
-| Smart Brazil RAM SMS4TDC3C0K0446SCG 4096MB SODIMM DDR4 2400MT/s           | 1         | 0.67%   |
-| SK Hynix RAM Module 2GB DDR3 1600MT/s                                     | 1         | 0.67%   |
-| SK Hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                     | 1         | 0.67%   |
-| SK Hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMT325S6CFR8C-H9 2048MB SODIMM DDR3 1333MT/s                 | 1         | 0.67%   |
-| SK Hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s                | 1         | 0.67%   |
-| SK Hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 2400MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMA81GS6DJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 1         | 0.67%   |
-| SK Hynix RAM HMA81GS6AFR8N-UH 8192MB Chip DDR4 2133MT/s                   | 1         | 0.67%   |
-| SK Hynix RAM 9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A 2GB SODIMM DDR2 800MT/s | 1         | 0.67%   |
-| SK Hynix RAM 313131313131313131313131313131313131 2GB SODIMM DDR2 800MT/s | 1         | 0.67%   |
-| SHARETRONIC RAM Module 2GB SODIMM DDR3 1600MT/s                           | 1         | 0.67%   |
-| Samsung RAM Module 2GB SODIMM DDR3 1600MT/s                               | 1         | 0.67%   |
-| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 0.67%   |
-| Samsung RAM M471B5674EB0-YMA 2GB Row Of Chips DDR3 1600MT/s               | 1         | 0.67%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
-| Samsung RAM M471B5273BH1-CH9 4096MB SODIMM DDR3 1333MT/s                  | 1         | 0.67%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s                     | 1         | 0.67%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.67%   |
-| Samsung RAM M471B1G73AH0-CH9 8GB SODIMM DDR3 1333MT/s                     | 1         | 0.67%   |
+| Unknown                                                                   | 12        | 8.11%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                    | 4         | 2.7%    |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s                     | 3         | 2.03%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 3         | 2.03%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s                     | 3         | 2.03%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 3         | 2.03%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s                     | 3         | 2.03%   |
+| SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                              | 2         | 1.35%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s                    | 2         | 1.35%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s                     | 2         | 1.35%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 2         | 1.35%   |
+| Samsung RAM M471A5143EB0-CPB 4GB SODIMM DDR4 2133MT/s                     | 2         | 1.35%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s                    | 2         | 1.35%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s                     | 2         | 1.35%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s                     | 2         | 1.35%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s         | 1         | 0.68%   |
+| Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s                    | 1         | 0.68%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s                      | 1         | 0.68%   |
+| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s                       | 1         | 0.68%   |
+| Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s                 | 1         | 0.68%   |
+| Teikon RAM TML251S6EFR8A-PBHC 4096MB SODIMM DDR3 1600MT/s                 | 1         | 0.68%   |
+| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s                     | 1         | 0.68%   |
+| Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.68%   |
+| Smart Brazil RAM SMS4TDC3C0K0446SCG 4096MB SODIMM DDR4 2400MT/s           | 1         | 0.68%   |
+| SK hynix RAM Module 2GB DDR3 1600MT/s                                     | 1         | 0.68%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                     | 1         | 0.68%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMT325S6CFR8C-H9 2048MB SODIMM DDR3 1333MT/s                 | 1         | 0.68%   |
+| SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s                | 1         | 0.68%   |
+| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMA851S6DJR6N-XN 4GB SODIMM DDR4 2400MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMA81GS6DJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 1         | 0.68%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8192MB Chip DDR4 2133MT/s                   | 1         | 0.68%   |
+| SK hynix RAM 9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A9A 2GB SODIMM DDR2 800MT/s | 1         | 0.68%   |
+| SK hynix RAM 313131313131313131313131313131313131 2GB SODIMM DDR2 800MT/s | 1         | 0.68%   |
+| SHARETRONIC RAM Module 2GB SODIMM DDR3 1600MT/s                           | 1         | 0.68%   |
+| Samsung RAM Module 2GB SODIMM DDR3 1600MT/s                               | 1         | 0.68%   |
+| Samsung RAM M471B5773DH0-CK0 2GB SODIMM DDR3 1600MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471B5674EB0-YMA 2GB Row Of Chips DDR3 1600MT/s               | 1         | 0.68%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471B5273BH1-CH9 4096MB SODIMM DDR3 1333MT/s                  | 1         | 0.68%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471B1G73AH0-CH9 8GB SODIMM DDR3 1333MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A5644EB0-CPB 2048MB SODIMM DDR4 2133MT/s                  | 1         | 0.68%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A4G43MB1-CTD 0kB SODIMM DDR4 2667MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s                     | 1         | 0.68%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s               | 1         | 0.68%   |
+| Samsung RAM M471A1G43DB0-CPB 8GB SODIMM DDR4 2133MT/s                     | 1         | 0.68%   |
+| Samsung RAM K4E6E304EC-EGCG 4GB Row Of Chips LPDDR3 2133MT/s              | 1         | 0.68%   |
 
 Memory Kind
 -----------

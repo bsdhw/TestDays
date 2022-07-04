@@ -727,7 +727,7 @@ Hard drive vendors
 | Hitachi             | 4         | 4      | 7.02%   |
 | SanDisk             | 3         | 4      | 5.26%   |
 | Apple               | 3         | 4      | 5.26%   |
-| SK Hynix            | 2         | 2      | 3.51%   |
+| SK hynix            | 2         | 2      | 3.51%   |
 | OCZ                 | 2         | 2      | 3.51%   |
 | ORICO               | 1         | 1      | 1.75%   |
 | Micron Technology   | 1         | 1      | 1.75%   |
@@ -764,8 +764,8 @@ Hard drive models
 | Toshiba KSG60ZMV256G M.2 2280 256GB       | 1         | 1.69%   |
 | Toshiba DT01ACA100 1TB                    | 1         | 1.69%   |
 | Toshiba DT01ABA300 3TB                    | 1         | 1.69%   |
-| SK Hynix SKHynix_HFS512GD9TNG-L5B0B 512GB | 1         | 1.69%   |
-| SK Hynix HFS128G39TND-N210A 128GB         | 1         | 1.69%   |
+| SK hynix SKHynix_HFS512GD9TNG-L5B0B 512GB | 1         | 1.69%   |
+| SK hynix HFS128G39TND-N210A 128GB         | 1         | 1.69%   |
 | Seagate ST9750423AS 752GB                 | 1         | 1.69%   |
 | Seagate ST500LM021-1KJ152 500GB           | 1         | 1.69%   |
 | Seagate ST500DM002-1BD142 500GB           | 1         | 1.69%   |
@@ -839,7 +839,7 @@ Solid state drive vendors
 | Apple               | 3         | 4      | 15.79%  |
 | OCZ                 | 2         | 2      | 10.53%  |
 | Toshiba             | 1         | 1      | 5.26%   |
-| SK Hynix            | 1         | 1      | 5.26%   |
+| SK hynix            | 1         | 1      | 5.26%   |
 | Micron Technology   | 1         | 1      | 5.26%   |
 | Kingston            | 1         | 1      | 5.26%   |
 | KingDian            | 1         | 1      | 5.26%   |
@@ -1024,7 +1024,7 @@ Storage controller vendors
 | Intel                            | 34        | 59.65%  |
 | Samsung Electronics              | 10        | 17.54%  |
 | AMD                              | 8         | 14.04%  |
-| SK Hynix                         | 1         | 1.75%   |
+| SK hynix                         | 1         | 1.75%   |
 | Silicon Motion                   | 1         | 1.75%   |
 | Silicon Integrated Systems [SiS] | 1         | 1.75%   |
 | Nvidia                           | 1         | 1.75%   |
@@ -1050,7 +1050,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 2.9%    |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 2         | 2.9%    |
 | Intel 4 Series Chipset PT IDER Controller                                        | 2         | 2.9%    |
-| SK Hynix hynix unknown                                                           | 1         | 1.45%   |
+| SK hynix hynix unknown                                                           | 1         | 1.45%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 1.45%   |
@@ -2012,11 +2012,11 @@ Memory module vendors
 | Vendor              | Computers | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 12        | 20.69%  |
-| SK Hynix            | 11        | 18.97%  |
+| SK hynix            | 11        | 18.97%  |
 | Micron Technology   | 11        | 18.97%  |
-| Unknown             | 5         | 8.62%   |
 | Kingston            | 5         | 8.62%   |
-| ELPIDA              | 3         | 5.17%   |
+| Unknown             | 5         | 8.62%   |
+| Elpida              | 3         | 5.17%   |
 | Corsair             | 3         | 5.17%   |
 | G.Skill             | 2         | 3.45%   |
 | Crucial             | 2         | 3.45%   |
@@ -2034,62 +2034,56 @@ Memory module models
 
 | Model                                                         | Computers | Percent |
 |---------------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s        | 3         | 4.92%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 2         | 3.28%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                 | 2         | 3.28%   |
-| Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                      | 2         | 3.28%   |
-| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                     | 1         | 1.64%   |
-| Unknown SODIMM 1024MB SODIMM DDR2 667MT/s                     | 1         | 1.64%   |
-| Unknown RAM Module 512MB SODIMM SDRAM                         | 1         | 1.64%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                        | 1         | 1.64%   |
-| Unknown RAM Module 128MB SODIMM SDRAM                         | 1         | 1.64%   |
-| Unknown RAM Module 1024MB SODIMM RAM                          | 1         | 1.64%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s                   | 1         | 1.64%   |
-| SK Hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s       | 1         | 1.64%   |
-| SK Hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.64%   |
-| SK Hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.64%   |
-| SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
-| SK Hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
-| SK Hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
-| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.64%   |
-| Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.64%   |
-| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s            | 1         | 1.64%   |
-| Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 1.64%   |
-| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.64%   |
-| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 1.64%   |
-| Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
-| Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 1.64%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s             | 1         | 1.64%   |
-| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s        | 1         | 1.64%   |
-| Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 1.64%   |
-| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.64%   |
-| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s        | 1         | 1.64%   |
-| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s         | 1         | 1.64%   |
-| Elpida RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.64%   |
-| ELPIDA RAM Module 2048MB SODIMM DDR3 800MT/s                  | 1         | 1.64%   |
-| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s         | 1         | 1.64%   |
-| Crucial RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 1.64%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s     | 1         | 1.64%   |
-| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s        | 1         | 1.64%   |
-| Corsair RAM CMSO8GX3M1A1600C11 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.64%   |
-| Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
-| A-DATA RAM AO1P32NCST2-BZ6SHD 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.64%   |
-| A-DATA RAM AM1L16BC2P1-B1FS 2048MB SODIMM DDR3 800MT/s        | 1         | 1.64%   |
+| Unknown                                                       | 5         | 8.47%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s        | 3         | 5.08%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 2         | 3.39%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                 | 2         | 3.39%   |
+| Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                      | 2         | 3.39%   |
+| SK hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s       | 1         | 1.69%   |
+| SK hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.69%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.69%   |
+| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.69%   |
+| SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.69%   |
+| SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.69%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.69%   |
+| Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.69%   |
+| Samsung RAM M471A4G43MB1-CTD 0kB SODIMM DDR4 2667MT/s         | 1         | 1.69%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.69%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.69%   |
+| Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.69%   |
+| Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.69%   |
+| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s            | 1         | 1.69%   |
+| Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 1.69%   |
+| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.69%   |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 1.69%   |
+| Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s        | 1         | 1.69%   |
+| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 1.69%   |
+| Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 1.69%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s             | 1         | 1.69%   |
+| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s        | 1         | 1.69%   |
+| Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 1.69%   |
+| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.69%   |
+| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s        | 1         | 1.69%   |
+| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s         | 1         | 1.69%   |
+| Elpida RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.69%   |
+| Elpida RAM Module 2048MB SODIMM DDR3 800MT/s                  | 1         | 1.69%   |
+| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s         | 1         | 1.69%   |
+| Crucial RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 1.69%   |
+| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s     | 1         | 1.69%   |
+| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s        | 1         | 1.69%   |
+| Corsair RAM CMSO8GX3M1A1600C11 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.69%   |
+| Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s          | 1         | 1.69%   |
+| A-DATA RAM AO1P32NCST2-BZ6SHD 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.69%   |
+| A-DATA RAM AM1L16BC2P1-B1FS 2048MB SODIMM DDR3 800MT/s        | 1         | 1.69%   |
 
 Memory Kind
 -----------

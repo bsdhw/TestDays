@@ -666,7 +666,7 @@ Hard drive vendors
 | Phison                             | 1        | 1      | 2.13%   |
 | Patriot                            | 1        | 1      | 2.13%   |
 | OPENBSD                            | 1        | 1      | 2.13%   |
-| MAXTOR                             | 1        | 2      | 2.13%   |
+| Maxtor                             | 1        | 2      | 2.13%   |
 | Intel                              | 1        | 2      | 2.13%   |
 | HPE                                | 1        | 2      | 2.13%   |
 | Hitachi                            | 1        | 1      | 2.13%   |
@@ -721,8 +721,8 @@ Hard drive models
 | NVMe Samsung SSD 980 1TB                             | 1        | 2.04%   |
 | NVMe Samsung SSD 970 250GB                           | 1        | 2.04%   |
 | NVMe PCIe SSD 512GB                                  | 1        | 2.04%   |
-| MAXTOR 6Y160P0 160GB                                 | 1        | 2.04%   |
-| MAXTOR 6Y080L0 82GB                                  | 1        | 2.04%   |
+| Maxtor 6Y160P0 160GB                                 | 1        | 2.04%   |
+| Maxtor 6Y080L0 82GB                                  | 1        | 2.04%   |
 | Kingston SV300S37A240G 240GB                         | 1        | 2.04%   |
 | Kingston SUV500MS480G 480GB                          | 1        | 2.04%   |
 | Kingston SUV500MS240G 240GB                          | 1        | 2.04%   |
@@ -731,7 +731,7 @@ Hard drive models
 | HPE MK000480GWXFF 480GB                              | 1        | 2.04%   |
 | Hitachi HUA723020ALA640 2TB                          | 1        | 2.04%   |
 | HGST HUS724020ALA640 2TB                             | 1        | 2.04%   |
-| Generic Flash Disk 32GB                              | 1        | 2.04%   |
+| Generic Flash Disk 2GB                               | 1        | 2.04%   |
 | Crucial M4-CT128M4SSD2 128GB                         | 1        | 2.04%   |
 | ASMT 2115 500GB                                      | 1        | 2.04%   |
 | Apacer 8GB SATA Flash Drive                          | 1        | 2.04%   |
@@ -756,7 +756,7 @@ Hard disk drive vendors
 | Product:              USB DISK 3.0 | 1        | 1      | 3.33%   |
 | Product:              USB DISK 2.0 | 1        | 1      | 3.33%   |
 | OPENBSD                            | 1        | 1      | 3.33%   |
-| MAXTOR                             | 1        | 2      | 3.33%   |
+| Maxtor                             | 1        | 2      | 3.33%   |
 | Hitachi                            | 1        | 1      | 3.33%   |
 | HGST                               | 1        | 1      | 3.33%   |
 | Generic                            | 1        | 1      | 3.33%   |
@@ -971,7 +971,7 @@ Storage controller vendors
 |------------------------|----------|---------|
 | Intel                  | 13       | 41.94%  |
 | AMD                    | 11       | 35.48%  |
-| Sandisk                | 2        | 6.45%   |
+| SanDisk                | 2        | 6.45%   |
 | VIA Technologies       | 1        | 3.23%   |
 | Toshiba                | 1        | 3.23%   |
 | Samsung Electronics    | 1        | 3.23%   |
@@ -996,8 +996,8 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                    | 1        | 2.63%   |
 | VIA VT8237A SATA 2-Port Controller                                             | 1        | 2.63%   |
 | Toshiba BG3 NVMe SSD Controller                                                | 1        | 2.63%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1        | 2.63%   |
-| Sandisk unknown                                                                | 1        | 2.63%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1        | 2.63%   |
+| SanDisk unknown                                                                | 1        | 2.63%   |
 | Samsung NVMe SSD Controller 980                                                | 1        | 2.63%   |
 | Phison E12 NVMe Controller                                                     | 1        | 2.63%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.63%   |
@@ -1749,7 +1749,7 @@ Memory module vendors
 |---------------------|----------|---------|
 | Samsung Electronics | 2        | 50%     |
 | Transcend           | 1        | 25%     |
-| SK Hynix            | 1        | 25%     |
+| SK hynix            | 1        | 25%     |
 
 Memory Model
 ------------
@@ -1762,7 +1762,7 @@ Memory module models
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
 | Transcend RAM TS128MLQ64V6J 1GB DIMM DDR2 667MT/s     | 1        | 20%     |
-| SK Hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s   | 1        | 20%     |
+| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s   | 1        | 20%     |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s | 1        | 20%     |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s | 1        | 20%     |
 | Samsung RAM M3 78T2953CZ3-CE6 1GB DIMM DDR2 667MT/s   | 1        | 20%     |

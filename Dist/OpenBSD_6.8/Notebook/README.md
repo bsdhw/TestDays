@@ -1151,8 +1151,8 @@ Storage controller vendors
 | Intel                            | 64        | 67.37%  |
 | Samsung Electronics              | 9         | 9.47%   |
 | AMD                              | 7         | 7.37%   |
-| Sandisk                          | 6         | 6.32%   |
-| SK Hynix                         | 3         | 3.16%   |
+| SanDisk                          | 6         | 6.32%   |
+| SK hynix                         | 3         | 3.16%   |
 | Union Memory (Shenzhen)          | 1         | 1.05%   |
 | Toshiba                          | 1         | 1.05%   |
 | Silicon Integrated Systems [SiS] | 1         | 1.05%   |
@@ -1178,12 +1178,12 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 5         | 5%      |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 5         | 5%      |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 4         | 4%      |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                     | 3         | 3%      |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 3         | 3%      |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 3         | 3%      |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                  | 3         | 3%      |
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 3         | 3%      |
-| SK Hynix hynix unknown                                                         | 2         | 2%      |
-| Sandisk PC SN520 NVMe SSD                                                      | 2         | 2%      |
+| SK hynix hynix unknown                                                         | 2         | 2%      |
+| SanDisk PC SN520 NVMe SSD                                                      | 2         | 2%      |
 | Samsung SM951 AHCI                                                             | 2         | 2%      |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 2%      |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 2%      |
@@ -1194,9 +1194,9 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 2%      |
 | Union Memory (Shenzhen) Memory unknown                                         | 1         | 1%      |
 | Toshiba unknown                                                                | 1         | 1%      |
-| SK Hynix BC501 NVMe Solid State Drive                                          | 1         | 1%      |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 1%      |
 | Silicon Integrated Systems [SiS] 5518 UDMA IDE Controller                      | 1         | 1%      |
-| Sandisk WD Black NVMe SSD                                                      | 1         | 1%      |
+| SanDisk WD Black NVMe SSD                                                      | 1         | 1%      |
 | Nvidia MCP79 AHCI Controller                                                   | 1         | 1%      |
 | Marvell Group 88SS9183 PCIe SSD Controller                                     | 1         | 1%      |
 | Lenovo unknown                                                                 | 1         | 1%      |
@@ -2226,10 +2226,8 @@ Memory module models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
+| Unknown                                                 | 3         | 30%     |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 2         | 20%     |
-| Unknown RAM Module 256MB SODIMM DRAM                    | 1         | 10%     |
-| Unknown RAM Module 2048MB SODIMM DDR2                   | 1         | 10%     |
-| Unknown RAM Module 128MB SODIMM DRAM                    | 1         | 10%     |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 10%     |
 | Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s | 1         | 10%     |
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s   | 1         | 10%     |

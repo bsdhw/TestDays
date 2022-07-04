@@ -898,7 +898,7 @@ Storage controller vendors
 |---------------------------|-----------|---------|
 | Intel                     | 15        | 53.57%  |
 | Samsung Electronics       | 6         | 21.43%  |
-| Sandisk                   | 3         | 10.71%  |
+| SanDisk                   | 3         | 10.71%  |
 | Micron/Crucial Technology | 1         | 3.57%   |
 | KIOXIA                    | 1         | 3.57%   |
 | AMD                       | 1         | 3.57%   |
@@ -920,9 +920,9 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                               | 2         | 7.14%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 2         | 7.14%   |
 | Unknown                                                                      | 2         | 7.14%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 3.57%   |
-| Sandisk WD Black NVMe SSD                                                    | 1         | 3.57%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                              | 1         | 3.57%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 3.57%   |
+| SanDisk WD Black NVMe SSD                                                    | 1         | 3.57%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                              | 1         | 3.57%   |
 | Samsung SM951 AHCI                                                           | 1         | 3.57%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 1         | 3.57%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                               | 1         | 3.57%   |
@@ -1669,13 +1669,13 @@ Memory module vendors
 |---------------------|-----------|---------|
 | Micron Technology   | 7         | 25.93%  |
 | Samsung Electronics | 6         | 22.22%  |
-| SK Hynix            | 4         | 14.81%  |
+| SK hynix            | 4         | 14.81%  |
 | Kingston            | 4         | 14.81%  |
 | Transcend           | 2         | 7.41%   |
-| Unknown             | 1         | 3.7%    |
 | Elpida              | 1         | 3.7%    |
 | Corsair             | 1         | 3.7%    |
 | A-DATA Technology   | 1         | 3.7%    |
+| Unknown             | 1         | 3.7%    |
 
 Memory Model
 ------------
@@ -1689,13 +1689,12 @@ Memory module models
 |----------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s    | 2         | 7.14%   |
 | Micron RAM MT52L512M32D2PF-09 4GB Row Of Chips LPDDR3 2133MT/s | 2         | 7.14%   |
-| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                     | 1         | 3.57%   |
 | Transcend RAM TS1GLH64V6BL 8GB SODIMM DDR4 2667MT/s            | 1         | 3.57%   |
 | Transcend RAM TS1GLH64V6B3 8GB SODIMM DDR4 1333MT/s            | 1         | 3.57%   |
-| SK Hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s           | 1         | 3.57%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s         | 1         | 3.57%   |
-| SK Hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2400MT/s        | 1         | 3.57%   |
-| SK Hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s         | 1         | 3.57%   |
+| SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s           | 1         | 3.57%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s         | 1         | 3.57%   |
+| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2400MT/s        | 1         | 3.57%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s         | 1         | 3.57%   |
 | Samsung RAM Module 8GB SODIMM DDR4 2133MT/s                    | 1         | 3.57%   |
 | Samsung RAM Module 8192MB SODIMM DDR4 2133MT/s                 | 1         | 3.57%   |
 | Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s            | 1         | 3.57%   |
@@ -1713,6 +1712,7 @@ Memory module models
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 3.57%   |
 | Corsair RAM CMSO32GX4M2A2133C15 16GB SODIMM DDR4 2133MT/s      | 1         | 3.57%   |
 | A-DATA RAM MIF4D2C087KZ1 4096MB SODIMM DDR3 1600MT/s           | 1         | 3.57%   |
+| Unknown                                                        | 1         | 3.57%   |
 
 Memory Kind
 -----------

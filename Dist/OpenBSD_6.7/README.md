@@ -164,13 +164,13 @@ Total: 61
 | IBM           | ThinkPad T42 2373K9G        | Notebook    | [fa35e7ec26](https://bsd-hardware.info/?probe=fa35e7ec26) | Aug 11, 2020 |
 | PC Engines    | apu4                        | Desktop     | [f0f8a22656](https://bsd-hardware.info/?probe=f0f8a22656) | Aug 05, 2020 |
 | Intel         | ChiefRiver                  | Desktop     | [022d2761b9](https://bsd-hardware.info/?probe=022d2761b9) | Aug 03, 2020 |
-| PC Engines    | apu3                        | Desktop     | [1eaf8a1484](https://bsd-hardware.info/?probe=1eaf8a1484) | Aug 03, 2020 |
+| PC Engines    | APU3                        | Desktop     | [1eaf8a1484](https://bsd-hardware.info/?probe=1eaf8a1484) | Aug 03, 2020 |
 | PC Engines    | APU3                        | Desktop     | [4980462667](https://bsd-hardware.info/?probe=4980462667) | Aug 03, 2020 |
 | PC Engines    | APU3                        | Desktop     | [975e23e09d](https://bsd-hardware.info/?probe=975e23e09d) | Aug 03, 2020 |
 | HP            | ZBook 15 G4                 | Notebook    | [a8953b4964](https://bsd-hardware.info/?probe=a8953b4964) | Aug 03, 2020 |
 | HP            | ZBook 15 G4                 | Notebook    | [a97053c5d4](https://bsd-hardware.info/?probe=a97053c5d4) | Aug 03, 2020 |
 | Shuttle       | DS437                       | Desktop     | [aa350b6b92](https://bsd-hardware.info/?probe=aa350b6b92) | Aug 03, 2020 |
-| PC Engines    | apu2                        | Desktop     | [fe5c2f4838](https://bsd-hardware.info/?probe=fe5c2f4838) | Aug 03, 2020 |
+| PC Engines    | APU2                        | Desktop     | [fe5c2f4838](https://bsd-hardware.info/?probe=fe5c2f4838) | Aug 03, 2020 |
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | Notebook    | [20f3e760eb](https://bsd-hardware.info/?probe=20f3e760eb) | Aug 03, 2020 |
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | Notebook    | [b305c0df5e](https://bsd-hardware.info/?probe=b305c0df5e) | Aug 03, 2020 |
 | Lenovo        | ThinkPad W540 20BG001KUK    | Notebook    | [f3e2acbb66](https://bsd-hardware.info/?probe=f3e2acbb66) | Jul 31, 2020 |
@@ -381,7 +381,7 @@ Motherboard model
 | Shuttle DS437                                     | 1         | 2%      |
 | Protectli FW6                                     | 1         | 2%      |
 | Pegatron Compaq dx2400 Microtower                 | 1         | 2%      |
-| PC Engines apu2                                   | 1         | 2%      |
+| PC Engines APU2                                   | 1         | 2%      |
 | Panasonic CF-19ADUAX1M                            | 1         | 2%      |
 | Lenovo ThinkPad X230 2325Y36                      | 1         | 2%      |
 | Lenovo ThinkPad X230 2324A57                      | 1         | 2%      |
@@ -435,7 +435,7 @@ Motherboard model prefix
 | Shuttle DS437                     | 1         | 2%      |
 | Protectli FW6                     | 1         | 2%      |
 | Pegatron Compaq                   | 1         | 2%      |
-| PC Engines apu2                   | 1         | 2%      |
+| PC Engines APU2                   | 1         | 2%      |
 | Panasonic CF-19ADUAX1M            | 1         | 2%      |
 | Lenovo ThinkCentre                | 1         | 2%      |
 | Intel ChiefRiver                  | 1         | 2%      |
@@ -995,7 +995,7 @@ Storage controller vendors
 | Samsung Electronics | 4         | 7.69%   |
 | Nvidia              | 2         | 3.85%   |
 | ASMedia Technology  | 2         | 3.85%   |
-| Sandisk             | 1         | 1.92%   |
+| SanDisk             | 1         | 1.92%   |
 | Lenovo              | 1         | 1.92%   |
 | Broadcom / LSI      | 1         | 1.92%   |
 
@@ -1024,7 +1024,7 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 3.33%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 3.33%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 2         | 3.33%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.67%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.67%   |
 | Samsung SM951 AHCI                                                             | 1         | 1.67%   |
 | Lenovo unknown                                                                 | 1         | 1.67%   |
 | Intel SSD 660P Series                                                          | 1         | 1.67%   |
@@ -1888,15 +1888,11 @@ Memory module models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 512MB SODIMM DDR                   | 1         | 11.11%  |
-| Unknown RAM Module 512MB DIMM SDRAM                   | 1         | 11.11%  |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 11.11%  |
-| Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 11.11%  |
-| Unknown RAM Module 1024MB DIMM DDR                    | 1         | 11.11%  |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 11.11%  |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 11.11%  |
-| Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 11.11%  |
+| Unknown                                               | 4         | 50%     |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 12.5%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 12.5%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 12.5%   |
+| Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 12.5%   |
 
 Memory Kind
 -----------

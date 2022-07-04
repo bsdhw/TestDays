@@ -631,10 +631,10 @@ Motherboard manufacture year
 | 2015 | 10        | 7.35%   |
 | 2014 | 10        | 7.35%   |
 | 2021 | 8         | 5.88%   |
+| 2016 | 8         | 5.88%   |
 | 2018 | 7         | 5.15%   |
-| 2016 | 7         | 5.15%   |
-| 2017 | 5         | 3.68%   |
 | 2009 | 5         | 3.68%   |
+| 2017 | 4         | 2.94%   |
 | 2008 | 2         | 1.47%   |
 | 2007 | 1         | 0.74%   |
 
@@ -922,7 +922,7 @@ Hard drive vendors
 | A-DATA Technology   | 3         | 5      | 1.64%   |
 | SPCC                | 2         | 2      | 1.09%   |
 | Smartbuy            | 2         | 2      | 1.09%   |
-| PLEXTOR             | 2         | 2      | 1.09%   |
+| Plextor             | 2         | 2      | 1.09%   |
 | OCZ                 | 2         | 2      | 1.09%   |
 | KingSpec            | 2         | 3      | 1.09%   |
 | Gigabyte Technology | 2         | 2      | 1.09%   |
@@ -939,7 +939,7 @@ Hard drive vendors
 | Lexar               | 1         | 1      | 0.55%   |
 | Leven               | 1         | 1      | 0.55%   |
 | Hewlett-Packard     | 1         | 1      | 0.55%   |
-| GOODRAM             | 1         | 1      | 0.55%   |
+| Goodram             | 1         | 1      | 0.55%   |
 | FORESEE             | 1         | 1      | 0.55%   |
 | Apple               | 1         | 1      | 0.55%   |
 | AMD                 | 1         | 1      | 0.55%   |
@@ -1010,7 +1010,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB           | 1         | 0.5%    |
 | WDC WD1002FAEX-00Y9A0 1TB          | 1         | 0.5%    |
 | WDC WD1001FAES-75W7A0 1TB          | 1         | 0.5%    |
-| Verbatim Vi550 S3 SSD 128GB        | 1         | 0.5%    |
+| Verbatim Vi550 S3 SSD 512GB        | 1         | 0.5%    |
 | Transcend TS120GMTS420S 120GB      | 1         | 0.5%    |
 | Toshiba MQ02ABD100H 1TB            | 1         | 0.5%    |
 | Toshiba MQ01UBD100 1TB             | 1         | 0.5%    |
@@ -1025,12 +1025,13 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 34        | 40     | 35.42%  |
-| WDC                 | 30        | 35     | 31.25%  |
-| Toshiba             | 15        | 19     | 15.63%  |
-| Hitachi             | 9         | 11     | 9.38%   |
-| Samsung Electronics | 5         | 7      | 5.21%   |
-| HGST                | 3         | 3      | 3.13%   |
+| Seagate             | 34        | 40     | 35.05%  |
+| WDC                 | 30        | 35     | 30.93%  |
+| Toshiba             | 15        | 19     | 15.46%  |
+| Hitachi             | 9         | 11     | 9.28%   |
+| Samsung Electronics | 5         | 7      | 5.15%   |
+| HGST                | 3         | 3      | 3.09%   |
+| Hewlett-Packard     | 1         | 1      | 1.03%   |
 
 SSD Vendor
 ----------
@@ -1042,36 +1043,35 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 16        | 18     | 21.92%  |
-| Kingston            | 9         | 13     | 12.33%  |
-| Crucial             | 8         | 11     | 10.96%  |
-| SanDisk             | 6         | 6      | 8.22%   |
-| Smartbuy            | 2         | 2      | 2.74%   |
-| PLEXTOR             | 2         | 2      | 2.74%   |
-| OCZ                 | 2         | 2      | 2.74%   |
-| KingSpec            | 2         | 3      | 2.74%   |
-| Intel               | 2         | 2      | 2.74%   |
-| Corsair             | 2         | 2      | 2.74%   |
-| China               | 2         | 2      | 2.74%   |
-| Apacer              | 2         | 2      | 2.74%   |
-| WDC                 | 1         | 1      | 1.37%   |
-| Verbatim            | 1         | 1      | 1.37%   |
-| Transcend           | 1         | 1      | 1.37%   |
-| SPCC                | 1         | 1      | 1.37%   |
-| PNY                 | 1         | 1      | 1.37%   |
-| Patriot             | 1         | 1      | 1.37%   |
-| Micron Technology   | 1         | 1      | 1.37%   |
-| LITEONIT            | 1         | 1      | 1.37%   |
-| LITEON              | 1         | 1      | 1.37%   |
-| Lexar               | 1         | 1      | 1.37%   |
-| Leven               | 1         | 1      | 1.37%   |
-| Hewlett-Packard     | 1         | 1      | 1.37%   |
-| GOODRAM             | 1         | 1      | 1.37%   |
-| Gigabyte Technology | 1         | 1      | 1.37%   |
-| FORESEE             | 1         | 1      | 1.37%   |
-| Apple               | 1         | 1      | 1.37%   |
-| AMD                 | 1         | 1      | 1.37%   |
-| A-DATA Technology   | 1         | 2      | 1.37%   |
+| Samsung Electronics | 16        | 18     | 22.22%  |
+| Kingston            | 9         | 13     | 12.5%   |
+| Crucial             | 8         | 11     | 11.11%  |
+| SanDisk             | 6         | 6      | 8.33%   |
+| Smartbuy            | 2         | 2      | 2.78%   |
+| Plextor             | 2         | 2      | 2.78%   |
+| OCZ                 | 2         | 2      | 2.78%   |
+| KingSpec            | 2         | 3      | 2.78%   |
+| Intel               | 2         | 2      | 2.78%   |
+| Corsair             | 2         | 2      | 2.78%   |
+| China               | 2         | 2      | 2.78%   |
+| Apacer              | 2         | 2      | 2.78%   |
+| WDC                 | 1         | 1      | 1.39%   |
+| Verbatim            | 1         | 1      | 1.39%   |
+| Transcend           | 1         | 1      | 1.39%   |
+| SPCC                | 1         | 1      | 1.39%   |
+| PNY                 | 1         | 1      | 1.39%   |
+| Patriot             | 1         | 1      | 1.39%   |
+| Micron Technology   | 1         | 1      | 1.39%   |
+| LITEONIT            | 1         | 1      | 1.39%   |
+| LITEON              | 1         | 1      | 1.39%   |
+| Lexar               | 1         | 1      | 1.39%   |
+| Leven               | 1         | 1      | 1.39%   |
+| Goodram             | 1         | 1      | 1.39%   |
+| Gigabyte Technology | 1         | 1      | 1.39%   |
+| FORESEE             | 1         | 1      | 1.39%   |
+| Apple               | 1         | 1      | 1.39%   |
+| AMD                 | 1         | 1      | 1.39%   |
+| A-DATA Technology   | 1         | 2      | 1.39%   |
 
 Drive Kind
 ----------
@@ -1083,8 +1083,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 78        | 115    | 48.75%  |
-| SSD  | 66        | 84     | 41.25%  |
+| HDD  | 79        | 116    | 49.38%  |
+| SSD  | 65        | 83     | 40.63%  |
 | NVMe | 16        | 18     | 10%     |
 
 Drive Connector
@@ -1110,8 +1110,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 102       | 137    | 64.97%  |
-| 0.51-1.0   | 39        | 43     | 24.84%  |
+| 0.01-0.5   | 102       | 136    | 64.97%  |
+| 0.51-1.0   | 39        | 44     | 24.84%  |
 | 1.01-2.0   | 8         | 9      | 5.1%    |
 | 2.01-3.0   | 4         | 6      | 2.55%   |
 | 3.01-4.0   | 3         | 3      | 1.91%   |
@@ -1297,7 +1297,7 @@ Storage controller vendors
 | Intel                      | 106       | 68.39%  |
 | AMD                        | 27        | 17.42%  |
 | Samsung Electronics        | 6         | 3.87%   |
-| Sandisk                    | 3         | 1.94%   |
+| SanDisk                    | 3         | 1.94%   |
 | Phison Electronics         | 3         | 1.94%   |
 | ASMedia Technology         | 3         | 1.94%   |
 | Silicon Motion             | 1         | 0.65%   |
@@ -1340,7 +1340,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 3         | 1.7%    |
 | ASMedia ASM1062 Serial ATA Controller                                                   | 3         | 1.7%    |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 3         | 1.7%    |
-| Sandisk WD Blue SN550 NVMe SSD                                                          | 2         | 1.14%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                          | 2         | 1.14%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 2         | 1.14%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                       | 2         | 1.14%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2         | 1.14%   |
@@ -1351,7 +1351,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2         | 1.14%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 2         | 1.14%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1         | 0.57%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1         | 0.57%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1         | 0.57%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1         | 0.57%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 1         | 0.57%   |
 | Phison PS5013 E13 NVMe Controller                                                       | 1         | 0.57%   |
@@ -2498,31 +2498,30 @@ Memory module vendors
 
 | Vendor                       | Computers | Percent |
 |------------------------------|-----------|---------|
-| Samsung Electronics          | 29        | 17.47%  |
-| SK Hynix                     | 26        | 15.66%  |
-| Kingston                     | 21        | 12.65%  |
-| Unknown                      | 16        | 9.64%   |
-| Micron Technology            | 12        | 7.23%   |
-| Crucial                      | 10        | 6.02%   |
-| Nanya Technology             | 6         | 3.61%   |
-| Team                         | 5         | 3.01%   |
-| Unknown                      | 5         | 3.01%   |
-| Ramaxel Technology           | 4         | 2.41%   |
-| G.Skill                      | 4         | 2.41%   |
-| Corsair                      | 4         | 2.41%   |
-| Teikon                       | 3         | 1.81%   |
-| Smart                        | 3         | 1.81%   |
-| Elpida                       | 3         | 1.81%   |
-| A-DATA Technology            | 3         | 1.81%   |
-| Transcend                    | 2         | 1.2%    |
-| Patriot                      | 2         | 1.2%    |
-| Apacer                       | 2         | 1.2%    |
-| Unknown (0x7F7F7F94FFFFFFFF) | 1         | 0.6%    |
-| Smart Brazil                 | 1         | 0.6%    |
-| SHARETRONIC                  | 1         | 0.6%    |
-| PKI/Kingston                 | 1         | 0.6%    |
-| Hikvision                    | 1         | 0.6%    |
-| ASint Technology             | 1         | 0.6%    |
+| Samsung Electronics          | 29        | 17.68%  |
+| SK hynix                     | 26        | 15.85%  |
+| Kingston                     | 21        | 12.8%   |
+| Unknown                      | 19        | 11.59%  |
+| Micron Technology            | 12        | 7.32%   |
+| Crucial                      | 10        | 6.1%    |
+| Nanya Technology             | 6         | 3.66%   |
+| Team                         | 5         | 3.05%   |
+| Ramaxel Technology           | 4         | 2.44%   |
+| G.Skill                      | 4         | 2.44%   |
+| Corsair                      | 4         | 2.44%   |
+| Teikon                       | 3         | 1.83%   |
+| Smart                        | 3         | 1.83%   |
+| Elpida                       | 3         | 1.83%   |
+| A-DATA Technology            | 3         | 1.83%   |
+| Transcend                    | 2         | 1.22%   |
+| Patriot                      | 2         | 1.22%   |
+| Apacer                       | 2         | 1.22%   |
+| Unknown (0x7F7F7F94FFFFFFFF) | 1         | 0.61%   |
+| Smart Brazil                 | 1         | 0.61%   |
+| SHARETRONIC                  | 1         | 0.61%   |
+| PKI/Kingston                 | 1         | 0.61%   |
+| Hikvision                    | 1         | 0.61%   |
+| ASint Technology             | 1         | 0.61%   |
 
 Memory Model
 ------------
@@ -2534,66 +2533,66 @@ Memory module models
 
 | Model                                                           | Computers | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| Unknown                                                         | 5         | 2.91%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 2         | 1.16%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
-| SK Hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
-| SK Hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
-| SK Hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.16%   |
-| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s           | 2         | 1.16%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.16%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s             | 2         | 1.16%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
-| Nanya RAM NT2GC64B8HA1NS-BE 2GB SODIMM DDR3 1067MT/s            | 2         | 1.16%   |
-| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s            | 2         | 1.16%   |
-| Crucial RAM Module 8GB SODIMM DDR3 1600MT/s                     | 2         | 1.16%   |
-| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s            | 2         | 1.16%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.58%   |
-| Unknown RAM Module 8GB DIMM 1600MT/s                            | 1         | 0.58%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.58%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                     | 1         | 0.58%   |
-| Unknown RAM Module 4GB SODIMM DDR3                              | 1         | 0.58%   |
-| Unknown RAM Module 4GB SODIMM DDR2 800MT/s                      | 1         | 0.58%   |
-| Unknown RAM Module 4GB FB-DIMM DDR2 667MT/s                     | 1         | 0.58%   |
-| Unknown RAM Module 4GB DIMM DDR3 800MT/s                        | 1         | 0.58%   |
-| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                       | 1         | 0.58%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                        | 1         | 0.58%   |
-| Unknown RAM Module 4GB DIMM 400MT/s                             | 1         | 0.58%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                            | 1         | 0.58%   |
-| Unknown RAM Module 2GB SODIMM DDR3                              | 1         | 0.58%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                            | 1         | 0.58%   |
-| Unknown (0x7F7F7F94FFFFFFFF) RAM Module 2GB SODIMM DDR2 667MT/s | 1         | 0.58%   |
-| Transcend RAM Module 2GB DIMM DDR3 1333MT/s                     | 1         | 0.58%   |
-| Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s               | 1         | 0.58%   |
-| Teikon RAM TMT451S6BFR8A-PBHC 4GB SODIMM DDR3 1333MT/s          | 1         | 0.58%   |
-| Teikon RAM TMT41GS6BFR8A-PBSC 8GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| Teikon RAM TMT225S6FR8C-H9HC 2GB SODIMM DDR3 1334MT/s           | 1         | 0.58%   |
-| Team RAM TEAMGROUP-UD4-2666 8GB DIMM DDR4 2667MT/s              | 1         | 0.58%   |
-| Team RAM TEAMGROUP-SD3-1066 4GB SODIMM DDR3 1067MT/s            | 1         | 0.58%   |
-| Team RAM Elite-1333 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.58%   |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s           | 1         | 0.58%   |
-| Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s           | 1         | 0.58%   |
-| Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s           | 1         | 0.58%   |
-| Smart Brazil RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2133MT/s    | 1         | 0.58%   |
-| SK Hynix RAM Module 8GB SODIMM DDR4 2400MT/s                    | 1         | 0.58%   |
-| SK Hynix RAM Module 8GB Row Of Chips LPDDR3 1600MT/s            | 1         | 0.58%   |
-| SK Hynix RAM Module 4GB SODIMM DDR3 1067MT/s                    | 1         | 0.58%   |
-| SK Hynix RAM Module 2GB SODIMM DDR3 1600MT/s                    | 1         | 0.58%   |
-| SK Hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s            | 1         | 0.58%   |
-| SK Hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s            | 1         | 0.58%   |
-| SK Hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1333MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 0.58%   |
-| SK Hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
+| Unknown                                                         | 19        | 11.18%  |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.18%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.18%   |
+| SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.18%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.18%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.18%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.18%   |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 1.18%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.18%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.18%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.18%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.18%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s             | 2         | 1.18%   |
+| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s           | 2         | 1.18%   |
+| Nanya RAM NT2GC64B8HA1NS-BE 2GB SODIMM DDR3 1067MT/s            | 2         | 1.18%   |
+| Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s            | 2         | 1.18%   |
+| Crucial RAM Module 8GB SODIMM DDR3 1600MT/s                     | 2         | 1.18%   |
+| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s            | 2         | 1.18%   |
+| Unknown (0x7F7F7F94FFFFFFFF) RAM Module 2GB SODIMM DDR2 667MT/s | 1         | 0.59%   |
+| Transcend RAM Module 2GB DIMM DDR3 1333MT/s                     | 1         | 0.59%   |
+| Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s               | 1         | 0.59%   |
+| Teikon RAM TMT451S6BFR8A-PBHC 4GB SODIMM DDR3 1333MT/s          | 1         | 0.59%   |
+| Teikon RAM TMT41GS6BFR8A-PBSC 8GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| Teikon RAM TMT225S6FR8C-H9HC 2GB SODIMM DDR3 1334MT/s           | 1         | 0.59%   |
+| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s             | 1         | 0.59%   |
+| Team RAM TEAMGROUP-SD3-1066 4GB SODIMM DDR3 1067MT/s            | 1         | 0.59%   |
+| Team RAM Elite-1333 4GB SODIMM DDR3 1333MT/s                    | 1         | 0.59%   |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s           | 1         | 0.59%   |
+| Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s           | 1         | 0.59%   |
+| Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s           | 1         | 0.59%   |
+| Smart Brazil RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2133MT/s    | 1         | 0.59%   |
+| SK hynix RAM Module 8GB SODIMM DDR4 2400MT/s                    | 1         | 0.59%   |
+| SK hynix RAM Module 8GB Row Of Chips LPDDR3 1600MT/s            | 1         | 0.59%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                    | 1         | 0.59%   |
+| SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                    | 1         | 0.59%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s            | 1         | 0.59%   |
+| SK hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s            | 1         | 0.59%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1333MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 0.59%   |
+| SK hynix RAM HMA81GS6MFR8N-UH 8GB SODIMM DDR4 2400MT/s          | 1         | 0.59%   |
+| SHARETRONIC RAM Module 2GB SODIMM DDR3 1600MT/s                 | 1         | 0.59%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                       | 1         | 0.59%   |
+| Samsung RAM Module 2GB SODIMM DDR3 1067MT/s                     | 1         | 0.59%   |
+| Samsung RAM Module 2GB DIMM DDR3 400MT/s                        | 1         | 0.59%   |
+| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                      | 1         | 0.59%   |
+| Samsung RAM M471B5674QH0-YK0 2GB SODIMM DDR3 1600MT/s           | 1         | 0.59%   |
+| Samsung RAM M471B5674-H0-YK0--- 4GB Chip DDR3 1600MT/s          | 1         | 0.59%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s           | 1         | 0.59%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s           | 1         | 0.59%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s           | 1         | 0.59%   |
+| Samsung RAM M471B5273CH0-CF8 4GB SODIMM DDR3 1067MT/s           | 1         | 0.59%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s           | 1         | 0.59%   |
 
 Memory Kind
 -----------
@@ -2641,9 +2640,9 @@ Memory module size
 | Size  | Computers | Percent |
 |-------|-----------|---------|
 | 4096  | 64        | 42.11%  |
-| 8192  | 39        | 25.66%  |
+| 8192  | 38        | 25%     |
 | 2048  | 37        | 24.34%  |
-| 16384 | 10        | 6.58%   |
+| 16384 | 11        | 7.24%   |
 | 32768 | 1         | 0.66%   |
 | 1024  | 1         | 0.66%   |
 
@@ -2657,22 +2656,23 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 48        | 32.88%  |
-| 1333    | 30        | 20.55%  |
-| 1067    | 12        | 8.22%   |
-| 2667    | 10        | 6.85%   |
-| 2400    | 10        | 6.85%   |
-| 2133    | 7         | 4.79%   |
-| 3200    | 5         | 3.42%   |
-| 1334    | 5         | 3.42%   |
-| 667     | 5         | 3.42%   |
-| 2666    | 2         | 1.37%   |
-| 1066    | 2         | 1.37%   |
-| 800     | 2         | 1.37%   |
-| 400     | 2         | 1.37%   |
-| Unknown | 2         | 1.37%   |
+| 1600    | 48        | 32.65%  |
+| 1333    | 28        | 19.05%  |
+| 1067    | 12        | 8.16%   |
+| 2667    | 10        | 6.8%    |
+| 2400    | 10        | 6.8%    |
+| 2133    | 7         | 4.76%   |
+| 1334    | 7         | 4.76%   |
+| 3200    | 5         | 3.4%    |
+| 667     | 5         | 3.4%    |
+| 2666    | 2         | 1.36%   |
+| 1066    | 2         | 1.36%   |
+| 800     | 2         | 1.36%   |
+| 400     | 2         | 1.36%   |
+| Unknown | 2         | 1.36%   |
 | 4267    | 1         | 0.68%   |
 | 3000    | 1         | 0.68%   |
+| 1867    | 1         | 0.68%   |
 | 1200    | 1         | 0.68%   |
 | 533     | 1         | 0.68%   |
 

@@ -629,7 +629,7 @@ Hard drive vendors
 | SanDisk             | 2         | 2      | 8.33%   |
 | Micron Technology   | 2         | 2      | 8.33%   |
 | Intel               | 2         | 2      | 8.33%   |
-| SK Hynix            | 1         | 1      | 4.17%   |
+| SK hynix            | 1         | 1      | 4.17%   |
 | NVMe                | 1         | 1      | 4.17%   |
 | Kingston            | 1         | 1      | 4.17%   |
 | Hitachi             | 1         | 1      | 4.17%   |
@@ -648,7 +648,7 @@ Hard drive models
 | WDC WD3200BEKT-08PVMT1 320GB         | 1         | 4.17%   |
 | WDC PC SN730 SDBQNTY-256G-1001 256GB | 1         | 4.17%   |
 | WDC PC SN520 NVMe 256GB              | 1         | 4.17%   |
-| SK Hynix HFS128G32TNF-N3A0A 128GB    | 1         | 4.17%   |
+| SK hynix HFS128G32TNF-N3A0A 128GB    | 1         | 4.17%   |
 | Seagate ST9640320AS 640GB            | 1         | 4.17%   |
 | Seagate ST9500420AS 500GB            | 1         | 4.17%   |
 | Seagate ST9320423AS 320GB            | 1         | 4.17%   |
@@ -698,7 +698,7 @@ Solid state drive vendors
 | Samsung Electronics | 4         | 4      | 33.33%  |
 | SanDisk             | 2         | 2      | 16.67%  |
 | Micron Technology   | 2         | 2      | 16.67%  |
-| SK Hynix            | 1         | 1      | 8.33%   |
+| SK hynix            | 1         | 1      | 8.33%   |
 | NVMe                | 1         | 1      | 8.33%   |
 | Kingston            | 1         | 1      | 8.33%   |
 | Intel               | 1         | 1      | 8.33%   |
@@ -875,7 +875,7 @@ Storage controller vendors
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
 | Intel                 | 20        | 86.96%  |
-| Sandisk               | 2         | 8.7%    |
+| SanDisk               | 2         | 8.7%    |
 | Realtek Semiconductor | 1         | 4.35%   |
 
 Storage Model
@@ -894,8 +894,8 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                               | 2         | 7.41%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                 | 2         | 7.41%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 2         | 7.41%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 3.7%    |
-| Sandisk PC SN520 NVMe SSD                                                    | 1         | 3.7%    |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 3.7%    |
+| SanDisk PC SN520 NVMe SSD                                                    | 1         | 3.7%    |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 1         | 3.7%    |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                | 1         | 3.7%    |
 | Intel Celeron/Pentium Silver Processor SATA Controller                       | 1         | 3.7%    |
@@ -1607,15 +1607,14 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| SK Hynix            | 6         | 26.09%  |
+| SK hynix            | 6         | 26.09%  |
 | Samsung Electronics | 6         | 26.09%  |
 | Micron Technology   | 3         | 13.04%  |
 | Kingston            | 3         | 13.04%  |
-| Unknown             | 1         | 4.35%   |
+| Unknown             | 2         | 8.7%    |
 | Toshiba             | 1         | 4.35%   |
 | Elpida              | 1         | 4.35%   |
 | Corsair             | 1         | 4.35%   |
-| Unknown             | 1         | 4.35%   |
 
 Memory Model
 ------------
@@ -1627,15 +1626,15 @@ Memory module models
 
 | Model                                                     | Notebooks | Percent |
 |-----------------------------------------------------------|-----------|---------|
-| SK Hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 2         | 8%      |
-| Unknown RAM Module 2GB SODIMM DDR3                        | 1         | 4%      |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s    | 2         | 8%      |
+| Unknown                                                   | 2         | 8%      |
 | Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s      | 1         | 4%      |
 | Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s       | 1         | 4%      |
-| SK Hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 4%      |
-| SK Hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 4%      |
-| SK Hynix RAM HMT125S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s | 1         | 4%      |
-| SK Hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s   | 1         | 4%      |
-| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1333MT/s     | 1         | 4%      |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 4%      |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 4%      |
+| SK hynix RAM HMT125S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s | 1         | 4%      |
+| SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s   | 1         | 4%      |
+| Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s     | 1         | 4%      |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s     | 1         | 4%      |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s     | 1         | 4%      |
@@ -1650,7 +1649,6 @@ Memory module models
 | Kingston RAM 9905428-417.A00LF 8GB SODIMM DDR3 1600MT/s   | 1         | 4%      |
 | Elpida RAM Module 4GB SODIMM LPDDR3 1600MT/s              | 1         | 4%      |
 | Corsair RAM CMSO8GX3M1A1333C9 8GB SODIMM DDR3 1333MT/s    | 1         | 4%      |
-| Unknown                                                   | 1         | 4%      |
 
 Memory Kind
 -----------
@@ -1705,13 +1703,14 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 6         | 35.29%  |
-| 2667    | 4         | 23.53%  |
-| 1333    | 3         | 17.65%  |
-| 3200    | 1         | 5.88%   |
-| 2133    | 1         | 5.88%   |
-| 800     | 1         | 5.88%   |
-| Unknown | 1         | 5.88%   |
+| 1600    | 6         | 33.33%  |
+| 2667    | 4         | 22.22%  |
+| 1333    | 3         | 16.67%  |
+| 3200    | 1         | 5.56%   |
+| 2133    | 1         | 5.56%   |
+| 1334    | 1         | 5.56%   |
+| 800     | 1         | 5.56%   |
+| Unknown | 1         | 5.56%   |
 
 Printers & scanners
 -------------------

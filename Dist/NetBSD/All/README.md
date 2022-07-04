@@ -155,7 +155,7 @@ Total: 71
 |---------------|--------------------------|-------------|-----------------------------------------------------------|--------------|
 | Gigabyte      | X570 AORUS PRO           | Desktop     | [4e7d57df3b](https://bsd-hardware.info/?probe=4e7d57df3b) | Apr 18, 2022 |
 | ASUSTek       | X555LJ                   | Notebook    | [6bf51cc915](https://bsd-hardware.info/?probe=6bf51cc915) | Mar 28, 2022 |
-| Unknown       | Unknown                  | Desktop     | [57765224eb](https://bsd-hardware.info/?probe=57765224eb) | Mar 18, 2022 |
+| Acer          | Aspire A114-33           | Notebook    | [57765224eb](https://bsd-hardware.info/?probe=57765224eb) | Mar 18, 2022 |
 | Gigabyte      | 970A-D3P                 | Desktop     | [fa03bdabb6](https://bsd-hardware.info/?probe=fa03bdabb6) | Mar 15, 2022 |
 | Raspberry ... | Raspberry Pi 4 Model B   | Soc         | [0394e3272e](https://bsd-hardware.info/?probe=0394e3272e) | Mar 03, 2022 |
 | KLLISRE       | X99-B5 V1.0              | Desktop     | [5dea1304b9](https://bsd-hardware.info/?probe=5dea1304b9) | Feb 26, 2022 |
@@ -298,7 +298,7 @@ Desktop Environment
 | Fluxbox      | 4         | 7.69%   |
 | CTWM         | 3         | 5.77%   |
 | MATE         | 2         | 3.85%   |
-| dwm          | 2         | 3.85%   |
+| DWM          | 2         | 3.85%   |
 | Xfwm4        | 1         | 1.92%   |
 | Ratpoison    | 1         | 1.92%   |
 | PekWM        | 1         | 1.92%   |
@@ -401,12 +401,13 @@ Motherboard manufacturer
 
 | Name                    | Computers | Percent |
 |-------------------------|-----------|---------|
-| Unknown                 | 15        | 30%     |
+| Unknown                 | 14        | 28%     |
 | ASUSTek Computer        | 7         | 14%     |
 | Lenovo                  | 5         | 10%     |
 | Gigabyte Technology     | 5         | 10%     |
 | ASRock                  | 3         | 6%      |
 | MSI                     | 2         | 4%      |
+| Acer                    | 2         | 4%      |
 | Toshiba                 | 1         | 2%      |
 | Sony                    | 1         | 2%      |
 | Raspberry Pi Foundation | 1         | 2%      |
@@ -419,7 +420,6 @@ Motherboard manufacturer
 | eMachines               | 1         | 2%      |
 | Dell                    | 1         | 2%      |
 | Apple                   | 1         | 2%      |
-| Acer                    | 1         | 2%      |
 
 Model
 -----
@@ -431,7 +431,7 @@ Motherboard model
 
 | Name                            | Computers | Percent |
 |---------------------------------|-----------|---------|
-| Unknown                         | 15        | 30%     |
+| Unknown                         | 14        | 28%     |
 | ASUS PRIME A320M-K              | 2         | 4%      |
 | Toshiba Satellite A100          | 1         | 2%      |
 | Sony SVF1421DSGW                | 1         | 2%      |
@@ -466,6 +466,7 @@ Motherboard model
 | ASRock 970 Extreme3             | 1         | 2%      |
 | Apple MacBook2,1                | 1         | 2%      |
 | Acer Aspire ES1-132             | 1         | 2%      |
+| Acer Aspire A114-33             | 1         | 2%      |
 
 Model Family
 ------------
@@ -477,9 +478,10 @@ Motherboard model prefix
 
 | Name                  | Computers | Percent |
 |-----------------------|-----------|---------|
-| Unknown               | 15        | 30%     |
+| Unknown               | 14        | 28%     |
 | Lenovo ThinkPad       | 4         | 8%      |
 | ASUS PRIME            | 2         | 4%      |
+| Acer Aspire           | 2         | 4%      |
 | Toshiba Satellite     | 1         | 2%      |
 | Sony SVF1421DSGW      | 1         | 2%      |
 | RPi Raspberry         | 1         | 2%      |
@@ -508,7 +510,6 @@ Motherboard model prefix
 | ASRock N68-VS3        | 1         | 2%      |
 | ASRock 970            | 1         | 2%      |
 | Apple MacBook2        | 1         | 2%      |
-| Acer Aspire           | 1         | 2%      |
 
 MFG Year
 --------
@@ -548,8 +549,8 @@ Physical design of the computer
 
 | Name           | Computers | Percent |
 |----------------|-----------|---------|
-| Desktop        | 33        | 66%     |
-| Notebook       | 15        | 30%     |
+| Desktop        | 32        | 64%     |
+| Notebook       | 16        | 32%     |
 | System on chip | 1         | 2%      |
 | Server         | 1         | 2%      |
 
@@ -767,9 +768,9 @@ Hard drive vendors
 | Seagate             | 4         | 4      | 8.7%    |
 | SanDisk             | 3         | 4      | 6.52%   |
 | Intel               | 3         | 3      | 6.52%   |
-| MAXTOR              | 2         | 2      | 4.35%   |
+| Maxtor              | 2         | 2      | 4.35%   |
 | Hitachi             | 2         | 3      | 4.35%   |
-| SK Hynix            | 1         | 2      | 2.17%   |
+| SK hynix            | 1         | 2      | 2.17%   |
 | Lexar               | 1         | 1      | 2.17%   |
 | JetFlash            | 1         | 1      | 2.17%   |
 | HGST                | 1         | 1      | 2.17%   |
@@ -792,7 +793,7 @@ Hard drive models
 | Toshiba DT01ACA100 1TB            | 3         | 6.38%   |
 | Samsung SSD 860 EVO 500GB         | 2         | 4.26%   |
 | Samsung HD103UJ 1TB               | 2         | 4.26%   |
-| MAXTOR STM3250310AS 250GB         | 2         | 4.26%   |
+| Maxtor STM3250310AS 250GB         | 2         | 4.26%   |
 | Kingston DataTraveler 3.0 32GB    | 2         | 4.26%   |
 | WDC WDS240G2G0A-00JH30 240GB      | 1         | 2.13%   |
 | WDC WDS120G2G0A-00JH30 120GB      | 1         | 2.13%   |
@@ -805,7 +806,7 @@ Hard drive models
 | WDC WD1600BEVT-00A23T0 160GB      | 1         | 2.13%   |
 | WDC WD10EZEX-60WN4A0 1TB          | 1         | 2.13%   |
 | Toshiba DT01ACA200 2TB            | 1         | 2.13%   |
-| SK Hynix HFS128G39TND-N210A 128GB | 1         | 2.13%   |
+| SK hynix HFS128G39TND-N210A 128GB | 1         | 2.13%   |
 | Seagate ST500VT000-1DK142 500GB   | 1         | 2.13%   |
 | Seagate ST500LT012-9WS142 500GB   | 1         | 2.13%   |
 | Seagate ST380011A 80GB            | 1         | 2.13%   |
@@ -826,7 +827,7 @@ Hard drive models
 | Hitachi HTS548040M9AT00 40GB      | 1         | 2.13%   |
 | HGST HTS545050A7E680 500GB        | 1         | 2.13%   |
 | HP v100w 8GB                      | 1         | 2.13%   |
-| Generic Flash Disk 32GB           | 1         | 2.13%   |
+| Generic Flash Disk 2GB            | 1         | 2.13%   |
 | Dell PERC H710P 8TB               | 1         | 2.13%   |
 | Crucial CT1000BX500SSD1 1TB       | 1         | 2.13%   |
 | China SATA SSD 120GB              | 1         | 2.13%   |
@@ -845,7 +846,7 @@ Hard disk drive vendors
 | Toshiba             | 4         | 5      | 13.79%  |
 | Seagate             | 4         | 4      | 13.79%  |
 | Samsung Electronics | 3         | 3      | 10.34%  |
-| MAXTOR              | 2         | 2      | 6.9%    |
+| Maxtor              | 2         | 2      | 6.9%    |
 | Hitachi             | 2         | 3      | 6.9%    |
 | Lexar               | 1         | 1      | 3.45%   |
 | JetFlash            | 1         | 1      | 3.45%   |
@@ -869,7 +870,7 @@ Solid state drive vendors
 | Intel               | 3         | 3      | 16.67%  |
 | WDC                 | 2         | 2      | 11.11%  |
 | Samsung Electronics | 2         | 2      | 11.11%  |
-| SK Hynix            | 1         | 2      | 5.56%   |
+| SK hynix            | 1         | 2      | 5.56%   |
 | Crucial             | 1         | 2      | 5.56%   |
 | China               | 1         | 1      | 5.56%   |
 
@@ -964,7 +965,7 @@ Drive models with a malfunction
 |-----------------------------------|-----------|--------|---------|
 | WDC WDS240G2G0A-00JH30 240GB      | 1         | 1      | 9.09%   |
 | WDC WD10EZEX-60WN4A0 1TB          | 1         | 1      | 9.09%   |
-| SK Hynix HFS128G39TND-N210A 128GB | 1         | 1      | 9.09%   |
+| SK hynix HFS128G39TND-N210A 128GB | 1         | 1      | 9.09%   |
 | Seagate ST500VT000-1DK142 500GB   | 1         | 1      | 9.09%   |
 | Seagate ST500LT012-9WS142 500GB   | 1         | 1      | 9.09%   |
 | Seagate ST2000DL003-9VT166 2TB    | 1         | 1      | 9.09%   |
@@ -988,7 +989,7 @@ Vendors of faulty drives
 | Intel    | 3         | 3      | 27.27%  |
 | WDC      | 2         | 2      | 18.18%  |
 | Hitachi  | 2         | 3      | 18.18%  |
-| SK Hynix | 1         | 1      | 9.09%   |
+| SK hynix | 1         | 1      | 9.09%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1061,7 +1062,7 @@ Storage controller vendors
 | Intel               | 31        | 56.36%  |
 | AMD                 | 12        | 21.82%  |
 | Silicon Motion      | 3         | 5.45%   |
-| Sandisk             | 2         | 3.64%   |
+| SanDisk             | 2         | 3.64%   |
 | Samsung Electronics | 2         | 3.64%   |
 | VIA Technologies    | 1         | 1.82%   |
 | Phison Electronics  | 1         | 1.82%   |
@@ -1085,7 +1086,7 @@ Storage controller models
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 3         | 4.76%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]     | 3         | 4.76%   |
 | AMD 400 Series Chipset SATA Controller                                           | 3         | 4.76%   |
-| Sandisk WD Blue SN550 NVMe SSD                                                   | 2         | 3.17%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 3.17%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 2         | 3.17%   |
 | Intel 82801DBM (ICH4-M) IDE Controller                                           | 2         | 3.17%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                             | 2         | 3.17%   |
@@ -1994,7 +1995,7 @@ Memory module vendors
 | Crucial             | 4         | 10.53%  |
 | G.Skill             | 3         | 7.89%   |
 | Patriot             | 2         | 5.26%   |
-| SK Hynix            | 1         | 2.63%   |
+| SK hynix            | 1         | 2.63%   |
 | SHARETRONIC         | 1         | 2.63%   |
 | Ramaxel Technology  | 1         | 2.63%   |
 | Nanya Technology    | 1         | 2.63%   |
@@ -2011,47 +2012,39 @@ Memory module models
 
 | Model                                                      | Computers | Percent |
 |------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 8192MB DIMM 400MT/s                     | 1         | 2.44%   |
-| Unknown RAM Module 512MB SODIMM DRAM 166MT/s               | 1         | 2.44%   |
-| Unknown RAM Module 512MB SODIMM DDR2 533MT/s               | 1         | 2.44%   |
-| Unknown RAM Module 2GB SODIMM DDR3                         | 1         | 2.44%   |
-| Unknown RAM Module 256MB SODIMM DDR                        | 1         | 2.44%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                | 1         | 2.44%   |
-| Unknown RAM Module 2048MB DIMM 400MT/s                     | 1         | 2.44%   |
-| Unknown RAM Module 128MB DIMM DRAM                         | 1         | 2.44%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM 266MT/s             | 1         | 2.44%   |
-| SK Hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s     | 1         | 2.44%   |
-| SHARETRONIC RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1         | 2.44%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s      | 1         | 2.44%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s      | 1         | 2.44%   |
-| Samsung RAM M386B4G70DM0-YK04 32GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Samsung RAM M386B4G70DM0-YK03 32GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s    | 1         | 2.44%   |
-| Patriot RAM PSD44G213382 4096MB DIMM DDR4 2133MT/s         | 1         | 2.44%   |
-| Patriot RAM PSD34G13332 4GB DIMM DDR3 1333MT/s             | 1         | 2.44%   |
-| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s       | 1         | 2.44%   |
-| Micron RAM Module 8GB Chip LPDDR4                          | 1         | 2.44%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s       | 1         | 2.44%   |
-| Micron RAM 16JSF51264HZ-1G1D1 4GB SODIMM DDR3 1067MT/s     | 1         | 2.44%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s          | 1         | 2.44%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 1         | 2.44%   |
-| Kingston RAM ACR16D3LS1KFG/4G 4096MB DIMM DDR3 1600MT/s    | 1         | 2.44%   |
-| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s | 1         | 2.44%   |
-| Kingston RAM 99U5701-077.A00G 16GB DIMM DDR4 2667MT/s      | 1         | 2.44%   |
-| Kingston RAM 99U5471-028.A00LF 4GB DIMM DDR3 667MT/s       | 1         | 2.44%   |
-| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1333MT/s      | 1         | 2.44%   |
-| Kingston RAM 9905428-026.A02LF 2048MB SODIMM DDR3 1066MT/s | 1         | 2.44%   |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s       | 1         | 2.44%   |
-| G.Skill RAM F4-2800C17-8GVR 8192MB DIMM DDR4 2133MT/s      | 1         | 2.44%   |
-| G.Skill RAM F3-1600C11-8G 8GB DIMM DDR3 1600MT/s           | 1         | 2.44%   |
-| Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s       | 1         | 2.44%   |
-| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s      | 1         | 2.44%   |
-| Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s      | 1         | 2.44%   |
-| Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s            | 1         | 2.44%   |
-| A-DATA RAM Module 8GB DIMM DDR4 2666MT/s                   | 1         | 2.44%   |
+| Unknown                                                    | 8         | 20%     |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s     | 1         | 2.5%    |
+| SHARETRONIC RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1         | 2.5%    |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s      | 1         | 2.5%    |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s      | 1         | 2.5%    |
+| Samsung RAM M386B4G70DM0-YK04 32GB DIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Samsung RAM M386B4G70DM0-YK03 32GB DIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s    | 1         | 2.5%    |
+| Patriot RAM PSD44G213382 4096MB DIMM DDR4 2133MT/s         | 1         | 2.5%    |
+| Patriot RAM PSD34G13332 4GB DIMM DDR3 1333MT/s             | 1         | 2.5%    |
+| Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s       | 1         | 2.5%    |
+| Micron RAM Module 8GB Chip LPDDR4                          | 1         | 2.5%    |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s       | 1         | 2.5%    |
+| Micron RAM 16JSF51264HZ-1G1D1 4GB SODIMM DDR3 1067MT/s     | 1         | 2.5%    |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s          | 1         | 2.5%    |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s        | 1         | 2.5%    |
+| Kingston RAM ACR16D3LS1KFG/4G 4096MB DIMM DDR3 1600MT/s    | 1         | 2.5%    |
+| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s | 1         | 2.5%    |
+| Kingston RAM 99U5701-077.A00G 16GB DIMM DDR4 2667MT/s      | 1         | 2.5%    |
+| Kingston RAM 99U5471-028.A00LF 4GB DIMM DDR3 667MT/s       | 1         | 2.5%    |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1333MT/s      | 1         | 2.5%    |
+| Kingston RAM 9905428-026.A02LF 2048MB SODIMM DDR3 1066MT/s | 1         | 2.5%    |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s       | 1         | 2.5%    |
+| G.Skill RAM F4-2800C17-8GVR 8192MB DIMM DDR4 2133MT/s      | 1         | 2.5%    |
+| G.Skill RAM F3-1600C11-8G 8GB DIMM DDR3 1600MT/s           | 1         | 2.5%    |
+| Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s       | 1         | 2.5%    |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s      | 1         | 2.5%    |
+| Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s      | 1         | 2.5%    |
+| Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s            | 1         | 2.5%    |
+| A-DATA RAM Module 8GB DIMM DDR4 2666MT/s                   | 1         | 2.5%    |
 
 Memory Kind
 -----------

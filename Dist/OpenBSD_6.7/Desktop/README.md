@@ -155,11 +155,11 @@ Total: 29
 | Dell       | OptiPlex 745                | [6de04c2c9c](https://bsd-hardware.info/?probe=6de04c2c9c) | Aug 14, 2020 |
 | PC Engines | apu4                        | [f0f8a22656](https://bsd-hardware.info/?probe=f0f8a22656) | Aug 05, 2020 |
 | Intel      | ChiefRiver                  | [022d2761b9](https://bsd-hardware.info/?probe=022d2761b9) | Aug 03, 2020 |
-| PC Engines | apu3                        | [1eaf8a1484](https://bsd-hardware.info/?probe=1eaf8a1484) | Aug 03, 2020 |
+| PC Engines | APU3                        | [1eaf8a1484](https://bsd-hardware.info/?probe=1eaf8a1484) | Aug 03, 2020 |
 | PC Engines | APU3                        | [4980462667](https://bsd-hardware.info/?probe=4980462667) | Aug 03, 2020 |
 | PC Engines | APU3                        | [975e23e09d](https://bsd-hardware.info/?probe=975e23e09d) | Aug 03, 2020 |
 | Shuttle    | DS437                       | [aa350b6b92](https://bsd-hardware.info/?probe=aa350b6b92) | Aug 03, 2020 |
-| PC Engines | apu2                        | [fe5c2f4838](https://bsd-hardware.info/?probe=fe5c2f4838) | Aug 03, 2020 |
+| PC Engines | APU2                        | [fe5c2f4838](https://bsd-hardware.info/?probe=fe5c2f4838) | Aug 03, 2020 |
 | Lenovo     | ThinkCentre M92p 3212AD2    | [ca76cc5467](https://bsd-hardware.info/?probe=ca76cc5467) | Jul 30, 2020 |
 | ASRock     | E350M1                      | [08eec78cdf](https://bsd-hardware.info/?probe=08eec78cdf) | Jul 25, 2020 |
 | Pegatron   | 2A73                        | [05dea28605](https://bsd-hardware.info/?probe=05dea28605) | Jul 21, 2020 |
@@ -334,7 +334,7 @@ Motherboard model
 | Shuttle DS437                     | 1        | 3.85%   |
 | Protectli FW6                     | 1        | 3.85%   |
 | Pegatron Compaq dx2400 Microtower | 1        | 3.85%   |
-| PC Engines apu2                   | 1        | 3.85%   |
+| PC Engines APU2                   | 1        | 3.85%   |
 | Lenovo ThinkCentre M92p 3212AD2   | 1        | 3.85%   |
 | Intel ChiefRiver                  | 1        | 3.85%   |
 | IBM 81832BG                       | 1        | 3.85%   |
@@ -363,7 +363,7 @@ Motherboard model prefix
 | Shuttle DS437      | 1        | 3.85%   |
 | Protectli FW6      | 1        | 3.85%   |
 | Pegatron Compaq    | 1        | 3.85%   |
-| PC Engines apu2    | 1        | 3.85%   |
+| PC Engines APU2    | 1        | 3.85%   |
 | Lenovo ThinkCentre | 1        | 3.85%   |
 | Intel ChiefRiver   | 1        | 3.85%   |
 | IBM 81832BG        | 1        | 3.85%   |
@@ -1513,8 +1513,7 @@ Memory module models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 512MB DIMM SDRAM                   | 1        | 25%     |
-| Unknown RAM Module 1024MB DIMM DDR                    | 1        | 25%     |
+| Unknown                                               | 2        | 50%     |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1        | 25%     |
 | Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1        | 25%     |
 

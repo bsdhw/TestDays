@@ -686,7 +686,7 @@ Hard drive vendors
 | SanDisk             | 2         | 3      | 6.45%   |
 | Kingston            | 2         | 2      | 6.45%   |
 | WDC                 | 1         | 1      | 3.23%   |
-| SK Hynix            | 1         | 3      | 3.23%   |
+| SK hynix            | 1         | 3      | 3.23%   |
 | Silicon Motion      | 1         | 1      | 3.23%   |
 | HGST                | 1         | 1      | 3.23%   |
 | Fujitsu             | 1         | 1      | 3.23%   |
@@ -711,7 +711,7 @@ Hard drive models
 | Toshiba THNSF5256GCJ7 256GB      | 1         | 3.23%   |
 | Toshiba MQ01ABF050 500GB         | 1         | 3.23%   |
 | Toshiba MQ01ABD100 1TB           | 1         | 3.23%   |
-| SK Hynix BC501 NVMe 512GB        | 1         | 3.23%   |
+| SK hynix BC501 NVMe 512GB        | 1         | 3.23%   |
 | Silicon Motion Aura Pro X2 960GB | 1         | 3.23%   |
 | Seagate ST9500325AS 500GB        | 1         | 3.23%   |
 | Seagate ST9250315ASG 250GB       | 1         | 3.23%   |
@@ -1722,12 +1722,12 @@ Memory module vendors
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
 | Samsung Electronics | 17        | 51.52%  |
-| SK Hynix            | 6         | 18.18%  |
+| SK hynix            | 6         | 18.18%  |
 | Micron Technology   | 3         | 9.09%   |
 | Kingston            | 3         | 9.09%   |
 | Crucial             | 2         | 6.06%   |
-| Unknown             | 1         | 3.03%   |
 | Corsair             | 1         | 3.03%   |
+| Unknown             | 1         | 3.03%   |
 
 Memory Model
 ------------
@@ -1739,13 +1739,12 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s               | 1         | 2.78%   |
-| SK Hynix RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
-| SK Hynix RAM Module 4GB SODIMM DDR3 1067MT/s                 | 1         | 2.78%   |
-| SK Hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
-| SK Hynix RAM Module 2GB DDR3 1600MT/s                        | 1         | 2.78%   |
-| SK Hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
-| SK Hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
+| SK hynix RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                 | 1         | 2.78%   |
+| SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
+| SK hynix RAM Module 2GB DDR3 1600MT/s                        | 1         | 2.78%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 2.78%   |
+| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 2.78%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1600MT/s                  | 1         | 2.78%   |
 | Samsung RAM Module 2GB SODIMM DDR3 1067MT/s                  | 1         | 2.78%   |
 | Samsung RAM Module 2GB SODIMM 667MT/s                        | 1         | 2.78%   |
@@ -1775,6 +1774,7 @@ Memory module models
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | Crucial RAM CT102464BF1339.M16 8GB SODIMM DDR3 1333MT/s      | 1         | 2.78%   |
 | Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
+| Unknown                                                      | 1         | 2.78%   |
 
 Memory Kind
 -----------

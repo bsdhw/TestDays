@@ -185,8 +185,8 @@ Total: 255
 | ASUSTek       | X102BA                      | Notebook    | [529baeb345](https://bsd-hardware.info/?probe=529baeb345) | Feb 20, 2021 |
 | ASUSTek       | X102BA                      | Notebook    | [65f1904b56](https://bsd-hardware.info/?probe=65f1904b56) | Feb 20, 2021 |
 | PC Engines    | apu4                        | Desktop     | [b30884fc0e](https://bsd-hardware.info/?probe=b30884fc0e) | Feb 18, 2021 |
-| PC Engines    | apu3                        | Desktop     | [449967354c](https://bsd-hardware.info/?probe=449967354c) | Feb 18, 2021 |
-| PC Engines    | apu2                        | Desktop     | [b911e3bec2](https://bsd-hardware.info/?probe=b911e3bec2) | Feb 18, 2021 |
+| PC Engines    | APU3                        | Desktop     | [449967354c](https://bsd-hardware.info/?probe=449967354c) | Feb 18, 2021 |
+| PC Engines    | APU2                        | Desktop     | [b911e3bec2](https://bsd-hardware.info/?probe=b911e3bec2) | Feb 18, 2021 |
 | Shuttle       | DS77U                       | Desktop     | [2d0bd0e99a](https://bsd-hardware.info/?probe=2d0bd0e99a) | Feb 14, 2021 |
 | Dell          | Inspiron 1000               | Notebook    | [104175ae13](https://bsd-hardware.info/?probe=104175ae13) | Feb 13, 2021 |
 | Sony          | VPCX115KX                   | Notebook    | [fef3d94e6c](https://bsd-hardware.info/?probe=fef3d94e6c) | Feb 12, 2021 |
@@ -273,7 +273,7 @@ Total: 255
 | Lenovo        | ThinkPad W530 2436CTO       | Notebook    | [ded161fe2e](https://bsd-hardware.info/?probe=ded161fe2e) | Oct 31, 2020 |
 | Lenovo        | ThinkPad W530 2436CTO       | Notebook    | [e108d4a375](https://bsd-hardware.info/?probe=e108d4a375) | Oct 31, 2020 |
 | ASUSTek       | X102BA                      | Notebook    | [9156250b96](https://bsd-hardware.info/?probe=9156250b96) | Oct 31, 2020 |
-| PC Engines    | apu2                        | Desktop     | [e0361ddbad](https://bsd-hardware.info/?probe=e0361ddbad) | Oct 31, 2020 |
+| PC Engines    | APU2                        | Desktop     | [e0361ddbad](https://bsd-hardware.info/?probe=e0361ddbad) | Oct 31, 2020 |
 | Intel         | NUC7i5BNH                   | Mini pc     | [ea59613cff](https://bsd-hardware.info/?probe=ea59613cff) | Oct 31, 2020 |
 | ASUSTek       | B75M-A                      | Desktop     | [43ece33e8c](https://bsd-hardware.info/?probe=43ece33e8c) | Oct 31, 2020 |
 | Intel         | D945GCLF2                   | Desktop     | [58678b0643](https://bsd-hardware.info/?probe=58678b0643) | Oct 30, 2020 |
@@ -290,7 +290,7 @@ Total: 255
 | Shuttle       | DS77U                       | Desktop     | [c70e526574](https://bsd-hardware.info/?probe=c70e526574) | Oct 27, 2020 |
 | Intel         | NUC5CPYB                    | Mini pc     | [1ec5c12f0b](https://bsd-hardware.info/?probe=1ec5c12f0b) | Oct 27, 2020 |
 | Lenovo        | ThinkPad T450 20BV0005US    | Notebook    | [603e66300a](https://bsd-hardware.info/?probe=603e66300a) | Oct 27, 2020 |
-| PC Engines    | apu2                        | Desktop     | [ce4c41d466](https://bsd-hardware.info/?probe=ce4c41d466) | Oct 26, 2020 |
+| PC Engines    | APU2                        | Desktop     | [ce4c41d466](https://bsd-hardware.info/?probe=ce4c41d466) | Oct 26, 2020 |
 | Dell          | PowerEdge R230              | Desktop     | [1422e9737b](https://bsd-hardware.info/?probe=1422e9737b) | Oct 26, 2020 |
 | Supermicro    | X8STi                       | Desktop     | [1b64902781](https://bsd-hardware.info/?probe=1b64902781) | Oct 26, 2020 |
 | HP            | 120-1136                    | Desktop     | [12f3eb0227](https://bsd-hardware.info/?probe=12f3eb0227) | Oct 25, 2020 |
@@ -313,7 +313,7 @@ Total: 255
 | ASRock        | DN2800MT                    | Desktop     | [b475aa2ead](https://bsd-hardware.info/?probe=b475aa2ead) | Oct 21, 2020 |
 | Intel         | D2500HN                     | Desktop     | [6dbc4dfa33](https://bsd-hardware.info/?probe=6dbc4dfa33) | Oct 21, 2020 |
 | Intel         | CRESCENTBAY                 | Desktop     | [42d114559b](https://bsd-hardware.info/?probe=42d114559b) | Oct 21, 2020 |
-| PC Engines    | apu2                        | Desktop     | [d1ca549fe7](https://bsd-hardware.info/?probe=d1ca549fe7) | Oct 21, 2020 |
+| PC Engines    | APU2                        | Desktop     | [d1ca549fe7](https://bsd-hardware.info/?probe=d1ca549fe7) | Oct 21, 2020 |
 | Lenovo        | ThinkPad X230 2325AJ9       | Notebook    | [176044b6b8](https://bsd-hardware.info/?probe=176044b6b8) | Oct 21, 2020 |
 | Lenovo        | ThinkPad S5-S540 20B3001... | Notebook    | [7e6cb69989](https://bsd-hardware.info/?probe=7e6cb69989) | Oct 21, 2020 |
 | Dell          | Latitude C400               | Notebook    | [1dcc5e7972](https://bsd-hardware.info/?probe=1dcc5e7972) | Oct 21, 2020 |
@@ -328,7 +328,7 @@ Total: 255
 | Lenovo        | ThinkPad X230 2325R74       | Notebook    | [1cc3cc20e8](https://bsd-hardware.info/?probe=1cc3cc20e8) | Oct 21, 2020 |
 | Gigabyte      | GA-MA770T-UD3P              | Desktop     | [2cb76e5886](https://bsd-hardware.info/?probe=2cb76e5886) | Oct 21, 2020 |
 | Lenovo        | ThinkPad T430 2347GZU       | Notebook    | [f287de215c](https://bsd-hardware.info/?probe=f287de215c) | Oct 20, 2020 |
-| PC Engines    | apu2                        | Desktop     | [e6ee8a14d5](https://bsd-hardware.info/?probe=e6ee8a14d5) | Oct 20, 2020 |
+| PC Engines    | APU2                        | Desktop     | [e6ee8a14d5](https://bsd-hardware.info/?probe=e6ee8a14d5) | Oct 20, 2020 |
 | ASUSTek       | Z170-K                      | Desktop     | [19cb3ccc34](https://bsd-hardware.info/?probe=19cb3ccc34) | Oct 20, 2020 |
 | Lenovo        | ThinkPad X230 2325Y36       | Notebook    | [b2e65dd4c5](https://bsd-hardware.info/?probe=b2e65dd4c5) | Oct 20, 2020 |
 | Intel         | S3000AH                     | Desktop     | [f5b858601a](https://bsd-hardware.info/?probe=f5b858601a) | Oct 20, 2020 |
@@ -361,9 +361,9 @@ Total: 255
 | PC Engines    | APU                         | Desktop     | [0cf4f6a5f9](https://bsd-hardware.info/?probe=0cf4f6a5f9) | Oct 19, 2020 |
 | Lenovo        | SHARKBAY WIN                | Desktop     | [53feb1fec6](https://bsd-hardware.info/?probe=53feb1fec6) | Oct 19, 2020 |
 | ASRock        | IMB-191                     | Desktop     | [4ac9e9cf2a](https://bsd-hardware.info/?probe=4ac9e9cf2a) | Oct 19, 2020 |
-| PC Engines    | apu2                        | Desktop     | [064e7167a0](https://bsd-hardware.info/?probe=064e7167a0) | Oct 19, 2020 |
+| PC Engines    | APU2                        | Desktop     | [064e7167a0](https://bsd-hardware.info/?probe=064e7167a0) | Oct 19, 2020 |
 | Dell          | OptiPlex 3060               | Desktop     | [13992dbb10](https://bsd-hardware.info/?probe=13992dbb10) | Oct 19, 2020 |
-| PC Engines    | apu2                        | Desktop     | [a5b1c3a559](https://bsd-hardware.info/?probe=a5b1c3a559) | Oct 19, 2020 |
+| PC Engines    | APU2                        | Desktop     | [a5b1c3a559](https://bsd-hardware.info/?probe=a5b1c3a559) | Oct 19, 2020 |
 | Acer          | Aspire 5251                 | Notebook    | [da9ebcf25e](https://bsd-hardware.info/?probe=da9ebcf25e) | Oct 19, 2020 |
 | Lenovo        | ThinkPad X1 Carbon 2nd 2... | Notebook    | [857f9809b7](https://bsd-hardware.info/?probe=857f9809b7) | Oct 19, 2020 |
 | Dell          | PowerEdge T320              | Desktop     | [75c395f941](https://bsd-hardware.info/?probe=75c395f941) | Oct 19, 2020 |
@@ -372,7 +372,7 @@ Total: 255
 | Dell          | PowerEdge R610              | Desktop     | [2ea539bbd3](https://bsd-hardware.info/?probe=2ea539bbd3) | Oct 19, 2020 |
 | Dell          | OptiPlex 7020               | Desktop     | [293e6af35e](https://bsd-hardware.info/?probe=293e6af35e) | Oct 19, 2020 |
 | Lenovo        | ThinkPad X270 20HNA004CD    | Notebook    | [79160b17c4](https://bsd-hardware.info/?probe=79160b17c4) | Oct 19, 2020 |
-| PC Engines    | apu2                        | Desktop     | [2ab3051cb8](https://bsd-hardware.info/?probe=2ab3051cb8) | Oct 19, 2020 |
+| PC Engines    | APU2                        | Desktop     | [2ab3051cb8](https://bsd-hardware.info/?probe=2ab3051cb8) | Oct 19, 2020 |
 | PC Engines    | apu4                        | Desktop     | [f0116986e0](https://bsd-hardware.info/?probe=f0116986e0) | Oct 19, 2020 |
 | IBM           | Board                       | Desktop     | [af2f64a7a8](https://bsd-hardware.info/?probe=af2f64a7a8) | Oct 19, 2020 |
 | ASUSTek       | X102BA                      | Notebook    | [47e04c9378](https://bsd-hardware.info/?probe=47e04c9378) | Oct 19, 2020 |
@@ -386,8 +386,8 @@ Total: 255
 | Lenovo        | ThinkPad T480 20L6S4GR02    | Notebook    | [6c2d8a57ea](https://bsd-hardware.info/?probe=6c2d8a57ea) | Oct 19, 2020 |
 | ASUSTek       | PRIME X570-P                | Desktop     | [b33e2a5177](https://bsd-hardware.info/?probe=b33e2a5177) | Oct 19, 2020 |
 | PC Engines    | apu1                        | Desktop     | [576f4db9e1](https://bsd-hardware.info/?probe=576f4db9e1) | Oct 19, 2020 |
-| PC Engines    | apu2                        | Desktop     | [e4030e5ee2](https://bsd-hardware.info/?probe=e4030e5ee2) | Oct 19, 2020 |
-| PC Engines    | apu2                        | Desktop     | [ca0480a30d](https://bsd-hardware.info/?probe=ca0480a30d) | Oct 19, 2020 |
+| PC Engines    | APU2                        | Desktop     | [e4030e5ee2](https://bsd-hardware.info/?probe=e4030e5ee2) | Oct 19, 2020 |
+| PC Engines    | APU2                        | Desktop     | [ca0480a30d](https://bsd-hardware.info/?probe=ca0480a30d) | Oct 19, 2020 |
 | Bluechip C... | bluechip BUSINESSline Wo... | Desktop     | [6dc86d6a5b](https://bsd-hardware.info/?probe=6dc86d6a5b) | Oct 19, 2020 |
 | Unknown       | Unknown                     | Notebook    | [fd77b4658f](https://bsd-hardware.info/?probe=fd77b4658f) | Oct 19, 2020 |
 | Apple         | MacBookAir6,2               | Notebook    | [9f80fdafb0](https://bsd-hardware.info/?probe=9f80fdafb0) | Oct 19, 2020 |
@@ -553,8 +553,8 @@ Motherboard manufacturer
 | Hewlett-Packard                | 9         | 4.33%   |
 | Gigabyte Technology            | 8         | 3.85%   |
 | ASRock                         | 8         | 3.85%   |
+| Unknown                        | 8         | 3.85%   |
 | Intel                          | 7         | 3.37%   |
-| Unknown                        | 7         | 3.37%   |
 | IBM                            | 5         | 2.4%    |
 | Supermicro                     | 4         | 1.92%   |
 | MSI                            | 4         | 1.92%   |
@@ -565,7 +565,6 @@ Motherboard manufacturer
 | Soekris Engineering            | 2         | 0.96%   |
 | Raspberry Pi Foundation        | 2         | 0.96%   |
 | ZOTAC                          | 1         | 0.48%   |
-| Unknown                        | 1         | 0.48%   |
 | Shuttle                        | 1         | 0.48%   |
 | Pegatron                       | 1         | 0.48%   |
 | Microsoft                      | 1         | 0.48%   |
@@ -614,7 +613,7 @@ Motherboard model
 | Soekris Engineering net5501                 | 1         | 0.48%   |
 | Shuttle DS77U                               | 1         | 0.48%   |
 | Pegatron SKLD4-P1                           | 1         | 0.48%   |
-| PC Engines apu3                             | 1         | 0.48%   |
+| PC Engines APU3                             | 1         | 0.48%   |
 | PC Engines APU                              | 1         | 0.48%   |
 | Panasonic CF-C1BT02EGE                      | 1         | 0.48%   |
 | Panasonic CF-52PFPBSFQ                      | 1         | 0.48%   |
@@ -663,7 +662,7 @@ Motherboard model prefix
 | Name                                        | Computers | Percent |
 |---------------------------------------------|-----------|---------|
 | Lenovo ThinkPad                             | 43        | 20.67%  |
-| PC Engines apu2                             | 13        | 6.25%   |
+| PC Engines APU2                             | 13        | 6.25%   |
 | Unknown                                     | 10        | 4.81%   |
 | Dell PowerEdge                              | 8         | 3.85%   |
 | ASUS PRIME                                  | 6         | 2.88%   |
@@ -692,7 +691,7 @@ Motherboard model prefix
 | Soekris Engineering net5501                 | 1         | 0.48%   |
 | Shuttle DS77U                               | 1         | 0.48%   |
 | Pegatron SKLD4-P1                           | 1         | 0.48%   |
-| PC Engines apu3                             | 1         | 0.48%   |
+| PC Engines APU3                             | 1         | 0.48%   |
 | PC Engines APU                              | 1         | 0.48%   |
 | Panasonic CF-C1BT02EGE                      | 1         | 0.48%   |
 | Panasonic CF-52PFPBSFQ                      | 1         | 0.48%   |
@@ -1060,9 +1059,9 @@ Hard drive vendors
 | Zheino              | 1         | 1      | 0.36%   |
 | UFD 2.0             | 1         | 1      | 0.36%   |
 | SPCC                | 1         | 1      | 0.36%   |
-| SK Hynix            | 1         | 1      | 0.36%   |
+| SK hynix            | 1         | 1      | 0.36%   |
 | SABRENT             | 1         | 1      | 0.36%   |
-| QUMO                | 1         | 1      | 0.36%   |
+| Qumo                | 1         | 1      | 0.36%   |
 | OCZ                 | 1         | 1      | 0.36%   |
 | Multiple            | 1         | 1      | 0.36%   |
 | MidasForce          | 1         | 1      | 0.36%   |
@@ -1211,8 +1210,8 @@ Solid state drive vendors
 | Zheino              | 1         | 1      | 0.71%   |
 | Toshiba             | 1         | 1      | 0.71%   |
 | SPCC                | 1         | 1      | 0.71%   |
-| SK Hynix            | 1         | 1      | 0.71%   |
-| QUMO                | 1         | 1      | 0.71%   |
+| SK hynix            | 1         | 1      | 0.71%   |
+| Qumo                | 1         | 1      | 0.71%   |
 | OCZ                 | 1         | 1      | 0.71%   |
 | MidasForce          | 1         | 1      | 0.71%   |
 | LITEON              | 1         | 1      | 0.71%   |
@@ -1448,9 +1447,9 @@ Storage controller vendors
 | AMD                              | 46        | 20.44%  |
 | Samsung Electronics              | 16        | 7.11%   |
 | Broadcom / LSI                   | 9         | 4%      |
-| Sandisk                          | 6         | 2.67%   |
+| SanDisk                          | 6         | 2.67%   |
 | Nvidia                           | 4         | 1.78%   |
-| SK Hynix                         | 3         | 1.33%   |
+| SK hynix                         | 3         | 1.33%   |
 | ULi Electronics                  | 2         | 0.89%   |
 | Toshiba                          | 2         | 0.89%   |
 | Union Memory (Shenzhen)          | 1         | 0.44%   |
@@ -1490,7 +1489,7 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 4         | 1.54%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                        | 4         | 1.54%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                             | 4         | 1.54%   |
-| Sandisk WD Black SN750 / PC SN730 NVMe SSD                                       | 3         | 1.16%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                       | 3         | 1.16%   |
 | Nvidia MCP61 SATA Controller                                                     | 3         | 1.16%   |
 | Nvidia MCP61 IDE                                                                 | 3         | 1.16%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 3         | 1.16%   |
@@ -1501,8 +1500,8 @@ Storage controller models
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]     | 3         | 1.16%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 3         | 1.16%   |
 | ULi M5229 IDE                                                                    | 2         | 0.77%   |
-| SK Hynix hynix unknown                                                           | 2         | 0.77%   |
-| Sandisk PC SN520 NVMe SSD                                                        | 2         | 0.77%   |
+| SK hynix hynix unknown                                                           | 2         | 0.77%   |
+| SanDisk PC SN520 NVMe SSD                                                        | 2         | 0.77%   |
 | Samsung SM951 AHCI                                                               | 2         | 0.77%   |
 | Intel SSD Pro 7600p/760p/E 6100p Series                                          | 2         | 0.77%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 2         | 0.77%   |
@@ -1524,9 +1523,9 @@ Storage controller models
 | Union Memory (Shenzhen) Memory unknown                                           | 1         | 0.39%   |
 | Toshiba unknown                                                                  | 1         | 0.39%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.39%   |
-| SK Hynix BC501 NVMe Solid State Drive                                            | 1         | 0.39%   |
+| SK hynix BC501 NVMe Solid State Drive                                            | 1         | 0.39%   |
 | Silicon Integrated Systems [SiS] 5518 UDMA IDE Controller                        | 1         | 0.39%   |
-| Sandisk WD Black NVMe SSD                                                        | 1         | 0.39%   |
+| SanDisk WD Black NVMe SSD                                                        | 1         | 0.39%   |
 | Samsung NVMe SSD Controller SM951/PM951                                          | 1         | 0.39%   |
 | Phison E12 NVMe Controller                                                       | 1         | 0.39%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 0.39%   |
@@ -2708,16 +2707,8 @@ Memory module models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s          | 2         | 9.52%   |
+| Unknown                                                 | 10        | 47.62%  |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 2         | 9.52%   |
-| Unknown RAM Module 512MB DIMM SDRAM                     | 1         | 4.76%   |
-| Unknown RAM Module 512MB DIMM DDR 400MT/s               | 1         | 4.76%   |
-| Unknown RAM Module 256MB SODIMM DRAM                    | 1         | 4.76%   |
-| Unknown RAM Module 2048MB SODIMM DDR2                   | 1         | 4.76%   |
-| Unknown RAM Module 2048MB DIMM DDR2 266MT/s             | 1         | 4.76%   |
-| Unknown RAM Module 128MB SODIMM DRAM                    | 1         | 4.76%   |
-| Unknown RAM Module 1024MB DIMM DDR                      | 1         | 4.76%   |
-| Unknown RAM Module 1024MB DIMM 800MT/s                  | 1         | 4.76%   |
 | Transcend RAM TS1GSK64W6H 8GB DIMM DDR3 1600MT/s        | 1         | 4.76%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 4.76%   |
 | Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |

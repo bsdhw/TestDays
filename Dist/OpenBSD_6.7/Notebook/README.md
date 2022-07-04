@@ -826,7 +826,7 @@ Storage controller vendors
 |---------------------|-----------|---------|
 | Intel               | 19        | 73.08%  |
 | Samsung Electronics | 4         | 15.38%  |
-| Sandisk             | 1         | 3.85%   |
+| SanDisk             | 1         | 3.85%   |
 | Lenovo              | 1         | 3.85%   |
 | AMD                 | 1         | 3.85%   |
 
@@ -849,7 +849,7 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 6.67%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 6.67%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 2         | 6.67%   |
-| Sandisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 3.33%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 3.33%   |
 | Samsung SM951 AHCI                                                             | 1         | 3.33%   |
 | Lenovo unknown                                                                 | 1         | 3.33%   |
 | Intel SSD 660P Series                                                          | 1         | 3.33%   |
@@ -1535,8 +1535,8 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Unknown             | 2         | 50%     |
 | Samsung Electronics | 2         | 50%     |
+| Unknown             | 2         | 50%     |
 
 Memory Model
 ------------
@@ -1548,11 +1548,9 @@ Memory module models
 
 | Model                                                 | Notebooks | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 512MB SODIMM DDR                   | 1         | 20%     |
-| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 20%     |
-| Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 20%     |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 20%     |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 20%     |
+| Unknown                                               | 2         | 50%     |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 25%     |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 25%     |
 
 Memory Kind
 -----------
