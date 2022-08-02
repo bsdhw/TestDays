@@ -1349,7 +1349,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch           | 1         | 2.78%   |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch           | 1         | 2.78%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch              | 1         | 2.78%   |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch               | 1         | 2.78%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 2.78%   |
 | Hewlett-Packard W2072a HWP299F 1600x900 440x250mm 19.9-inch           | 1         | 2.78%   |
 | Fujitsu Siemens P24-9 TE FUS08B8 1920x1080 530x300mm 24.0-inch        | 1         | 2.78%   |
 | Dell U2711 DELA057 2560x1440 600x340mm 27.2-inch                      | 1         | 2.78%   |
@@ -1873,9 +1873,10 @@ Memory module vendors
 | Samsung Electronics | 16        | 32.65%  |
 | SK hynix            | 11        | 22.45%  |
 | Micron Technology   | 5         | 10.2%   |
-| Unknown             | 4         | 8.16%   |
+| Unknown             | 2         | 4.08%   |
 | Kingston            | 2         | 4.08%   |
 | Crucial             | 2         | 4.08%   |
+| Unknown             | 2         | 4.08%   |
 | Unknown (ABCD)      | 1         | 2.04%   |
 | Transcend           | 1         | 2.04%   |
 | Nanya Technology    | 1         | 2.04%   |
@@ -1897,10 +1898,12 @@ Memory module models
 | Model                                                            | Computers | Percent |
 |------------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 5         | 10%     |
-| Unknown                                                          | 4         | 8%      |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 4%      |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 4%      |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
+| Unknown                                                          | 2         | 4%      |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
+| Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s | 1         | 2%      |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |

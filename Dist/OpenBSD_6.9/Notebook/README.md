@@ -1039,7 +1039,7 @@ Storage controller models
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 2         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                | 2         | 3.33%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 2         | 3.33%   |
-| KIOXIA unknown                                                               | 2         | 3.33%   |
+| KIOXIA NVMe SSD Controller BG4                                               | 2         | 3.33%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 2         | 3.33%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller     | 2         | 3.33%   |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]               | 2         | 3.33%   |
@@ -1406,7 +1406,7 @@ Monitor models
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch              | 1         | 2.78%   |
 | Lenovo LCD Monitor LEN4036 1440x900 300x190mm 14.0-inch                  | 1         | 2.78%   |
 | Lenovo LCD Monitor LEN4033 1440x900 300x190mm 14.0-inch                  | 1         | 2.78%   |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch                  | 1         | 2.78%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 1         | 2.78%   |
 | InfoVision M116NWR1 R0  IVO0489 1366x768 260x140mm 11.6-inch             | 1         | 2.78%   |
 | Dell P2317H DEL40F3 1920x1080 480x270mm 21.7-inch                        | 1         | 2.78%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 340x190mm 15.3-inch         | 1         | 2.78%   |
@@ -1955,7 +1955,8 @@ Memory module models
 | Model                                                  | Notebooks | Percent |
 |--------------------------------------------------------|-----------|---------|
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 16.67%  |
-| Unknown                                                | 2         | 16.67%  |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 8.33%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |

@@ -583,18 +583,18 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2020 | 17       | 14.78%  |
+| 2019 | 15       | 13.04%  |
 | 2012 | 15       | 13.04%  |
-| 2019 | 14       | 12.17%  |
 | 2018 | 12       | 10.43%  |
 | 2013 | 12       | 10.43%  |
 | 2010 | 8        | 6.96%   |
 | 2014 | 7        | 6.09%   |
-| 2021 | 6        | 5.22%   |
 | 2011 | 6        | 5.22%   |
+| 2021 | 5        | 4.35%   |
 | 2017 | 4        | 3.48%   |
-| 2016 | 4        | 3.48%   |
+| 2015 | 4        | 3.48%   |
 | 2008 | 4        | 3.48%   |
-| 2015 | 3        | 2.61%   |
+| 2016 | 3        | 2.61%   |
 | 2009 | 2        | 1.74%   |
 | 2007 | 1        | 0.87%   |
 
@@ -2430,66 +2430,66 @@ Memory module models
 
 | Model                                                              | Desktops | Percent |
 |--------------------------------------------------------------------|----------|---------|
-| Unknown                                                            | 23       | 15.75%  |
-| Micron RAM 8JTF25664AZ-1G6M1 2GB DIMM DDR3 1600MT/s                | 2        | 1.37%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s               | 2        | 1.37%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s                  | 2        | 1.37%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s                | 2        | 1.37%   |
-| G.Skill RAM F4-2666C19-8GNT 8GB DIMM DDR4 2666MT/s                 | 2        | 1.37%   |
-| Avant RAM W641GU49J9266N6 8192MB DIMM DDR4 2667MT/s                | 2        | 1.37%   |
-| Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1        | 0.68%   |
-| Unknown (09A4) RAM 08S2400CL170H 8192MB DIMM DDR4 2133MT/s         | 1        | 0.68%   |
-| Team RAM TEAMGROUP-UD4-3000 4GB DIMM DDR4 2400MT/s                 | 1        | 0.68%   |
-| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s                | 1        | 0.68%   |
-| SK hynix RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.68%   |
-| SK hynix RAM HYMP525F72CP4N3-Y5 2048MB FB-DIMM DDR2 533MT/s        | 1        | 0.68%   |
-| SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s             | 1        | 0.68%   |
-| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT325U6BFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.68%   |
-| SK hynix RAM HMT125U6BFR8C-H9 2048MB DIMM DDR3 1333MT/s            | 1        | 0.68%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s              | 1        | 0.68%   |
-| Samsung RAM M391B5673EH1-CF8 2GB DIMM DDR3 1066MT/s                | 1        | 0.68%   |
-| Samsung RAM M391B5273DH0-YH9 4GB DIMM DDR3 1333MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1333MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
-| Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1333MT/s                | 1        | 0.68%   |
-| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 2666MT/s                | 1        | 0.68%   |
-| Samsung RAM M378A1G43TB1-CTD 8192MB DIMM DDR4 3200MT/s             | 1        | 0.68%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s                | 1        | 0.68%   |
-| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s                | 1        | 0.68%   |
-| Ramaxel RAM RMUA5110MD78HAF-2666 8GB DIMM DDR4 2667MT/s            | 1        | 0.68%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s              | 1        | 0.68%   |
-| PNY RAM 8GBF1X08QFHH38-135 8GB DIMM DDR4 2133MT/s                  | 1        | 0.68%   |
-| PNY RAM 64C0MHHHJ-HS 4GB DIMM DDR3 1333MT/s                        | 1        | 0.68%   |
-| Patriot RAM 3200 C16 Series 32GB DIMM DDR4 2667MT/s                | 1        | 0.68%   |
-| Nanya RAM NT4GC72B4NA1N 4GB DIMM DDR3 1333MT/s                     | 1        | 0.68%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                 | 1        | 0.68%   |
-| Nanya RAM NT1GT64U8HB0BY-3C 1GB DIMM DDR2 667MT/s                  | 1        | 0.68%   |
-| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1333MT/s                 | 1        | 0.68%   |
-| Nanya RAM M2F2G64CB88G7N-CG 2GB DIMM DDR3 1333MT/s                 | 1        | 0.68%   |
-| Micron RAM Module 8192MB DIMM DDR4 3200MT/s                        | 1        | 0.68%   |
-| Micron RAM Module 16GB SODIMM DDR4 2667MT/s                        | 1        | 0.68%   |
-| Micron RAM 9JSF25672AZ-1G6M1 2GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
-| Micron RAM 8HTF12864AY-800J3 1GB DIMM DDR2 667MT/s                 | 1        | 0.68%   |
-| Micron RAM 4ATF51264HZ-2G3E1 4GB SODIMM DDR4 2400MT/s              | 1        | 0.68%   |
-| Micron RAM 36JSZF51272PZ 4GB DIMM DDR3 1333MT/s                    | 1        | 0.68%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s               | 1        | 0.68%   |
-| Micron RAM 18JSF51272AZ-1G6M 4GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
-| Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s             | 1        | 0.68%   |
-| Micron RAM 16ATF2G64AZ-2G6J1 16GB DIMM DDR4 2667MT/s               | 1        | 0.68%   |
-| Kingston RAM KVT8FP-HYC 4GB DIMM DDR3 1600MT/s                     | 1        | 0.68%   |
-| Kingston RAM KHX1866C9D3/4GX 4GB DIMM DDR3 1600MT/s                | 1        | 0.68%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                               | 4        | 2.65%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                               | 3        | 1.99%   |
+| Micron RAM 8JTF25664AZ-1G6M1 2GB DIMM DDR3 1600MT/s                | 2        | 1.32%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s               | 2        | 1.32%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s                  | 2        | 1.32%   |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s                | 2        | 1.32%   |
+| G.Skill RAM F4-2666C19-8GNT 8GB DIMM DDR4 2666MT/s                 | 2        | 1.32%   |
+| Avant RAM W641GU49J9266N6 8192MB DIMM DDR4 2667MT/s                | 2        | 1.32%   |
+| Unknown RAM TMKS8G68ALFBCH-266 8192MB SODIMM DDR4 2400MT/s         | 1        | 0.66%   |
+| Unknown RAM R9P5316-007.A02LF 2GB DIMM 533MT/s                     | 1        | 0.66%   |
+| Unknown RAM Module 8GB DIMM DDR4 2400MT/s                          | 1        | 0.66%   |
+| Unknown RAM Module 8GB DIMM DDR3 1866MT/s                          | 1        | 0.66%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                               | 1        | 0.66%   |
+| Unknown RAM Module 4GB DIMM DDR3 1866MT/s                          | 1        | 0.66%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                           | 1        | 0.66%   |
+| Unknown RAM Module 4GB DIMM 667MT/s                                | 1        | 0.66%   |
+| Unknown RAM Module 4096MB DIMM DDR2                                | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM SDRAM                                  | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM DDR3 1333MT/s                          | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                           | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                           | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM 533MT/s                                | 1        | 0.66%   |
+| Unknown RAM Module 2GB DIMM 1600MT/s                               | 1        | 0.66%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 800MT/s                       | 1        | 0.66%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                        | 1        | 0.66%   |
+| Unknown RAM Module 2048MB DIMM DDR2                                | 1        | 0.66%   |
+| Unknown RAM Module 1GB DIMM 1333MT/s                               | 1        | 0.66%   |
+| Unknown RAM Module 1024MB DIMM SDRAM 667MT/s                       | 1        | 0.66%   |
+| Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1        | 0.66%   |
+| Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1        | 0.66%   |
+| Unknown (09A4) RAM 08S2400CL170H 8192MB DIMM DDR4 2133MT/s         | 1        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-3000 4GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s                | 1        | 0.66%   |
+| SK hynix RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.66%   |
+| SK hynix RAM HYMP525F72CP4N3-Y5 2048MB FB-DIMM DDR2 533MT/s        | 1        | 0.66%   |
+| SK hynix RAM HMT451U7BFR8A-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s             | 1        | 0.66%   |
+| SK hynix RAM HMT325U6CFR8C-PB 2GB DIMM DDR3 1600MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT325U6BFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT125U6TFR8C-H9 2GB DIMM DDR3 1333MT/s               | 1        | 0.66%   |
+| SK hynix RAM HMT125U6BFR8C-H9 2048MB DIMM DDR3 1333MT/s            | 1        | 0.66%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s              | 1        | 0.66%   |
+| Samsung RAM M391B5673EH1-CF8 2GB DIMM DDR3 1066MT/s                | 1        | 0.66%   |
+| Samsung RAM M391B5273DH0-YH9 4GB DIMM DDR3 1333MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B5773CH0-CH9 2GB DIMM DDR3 1333MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s                | 1        | 0.66%   |
+| Samsung RAM M378B1G73BH0-CK0 8GB DIMM DDR3 1333MT/s                | 1        | 0.66%   |
+| Samsung RAM M378A5244CB0-CRC 4GB DIMM DDR4 2666MT/s                | 1        | 0.66%   |
+| Samsung RAM M378A1G43TB1-CTD 8192MB DIMM DDR4 3200MT/s             | 1        | 0.66%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s                | 1        | 0.66%   |
+| Samsung RAM M3 78T2953EZ3-CE6 1GB DIMM DDR2 667MT/s                | 1        | 0.66%   |
 
 Memory Kind
 -----------

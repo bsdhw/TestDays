@@ -1569,7 +1569,7 @@ Monitor models
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD03AB 1366x768 340x190mm 15.3-inch              | 2         | 2.63%   |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch                  | 2         | 2.63%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 2         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 340x190mm 15.3-inch          | 2         | 2.63%   |
 | Chimei Innolux LCD Monitor CMN14B1 1920x1080 310x170mm 13.9-inch         | 2         | 2.63%   |
 | Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch                  | 1         | 1.32%   |
@@ -2159,7 +2159,7 @@ Memory module vendors
 |---------------------|-----------|---------|
 | Samsung Electronics | 33        | 27.73%  |
 | SK hynix            | 26        | 21.85%  |
-| Unknown             | 12        | 10.08%  |
+| Unknown             | 11        | 9.24%   |
 | Micron Technology   | 11        | 9.24%   |
 | Kingston            | 8         | 6.72%   |
 | Elpida              | 6         | 5.04%   |
@@ -2174,6 +2174,7 @@ Memory module vendors
 | SHARETRONIC         | 1         | 0.84%   |
 | PNY                 | 1         | 0.84%   |
 | G.Skill             | 1         | 0.84%   |
+| Unknown             | 1         | 0.84%   |
 
 Memory Model
 ------------
@@ -2185,7 +2186,7 @@ Memory module models
 
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
-| Unknown                                                         | 12        | 9.6%    |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                   | 4         | 3.2%    |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 3         | 2.4%    |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 3         | 2.4%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.6%    |
@@ -2202,6 +2203,13 @@ Memory module models
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                   | 2         | 1.6%    |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s                  | 2         | 1.6%    |
 | V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s               | 1         | 0.8%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                       | 1         | 0.8%    |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                       | 1         | 0.8%    |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s                  | 1         | 0.8%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                   | 1         | 0.8%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s                  | 1         | 0.8%    |
+| Unknown RAM Module 4096MB SODIMM DDR2                           | 1         | 0.8%    |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s                       | 1         | 0.8%    |
 | Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s     | 1         | 0.8%    |
 | Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s         | 1         | 0.8%    |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s           | 1         | 0.8%    |
@@ -2238,13 +2246,6 @@ Memory module models
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s           | 1         | 0.8%    |
 | Samsung RAM M471A5244BB0-CRC 4GB SODIMM DDR4 2400MT/s           | 1         | 0.8%    |
 | Samsung RAM M471A5143DB0-CPB 4GB SODIMM DDR4 2133MT/s           | 1         | 0.8%    |
-| Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2400MT/s          | 1         | 0.8%    |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s           | 1         | 0.8%    |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s           | 1         | 0.8%    |
-| Samsung RAM M471A1G43DB0-CPB 8GB SODIMM DDR4 2133MT/s           | 1         | 0.8%    |
-| Samsung RAM K4EBE304EB-EGCF 8GB Row Of Chips LPDDR3 1867MT/s    | 1         | 0.8%    |
-| Samsung RAM K4E6E304EE-EGCF 4GB SODIMM LPDDR3 1867MT/s          | 1         | 0.8%    |
-| Samsung RAM K4E6E304EE-EGCF 4GB Chip LPDDR3 1867MT/s            | 1         | 0.8%    |
 
 Memory Kind
 -----------

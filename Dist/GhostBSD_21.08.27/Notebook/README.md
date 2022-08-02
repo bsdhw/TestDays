@@ -1204,7 +1204,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 4%      |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch          | 1         | 4%      |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch             | 1         | 4%      |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch              | 1         | 4%      |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch              | 1         | 4%      |
 | Dell U2312HM DEL4073 1920x1080 510x290mm 23.1-inch                   | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN1604 1920x1080 360x200mm 16.2-inch     | 1         | 4%      |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 340x190mm 15.3-inch     | 1         | 4%      |
@@ -1660,12 +1660,12 @@ Memory module vendors
 | Micron Technology   | 4         | 10.81%  |
 | Crucial             | 2         | 5.41%   |
 | Unknown (ABCD)      | 1         | 2.7%    |
+| Unknown             | 1         | 2.7%    |
 | Transcend           | 1         | 2.7%    |
 | Kingston            | 1         | 2.7%    |
 | Goodram             | 1         | 2.7%    |
 | Elpida              | 1         | 2.7%    |
 | 09490000802C        | 1         | 2.7%    |
-| Unknown             | 1         | 2.7%    |
 
 Memory Model
 ------------
@@ -1680,7 +1680,8 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 5         | 13.16%  |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
+| Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
@@ -1708,7 +1709,6 @@ Memory module models
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2.63%   |
 | Crucial RAM CT16G4SFRA32A.C8FB 16GB SODIMM DDR4 3200MT/s         | 1         | 2.63%   |
 | 09490000802C RAM V2D4SF16GB1G81G82666 16GB SODIMM DDR4 2667MT/s  | 1         | 2.63%   |
-| Unknown                                                          | 1         | 2.63%   |
 
 Memory Kind
 -----------

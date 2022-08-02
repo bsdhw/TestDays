@@ -1958,8 +1958,8 @@ Memory module vendors
 | G.Skill             | 10       | 19.61%  |
 | Corsair             | 7        | 13.73%  |
 | Samsung Electronics | 6        | 11.76%  |
-| SK hynix            | 5        | 9.8%    |
 | Unknown             | 5        | 9.8%    |
+| SK hynix            | 5        | 9.8%    |
 | Crucial             | 4        | 7.84%   |
 | A-DATA Technology   | 2        | 3.92%   |
 | S                   | 1        | 1.96%   |
@@ -1975,9 +1975,13 @@ Memory module models
 
 | Model                                                    | Desktops | Percent |
 |----------------------------------------------------------|----------|---------|
-| Unknown                                                  | 5        | 9.43%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 3        | 5.66%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 3        | 5.66%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 1.89%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 1.89%   |
+| Unknown RAM Module 2GB DIMM DDR3 1067MT/s                | 1        | 1.89%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                      | 1        | 1.89%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.89%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
 | SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |

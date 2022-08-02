@@ -1616,7 +1616,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02AD 1366x768 340x190mm 15.3-inch          | 1         | 1.61%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch              | 1         | 1.61%   |
-| Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch              | 1         | 1.61%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch              | 1         | 1.61%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 310x170mm 13.9-inch         | 1         | 1.61%   |
 | Iiyama PL2474H IVM6137 1920x1080 520x290mm 23.4-inch                 | 1         | 1.61%   |
 | HannStar LCD Monitor HSD1CF3 1920x1200 590x370mm 27.4-inch           | 1         | 1.61%   |
@@ -1723,9 +1723,9 @@ Proportional relationship between the width and the height
 | Ratio | Notebooks | Percent |
 |-------|-----------|---------|
 | 16/9  | 47        | 79.66%  |
-| 16/10 | 9         | 15.25%  |
+| 16/10 | 8         | 13.56%  |
+| 3/2   | 2         | 3.39%   |
 | 4/3   | 1         | 1.69%   |
-| 3/2   | 1         | 1.69%   |
 | 21/9  | 1         | 1.69%   |
 
 Monitor Area
@@ -2226,8 +2226,10 @@ Memory module models
 
 | Model                                                   | Notebooks | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Unknown                                                 | 3         | 30%     |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 2         | 20%     |
+| Unknown RAM Module 256MB SODIMM DRAM                    | 1         | 10%     |
+| Unknown RAM Module 2048MB SODIMM DDR2                   | 1         | 10%     |
+| Unknown RAM Module 128MB SODIMM DRAM                    | 1         | 10%     |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 10%     |
 | Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s | 1         | 10%     |
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s   | 1         | 10%     |

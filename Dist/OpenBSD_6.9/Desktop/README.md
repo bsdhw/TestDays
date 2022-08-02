@@ -1757,9 +1757,12 @@ Memory module models
 
 | Model                                               | Desktops | Percent |
 |-----------------------------------------------------|----------|---------|
-| Unknown                                             | 2        | 50%     |
-| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s | 1        | 25%     |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s   | 1        | 25%     |
+| Unknown RAM Module 512MB DIMM 400MT/s               | 1        | 16.67%  |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s         | 1        | 16.67%  |
+| Unknown RAM Module 256MB DIMM 333MT/s               | 1        | 16.67%  |
+| Unknown RAM Module 1GB DIMM 400MT/s                 | 1        | 16.67%  |
+| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s | 1        | 16.67%  |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s   | 1        | 16.67%  |
 
 Memory Kind
 -----------

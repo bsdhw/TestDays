@@ -1052,7 +1052,7 @@ Storage controller models
 | KIOXIA NVMe SSD                                                                        | 1         | 1.69%   |
 | Kingston Company U-SNS8154P3 NVMe SSD                                                  | 1         | 1.69%   |
 | Kingston Company OM3PDP3 NVMe SSD                                                      | 1         | 1.69%   |
-| Intel Tiger Lake-LP SATA Controller [AHCI mode]                                        | 1         | 1.69%   |
+| Intel Tiger Lake-LP SATA Controller                                                    | 1         | 1.69%   |
 | Intel SSD Pro 7600p/760p/E 6100p Series                                                | 1         | 1.69%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                                       | 1         | 1.69%   |
 | Intel Comet Lake SATA AHCI Controller                                                  | 1         | 1.69%   |
@@ -1300,7 +1300,7 @@ Graphics card models
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 1.69%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 1         | 1.69%   |
 | Intel HD Graphics 620                                                         | 1         | 1.69%   |
-| Intel Comet Lake UHD Graphics                                                 | 1         | 1.69%   |
+| Intel Comet Lake-H GT1 [UHD Graphics 610]                                     | 1         | 1.69%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 1.69%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1         | 1.69%   |
 | AMD Wrestler [Radeon HD 6250]                                                 | 1         | 1.69%   |
@@ -1894,7 +1894,6 @@ Sound card models
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 3         | 4.76%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 3         | 4.76%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 3         | 4.76%   |
-| Nvidia unknown                                                             | 2         | 3.17%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 2         | 3.17%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 2         | 3.17%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 2         | 3.17%   |
@@ -1906,9 +1905,11 @@ Sound card models
 | Intel 82801CA/CAM AC'97 Audio Controller                                   | 2         | 3.17%   |
 | Intel 8 Series HD Audio Controller                                         | 2         | 3.17%   |
 | AMD Family 17h/19h HD Audio Controller                                     | 2         | 3.17%   |
+| Nvidia unknown                                                             | 1         | 1.59%   |
 | Nvidia TU104 HD Audio Controller                                           | 1         | 1.59%   |
 | Nvidia MCP79 High Definition Audio                                         | 1         | 1.59%   |
 | Nvidia High Definition Audio Controller                                    | 1         | 1.59%   |
+| Nvidia GA106 High Definition Audio Controller                              | 1         | 1.59%   |
 | Intel Tiger Lake-H HD Audio Controller                                     | 1         | 1.59%   |
 | Intel Comet Lake PCH cAVS                                                  | 1         | 1.59%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1         | 1.59%   |
@@ -1935,10 +1936,11 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Unknown             | 6         | 46.15%  |
+| Unknown             | 5         | 38.46%  |
 | Samsung Electronics | 5         | 38.46%  |
 | SK hynix            | 1         | 7.69%   |
 | Kingston            | 1         | 7.69%   |
+| Unknown             | 1         | 7.69%   |
 
 Memory Model
 ------------
@@ -1950,14 +1952,18 @@ Memory module models
 
 | Model                                                  | Notebooks | Percent |
 |--------------------------------------------------------|-----------|---------|
-| Unknown                                                | 6         | 42.86%  |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 2         | 14.29%  |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 2         | 14.29%  |
+| Unknown RAM Module 512MB SODIMM SDRAM                  | 1         | 7.14%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 7.14%   |
+| Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 7.14%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 7.14%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 1         | 7.14%   |
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |
+| Unknown                                                | 1         | 7.14%   |
 
 Memory Kind
 -----------
@@ -2088,10 +2094,10 @@ Camera device models
 
 | Model                                         | Notebooks | Percent |
 |-----------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                     | 3         | 9.68%   |
 | Acer Integrated Camera                        | 3         | 9.68%   |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.45%   |
 | IMC Networks Integrated Camera                | 2         | 6.45%   |
-| Chicony Integrated Camera                     | 2         | 6.45%   |
 | Syntek Lenovo EasyCamera                      | 1         | 3.23%   |
 | Sunplus Integrated_Webcam_FHD                 | 1         | 3.23%   |
 | Silicon Motion Web Camera                     | 1         | 3.23%   |
@@ -2101,7 +2107,6 @@ Camera device models
 | Luxvisions Innotech Limited Integrated Camera | 1         | 3.23%   |
 | Lite-On Integrated Camera                     | 1         | 3.23%   |
 | Chicony Sonix ST50220 USB Video Camera        | 1         | 3.23%   |
-| Chicony Ltd., Integrated Camera               | 1         | 3.23%   |
 | Chicony Lenovo Integrated Camera (0.3MP)      | 1         | 3.23%   |
 | Chicony Integrated Camera (1280x720@30)       | 1         | 3.23%   |
 | Chicony HP Webcam [2 MP]                      | 1         | 3.23%   |

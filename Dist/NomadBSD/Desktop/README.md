@@ -2004,9 +2004,14 @@ Memory module models
 
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
-| Unknown                                                   | 7        | 13.46%  |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                  | 2        | 3.85%   |
 | Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                  | 2        | 3.85%   |
 | Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2400MT/s     | 2        | 3.85%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 1.92%   |
+| Unknown RAM Module 2GB DIMM SDRAM                         | 1        | 1.92%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                  | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 1.92%   |
+| Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s               | 1        | 1.92%   |
 | SK hynix RAM Zhidian4GDDR800000 4GB DIMM DDR2 800MT/s     | 1        | 1.92%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |

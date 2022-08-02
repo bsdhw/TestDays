@@ -700,12 +700,12 @@ Motherboard manufacture year
 | 2013 | 24        | 12.63%  |
 | 2020 | 19        | 10%     |
 | 2019 | 18        | 9.47%   |
-| 2014 | 17        | 8.95%   |
+| 2014 | 18        | 9.47%   |
 | 2016 | 16        | 8.42%   |
 | 2009 | 14        | 7.37%   |
 | 2017 | 12        | 6.32%   |
 | 2012 | 11        | 5.79%   |
-| 2015 | 9         | 4.74%   |
+| 2015 | 8         | 4.21%   |
 | 2011 | 7         | 3.68%   |
 | 2010 | 7         | 3.68%   |
 | 2008 | 6         | 3.16%   |
@@ -1885,7 +1885,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | LG Display LCD Monitor LGD03AB 1366x768 340x190mm 15.3-inch           | 2         | 1.33%   |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch               | 2         | 1.33%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 2         | 1.33%   |
 | Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                  | 2         | 1.33%   |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 340x190mm 15.3-inch       | 2         | 1.33%   |
 | Chimei Innolux LCD Monitor CMN14B1 1920x1080 310x170mm 13.9-inch      | 2         | 1.33%   |
@@ -2614,7 +2614,7 @@ Memory module vendors
 | SK hynix            | 36        | 15.32%  |
 | Kingston            | 32        | 13.62%  |
 | Micron Technology   | 23        | 9.79%   |
-| Unknown             | 23        | 9.79%   |
+| Unknown             | 22        | 9.36%   |
 | Crucial             | 21        | 8.94%   |
 | Corsair             | 14        | 5.96%   |
 | G.Skill             | 10        | 4.26%   |
@@ -2634,6 +2634,7 @@ Memory module vendors
 | PNY                 | 1         | 0.43%   |
 | KomputerBay         | 1         | 0.43%   |
 | Avant               | 1         | 0.43%   |
+| Unknown             | 1         | 0.43%   |
 
 Memory Model
 ------------
@@ -2645,9 +2646,11 @@ Memory module models
 
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Unknown                                                           | 23        | 9.13%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 3         | 1.19%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s             | 3         | 1.19%   |
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                     | 4         | 1.57%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 3         | 1.18%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 3         | 1.18%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s             | 3         | 1.18%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2         | 0.79%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
@@ -2666,45 +2669,43 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s              | 2         | 0.79%   |
 | Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2         | 0.79%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2         | 0.79%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s               | 2         | 0.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2         | 0.79%   |
 | Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2         | 0.79%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2         | 0.79%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                     | 2         | 0.79%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2         | 0.79%   |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s                    | 2         | 0.79%   |
 | Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s               | 2         | 0.79%   |
-| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s                 | 1         | 0.4%    |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1         | 0.4%    |
-| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s       | 1         | 0.4%    |
-| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s           | 1         | 0.4%    |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1         | 0.4%    |
-| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                        | 1         | 0.4%    |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s             | 1         | 0.4%    |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s             | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NZRNSDG 4GB SODIMM DDR3 1600MT/s             | 1         | 0.4%    |
-| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s             | 1         | 0.4%    |
-| SK hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                   | 1         | 0.4%    |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1         | 0.4%    |
-| SK hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                   | 1         | 0.4%    |
-| SK hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s             | 1         | 0.4%    |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMT325S6CFR8C-H9 2048MB SODIMM DDR3 1333MT/s         | 1         | 0.4%    |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMT125S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s         | 1         | 0.4%    |
-| SK hynix RAM HMA851S6JJR6N-VK 4GB SODIMM DDR4 2667MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMA851S6AFR6N-UH 4096MB Row Of Chips DDR4 2400MT/s   | 1         | 0.4%    |
-| SK hynix RAM HMA82GS6AFR8N-UH 16GB SODIMM DDR4 2400MT/s           | 1         | 0.4%    |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1         | 0.4%    |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s            | 1         | 0.4%    |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s            | 1         | 0.4%    |
+| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s                 | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                         | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                         | 1         | 0.39%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s                    | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                     | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s                    | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR2                             | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s                         | 1         | 0.39%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1         | 0.39%   |
+| Unknown RAM Module 4096MB DIMM DDR2                               | 1         | 0.39%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1         | 0.39%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                     | 1         | 0.39%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1         | 0.39%   |
+| Unknown RAM Module 2048MB DIMM DDR2                               | 1         | 0.39%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1         | 0.39%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1         | 0.39%   |
+| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s       | 1         | 0.39%   |
+| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s           | 1         | 0.39%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1         | 0.39%   |
+| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1         | 0.39%   |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s             | 1         | 0.39%   |
+| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s             | 1         | 0.39%   |
+| Smart RAM SH564128FJ8NZRNSDG 4GB SODIMM DDR3 1600MT/s             | 1         | 0.39%   |
+| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s             | 1         | 0.39%   |
+| SK hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                   | 1         | 0.39%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1         | 0.39%   |
+| SK hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                   | 1         | 0.39%   |
+| SK hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s            | 1         | 0.39%   |
+| SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s              | 1         | 0.39%   |
 
 Memory Kind
 -----------

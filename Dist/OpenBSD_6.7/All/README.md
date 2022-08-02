@@ -1888,11 +1888,15 @@ Memory module models
 
 | Model                                                 | Computers | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Unknown                                               | 4         | 50%     |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 12.5%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 12.5%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 12.5%   |
-| Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 12.5%   |
+| Unknown RAM Module 512MB SODIMM DDR                   | 1         | 11.11%  |
+| Unknown RAM Module 512MB DIMM SDRAM                   | 1         | 11.11%  |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 11.11%  |
+| Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 11.11%  |
+| Unknown RAM Module 1024MB DIMM DDR                    | 1         | 11.11%  |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 11.11%  |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 11.11%  |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1         | 11.11%  |
+| Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1         | 11.11%  |
 
 Memory Kind
 -----------

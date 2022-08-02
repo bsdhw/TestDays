@@ -1513,7 +1513,8 @@ Memory module models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Unknown                                               | 2        | 50%     |
+| Unknown RAM Module 512MB DIMM SDRAM                   | 1        | 25%     |
+| Unknown RAM Module 1024MB DIMM DDR                    | 1        | 25%     |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s  | 1        | 25%     |
 | Elpida RAM EBE11UD8AJWA-8G-E 1024MB DIMM DDR2 800MT/s | 1        | 25%     |
 

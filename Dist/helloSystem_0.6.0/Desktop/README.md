@@ -503,12 +503,12 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2019 | 8        | 13.33%  |
 | 2021 | 6        | 10%     |
-| 2016 | 6        | 10%     |
 | 2013 | 6        | 10%     |
 | 2010 | 6        | 10%     |
 | 2020 | 5        | 8.33%   |
+| 2016 | 5        | 8.33%   |
+| 2015 | 5        | 8.33%   |
 | 2018 | 4        | 6.67%   |
-| 2015 | 4        | 6.67%   |
 | 2012 | 4        | 6.67%   |
 | 2017 | 3        | 5%      |
 | 2014 | 3        | 5%      |
@@ -2059,21 +2059,22 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 13       | 18.84%  |
-| Samsung Electronics | 11       | 15.94%  |
-| Unknown             | 9        | 13.04%  |
-| Crucial             | 8        | 11.59%  |
-| SK hynix            | 4        | 5.8%    |
-| G.Skill             | 4        | 5.8%    |
-| Corsair             | 4        | 5.8%    |
-| Team                | 3        | 4.35%   |
-| Nanya Technology    | 3        | 4.35%   |
-| Transcend           | 2        | 2.9%    |
-| Ramaxel Technology  | 2        | 2.9%    |
-| Micron Technology   | 2        | 2.9%    |
-| A-DATA Technology   | 2        | 2.9%    |
-| Patriot             | 1        | 1.45%   |
-| Hikvision           | 1        | 1.45%   |
+| Kingston            | 13       | 18.57%  |
+| Samsung Electronics | 11       | 15.71%  |
+| Crucial             | 8        | 11.43%  |
+| Unknown             | 7        | 10%     |
+| SK hynix            | 4        | 5.71%   |
+| G.Skill             | 4        | 5.71%   |
+| Corsair             | 4        | 5.71%   |
+| Team                | 3        | 4.29%   |
+| Nanya Technology    | 3        | 4.29%   |
+| Unknown             | 3        | 4.29%   |
+| Transcend           | 2        | 2.86%   |
+| Ramaxel Technology  | 2        | 2.86%   |
+| Micron Technology   | 2        | 2.86%   |
+| A-DATA Technology   | 2        | 2.86%   |
+| Patriot             | 1        | 1.43%   |
+| Hikvision           | 1        | 1.43%   |
 
 Memory Model
 ------------
@@ -2085,65 +2086,66 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Unknown                                                 | 9        | 12.5%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.78%   |
-| SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
-| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.78%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
-| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s    | 2        | 2.78%   |
-| Transcend RAM Module 2GB DIMM DDR3 1333MT/s             | 1        | 1.39%   |
-| Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s       | 1        | 1.39%   |
-| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s     | 1        | 1.39%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.39%   |
-| Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.39%   |
-| Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.39%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
-| Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.39%   |
-| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s     | 1        | 1.39%   |
-| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.39%   |
-| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.39%   |
-| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 1600MT/s     | 1        | 1.39%   |
-| Ramaxel RAM RMR5030EF68F9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.39%   |
-| Patriot RAM Module 2GB DIMM DDR2 533MT/s                | 1        | 1.39%   |
-| Nanya RAM NT4GC72B8PB0NF-CG 4GB DIMM DDR3 1333MT/s      | 1        | 1.39%   |
-| Nanya RAM M2F4G64CC88D7N-DI 4GB DIMM DDR3 1600MT/s      | 1        | 1.39%   |
-| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1333MT/s      | 1        | 1.39%   |
-| Nanya RAM M2F2G64CB88G7N-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.39%   |
-| Micron RAM 4ATF51264HZ-2G6B1 4GB SODIMM DDR4 1200MT/s   | 1        | 1.39%   |
-| Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
-| Kingston RAM KHX3466C19D4/16G 16GB DIMM DDR4 3200MT/s   | 1        | 1.39%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 1        | 1.39%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.39%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1        | 1.39%   |
-| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s | 1        | 1.39%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s       | 1        | 1.39%   |
-| Kingston RAM CL16-18-18 D4-3000 16GB DIMM DDR4 3000MT/s | 1        | 1.39%   |
-| Kingston RAM 99U5665-001.A00G 4GB DIMM DDR4 2400MT/s    | 1        | 1.39%   |
-| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 1.39%   |
-| Kingston RAM 99U5402-029.A00LF 2GB DIMM DDR3 1333MT/s   | 1        | 1.39%   |
-| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 1.39%   |
-| Kingston RAM 9905734-180.A00G 16GB DIMM DDR4 2666MT/s   | 1        | 1.39%   |
-| Kingston RAM 9905665-020.A00G 4GB DIMM DDR4 2667MT/s    | 1        | 1.39%   |
-| Hikvision RAM HKED3041AAB3H3HA1 4GB DIMM DDR3 1600MT/s  | 1        | 1.39%   |
-| G.Skill RAM F4-3866C18-8GTZR 8GB DIMM DDR4 2133MT/s     | 1        | 1.39%   |
-| G.Skill RAM F4-3200C16-8GTZR 8GB DIMM DDR4 3200MT/s     | 1        | 1.39%   |
-| G.Skill RAM F4-2400C15-8GFT 8GB DIMM DDR4 2400MT/s      | 1        | 1.39%   |
-| G.Skill RAM F4-2133C15-16GIS 16GB DIMM DDR4 2133MT/s    | 1        | 1.39%   |
-| Crucial RAM Module 8GB SODIMM DDR3 1600MT/s             | 1        | 1.39%   |
-| Crucial RAM CT4G4DFS824A.C8FF 4GB DIMM DDR4 2667MT/s    | 1        | 1.39%   |
-| Crucial RAM CT4G4DFS8213.C8FBD1 4GB DIMM DDR4 2133MT/s  | 1        | 1.39%   |
-| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s | 1        | 1.39%   |
-| Crucial RAM BL8G32C16U4BL.M8FE 8GB DIMM DDR4 2667MT/s   | 1        | 1.39%   |
-| Crucial RAM BL8G30C15U4B.M8FE 8GB DIMM DDR4 2666MT/s    | 1        | 1.39%   |
-| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
-| Corsair RAM CMW64GX4M2E3200C16 32GB DIMM DDR4 2133MT/s  | 1        | 1.39%   |
-| Corsair RAM CMV4GX3M1A133 4GB DIMM DDR3 1333MT/s        | 1        | 1.39%   |
-| Corsair RAM CMK16GX4M1A2400C14 16GB DIMM DDR4 2400MT/s  | 1        | 1.39%   |
-| A-DATA RAM Module 1GB DIMM DDR2 533MT/s                 | 1        | 1.39%   |
-| A-DATA RAM MI74C1C167HZ1 4GB SODIMM DDR3 1333MT/s       | 1        | 1.39%   |
+| Unknown                                                 | 3        | 4.11%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2        | 2.74%   |
+| SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
+| Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.74%   |
+| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
+| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s    | 2        | 2.74%   |
+| Unknown RAM Module 8GB DIMM 1600MT/s                    | 1        | 1.37%   |
+| Unknown RAM Module 4GB FB-DIMM DDR2 667MT/s             | 1        | 1.37%   |
+| Unknown RAM Module 4GB DIMM DDR3 800MT/s                | 1        | 1.37%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1        | 1.37%   |
+| Unknown RAM Module 4GB DIMM 400MT/s                     | 1        | 1.37%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                    | 1        | 1.37%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                    | 1        | 1.37%   |
+| Transcend RAM Module 2GB DIMM DDR3 1333MT/s             | 1        | 1.37%   |
+| Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s       | 1        | 1.37%   |
+| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s     | 1        | 1.37%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.37%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.37%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
+| Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.37%   |
+| Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.37%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.37%   |
+| Samsung RAM M378B5773QB0-CK0 2GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M378B5173BH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Ramaxel RAM RMR5030EF68F9W1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Patriot RAM Module 2GB DIMM DDR2 533MT/s                | 1        | 1.37%   |
+| Nanya RAM NT4GC72B8PB0NF-CG 4GB DIMM DDR3 1333MT/s      | 1        | 1.37%   |
+| Nanya RAM M2F4G64CC88D7N-DI 4GB DIMM DDR3 1600MT/s      | 1        | 1.37%   |
+| Nanya RAM M2F4G64CB8HG5N-CG 4GB DIMM DDR3 1333MT/s      | 1        | 1.37%   |
+| Nanya RAM M2F2G64CB88G7N-CG 2GB DIMM DDR3 1333MT/s      | 1        | 1.37%   |
+| Micron RAM 4ATF51264HZ-2G6B1 4GB SODIMM DDR4 1200MT/s   | 1        | 1.37%   |
+| Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Kingston RAM KHX3466C19D4/16G 16GB DIMM DDR4 3200MT/s   | 1        | 1.37%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 1        | 1.37%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.37%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1        | 1.37%   |
+| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s | 1        | 1.37%   |
+| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s       | 1        | 1.37%   |
+| Kingston RAM CL16-18-18 D4-3000 16GB DIMM DDR4 3000MT/s | 1        | 1.37%   |
+| Kingston RAM 99U5665-001.A00G 4GB DIMM DDR4 2400MT/s    | 1        | 1.37%   |
+| Kingston RAM 99U5471-012.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kingston RAM 99U5402-029.A00LF 2GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Kingston RAM 9905734-180.A00G 16GB DIMM DDR4 2666MT/s   | 1        | 1.37%   |
+| Kingston RAM 9905665-020.A00G 4GB DIMM DDR4 2667MT/s    | 1        | 1.37%   |
+| Hikvision RAM HKED3041AAB3H3HA1 4GB DIMM DDR3 1600MT/s  | 1        | 1.37%   |
+| G.Skill RAM F4-3866C18-8GTZR 8GB DIMM DDR4 2133MT/s     | 1        | 1.37%   |
+| G.Skill RAM F4-3200C16-8GTZR 8GB DIMM DDR4 3200MT/s     | 1        | 1.37%   |
+| G.Skill RAM F4-2400C15-8GFT 8GB DIMM DDR4 2400MT/s      | 1        | 1.37%   |
+| G.Skill RAM F4-2133C15-16GIS 16GB DIMM DDR4 2133MT/s    | 1        | 1.37%   |
+| Crucial RAM Module 8GB SODIMM DDR3 1600MT/s             | 1        | 1.37%   |
+| Crucial RAM CT4G4DFS824A.C8FF 4GB DIMM DDR4 2667MT/s    | 1        | 1.37%   |
+| Crucial RAM CT4G4DFS8213.C8FBD1 4GB DIMM DDR4 2133MT/s  | 1        | 1.37%   |
+| Crucial RAM BLS8G4D240FSB.16FBD2 8GB DIMM DDR4 2400MT/s | 1        | 1.37%   |
+| Crucial RAM BL8G32C16U4BL.M8FE 8GB DIMM DDR4 2667MT/s   | 1        | 1.37%   |
+| Crucial RAM BL8G30C15U4B.M8FE 8GB DIMM DDR4 2666MT/s    | 1        | 1.37%   |
 
 Memory Kind
 -----------
@@ -2203,7 +2205,7 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 17       | 26.98%  |
+| 1600  | 16       | 25.4%   |
 | 1333  | 14       | 22.22%  |
 | 2667  | 6        | 9.52%   |
 | 2400  | 6        | 9.52%   |
@@ -2212,6 +2214,7 @@ Memory module speed
 | 2666  | 2        | 3.17%   |
 | 400   | 2        | 3.17%   |
 | 3000  | 1        | 1.59%   |
+| 1866  | 1        | 1.59%   |
 | 1200  | 1        | 1.59%   |
 | 1066  | 1        | 1.59%   |
 | 800   | 1        | 1.59%   |

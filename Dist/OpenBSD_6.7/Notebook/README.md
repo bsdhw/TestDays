@@ -1535,8 +1535,8 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Samsung Electronics | 2         | 50%     |
 | Unknown             | 2         | 50%     |
+| Samsung Electronics | 2         | 50%     |
 
 Memory Model
 ------------
@@ -1548,9 +1548,11 @@ Memory module models
 
 | Model                                                 | Notebooks | Percent |
 |-------------------------------------------------------|-----------|---------|
-| Unknown                                               | 2         | 50%     |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 25%     |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 25%     |
+| Unknown RAM Module 512MB SODIMM DDR                   | 1         | 20%     |
+| Unknown RAM Module 2048MB SODIMM DDR3 1333MT/s        | 1         | 20%     |
+| Unknown RAM Module 1024MB SODIMM DDR                  | 1         | 20%     |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s | 1         | 20%     |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s | 1         | 20%     |
 
 Memory Kind
 -----------

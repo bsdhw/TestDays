@@ -1226,7 +1226,7 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                           | 5         | 4.55%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 3         | 2.73%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 3         | 2.73%   |
-| KIOXIA unknown                                                                          | 3         | 2.73%   |
+| KIOXIA NVMe SSD Controller BG4                                                          | 3         | 2.73%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 3         | 2.73%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                   | 3         | 2.73%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 3         | 2.73%   |
@@ -1698,7 +1698,7 @@ Monitor models
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch              | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4036 1440x900 300x190mm 14.0-inch                  | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4033 1440x900 300x190mm 14.0-inch                  | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4031 1280x800 290x180mm 13.4-inch                  | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch                  | 1         | 2.08%   |
 | InfoVision M116NWR1 R0  IVO0489 1366x768 260x140mm 11.6-inch             | 1         | 2.08%   |
 | Goldstar L1715S GSM436F 1280x1024 340x270mm 17.1-inch                    | 1         | 2.08%   |
 | Eizo EV2450 ENC2530 1920x1080 530x300mm 24.0-inch                        | 1         | 2.08%   |
@@ -2314,8 +2314,8 @@ Memory module vendors
 
 | Vendor              | Computers | Percent |
 |---------------------|-----------|---------|
-| Samsung Electronics | 4         | 28.57%  |
 | Unknown             | 4         | 28.57%  |
+| Samsung Electronics | 4         | 28.57%  |
 | SK hynix            | 3         | 21.43%  |
 | Micron Technology   | 1         | 7.14%   |
 | Kingston            | 1         | 7.14%   |
@@ -2331,18 +2331,22 @@ Memory module models
 
 | Model                                                  | Computers | Percent |
 |--------------------------------------------------------|-----------|---------|
-| Unknown                                                | 4         | 25%     |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 12.5%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 6.25%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 6.25%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 6.25%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 6.25%   |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 6.25%   |
-| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 6.25%   |
-| Micron RAM 8JSF12864HZ-1G1F1 1GB SODIMM DDR3 800MT/s   | 1         | 6.25%   |
-| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1         | 6.25%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1         | 6.25%   |
-| Elpida RAM Module 1GB SODIMM DDR2 533MT/s              | 1         | 6.25%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 2         | 11.11%  |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s | 2         | 11.11%  |
+| Unknown RAM Module 512MB DIMM 400MT/s                  | 1         | 5.56%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 5.56%   |
+| Unknown RAM Module 256MB DIMM 333MT/s                  | 1         | 5.56%   |
+| Unknown RAM Module 1GB DIMM 400MT/s                    | 1         | 5.56%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5.56%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 5.56%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
+| Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 5.56%   |
+| Micron RAM 8JSF12864HZ-1G1F1 1GB SODIMM DDR3 800MT/s   | 1         | 5.56%   |
+| Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1         | 5.56%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1         | 5.56%   |
+| Elpida RAM Module 1GB SODIMM DDR2 533MT/s              | 1         | 5.56%   |
 
 Memory Kind
 -----------

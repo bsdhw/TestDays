@@ -419,8 +419,8 @@ Motherboard manufacturer
 | Dell                    | 11       | 10.09%  |
 | Gigabyte Technology     | 8        | 7.34%   |
 | ASRock                  | 8        | 7.34%   |
-| Unknown                 | 6        | 5.5%    |
 | Lenovo                  | 5        | 4.59%   |
+| Unknown                 | 5        | 4.59%   |
 | Supermicro              | 4        | 3.67%   |
 | MSI                     | 4        | 3.67%   |
 | Intel                   | 4        | 3.67%   |
@@ -431,6 +431,7 @@ Motherboard manufacturer
 | IBM                     | 2        | 1.83%   |
 | Apple                   | 2        | 1.83%   |
 | ZOTAC                   | 1        | 0.92%   |
+| Unknown                 | 1        | 0.92%   |
 | Shuttle                 | 1        | 0.92%   |
 | Pegatron                | 1        | 0.92%   |
 | HARDKERNEL              | 1        | 0.92%   |
@@ -2311,7 +2312,12 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Unknown                                                 | 7        | 63.64%  |
+| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s          | 2        | 18.18%  |
+| Unknown RAM Module 512MB DIMM SDRAM                     | 1        | 9.09%   |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s               | 1        | 9.09%   |
+| Unknown RAM Module 2048MB DIMM DDR2 266MT/s             | 1        | 9.09%   |
+| Unknown RAM Module 1024MB DIMM DDR                      | 1        | 9.09%   |
+| Unknown RAM Module 1024MB DIMM 800MT/s                  | 1        | 9.09%   |
 | Transcend RAM TS1GSK64W6H 8GB DIMM DDR3 1600MT/s        | 1        | 9.09%   |
 | Ramaxel RAM RMT3170ME68F9F1600 4GB SODIMM DDR3 1600MT/s | 1        | 9.09%   |
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s     | 1        | 9.09%   |

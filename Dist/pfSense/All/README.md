@@ -149,10 +149,12 @@ Contents
 Test Cases
 ----------
 
-Total: 28
+Total: 30
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Intel         | Q3XXG4-P V1.0               | Desktop     | [5b73e61a78](https://bsd-hardware.info/?probe=5b73e61a78) | Jul 31, 2022 |
+| Intel         | Q3XXG4-P V1.0               | Desktop     | [699fea1ac9](https://bsd-hardware.info/?probe=699fea1ac9) | Jul 02, 2022 |
 | Gigabyte      | B85M-D3H                    | Desktop     | [92f62da399](https://bsd-hardware.info/?probe=92f62da399) | Jun 22, 2022 |
 | PC Engines    | APU2                        | Desktop     | [e56b256787](https://bsd-hardware.info/?probe=e56b256787) | Mar 15, 2022 |
 | Intel         | Q3XXG4-P V1.0               | Desktop     | [8bbeb73a52](https://bsd-hardware.info/?probe=8bbeb73a52) | Jan 31, 2022 |
@@ -195,12 +197,12 @@ Installed operating systems
 
 | Name                | Computers | Percent |
 |---------------------|-----------|---------|
-| pfSense 2.4.5       | 13        | 54.17%  |
-| pfSense 2.5.0       | 4         | 16.67%  |
-| pfSense 2.4.4       | 2         | 8.33%   |
-| pfSense 12.3-STABLE | 2         | 8.33%   |
-| pfSense 12.2-STABLE | 2         | 8.33%   |
-| pfSense 2.6.0       | 1         | 4.17%   |
+| pfSense 2.4.5       | 13        | 52%     |
+| pfSense 2.5.0       | 4         | 16%     |
+| pfSense 2.6.0       | 2         | 8%      |
+| pfSense 2.4.4       | 2         | 8%      |
+| pfSense 12.3-STABLE | 2         | 8%      |
+| pfSense 12.2-STABLE | 2         | 8%      |
 
 OS Family
 ---------
@@ -498,9 +500,9 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 19        | 79.17%  |
-| 2      | 3         | 12.5%   |
-| 0      | 2         | 8.33%   |
+| 1      | 20        | 80%     |
+| 2      | 3         | 12%     |
+| 0      | 2         | 8%      |
 
 Has CD-ROM
 ----------
@@ -625,18 +627,18 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 6         | 6      | 25%     |
-| Samsung Electronics | 3         | 3      | 12.5%   |
-| Seagate             | 2         | 2      | 8.33%   |
-| Phison              | 2         | 2      | 8.33%   |
-| Intel               | 2         | 2      | 8.33%   |
-| FORESEE             | 2         | 2      | 8.33%   |
-| Apacer              | 2         | 2      | 8.33%   |
-| WDC                 | 1         | 2      | 4.17%   |
-| SPCC                | 1         | 1      | 4.17%   |
-| SanDisk             | 1         | 1      | 4.17%   |
-| Hoodisk             | 1         | 1      | 4.17%   |
-| China               | 1         | 2      | 4.17%   |
+| Kingston            | 6         | 6      | 24%     |
+| Samsung Electronics | 4         | 4      | 16%     |
+| Seagate             | 2         | 2      | 8%      |
+| Phison              | 2         | 2      | 8%      |
+| Intel               | 2         | 2      | 8%      |
+| FORESEE             | 2         | 2      | 8%      |
+| Apacer              | 2         | 2      | 8%      |
+| WDC                 | 1         | 2      | 4%      |
+| SPCC                | 1         | 1      | 4%      |
+| SanDisk             | 1         | 1      | 4%      |
+| Hoodisk             | 1         | 1      | 4%      |
+| China               | 1         | 2      | 4%      |
 
 Drive Model
 -----------
@@ -648,29 +650,30 @@ Hard drive models
 
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| Kingston SUV500MS120G 120GB       | 2         | 8.33%   |
-| WDC WD10EFRX-68FYTN0 1TB          | 1         | 4.17%   |
-| SPCC Solid State Disk 120GB       | 1         | 4.17%   |
-| Seagate ST500DM002-1BD142 500GB   | 1         | 4.17%   |
-| Seagate ST3160023A 160GB          | 1         | 4.17%   |
-| SanDisk SDSSDA120G 120GB          | 1         | 4.17%   |
-| Samsung SSD RBX Series 64GB M     | 1         | 4.17%   |
-| Samsung SSD 860 EVO 250GB         | 1         | 4.17%   |
-| Samsung SSD 850 EVO 120GB         | 1         | 4.17%   |
-| Phison SATA SSD 32GB              | 1         | 4.17%   |
-| Phison SATA SSD 240GB             | 1         | 4.17%   |
-| Kingston SUV500MS240G 240GB       | 1         | 4.17%   |
-| Kingston SUV500M8120G 120GB       | 1         | 4.17%   |
-| Kingston SNS4151S316G 16GB        | 1         | 4.17%   |
-| Kingston RBUSNS8180DS3128GH 128GB | 1         | 4.17%   |
-| Intel SSDSA2CW080G3 80GB          | 1         | 4.17%   |
-| Intel SSDMCEAC030B3 32GB          | 1         | 4.17%   |
-| Hoodisk SSD 32GB                  | 1         | 4.17%   |
-| FORESEE 64GB SSD                  | 1         | 4.17%   |
-| FORESEE 128GB SSD                 | 1         | 4.17%   |
-| China SATA SSD 256GB              | 1         | 4.17%   |
-| Apacer 64GB SATA Flash Drive      | 1         | 4.17%   |
-| Apacer 32GB SATA Flash Drive      | 1         | 4.17%   |
+| Kingston SUV500MS120G 120GB       | 2         | 8%      |
+| WDC WD10EFRX-68FYTN0 1TB          | 1         | 4%      |
+| SPCC Solid State Disk 120GB       | 1         | 4%      |
+| Seagate ST500DM002-1BD142 500GB   | 1         | 4%      |
+| Seagate ST3160023A 160GB          | 1         | 4%      |
+| SanDisk SDSSDA120G 120GB          | 1         | 4%      |
+| Samsung SSD RBX Series 64GB M     | 1         | 4%      |
+| Samsung SSD 860 EVO 250GB         | 1         | 4%      |
+| Samsung SSD 850 EVO mSATA 250GB   | 1         | 4%      |
+| Samsung SSD 850 EVO 120GB         | 1         | 4%      |
+| Phison SATA SSD 32GB              | 1         | 4%      |
+| Phison SATA SSD 240GB             | 1         | 4%      |
+| Kingston SUV500MS240G 240GB       | 1         | 4%      |
+| Kingston SUV500M8120G 120GB       | 1         | 4%      |
+| Kingston SNS4151S316G 16GB        | 1         | 4%      |
+| Kingston RBUSNS8180DS3128GH 128GB | 1         | 4%      |
+| Intel SSDSA2CW080G3 80GB          | 1         | 4%      |
+| Intel SSDMCEAC030B3 32GB          | 1         | 4%      |
+| Hoodisk SSD 32GB                  | 1         | 4%      |
+| FORESEE 64GB SSD                  | 1         | 4%      |
+| FORESEE 128GB SSD                 | 1         | 4%      |
+| China SATA SSD 256GB              | 1         | 4%      |
+| Apacer 64GB SATA Flash Drive      | 1         | 4%      |
+| Apacer 32GB SATA Flash Drive      | 1         | 4%      |
 
 HDD Vendor
 ----------
@@ -695,16 +698,16 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Kingston            | 6         | 6      | 28.57%  |
-| Samsung Electronics | 3         | 3      | 14.29%  |
-| Phison              | 2         | 2      | 9.52%   |
-| Intel               | 2         | 2      | 9.52%   |
-| FORESEE             | 2         | 2      | 9.52%   |
-| Apacer              | 2         | 2      | 9.52%   |
-| SPCC                | 1         | 1      | 4.76%   |
-| SanDisk             | 1         | 1      | 4.76%   |
-| Hoodisk             | 1         | 1      | 4.76%   |
-| China               | 1         | 2      | 4.76%   |
+| Kingston            | 6         | 6      | 27.27%  |
+| Samsung Electronics | 4         | 4      | 18.18%  |
+| Phison              | 2         | 2      | 9.09%   |
+| Intel               | 2         | 2      | 9.09%   |
+| FORESEE             | 2         | 2      | 9.09%   |
+| Apacer              | 2         | 2      | 9.09%   |
+| SPCC                | 1         | 1      | 4.55%   |
+| SanDisk             | 1         | 1      | 4.55%   |
+| Hoodisk             | 1         | 1      | 4.55%   |
+| China               | 1         | 2      | 4.55%   |
 
 Drive Kind
 ----------
@@ -716,7 +719,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 19        | 22     | 86.36%  |
+| SSD  | 19        | 23     | 86.36%  |
 | HDD  | 3         | 4      | 13.64%  |
 
 Drive Connector
@@ -729,7 +732,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 22        | 26     | 100%    |
+| SATA | 22        | 27     | 100%    |
 
 Drive Size
 ----------
@@ -741,7 +744,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 21        | 24     | 95.45%  |
+| 0.01-0.5   | 21        | 25     | 95.45%  |
 | 0.51-1.0   | 1         | 2      | 4.55%   |
 
 Space Total
@@ -843,7 +846,7 @@ Number of failed and malfunc. drives
 
 | Status  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 20        | 24     | 90.91%  |
+| Works   | 20        | 25     | 90.91%  |
 | Malfunc | 2         | 2      | 9.09%   |
 
 Storage controller
@@ -1469,9 +1472,13 @@ Memory module models
 
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Unknown                                                           | 6         | 27.27%  |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 2         | 9.09%   |
+| Unknown RAM Module 2048MB DIMM SDRAM                              | 2         | 9.09%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 2         | 9.09%   |
 | Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s          | 2         | 9.09%   |
+| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s               | 1         | 4.55%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                       | 1         | 4.55%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                     | 1         | 4.55%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1         | 4.55%   |
 | Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s             | 1         | 4.55%   |
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s                 | 1         | 4.55%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1         | 4.55%   |

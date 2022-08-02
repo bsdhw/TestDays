@@ -1456,12 +1456,12 @@ Memory module vendors
 | Kingston            | 2        | 12.5%   |
 | G.Skill             | 2        | 12.5%   |
 | Corsair             | 2        | 12.5%   |
+| Unknown             | 1        | 6.25%   |
 | SK hynix            | 1        | 6.25%   |
 | Samsung Electronics | 1        | 6.25%   |
 | Nanya Technology    | 1        | 6.25%   |
 | Elpida              | 1        | 6.25%   |
 | Crucial             | 1        | 6.25%   |
-| Unknown             | 1        | 6.25%   |
 
 Memory Model
 ------------
@@ -1474,6 +1474,7 @@ Memory module models
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
 | Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                  | 2        | 12.5%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 6.25%   |
 | SK hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s   | 1        | 6.25%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 6.25%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
@@ -1487,7 +1488,6 @@ Memory module models
 | Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s | 1        | 6.25%   |
 | Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s    | 1        | 6.25%   |
 | Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
-| Unknown                                                   | 1        | 6.25%   |
 
 Memory Kind
 -----------

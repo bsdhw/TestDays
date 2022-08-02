@@ -1166,11 +1166,11 @@ Memory module vendors
 
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
+| Unknown  | 1        | 20%     |
 | SK hynix | 1        | 20%     |
 | Kingston | 1        | 20%     |
 | Elpida   | 1        | 20%     |
 | Crucial  | 1        | 20%     |
-| Unknown  | 1        | 20%     |
 
 Memory Model
 ------------
@@ -1182,12 +1182,12 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 16.67%  |
 | SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s    | 1        | 16.67%  |
 | SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s         | 1        | 16.67%  |
 | Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s  | 1        | 16.67%  |
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s          | 1        | 16.67%  |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s | 1        | 16.67%  |
-| Unknown                                                 | 1        | 16.67%  |
 
 Memory Kind
 -----------

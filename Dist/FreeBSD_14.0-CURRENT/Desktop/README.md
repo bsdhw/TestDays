@@ -1704,7 +1704,7 @@ Memory module vendors
 |---------------------|----------|---------|
 | Kingston            | 5        | 20%     |
 | Corsair             | 5        | 20%     |
-| Unknown             | 4        | 16%     |
+| Unknown             | 3        | 12%     |
 | Micron Technology   | 3        | 12%     |
 | SK hynix            | 2        | 8%      |
 | Crucial             | 2        | 8%      |
@@ -1712,6 +1712,7 @@ Memory module vendors
 | Team                | 1        | 4%      |
 | Smart               | 1        | 4%      |
 | Samsung Electronics | 1        | 4%      |
+| Unknown             | 1        | 4%      |
 
 Memory Model
 ------------
@@ -1723,8 +1724,10 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| Unknown                                                 | 4        | 15.38%  |
 | Corsair RAM CMK32GX4M2D3200C16 16GB DIMM DDR4 3200MT/s  | 2        | 7.69%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 3.85%   |
+| Unknown RAM 3000 C16 Series 4096MB DIMM DDR4 2933MT/s   | 1        | 3.85%   |
+| Unknown RAM 2G-08-10-12-1333 2GB DIMM DDR3 1333MT/s     | 1        | 3.85%   |
 | Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s     | 1        | 3.85%   |
 | Team RAM TEAMGROUP-UD4-4133 8GB DIMM DDR4 4133MT/s      | 1        | 3.85%   |
 | Smart RAM Module 8GB DIMM DDR4 2667MT/s                 | 1        | 3.85%   |
@@ -1736,7 +1739,7 @@ Memory module models
 | Micron RAM 16ATF2G64AZ-3G2J1 16GB DIMM DDR4 3200MT/s    | 1        | 3.85%   |
 | Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s  | 1        | 3.85%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 2666MT/s     | 1        | 3.85%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1600MT/s       | 1        | 3.85%   |
+| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s       | 1        | 3.85%   |
 | Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s   | 1        | 3.85%   |
 | Kingston RAM 9965745-017.A00G 16GB DIMM DDR4 3200MT/s   | 1        | 3.85%   |
 | Kingston RAM 9905713-030.A00G 8GB DIMM DDR4 2666MT/s    | 1        | 3.85%   |
@@ -1745,6 +1748,7 @@ Memory module models
 | Corsair RAM CMK32GX4M2E3200C16 16GB DIMM DDR4 2133MT/s  | 1        | 3.85%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 1        | 3.85%   |
 | Corsair RAM CMD128GX4M8A2400C14 16GB DIMM DDR4 2133MT/s | 1        | 3.85%   |
+| Unknown                                                 | 1        | 3.85%   |
 
 Memory Kind
 -----------
@@ -1802,11 +1806,12 @@ Memory module speed
 | 2666  | 4        | 16%     |
 | 2667  | 3        | 12%     |
 | 2133  | 2        | 8%      |
-| 1600  | 2        | 8%      |
 | 4133  | 1        | 4%      |
 | 3600  | 1        | 4%      |
 | 3000  | 1        | 4%      |
 | 2933  | 1        | 4%      |
+| 1866  | 1        | 4%      |
+| 1600  | 1        | 4%      |
 | 1333  | 1        | 4%      |
 
 Printers & scanners

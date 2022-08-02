@@ -1322,7 +1322,7 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Unknown             | 2        | 22.22%  |
+| Unknown             | 1        | 11.11%  |
 | Samsung Electronics | 1        | 11.11%  |
 | Nanya Technology    | 1        | 11.11%  |
 | Micron Technology   | 1        | 11.11%  |
@@ -1330,6 +1330,7 @@ Memory module vendors
 | Kingmax             | 1        | 11.11%  |
 | G.Skill             | 1        | 11.11%  |
 | Corsair             | 1        | 11.11%  |
+| Unknown             | 1        | 11.11%  |
 
 Memory Model
 ------------
@@ -1341,7 +1342,7 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Unknown                                                | 2        | 22.22%  |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 1        | 11.11%  |
 | Samsung RAM M391A4G43MB1-CTD 32GB DIMM DDR4 3200MT/s   | 1        | 11.11%  |
 | Nanya RAM M2F4G64CB8HB5N-CG 4GB DIMM DDR3 1333MT/s     | 1        | 11.11%  |
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s    | 1        | 11.11%  |
@@ -1349,6 +1350,7 @@ Memory module models
 | Kingmax RAM FLFF65F-C8KL9 4GB DIMM DDR3 1333MT/s       | 1        | 11.11%  |
 | G.Skill RAM F4-4000C18-8GTZ 8GB DIMM DDR4 3333MT/s     | 1        | 11.11%  |
 | Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 1        | 11.11%  |
+| Unknown                                                | 1        | 11.11%  |
 
 Memory Kind
 -----------

@@ -1726,8 +1726,8 @@ Memory module vendors
 | Micron Technology   | 3         | 9.09%   |
 | Kingston            | 3         | 9.09%   |
 | Crucial             | 2         | 6.06%   |
-| Corsair             | 1         | 3.03%   |
 | Unknown             | 1         | 3.03%   |
+| Corsair             | 1         | 3.03%   |
 
 Memory Model
 ------------
@@ -1739,6 +1739,7 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 8192MB SODIMM DDR3 1600MT/s               | 1         | 2.78%   |
 | SK hynix RAM Module 8192MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                 | 1         | 2.78%   |
 | SK hynix RAM Module 4096MB SODIMM DDR3 1600MT/s              | 1         | 2.78%   |
@@ -1774,7 +1775,6 @@ Memory module models
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
 | Crucial RAM CT102464BF1339.M16 8GB SODIMM DDR3 1333MT/s      | 1         | 2.78%   |
 | Corsair RAM CMSO8GX3M1C1600C11 8GB SODIMM DDR3 1600MT/s      | 1         | 2.78%   |
-| Unknown                                                      | 1         | 2.78%   |
 
 Memory Kind
 -----------

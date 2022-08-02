@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 48
+Total: 49
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| Deciso    | Netboard A20                | [c70ba0979e](https://bsd-hardware.info/?probe=c70ba0979e) | Jul 07, 2022 |
 | Lenovo    | IdeaPad Y700-15ISK 80NV     | [1cc5f44e4a](https://bsd-hardware.info/?probe=1cc5f44e4a) | May 25, 2022 |
 | Lenovo    | IdeaPad Y700-15ISK 80NV     | [ddaca5356c](https://bsd-hardware.info/?probe=ddaca5356c) | May 21, 2022 |
 | Deciso    | DEC2700 - OPNsense Appli... | [926afc7ac8](https://bsd-hardware.info/?probe=926afc7ac8) | Apr 07, 2022 |
@@ -213,30 +214,31 @@ Installed operating systems
 
 | Name                    | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| helloSystem 0.5.0       | 3         | 9.68%   |
-| FreeBSD 13.0            | 3         | 9.68%   |
-| FreeBSD 13.0-STABLE     | 2         | 6.45%   |
-| FreeBSD 13.0-p7         | 2         | 6.45%   |
-| FreeBSD 12.1-p8         | 2         | 6.45%   |
-| OPNsense 22.1.4         | 1         | 3.23%   |
-| OPNsense 22.1.1         | 1         | 3.23%   |
-| OPNsense 21.1.5         | 1         | 3.23%   |
-| OpenBSD 7.0             | 1         | 3.23%   |
-| OpenBSD 6.8             | 1         | 3.23%   |
-| OpenBSD 6.7             | 1         | 3.23%   |
-| GhostBSD 21.08.27       | 1         | 3.23%   |
-| GhostBSD 20.04.02       | 1         | 3.23%   |
-| FreeBSD 14.0-CURRENT    | 1         | 3.23%   |
-| FreeBSD 13.1-STABLE     | 1         | 3.23%   |
-| FreeBSD 13.1-PRERELEASE | 1         | 3.23%   |
-| FreeBSD 13.0-p6         | 1         | 3.23%   |
-| FreeBSD 13.0-p5         | 1         | 3.23%   |
-| FreeBSD 13.0-p1         | 1         | 3.23%   |
-| FreeBSD 12.2-STABLE     | 1         | 3.23%   |
-| FreeBSD 12.2-p4         | 1         | 3.23%   |
-| FreeBSD 12.2            | 1         | 3.23%   |
-| FreeBSD 12.1-p22-HBSD   | 1         | 3.23%   |
-| FreeBSD 12.1            | 1         | 3.23%   |
+| helloSystem 0.5.0       | 3         | 9.38%   |
+| FreeBSD 13.0            | 3         | 9.38%   |
+| FreeBSD 13.0-STABLE     | 2         | 6.25%   |
+| FreeBSD 13.0-p7         | 2         | 6.25%   |
+| FreeBSD 12.1-p8         | 2         | 6.25%   |
+| OPNsense 22.1.9         | 1         | 3.13%   |
+| OPNsense 22.1.4         | 1         | 3.13%   |
+| OPNsense 22.1.1         | 1         | 3.13%   |
+| OPNsense 21.1.5         | 1         | 3.13%   |
+| OpenBSD 7.0             | 1         | 3.13%   |
+| OpenBSD 6.8             | 1         | 3.13%   |
+| OpenBSD 6.7             | 1         | 3.13%   |
+| GhostBSD 21.08.27       | 1         | 3.13%   |
+| GhostBSD 20.04.02       | 1         | 3.13%   |
+| FreeBSD 14.0-CURRENT    | 1         | 3.13%   |
+| FreeBSD 13.1-STABLE     | 1         | 3.13%   |
+| FreeBSD 13.1-PRERELEASE | 1         | 3.13%   |
+| FreeBSD 13.0-p6         | 1         | 3.13%   |
+| FreeBSD 13.0-p5         | 1         | 3.13%   |
+| FreeBSD 13.0-p1         | 1         | 3.13%   |
+| FreeBSD 12.2-STABLE     | 1         | 3.13%   |
+| FreeBSD 12.2-p4         | 1         | 3.13%   |
+| FreeBSD 12.2            | 1         | 3.13%   |
+| FreeBSD 12.1-p22-HBSD   | 1         | 3.13%   |
+| FreeBSD 12.1            | 1         | 3.13%   |
 
 OS Family
 ---------
@@ -248,11 +250,11 @@ OS without a version
 
 | Name        | Notebooks | Percent |
 |-------------|-----------|---------|
-| FreeBSD     | 16        | 59.26%  |
-| OPNsense    | 3         | 11.11%  |
-| OpenBSD     | 3         | 11.11%  |
-| helloSystem | 3         | 11.11%  |
-| GhostBSD    | 2         | 7.41%   |
+| FreeBSD     | 16        | 57.14%  |
+| OPNsense    | 4         | 14.29%  |
+| OpenBSD     | 3         | 10.71%  |
+| helloSystem | 3         | 10.71%  |
+| GhostBSD    | 2         | 7.14%   |
 
 Arch
 ----
@@ -355,9 +357,9 @@ Type of filesystem
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| Zfs  | 17        | 62.96%  |
-| Ufs  | 7         | 25.93%  |
-| Ffs  | 3         | 11.11%  |
+| Zfs  | 18        | 64.29%  |
+| Ufs  | 7         | 25%     |
+| Ffs  | 3         | 10.71%  |
 
 Part. scheme
 ------------
@@ -626,20 +628,20 @@ Geographic location (city)
 
 | City                   | Notebooks | Percent |
 |------------------------|-----------|---------|
-| Zurich                 | 14        | 46.67%  |
-| Therwil                | 2         | 6.67%   |
-| Munchenstein           | 2         | 6.67%   |
-| Corcelles-pres-Payerne | 2         | 6.67%   |
-| St. Moritz             | 1         | 3.33%   |
-| Onex                   | 1         | 3.33%   |
-| Lenzburg               | 1         | 3.33%   |
-| Langnau am Albis       | 1         | 3.33%   |
-| Glattbrugg             | 1         | 3.33%   |
-| Dinhard                | 1         | 3.33%   |
-| Broc                   | 1         | 3.33%   |
-| Bern                   | 1         | 3.33%   |
-| Basel                  | 1         | 3.33%   |
-| Adliswil               | 1         | 3.33%   |
+| Zurich                 | 14        | 45.16%  |
+| Therwil                | 2         | 6.45%   |
+| Munchenstein           | 2         | 6.45%   |
+| Glattbrugg             | 2         | 6.45%   |
+| Corcelles-pres-Payerne | 2         | 6.45%   |
+| St. Moritz             | 1         | 3.23%   |
+| Onex                   | 1         | 3.23%   |
+| Lenzburg               | 1         | 3.23%   |
+| Langnau am Albis       | 1         | 3.23%   |
+| Dinhard                | 1         | 3.23%   |
+| Broc                   | 1         | 3.23%   |
+| Bern                   | 1         | 3.23%   |
+| Basel                  | 1         | 3.23%   |
+| Adliswil               | 1         | 3.23%   |
 
 Drives
 ------
@@ -656,7 +658,7 @@ Hard drive vendors
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 11        | 13     | 36.67%  |
 | WDC                 | 4         | 4      | 13.33%  |
-| Transcend           | 2         | 2      | 6.67%   |
+| Transcend           | 2         | 3      | 6.67%   |
 | Toshiba             | 2         | 2      | 6.67%   |
 | SanDisk             | 2         | 2      | 6.67%   |
 | NVMe                | 2         | 2      | 6.67%   |
@@ -735,7 +737,7 @@ Solid state drive vendors
 | Toshiba             | 2         | 2      | 12.5%   |
 | SanDisk             | 2         | 2      | 12.5%   |
 | WDC                 | 1         | 1      | 6.25%   |
-| Transcend           | 1         | 1      | 6.25%   |
+| Transcend           | 1         | 2      | 6.25%   |
 | LITEON              | 1         | 9      | 6.25%   |
 | Kingston            | 1         | 1      | 6.25%   |
 | Intel               | 1         | 2      | 6.25%   |
@@ -751,7 +753,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 15        | 27     | 51.72%  |
+| SSD  | 15        | 28     | 51.72%  |
 | NVMe | 10        | 10     | 34.48%  |
 | HDD  | 4         | 4      | 13.79%  |
 
@@ -765,7 +767,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 18        | 31     | 64.29%  |
+| SATA | 18        | 32     | 64.29%  |
 | NVMe | 10        | 10     | 35.71%  |
 
 Drive Size
@@ -778,7 +780,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 13        | 17     | 68.42%  |
+| 0.01-0.5   | 13        | 18     | 68.42%  |
 | 0.51-1.0   | 5         | 13     | 26.32%  |
 | 1.01-2.0   | 1         | 1      | 5.26%   |
 
@@ -879,7 +881,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 25        | 37     | 89.29%  |
+| Works    | 25        | 38     | 89.29%  |
 | Detected | 2         | 2      | 7.14%   |
 | Malfunc  | 1         | 2      | 3.57%   |
 
@@ -1642,7 +1644,7 @@ Sound card models
 | Intel Cannon Point-LP High Definition Audio Controller                     | 2         | 5.71%   |
 | Intel Broadwell-U Audio Controller                                         | 2         | 5.71%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 2         | 5.71%   |
-| Nvidia unknown                                                             | 1         | 2.86%   |
+| Nvidia GA106 High Definition Audio Controller                              | 1         | 2.86%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 1         | 2.86%   |
 | Intel Tiger Lake-H HD Audio Controller                                     | 1         | 2.86%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 1         | 2.86%   |
@@ -1672,10 +1674,10 @@ Memory module vendors
 | SK hynix            | 4         | 14.81%  |
 | Kingston            | 4         | 14.81%  |
 | Transcend           | 2         | 7.41%   |
+| Unknown             | 1         | 3.7%    |
 | Elpida              | 1         | 3.7%    |
 | Corsair             | 1         | 3.7%    |
 | A-DATA Technology   | 1         | 3.7%    |
-| Unknown             | 1         | 3.7%    |
 
 Memory Model
 ------------
@@ -1689,6 +1691,7 @@ Memory module models
 |----------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s    | 2         | 7.14%   |
 | Micron RAM MT52L512M32D2PF-09 4GB Row Of Chips LPDDR3 2133MT/s | 2         | 7.14%   |
+| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                     | 1         | 3.57%   |
 | Transcend RAM TS1GLH64V6BL 8GB SODIMM DDR4 2667MT/s            | 1         | 3.57%   |
 | Transcend RAM TS1GLH64V6B3 8GB SODIMM DDR4 1333MT/s            | 1         | 3.57%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s           | 1         | 3.57%   |
@@ -1712,7 +1715,6 @@ Memory module models
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 3.57%   |
 | Corsair RAM CMSO32GX4M2A2133C15 16GB SODIMM DDR4 2133MT/s      | 1         | 3.57%   |
 | A-DATA RAM MIF4D2C087KZ1 4096MB SODIMM DDR3 1600MT/s           | 1         | 3.57%   |
-| Unknown                                                        | 1         | 3.57%   |
 
 Memory Kind
 -----------

@@ -1521,7 +1521,11 @@ Memory module models
 
 | Model                                                      | Notebooks | Percent |
 |------------------------------------------------------------|-----------|---------|
-| Unknown                                                    | 5         | 31.25%  |
+| Unknown RAM Module 512MB SODIMM DRAM 166MT/s               | 1         | 6.25%   |
+| Unknown RAM Module 512MB SODIMM DDR2 533MT/s               | 1         | 6.25%   |
+| Unknown RAM Module 2GB SODIMM DDR3                         | 1         | 6.25%   |
+| Unknown RAM Module 256MB SODIMM DDR                        | 1         | 6.25%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM 266MT/s             | 1         | 6.25%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s     | 1         | 6.25%   |
 | SHARETRONIC RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1         | 6.25%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s      | 1         | 6.25%   |

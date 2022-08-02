@@ -147,10 +147,19 @@ Contents
 Test Cases
 ----------
 
-Total: 162
+Total: 171
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Protectli     | FW6                         | [b686fdf1c1](https://bsd-hardware.info/?probe=b686fdf1c1) | Jul 31, 2022 |
+| Unknown       | Unknown                     | [0b84314fbf](https://bsd-hardware.info/?probe=0b84314fbf) | Jul 28, 2022 |
+| Unknown       | Unknown                     | [4e721b00d5](https://bsd-hardware.info/?probe=4e721b00d5) | Jul 28, 2022 |
+| PC Engines    | APU2                        | [7d3a1f2825](https://bsd-hardware.info/?probe=7d3a1f2825) | Jul 14, 2022 |
+| PC Engines    | APU2                        | [0dd60aeb9a](https://bsd-hardware.info/?probe=0dd60aeb9a) | Jul 14, 2022 |
+| Biostar       | H61MHV2                     | [58a61e6171](https://bsd-hardware.info/?probe=58a61e6171) | Jul 11, 2022 |
+| Biostar       | H61MHV2                     | [2aa5e2a62d](https://bsd-hardware.info/?probe=2aa5e2a62d) | Jul 08, 2022 |
+| Dell          | 02YYK5 A00                  | [fb2e5bec61](https://bsd-hardware.info/?probe=fb2e5bec61) | Jul 05, 2022 |
+| Dell          | 02YYK5 A00                  | [629de6cdb6](https://bsd-hardware.info/?probe=629de6cdb6) | Jul 05, 2022 |
 | HP            | 1494                        | [3a61eb7bae](https://bsd-hardware.info/?probe=3a61eb7bae) | Jul 01, 2022 |
 | Gigabyte      | X570 AORUS MASTER           | [34bb6613ee](https://bsd-hardware.info/?probe=34bb6613ee) | Jun 23, 2022 |
 | Unknown       | Unknown                     | [d7d6b654a4](https://bsd-hardware.info/?probe=d7d6b654a4) | Jun 22, 2022 |
@@ -327,52 +336,54 @@ Installed operating systems
 
 | Name                 | Desktops | Percent |
 |----------------------|----------|---------|
-| OPNsense 21.7.3      | 7        | 5.74%   |
-| OPNsense 21.7.1      | 7        | 5.74%   |
-| OPNsense 21.1.6      | 7        | 5.74%   |
-| OPNsense 20.7.8      | 7        | 5.74%   |
-| OPNsense 22.1.8      | 6        | 4.92%   |
-| OPNsense 21.7.6      | 5        | 4.1%    |
-| OPNsense 22.1.6      | 4        | 3.28%   |
-| OPNsense 22.1.3      | 4        | 3.28%   |
-| OPNsense 21.7.7      | 4        | 3.28%   |
-| OPNsense 21.1.3      | 4        | 3.28%   |
-| OPNsense 21.1        | 4        | 3.28%   |
-| OpenBSD 6.8          | 4        | 3.28%   |
-| OPNsense 22.1.7      | 3        | 2.46%   |
-| OPNsense 22.1.1      | 3        | 2.46%   |
-| OPNsense 21.7        | 3        | 2.46%   |
-| OPNsense 21.1.8      | 3        | 2.46%   |
-| OPNsense 21.1.2      | 3        | 2.46%   |
-| OPNsense 22.1.4      | 2        | 1.64%   |
-| OPNsense 22.1.2      | 2        | 1.64%   |
-| OPNsense 22.1        | 2        | 1.64%   |
-| OPNsense 21.7.5      | 2        | 1.64%   |
-| OPNsense 21.7.4      | 2        | 1.64%   |
-| OPNsense 21.1.9      | 2        | 1.64%   |
-| OPNsense 21.1.7      | 2        | 1.64%   |
-| OPNsense 21.1.5      | 2        | 1.64%   |
-| OPNsense 21.1.4      | 2        | 1.64%   |
-| OpenBSD 7.0          | 2        | 1.64%   |
-| OpenBSD 6.7          | 2        | 1.64%   |
-| FreeBSD 13.0-p7      | 2        | 1.64%   |
-| FreeBSD 12.2-p2      | 2        | 1.64%   |
-| FreeBSD 12.1-STABLE  | 2        | 1.64%   |
-| FreeBSD 12.1-p5      | 2        | 1.64%   |
-| TrueNAS 12.2-p6      | 1        | 0.82%   |
-| TrueNAS 12.2-p12     | 1        | 0.82%   |
-| OPNsense 22.1.9      | 1        | 0.82%   |
-| OPNsense 20.7.5      | 1        | 0.82%   |
-| OpenBSD 6.9          | 1        | 0.82%   |
-| helloSystem 0.6.0    | 1        | 0.82%   |
-| helloSystem 0.4.0    | 1        | 0.82%   |
-| GhostBSD 20.04.02    | 1        | 0.82%   |
-| FreeBSD 14.0-CURRENT | 1        | 0.82%   |
-| FreeBSD 13.0-p5      | 1        | 0.82%   |
-| FreeBSD 12.2-p4      | 1        | 0.82%   |
-| FreeBSD 12.2-p1      | 1        | 0.82%   |
-| FreeBSD 12.2         | 1        | 0.82%   |
-| FreeBSD 12.1-p8      | 1        | 0.82%   |
+| OPNsense 21.7.3      | 7        | 5.47%   |
+| OPNsense 21.7.1      | 7        | 5.47%   |
+| OPNsense 21.1.6      | 7        | 5.47%   |
+| OPNsense 20.7.8      | 7        | 5.47%   |
+| OPNsense 22.1.8      | 6        | 4.69%   |
+| OPNsense 21.7.6      | 5        | 3.91%   |
+| OPNsense 22.1.6      | 4        | 3.13%   |
+| OPNsense 22.1.3      | 4        | 3.13%   |
+| OPNsense 21.7.7      | 4        | 3.13%   |
+| OPNsense 21.1.3      | 4        | 3.13%   |
+| OPNsense 21.1        | 4        | 3.13%   |
+| OpenBSD 6.8          | 4        | 3.13%   |
+| OPNsense 22.7        | 3        | 2.34%   |
+| OPNsense 22.1.7      | 3        | 2.34%   |
+| OPNsense 22.1.1      | 3        | 2.34%   |
+| OPNsense 21.7        | 3        | 2.34%   |
+| OPNsense 21.1.8      | 3        | 2.34%   |
+| OPNsense 21.1.2      | 3        | 2.34%   |
+| OPNsense 22.1.9      | 2        | 1.56%   |
+| OPNsense 22.1.4      | 2        | 1.56%   |
+| OPNsense 22.1.2      | 2        | 1.56%   |
+| OPNsense 22.1.10     | 2        | 1.56%   |
+| OPNsense 22.1        | 2        | 1.56%   |
+| OPNsense 21.7.5      | 2        | 1.56%   |
+| OPNsense 21.7.4      | 2        | 1.56%   |
+| OPNsense 21.1.9      | 2        | 1.56%   |
+| OPNsense 21.1.7      | 2        | 1.56%   |
+| OPNsense 21.1.5      | 2        | 1.56%   |
+| OPNsense 21.1.4      | 2        | 1.56%   |
+| OpenBSD 7.0          | 2        | 1.56%   |
+| OpenBSD 6.7          | 2        | 1.56%   |
+| FreeBSD 13.0-p7      | 2        | 1.56%   |
+| FreeBSD 12.2-p2      | 2        | 1.56%   |
+| FreeBSD 12.1-STABLE  | 2        | 1.56%   |
+| FreeBSD 12.1-p5      | 2        | 1.56%   |
+| TrueNAS 12.2-p6      | 1        | 0.78%   |
+| TrueNAS 12.2-p12     | 1        | 0.78%   |
+| OPNsense 20.7.5      | 1        | 0.78%   |
+| OpenBSD 6.9          | 1        | 0.78%   |
+| helloSystem 0.6.0    | 1        | 0.78%   |
+| helloSystem 0.4.0    | 1        | 0.78%   |
+| GhostBSD 20.04.02    | 1        | 0.78%   |
+| FreeBSD 14.0-CURRENT | 1        | 0.78%   |
+| FreeBSD 13.0-p5      | 1        | 0.78%   |
+| FreeBSD 12.2-p4      | 1        | 0.78%   |
+| FreeBSD 12.2-p1      | 1        | 0.78%   |
+| FreeBSD 12.2         | 1        | 0.78%   |
+| FreeBSD 12.1-p8      | 1        | 0.78%   |
 
 OS Family
 ---------
@@ -463,11 +474,11 @@ Language
 
 | Lang    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 79       | 84.95%  |
-| en_US   | 8        | 8.6%    |
-| C       | 4        | 4.3%    |
-| de_DE   | 1        | 1.08%   |
-| de_CH   | 1        | 1.08%   |
+| Unknown | 79       | 84.04%  |
+| en_US   | 8        | 8.51%   |
+| C       | 5        | 5.32%   |
+| de_DE   | 1        | 1.06%   |
+| de_CH   | 1        | 1.06%   |
 
 Boot Mode
 ---------
@@ -860,66 +871,66 @@ Geographic location (city)
 
 | City                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Zurich                   | 21       | 19.81%  |
-| Gachnang                 | 6        | 5.66%   |
-| Gordola                  | 5        | 4.72%   |
-| Winterthur               | 3        | 2.83%   |
-| St. Moritz               | 3        | 2.83%   |
-| Lenzburg                 | 3        | 2.83%   |
-| Lausanne                 | 3        | 2.83%   |
-| St. Gallen               | 2        | 1.89%   |
-| Riehen                   | 2        | 1.89%   |
-| Ottenbach                | 2        | 1.89%   |
-| Oensingen                | 2        | 1.89%   |
-| Mettmenstetten           | 2        | 1.89%   |
-| Basel                    | 2        | 1.89%   |
-| Yverdon-les-Bains        | 1        | 0.94%   |
-| Yens                     | 1        | 0.94%   |
-| Worblaufen               | 1        | 0.94%   |
-| Willisau                 | 1        | 0.94%   |
-| Wetzikon                 | 1        | 0.94%   |
-| Wettswil                 | 1        | 0.94%   |
-| Welschenrohr             | 1        | 0.94%   |
-| Uster                    | 1        | 0.94%   |
-| Trogen                   | 1        | 0.94%   |
-| Suhr                     | 1        | 0.94%   |
-| Steckborn                | 1        | 0.94%   |
-| Sitterdorf               | 1        | 0.94%   |
-| Rumlang                  | 1        | 0.94%   |
-| Riviera                  | 1        | 0.94%   |
-| Rickenbach bei Wil       | 1        | 0.94%   |
-| Richterswil              | 1        | 0.94%   |
-| Renens                   | 1        | 0.94%   |
-| Pfaeffikon               | 1        | 0.94%   |
-| Opfikon                  | 1        | 0.94%   |
-| Oftringen                | 1        | 0.94%   |
-| Niederbipp               | 1        | 0.94%   |
-| Nidau                    | 1        | 0.94%   |
-| Neuenegg                 | 1        | 0.94%   |
-| Naters                   | 1        | 0.94%   |
-| Moosseedorf              | 1        | 0.94%   |
-| Mellingen                | 1        | 0.94%   |
-| Lupfig                   | 1        | 0.94%   |
-| Lucerne                  | 1        | 0.94%   |
-| Lohnstorf                | 1        | 0.94%   |
-| Liestal                  | 1        | 0.94%   |
-| La Tour-de-Peilz         | 1        | 0.94%   |
-| Jona                     | 1        | 0.94%   |
-| Hittnau / Hittnau (Dorf) | 1        | 0.94%   |
-| Herrliberg               | 1        | 0.94%   |
-| Hemberg                  | 1        | 0.94%   |
-| Geneva                   | 1        | 0.94%   |
-| Frauenfeld               | 1        | 0.94%   |
-| Fechy                    | 1        | 0.94%   |
-| Ennetbaden               | 1        | 0.94%   |
-| Eiken                    | 1        | 0.94%   |
-| Dubendorf                | 1        | 0.94%   |
-| Dietikon                 | 1        | 0.94%   |
-| Diepoldsau               | 1        | 0.94%   |
-| Davesco                  | 1        | 0.94%   |
-| Butzberg                 | 1        | 0.94%   |
-| Burgdorf                 | 1        | 0.94%   |
-| Buchs / Buchs (Dorf)     | 1        | 0.94%   |
+| Zurich                   | 21       | 19.27%  |
+| Gachnang                 | 6        | 5.5%    |
+| Gordola                  | 5        | 4.59%   |
+| Winterthur               | 4        | 3.67%   |
+| St. Moritz               | 3        | 2.75%   |
+| Lenzburg                 | 3        | 2.75%   |
+| Lausanne                 | 3        | 2.75%   |
+| St. Gallen               | 2        | 1.83%   |
+| Riehen                   | 2        | 1.83%   |
+| Ottenbach                | 2        | 1.83%   |
+| Oensingen                | 2        | 1.83%   |
+| Mettmenstetten           | 2        | 1.83%   |
+| Basel                    | 2        | 1.83%   |
+| Yverdon-les-Bains        | 1        | 0.92%   |
+| Yens                     | 1        | 0.92%   |
+| Worblaufen               | 1        | 0.92%   |
+| Willisau                 | 1        | 0.92%   |
+| Wetzikon                 | 1        | 0.92%   |
+| Wettswil                 | 1        | 0.92%   |
+| Welschenrohr             | 1        | 0.92%   |
+| Uster                    | 1        | 0.92%   |
+| Trogen                   | 1        | 0.92%   |
+| Suhr                     | 1        | 0.92%   |
+| Steckborn                | 1        | 0.92%   |
+| Sitterdorf               | 1        | 0.92%   |
+| Rumlang                  | 1        | 0.92%   |
+| Riviera                  | 1        | 0.92%   |
+| Rickenbach bei Wil       | 1        | 0.92%   |
+| Richterswil              | 1        | 0.92%   |
+| Renens                   | 1        | 0.92%   |
+| Pfaeffikon               | 1        | 0.92%   |
+| Opfikon                  | 1        | 0.92%   |
+| Oftringen                | 1        | 0.92%   |
+| Oberrieden               | 1        | 0.92%   |
+| Niederbipp               | 1        | 0.92%   |
+| Nidau                    | 1        | 0.92%   |
+| Neuenegg                 | 1        | 0.92%   |
+| Naters                   | 1        | 0.92%   |
+| Moosseedorf              | 1        | 0.92%   |
+| Mellingen                | 1        | 0.92%   |
+| Malans                   | 1        | 0.92%   |
+| Lupfig                   | 1        | 0.92%   |
+| Lucerne                  | 1        | 0.92%   |
+| Lohnstorf                | 1        | 0.92%   |
+| Liestal                  | 1        | 0.92%   |
+| La Tour-de-Peilz         | 1        | 0.92%   |
+| Jona                     | 1        | 0.92%   |
+| Hittnau / Hittnau (Dorf) | 1        | 0.92%   |
+| Herrliberg               | 1        | 0.92%   |
+| Hemberg                  | 1        | 0.92%   |
+| Geneva                   | 1        | 0.92%   |
+| Frauenfeld               | 1        | 0.92%   |
+| Fechy                    | 1        | 0.92%   |
+| Ennetbaden               | 1        | 0.92%   |
+| Eiken                    | 1        | 0.92%   |
+| Dubendorf                | 1        | 0.92%   |
+| Dietikon                 | 1        | 0.92%   |
+| Diepoldsau               | 1        | 0.92%   |
+| Davesco                  | 1        | 0.92%   |
+| Butzberg                 | 1        | 0.92%   |
 
 Drives
 ------
@@ -934,19 +945,19 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 18       | 33     | 18.95%  |
+| Samsung Electronics | 18       | 34     | 18.95%  |
 | Phison              | 13       | 16     | 13.68%  |
-| WDC                 | 10       | 16     | 10.53%  |
+| WDC                 | 10       | 17     | 10.53%  |
 | Kingston            | 8        | 8      | 8.42%   |
 | Seagate             | 7        | 8      | 7.37%   |
-| Hoodisk             | 5        | 6      | 5.26%   |
+| Hoodisk             | 5        | 7      | 5.26%   |
 | Intel               | 4        | 17     | 4.21%   |
 | Crucial             | 4        | 10     | 4.21%   |
 | HPT                 | 3        | 35     | 3.16%   |
 | Hitachi             | 3        | 3      | 3.16%   |
 | Corsair             | 3        | 4      | 3.16%   |
 | Toshiba             | 2        | 3      | 2.11%   |
-| ShiJi               | 2        | 3      | 2.11%   |
+| ShiJi               | 2        | 4      | 2.11%   |
 | SanDisk             | 2        | 4      | 2.11%   |
 | China               | 2        | 3      | 2.11%   |
 | Transcend           | 1        | 1      | 1.05%   |
@@ -1060,14 +1071,14 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 26     | 20.63%  |
+| Samsung Electronics | 13       | 27     | 20.63%  |
 | Phison              | 13       | 16     | 20.63%  |
 | Kingston            | 8        | 8      | 12.7%   |
-| Hoodisk             | 5        | 6      | 7.94%   |
+| Hoodisk             | 5        | 7      | 7.94%   |
 | Intel               | 4        | 17     | 6.35%   |
 | Crucial             | 4        | 10     | 6.35%   |
-| WDC                 | 3        | 4      | 4.76%   |
-| ShiJi               | 2        | 3      | 3.17%   |
+| WDC                 | 3        | 5      | 4.76%   |
+| ShiJi               | 2        | 4      | 3.17%   |
 | SanDisk             | 2        | 4      | 3.17%   |
 | Corsair             | 2        | 3      | 3.17%   |
 | Transcend           | 1        | 1      | 1.59%   |
@@ -1088,7 +1099,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 62       | 107    | 70.45%  |
+| SSD  | 62       | 111    | 70.45%  |
 | HDD  | 17       | 67     | 19.32%  |
 | NVMe | 9        | 10     | 10.23%  |
 
@@ -1102,7 +1113,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 71       | 174    | 88.75%  |
+| SATA | 71       | 178    | 88.75%  |
 | NVMe | 9        | 10     | 11.25%  |
 
 Drive Size
@@ -1115,13 +1126,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 70       | 118    | 70%     |
-| 0.51-1.0   | 7        | 12     | 7%      |
-| 1.01-2.0   | 6        | 7      | 6%      |
-| 4.01-10.0  | 6        | 10     | 6%      |
-| 2.01-3.0   | 5        | 19     | 5%      |
-| 3.01-4.0   | 4        | 4      | 4%      |
-| 10.01-20.0 | 2        | 4      | 2%      |
+| 0.01-0.5   | 70       | 123    | 70.71%  |
+| 0.51-1.0   | 7        | 12     | 7.07%   |
+| 4.01-10.0  | 6        | 10     | 6.06%   |
+| 2.01-3.0   | 5        | 19     | 5.05%   |
+| 1.01-2.0   | 5        | 6      | 5.05%   |
+| 3.01-4.0   | 4        | 4      | 4.04%   |
+| 10.01-20.0 | 2        | 4      | 2.02%   |
 
 Space Total
 -----------
@@ -1133,13 +1144,13 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 101-250    | 44       | 46.81%  |
-| 1-20       | 16       | 17.02%  |
-| 51-100     | 13       | 13.83%  |
-| 21-50      | 12       | 12.77%  |
-| 251-500    | 4        | 4.26%   |
-| 501-1000   | 4        | 4.26%   |
-| 1001-2000  | 1        | 1.06%   |
+| 101-250    | 44       | 46.32%  |
+| 1-20       | 17       | 17.89%  |
+| 51-100     | 13       | 13.68%  |
+| 21-50      | 12       | 12.63%  |
+| 251-500    | 4        | 4.21%   |
+| 501-1000   | 4        | 4.21%   |
+| 1001-2000  | 1        | 1.05%   |
 
 Space Used
 ----------
@@ -1166,7 +1177,7 @@ Drive models with a malfunction
 
 | Model                         | Desktops | Drives | Percent |
 |-------------------------------|----------|--------|---------|
-| WDC WDS120G2G0A-00JH30 120GB  | 1        | 1      | 8.33%   |
+| WDC WDS120G2G0A-00JH30 120GB  | 1        | 2      | 8.33%   |
 | WDC WD6002FRYZ-01WD5B1 6TB    | 1        | 5      | 8.33%   |
 | WDC WD40EFRX-68WT0N0 4TB      | 1        | 1      | 8.33%   |
 | WDC WD2002FYPS-01U1B0 2TB     | 1        | 1      | 8.33%   |
@@ -1189,7 +1200,7 @@ Vendors of faulty drives
 
 | Vendor   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| WDC      | 3        | 8      | 27.27%  |
+| WDC      | 3        | 9      | 27.27%  |
 | Intel    | 3        | 7      | 27.27%  |
 | Toshiba  | 1        | 1      | 9.09%   |
 | Seagate  | 1        | 1      | 9.09%   |
@@ -1222,7 +1233,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 6        | 11     | 60%     |
+| SSD  | 6        | 12     | 60%     |
 | HDD  | 4        | 10     | 40%     |
 
 Failed Drives
@@ -1249,8 +1260,8 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 72       | 121    | 83.72%  |
-| Malfunc  | 9        | 21     | 10.47%  |
+| Works    | 72       | 124    | 83.72%  |
+| Malfunc  | 9        | 22     | 10.47%  |
 | Detected | 5        | 42     | 5.81%   |
 
 Storage controller
@@ -1315,7 +1326,7 @@ Storage controller models
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                            | 1        | 0.78%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 1        | 0.78%   |
 | Intel Volume Management Device NVMe RAID Controller                                     | 1        | 0.78%   |
-| Intel Tiger Lake-LP SATA Controller [AHCI mode]                                         | 1        | 0.78%   |
+| Intel Tiger Lake-LP SATA Controller                                                     | 1        | 0.78%   |
 | Intel SATA Controller [RAID mode]                                                       | 1        | 0.78%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 0.78%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 1        | 0.78%   |
@@ -2115,8 +2126,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 73       | 73.74%  |
-| Yes  | 26       | 26.26%  |
+| No   | 74       | 74%     |
+| Yes  | 26       | 26%     |
 
 Bluetooth
 ---------
@@ -2264,20 +2275,25 @@ Memory module models
 
 | Model                                                        | Desktops | Percent |
 |--------------------------------------------------------------|----------|---------|
-| Unknown                                                      | 20       | 21.74%  |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 12       | 13.04%  |
 | SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s         | 3        | 3.26%   |
 | Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s         | 3        | 3.26%   |
 | Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s       | 3        | 3.26%   |
+| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                   | 2        | 2.17%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 2        | 2.17%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                  | 2        | 2.17%   |
 | Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s         | 2        | 2.17%   |
 | Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2.17%   |
 | Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s        | 2        | 2.17%   |
 | Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2.17%   |
 | Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s         | 2        | 2.17%   |
 | Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s         | 2        | 2.17%   |
+| Unknown RAM Module 512MB DIMM DDR2 667MT/s                   | 1        | 1.09%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 1        | 1.09%   |
 | Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s         | 1        | 1.09%   |
 | Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s | 1        | 1.09%   |
 | Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                 | 1        | 1.09%   |
-| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1333MT/s        | 1        | 1.09%   |
+| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s        | 1        | 1.09%   |
 | SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                 | 1        | 1.09%   |
 | SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s     | 1        | 1.09%   |
 | SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s         | 1        | 1.09%   |
@@ -2302,7 +2318,7 @@ Memory module models
 | Kingston RAM Module 4GB DIMM DDR4 2666MT/s                   | 1        | 1.09%   |
 | Kingston RAM KHX1866C10D3/8GX 8GB DIMM DDR3 1800MT/s         | 1        | 1.09%   |
 | Kingston RAM KHX1600C10D3/8GX 8GB DIMM DDR3 1600MT/s         | 1        | 1.09%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s          | 1        | 1.09%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 1        | 1.09%   |
 | Kingston RAM CBD16D3LS1KBG/8G 8GB DIMM DDR3 1600MT/s         | 1        | 1.09%   |
 | Kingston RAM 99U5663-007.A00G 16GB SODIMM DDR4 2667MT/s      | 1        | 1.09%   |
 | Kingston RAM 99U5471-066.A00LF 8GB DIMM DDR3 1600MT/s        | 1        | 1.09%   |
@@ -2319,11 +2335,6 @@ Memory module models
 | Crucial RAM BLS8G3D1609DS 8192MB DIMM DDR3 800MT/s           | 1        | 1.09%   |
 | Corsair RAM CMX8GX3M1A1333C9 8GB DIMM DDR3 1333MT/s          | 1        | 1.09%   |
 | Corsair RAM CMSO4GX4M1A2133C15 4GB SODIMM DDR4 2133MT/s      | 1        | 1.09%   |
-| Corsair RAM CMK16GX4M4B3300C16 4GB DIMM DDR4 2133MT/s        | 1        | 1.09%   |
-| Corsair RAM CMK16GX4M2Z3600C18 8GB DIMM DDR4 2667MT/s        | 1        | 1.09%   |
-| Corsair RAM CMK16GX4M2D3600C18 8GB DIMM DDR4 3600MT/s        | 1        | 1.09%   |
-| Corsair RAM CMD16GX4M2B3000C15 8192MB DIMM DDR4 2133MT/s     | 1        | 1.09%   |
-| Corsair RAM CMD16GX4M2A2666C15 8GB DIMM DDR4 2667MT/s        | 1        | 1.09%   |
 
 Memory Kind
 -----------

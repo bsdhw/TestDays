@@ -1556,8 +1556,8 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 4        | 20%     |
 | Unknown             | 4        | 20%     |
+| Kingston            | 4        | 20%     |
 | SK hynix            | 2        | 10%     |
 | Samsung Electronics | 2        | 10%     |
 | Micron Technology   | 2        | 10%     |
@@ -1576,8 +1576,11 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Unknown                                                | 4        | 19.05%  |
 | Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2400MT/s  | 2        | 9.52%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 1        | 4.76%   |
+| Unknown RAM Module 2GB DIMM SDRAM                      | 1        | 4.76%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s               | 1        | 4.76%   |
+| Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s            | 1        | 4.76%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
 | SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
 | Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1333MT/s  | 1        | 4.76%   |

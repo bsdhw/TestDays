@@ -553,8 +553,8 @@ Motherboard manufacturer
 | Hewlett-Packard                | 9         | 4.33%   |
 | Gigabyte Technology            | 8         | 3.85%   |
 | ASRock                         | 8         | 3.85%   |
-| Unknown                        | 8         | 3.85%   |
 | Intel                          | 7         | 3.37%   |
+| Unknown                        | 7         | 3.37%   |
 | IBM                            | 5         | 2.4%    |
 | Supermicro                     | 4         | 1.92%   |
 | MSI                            | 4         | 1.92%   |
@@ -565,6 +565,7 @@ Motherboard manufacturer
 | Soekris Engineering            | 2         | 0.96%   |
 | Raspberry Pi Foundation        | 2         | 0.96%   |
 | ZOTAC                          | 1         | 0.48%   |
+| Unknown                        | 1         | 0.48%   |
 | Shuttle                        | 1         | 0.48%   |
 | Pegatron                       | 1         | 0.48%   |
 | Microsoft                      | 1         | 0.48%   |
@@ -2011,7 +2012,7 @@ Monitor models
 | Lenovo LEN T24i-10 LEN61CE 1920x1080 530x300mm 24.0-inch             | 1         | 0.96%   |
 | Lenovo LEN S24e-10 LEN61CA 1920x1080 530x300mm 24.0-inch             | 1         | 0.96%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch              | 1         | 0.96%   |
-| Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch              | 1         | 0.96%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch              | 1         | 0.96%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 310x170mm 13.9-inch         | 1         | 0.96%   |
 | Iiyama PL2888UH IVM7104 3840x2160 620x340mm 27.8-inch                | 1         | 0.96%   |
 | Hewlett-Packard LCD Monitor HWP4218 1600x900 440x250mm 19.9-inch     | 1         | 0.96%   |
@@ -2113,11 +2114,11 @@ Proportional relationship between the width and the height
 | Ratio | Computers | Percent |
 |-------|-----------|---------|
 | 16/9  | 71        | 73.96%  |
-| 16/10 | 12        | 12.5%   |
+| 16/10 | 11        | 11.46%  |
 | 5/4   | 6         | 6.25%   |
+| 3/2   | 3         | 3.13%   |
 | 21/9  | 3         | 3.13%   |
 | 4/3   | 2         | 2.08%   |
-| 3/2   | 2         | 2.08%   |
 
 Monitor Area
 ------------
@@ -2707,8 +2708,16 @@ Memory module models
 
 | Model                                                   | Computers | Percent |
 |---------------------------------------------------------|-----------|---------|
-| Unknown                                                 | 10        | 47.62%  |
+| Unknown RAM Module 4096MB SODIMM DDR3 1333MT/s          | 2         | 9.52%   |
 | Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 2         | 9.52%   |
+| Unknown RAM Module 512MB DIMM SDRAM                     | 1         | 4.76%   |
+| Unknown RAM Module 512MB DIMM DDR 400MT/s               | 1         | 4.76%   |
+| Unknown RAM Module 256MB SODIMM DRAM                    | 1         | 4.76%   |
+| Unknown RAM Module 2048MB SODIMM DDR2                   | 1         | 4.76%   |
+| Unknown RAM Module 2048MB DIMM DDR2 266MT/s             | 1         | 4.76%   |
+| Unknown RAM Module 128MB SODIMM DRAM                    | 1         | 4.76%   |
+| Unknown RAM Module 1024MB DIMM DDR                      | 1         | 4.76%   |
+| Unknown RAM Module 1024MB DIMM 800MT/s                  | 1         | 4.76%   |
 | Transcend RAM TS1GSK64W6H 8GB DIMM DDR3 1600MT/s        | 1         | 4.76%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 4.76%   |
 | Ramaxel RAM RMT3170MN68F9F1600 4GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |
