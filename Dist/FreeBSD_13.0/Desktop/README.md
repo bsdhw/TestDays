@@ -2319,6 +2319,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s                | 2        | 2.47%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                     | 2        | 2.47%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                 | 2        | 2.47%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s      | 2        | 2.47%   |
 | Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s  | 2        | 2.47%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 2        | 2.47%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 1.23%   |
@@ -2333,8 +2334,6 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 400MT/s                      | 1        | 1.23%   |
 | Unknown RAM Module 16GB DIMM DDR4 2133MT/s               | 1        | 1.23%   |
 | Unknown RAM 2G-08-10-12-1333 2GB DIMM DDR3 1333MT/s      | 1        | 1.23%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s       | 1        | 1.23%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s      | 1        | 1.23%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 1.23%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 1        | 1.23%   |
 | SK hynix RAM HMA82GU6AFR8N-UH 16GB DIMM DDR4 2400MT/s    | 1        | 1.23%   |
@@ -2375,6 +2374,7 @@ Memory module models
 | Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s    | 1        | 1.23%   |
 | Crucial RAM BLT16G4D30AETA.K16FB 16GB DIMM DDR4 3000MT/s | 1        | 1.23%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 1.23%   |
+| Crucial RAM BLS16G4D26BFSC.16FBD 16GB DIMM DDR4 2667MT/s | 1        | 1.23%   |
 
 Memory Kind
 -----------

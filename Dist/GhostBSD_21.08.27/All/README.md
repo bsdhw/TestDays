@@ -1561,6 +1561,7 @@ Controller models
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                     | 1         | 1.37%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                             | 1         | 1.37%   |
 | Intel I350 Gigabit Network Connection                                       | 1         | 1.37%   |
+| Intel I225-K2                                                               | 1         | 1.37%   |
 | Intel I211 Gigabit Network Connection                                       | 1         | 1.37%   |
 | Intel Ethernet Controller I225-V                                            | 1         | 1.37%   |
 | Intel Ethernet Connection I219-LM                                           | 1         | 1.37%   |
@@ -1582,7 +1583,6 @@ Controller models
 | Broadcom BCM4321 802.11a/b/g/n                                              | 1         | 1.37%   |
 | ASUS WL-167G v1 802.11g Adapter [Ralink RT2571]                             | 1         | 1.37%   |
 | ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU]          | 1         | 1.37%   |
-| Unknown                                                                     | 1         | 1.37%   |
 
 Wireless Vendor
 ---------------
@@ -1675,6 +1675,7 @@ Ethernet models
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.03%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 3.03%   |
 | Intel I350 Gigabit Network Connection                             | 1         | 3.03%   |
+| Intel I225-K2                                                     | 1         | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 3.03%   |
 | Intel Ethernet Controller I225-V                                  | 1         | 3.03%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 3.03%   |
@@ -1686,7 +1687,6 @@ Ethernet models
 | Intel 82567LM Gigabit Network Connection                          | 1         | 3.03%   |
 | Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 1         | 3.03%   |
 | Broadcom NetXtreme BCM5755M Gigabit Ethernet PCI Express          | 1         | 3.03%   |
-| Unknown                                                           | 1         | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1881,7 +1881,7 @@ Memory module vendors
 | Transcend           | 1         | 2.04%   |
 | Nanya Technology    | 1         | 2.04%   |
 | Kingmax             | 1         | 2.04%   |
-| Goodram             | 1         | 2.04%   |
+| GOODRAM             | 1         | 2.04%   |
 | G.Skill             | 1         | 2.04%   |
 | Elpida              | 1         | 2.04%   |
 | Corsair             | 1         | 2.04%   |
@@ -1903,13 +1903,13 @@ Memory module models
 | Unknown                                                          | 2         | 4%      |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s | 1         | 2%      |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2%      |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
-| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 1         | 2%      |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2%      |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2%      |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB Row Of Chips DDR4 3200MT/s    | 1         | 2%      |
@@ -1933,7 +1933,7 @@ Memory module models
 | Kingston RAM Module 4GB SODIMM DDR4 2667MT/s                     | 1         | 2%      |
 | Kingston RAM KF3600C18D4/16GX 16GB DIMM DDR4 2400MT/s            | 1         | 2%      |
 | Kingmax RAM FLFF65F-C8KL9 4GB DIMM DDR3 1333MT/s                 | 1         | 2%      |
-| Goodram RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2%      |
+| GOODRAM RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2%      |
 | G.Skill RAM F4-4000C18-8GTZ 8GB DIMM DDR4 3333MT/s               | 1         | 2%      |
 | Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1333MT/s            | 1         | 2%      |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
@@ -1998,20 +1998,20 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 10        | 23.26%  |
-| 2667    | 9         | 20.93%  |
-| 2133    | 5         | 11.63%  |
-| 1333    | 5         | 11.63%  |
-| 3200    | 4         | 9.3%    |
-| 1334    | 2         | 4.65%   |
-| 3600    | 1         | 2.33%   |
-| 3333    | 1         | 2.33%   |
-| 2400    | 1         | 2.33%   |
-| 1867    | 1         | 2.33%   |
-| 1067    | 1         | 2.33%   |
-| 1066    | 1         | 2.33%   |
-| 667     | 1         | 2.33%   |
-| Unknown | 1         | 2.33%   |
+| 1600    | 10        | 22.73%  |
+| 2667    | 9         | 20.45%  |
+| 3200    | 5         | 11.36%  |
+| 2133    | 5         | 11.36%  |
+| 1333    | 5         | 11.36%  |
+| 1334    | 2         | 4.55%   |
+| 3600    | 1         | 2.27%   |
+| 3333    | 1         | 2.27%   |
+| 2400    | 1         | 2.27%   |
+| 1867    | 1         | 2.27%   |
+| 1067    | 1         | 2.27%   |
+| 1066    | 1         | 2.27%   |
+| 667     | 1         | 2.27%   |
+| Unknown | 1         | 2.27%   |
 
 Printers & scanners
 -------------------

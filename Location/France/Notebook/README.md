@@ -2358,7 +2358,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM 667MT/s                        | 1         | 1.02%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                        | 1         | 1.02%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                 | 1         | 1.02%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s         | 1         | 1.02%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 1.02%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.02%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 1.02%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 1         | 1.02%   |

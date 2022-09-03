@@ -1473,7 +1473,7 @@ Memory module models
 | Model                                                             | Computers | Percent |
 |-------------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB DIMM SDRAM                              | 2         | 9.09%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 2         | 9.09%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 2         | 9.09%   |
 | Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s          | 2         | 9.09%   |
 | Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s               | 1         | 4.55%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                       | 1         | 4.55%   |

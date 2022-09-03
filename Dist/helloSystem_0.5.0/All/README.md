@@ -1275,9 +1275,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 175       | 245    | 67.57%  |
+| 0.01-0.5   | 174       | 244    | 67.18%  |
 | 0.51-1.0   | 60        | 75     | 23.17%  |
-| 1.01-2.0   | 13        | 17     | 5.02%   |
+| 1.01-2.0   | 14        | 18     | 5.41%   |
 | 3.01-4.0   | 5         | 6      | 1.93%   |
 | 2.01-3.0   | 3         | 6      | 1.16%   |
 | 4.01-10.0  | 3         | 5      | 1.16%   |
@@ -2907,7 +2907,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 1333MT/s                               | 1         | 0.32%   |
 | Unknown RAM Module 1024MB DIMM SDRAM 667MT/s                       | 1         | 0.32%   |
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1         | 0.32%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s  | 1         | 0.32%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s  | 1         | 0.32%   |
 | Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1         | 0.32%   |
 
 Memory Kind

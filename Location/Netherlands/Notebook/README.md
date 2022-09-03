@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 58
+Total: 59
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | EliteBook 840 G3            | [28929cae10](https://bsd-hardware.info/?probe=28929cae10) | Aug 17, 2022 |
 | Lenovo        | ThinkPad X61s 76693KG       | [445446cc28](https://bsd-hardware.info/?probe=445446cc28) | Jul 18, 2022 |
 | ASUSTek       | X751LB                      | [5c2ef28301](https://bsd-hardware.info/?probe=5c2ef28301) | Jul 12, 2022 |
 | Acer          | Aspire E1-522               | [d680e0d05d](https://bsd-hardware.info/?probe=d680e0d05d) | Jul 10, 2022 |
@@ -223,30 +224,31 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.5.0    | 6         | 13.04%  |
-| helloSystem 0.7.0    | 5         | 10.87%  |
-| FreeBSD 13.0-STABLE  | 5         | 10.87%  |
-| helloSystem 0.6.0    | 3         | 6.52%   |
-| helloSystem 0.3.0    | 3         | 6.52%   |
-| OpenBSD 6.9          | 2         | 4.35%   |
-| OpenBSD 6.8          | 2         | 4.35%   |
-| helloSystem 0.4.0    | 2         | 4.35%   |
-| FreeBSD 13.1         | 2         | 4.35%   |
-| FreeBSD 13.0-p5      | 2         | 4.35%   |
-| OPNsense 22.1.7      | 1         | 2.17%   |
-| OPNsense 22.1.6      | 1         | 2.17%   |
-| OPNsense 22.1        | 1         | 2.17%   |
-| OPNsense 21.7.7      | 1         | 2.17%   |
-| OPNsense 21.1.9      | 1         | 2.17%   |
-| OpenBSD 7.1          | 1         | 2.17%   |
-| OpenBSD 7.0          | 1         | 2.17%   |
-| GhostBSD 22.06.18    | 1         | 2.17%   |
-| FreeBSD 14.0-CURRENT | 1         | 2.17%   |
-| FreeBSD 13.0-p2      | 1         | 2.17%   |
-| FreeBSD 13.0-BETA1   | 1         | 2.17%   |
-| FreeBSD 13.0         | 1         | 2.17%   |
-| FreeBSD 12.2-p2      | 1         | 2.17%   |
-| FreeBSD 12.2         | 1         | 2.17%   |
+| helloSystem 0.5.0    | 6         | 12.77%  |
+| helloSystem 0.7.0    | 5         | 10.64%  |
+| FreeBSD 13.0-STABLE  | 5         | 10.64%  |
+| helloSystem 0.6.0    | 3         | 6.38%   |
+| helloSystem 0.3.0    | 3         | 6.38%   |
+| OpenBSD 6.9          | 2         | 4.26%   |
+| OpenBSD 6.8          | 2         | 4.26%   |
+| helloSystem 0.4.0    | 2         | 4.26%   |
+| FreeBSD 13.1         | 2         | 4.26%   |
+| FreeBSD 13.0-p5      | 2         | 4.26%   |
+| OPNsense 22.7.2      | 1         | 2.13%   |
+| OPNsense 22.1.7      | 1         | 2.13%   |
+| OPNsense 22.1.6      | 1         | 2.13%   |
+| OPNsense 22.1        | 1         | 2.13%   |
+| OPNsense 21.7.7      | 1         | 2.13%   |
+| OPNsense 21.1.9      | 1         | 2.13%   |
+| OpenBSD 7.1          | 1         | 2.13%   |
+| OpenBSD 7.0          | 1         | 2.13%   |
+| GhostBSD 22.06.18    | 1         | 2.13%   |
+| FreeBSD 14.0-CURRENT | 1         | 2.13%   |
+| FreeBSD 13.0-p2      | 1         | 2.13%   |
+| FreeBSD 13.0-BETA1   | 1         | 2.13%   |
+| FreeBSD 13.0         | 1         | 2.13%   |
+| FreeBSD 12.2-p2      | 1         | 2.13%   |
+| FreeBSD 12.2         | 1         | 2.13%   |
 
 OS Family
 ---------
@@ -582,11 +584,11 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 0.01-0.5 | 26        | 57.78%  |
-| 0.51-1.0 | 10        | 22.22%  |
-| 1.01-2.0 | 6         | 13.33%  |
-| 3.01-4.0 | 2         | 4.44%   |
-| 2.01-3.0 | 1         | 2.22%   |
+| 0.01-0.5 | 27        | 58.7%   |
+| 0.51-1.0 | 10        | 21.74%  |
+| 1.01-2.0 | 6         | 13.04%  |
+| 3.01-4.0 | 2         | 4.35%   |
+| 2.01-3.0 | 1         | 2.17%   |
 
 Total Drives
 ------------
@@ -719,7 +721,7 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 14        | 18     | 27.45%  |
+| Samsung Electronics | 14        | 19     | 27.45%  |
 | WDC                 | 5         | 5      | 9.8%    |
 | Seagate             | 5         | 6      | 9.8%    |
 | Crucial             | 4         | 4      | 7.84%   |
@@ -829,7 +831,7 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 9         | 12     | 30%     |
+| Samsung Electronics | 9         | 13     | 30%     |
 | Crucial             | 4         | 4      | 13.33%  |
 | SanDisk             | 3         | 3      | 10%     |
 | NVMe                | 2         | 2      | 6.67%   |
@@ -855,7 +857,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 27        | 35     | 56.25%  |
+| SSD  | 27        | 36     | 56.25%  |
 | HDD  | 12        | 13     | 25%     |
 | NVMe | 9         | 10     | 18.75%  |
 
@@ -869,7 +871,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 36        | 48     | 80%     |
+| SATA | 36        | 49     | 80%     |
 | NVMe | 9         | 10     | 20%     |
 
 Drive Size
@@ -882,7 +884,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 29        | 36     | 74.36%  |
+| 0.01-0.5   | 29        | 37     | 74.36%  |
 | 0.51-1.0   | 9         | 11     | 23.08%  |
 | 1.01-2.0   | 1         | 1      | 2.56%   |
 
@@ -1016,7 +1018,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 36        | 48     | 80%     |
+| Works    | 36        | 49     | 80%     |
 | Malfunc  | 5         | 5      | 11.11%  |
 | Detected | 3         | 4      | 6.67%   |
 | Failed   | 1         | 1      | 2.22%   |

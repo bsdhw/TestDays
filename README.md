@@ -13,6 +13,7 @@ Contents
 --------
 
 * [ FreeBSD 14.0-CURRENT ](/Dist/FreeBSD_14.0-CURRENT)
+* [ FreeBSD 13.1 ](/Dist/FreeBSD_13.1)
 * [ FreeBSD 13.0 ](/Dist/FreeBSD_13.0)
 * [ GhostBSD 21.08.27 ](/Dist/GhostBSD_21.08.27)
 * [ GhostBSD 20.04.02 ](/Dist/GhostBSD_20.04.02)
@@ -50,6 +51,7 @@ Location-specific Reports
 * [ Austria ](/Location/Austria)
 * [ Brazil ](/Location/Brazil)
 * [ Canada ](/Location/Canada)
+* [ China ](/Location/China)
 * [ France ](/Location/France)
 * [ Germany ](/Location/Germany)
 * [ Italy ](/Location/Italy)

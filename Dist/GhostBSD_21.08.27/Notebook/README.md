@@ -1387,6 +1387,7 @@ Controller models
 | Intel Wi-Fi 6 AX200                                                         | 1         | 1.79%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                     | 1         | 1.79%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                             | 1         | 1.79%   |
+| Intel I225-K2                                                               | 1         | 1.79%   |
 | Intel Ethernet Connection I219-LM                                           | 1         | 1.79%   |
 | Intel Ethernet Connection I217-LM                                           | 1         | 1.79%   |
 | Intel Ethernet Connection (7) I219-LM                                       | 1         | 1.79%   |
@@ -1402,7 +1403,6 @@ Controller models
 | Broadcom BCM43602 802.11ac Wireless LAN SoC                                 | 1         | 1.79%   |
 | ASUS WL-167G v1 802.11g Adapter [Ralink RT2571]                             | 1         | 1.79%   |
 | ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU]          | 1         | 1.79%   |
-| Unknown                                                                     | 1         | 1.79%   |
 
 Wireless Vendor
 ---------------
@@ -1485,6 +1485,7 @@ Ethernet models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 9.52%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 4.76%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 4.76%   |
+| Intel I225-K2                                                     | 1         | 4.76%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 4.76%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4.76%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 4.76%   |
@@ -1492,7 +1493,6 @@ Ethernet models
 | Intel Ethernet Connection (10) I219-LM                            | 1         | 4.76%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 4.76%   |
 | Broadcom NetXtreme BCM5755M Gigabit Ethernet PCI Express          | 1         | 4.76%   |
-| Unknown                                                           | 1         | 4.76%   |
 
 Net Controller Kind
 -------------------
@@ -1663,7 +1663,7 @@ Memory module vendors
 | Unknown             | 1         | 2.7%    |
 | Transcend           | 1         | 2.7%    |
 | Kingston            | 1         | 2.7%    |
-| Goodram             | 1         | 2.7%    |
+| GOODRAM             | 1         | 2.7%    |
 | Elpida              | 1         | 2.7%    |
 | 09490000802C        | 1         | 2.7%    |
 
@@ -1681,12 +1681,12 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
-| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 1         | 2.63%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s           | 1         | 2.63%   |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16GB Row Of Chips DDR4 3200MT/s    | 1         | 2.63%   |
@@ -1704,7 +1704,7 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s             | 1         | 2.63%   |
 | Micron RAM 16ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2133MT/s            | 1         | 2.63%   |
 | Kingston RAM Module 4GB SODIMM DDR4 2667MT/s                     | 1         | 2.63%   |
-| Goodram RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
+| GOODRAM RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
 | Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2.63%   |
 | Crucial RAM CT16G4SFRA32A.C8FB 16GB SODIMM DDR4 3200MT/s         | 1         | 2.63%   |
@@ -1764,15 +1764,15 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 2667    | 9         | 28.13%  |
-| 1600    | 9         | 28.13%  |
-| 3200    | 3         | 9.38%   |
-| 2133    | 3         | 9.38%   |
-| 1333    | 3         | 9.38%   |
-| 1334    | 2         | 6.25%   |
-| 1867    | 1         | 3.13%   |
-| 667     | 1         | 3.13%   |
-| Unknown | 1         | 3.13%   |
+| 2667    | 9         | 27.27%  |
+| 1600    | 9         | 27.27%  |
+| 3200    | 4         | 12.12%  |
+| 2133    | 3         | 9.09%   |
+| 1333    | 3         | 9.09%   |
+| 1334    | 2         | 6.06%   |
+| 1867    | 1         | 3.03%   |
+| 667     | 1         | 3.03%   |
+| Unknown | 1         | 3.03%   |
 
 Printers & scanners
 -------------------

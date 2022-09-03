@@ -611,7 +611,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 18        | 16.51%  |
+| 2020 | 17        | 15.6%   |
 | 2018 | 14        | 12.84%  |
 | 2013 | 11        | 10.09%  |
 | 2019 | 10        | 9.17%   |
@@ -624,6 +624,7 @@ Motherboard manufacture year
 | 2016 | 4         | 3.67%   |
 | 2008 | 4         | 3.67%   |
 | 2010 | 3         | 2.75%   |
+| 2021 | 1         | 0.92%   |
 | 2007 | 1         | 0.92%   |
 
 Form Factor
@@ -1792,7 +1793,7 @@ Monitor models
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                   | 1         | 0.94%   |
 | Goldstar W1934 GSM4B7A 1440x900 410x260mm 19.1-inch                    | 1         | 0.94%   |
 | Goldstar LG ULTRAWIDE GSM76FA 2560x1080 800x340mm 34.2-inch            | 1         | 0.94%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 1         | 0.94%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch            | 1         | 0.94%   |
 
 Monitor Resolution
 ------------------
@@ -1844,14 +1845,13 @@ Diagonal size in inches
 | 22      | 3         | 2.94%   |
 | 12      | 3         | 2.94%   |
 | 40      | 2         | 1.96%   |
+| 34      | 2         | 1.96%   |
 | 31      | 2         | 1.96%   |
 | 65      | 1         | 0.98%   |
 | 54      | 1         | 0.98%   |
 | 39      | 1         | 0.98%   |
 | 37      | 1         | 0.98%   |
-| 34      | 1         | 0.98%   |
 | 32      | 1         | 0.98%   |
-| 28      | 1         | 0.98%   |
 | 16      | 1         | 0.98%   |
 | 14      | 1         | 0.98%   |
 
@@ -1870,10 +1870,10 @@ Physical width
 | 401-500     | 13        | 12.87%  |
 | Unknown     | 9         | 8.91%   |
 | 201-300     | 7         | 6.93%   |
-| 601-700     | 5         | 4.95%   |
 | 801-900     | 4         | 3.96%   |
+| 601-700     | 4         | 3.96%   |
 | 351-400     | 4         | 3.96%   |
-| 701-800     | 2         | 1.98%   |
+| 701-800     | 3         | 2.97%   |
 | 1001-1500   | 2         | 1.98%   |
 
 Aspect Ratio
@@ -1909,8 +1909,8 @@ Area in inch²
 | 81-90          | 14        | 13.73%  |
 | Unknown        | 9         | 8.82%   |
 | 301-350        | 7         | 6.86%   |
+| 351-500        | 5         | 4.9%    |
 | 151-200        | 5         | 4.9%    |
-| 351-500        | 4         | 3.92%   |
 | 501-1000       | 4         | 3.92%   |
 | 71-80          | 3         | 2.94%   |
 | 61-70          | 3         | 2.94%   |
@@ -1918,7 +1918,6 @@ Area in inch²
 | 101-110        | 3         | 2.94%   |
 | More than 1000 | 2         | 1.96%   |
 | 141-150        | 2         | 1.96%   |
-| 251-300        | 1         | 0.98%   |
 | 131-140        | 1         | 0.98%   |
 
 Pixel Density
@@ -2472,7 +2471,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 0.73%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 0.73%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 0.73%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s | 1         | 0.73%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 0.73%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 0.73%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 0.73%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 0.73%   |

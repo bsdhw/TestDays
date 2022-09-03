@@ -2147,7 +2147,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                                 | 1         | 1.25%   |
 | Unknown RAM Module 4GB SODIMM DDR2 800MT/s                                  | 1         | 1.25%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                  | 1         | 1.25%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR3 2133MT/s            | 1         | 1.25%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s            | 1         | 1.25%   |
 | Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s                   | 1         | 1.25%   |
 | Teikon RAM TMT451S6BFR8A-PBHC 4GB SODIMM DDR3 1333MT/s                      | 1         | 1.25%   |
 | Teikon RAM TMT41GS6BFR8A-PBSC 8GB SODIMM DDR3 1600MT/s                      | 1         | 1.25%   |
@@ -2161,7 +2161,7 @@ Memory module models
 | Smart Brazil RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2133MT/s                | 1         | 1.25%   |
 | Smart Brazil RAM Module 4GB Row Of Chips DDR4 2400MT/s                      | 1         | 1.25%   |
 | SK hynix RAM HYMP512S64CP8-C4 1GB SODIMM DDR 533MT/s                        | 1         | 1.25%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s                        | 1         | 1.25%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s                       | 1         | 1.25%   |
 | SK hynix RAM HMT451S6MFR8A-PB 4GB SODIMM DDR3 800MT/s                       | 1         | 1.25%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                      | 1         | 1.25%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s                      | 1         | 1.25%   |

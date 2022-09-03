@@ -549,10 +549,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 16       | 17.78%  |
+| 2018 | 17       | 18.89%  |
 | 2014 | 13       | 14.44%  |
 | 2020 | 9        | 10%     |
-| 2019 | 9        | 10%     |
+| 2019 | 8        | 8.89%   |
 | 2016 | 8        | 8.89%   |
 | 2013 | 7        | 7.78%   |
 | 2012 | 7        | 7.78%   |
@@ -831,7 +831,7 @@ Hard drive vendors
 | Micron Technology   | 3        | 3      | 1.82%   |
 | PNY                 | 2        | 2      | 1.21%   |
 | Intel               | 2        | 2      | 1.21%   |
-| Goodram             | 2        | 2      | 1.21%   |
+| GOODRAM             | 2        | 2      | 1.21%   |
 | Gigabyte Technology | 2        | 3      | 1.21%   |
 | Corsair             | 2        | 2      | 1.21%   |
 | Transcend           | 1        | 1      | 0.61%   |
@@ -955,7 +955,7 @@ Solid state drive vendors
 | Micron Technology   | 3        | 3      | 4%      |
 | SPCC                | 2        | 2      | 2.67%   |
 | PNY                 | 2        | 2      | 2.67%   |
-| Goodram             | 2        | 2      | 2.67%   |
+| GOODRAM             | 2        | 2      | 2.67%   |
 | Transcend           | 1        | 1      | 1.33%   |
 | OCZ                 | 1        | 2      | 1.33%   |
 | Leven               | 1        | 2      | 1.33%   |
@@ -1656,7 +1656,7 @@ Monitor models
 | HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch            | 1        | 1.49%   |
 | Goldstar W1942 GSM4B6F 1440x900 410x260mm 19.1-inch                   | 1        | 1.49%   |
 | Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                  | 1        | 1.49%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch           | 1        | 1.49%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch           | 1        | 1.49%   |
 | Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch            | 1        | 1.49%   |
 | Goldstar LG FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch             | 1        | 1.49%   |
 | Goldstar L1953TR GSM4B44 1280x1024 340x270mm 17.1-inch                | 1        | 1.49%   |
@@ -1724,11 +1724,10 @@ Diagonal size in inches
 | 21      | 11       | 16.67%  |
 | 23      | 9        | 13.64%  |
 | 19      | 7        | 10.61%  |
-| 34      | 3        | 4.55%   |
+| 34      | 4        | 6.06%   |
 | Unknown | 3        | 4.55%   |
 | 42      | 2        | 3.03%   |
 | 52      | 1        | 1.52%   |
-| 28      | 1        | 1.52%   |
 | 25      | 1        | 1.52%   |
 | 22      | 1        | 1.52%   |
 | 18      | 1        | 1.52%   |
@@ -1747,12 +1746,12 @@ Physical width
 |-------------|----------|---------|
 | 501-600     | 31       | 47.69%  |
 | 401-500     | 19       | 29.23%  |
-| 701-800     | 3        | 4.62%   |
+| 701-800     | 4        | 6.15%   |
 | Unknown     | 3        | 4.62%   |
-| 601-700     | 2        | 3.08%   |
 | 351-400     | 2        | 3.08%   |
 | 301-350     | 2        | 3.08%   |
 | 901-1000    | 2        | 3.08%   |
+| 601-700     | 1        | 1.54%   |
 | 1001-1500   | 1        | 1.54%   |
 
 Aspect Ratio
@@ -1784,8 +1783,8 @@ Area in inch²
 | 201-250        | 27       | 42.19%  |
 | 301-350        | 12       | 18.75%  |
 | 151-200        | 7        | 10.94%  |
-| 251-300        | 6        | 9.38%   |
-| 351-500        | 3        | 4.69%   |
+| 251-300        | 5        | 7.81%   |
+| 351-500        | 4        | 6.25%   |
 | Unknown        | 3        | 4.69%   |
 | 141-150        | 2        | 3.13%   |
 | 501-1000       | 2        | 3.13%   |
@@ -2277,7 +2276,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.84%   |
 | Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
 | Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
 | SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |
