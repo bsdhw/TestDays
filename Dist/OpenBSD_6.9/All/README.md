@@ -461,26 +461,6 @@ Motherboard model
 | Lenovo ThinkPad T400 2767WSB                | 1         | 1.12%   |
 | Lenovo ThinkPad T14 Gen 1 20S1S07800        | 1         | 1.12%   |
 | Lenovo ThinkPad Edge 05796AU                | 1         | 1.12%   |
-| Lenovo ThinkPad E490 20N8CTO1WW             | 1         | 1.12%   |
-| Lenovo IdeaPad S210 Touch 20257             | 1         | 1.12%   |
-| Lenovo IdeaPad 1 11IGL05 81VT               | 1         | 1.12%   |
-| Lenovo FLEX 3-1120 80LX                     | 1         | 1.12%   |
-| IBM ThinkPad T42 2374K46                    | 1         | 1.12%   |
-| IBM ThinkPad H 1846AQG                      | 1         | 1.12%   |
-| HP ProLiant DL360e Gen8                     | 1         | 1.12%   |
-| HP ProLiant DL360 Gen9                      | 1         | 1.12%   |
-| HP ProLiant DL320 G5                        | 1         | 1.12%   |
-| HP ProDesk 600 G1 SFF                       | 1         | 1.12%   |
-| HP ProBook 450 G2                           | 1         | 1.12%   |
-| HP Pro3500 Series                           | 1         | 1.12%   |
-| HP Pavilion Gaming Laptop 15-ec1xxx         | 1         | 1.12%   |
-| HP Pavilion dm1                             | 1         | 1.12%   |
-| HP Notebook                                 | 1         | 1.12%   |
-| HP EliteDesk 800 G5 SFF                     | 1         | 1.12%   |
-| HP 530 Notebook PC(KP477AA#ACB)             | 1         | 1.12%   |
-| HP 250 G5 Notebook PC                       | 1         | 1.12%   |
-| Gigabyte GA-7VT600                          | 1         | 1.12%   |
-| Gigabyte B550I AORUS PRO AX                 | 1         | 1.12%   |
 
 Model Family
 ------------
@@ -532,25 +512,6 @@ Motherboard model prefix
 | Gigabyte GA-7VT600                          | 1         | 1.12%   |
 | Gigabyte B550I                              | 1         | 1.12%   |
 | Foxconn AT-7000                             | 1         | 1.12%   |
-| Dell Latitude                               | 1         | 1.12%   |
-| Clevo W240EU                                | 1         | 1.12%   |
-| ASUS X555LB                                 | 1         | 1.12%   |
-| ASUS UX430UNR                               | 1         | 1.12%   |
-| ASUS UX305FA                                | 1         | 1.12%   |
-| ASUS PRIME                                  | 1         | 1.12%   |
-| ASUS P10S-I                                 | 1         | 1.12%   |
-| ASUS B202                                   | 1         | 1.12%   |
-| ASUS 1000HE                                 | 1         | 1.12%   |
-| ASRock Z68                                  | 1         | 1.12%   |
-| ASRock X570M                                | 1         | 1.12%   |
-| Apple PowerBook5                            | 1         | 1.12%   |
-| Apple MacBookPro6                           | 1         | 1.12%   |
-| Apple MacBookAir6                           | 1         | 1.12%   |
-| Alienware Aurora                            | 1         | 1.12%   |
-| Acer Spin                                   | 1         | 1.12%   |
-| Acer Aspire                                 | 1         | 1.12%   |
-| Acer AOA150                                 | 1         | 1.12%   |
-| Acer AO531h                                 | 1         | 1.12%   |
 
 MFG Year
 --------
@@ -807,26 +768,6 @@ Geographic location (city)
 | Onalaska                | 1         | 1.11%   |
 | Oensingen               | 1         | 1.11%   |
 | Oeiras                  | 1         | 1.11%   |
-| New York                | 1         | 1.11%   |
-| New Taipei              | 1         | 1.11%   |
-| Neuilly-sur-Marne       | 1         | 1.11%   |
-| Monts                   | 1         | 1.11%   |
-| McLeod                  | 1         | 1.11%   |
-| Madrid                  | 1         | 1.11%   |
-| Kyiv                    | 1         | 1.11%   |
-| Korolyov                | 1         | 1.11%   |
-| Kingston                | 1         | 1.11%   |
-| Independence            | 1         | 1.11%   |
-| Hoeviksnaes             | 1         | 1.11%   |
-| Hockenheim              | 1         | 1.11%   |
-| Heilbronn               | 1         | 1.11%   |
-| Hamilton                | 1         | 1.11%   |
-| Greensburg              | 1         | 1.11%   |
-| Frankfurt am Main       | 1         | 1.11%   |
-| Estoril                 | 1         | 1.11%   |
-| Donetsk                 | 1         | 1.11%   |
-| Dallas                  | 1         | 1.11%   |
-| Covington               | 1         | 1.11%   |
 
 Drives
 ------
@@ -925,26 +866,6 @@ Hard drive models
 | Seagate ST9160310AS 160GB         | 1         | 0.8%    |
 | Seagate ST500LT012-9WS142 500GB   | 1         | 0.8%    |
 | Seagate ST3808110AS 80GB          | 1         | 0.8%    |
-| Seagate ST380011A 80GB            | 1         | 0.8%    |
-| Seagate ST3160212ACE 160GB        | 1         | 0.8%    |
-| Seagate ST2000LX001-1RG174 2TB    | 1         | 0.8%    |
-| Seagate ST1000LM048-2E7172 1TB    | 1         | 0.8%    |
-| Seagate ST1000LM035-1RK172 1TB    | 1         | 0.8%    |
-| Seagate ST1000DM003-9YN162 1TB    | 1         | 0.8%    |
-| Seagate ST1000DM003-1CH162 1TB    | 1         | 0.8%    |
-| Seagate Backup+ SL 1TB            | 1         | 0.8%    |
-| SanDisk Ultra Fit 16GB            | 1         | 0.8%    |
-| SanDisk Ultra 32GB                | 1         | 0.8%    |
-| SanDisk SSD PLUS 120GB            | 1         | 0.8%    |
-| SanDisk SD7SN3Q128G1002 128GB     | 1         | 0.8%    |
-| Samsung SSD 860 PRO 256GB         | 1         | 0.8%    |
-| Samsung SSD 860 EVO M.2 2TB       | 1         | 0.8%    |
-| Samsung SSD 860 EVO M.2 250GB     | 1         | 0.8%    |
-| Samsung SSD 860 EVO M.2 1TB       | 1         | 0.8%    |
-| Samsung SSD 860 EVO 2TB           | 1         | 0.8%    |
-| Samsung SSD 860 EVO 250GB         | 1         | 0.8%    |
-| Samsung SSD 860 EVO 1TB           | 1         | 0.8%    |
-| Samsung SSD 850 PRO 256GB         | 1         | 0.8%    |
 
 HDD Vendor
 ----------
@@ -1217,67 +1138,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart_bsd/storage_model.svg)
 
 
-| Model                                                                                   | Computers | Percent |
-|-----------------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                        | 8         | 7.27%   |
-| AMD FCH SATA Controller [AHCI mode]                                                     | 7         | 6.36%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 6         | 5.45%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 5         | 4.55%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                           | 5         | 4.55%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                              | 3         | 2.73%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 3         | 2.73%   |
-| KIOXIA NVMe SSD Controller BG4                                                          | 3         | 2.73%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 3         | 2.73%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                   | 3         | 2.73%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                               | 3         | 2.73%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 3         | 2.73%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller            | 3         | 2.73%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller                | 2         | 1.82%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                              | 2         | 1.82%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                                  | 2         | 1.82%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                          | 2         | 1.82%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 2         | 1.82%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                          | 2         | 1.82%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2         | 1.82%   |
-| AMD 500 Series Chipset SATA Controller                                                  | 2         | 1.82%   |
-| AMD 400 Series Chipset SATA Controller                                                  | 2         | 1.82%   |
-| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                             | 1         | 0.91%   |
-| Toshiba BG3 NVMe SSD Controller                                                         | 1         | 0.91%   |
-| SK hynix BC511                                                                          | 1         | 0.91%   |
-| Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                        | 1         | 0.91%   |
-| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.91%   |
-| Phison E12 NVMe Controller                                                              | 1         | 0.91%   |
-| Marvell Group 88SS9183 PCIe SSD Controller                                              | 1         | 0.91%   |
-| Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                                 | 1         | 0.91%   |
-| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                              | 1         | 0.91%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                                 | 1         | 0.91%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1         | 0.91%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 1         | 0.91%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                                  | 1         | 0.91%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                       | 1         | 0.91%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                       | 1         | 0.91%   |
-| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]                        | 1         | 0.91%   |
-| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                               | 1         | 0.91%   |
-| Intel Atom Processor C3000 Series SATA Controller 1                                     | 1         | 0.91%   |
-| Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 1         | 0.91%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]                    | 1         | 0.91%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                                  | 1         | 0.91%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                                  | 1         | 0.91%   |
-| Intel 82801CAM IDE U100 Controller                                                      | 1         | 0.91%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 1         | 0.91%   |
-| Intel 7 Series/C210 Series Chipset Family IDE-r Controller                              | 1         | 0.91%   |
-| Intel 6 Series/C200 Series Chipset Family IDE-r Controller                              | 1         | 0.91%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 1         | 0.91%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 1         | 0.91%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 1         | 0.91%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                                    | 1         | 0.91%   |
-| HP Smart Array Gen9 Controllers                                                         | 1         | 0.91%   |
-| HP Smart Array G6 controllers                                                           | 1         | 0.91%   |
-| Broadcom / LSI SSS6200 PCI-Express Flash SSD                                            | 1         | 0.91%   |
-| Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                                     | 1         | 0.91%   |
-| Broadcom / LSI MegaRAID SAS 2208 [Thunderbolt]                                          | 1         | 0.91%   |
-| AMD FCH SATA Controller [IDE mode]                                                      | 1         | 0.91%   |
-| AMD 300 Series Chipset SATA Controller                                                  | 1         | 0.91%   |
+| Model                                                                          | Computers | Percent |
+|--------------------------------------------------------------------------------|-----------|---------|
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 8         | 7.27%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 7         | 6.36%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 6         | 5.45%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 5         | 4.55%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                  | 5         | 4.55%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 3         | 2.73%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 2.73%   |
+| KIOXIA NVMe SSD Controller BG4                                                 | 3         | 2.73%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 2.73%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 3         | 2.73%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                      | 3         | 2.73%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 3         | 2.73%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 3         | 2.73%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller       | 2         | 1.82%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                     | 2         | 1.82%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 2         | 1.82%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                 | 2         | 1.82%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2         | 1.82%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 1.82%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 2         | 1.82%   |
+| AMD 500 Series Chipset SATA Controller                                         | 2         | 1.82%   |
+| AMD 400 Series Chipset SATA Controller                                         | 2         | 1.82%   |
+| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                    | 1         | 0.91%   |
+| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.91%   |
+| SK hynix BC511                                                                 | 1         | 0.91%   |
+| Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller               | 1         | 0.91%   |
+| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 1         | 0.91%   |
+| Phison E12 NVMe Controller                                                     | 1         | 0.91%   |
+| Marvell Group 88SS9183 PCIe SSD Controller                                     | 1         | 0.91%   |
+| Marvell Group 88SE912x SATA 6Gb/s Controller [IDE mode]                        | 1         | 0.91%   |
+| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                     | 1         | 0.91%   |
+| Intel SSD Pro 7600p/760p/E 6100p Series                                        | 1         | 0.91%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 0.91%   |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1         | 0.91%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                         | 1         | 0.91%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 0.91%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 0.91%   |
+| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]               | 1         | 0.91%   |
+| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 1         | 0.91%   |
+| Intel Atom Processor C3000 Series SATA Controller 1                            | 1         | 0.91%   |
 
 Storage Kind
 ------------
@@ -1363,26 +1265,6 @@ Processor models
 | Intel Core i5-3470 CPU @ 3.20GHz                              | 1         | 1.12%   |
 | Intel Core i5-3230M CPU @ 2.60GHz                             | 1         | 1.12%   |
 | Intel Core i5-2540M CPU @ 2.60GHz                             | 1         | 1.12%   |
-| Intel Core i5-2500K CPU @ 3.30GHz                             | 1         | 1.12%   |
-| Intel Core i5-1035G4 CPU @ 1.10GHz                            | 1         | 1.12%   |
-| Intel Core i3-4130 CPU @ 3.40GHz                              | 1         | 1.12%   |
-| Intel Core i3-4005U CPU @ 1.70GHz                             | 1         | 1.12%   |
-| Intel Core i3-3217U CPU @ 1.80GHz                             | 1         | 1.12%   |
-| Intel Core i3-3130M CPU @ 2.60GHz                             | 1         | 1.12%   |
-| Intel Core i3-2375M CPU @ 1.50GHz                             | 1         | 1.12%   |
-| Intel Core i3 CPU M 380 @ 2.53GHz                             | 1         | 1.12%   |
-| Intel Core Duo CPU T2600 @ 2.16GHz ("GenuineIntel" 686-class) | 1         | 1.12%   |
-| Intel Core 2 Duo CPU T9900 @ 3.06GHz                          | 1         | 1.12%   |
-| Intel Core 2 Duo CPU T9400 @ 2.53GHz                          | 1         | 1.12%   |
-| Intel Core 2 Duo CPU P9700 @ 2.80GHz                          | 1         | 1.12%   |
-| Intel Core 2 Duo CPU E8400 @ 3.00GHz                          | 1         | 1.12%   |
-| Intel Celeron N4020 CPU @ 1.10GHz                             | 1         | 1.12%   |
-| Intel Celeron M CPU 430 @ 1.73GHz ("GenuineIntel" 686-class)  | 1         | 1.12%   |
-| Intel Celeron D CPU 3.20GHz                                   | 1         | 1.12%   |
-| Intel Celeron CPU N3350 @ 1.10GHz                             | 1         | 1.12%   |
-| Intel Celeron CPU N2840 @ 2.16GHz                             | 1         | 1.12%   |
-| Intel Celeron CPU J1900 @ 1.99GHz                             | 1         | 1.12%   |
-| Intel Celeron CPU 3865U @ 1.80GHz                             | 1         | 1.12%   |
 
 CPU Model Family
 ----------------
@@ -1529,64 +1411,48 @@ Graphics card models
 ![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
 
-| Model                                                                              | Computers | Percent |
-|------------------------------------------------------------------------------------|-----------|---------|
-| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller      | 7         | 6.86%   |
-| Intel 3rd Gen Core processor Graphics Controller                                   | 7         | 6.86%   |
-| Intel Mobile 945GSE Express Integrated Graphics Controller                         | 5         | 4.9%    |
-| Intel HD Graphics 5500                                                             | 5         | 4.9%    |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller          | 5         | 4.9%    |
-| Intel Core Processor Integrated Graphics Controller                                | 4         | 3.92%   |
-| ASPEED Technology ASPEED Graphics Family                                           | 4         | 3.92%   |
-| AMD Renoir                                                                         | 4         | 3.92%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                         | 3         | 2.94%   |
-| Intel Mobile 4 Series Chipset Integrated Graphics Controller                       | 3         | 2.94%   |
-| Matrox Electronics Systems MGA G200eW WPCM450                                      | 2         | 1.96%   |
-| Matrox Electronics Systems MGA G200EH                                              | 2         | 1.96%   |
-| Intel UHD Graphics 620                                                             | 2         | 1.96%   |
-| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller          | 2         | 1.96%   |
-| Intel HD Graphics 620                                                              | 2         | 1.96%   |
-| Intel Haswell-ULT Integrated Graphics Controller                                   | 2         | 1.96%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                       | 2         | 1.96%   |
-| AMD RV200/M7 [Mobility Radeon 7500]                                                | 2         | 1.96%   |
-| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                            | 2         | 1.96%   |
-| XGI Technology (eXtreme Graphics Innovation) Z9s/Z9m (XG21 core)                   | 1         | 0.98%   |
-| Nvidia TU117M                                                                      | 1         | 0.98%   |
-| Nvidia TU104 [GeForce RTX 2080 Rev. A]                                             | 1         | 0.98%   |
-| Nvidia GT216M [GeForce GT 330M]                                                    | 1         | 0.98%   |
-| Nvidia GP108M [GeForce MX330]                                                      | 1         | 0.98%   |
-| Nvidia GP108M [GeForce MX150]                                                      | 1         | 0.98%   |
-| Nvidia GP107M [GeForce GTX 1050 Mobile]                                            | 1         | 0.98%   |
-| Nvidia GP106 [GeForce GTX 1060 6GB]                                                | 1         | 0.98%   |
-| Nvidia GP106 [GeForce GTX 1060 3GB]                                                | 1         | 0.98%   |
-| Nvidia GM204 [GeForce GTX 970]                                                     | 1         | 0.98%   |
-| Nvidia GM108M [GeForce 940M]                                                       | 1         | 0.98%   |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller                   | 1         | 0.98%   |
-| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                                | 1         | 0.98%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                | 1         | 0.98%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                               | 1         | 0.98%   |
-| Intel Iris Plus Graphics G7                                                        | 1         | 0.98%   |
-| Intel Iris Plus Graphics G4 (Ice Lake)                                             | 1         | 0.98%   |
-| Intel HD Graphics 5300                                                             | 1         | 0.98%   |
-| Intel HD Graphics 500                                                              | 1         | 0.98%   |
-| Intel GeminiLake [UHD Graphics 605]                                                | 1         | 0.98%   |
-| Intel GeminiLake [UHD Graphics 600]                                                | 1         | 0.98%   |
-| Intel CometLake-U GT2 [UHD Graphics]                                               | 1         | 0.98%   |
-| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                          | 1         | 0.98%   |
-| Intel CoffeeLake-H GT2 [UHD Graphics 630]                                          | 1         | 0.98%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller | 1         | 0.98%   |
-| Intel 4th Generation Core Processor Family Integrated Graphics Controller          | 1         | 0.98%   |
-| AMD RV370/M22 [Mobility Radeon X300]                                               | 1         | 0.98%   |
-| AMD RV350/M10 / RV360/M11 [Mobility Radeon 9600 (PRO) / 9700]                      | 1         | 0.98%   |
-| AMD RV280 [Radeon 9200 PRO] (Secondary)                                            | 1         | 0.98%   |
-| AMD RV280 [Radeon 9200 PRO / 9250]                                                 | 1         | 0.98%   |
-| AMD RS880M [Mobility Radeon HD 4225/4250]                                          | 1         | 0.98%   |
-| AMD Mars [Radeon HD 8670A/8670M/8750M / R7 M370]                                   | 1         | 0.98%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                         | 1         | 0.98%   |
-| AMD ES1000                                                                         | 1         | 0.98%   |
-| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                            | 1         | 0.98%   |
-| AMD Cezanne                                                                        | 1         | 0.98%   |
-| AMD Caicos PRO [Radeon HD 7450]                                                    | 1         | 0.98%   |
+| Model                                                                         | Computers | Percent |
+|-------------------------------------------------------------------------------|-----------|---------|
+| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 7         | 6.86%   |
+| Intel 3rd Gen Core processor Graphics Controller                              | 7         | 6.86%   |
+| Intel Mobile 945GSE Express Integrated Graphics Controller                    | 5         | 4.9%    |
+| Intel HD Graphics 5500                                                        | 5         | 4.9%    |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 5         | 4.9%    |
+| Intel Core Processor Integrated Graphics Controller                           | 4         | 3.92%   |
+| ASPEED Technology ASPEED Graphics Family                                      | 4         | 3.92%   |
+| AMD Renoir                                                                    | 4         | 3.92%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 3         | 2.94%   |
+| Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 3         | 2.94%   |
+| Matrox Electronics Systems MGA G200eW WPCM450                                 | 2         | 1.96%   |
+| Matrox Electronics Systems MGA G200EH                                         | 2         | 1.96%   |
+| Intel UHD Graphics 620                                                        | 2         | 1.96%   |
+| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 1.96%   |
+| Intel HD Graphics 620                                                         | 2         | 1.96%   |
+| Intel Haswell-ULT Integrated Graphics Controller                              | 2         | 1.96%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 2         | 1.96%   |
+| AMD RV200/M7 [Mobility Radeon 7500]                                           | 2         | 1.96%   |
+| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                       | 2         | 1.96%   |
+| XGI Technology (eXtreme Graphics Innovation) Z9s/Z9m (XG21 core)              | 1         | 0.98%   |
+| Nvidia TU117M                                                                 | 1         | 0.98%   |
+| Nvidia TU104 [GeForce RTX 2080 Rev. A]                                        | 1         | 0.98%   |
+| Nvidia GT216M [GeForce GT 330M]                                               | 1         | 0.98%   |
+| Nvidia GP108M [GeForce MX330]                                                 | 1         | 0.98%   |
+| Nvidia GP108M [GeForce MX150]                                                 | 1         | 0.98%   |
+| Nvidia GP107M [GeForce GTX 1050 Mobile]                                       | 1         | 0.98%   |
+| Nvidia GP106 [GeForce GTX 1060 6GB]                                           | 1         | 0.98%   |
+| Nvidia GP106 [GeForce GTX 1060 3GB]                                           | 1         | 0.98%   |
+| Nvidia GM204 [GeForce GTX 970]                                                | 1         | 0.98%   |
+| Nvidia GM108M [GeForce 940M]                                                  | 1         | 0.98%   |
+| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 1         | 0.98%   |
+| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 0.98%   |
+| Intel Skylake GT2 [HD Graphics 520]                                           | 1         | 0.98%   |
+| Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1         | 0.98%   |
+| Intel Iris Plus Graphics G7                                                   | 1         | 0.98%   |
+| Intel Iris Plus Graphics G4 (Ice Lake)                                        | 1         | 0.98%   |
+| Intel HD Graphics 5300                                                        | 1         | 0.98%   |
+| Intel HD Graphics 500                                                         | 1         | 0.98%   |
+| Intel GeminiLake [UHD Graphics 605]                                           | 1         | 0.98%   |
+| Intel GeminiLake [UHD Graphics 600]                                           | 1         | 0.98%   |
 
 GPU Combo
 ---------
@@ -1720,13 +1586,6 @@ Monitor models
 | AU Optronics LCD Monitor AUO315C 1366x768 260x140mm 11.6-inch            | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO313C 1366x768 310x170mm 13.9-inch            | 1         | 2.08%   |
 | AU Optronics LCD Monitor AUO235C 1366x768 260x140mm 11.6-inch            | 1         | 2.08%   |
-| AU Optronics LCD Monitor AUO226D 1920x1080 280x160mm 12.7-inch           | 1         | 2.08%   |
-| AU Optronics LCD Monitor AUO11C2 1024x600 200x110mm 9.0-inch             | 1         | 2.08%   |
-| ASUSTek Computer VP247 AUS24CA 1920x1080 520x290mm 23.4-inch             | 1         | 2.08%   |
-| Apple Color LCD APP9CDF 1440x900 290x180mm 13.4-inch                     | 1         | 2.08%   |
-| Apple Color LCD APP9C20 1280x854 320x220mm 15.3-inch                     | 1         | 2.08%   |
-| AOC 2270W AOC2270 1920x1080 480x270mm 21.7-inch                          | 1         | 2.08%   |
-| Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch    | 1         | 2.08%   |
 
 Monitor Resolution
 ------------------
@@ -1944,26 +1803,6 @@ Controller models
 | Realtek Killer E2600 Gigabit Ethernet Controller                              | 1         | 0.64%   |
 | Ralink RT2870/RT3070 Wireless Adapter                                         | 1         | 0.64%   |
 | Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                     | 1         | 0.64%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                    | 1         | 0.64%   |
-| Qualcomm Atheros AR5212 802.11abg NIC                                         | 1         | 0.64%   |
-| Micro Star International RT2573                                               | 1         | 0.64%   |
-| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                       | 1         | 0.64%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                       | 1         | 0.64%   |
-| Intel Wireless-AC 9260                                                        | 1         | 0.64%   |
-| Intel Wireless 8260                                                           | 1         | 0.64%   |
-| Intel Wireless 3165                                                           | 1         | 0.64%   |
-| Intel Wireless 3160                                                           | 1         | 0.64%   |
-| Intel PRO/Wireless 2915ABG [Calexico2] Network Connection                     | 1         | 0.64%   |
-| Intel I210 Gigabit Fiber Network Connection                                   | 1         | 0.64%   |
-| Intel Ethernet Controller I225-V                                              | 1         | 0.64%   |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                                 | 1         | 0.64%   |
-| Intel Ethernet Connection X553 1GbE                                           | 1         | 0.64%   |
-| Intel Ethernet Connection X552/X557-AT 10GBASE-T                              | 1         | 0.64%   |
-| Intel Ethernet Connection I217-LM                                             | 1         | 0.64%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 1         | 0.64%   |
-| Intel Ethernet Connection (6) I219-V                                          | 1         | 0.64%   |
-| Intel Ethernet Connection (4) I219-V                                          | 1         | 0.64%   |
-| Intel Ethernet Connection (14) I219-V                                         | 1         | 0.64%   |
 
 Wireless Vendor
 ---------------
@@ -2036,8 +1875,6 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                               | 1         | 1.45%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                | 1         | 1.45%   |
 | Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1         | 1.45%   |
-| Broadcom BCM43224 802.11a/b/g/n                                               | 1         | 1.45%   |
-| Broadcom BCM4306 802.11b/g Wireless LAN Controller                            | 1         | 1.45%   |
 
 Ethernet Vendor
 ---------------
@@ -2107,7 +1944,6 @@ Ethernet models
 | Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                     | 1         | 1.19%   |
 | Broadcom NetXtreme BCM5714 Gigabit Ethernet                          | 1         | 1.19%   |
 | Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                      | 1         | 1.19%   |
-| Apple UniNorth 2 GMAC (Sun GEM)                                      | 1         | 1.19%   |
 
 Net Controller Kind
 -------------------
@@ -2255,51 +2091,48 @@ Sound card models
 ![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                                                             | Computers | Percent |
-|-----------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 8         | 8%      |
-| Intel NM10/ICH7 Family High Definition Audio Controller                           | 7         | 7%      |
-| Intel Wildcat Point-LP High Definition Audio Controller                           | 6         | 6%      |
-| Intel Sunrise Point-LP HD Audio                                                   | 6         | 6%      |
-| Intel Broadwell-U Audio Controller                                                | 6         | 6%      |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 5         | 5%      |
-| AMD Family 17h/19h HD Audio Controller                                            | 5         | 5%      |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                          | 4         | 4%      |
-| AMD Renoir Radeon High Definition Audio Controller                                | 4         | 4%      |
-| Intel Cannon Point-LP High Definition Audio Controller                            | 3         | 3%      |
-| Intel Cannon Lake PCH cAVS                                                        | 3         | 3%      |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                    | 3         | 3%      |
-| Nvidia GP106 High Definition Audio Controller                                     | 2         | 2%      |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller                         | 2         | 2%      |
-| Intel Haswell-ULT HD Audio Controller                                             | 2         | 2%      |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                      | 2         | 2%      |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                 | 2         | 2%      |
-| Intel 8 Series HD Audio Controller                                                | 2         | 2%      |
-| AMD Starship/Matisse HD Audio Controller                                          | 2         | 2%      |
-| AMD Navi 10 HDMI Audio                                                            | 2         | 2%      |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                               | 2         | 2%      |
-| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                         | 1         | 1%      |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                    | 1         | 1%      |
-| Nvidia TU104 HD Audio Controller                                                  | 1         | 1%      |
-| Nvidia GT216 HDMI Audio Controller                                                | 1         | 1%      |
-| Nvidia GM204 High Definition Audio Controller                                     | 1         | 1%      |
-| Logitech H390 headset with microphone                                             | 1         | 1%      |
-| JMTek USB PnP Audio Device                                                        | 1         | 1%      |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 1         | 1%      |
-| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller                   | 1         | 1%      |
-| Intel Tiger Lake-H HD Audio Controller                                            | 1         | 1%      |
-| Intel Comet Lake PCH-LP cAVS                                                      | 1         | 1%      |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller        | 1         | 1%      |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller                  | 1         | 1%      |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                 | 1         | 1%      |
-| Intel 82801CA/CAM AC'97 Audio Controller                                          | 1         | 1%      |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1         | 1%      |
-| Generalplus Technology USB Audio Device                                           | 1         | 1%      |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                     | 1         | 1%      |
-| AMD SBx00 Azalia (Intel HDA)                                                      | 1         | 1%      |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                      | 1         | 1%      |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                        | 1         | 1%      |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1         | 1%      |
+| Model                                                                      | Computers | Percent |
+|----------------------------------------------------------------------------|-----------|---------|
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 8         | 8%      |
+| Intel NM10/ICH7 Family High Definition Audio Controller                    | 7         | 7%      |
+| Intel Wildcat Point-LP High Definition Audio Controller                    | 6         | 6%      |
+| Intel Sunrise Point-LP HD Audio                                            | 6         | 6%      |
+| Intel Broadwell-U Audio Controller                                         | 6         | 6%      |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 5         | 5%      |
+| AMD Family 17h/19h HD Audio Controller                                     | 5         | 5%      |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 4         | 4%      |
+| AMD Renoir Radeon High Definition Audio Controller                         | 4         | 4%      |
+| Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 3%      |
+| Intel Cannon Lake PCH cAVS                                                 | 3         | 3%      |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 3         | 3%      |
+| Nvidia GP106 High Definition Audio Controller                              | 2         | 2%      |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 2         | 2%      |
+| Intel Haswell-ULT HD Audio Controller                                      | 2         | 2%      |
+| Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 2%      |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 2         | 2%      |
+| Intel 8 Series HD Audio Controller                                         | 2         | 2%      |
+| AMD Starship/Matisse HD Audio Controller                                   | 2         | 2%      |
+| AMD Navi 10 HDMI Audio                                                     | 2         | 2%      |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 2         | 2%      |
+| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                  | 1         | 1%      |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 1%      |
+| Nvidia TU104 HD Audio Controller                                           | 1         | 1%      |
+| Nvidia GT216 HDMI Audio Controller                                         | 1         | 1%      |
+| Nvidia GM204 High Definition Audio Controller                              | 1         | 1%      |
+| Logitech H390 headset with microphone                                      | 1         | 1%      |
+| JMTek USB PnP Audio Device                                                 | 1         | 1%      |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1         | 1%      |
+| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller            | 1         | 1%      |
+| Intel Tiger Lake-H HD Audio Controller                                     | 1         | 1%      |
+| Intel Comet Lake PCH-LP cAVS                                               | 1         | 1%      |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1         | 1%      |
+| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller           | 1         | 1%      |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller          | 1         | 1%      |
+| Intel 82801CA/CAM AC'97 Audio Controller                                   | 1         | 1%      |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1         | 1%      |
+| Generalplus Technology USB Audio Device                                    | 1         | 1%      |
+| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 1         | 1%      |
+| AMD SBx00 Azalia (Intel HDA)                                               | 1         | 1%      |
 
 Memory
 ------

@@ -711,22 +711,6 @@ Hard drive models
 | NVMe SAMSUNG MZVLB256 256GB       | 1        | 1.59%   |
 | NVMe PC SN730 WD 512GB            | 1        | 1.59%   |
 | Multiple Card Reader              | 1        | 1.59%   |
-| Micron 5300_MTFDDAK240TDS 240GB   | 1        | 1.59%   |
-| MEMXPRO mSATA M3B 32GB            | 1        | 1.59%   |
-| LSI MR9271-8i 438GB               | 1        | 1.59%   |
-| Intel SSDSC2KB240G8 240GB         | 1        | 1.59%   |
-| Intel SSDSC2BW240H6 240GB         | 1        | 1.59%   |
-| Intel SSDSC2BB080G4 80GB          | 1        | 1.59%   |
-| Hitachi HUA723020ALA640 2TB       | 1        | 1.59%   |
-| Hitachi HTS542580K9SA00 80GB      | 1        | 1.59%   |
-| HGST HTS541010A7E630 1TB          | 1        | 1.59%   |
-| HP LOGICAL VOLUME 1TB             | 1        | 1.59%   |
-| HP EG0300FCVBF 304GB              | 1        | 1.59%   |
-| HP EG0300FCSPH 304GB              | 1        | 1.59%   |
-| HP EG0300FBVFL 304GB              | 1        | 1.59%   |
-| GLOWAY FER60GS3-S7 64GB           | 1        | 1.59%   |
-| Crucial CT1000MX500SSD1 1TB       | 1        | 1.59%   |
-| ASMedia ASMT1051 240GB            | 1        | 1.59%   |
 
 HDD Vendor
 ----------

@@ -17,6 +17,7 @@ Contents
 * [ FreeBSD 13.0 ](/Dist/FreeBSD_13.0)
 * [ GhostBSD 21.08.27 ](/Dist/GhostBSD_21.08.27)
 * [ GhostBSD 20.04.02 ](/Dist/GhostBSD_20.04.02)
+* [ helloSystem 0.8.0 ](/Dist/helloSystem_0.8.0)
 * [ helloSystem 0.7.0 ](/Dist/helloSystem_0.7.0)
 * [ helloSystem 0.6.0 ](/Dist/helloSystem_0.6.0)
 * [ helloSystem 0.5.0 ](/Dist/helloSystem_0.5.0)

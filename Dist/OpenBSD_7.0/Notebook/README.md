@@ -411,14 +411,6 @@ Motherboard model
 | Dell Vostro 3500                            | 1         | 2%      |
 | Dell Latitude 3400                          | 1         | 2%      |
 | Dell Inspiron 5570                          | 1         | 2%      |
-| Dell G15 5510                               | 1         | 2%      |
-| Casper EXCALIBUR G900                       | 1         | 2%      |
-| ASUS 1000HE                                 | 1         | 2%      |
-| Apple MacBookPro9,2                         | 1         | 2%      |
-| Apple MacBook5,1                            | 1         | 2%      |
-| Alienware m15                               | 1         | 2%      |
-| Acer Aspire A514-52                         | 1         | 2%      |
-| Acer AO722                                  | 1         | 2%      |
 
 Model Family
 ------------
@@ -772,18 +764,6 @@ Hard drive models
 | NVMe INTEL SSDPEKKF51 512GB       | 1         | 1.75%   |
 | NVMe IM2P33F3 AD 256GB            | 1         | 1.75%   |
 | Netac SSD 240GB                   | 1         | 1.75%   |
-| Lexar USB Flash Drive 64GB        | 1         | 1.75%   |
-| Kingston SA400S37480G 480GB       | 1         | 1.75%   |
-| Kingston SA400S37240G 240GB       | 1         | 1.75%   |
-| Intel SSDSC2KF256H6L 256GB        | 1         | 1.75%   |
-| Intel SSDSA2M080G2GC 80GB         | 1         | 1.75%   |
-| Hitachi HTS723232A7A364 320GB     | 1         | 1.75%   |
-| Hitachi HTS722010K9SA00 100GB     | 1         | 1.75%   |
-| HGST HTS545050A7E660 500GB        | 1         | 1.75%   |
-| Crucial CT500MX200SSD1 500GB      | 1         | 1.75%   |
-| Apple HDD HTS547575A9E384 752GB   | 1         | 1.75%   |
-| A-DATA SP550 480GB                | 1         | 1.75%   |
-| A-DATA SP550 240GB                | 1         | 1.75%   |
 
 HDD Vendor
 ----------
@@ -1577,68 +1557,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                             | Notebooks | Percent |
-|-----------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                 | 13        | 12.62%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                             | 6         | 5.83%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                      | 5         | 4.85%   |
-| Intel 82567LM Gigabit Network Connection                                          | 4         | 3.88%   |
-| Intel Wireless 7260                                                               | 3         | 2.91%   |
-| Intel Wi-Fi 6 AX201                                                               | 3         | 2.91%   |
-| Intel Wi-Fi 6 AX200                                                               | 3         | 2.91%   |
-| Intel Ultimate N WiFi Link 5300                                                   | 3         | 2.91%   |
-| Intel 82577LM Gigabit Network Connection                                          | 3         | 2.91%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                        | 2         | 1.94%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                             | 2         | 1.94%   |
-| Intel Wireless-AC 9260                                                            | 2         | 1.94%   |
-| Intel Wireless 8265 / 8275                                                        | 2         | 1.94%   |
-| Intel Ethernet Connection (4) I219-V                                              | 2         | 1.94%   |
-| Intel Centrino Advanced-N 6200                                                    | 2         | 1.94%   |
-| Ericsson Business Mobile Networks F5521 gw Mobile Broadband Serial Port III       | 2         | 1.94%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                       | 1         | 0.97%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                          | 1         | 0.97%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                               | 1         | 0.97%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                             | 1         | 0.97%   |
-| Ralink RT5370 Wireless Adapter                                                    | 1         | 0.97%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                        | 1         | 0.97%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                         | 1         | 0.97%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                  | 1         | 0.97%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                                  | 1         | 0.97%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                    | 1         | 0.97%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                        | 1         | 0.97%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                    | 1         | 0.97%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)           | 1         | 0.97%   |
-| Nvidia MCP79 Ethernet                                                             | 1         | 0.97%   |
-| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                           | 1         | 0.97%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                           | 1         | 0.97%   |
-| Intel Wireless 8260                                                               | 1         | 0.97%   |
-| Intel Wireless 7265                                                               | 1         | 0.97%   |
-| Intel Wireless 3165                                                               | 1         | 0.97%   |
-| Intel Tiger Lake PCH CNVi WiFi                                                    | 1         | 0.97%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                           | 1         | 0.97%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                     | 1         | 0.97%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                             | 1         | 0.97%   |
-| Intel Gemini Lake PCH CNVi WiFi                                                   | 1         | 0.97%   |
-| Intel Ethernet Connection I219-LM                                                 | 1         | 0.97%   |
-| Intel Ethernet Connection I218-LM                                                 | 1         | 0.97%   |
-| Intel Ethernet Connection (7) I219-LM                                             | 1         | 0.97%   |
-| Intel Ethernet Connection (3) I218-LM                                             | 1         | 0.97%   |
-| Intel Ethernet Connection (10) I219-V                                             | 1         | 0.97%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                   | 1         | 0.97%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                                 | 1         | 0.97%   |
-| Intel Comet Lake PCH CNVi WiFi                                                    | 1         | 0.97%   |
-| Intel Centrino Wireless-N 2230                                                    | 1         | 0.97%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                                     | 1         | 0.97%   |
-| Intel Centrino Ultimate-N 6300                                                    | 1         | 0.97%   |
-| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller                        | 1         | 0.97%   |
-| Intel 82801CA/CAM AC'97 Modem Controller                                          | 1         | 0.97%   |
-| Intel 82566MM Gigabit Network Connection                                          | 1         | 0.97%   |
-| Ericsson Business Mobile Networks N5321 gw Mobile Broadband Serial Port III       | 1         | 0.97%   |
-| Dell Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                           | 1         | 0.97%   |
-| D-Link System DWA-131 802.11n Wireless N Nano Adapter(rev.A1) [Realtek RTL8192SU] | 1         | 0.97%   |
-| D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]              | 1         | 0.97%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                                 | 1         | 0.97%   |
-| Broadcom BCM4331 802.11a/b/g/n                                                    | 1         | 0.97%   |
+| Model                                                                       | Notebooks | Percent |
+|-----------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller           | 13        | 12.62%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                       | 6         | 5.83%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                                | 5         | 4.85%   |
+| Intel 82567LM Gigabit Network Connection                                    | 4         | 3.88%   |
+| Intel Wireless 7260                                                         | 3         | 2.91%   |
+| Intel Wi-Fi 6 AX201                                                         | 3         | 2.91%   |
+| Intel Wi-Fi 6 AX200                                                         | 3         | 2.91%   |
+| Intel Ultimate N WiFi Link 5300                                             | 3         | 2.91%   |
+| Intel 82577LM Gigabit Network Connection                                    | 3         | 2.91%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                  | 2         | 1.94%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                       | 2         | 1.94%   |
+| Intel Wireless-AC 9260                                                      | 2         | 1.94%   |
+| Intel Wireless 8265 / 8275                                                  | 2         | 1.94%   |
+| Intel Ethernet Connection (4) I219-V                                        | 2         | 1.94%   |
+| Intel Centrino Advanced-N 6200                                              | 2         | 1.94%   |
+| Ericsson Business Mobile Networks F5521 gw Mobile Broadband Serial Port III | 2         | 1.94%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                 | 1         | 0.97%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                    | 1         | 0.97%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                         | 1         | 0.97%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                       | 1         | 0.97%   |
+| Ralink RT5370 Wireless Adapter                                              | 1         | 0.97%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                  | 1         | 0.97%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                   | 1         | 0.97%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                            | 1         | 0.97%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                            | 1         | 0.97%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)              | 1         | 0.97%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                  | 1         | 0.97%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet              | 1         | 0.97%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)     | 1         | 0.97%   |
+| Nvidia MCP79 Ethernet                                                       | 1         | 0.97%   |
+| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 0.97%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                     | 1         | 0.97%   |
+| Intel Wireless 8260                                                         | 1         | 0.97%   |
+| Intel Wireless 7265                                                         | 1         | 0.97%   |
+| Intel Wireless 3165                                                         | 1         | 0.97%   |
+| Intel Tiger Lake PCH CNVi WiFi                                              | 1         | 0.97%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                     | 1         | 0.97%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection               | 1         | 0.97%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                       | 1         | 0.97%   |
+| Intel Gemini Lake PCH CNVi WiFi                                             | 1         | 0.97%   |
 
 Wireless Vendor
 ---------------

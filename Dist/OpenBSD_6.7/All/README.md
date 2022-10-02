@@ -411,7 +411,6 @@ Motherboard model
 | ASUS P4P800-VM                                    | 1         | 2%      |
 | ASUS All Series                                   | 1         | 2%      |
 | ASRock E350M1                                     | 1         | 2%      |
-| AMI Aptio CRB                                     | 1         | 2%      |
 
 Model Family
 ------------
@@ -763,20 +762,6 @@ Hard drive models
 | Micron 1100_MTFDDAK256TBN 256GB  | 1         | 1.64%   |
 | LSI Logical Volume 597GB         | 1         | 1.64%   |
 | Leven JAJS600M512C 512GB         | 1         | 1.64%   |
-| Kingston SUV500MS240G 240GB      | 1         | 1.64%   |
-| Kingston SA400S37120G 120GB      | 1         | 1.64%   |
-| Kingston DataTraveler G3 8GB     | 1         | 1.64%   |
-| Intel SSDSC2BW240A3L 240GB       | 1         | 1.64%   |
-| Hitachi HUA722020ALA331 2TB      | 1         | 1.64%   |
-| Hitachi HTS547550A9E384 500GB    | 1         | 1.64%   |
-| Hitachi HTS541060G9SA00 64GB     | 1         | 1.64%   |
-| Hitachi HTE723225A7A364 250GB    | 1         | 1.64%   |
-| Hitachi HTC426060G9AT00 64GB     | 1         | 1.64%   |
-| Hitachi HDS721010CLA332 1TB      | 1         | 1.64%   |
-| HGST HTS725050A7E630 500GB       | 1         | 1.64%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB | 1         | 1.64%   |
-| Crucial CT1000MX500SSD1 1TB      | 1         | 1.64%   |
-| China CF 2GB                     | 1         | 1.64%   |
 
 HDD Vendor
 ----------
@@ -1588,19 +1573,6 @@ Controller models
 | Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller                     | 1         | 1.15%   |
 | Intel 82583V Gigabit Network Connection                                               | 1         | 1.15%   |
 | Intel 82576 Gigabit Network Connection                                                | 1         | 1.15%   |
-| Intel 82574L Gigabit Network Connection                                               | 1         | 1.15%   |
-| Intel 82573L Gigabit Ethernet Controller                                              | 1         | 1.15%   |
-| Intel 82562EZ 10/100 Ethernet Controller                                              | 1         | 1.15%   |
-| Intel 82541EI Gigabit Ethernet Controller                                             | 1         | 1.15%   |
-| Intel 82540EP Gigabit Ethernet Controller (Mobile)                                    | 1         | 1.15%   |
-| Google Nexus/Pixel Device (charging + debug)                                          | 1         | 1.15%   |
-| Emulex OneConnect 10Gb NIC (be3)                                                      | 1         | 1.15%   |
-| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express                               | 1         | 1.15%   |
-| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express                              | 1         | 1.15%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                                      | 1         | 1.15%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                                      | 1         | 1.15%   |
-| Broadcom BCM43224 802.11a/b/g/n                                                       | 1         | 1.15%   |
-| Accton SMC2-1211TX                                                                    | 1         | 1.15%   |
 
 Wireless Vendor
 ---------------

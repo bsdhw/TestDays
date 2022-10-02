@@ -460,26 +460,6 @@ Motherboard model
 | Lenovo ThinkPad T460 20FMS1BC01             | 1         | 1.11%   |
 | Lenovo ThinkPad T450s 20BWS2XS00            | 1         | 1.11%   |
 | Lenovo ThinkPad T450 20BVA020AU             | 1         | 1.11%   |
-| Lenovo ThinkPad T450 20BV0005US             | 1         | 1.11%   |
-| Lenovo ThinkPad T430 2347GZU                | 1         | 1.11%   |
-| Lenovo ThinkPad T410 2537NB5                | 1         | 1.11%   |
-| Lenovo ThinkPad T410 2537N24                | 1         | 1.11%   |
-| Lenovo ThinkPad T400 6475K43                | 1         | 1.11%   |
-| Lenovo ThinkPad T14 Gen 1 20UD002HMH        | 1         | 1.11%   |
-| Lenovo ThinkPad S5-S540 20B3001XFR          | 1         | 1.11%   |
-| Lenovo ThinkPad Edge E531 68852HG           | 1         | 1.11%   |
-| Lenovo ThinkPad E485 20KUCTO1WW             | 1         | 1.11%   |
-| Lenovo ThinkPad E14 20RBCTO1WW              | 1         | 1.11%   |
-| Lenovo IdeaPad L340-15API 81LW              | 1         | 1.11%   |
-| Lenovo G50-80 80E5                          | 1         | 1.11%   |
-| Lenovo 3000 N100 0768B9G                    | 1         | 1.11%   |
-| IBM ThinkPad X41 2525F8G                    | 1         | 1.11%   |
-| IBM ThinkPad T42 2374K46                    | 1         | 1.11%   |
-| IBM ThinkPad T42 2373K9G                    | 1         | 1.11%   |
-| HP Setzer                                   | 1         | 1.11%   |
-| HP OmniBook PC                              | 1         | 1.11%   |
-| HP OMEN Laptop 15-en0xxx                    | 1         | 1.11%   |
-| HP 240 G1                                   | 1         | 1.11%   |
 
 Model Family
 ------------
@@ -546,10 +526,10 @@ Motherboard manufacture year
 | 2019    | 8         | 8.89%   |
 | 2013    | 8         | 8.89%   |
 | 2010    | 8         | 8.89%   |
-| 2018    | 6         | 6.67%   |
 | 2016    | 6         | 6.67%   |
+| 2012    | 6         | 6.67%   |
+| 2018    | 5         | 5.56%   |
 | 2017    | 5         | 5.56%   |
-| 2012    | 5         | 5.56%   |
 | 2009    | 5         | 5.56%   |
 | 2006    | 5         | 5.56%   |
 | 2011    | 4         | 4.44%   |
@@ -739,68 +719,48 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                | Notebooks | Percent |
-|---------------------|-----------|---------|
-| QuГ©bec           | 5         | 5.43%   |
-| Vladivostok         | 3         | 3.26%   |
-| Sydney              | 2         | 2.17%   |
-| Riga                | 2         | 2.17%   |
-| Oslo                | 2         | 2.17%   |
-| Moscow              | 2         | 2.17%   |
-| Krakow              | 2         | 2.17%   |
-| Dublin              | 2         | 2.17%   |
-| Brooklyn            | 2         | 2.17%   |
-| Amsterdam           | 2         | 2.17%   |
-| Zurich              | 1         | 1.09%   |
-| Zhukovskiy          | 1         | 1.09%   |
-| Yoshkar-Ola         | 1         | 1.09%   |
-| Wetzlar             | 1         | 1.09%   |
-| Vienna              | 1         | 1.09%   |
-| Vantaa              | 1         | 1.09%   |
-| Tustin              | 1         | 1.09%   |
-| Turin               | 1         | 1.09%   |
-| Trondheim           | 1         | 1.09%   |
-| Tokyo               | 1         | 1.09%   |
-| Thrissur            | 1         | 1.09%   |
-| Temple City         | 1         | 1.09%   |
-| Tegucigalpa         | 1         | 1.09%   |
-| St Petersburg       | 1         | 1.09%   |
-| Sofia               | 1         | 1.09%   |
-| Sevastopol'         | 1         | 1.09%   |
-| Saint-Herblain      | 1         | 1.09%   |
-| Rosny-sous-Bois     | 1         | 1.09%   |
-| Rochester           | 1         | 1.09%   |
-| Rio Tinto           | 1         | 1.09%   |
-| Prague              | 1         | 1.09%   |
-| Peterborough        | 1         | 1.09%   |
-| Pasig               | 1         | 1.09%   |
-| Palmira             | 1         | 1.09%   |
-| Oxenhope            | 1         | 1.09%   |
-| Osaka               | 1         | 1.09%   |
-| Nuremberg           | 1         | 1.09%   |
-| New Brighton        | 1         | 1.09%   |
-| Nantes              | 1         | 1.09%   |
-| Montreal            | 1         | 1.09%   |
-| Montesquiu d'Albera | 1         | 1.09%   |
-| Minsk               | 1         | 1.09%   |
-| London              | 1         | 1.09%   |
-| Leipzig             | 1         | 1.09%   |
-| Lamothe-Goas        | 1         | 1.09%   |
-| Ladenburg           | 1         | 1.09%   |
-| Kungsbacka          | 1         | 1.09%   |
-| Kamnik              | 1         | 1.09%   |
-| Jefferson           | 1         | 1.09%   |
-| Jeddah              | 1         | 1.09%   |
-| Ivanic-Grad         | 1         | 1.09%   |
-| Islington           | 1         | 1.09%   |
-| Ibiza Town          | 1         | 1.09%   |
-| Holzkirchen         | 1         | 1.09%   |
-| Hassloch            | 1         | 1.09%   |
-| Harrisburg          | 1         | 1.09%   |
-| Hamburg             | 1         | 1.09%   |
-| Halle               | 1         | 1.09%   |
-| Gummersbach         | 1         | 1.09%   |
-| Gettysburg          | 1         | 1.09%   |
+| City            | Notebooks | Percent |
+|-----------------|-----------|---------|
+| QuГ©bec       | 5         | 5.43%   |
+| Vladivostok     | 3         | 3.26%   |
+| Sydney          | 2         | 2.17%   |
+| Riga            | 2         | 2.17%   |
+| Oslo            | 2         | 2.17%   |
+| Moscow          | 2         | 2.17%   |
+| Krakow          | 2         | 2.17%   |
+| Dublin          | 2         | 2.17%   |
+| Brooklyn        | 2         | 2.17%   |
+| Amsterdam       | 2         | 2.17%   |
+| Zurich          | 1         | 1.09%   |
+| Zhukovskiy      | 1         | 1.09%   |
+| Yoshkar-Ola     | 1         | 1.09%   |
+| Wetzlar         | 1         | 1.09%   |
+| Vienna          | 1         | 1.09%   |
+| Vantaa          | 1         | 1.09%   |
+| Tustin          | 1         | 1.09%   |
+| Turin           | 1         | 1.09%   |
+| Trondheim       | 1         | 1.09%   |
+| Tokyo           | 1         | 1.09%   |
+| Thrissur        | 1         | 1.09%   |
+| Temple City     | 1         | 1.09%   |
+| Tegucigalpa     | 1         | 1.09%   |
+| St Petersburg   | 1         | 1.09%   |
+| Sofia           | 1         | 1.09%   |
+| Sevastopol'     | 1         | 1.09%   |
+| Saint-Herblain  | 1         | 1.09%   |
+| Rosny-sous-Bois | 1         | 1.09%   |
+| Rochester       | 1         | 1.09%   |
+| Rio Tinto       | 1         | 1.09%   |
+| Prague          | 1         | 1.09%   |
+| Peterborough    | 1         | 1.09%   |
+| Pasig           | 1         | 1.09%   |
+| Palmira         | 1         | 1.09%   |
+| Oxenhope        | 1         | 1.09%   |
+| Osaka           | 1         | 1.09%   |
+| Nuremberg       | 1         | 1.09%   |
+| New Brighton    | 1         | 1.09%   |
+| Nantes          | 1         | 1.09%   |
+| Montreal        | 1         | 1.09%   |
 
 Drives
 ------
@@ -891,26 +851,6 @@ Hard drive models
 | Seagate ST9320423AS 320GB           | 1         | 0.9%    |
 | Seagate ST500LT012-9WS142 500GB     | 1         | 0.9%    |
 | Seagate ST2000LM003 HN-M201RAD 2TB  | 1         | 0.9%    |
-| Seagate ST1000LM048-2E7172 1TB      | 1         | 0.9%    |
-| SanDisk X400 M.2 2280 512GB         | 1         | 0.9%    |
-| SanDisk SSD PLUS 120GB              | 1         | 0.9%    |
-| SanDisk SDSSDXP120G 120GB           | 1         | 0.9%    |
-| SanDisk SDSSDP128G 128GB            | 1         | 0.9%    |
-| SanDisk SD9SN8W128G1102 128GB       | 1         | 0.9%    |
-| SanDisk SD7UB3Q256G1001 256GB       | 1         | 0.9%    |
-| SanDisk SD6SB1M128G1022I 128GB      | 1         | 0.9%    |
-| SanDisk Cruzer Fit 32GB             | 1         | 0.9%    |
-| SanDisk Cruzer Blade 32GB           | 1         | 0.9%    |
-| Samsung SSD 860 EVO 250GB           | 1         | 0.9%    |
-| Samsung SSD 850 PRO 512GB           | 1         | 0.9%    |
-| Samsung SSD 850 PRO 256GB           | 1         | 0.9%    |
-| Samsung SSD 840 EVO 250GB           | 1         | 0.9%    |
-| Samsung MZNLN256HCHP-000L7 256GB    | 1         | 0.9%    |
-| Samsung MZHPV512HDGL-00000 512GB    | 1         | 0.9%    |
-| Samsung MZ7TD256HAFV-000L7 256GB    | 1         | 0.9%    |
-| Samsung MZ7LN256HCHP-000L7 256GB    | 1         | 0.9%    |
-| Samsung MMCRE28GFMXP-MVB 128GB      | 1         | 0.9%    |
-| Samsung HM500JI 500GB               | 1         | 0.9%    |
 
 HDD Vendor
 ----------
@@ -1210,9 +1150,6 @@ Storage controller models
 | Intel 82801FBM (ICH6M) SATA Controller                                         | 1         | 1%      |
 | Intel 8 Series Chipset Family 4-port SATA Controller 1 [IDE mode] - Mobile     | 1         | 1%      |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                  | 1         | 1%      |
-| Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                  | 1         | 1%      |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1         | 1%      |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 1         | 1%      |
 
 Storage Kind
 ------------
@@ -1295,26 +1232,6 @@ Processor models
 | Intel Core i7-2760QM CPU @ 2.40GHz                                  | 1         | 1.11%   |
 | Intel Core i7-2670QM CPU @ 2.20GHz                                  | 1         | 1.11%   |
 | Intel Core i7-10510U CPU @ 1.80GHz                                  | 1         | 1.11%   |
-| Intel Core i7 CPU Q 720 @ 1.60GHz                                   | 1         | 1.11%   |
-| Intel Core i7 CPU L 620 @ 2.00GHz                                   | 1         | 1.11%   |
-| Intel Core i5-8265U CPU @ 1.60GHz                                   | 1         | 1.11%   |
-| Intel Core i5-7300U CPU @ 2.60GHz                                   | 1         | 1.11%   |
-| Intel Core i5-6300U CPU @ 2.40GHz                                   | 1         | 1.11%   |
-| Intel Core i5-6200U CPU @ 2.30GHz                                   | 1         | 1.11%   |
-| Intel Core i5-5350U CPU @ 1.80GHz                                   | 1         | 1.11%   |
-| Intel Core i5-4300U CPU @ 1.90GHz                                   | 1         | 1.11%   |
-| Intel Core i5-4260U CPU @ 1.40GHz                                   | 1         | 1.11%   |
-| Intel Core i5-3230M CPU @ 2.60GHz                                   | 1         | 1.11%   |
-| Intel Core i5-10210U CPU @ 1.60GHz                                  | 1         | 1.11%   |
-| Intel Core i5 CPU M 560 @ 2.67GHz                                   | 1         | 1.11%   |
-| Intel Core i5 CPU M 540 @ 2.53GHz                                   | 1         | 1.11%   |
-| Intel Core i3-7100U CPU @ 2.40GHz                                   | 1         | 1.11%   |
-| Intel Core i3-3130M CPU @ 2.60GHz                                   | 1         | 1.11%   |
-| Intel Core i3-3110M CPU @ 2.40GHz                                   | 1         | 1.11%   |
-| Intel Core Duo CPU L2400 @ 1.66GHz ("GenuineIntel" 686-class)       | 1         | 1.11%   |
-| Intel Core 2 Duo CPU T7100 @ 1.80GHz                                | 1         | 1.11%   |
-| Intel Core 2 Duo CPU P7350 @ 2.00GHz                                | 1         | 1.11%   |
-| Intel Core 2 Duo CPU L9300 @ 1.60GHz                                | 1         | 1.11%   |
 
 CPU Model Family
 ----------------
@@ -1451,61 +1368,48 @@ Graphics card models
 ![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
 
-| Model                                                                                    | Notebooks | Percent |
-|------------------------------------------------------------------------------------------|-----------|---------|
-| Intel HD Graphics 5500                                                                   | 8         | 7.41%   |
-| Intel 3rd Gen Core processor Graphics Controller                                         | 8         | 7.41%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 5         | 4.63%   |
-| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 5         | 4.63%   |
-| Intel Haswell-ULT Integrated Graphics Controller                                         | 5         | 4.63%   |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 5         | 4.63%   |
-| Intel UHD Graphics 620                                                                   | 4         | 3.7%    |
-| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller                | 4         | 3.7%    |
-| Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 4         | 3.7%    |
-| Intel HD Graphics 620                                                                    | 4         | 3.7%    |
-| Intel Core Processor Integrated Graphics Controller                                      | 4         | 3.7%    |
-| Intel 4th Gen Core Processor Integrated Graphics Controller                              | 3         | 2.78%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 2         | 1.85%   |
-| Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 1.85%   |
-| Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 2         | 1.85%   |
-| AMD RV200/M7 [Mobility Radeon 7500]                                                      | 2         | 1.85%   |
-| AMD Renoir                                                                               | 2         | 1.85%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 2         | 1.85%   |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 2         | 1.85%   |
-| AMD Kabini [Radeon HD 8180]                                                              | 2         | 1.85%   |
-| Silicon Integrated Systems [SiS] 65x/M650/740 PCI/AGP VGA Display Adapter                | 1         | 0.93%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 1         | 0.93%   |
-| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                               | 1         | 0.93%   |
-| Nvidia GT218M [NVS 3100M]                                                                | 1         | 0.93%   |
-| Nvidia GT216M [GeForce GT 330M]                                                          | 1         | 0.93%   |
-| Nvidia GP108M [GeForce MX150]                                                            | 1         | 0.93%   |
-| Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 1         | 0.93%   |
-| Nvidia GP104M [GeForce GTX 1070 Mobile]                                                  | 1         | 0.93%   |
-| Nvidia GM107M [GeForce GTX 960M]                                                         | 1         | 0.93%   |
-| Nvidia GK107GLM [Quadro K1100M]                                                          | 1         | 0.93%   |
-| Nvidia GK106GLM [Quadro K2100M]                                                          | 1         | 0.93%   |
-| Nvidia GF108M [GeForce GT 540M]                                                          | 1         | 0.93%   |
-| Nvidia C79 [GeForce 9400M]                                                               | 1         | 0.93%   |
-| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                                      | 1         | 0.93%   |
-| Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 1         | 0.93%   |
-| Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 1         | 0.93%   |
-| Intel Mobile 945GSE Express Integrated Graphics Controller                               | 1         | 0.93%   |
-| Intel Mobile 915GM/GMS/910GML Express Graphics Controller                                | 1         | 0.93%   |
-| Intel HD Graphics 615                                                                    | 1         | 0.93%   |
-| Intel HD Graphics 6000                                                                   | 1         | 0.93%   |
-| Intel HD Graphics 530                                                                    | 1         | 0.93%   |
-| Intel GeminiLake [UHD Graphics 605]                                                      | 1         | 0.93%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 0.93%   |
-| Intel Atom Processor D2xxx/N2xxx Integrated Graphics Controller                          | 1         | 0.93%   |
-| Intel 82830M/MG Integrated Graphics Controller                                           | 1         | 0.93%   |
-| AMD Sun XT [Radeon HD 8670A/8670M/8690M / R5 M330 / M430 / Radeon 520 Mobile]            | 1         | 0.93%   |
-| AMD RV635/M86 [Mobility Radeon HD 3650]                                                  | 1         | 0.93%   |
-| AMD RV515/M54 [Mobility Radeon X1400]                                                    | 1         | 0.93%   |
-| AMD RV360/M12 [Mobility Radeon 9550]                                                     | 1         | 0.93%   |
-| AMD RV350/M10 / RV360/M11 [Mobility Radeon 9600 (PRO) / 9700]                            | 1         | 0.93%   |
-| AMD RV100/M6 [Rage/Radeon Mobility Series]                                               | 1         | 0.93%   |
-| AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 1         | 0.93%   |
-| AMD Cape Verde PRO / Venus LE / Tropo PRO-L [Radeon HD 8830M / R7 250 / R7 M465X]        | 1         | 0.93%   |
+| Model                                                                         | Notebooks | Percent |
+|-------------------------------------------------------------------------------|-----------|---------|
+| Intel HD Graphics 5500                                                        | 8         | 7.41%   |
+| Intel 3rd Gen Core processor Graphics Controller                              | 8         | 7.41%   |
+| Intel Skylake GT2 [HD Graphics 520]                                           | 5         | 4.63%   |
+| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 5         | 4.63%   |
+| Intel Haswell-ULT Integrated Graphics Controller                              | 5         | 4.63%   |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 5         | 4.63%   |
+| Intel UHD Graphics 620                                                        | 4         | 3.7%    |
+| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 4         | 3.7%    |
+| Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 4         | 3.7%    |
+| Intel HD Graphics 620                                                         | 4         | 3.7%    |
+| Intel Core Processor Integrated Graphics Controller                           | 4         | 3.7%    |
+| Intel 4th Gen Core Processor Integrated Graphics Controller                   | 3         | 2.78%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 2         | 1.85%   |
+| Intel CometLake-U GT2 [UHD Graphics]                                          | 2         | 1.85%   |
+| Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 2         | 1.85%   |
+| AMD RV200/M7 [Mobility Radeon 7500]                                           | 2         | 1.85%   |
+| AMD Renoir                                                                    | 2         | 1.85%   |
+| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]              | 2         | 1.85%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 2         | 1.85%   |
+| AMD Kabini [Radeon HD 8180]                                                   | 2         | 1.85%   |
+| Silicon Integrated Systems [SiS] 65x/M650/740 PCI/AGP VGA Display Adapter     | 1         | 0.93%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                               | 1         | 0.93%   |
+| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                    | 1         | 0.93%   |
+| Nvidia GT218M [NVS 3100M]                                                     | 1         | 0.93%   |
+| Nvidia GT216M [GeForce GT 330M]                                               | 1         | 0.93%   |
+| Nvidia GP108M [GeForce MX150]                                                 | 1         | 0.93%   |
+| Nvidia GP107M [GeForce GTX 1050 Mobile]                                       | 1         | 0.93%   |
+| Nvidia GP104M [GeForce GTX 1070 Mobile]                                       | 1         | 0.93%   |
+| Nvidia GM107M [GeForce GTX 960M]                                              | 1         | 0.93%   |
+| Nvidia GK107GLM [Quadro K1100M]                                               | 1         | 0.93%   |
+| Nvidia GK106GLM [Quadro K2100M]                                               | 1         | 0.93%   |
+| Nvidia GF108M [GeForce GT 540M]                                               | 1         | 0.93%   |
+| Nvidia C79 [GeForce 9400M]                                                    | 1         | 0.93%   |
+| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 0.93%   |
+| Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 0.93%   |
+| Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 0.93%   |
+| Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 0.93%   |
+| Intel Mobile 915GM/GMS/910GML Express Graphics Controller                     | 1         | 0.93%   |
+| Intel HD Graphics 615                                                         | 1         | 0.93%   |
+| Intel HD Graphics 6000                                                        | 1         | 0.93%   |
 
 GPU Combo
 ---------
@@ -1632,22 +1536,6 @@ Monitor models
 | BOE LCD Monitor BOE07C0 1366x768 290x160mm 13.0-inch                 | 1         | 1.61%   |
 | BOE LCD Monitor BOE0742 1920x1080 310x170mm 13.9-inch                | 1         | 1.61%   |
 | BOE LCD Monitor BOE0718 1920x1080 310x170mm 13.9-inch                | 1         | 1.61%   |
-| BOE LCD Monitor BOE0675 1366x768 340x190mm 15.3-inch                 | 1         | 1.61%   |
-| BOE LCD Monitor BOE0630 1920x1080 340x190mm 15.3-inch                | 1         | 1.61%   |
-| BOE LCD Monitor BOE05E0 1366x768 280x160mm 12.7-inch                 | 1         | 1.61%   |
-| BenQ GW2480 BNQ78E7 1920x1080 530x300mm 24.0-inch                    | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO5A2D 1920x1080 290x170mm 13.2-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO573D 1920x1080 310x170mm 13.9-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 340x190mm 15.3-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO34EB 3840x2160 340x190mm 15.3-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO226D 1920x1080 280x160mm 12.7-inch       | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO183C 1366x768 310x170mm 13.9-inch        | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO10DC 1366x768 220x130mm 10.1-inch        | 1         | 1.61%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 280x160mm 12.7-inch        | 1         | 1.61%   |
-| Apple Color LCD APPA01B 1440x900 290x180mm 13.4-inch                 | 1         | 1.61%   |
-| Apple Color LCD APP9C4E 1440x960 320x220mm 15.3-inch                 | 1         | 1.61%   |
-| Apple Color LCD APP9C45 1024x768 250x180mm 12.1-inch                 | 1         | 1.61%   |
-| Acer K192HQL ACR03DB 1366x768 410x230mm 18.5-inch                    | 1         | 1.61%   |
 
 Monitor Resolution
 ------------------
@@ -1817,68 +1705,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                                 | Notebooks | Percent |
-|---------------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                     | 18        | 9.84%   |
-| Intel Wireless 8265 / 8275                                                            | 9         | 4.92%   |
-| Intel Wireless 7265                                                                   | 9         | 4.92%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                                 | 8         | 4.37%   |
-| Intel Wireless 7260                                                                   | 7         | 3.83%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                          | 7         | 3.83%   |
-| Intel Centrino Advanced-N 6200                                                        | 6         | 3.28%   |
-| Intel Ethernet Connection (3) I218-LM                                                 | 5         | 2.73%   |
-| Intel 82577LM Gigabit Network Connection                                              | 5         | 2.73%   |
-| Intel Wireless 8260                                                                   | 4         | 2.19%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 4         | 2.19%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 3         | 1.64%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 3         | 1.64%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 3         | 1.64%   |
-| Intel Wi-Fi 6 AX200                                                                   | 3         | 1.64%   |
-| Intel 82567LM Gigabit Network Connection                                              | 3         | 1.64%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                        | 3         | 1.64%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 2         | 1.09%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 2         | 1.09%   |
-| Qualcomm Atheros AR5212 802.11abg NIC                                                 | 2         | 1.09%   |
-| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)               | 2         | 1.09%   |
-| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                               | 2         | 1.09%   |
-| Intel Wireless-AC 9260                                                                | 2         | 1.09%   |
-| Intel Ethernet Connection I219-LM                                                     | 2         | 1.09%   |
-| Intel Ethernet Connection I218-LM                                                     | 2         | 1.09%   |
-| Intel Ethernet Connection (6) I219-V                                                  | 2         | 1.09%   |
-| Intel Ethernet Connection (4) I219-V                                                  | 2         | 1.09%   |
-| Intel Ethernet Connection (4) I219-LM                                                 | 2         | 1.09%   |
-| Intel Ethernet Connection (3) I218-V                                                  | 2         | 1.09%   |
-| Intel Centrino Wireless-N 2230                                                        | 2         | 1.09%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 2         | 1.09%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller                     | 2         | 1.09%   |
-| Intel 82573L Gigabit Ethernet Controller                                              | 2         | 1.09%   |
-| Intel 82540EP Gigabit Ethernet Controller (Mobile)                                    | 2         | 1.09%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                    | 2         | 1.09%   |
-| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                             | 1         | 0.55%   |
-| Silicon Integrated Systems [SiS] AC'97 Modem Controller                               | 1         | 0.55%   |
-| Sierra Wireless EM7455                                                                | 1         | 0.55%   |
-| Samsung Galaxy series, misc. (tethering mode)                                         | 1         | 0.55%   |
-| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                                            | 1         | 0.55%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                                               | 1         | 0.55%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                                 | 1         | 0.55%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                             | 1         | 0.55%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                            | 1         | 0.55%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                             | 1         | 0.55%   |
-| Qualcomm Atheros AR9271 802.11n                                                       | 1         | 0.55%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 1         | 0.55%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                            | 1         | 0.55%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                                              | 1         | 0.55%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                        | 1         | 0.55%   |
-| Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 0.55%   |
-| Nvidia MCP79 Ethernet                                                                 | 1         | 0.55%   |
-| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                               | 1         | 0.55%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                               | 1         | 0.55%   |
-| Intel Wireless 3165                                                                   | 1         | 0.55%   |
-| Intel Wireless 3160                                                                   | 1         | 0.55%   |
-| Intel WiFi Link 5100                                                                  | 1         | 0.55%   |
-| Intel Ultimate N WiFi Link 5300                                                       | 1         | 0.55%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                               | 1         | 0.55%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection                         | 1         | 0.55%   |
+| Model                                                                   | Notebooks | Percent |
+|-------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 18        | 9.84%   |
+| Intel Wireless 8265 / 8275                                              | 9         | 4.92%   |
+| Intel Wireless 7265                                                     | 9         | 4.92%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                   | 8         | 4.37%   |
+| Intel Wireless 7260                                                     | 7         | 3.83%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 7         | 3.83%   |
+| Intel Centrino Advanced-N 6200                                          | 6         | 3.28%   |
+| Intel Ethernet Connection (3) I218-LM                                   | 5         | 2.73%   |
+| Intel 82577LM Gigabit Network Connection                                | 5         | 2.73%   |
+| Intel Wireless 8260                                                     | 4         | 2.19%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                   | 4         | 2.19%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                   | 3         | 1.64%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                        | 3         | 1.64%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)          | 3         | 1.64%   |
+| Intel Wi-Fi 6 AX200                                                     | 3         | 1.64%   |
+| Intel 82567LM Gigabit Network Connection                                | 3         | 1.64%   |
+| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]          | 3         | 1.64%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 2         | 1.09%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                     | 2         | 1.09%   |
+| Qualcomm Atheros AR5212 802.11abg NIC                                   | 2         | 1.09%   |
+| Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 2         | 1.09%   |
+| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                 | 2         | 1.09%   |
+| Intel Wireless-AC 9260                                                  | 2         | 1.09%   |
+| Intel Ethernet Connection I219-LM                                       | 2         | 1.09%   |
+| Intel Ethernet Connection I218-LM                                       | 2         | 1.09%   |
+| Intel Ethernet Connection (6) I219-V                                    | 2         | 1.09%   |
+| Intel Ethernet Connection (4) I219-V                                    | 2         | 1.09%   |
+| Intel Ethernet Connection (4) I219-LM                                   | 2         | 1.09%   |
+| Intel Ethernet Connection (3) I218-V                                    | 2         | 1.09%   |
+| Intel Centrino Wireless-N 2230                                          | 2         | 1.09%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                                | 2         | 1.09%   |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller       | 2         | 1.09%   |
+| Intel 82573L Gigabit Ethernet Controller                                | 2         | 1.09%   |
+| Intel 82540EP Gigabit Ethernet Controller (Mobile)                      | 2         | 1.09%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter                      | 2         | 1.09%   |
+| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet               | 1         | 0.55%   |
+| Silicon Integrated Systems [SiS] AC'97 Modem Controller                 | 1         | 0.55%   |
+| Sierra Wireless EM7455                                                  | 1         | 0.55%   |
+| Samsung Galaxy series, misc. (tethering mode)                           | 1         | 0.55%   |
+| Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1         | 0.55%   |
 
 Wireless Vendor
 ---------------

@@ -476,26 +476,6 @@ Motherboard model
 | Lenovo ThinkPad L14 Gen 1 20U1000VGE        | 1         | 1.16%   |
 | Lenovo ThinkPad Edge E430 3254A68           | 1         | 1.16%   |
 | Lenovo ThinkPad E490 20N8CTO1WW             | 1         | 1.16%   |
-| Lenovo ThinkPad E14 Gen 2 20T6S02Y00        | 1         | 1.16%   |
-| Lenovo ThinkCentre M73z 10BB001DRU          | 1         | 1.16%   |
-| Lenovo IdeaPad 330-15ARR 81D2               | 1         | 1.16%   |
-| Lenovo Flex 2-15 20405                      | 1         | 1.16%   |
-| Intel SharkBay Platform                     | 1         | 1.16%   |
-| Intel DCP847SKE                             | 1         | 1.16%   |
-| Intel D945GSEJT                             | 1         | 1.16%   |
-| IBM 2658MNG                                 | 1         | 1.16%   |
-| HP t620 Quad Core TC                        | 1         | 1.16%   |
-| HP EliteBook 8440p                          | 1         | 1.16%   |
-| HP EliteBook 2530p                          | 1         | 1.16%   |
-| HP Compaq dc5700 Microtower                 | 1         | 1.16%   |
-| HP Compaq 15                                | 1         | 1.16%   |
-| Google Grunt                                | 1         | 1.16%   |
-| Gigabyte Z590 VISION G                      | 1         | 1.16%   |
-| Gigabyte X58A-UD5                           | 1         | 1.16%   |
-| Gigabyte X470 AORUS ULTRA GAMING            | 1         | 1.16%   |
-| Gigabyte H81M-S2PV                          | 1         | 1.16%   |
-| Gigabyte BRi3(H)-10110                      | 1         | 1.16%   |
-| Gigabyte B450M DS3H                         | 1         | 1.16%   |
 
 Model Family
 ------------
@@ -547,22 +527,6 @@ Motherboard model prefix
 | Gigabyte BRi3(H)-10110                      | 1         | 1.16%   |
 | Gigabyte B450M                              | 1         | 1.16%   |
 | Framework Laptop                            | 1         | 1.16%   |
-| Dell Precision                              | 1         | 1.16%   |
-| Dell OptiPlex                               | 1         | 1.16%   |
-| Dell Latitude                               | 1         | 1.16%   |
-| Dell Inspiron                               | 1         | 1.16%   |
-| Dell G15                                    | 1         | 1.16%   |
-| Casper EXCALIBUR                            | 1         | 1.16%   |
-| ASUS P10S-I                                 | 1         | 1.16%   |
-| ASUS 1000HE                                 | 1         | 1.16%   |
-| ASRock X570                                 | 1         | 1.16%   |
-| ASRock FM2A88X                              | 1         | 1.16%   |
-| Apple PowerMac10                            | 1         | 1.16%   |
-| Apple MacBookPro9                           | 1         | 1.16%   |
-| Apple MacBook5                              | 1         | 1.16%   |
-| Alienware m15                               | 1         | 1.16%   |
-| Acer Aspire                                 | 1         | 1.16%   |
-| Acer AO722                                  | 1         | 1.16%   |
 
 MFG Year
 --------
@@ -818,26 +782,6 @@ Geographic location (city)
 | Omaha             | 1         | 1.11%   |
 | Oensingen         | 1         | 1.11%   |
 | Nuremberg         | 1         | 1.11%   |
-| Naters            | 1         | 1.11%   |
-| Munich            | 1         | 1.11%   |
-| Mountain View     | 1         | 1.11%   |
-| Mogilno           | 1         | 1.11%   |
-| Milton Keynes     | 1         | 1.11%   |
-| Matfors           | 1         | 1.11%   |
-| Mâcon            | 1         | 1.11%   |
-| Lyubertsy         | 1         | 1.11%   |
-| Lidkoeping        | 1         | 1.11%   |
-| Larnaca           | 1         | 1.11%   |
-| Kuala Lumpur      | 1         | 1.11%   |
-| Kingman           | 1         | 1.11%   |
-| Istanbul          | 1         | 1.11%   |
-| Irvine            | 1         | 1.11%   |
-| Hohhot            | 1         | 1.11%   |
-| Ho Chi Minh City  | 1         | 1.11%   |
-| Helsinki          | 1         | 1.11%   |
-| Glendale          | 1         | 1.11%   |
-| Giroussens        | 1         | 1.11%   |
-| Gettysburg        | 1         | 1.11%   |
 
 Drives
 ------
@@ -890,68 +834,48 @@ Hard drive models
 ![Drive Model](./All/images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                                                | Computers | Percent |
-|------------------------------------------------------|-----------|---------|
-| Samsung HM321HI 320GB                                | 3         | 2.73%   |
-| NVMe WDC PC SN730 SDB 256GB                          | 3         | 2.73%   |
-| Toshiba MK2556GSY 250GB                              | 2         | 1.82%   |
-| Samsung Flash Drive FIT 32GB                         | 2         | 1.82%   |
-| NVMe Samsung SSD 970 250GB                           | 2         | 1.82%   |
-| WDC WDS480G2G0B-00EPW0 480GB                         | 1         | 0.91%   |
-| WDC WDS240G2G0B-00EPW0 240GB                         | 1         | 0.91%   |
-| WDC WD7500BPKX-00HPJT0 752GB                         | 1         | 0.91%   |
-| WDC WD7500BPKT-00PK4T0 752GB                         | 1         | 0.91%   |
-| WDC WD6400AARS-00Y5B1 640GB                          | 1         | 0.91%   |
-| WDC WD5000LPLX-00ZNTT0 500GB                         | 1         | 0.91%   |
-| WDC WD5000LPCX-24VHAT0 500GB                         | 1         | 0.91%   |
-| WDC WD3200BEVE-00A0HT0 320GB                         | 1         | 0.91%   |
-| WDC WD20PURX-64P6ZY0 2TB                             | 1         | 0.91%   |
-| WDC WD1600BEVE-00UYT0 160GB                          | 1         | 0.91%   |
-| WDC WD10JPLX-00MBPT0 1TB                             | 1         | 0.91%   |
-| WDC WD10EADS-00M2B0 1TB                              | 1         | 0.91%   |
-| WDC WD101KFBX-68R56N0 10TB                           | 1         | 0.91%   |
-| Toshiba TR200 240GB                                  | 1         | 0.91%   |
-| Toshiba THNSFJ256GCSU 256GB                          | 1         | 0.91%   |
-| Toshiba MQ04ABF100 1TB                               | 1         | 0.91%   |
-| Toshiba MK3276GSX -63 320GB                          | 1         | 0.91%   |
-| Toshiba MK2555GSX 250GB                              | 1         | 0.91%   |
-| Toshiba MK1629GSGF 160GB                             | 1         | 0.91%   |
-| Toshiba DT01ACA050 500GB                             | 1         | 0.91%   |
-| StoreJet Transcend 120GB                             | 1         | 0.91%   |
-| SSDPR-CX 400-512-G2 512GB                            | 1         | 0.91%   |
-| SK hynix SC311 SATA 512GB                            | 1         | 0.91%   |
-| SK hynix SC311 SATA 256GB                            | 1         | 0.91%   |
-| SK hynix HFS128G32TNF-N3A0A 128GB                    | 1         | 0.91%   |
-| Seagate ST9500420AS 500GB                            | 1         | 0.91%   |
-| Seagate ST9320423AS 320GB                            | 1         | 0.91%   |
-| Seagate ST9160821A 160GB                             | 1         | 0.91%   |
-| Seagate ST3250318AS 250GB                            | 1         | 0.91%   |
-| Seagate ST250DM000-1BD141 250GB                      | 1         | 0.91%   |
-| Seagate ST2000VN000-1HJ164 2TB                       | 1         | 0.91%   |
-| Seagate ST2000NE0025-2FL101 2TB                      | 1         | 0.91%   |
-| Seagate ST2000DM008-2FR102 2TB                       | 1         | 0.91%   |
-| Seagate ST1000LM035-1RK172 1TB                       | 1         | 0.91%   |
-| Seagate ST1000DM010-2EP102 1TB                       | 1         | 0.91%   |
-| Seagate BUP Slim BL 1TB                              | 1         | 0.91%   |
-| SanDisk Ultra 32GB                                   | 1         | 0.91%   |
-| SanDisk Cruzer Blade 32GB                            | 1         | 0.91%   |
-| Samsung SSD 860 EVO 500GB                            | 1         | 0.91%   |
-| Samsung SSD 860 EVO 250GB                            | 1         | 0.91%   |
-| Samsung SSD 860 EVO 1TB                              | 1         | 0.91%   |
-| Samsung SSD 850 EVO 500GB                            | 1         | 0.91%   |
-| Samsung SSD 840 EVO 120GB                            | 1         | 0.91%   |
-| Samsung MZ7TE128HMGR-000L1 128GB                     | 1         | 0.91%   |
-| Samsung MZ7PC128HAFU-000L1 128GB                     | 1         | 0.91%   |
-| Samsung HD501LJ 500GB                                | 1         | 0.91%   |
-| Product:              USB DISK 3.0 USB DISK 3.0 64GB | 1         | 0.91%   |
-| Product:              USB DISK 2.0 USB DISK 2.0 4GB  | 1         | 0.91%   |
-| Plextor PX-128M6S 128GB                              | 1         | 0.91%   |
-| Phison SATA SSD 16GB                                 | 1         | 0.91%   |
-| Patriot Burst 120GB                                  | 1         | 0.91%   |
-| OPENBSD SR RAID 1 752GB                              | 1         | 0.91%   |
-| NVMe WDS500G3X0C-00SJ 500GB                          | 1         | 0.91%   |
-| NVMe WDC WDS100T2B0C- 1TB                            | 1         | 0.91%   |
-| NVMe TOSHIBA-RC100 240GB                             | 1         | 0.91%   |
+| Model                             | Computers | Percent |
+|-----------------------------------|-----------|---------|
+| Samsung HM321HI 320GB             | 3         | 2.73%   |
+| NVMe WDC PC SN730 SDB 256GB       | 3         | 2.73%   |
+| Toshiba MK2556GSY 250GB           | 2         | 1.82%   |
+| Samsung Flash Drive FIT 32GB      | 2         | 1.82%   |
+| NVMe Samsung SSD 970 250GB        | 2         | 1.82%   |
+| WDC WDS480G2G0B-00EPW0 480GB      | 1         | 0.91%   |
+| WDC WDS240G2G0B-00EPW0 240GB      | 1         | 0.91%   |
+| WDC WD7500BPKX-00HPJT0 752GB      | 1         | 0.91%   |
+| WDC WD7500BPKT-00PK4T0 752GB      | 1         | 0.91%   |
+| WDC WD6400AARS-00Y5B1 640GB       | 1         | 0.91%   |
+| WDC WD5000LPLX-00ZNTT0 500GB      | 1         | 0.91%   |
+| WDC WD5000LPCX-24VHAT0 500GB      | 1         | 0.91%   |
+| WDC WD3200BEVE-00A0HT0 320GB      | 1         | 0.91%   |
+| WDC WD20PURX-64P6ZY0 2TB          | 1         | 0.91%   |
+| WDC WD1600BEVE-00UYT0 160GB       | 1         | 0.91%   |
+| WDC WD10JPLX-00MBPT0 1TB          | 1         | 0.91%   |
+| WDC WD10EADS-00M2B0 1TB           | 1         | 0.91%   |
+| WDC WD101KFBX-68R56N0 10TB        | 1         | 0.91%   |
+| Toshiba TR200 240GB               | 1         | 0.91%   |
+| Toshiba THNSFJ256GCSU 256GB       | 1         | 0.91%   |
+| Toshiba MQ04ABF100 1TB            | 1         | 0.91%   |
+| Toshiba MK3276GSX -63 320GB       | 1         | 0.91%   |
+| Toshiba MK2555GSX 250GB           | 1         | 0.91%   |
+| Toshiba MK1629GSGF 160GB          | 1         | 0.91%   |
+| Toshiba DT01ACA050 500GB          | 1         | 0.91%   |
+| StoreJet Transcend 120GB          | 1         | 0.91%   |
+| SSDPR-CX 400-512-G2 512GB         | 1         | 0.91%   |
+| SK hynix SC311 SATA 512GB         | 1         | 0.91%   |
+| SK hynix SC311 SATA 256GB         | 1         | 0.91%   |
+| SK hynix HFS128G32TNF-N3A0A 128GB | 1         | 0.91%   |
+| Seagate ST9500420AS 500GB         | 1         | 0.91%   |
+| Seagate ST9320423AS 320GB         | 1         | 0.91%   |
+| Seagate ST9160821A 160GB          | 1         | 0.91%   |
+| Seagate ST3250318AS 250GB         | 1         | 0.91%   |
+| Seagate ST250DM000-1BD141 250GB   | 1         | 0.91%   |
+| Seagate ST2000VN000-1HJ164 2TB    | 1         | 0.91%   |
+| Seagate ST2000NE0025-2FL101 2TB   | 1         | 0.91%   |
+| Seagate ST2000DM008-2FR102 2TB    | 1         | 0.91%   |
+| Seagate ST1000LM035-1RK172 1TB    | 1         | 0.91%   |
+| Seagate ST1000DM010-2EP102 1TB    | 1         | 0.91%   |
 
 HDD Vendor
 ----------
@@ -1233,65 +1157,48 @@ Storage controller models
 ![Storage Model](./All/images/pie_chart_bsd/storage_model.svg)
 
 
-| Model                                                                                  | Computers | Percent |
-|----------------------------------------------------------------------------------------|-----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                                    | 10        | 9.8%    |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                  | 6         | 5.88%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller           | 5         | 4.9%    |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                             | 4         | 3.92%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                     | 4         | 3.92%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                       | 4         | 3.92%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                          | 3         | 2.94%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                          | 3         | 2.94%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                         | 3         | 2.94%   |
-| SanDisk unknown                                                                        | 2         | 1.96%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 2         | 1.96%   |
-| Intel Comet Lake SATA AHCI Controller                                                  | 2         | 1.96%   |
-| Intel Celeron/Pentium Silver Processor SATA Controller                                 | 2         | 1.96%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                                      | 2         | 1.96%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                      | 2         | 1.96%   |
-| Intel 82801CAM IDE U100 Controller                                                     | 2         | 1.96%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]         | 2         | 1.96%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                           | 2         | 1.96%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                                   | 2         | 1.96%   |
-| AMD 500 Series Chipset SATA Controller                                                 | 2         | 1.96%   |
-| AMD 400 Series Chipset SATA Controller                                                 | 2         | 1.96%   |
-| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                            | 1         | 0.98%   |
-| VIA VT8237A SATA 2-Port Controller                                                     | 1         | 0.98%   |
-| Toshiba unknown                                                                        | 1         | 0.98%   |
-| Toshiba BG3 NVMe SSD Controller                                                        | 1         | 0.98%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                          | 1         | 0.98%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 1         | 0.98%   |
-| Samsung NVMe SSD Controller 980                                                        | 1         | 0.98%   |
-| Phison PS5013 E13 NVMe Controller                                                      | 1         | 0.98%   |
-| Phison E12 NVMe Controller                                                             | 1         | 0.98%   |
-| Nvidia MCP79 SATA Controller                                                           | 1         | 0.98%   |
-| KIOXIA NVMe SSD Controller BG4                                                         | 1         | 0.98%   |
-| KIOXIA NVMe SSD                                                                        | 1         | 0.98%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                                  | 1         | 0.98%   |
-| Kingston Company OM3PDP3 NVMe SSD                                                      | 1         | 0.98%   |
-| Intel Tiger Lake-LP SATA Controller                                                    | 1         | 0.98%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                                | 1         | 0.98%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]          | 1         | 0.98%   |
-| Intel Mobile 4 Series Chipset PT IDER Controller                                       | 1         | 0.98%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                             | 1         | 0.98%   |
-| Intel C620 Series Chipset Family SATA Controller [AHCI mode]                           | 1         | 0.98%   |
-| Intel C620 Series Chipset Family IDE Redirection                                       | 1         | 0.98%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                                 | 1         | 0.98%   |
-| Intel 82Q35 Express PT IDER Controller                                                 | 1         | 0.98%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                             | 1         | 0.98%   |
-| Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                             | 1         | 0.98%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]                   | 1         | 0.98%   |
-| Intel 82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]                    | 1         | 0.98%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]                           | 1         | 0.98%   |
-| Intel 82801H (ICH8 Family) 4 port SATA Controller [IDE mode]                           | 1         | 0.98%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                              | 1         | 0.98%   |
-| Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 4-5) | 1         | 0.98%   |
-| Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 0-3) | 1         | 0.98%   |
-| HighPoint unknown                                                                      | 1         | 0.98%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                       | 1         | 0.98%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                      | 1         | 0.98%   |
-| ADATA Technology unknown                                                               | 1         | 0.98%   |
+| Model                                                                          | Computers | Percent |
+|--------------------------------------------------------------------------------|-----------|---------|
+| AMD FCH SATA Controller [AHCI mode]                                            | 10        | 9.8%    |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 6         | 5.88%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 5         | 4.9%    |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 4         | 3.92%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 4         | 3.92%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 4         | 3.92%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 3         | 2.94%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                  | 3         | 2.94%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3         | 2.94%   |
+| SanDisk unknown                                                                | 2         | 1.96%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 2         | 1.96%   |
+| Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.96%   |
+| Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.96%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 2         | 1.96%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 2         | 1.96%   |
+| Intel 82801CAM IDE U100 Controller                                             | 2         | 1.96%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 1.96%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 1.96%   |
+| Intel 500 Series Chipset Family SATA AHCI Controller                           | 2         | 1.96%   |
+| AMD 500 Series Chipset SATA Controller                                         | 2         | 1.96%   |
+| AMD 400 Series Chipset SATA Controller                                         | 2         | 1.96%   |
+| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                    | 1         | 0.98%   |
+| VIA VT8237A SATA 2-Port Controller                                             | 1         | 0.98%   |
+| Toshiba unknown                                                                | 1         | 0.98%   |
+| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.98%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.98%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.98%   |
+| Samsung NVMe SSD Controller 980                                                | 1         | 0.98%   |
+| Phison PS5013 E13 NVMe Controller                                              | 1         | 0.98%   |
+| Phison E12 NVMe Controller                                                     | 1         | 0.98%   |
+| Nvidia MCP79 SATA Controller                                                   | 1         | 0.98%   |
+| KIOXIA NVMe SSD Controller BG4                                                 | 1         | 0.98%   |
+| KIOXIA NVMe SSD                                                                | 1         | 0.98%   |
+| Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 0.98%   |
+| Kingston Company OM3PDP3 NVMe SSD                                              | 1         | 0.98%   |
+| Intel Tiger Lake-LP SATA Controller                                            | 1         | 0.98%   |
+| Intel SSD Pro 7600p/760p/E 6100p Series                                        | 1         | 0.98%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1         | 0.98%   |
+| Intel Mobile 4 Series Chipset PT IDER Controller                               | 1         | 0.98%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                     | 1         | 0.98%   |
 
 Storage Kind
 ------------
@@ -1376,26 +1283,6 @@ Processor models
 | Intel Core i3-4010U CPU @ 1.70GHz                                 | 1         | 1.16%   |
 | Intel Core 2 Duo CPU T8100 @ 2.10GHz                              | 1         | 1.16%   |
 | Intel Core 2 Duo CPU T6500 @ 2.10GHz                              | 1         | 1.16%   |
-| Intel Core 2 Duo CPU P7350 @ 2.00GHz                              | 1         | 1.16%   |
-| Intel Core 2 Duo CPU L9600 @ 2.13GHz                              | 1         | 1.16%   |
-| Intel Core 2 Duo CPU E8400 @ 3.00GHz                              | 1         | 1.16%   |
-| Intel Core 2 CPU 6400 @ 2.13GHz                                   | 1         | 1.16%   |
-| Intel Celeron CPU N2930 @ 1.83GHz                                 | 1         | 1.16%   |
-| Intel Celeron CPU G1820 @ 2.70GHz                                 | 1         | 1.16%   |
-| Intel Celeron CPU 847E @ 1.10GHz                                  | 1         | 1.16%   |
-| Intel Celeron CPU 3865U @ 1.80GHz                                 | 1         | 1.16%   |
-| Intel Atom CPU N280 @ 1.66GHz                                     | 1         | 1.16%   |
-| Intel Atom CPU N270 @ 1.60GHz ("GenuineIntel" 686-class)          | 1         | 1.16%   |
-| Intel 11th Gen Core i9-11900K @ 3.50GHz                           | 1         | 1.16%   |
-| Intel 11th Gen Core i7-11800H @ 2.30GHz                           | 1         | 1.16%   |
-| Intel 11th Gen Core i7-1165G7 @ 2.80GHz                           | 1         | 1.16%   |
-| ARM Cortex-A8 r3p2                                                | 1         | 1.16%   |
-| ARM Cortex-A7 r0p4                                                | 1         | 1.16%   |
-| AMD Ryzen 7 5700G with Radeon Graphics                            | 1         | 1.16%   |
-| AMD Ryzen 7 4700U with Radeon Graphics                            | 1         | 1.16%   |
-| AMD Ryzen 7 2700 Eight-Core Processor                             | 1         | 1.16%   |
-| AMD Ryzen 5 3600 6-Core Processor                                 | 1         | 1.16%   |
-| AMD Ryzen 3 3100 4-Core Processor                                 | 1         | 1.16%   |
 
 CPU Model Family
 ----------------
@@ -1585,23 +1472,6 @@ Graphics card models
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1         | 1.15%   |
 | Intel 82Q963/Q965 Integrated Graphics Controller                              | 1         | 1.15%   |
 | Intel 82Q35 Express Integrated Graphics Controller                            | 1         | 1.15%   |
-| AMD Whistler [Radeon HD 6630M/6650M/6750M/7670M/7690M]                        | 1         | 1.15%   |
-| AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                      | 1         | 1.15%   |
-| AMD RV730/M96 [Mobility Radeon HD 4650/5165]                                  | 1         | 1.15%   |
-| AMD RV635 [Radeon HD 3650/3750/4570/4580]                                     | 1         | 1.15%   |
-| AMD RV280 [Radeon 9200]                                                       | 1         | 1.15%   |
-| AMD RV200/M7 [Mobility Radeon 7500]                                           | 1         | 1.15%   |
-| AMD RV100/M6 [Rage/Radeon Mobility Series]                                    | 1         | 1.15%   |
-| AMD Richland [Radeon HD 8670D]                                                | 1         | 1.15%   |
-| AMD Renoir                                                                    | 1         | 1.15%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]              | 1         | 1.15%   |
-| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                | 1         | 1.15%   |
-| AMD Navi 14 [Radeon RX 5500/5500M / Pro 5500M]                                | 1         | 1.15%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                    | 1         | 1.15%   |
-| AMD Kabini [Radeon HD 8330E]                                                  | 1         | 1.15%   |
-| AMD Kabini [Radeon HD 8210]                                                   | 1         | 1.15%   |
-| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                       | 1         | 1.15%   |
-| AMD Cezanne                                                                   | 1         | 1.15%   |
 
 GPU Combo
 ---------
@@ -1731,17 +1601,6 @@ Monitor models
 | BOE LCD Monitor BOE05E0 1366x768 280x160mm 12.7-inch                     | 1         | 1.85%   |
 | AU Optronics LCD Monitor AUO9314 1280x800 260x160mm 12.0-inch            | 1         | 1.85%   |
 | AU Optronics LCD Monitor AUO423D 1920x1080 310x170mm 13.9-inch           | 1         | 1.85%   |
-| AU Optronics LCD Monitor AUO4199 1920x1080 340x190mm 15.3-inch           | 1         | 1.85%   |
-| AU Optronics LCD Monitor AUO403D 1920x1080 310x170mm 13.9-inch           | 1         | 1.85%   |
-| AU Optronics LCD Monitor AUO34EB 3840x2160 340x190mm 15.3-inch           | 1         | 1.85%   |
-| AU Optronics LCD Monitor AUO325C 1366x768 260x140mm 11.6-inch            | 1         | 1.85%   |
-| Apple LCD Monitor APP9C89 1280x800 290x180mm 13.4-inch                   | 1         | 1.85%   |
-| Apple Color LCD APP9CC7 1280x800 290x180mm 13.4-inch                     | 1         | 1.85%   |
-| AOC 2350 AOC2350 1920x1080 510x290mm 23.1-inch                           | 1         | 1.85%   |
-| Ancor Communications VG248 ACI24A5 1920x1080 530x300mm 24.0-inch         | 1         | 1.85%   |
-| Ancor Communications PA249 ACI24B2 1920x1200 520x320mm 24.0-inch         | 1         | 1.85%   |
-| Ancor Communications ASUS VW199 ACI19ED 1440x900 410x260mm 19.1-inch     | 1         | 1.85%   |
-| Acer VG220Q ACR06D8 1920x1080 480x270mm 21.7-inch                        | 1         | 1.85%   |
 
 Monitor Resolution
 ------------------
@@ -1959,26 +1818,6 @@ Controller models
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)     | 1         | 0.69%   |
 | Nvidia MCP79 Ethernet                                                       | 1         | 0.69%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                     | 1         | 0.69%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                     | 1         | 0.69%   |
-| LG Optimus Android Phone [USB tethering mode]                               | 1         | 0.69%   |
-| Intel Wireless 8260                                                         | 1         | 0.69%   |
-| Intel Wireless 7265                                                         | 1         | 0.69%   |
-| Intel Wireless 3165                                                         | 1         | 0.69%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                      | 1         | 0.69%   |
-| Intel Tiger Lake PCH CNVi WiFi                                              | 1         | 0.69%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                     | 1         | 0.69%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection               | 1         | 0.69%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                       | 1         | 0.69%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                             | 1         | 0.69%   |
-| Intel Gemini Lake PCH CNVi WiFi                                             | 1         | 0.69%   |
-| Intel Ethernet Controller I225-V                                            | 1         | 0.69%   |
-| Intel Ethernet Connection I219-LM                                           | 1         | 0.69%   |
-| Intel Ethernet Connection I218-LM                                           | 1         | 0.69%   |
-| Intel Ethernet Connection I217-V                                            | 1         | 0.69%   |
-| Intel Ethernet Connection (7) I219-LM                                       | 1         | 0.69%   |
-| Intel Ethernet Connection (6) I219-V                                        | 1         | 0.69%   |
-| Intel Ethernet Connection (3) I219-LM                                       | 1         | 0.69%   |
-| Intel Ethernet Connection (3) I218-LM                                       | 1         | 0.69%   |
 
 Wireless Vendor
 ---------------
@@ -2051,9 +1890,6 @@ Wireless models
 | Dell Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                           | 1         | 1.54%   |
 | D-Link System DWA-131 802.11n Wireless N Nano Adapter(rev.A1) [Realtek RTL8192SU] | 1         | 1.54%   |
 | D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]              | 1         | 1.54%   |
-| Broadcom BCM4331 802.11a/b/g/n                                                    | 1         | 1.54%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                            | 1         | 1.54%   |
-| Broadcom BCM43142 802.11b/g/n                                                     | 1         | 1.54%   |
 
 Ethernet Vendor
 ---------------
@@ -2306,17 +2142,6 @@ Sound card models
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 1         | 1%      |
 | Intel Comet Lake PCH cAVS                                                  | 1         | 1%      |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1         | 1%      |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1         | 1%      |
-| Blue Microphones Yeti Stereo Microphone                                    | 1         | 1%      |
-| AMD Trinity HDMI Audio Controller                                          | 1         | 1%      |
-| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 1         | 1%      |
-| AMD RV635 HDMI Audio [Radeon HD 3650/3730/3750]                            | 1         | 1%      |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 1%      |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1         | 1%      |
-| AMD Navi 10 HDMI Audio                                                     | 1         | 1%      |
-| AMD High Definition Audio Controller                                       | 1         | 1%      |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1         | 1%      |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1         | 1%      |
 
 Memory
 ------

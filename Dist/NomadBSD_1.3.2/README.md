@@ -420,18 +420,6 @@ Motherboard model
 | ASUS X751LN                              | 1         | 1.92%   |
 | ASUS X71SL                               | 1         | 1.92%   |
 | ASUS V241ICR-R                           | 1         | 1.92%   |
-| ASUS PRIME A320M-K                       | 1         | 1.92%   |
-| ASUS N75SF                               | 1         | 1.92%   |
-| ASUS M5A97 R2.0                          | 1         | 1.92%   |
-| ASUS ER904AA-ABA A1440N                  | 1         | 1.92%   |
-| ASRock AB350 Pro4                        | 1         | 1.92%   |
-| Apple MacBookPro8,1                      | 1         | 1.92%   |
-| Apple MacBookPro11,3                     | 1         | 1.92%   |
-| Apple MacBookAir7,2                      | 1         | 1.92%   |
-| Acer Aspire V5-122                       | 1         | 1.92%   |
-| Acer Aspire V3-575G                      | 1         | 1.92%   |
-| Acer Aspire E5-432                       | 1         | 1.92%   |
-| Acer Aspire 5735                         | 1         | 1.92%   |
 
 Model Family
 ------------
@@ -789,22 +777,6 @@ Hard drive models
 | Samsung HD161HJ 160GB                     | 1         | 1.69%   |
 | ORICO V500 1TB                            | 1         | 1.69%   |
 | OCZ TRION150 240GB                        | 1         | 1.69%   |
-| OCZ AGILITY3 120GB                        | 1         | 1.69%   |
-| Micron MTFDDAK256MAM-1K12 256GB           | 1         | 1.69%   |
-| Kingston SA400S37240G 240GB               | 1         | 1.69%   |
-| KingDian S280 120GB                       | 1         | 1.69%   |
-| Intel SSDSC2BF180A5H REF 180GB            | 1         | 1.69%   |
-| Hitachi HTS545032B9A302 320GB             | 1         | 1.69%   |
-| Hitachi HTS543232L9A300 320GB             | 1         | 1.69%   |
-| Hitachi HDS721032CLA362 320GB             | 1         | 1.69%   |
-| Hitachi HDS721010CLA632 1TB               | 1         | 1.69%   |
-| HGST HTS725050A7E630 500GB                | 1         | 1.69%   |
-| Gigabyte GP-GSTFS31120GNTD 120GB          | 1         | 1.69%   |
-| Fujitsu MHT2080AH 80GB                    | 1         | 1.69%   |
-| Crucial CT500MX500SSD1 500GB              | 1         | 1.69%   |
-| Apple SSD SM0512G 500GB                   | 1         | 1.69%   |
-| Apple SSD SM0512F 500GB                   | 1         | 1.69%   |
-| Apple SSD SM0128G 121GB                   | 1         | 1.69%   |
 
 HDD Vendor
 ----------
@@ -1080,11 +1052,6 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 1         | 1.45%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 1         | 1.45%   |
 | ASMedia ASM1062 Serial ATA Controller                                            | 1         | 1.45%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 1         | 1.45%   |
-| AMD SB600 Non-Raid-5 SATA                                                        | 1         | 1.45%   |
-| AMD SB600 IDE                                                                    | 1         | 1.45%   |
-| AMD FCH SATA Controller D                                                        | 1         | 1.45%   |
-| AMD 300 Series Chipset SATA Controller                                           | 1         | 1.45%   |
 
 Storage Kind
 ------------
@@ -1125,56 +1092,48 @@ Processor models
 ![CPU Model](./All/images/pie_chart_bsd/cpu_model.svg)
 
 
-| Model                                       | Computers | Percent |
-|---------------------------------------------|-----------|---------|
-| Intel Core i5-8250U CPU @ 1.60GHz           | 2         | 3.85%   |
-| Intel Core i5-7200U CPU @ 2.50GHz           | 2         | 3.85%   |
-| Intel Core i5-6300U CPU @ 2.40GHz           | 2         | 3.85%   |
-| Intel Core i5-3320M CPU @ 2.60GHz           | 2         | 3.85%   |
-| Intel Pentium III                           | 1         | 1.92%   |
-| Intel Pentium D CPU 2.80GHz                 | 1         | 1.92%   |
-| Intel Pentium CPU N3700 @ 1.60GHz           | 1         | 1.92%   |
-| Intel Pentium CPU 2117U @ 1.80GHz           | 1         | 1.92%   |
-| Intel CPU Version                           | 1         | 1.92%   |
-| Intel Core m5-6Y57 CPU @ 1.10GHz            | 1         | 1.92%   |
-| Intel Core i9-8950HK CPU @ 2.90GHz          | 1         | 1.92%   |
-| Intel Core i7-8700 CPU @ 3.20GHz            | 1         | 1.92%   |
-| Intel Core i7-8665U CPU @ 1.90GHz           | 1         | 1.92%   |
-| Intel Core i7-8565U CPU @ 1.80GHz           | 1         | 1.92%   |
-| Intel Core i7-6700 CPU @ 3.40GHz            | 1         | 1.92%   |
-| Intel Core i7-4850HQ CPU @ 2.30GHz          | 1         | 1.92%   |
-| Intel Core i7-4770HQ CPU @ 2.20GHz          | 1         | 1.92%   |
-| Intel Core i7-4600U CPU @ 2.10GHz           | 1         | 1.92%   |
-| Intel Core i7-4510U CPU @ 2.00GHz           | 1         | 1.92%   |
-| Intel Core i7-4500U CPU                     | 1         | 1.92%   |
-| Intel Core i7-2630QM CPU @ 2.00GHz          | 1         | 1.92%   |
-| Intel Core i7-10510U CPU @ 1.80GHz          | 1         | 1.92%   |
-| Intel Core i7 CPU L 640 @ 2.13GHz           | 1         | 1.92%   |
-| Intel Core i5-8350U CPU @ 1.70GHz           | 1         | 1.92%   |
-| Intel Core i5-6200U CPU @ 2.30GHz           | 1         | 1.92%   |
-| Intel Core i5-5350U CPU @ 1.80GHz           | 1         | 1.92%   |
-| Intel Core i5-4310M CPU @ 2.70GHz           | 1         | 1.92%   |
-| Intel Core i5-3470 CPU @ 3.20GHz            | 1         | 1.92%   |
-| Intel Core i5-2500 CPU @ 3.30GHz            | 1         | 1.92%   |
-| Intel Core i5-2430M CPU @ 2.40GHz           | 1         | 1.92%   |
-| Intel Core i5-10310U CPU @ 1.70GHz          | 1         | 1.92%   |
-| Intel Core i5-10210U CPU @ 1.60GHz          | 1         | 1.92%   |
-| Intel Core i3-6006U CPU @ 2.00GHz           | 1         | 1.92%   |
-| Intel Core 2 Duo CPU P8600 @ 2.40GHz        | 1         | 1.92%   |
-| Intel Core 2 Duo CPU E8600 @ 3.33GHz        | 1         | 1.92%   |
-| Intel Core 2 Duo CPU E8500 @ 3.16GHz        | 1         | 1.92%   |
-| Intel Core 2 Duo CPU E8300 @ 2.83GHz        | 1         | 1.92%   |
-| Intel Core 2 Duo                            | 1         | 1.92%   |
-| Intel Celeron CPU 3215U @ 1.70GHz           | 1         | 1.92%   |
-| Intel Atom CPU N470 @ 1.83GHz               | 1         | 1.92%   |
-| AMD Ryzen 7 2700X Eight-Core Processor      | 1         | 1.92%   |
-| AMD Ryzen 5 2600 Six-Core Processor         | 1         | 1.92%   |
-| AMD Ryzen 5 2400G with Radeon Vega Graphics | 1         | 1.92%   |
-| AMD Ryzen 5 1500X Quad-Core Processor       | 1         | 1.92%   |
-| AMD FX-6300 Six-Core Processor              | 1         | 1.92%   |
-| AMD E1-6010 APU with AMD Radeon R2 Graphics | 1         | 1.92%   |
-| AMD Athlon 64 X2 Dual Core Processor 4000+  | 1         | 1.92%   |
-| AMD A6-1450 APU with Radeon HD Graphics     | 1         | 1.92%   |
+| Model                                | Computers | Percent |
+|--------------------------------------|-----------|---------|
+| Intel Core i5-8250U CPU @ 1.60GHz    | 2         | 3.85%   |
+| Intel Core i5-7200U CPU @ 2.50GHz    | 2         | 3.85%   |
+| Intel Core i5-6300U CPU @ 2.40GHz    | 2         | 3.85%   |
+| Intel Core i5-3320M CPU @ 2.60GHz    | 2         | 3.85%   |
+| Intel Pentium III                    | 1         | 1.92%   |
+| Intel Pentium D CPU 2.80GHz          | 1         | 1.92%   |
+| Intel Pentium CPU N3700 @ 1.60GHz    | 1         | 1.92%   |
+| Intel Pentium CPU 2117U @ 1.80GHz    | 1         | 1.92%   |
+| Intel CPU Version                    | 1         | 1.92%   |
+| Intel Core m5-6Y57 CPU @ 1.10GHz     | 1         | 1.92%   |
+| Intel Core i9-8950HK CPU @ 2.90GHz   | 1         | 1.92%   |
+| Intel Core i7-8700 CPU @ 3.20GHz     | 1         | 1.92%   |
+| Intel Core i7-8665U CPU @ 1.90GHz    | 1         | 1.92%   |
+| Intel Core i7-8565U CPU @ 1.80GHz    | 1         | 1.92%   |
+| Intel Core i7-6700 CPU @ 3.40GHz     | 1         | 1.92%   |
+| Intel Core i7-4850HQ CPU @ 2.30GHz   | 1         | 1.92%   |
+| Intel Core i7-4770HQ CPU @ 2.20GHz   | 1         | 1.92%   |
+| Intel Core i7-4600U CPU @ 2.10GHz    | 1         | 1.92%   |
+| Intel Core i7-4510U CPU @ 2.00GHz    | 1         | 1.92%   |
+| Intel Core i7-4500U CPU              | 1         | 1.92%   |
+| Intel Core i7-2630QM CPU @ 2.00GHz   | 1         | 1.92%   |
+| Intel Core i7-10510U CPU @ 1.80GHz   | 1         | 1.92%   |
+| Intel Core i7 CPU L 640 @ 2.13GHz    | 1         | 1.92%   |
+| Intel Core i5-8350U CPU @ 1.70GHz    | 1         | 1.92%   |
+| Intel Core i5-6200U CPU @ 2.30GHz    | 1         | 1.92%   |
+| Intel Core i5-5350U CPU @ 1.80GHz    | 1         | 1.92%   |
+| Intel Core i5-4310M CPU @ 2.70GHz    | 1         | 1.92%   |
+| Intel Core i5-3470 CPU @ 3.20GHz     | 1         | 1.92%   |
+| Intel Core i5-2500 CPU @ 3.30GHz     | 1         | 1.92%   |
+| Intel Core i5-2430M CPU @ 2.40GHz    | 1         | 1.92%   |
+| Intel Core i5-10310U CPU @ 1.70GHz   | 1         | 1.92%   |
+| Intel Core i5-10210U CPU @ 1.60GHz   | 1         | 1.92%   |
+| Intel Core i3-6006U CPU @ 2.00GHz    | 1         | 1.92%   |
+| Intel Core 2 Duo CPU P8600 @ 2.40GHz | 1         | 1.92%   |
+| Intel Core 2 Duo CPU E8600 @ 3.33GHz | 1         | 1.92%   |
+| Intel Core 2 Duo CPU E8500 @ 3.16GHz | 1         | 1.92%   |
+| Intel Core 2 Duo CPU E8300 @ 2.83GHz | 1         | 1.92%   |
+| Intel Core 2 Duo                     | 1         | 1.92%   |
+| Intel Celeron CPU 3215U @ 1.70GHz    | 1         | 1.92%   |
+| Intel Atom CPU N470 @ 1.83GHz        | 1         | 1.92%   |
 
 CPU Model Family
 ----------------
@@ -1349,7 +1308,6 @@ Graphics card models
 | AMD RS480 [Radeon Xpress 1150] (Secondary)                                               | 1         | 1.72%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 1         | 1.72%   |
 | AMD Mullins [Radeon R2 Graphics]                                                         | 1         | 1.72%   |
-| AMD Baffin [Radeon Pro WX 4130/4150]                                                     | 1         | 1.72%   |
 
 GPU Combo
 ---------
@@ -1481,13 +1439,6 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 350x190mm 15.7-inch  | 1         | 2.08%   |
 | BOE LCD Monitor BOE0812 1920x1080 340x190mm 15.3-inch                     | 1         | 2.08%   |
 | BOE LCD Monitor BOE07E8 1366x768 310x170mm 13.9-inch                      | 1         | 2.08%   |
-| BOE LCD Monitor BOE070D 1366x768 310x170mm 13.9-inch                      | 1         | 2.08%   |
-| BOE LCD Monitor BOE05F5 1366x768 280x160mm 12.7-inch                      | 1         | 2.08%   |
-| BenQ GW2260 BNQ78C4 1920x1080 480x270mm 21.7-inch                         | 1         | 2.08%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 280x160mm 12.7-inch             | 1         | 2.08%   |
-| Apple LCD Monitor APP9CCB 1280x800 290x180mm 13.4-inch                    | 1         | 2.08%   |
-| Apple Color LCD APPA02E 2880x1800 330x210mm 15.4-inch                     | 1         | 2.08%   |
-| Apple Color LCD APPA01B 1440x900 290x180mm 13.4-inch                      | 1         | 2.08%   |
 
 Monitor Resolution
 ------------------
@@ -1652,66 +1603,48 @@ Controller models
 ![Net Controller Model](./All/images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                               | Computers | Percent |
-|---------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller   | 10        | 10.87%  |
-| Intel Wireless 8265 / 8275                                          | 4         | 4.35%   |
-| Intel Wireless 7260                                                 | 4         | 4.35%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller               | 3         | 3.26%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 3         | 3.26%   |
-| Intel Ethernet Connection (4) I219-LM                               | 3         | 3.26%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)               | 3         | 3.26%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter          | 2         | 2.17%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                          | 2         | 2.17%   |
-| Intel Wireless 8260                                                 | 2         | 2.17%   |
-| Intel I211 Gigabit Network Connection                               | 2         | 2.17%   |
-| Intel Ethernet Connection (6) I219-V                                | 2         | 2.17%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                   | 2         | 2.17%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                        | 2         | 2.17%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                            | 2         | 2.17%   |
-| Intel 82567LM-3 Gigabit Network Connection                          | 2         | 2.17%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                   | 2         | 2.17%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                  | 2         | 2.17%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter       | 1         | 1.09%   |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                     | 1         | 1.09%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                     | 1         | 1.09%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                 | 1         | 1.09%   |
-| Realtek RTL8125 2.5GbE Controller                                   | 1         | 1.09%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                           | 1         | 1.09%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter          | 1         | 1.09%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                    | 1         | 1.09%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)      | 1         | 1.09%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)      | 1         | 1.09%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                          | 1         | 1.09%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                       | 1         | 1.09%   |
-| Nvidia MCP73 Ethernet                                               | 1         | 1.09%   |
-| Mellanox MT27500 Family [ConnectX-3]                                | 1         | 1.09%   |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller             | 1         | 1.09%   |
-| JMicron JMC260 PCI Express Fast Ethernet Controller                 | 1         | 1.09%   |
-| Intel Wireless 7265                                                 | 1         | 1.09%   |
-| Intel Wireless 3165                                                 | 1         | 1.09%   |
-| Intel Wi-Fi 6 AX200                                                 | 1         | 1.09%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection       | 1         | 1.09%   |
-| Intel NM10/ICH7 Family LAN Controller                               | 1         | 1.09%   |
-| Intel Ethernet Connection I219-LM                                   | 1         | 1.09%   |
-| Intel Ethernet Connection I218-LM                                   | 1         | 1.09%   |
-| Intel Ethernet Connection I217-LM                                   | 1         | 1.09%   |
-| Intel Ethernet Connection (7) I219-V                                | 1         | 1.09%   |
-| Intel Ethernet Connection (7) I219-LM                               | 1         | 1.09%   |
-| Intel Ethernet Connection (6) I219-LM                               | 1         | 1.09%   |
-| Intel Ethernet Connection (2) I219-V                                | 1         | 1.09%   |
-| Intel Centrino Wireless-N 6150                                      | 1         | 1.09%   |
-| Intel Centrino WiMAX 6150                                           | 1         | 1.09%   |
-| Intel Centrino Advanced-N 6200                                      | 1         | 1.09%   |
-| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller          | 1         | 1.09%   |
-| Intel 82577LM Gigabit Network Connection                            | 1         | 1.09%   |
-| Intel 82566DM-2 Gigabit Network Connection                          | 1         | 1.09%   |
-| Fibocom L830-EB-00 LTE WWAN Modem                                   | 1         | 1.09%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                   | 1         | 1.09%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express             | 1         | 1.09%   |
-| Broadcom BCM43602 802.11ac Wireless LAN SoC                         | 1         | 1.09%   |
-| Broadcom BCM4331 802.11a/b/g/n                                      | 1         | 1.09%   |
-| Broadcom BCM4318 [AirForce One 54g] 802.11g Wireless LAN Controller | 1         | 1.09%   |
+| Model                                                             | Computers | Percent |
+|-------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 10        | 10.87%  |
+| Intel Wireless 8265 / 8275                                        | 4         | 4.35%   |
+| Intel Wireless 7260                                               | 4         | 4.35%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 3.26%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 3         | 3.26%   |
+| Intel Ethernet Connection (4) I219-LM                             | 3         | 3.26%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3         | 3.26%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 2.17%   |
+| Qualcomm ALCATEL Composite RNDIS Interface                        | 2         | 2.17%   |
+| Intel Wireless 8260                                               | 2         | 2.17%   |
+| Intel I211 Gigabit Network Connection                             | 2         | 2.17%   |
+| Intel Ethernet Connection (6) I219-V                              | 2         | 2.17%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 2.17%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 2.17%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 2.17%   |
+| Intel 82567LM-3 Gigabit Network Connection                        | 2         | 2.17%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 2         | 2.17%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter                | 2         | 2.17%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.09%   |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1         | 1.09%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 1.09%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 1.09%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 1         | 1.09%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                         | 1         | 1.09%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.09%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.09%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1         | 1.09%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 1.09%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.09%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.09%   |
+| Nvidia MCP73 Ethernet                                             | 1         | 1.09%   |
+| Mellanox MT27500 Family [ConnectX-3]                              | 1         | 1.09%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.09%   |
+| JMicron JMC260 PCI Express Fast Ethernet Controller               | 1         | 1.09%   |
+| Intel Wireless 7265                                               | 1         | 1.09%   |
+| Intel Wireless 3165                                               | 1         | 1.09%   |
+| Intel Wi-Fi 6 AX200                                               | 1         | 1.09%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection     | 1         | 1.09%   |
+| Intel NM10/ICH7 Family LAN Controller                             | 1         | 1.09%   |
+| Intel Ethernet Connection I219-LM                                 | 1         | 1.09%   |
 
 Wireless Vendor
 ---------------
@@ -2063,7 +1996,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471A4G43MB1-CTD 0kB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
+| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.64%   |
@@ -2075,22 +2008,6 @@ Memory module models
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
 | Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 1.64%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s             | 1         | 1.64%   |
-| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s        | 1         | 1.64%   |
-| Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 1.64%   |
-| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s    | 1         | 1.64%   |
-| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s        | 1         | 1.64%   |
-| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s         | 1         | 1.64%   |
-| Elpida RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.64%   |
-| Elpida RAM Module 2048MB SODIMM DDR3 800MT/s                  | 1         | 1.64%   |
-| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s         | 1         | 1.64%   |
-| Crucial RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 1.64%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s     | 1         | 1.64%   |
-| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s        | 1         | 1.64%   |
-| Corsair RAM CMSO8GX3M1A1600C11 8192MB SODIMM DDR3 1600MT/s    | 1         | 1.64%   |
-| Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
-| A-DATA RAM AO1P32NCST2-BZ6SHD 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.64%   |
-| A-DATA RAM AM1L16BC2P1-B1FS 2048MB SODIMM DDR3 800MT/s        | 1         | 1.64%   |
 
 Memory Kind
 -----------

@@ -594,26 +594,6 @@ Motherboard model
 | Lenovo ThinkPad T440s 20ARS10P05         | 1         | 0.53%   |
 | Lenovo ThinkPad T440p 20AWS0U500         | 1         | 0.53%   |
 | Lenovo ThinkPad T430 2349PMP             | 1         | 0.53%   |
-| Lenovo ThinkPad T430 2349GCG             | 1         | 0.53%   |
-| Lenovo ThinkPad T430 23427YU             | 1         | 0.53%   |
-| Lenovo ThinkPad T410 253722U             | 1         | 0.53%   |
-| Lenovo ThinkPad T400 7417TPU             | 1         | 0.53%   |
-| Lenovo ThinkPad T400 2768WGC             | 1         | 0.53%   |
-| Lenovo ThinkPad L512 25975XU             | 1         | 0.53%   |
-| Lenovo ThinkPad L470 20J5S09500          | 1         | 0.53%   |
-| Lenovo ThinkPad E490 20N8CTO1WW          | 1         | 0.53%   |
-| Lenovo ThinkCentre M92 3229AM4           | 1         | 0.53%   |
-| Lenovo ThinkCentre M91p 7033DE6          | 1         | 0.53%   |
-| Lenovo ThinkCentre M90p 5864W1S          | 1         | 0.53%   |
-| Lenovo ThinkCentre M82 2756B94           | 1         | 0.53%   |
-| Lenovo ThinkCentre M73 10AY0020US        | 1         | 0.53%   |
-| Lenovo IdeaPad 700-15ISK 80RU            | 1         | 0.53%   |
-| Lenovo G500 20236                        | 1         | 0.53%   |
-| Lenovo 70A0S02K00 ThinkServer TS140      | 1         | 0.53%   |
-| Lenovo 3000 N200 0769AP2                 | 1         | 0.53%   |
-| Intel NUC8i3BEH                          | 1         | 0.53%   |
-| Intel NUC7PJYH                           | 1         | 0.53%   |
-| Intel NUC7i7DNKE                         | 1         | 0.53%   |
 
 Model Family
 ------------
@@ -665,26 +645,6 @@ Motherboard model prefix
 | Medion P6812          | 1         | 0.53%   |
 | Medion H81H3-EM2      | 1         | 0.53%   |
 | Lenovo Z50-70         | 1         | 0.53%   |
-| Lenovo U310           | 1         | 0.53%   |
-| Lenovo ThinkStation   | 1         | 0.53%   |
-| Lenovo IdeaPad        | 1         | 0.53%   |
-| Lenovo G500           | 1         | 0.53%   |
-| Lenovo 70A0S02K00     | 1         | 0.53%   |
-| Lenovo 3000           | 1         | 0.53%   |
-| Intel NUC8i3BEH       | 1         | 0.53%   |
-| Intel NUC7PJYH        | 1         | 0.53%   |
-| Intel NUC7i7DNKE      | 1         | 0.53%   |
-| Intel H61             | 1         | 0.53%   |
-| Intel DG41RQ          | 1         | 0.53%   |
-| HP ProBook            | 1         | 0.53%   |
-| HP OMEN               | 1         | 0.53%   |
-| HP 500-311ns          | 1         | 0.53%   |
-| HP 260-p026           | 1         | 0.53%   |
-| HP 240                | 1         | 0.53%   |
-| HP 23-r103la          | 1         | 0.53%   |
-| HARDKERNEL ODROID-H2  | 1         | 0.53%   |
-| Google Panther        | 1         | 0.53%   |
-| Google Guado          | 1         | 0.53%   |
 
 MFG Year
 --------
@@ -697,10 +657,10 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2018 | 26        | 13.68%  |
-| 2013 | 24        | 12.63%  |
+| 2013 | 25        | 13.16%  |
 | 2020 | 19        | 10%     |
-| 2014 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
+| 2014 | 17        | 8.95%   |
 | 2016 | 16        | 8.42%   |
 | 2009 | 14        | 7.37%   |
 | 2017 | 12        | 6.32%   |
@@ -951,26 +911,6 @@ Geographic location (city)
 | Tieling                   | 1         | 0.52%   |
 | The Bronx                 | 1         | 0.52%   |
 | Terrassa                  | 1         | 0.52%   |
-| Terni                     | 1         | 0.52%   |
-| Teresopolis               | 1         | 0.52%   |
-| Tallinn                   | 1         | 0.52%   |
-| Sydney                    | 1         | 0.52%   |
-| Surabaya                  | 1         | 0.52%   |
-| Strullendorf              | 1         | 0.52%   |
-| St Petersburg             | 1         | 0.52%   |
-| St Louis                  | 1         | 0.52%   |
-| Sintra                    | 1         | 0.52%   |
-| Siklos                    | 1         | 0.52%   |
-| Sheffield                 | 1         | 0.52%   |
-| Sevastopol                | 1         | 0.52%   |
-| Schluechtern              | 1         | 0.52%   |
-| Sasso Marconi             | 1         | 0.52%   |
-| Sao Jeronimo da Serra     | 1         | 0.52%   |
-| Santiago                  | 1         | 0.52%   |
-| Sannicandro di Bari       | 1         | 0.52%   |
-| Sankt Augustin            | 1         | 0.52%   |
-| Sandy                     | 1         | 0.52%   |
-| Sandhausen                | 1         | 0.52%   |
 
 Drives
 ------
@@ -1075,26 +1015,6 @@ Hard drive models
 | Crucial M4-CT128M4SSD2 128GB        | 2         | 0.63%   |
 | Crucial CT500MX500SSD4 500GB        | 2         | 0.63%   |
 | Crucial CT250MX500SSD1 250GB        | 2         | 0.63%   |
-| Crucial CT240BX500SSD1 240GB        | 2         | 0.63%   |
-| WDC WDS500G2B0A-00SM50 500GB        | 1         | 0.31%   |
-| WDC WDS250G2B0A-00SM50 250GB        | 1         | 0.31%   |
-| WDC WDS200T2B0A 2TB                 | 1         | 0.31%   |
-| WDC WDS120G2G0B-00EPW0 120GB        | 1         | 0.31%   |
-| WDC WDS120G2G0A-00JH30 120GB        | 1         | 0.31%   |
-| WDC WDS120G1G0A-00SS50 120GB        | 1         | 0.31%   |
-| WDC WDS100T2G0A-00JH30 1TB          | 1         | 0.31%   |
-| WDC WD7500AAVS-00D7B0 752GB         | 1         | 0.31%   |
-| WDC WD60EMAZ-11LW3B0 6TB            | 1         | 0.31%   |
-| WDC WD5003ABYZ-011FA0 500GB         | 1         | 0.31%   |
-| WDC WD5003ABYX-88 LEN 500GB         | 1         | 0.31%   |
-| WDC WD5000LPCX-24VHAT0 500GB        | 1         | 0.31%   |
-| WDC WD5000LPCX-24C6HT0 500GB        | 1         | 0.31%   |
-| WDC WD5000LPCX-21VHAT0 500GB        | 1         | 0.31%   |
-| WDC WD5000BPKT-00PK4T0 500GB        | 1         | 0.31%   |
-| WDC WD5000BEVT-00A03T0 500GB        | 1         | 0.31%   |
-| WDC WD5000AVCS-632DY1 500GB         | 1         | 0.31%   |
-| WDC WD5000AAKX-00ERMA0 500GB        | 1         | 0.31%   |
-| WDC WD5000AAKS-00E4A0 500GB         | 1         | 0.31%   |
 
 HDD Vendor
 ----------
@@ -1277,22 +1197,6 @@ Drive models with a malfunction
 | Samsung Electronics HD753LJ 752GB            | 1         | 1      | 1.72%   |
 | Samsung Electronics HD252HJ 250GB            | 1         | 1      | 1.72%   |
 | Samsung Electronics HD103UJ 1TB              | 1         | 1      | 1.72%   |
-| Samsung Electronics HD103SI 1TB              | 1         | 1      | 1.72%   |
-| Micron Technology 1100 SATA 256GB            | 1         | 1      | 1.72%   |
-| LITEON LJH-64V2G-11 M.2 2260 64GB            | 1         | 1      | 1.72%   |
-| Kingston SA400S37480G 480GB                  | 1         | 1      | 1.72%   |
-| Intel SSDSC2CT180A3 180GB                    | 1         | 1      | 1.72%   |
-| Intel SSDSC2BF180A4L 180GB                   | 1         | 1      | 1.72%   |
-| Intel SSDSA2M080G2GC 80GB                    | 1         | 1      | 1.72%   |
-| Intel SSDPEKKW512G7 512GB                    | 1         | 1      | 1.72%   |
-| Hitachi HTS725050A9A364 500GB                | 1         | 1      | 1.72%   |
-| Hitachi HTS545025B9SA02 250GB                | 1         | 1      | 1.72%   |
-| Hitachi HTS543216L9A300 160GB                | 1         | 1      | 1.72%   |
-| Hitachi HTS541612J9SA00 120GB                | 1         | 1      | 1.72%   |
-| Hitachi HCS5C1050CLA382 500GB                | 1         | 1      | 1.72%   |
-| HGST HTS725050A7E630 500GB                   | 1         | 1      | 1.72%   |
-| HGST HTS545032A7E380 320GB                   | 1         | 1      | 1.72%   |
-| Crucial CT525MX300SSD1 528GB                 | 1         | 2      | 1.72%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1457,26 +1361,6 @@ Storage controller models
 | Intel Comet Lake PCH-LP SATA RAID Premium Controller                           | 2         | 0.76%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 0.76%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 2         | 0.76%   |
-| Intel C602 chipset 4-Port SATA Storage Control Unit                            | 2         | 0.76%   |
-| Intel C600/X79 series chipset SATA RAID Controller                             | 2         | 0.76%   |
-| Intel C600/X79 series chipset IDE-r Controller                                 | 2         | 0.76%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 0.76%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                               | 2         | 0.76%   |
-| Toshiba XG6 NVMe SSD Controller                                                | 1         | 0.38%   |
-| Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.38%   |
-| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.38%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.38%   |
-| Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1         | 0.38%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.38%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.38%   |
-| SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.38%   |
-| Samsung SM951 AHCI                                                             | 1         | 0.38%   |
-| Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.38%   |
-| Nvidia MCP73 IDE Controller                                                    | 1         | 0.38%   |
-| Nvidia GeForce 7100/nForce 630i SATA                                           | 1         | 0.38%   |
-| Micron/Crucial P1 NVMe PCIe SSD                                                | 1         | 0.38%   |
-| JMicron JMB368 IDE controller                                                  | 1         | 0.38%   |
-| JMicron JMB360 AHCI Controller                                                 | 1         | 0.38%   |
 
 Storage Kind
 ------------
@@ -1561,26 +1445,6 @@ Processor models
 | Intel Pentium Dual-Core CPU T4400 @ 2.20GHz | 1         | 0.53%   |
 | Intel Pentium Dual-Core CPU E6700 @ 3.20GHz | 1         | 0.53%   |
 | Intel Pentium Dual-Core CPU E5200 @ 2.50GHz | 1         | 0.53%   |
-| Intel Pentium CPU N4200 @ 1.10GHz           | 1         | 0.53%   |
-| Intel Pentium CPU G640 @ 2.80GHz            | 1         | 0.53%   |
-| Intel Pentium CPU G620 @ 2.60GHz            | 1         | 0.53%   |
-| Intel Pentium CPU G4600 @ 3.60GHz           | 1         | 0.53%   |
-| Intel Pentium CPU G2030 @ 3.00GHz           | 1         | 0.53%   |
-| Intel Pentium CPU G2020T @ 2.50GHz          | 1         | 0.53%   |
-| Intel Pentium CPU 997 @ 1.60GHz             | 1         | 0.53%   |
-| Intel Pentium 3558U @ 1.70GHz               | 1         | 0.53%   |
-| Intel Genuine CPU                           | 1         | 0.53%   |
-| Intel Core M-5Y10c CPU @ 0.80GHz            | 1         | 0.53%   |
-| Intel Core i7-8700K CPU @ 3.70GHz           | 1         | 0.53%   |
-| Intel Core i7-8650U CPU @ 1.90GHz           | 1         | 0.53%   |
-| Intel Core i7-7700HQ CPU @ 2.80GHz          | 1         | 0.53%   |
-| Intel Core i7-7700 CPU @ 3.60GHz            | 1         | 0.53%   |
-| Intel Core i7-6700K CPU @ 4.00GHz           | 1         | 0.53%   |
-| Intel Core i7-6700 CPU @ 3.40GHz            | 1         | 0.53%   |
-| Intel Core i7-4870HQ CPU @ 2.50GHz          | 1         | 0.53%   |
-| Intel Core i7-4790K CPU @ 4.00GHz           | 1         | 0.53%   |
-| Intel Core i7-4600U CPU @ 2.10GHz           | 1         | 0.53%   |
-| Intel Core i7-4510U CPU @ 2.00GHz           | 1         | 0.53%   |
 
 CPU Model Family
 ----------------
@@ -1757,26 +1621,6 @@ Graphics card models
 | AMD Renoir                                                                  | 2         | 0.92%   |
 | AMD Oland XT [Radeon HD 8670 / R5 340X OEM / R7 250/350/350X OEM]           | 2         | 0.92%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 2         | 0.92%   |
-| AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                              | 2         | 0.92%   |
-| Nvidia TU117M                                                               | 1         | 0.46%   |
-| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                  | 1         | 0.46%   |
-| Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 1         | 0.46%   |
-| Nvidia TU104 [GeForce RTX 2080 Rev. A]                                      | 1         | 0.46%   |
-| Nvidia GT218 [GeForce 210]                                                  | 1         | 0.46%   |
-| Nvidia GT216M [GeForce GT 330M]                                             | 1         | 0.46%   |
-| Nvidia GP107GL [Quadro P400]                                                | 1         | 0.46%   |
-| Nvidia GP104 [GeForce GTX 1080]                                             | 1         | 0.46%   |
-| Nvidia GP104 [GeForce GTX 1060 6GB]                                         | 1         | 0.46%   |
-| Nvidia GM204 [GeForce GTX 970]                                              | 1         | 0.46%   |
-| Nvidia GM108M [GeForce 940MX]                                               | 1         | 0.46%   |
-| Nvidia GM108M [GeForce 930MX]                                               | 1         | 0.46%   |
-| Nvidia GM107M [GeForce GTX 950M]                                            | 1         | 0.46%   |
-| Nvidia GK208B [GeForce GT 710]                                              | 1         | 0.46%   |
-| Nvidia GK208 [GeForce GT 720]                                               | 1         | 0.46%   |
-| Nvidia GK110 [GeForce GTX 780]                                              | 1         | 0.46%   |
-| Nvidia GK107M [GeForce GT 750M Mac Edition]                                 | 1         | 0.46%   |
-| Nvidia GK107GL [Quadro K600]                                                | 1         | 0.46%   |
-| Nvidia GK107 [GeForce GT 740]                                               | 1         | 0.46%   |
 
 GPU Combo
 ---------
@@ -1924,26 +1768,6 @@ Monitor models
 | LG Display LCD Monitor LGD04A3 1366x768 280x160mm 12.7-inch           | 1         | 0.67%   |
 | LG Display LCD Monitor LGD0458 1366x768 310x170mm 13.9-inch           | 1         | 0.67%   |
 | LG Display LCD Monitor LGD03DC 1366x768 280x160mm 12.7-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD039F 1366x768 350x190mm 15.7-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD0390 1600x900 380x210mm 17.1-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD037E 1920x1080 350x190mm 15.7-inch          | 1         | 0.67%   |
-| LG Display LCD Monitor LGD034C 1366x768 290x160mm 13.0-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD02DF 1600x900 310x170mm 13.9-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD0258 1600x900 350x190mm 15.7-inch           | 1         | 0.67%   |
-| LG Display LCD Monitor LGD0213 1600x900 310x170mm 13.9-inch           | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN60A1 1920x1080 480x270mm 21.7-inch              | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN40BA 1920x1080 340x190mm 15.3-inch              | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 0.67%   |
-| Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 0.67%   |
-| Lenovo C24-25 LEN66B0 1920x1080 530x300mm 24.0-inch                   | 1         | 0.67%   |
-| KJT KJT4K2K60DP KJT5AFD 3840x2160 600x340mm 27.2-inch                 | 1         | 0.67%   |
-| InfoVision LCD Monitor IVO0533 1366x768 290x160mm 13.0-inch           | 1         | 0.67%   |
-| Iiyama PLG2888UH IVM710C 3840x2160 620x340mm 27.8-inch                | 1         | 0.67%   |
-| Hewlett-Packard w1907 HWP26A3 1440x900 410x260mm 19.1-inch            | 1         | 0.67%   |
-| Hewlett-Packard LCD Monitor HWP2915 1920x1080 510x290mm 23.1-inch     | 1         | 0.67%   |
 
 Monitor Resolution
 ------------------
@@ -2174,26 +1998,6 @@ Controller models
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection     | 2         | 0.63%   |
 | Intel I210 Gigabit Network Connection                             | 2         | 0.63%   |
 | Intel Ethernet Connection (2) I218-V                              | 2         | 0.63%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 0.63%   |
-| Intel Centrino Wireless-N 2230                                    | 2         | 0.63%   |
-| Intel Centrino Advanced-N 6235                                    | 2         | 0.63%   |
-| Intel 82578DM Gigabit Network Connection                          | 2         | 0.63%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 2         | 0.63%   |
-| Broadcom BCM4331 802.11a/b/g/n                                    | 2         | 0.63%   |
-| Sierra Wireless EM7455                                            | 1         | 0.31%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 0.31%   |
-| Realtek RTL8812AU 802.11a/b/g/n/ac 2T2R DB WLAN Adapter           | 1         | 0.31%   |
-| Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter          | 1         | 0.31%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                            | 1         | 0.31%   |
-| Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 0.31%   |
-| Realtek RTL8188EE Wireless Network Adapter                        | 1         | 0.31%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                           | 1         | 0.31%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 0.31%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 0.31%   |
-| Ralink RT5370 Wireless Adapter                                    | 1         | 0.31%   |
-| Ralink MT7601U Wireless Adapter                                   | 1         | 0.31%   |
-| Ralink RT5360 Wireless 802.11n 1T/1R                              | 1         | 0.31%   |
-| Ralink RT3060 Wireless 802.11n 1T/1R                              | 1         | 0.31%   |
 
 Wireless Vendor
 ---------------
@@ -2264,20 +2068,6 @@ Wireless models
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                        | 1         | 0.78%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 1         | 0.78%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 0.78%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 1         | 0.78%   |
-| Intel Gemini Lake PCH CNVi WiFi                                                       | 1         | 0.78%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                       | 1         | 0.78%   |
-| Intel Centrino Wireless-N 130                                                         | 1         | 0.78%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                                         | 1         | 0.78%   |
-| Intel Centrino Advanced-N 6230 [Rainbow Peak]                                         | 1         | 0.78%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                                              | 1         | 0.78%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                        | 1         | 0.78%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                    | 1         | 0.78%   |
-| Broadcom BCM43225 802.11b/g/n                                                         | 1         | 0.78%   |
-| Broadcom BCM4321 802.11a/b/g/n                                                        | 1         | 0.78%   |
-| Broadcom BCM43142 802.11b/g/n                                                         | 1         | 0.78%   |
-| Broadcom BCM4312 802.11b/g LP-PHY                                                     | 1         | 0.78%   |
-| Broadcom 802.11ac Network Adapter                                                     | 1         | 0.78%   |
 
 Ethernet Vendor
 ---------------
@@ -2349,17 +2139,6 @@ Ethernet models
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1         | 0.53%   |
 | Intel 82567LM-3 Gigabit Network Connection                                    | 1         | 0.53%   |
 | Intel 82567LF Gigabit Network Connection                                      | 1         | 0.53%   |
-| Intel 82566MM Gigabit Network Connection                                      | 1         | 0.53%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 1         | 0.53%   |
-| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                        | 1         | 0.53%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                               | 1         | 0.53%   |
-| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                             | 1         | 0.53%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                             | 1         | 0.53%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                             | 1         | 0.53%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 1         | 0.53%   |
-| Broadcom NetXtreme BCM5721 Gigabit Ethernet PCI Express                       | 1         | 0.53%   |
-| Broadcom NetLink BCM5906M Fast Ethernet PCI Express                           | 1         | 0.53%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                               | 1         | 0.53%   |
 
 Net Controller Kind
 -------------------
@@ -2494,10 +2273,6 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1)                             | 1         | 1%      |
 | ASUS BT-253 Bluetooth Adapter                           | 1         | 1%      |
 | ASUS BT-183 Bluetooth 2.0+EDR adapter                   | 1         | 1%      |
-| Apple Built-in iSight (no firmware loaded)              | 1         | 1%      |
-| Apple Bluetooth HCI                                     | 1         | 1%      |
-| Apple Apple Broadcom Built-in Bluetooth                 | 1         | 1%      |
-| Alps Electric UGTZ4 Bluetooth                           | 1         | 1%      |
 
 Sound
 -----
@@ -2575,26 +2350,6 @@ Sound card models
 | Nvidia GM206 High Definition Audio Controller                              | 2         | 0.66%   |
 | Nvidia GK106 HDMI Audio Controller                                         | 2         | 0.66%   |
 | Nvidia GF119 HDMI Audio Controller                                         | 2         | 0.66%   |
-| Nvidia GF108 High Definition Audio Controller                              | 2         | 0.66%   |
-| Intel Comet Lake PCH-LP cAVS                                               | 2         | 0.66%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 0.66%   |
-| Intel Cannon Point-LP High Definition Audio Controller                     | 2         | 0.66%   |
-| Intel C600/X79 series chipset High Definition Audio Controller             | 2         | 0.66%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 2         | 0.66%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 2         | 0.66%   |
-| Texas Instruments PCM2704 16-bit stereo audio DAC                          | 1         | 0.33%   |
-| SteelSeries ApS SteelSeries Siberia 350                                    | 1         | 0.33%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 0.33%   |
-| Nvidia TU104 HD Audio Controller                                           | 1         | 0.33%   |
-| Nvidia MCP73 High Definition Audio                                         | 1         | 0.33%   |
-| Nvidia High Definition Audio Controller                                    | 1         | 0.33%   |
-| Nvidia GT216 HDMI Audio Controller                                         | 1         | 0.33%   |
-| Nvidia GM204 High Definition Audio Controller                              | 1         | 0.33%   |
-| Nvidia GK110 High Definition Audio Controller                              | 1         | 0.33%   |
-| Nvidia GF106 High Definition Audio Controller                              | 1         | 0.33%   |
-| Intel CM238 HD Audio Controller                                            | 1         | 0.33%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 1         | 0.33%   |
-| Intel C610/X99 series chipset HD Audio Controller                          | 1         | 0.33%   |
 
 Memory
 ------
@@ -2643,68 +2398,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                     | 4         | 1.57%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 3         | 1.18%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 3         | 1.18%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s             | 3         | 1.18%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2         | 0.79%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
-| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s            | 2         | 0.79%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2         | 0.79%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s            | 2         | 0.79%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s            | 2         | 0.79%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s             | 2         | 0.79%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s             | 2         | 0.79%   |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s             | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s             | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s             | 2         | 0.79%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s             | 2         | 0.79%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s               | 2         | 0.79%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                     | 2         | 0.79%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s             | 2         | 0.79%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s              | 2         | 0.79%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2         | 0.79%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2         | 0.79%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2         | 0.79%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2         | 0.79%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2         | 0.79%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s                     | 2         | 0.79%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2         | 0.79%   |
-| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s                    | 2         | 0.79%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s               | 2         | 0.79%   |
-| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s                 | 1         | 0.39%   |
-| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                         | 1         | 0.39%   |
-| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                         | 1         | 0.39%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s                    | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s                     | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s                    | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR2                             | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM 1066MT/s                         | 1         | 0.39%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1         | 0.39%   |
-| Unknown RAM Module 4096MB DIMM DDR2                               | 1         | 0.39%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1         | 0.39%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                     | 1         | 0.39%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1         | 0.39%   |
-| Unknown RAM Module 2048MB DIMM DDR2                               | 1         | 0.39%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1         | 0.39%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1         | 0.39%   |
-| Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s       | 1         | 0.39%   |
-| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s           | 1         | 0.39%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1         | 0.39%   |
-| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1         | 0.39%   |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s             | 1         | 0.39%   |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s             | 1         | 0.39%   |
-| Smart RAM SH564128FJ8NZRNSDG 4GB SODIMM DDR3 1600MT/s             | 1         | 0.39%   |
-| Smart RAM SH564128FJ8NWRNSQR 4GB SODIMM DDR3 1600MT/s             | 1         | 0.39%   |
-| SK hynix RAM Module 8192MB SODIMM DDR3 1600MT/s                   | 1         | 0.39%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1         | 0.39%   |
-| SK hynix RAM Module 1024MB SODIMM DDR3 1067MT/s                   | 1         | 0.39%   |
-| SK hynix RAM HYMP151P72CP4-S5 4096MB DIMM DDR2 800MT/s            | 1         | 0.39%   |
-| SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s              | 1         | 0.39%   |
+| Model                                                    | Computers | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s            | 4         | 1.57%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 3         | 1.18%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 3         | 1.18%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s    | 3         | 1.18%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                  | 2         | 0.79%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.79%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.79%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s   | 2         | 0.79%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s     | 2         | 0.79%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s    | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s      | 2         | 0.79%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 2         | 0.79%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s             | 2         | 0.79%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s     | 2         | 0.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s | 2         | 0.79%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s    | 2         | 0.79%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s           | 2         | 0.79%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
+| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s        | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                | 1         | 0.39%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                  | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s           | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s            | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s           | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR2                    | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s                | 1         | 0.39%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s             | 1         | 0.39%   |
 
 Memory Kind
 -----------
@@ -2891,68 +2626,48 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                                                      | Computers | Percent |
-|------------------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                                  | 6         | 6.67%   |
-| Sunplus Integrated_Webcam_HD                               | 3         | 3.33%   |
-| Realtek Realtek USB2.0 PC Camera                           | 3         | 3.33%   |
-| Microdia Integrated_Webcam_HD                              | 3         | 3.33%   |
-| Lite-On Integrated Camera                                  | 3         | 3.33%   |
-| Suyin Integrated_Webcam_HD                                 | 2         | 2.22%   |
-| Realtek USB Camera                                         | 2         | 2.22%   |
-| Realtek Integrated_Webcam_HD                               | 2         | 2.22%   |
-| IMC Networks USB2.0 HD UVC WebCam                          | 2         | 2.22%   |
-| Chicony UVC 1.00 device HD UVC WebCam                      | 2         | 2.22%   |
-| Chicony USB2.0 VGA UVC WebCam                              | 2         | 2.22%   |
-| Chicony USB2.0 HD UVC WebCam                               | 2         | 2.22%   |
-| Chicony FJ Camera                                          | 2         | 2.22%   |
-| ARC International Camera                                   | 2         | 2.22%   |
-| Acer Integrated Camera                                     | 2         | 2.22%   |
-| Z-Star Venus USB2.0 Camera                                 | 1         | 1.11%   |
-| Z-Star Vega USB 2.0 Camera                                 | 1         | 1.11%   |
-| Syntek Lenovo EasyCamera                                   | 1         | 1.11%   |
-| Suyin HP webcam [dv6-1190en]                               | 1         | 1.11%   |
-| Suyin Acer Crystal Eye webcam                              | 1         | 1.11%   |
-| Suyin 1.3M HD WebCam                                       | 1         | 1.11%   |
-| Sunplus Laptop_Integrated_Webcam_FHD                       | 1         | 1.11%   |
-| Sunplus Aukey-PC-LM1E Camera                               | 1         | 1.11%   |
-| Silicon Motion WebCam SCB-1100N                            | 1         | 1.11%   |
-| Silicon Motion Realtek USB2.0 PC Camera                    | 1         | 1.11%   |
-| Silicon Motion ATIV Real HD Camera                         | 1         | 1.11%   |
-| Ricoh HD Webcam                                            | 1         | 1.11%   |
-| Realtek Integrated_Webcam_FHD                              | 1         | 1.11%   |
-| Realtek Integrated_Webcam_8M                               | 1         | 1.11%   |
-| Realtek Acer 640 x 480 laptop camera                       | 1         | 1.11%   |
-| Microdia Webcam Vitade AF                                  | 1         | 1.11%   |
-| Microdia Laptop_Integrated_Webcam_HD                       | 1         | 1.11%   |
-| Microdia Integrated Webcam                                 | 1         | 1.11%   |
-| Microdia Dell Laptop Integrated Webcam HD                  | 1         | 1.11%   |
-| Microdia Dell Integrated HD Webcam                         | 1         | 1.11%   |
-| Microdia ASUS USB2.0 Webcam                                | 1         | 1.11%   |
-| Luxvisions Innotech Limited HP Wide Vision HD Camera       | 1         | 1.11%   |
-| Logitech Webcam C310                                       | 1         | 1.11%   |
-| Logitech C922 Pro Stream Webcam                            | 1         | 1.11%   |
-| Linux Foundation HD Camera                                 | 1         | 1.11%   |
-| Lenovo Integrated Webcam [R5U877]                          | 1         | 1.11%   |
-| KYE Systems (Mouse Systems) AUKEY PC-LM1E Camera           | 1         | 1.11%   |
-| IMC Networks VGA UVC WebCam                                | 1         | 1.11%   |
-| IMC Networks USB2.0 UVC HD Webcam                          | 1         | 1.11%   |
-| IMC Networks USB Camera                                    | 1         | 1.11%   |
-| IMC Networks HP TrueVision HD Camera                       | 1         | 1.11%   |
-| IMC Networks EasyCamera                                    | 1         | 1.11%   |
-| Generalplus GENERAL WEBCAM                                 | 1         | 1.11%   |
-| Creative Webcam Live! Motion                               | 1         | 1.11%   |
-| Chicony thinkpad t430s camera                              | 1         | 1.11%   |
-| Chicony Sonix ST50220 USB Video Camera                     | 1         | 1.11%   |
-| Chicony Integrated HP HD Webcam                            | 1         | 1.11%   |
-| Chicony Integrated Camera (1280x720@30)                    | 1         | 1.11%   |
-| Chicony HP Integrated Webcam                               | 1         | 1.11%   |
-| Chicony HD WebCam                                          | 1         | 1.11%   |
-| Chicony Chicony USB 2.0 Camera                             | 1         | 1.11%   |
-| Chicony 2.0M UVC Webcam / CNF7129                          | 1         | 1.11%   |
-| Chicony 1.3 MPixel UVC Webcam                              | 1         | 1.11%   |
-| Cheng Uei Precision Industry (Foxlink) HP Universal Camera | 1         | 1.11%   |
-| Apple FaceTime HD Camera                                   | 1         | 1.11%   |
+| Model                                                | Computers | Percent |
+|------------------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                            | 6         | 6.67%   |
+| Sunplus Integrated_Webcam_HD                         | 3         | 3.33%   |
+| Realtek Realtek USB2.0 PC Camera                     | 3         | 3.33%   |
+| Microdia Integrated_Webcam_HD                        | 3         | 3.33%   |
+| Lite-On Integrated Camera                            | 3         | 3.33%   |
+| Suyin Integrated_Webcam_HD                           | 2         | 2.22%   |
+| Realtek USB Camera                                   | 2         | 2.22%   |
+| Realtek Integrated_Webcam_HD                         | 2         | 2.22%   |
+| IMC Networks USB2.0 HD UVC WebCam                    | 2         | 2.22%   |
+| Chicony UVC 1.00 device HD UVC WebCam                | 2         | 2.22%   |
+| Chicony USB2.0 VGA UVC WebCam                        | 2         | 2.22%   |
+| Chicony USB2.0 HD UVC WebCam                         | 2         | 2.22%   |
+| Chicony FJ Camera                                    | 2         | 2.22%   |
+| ARC International Camera                             | 2         | 2.22%   |
+| Acer Integrated Camera                               | 2         | 2.22%   |
+| Z-Star Venus USB2.0 Camera                           | 1         | 1.11%   |
+| Z-Star Vega USB 2.0 Camera                           | 1         | 1.11%   |
+| Syntek Lenovo EasyCamera                             | 1         | 1.11%   |
+| Suyin HP webcam [dv6-1190en]                         | 1         | 1.11%   |
+| Suyin Acer Crystal Eye webcam                        | 1         | 1.11%   |
+| Suyin 1.3M HD WebCam                                 | 1         | 1.11%   |
+| Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.11%   |
+| Sunplus Aukey-PC-LM1E Camera                         | 1         | 1.11%   |
+| Silicon Motion WebCam SCB-1100N                      | 1         | 1.11%   |
+| Silicon Motion Realtek USB2.0 PC Camera              | 1         | 1.11%   |
+| Silicon Motion ATIV Real HD Camera                   | 1         | 1.11%   |
+| Ricoh HD Webcam                                      | 1         | 1.11%   |
+| Realtek Integrated_Webcam_FHD                        | 1         | 1.11%   |
+| Realtek Integrated_Webcam_8M                         | 1         | 1.11%   |
+| Realtek Acer 640 x 480 laptop camera                 | 1         | 1.11%   |
+| Microdia Webcam Vitade AF                            | 1         | 1.11%   |
+| Microdia Laptop_Integrated_Webcam_HD                 | 1         | 1.11%   |
+| Microdia Integrated Webcam                           | 1         | 1.11%   |
+| Microdia Dell Laptop Integrated Webcam HD            | 1         | 1.11%   |
+| Microdia Dell Integrated HD Webcam                   | 1         | 1.11%   |
+| Microdia ASUS USB2.0 Webcam                          | 1         | 1.11%   |
+| Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.11%   |
+| Logitech Webcam C310                                 | 1         | 1.11%   |
+| Logitech C922 Pro Stream Webcam                      | 1         | 1.11%   |
+| Linux Foundation HD Camera                           | 1         | 1.11%   |
 
 Security
 --------

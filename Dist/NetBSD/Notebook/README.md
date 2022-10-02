@@ -620,7 +620,7 @@ Hard drive models
 | Intel SSDSC2CW120A3 120GB       | 1         | 8.33%   |
 | Intel SSDSC2BF180A4L 180GB      | 1         | 8.33%   |
 | Hitachi HTS721060G9AT00 64GB    | 1         | 8.33%   |
-| Hitachi HTS548040M9AT00 40GB    | 1         | 8.33%   |
+| Hitachi HTS548040M9AT00 37GB    | 1         | 8.33%   |
 | HGST HTS545050A7E680 500GB      | 1         | 8.33%   |
 
 HDD Vendor
@@ -737,7 +737,7 @@ Drive models with a malfunction
 | Intel SSDSC2CW120A3 120GB       | 1         | 1      | 14.29%  |
 | Intel SSDSC2BF180A4L 180GB      | 1         | 1      | 14.29%  |
 | Hitachi HTS721060G9AT00 64GB    | 1         | 1      | 14.29%  |
-| Hitachi HTS548040M9AT00 40GB    | 1         | 2      | 14.29%  |
+| Hitachi HTS548040M9AT00 37GB    | 1         | 2      | 14.29%  |
 
 Malfunc. Drive Vendor
 ---------------------

@@ -398,10 +398,6 @@ Motherboard model
 | ASRock X370 Gaming K4                                                 | 1        | 2.22%   |
 | ASRock B450 Gaming-ITX/ac                                             | 1        | 2.22%   |
 | ASRock AB350 Gaming-ITX/ac                                            | 1        | 2.22%   |
-| ASRock A300M-STX                                                      | 1        | 2.22%   |
-| Acer Aspire XC-115                                                    | 1        | 2.22%   |
-| Acer Aspire X3910                                                     | 1        | 2.22%   |
-| Unknown                                                               | 1        | 2.22%   |
 
 Model Family
 ------------
@@ -768,26 +764,6 @@ Hard drive models
 | Seagate ST1000LM049-2GH172 1TB     | 1        | 1.02%   |
 | Seagate ST1000DM003-1SB102 1TB     | 1        | 1.02%   |
 | SanDisk SSD PLUS 240 GB            | 1        | 1.02%   |
-| SanDisk SSD PLUS 120GB             | 1        | 1.02%   |
-| SanDisk SSD G5 BICS4 1TB           | 1        | 1.02%   |
-| Samsung SSD 970 PRO 512GB          | 1        | 1.02%   |
-| Samsung SSD 970 EVO Plus 1TB       | 1        | 1.02%   |
-| Samsung SSD 970 EVO 500GB          | 1        | 1.02%   |
-| Samsung SSD 960 EVO 250GB          | 1        | 1.02%   |
-| Samsung SSD 870 QVO 1TB            | 1        | 1.02%   |
-| Samsung SSD 860 EVO 500GB          | 1        | 1.02%   |
-| Samsung SSD 850 PRO 512GB          | 1        | 1.02%   |
-| Samsung SSD 850 PRO 256GB          | 1        | 1.02%   |
-| Samsung SSD 850 EVO 500GB          | 1        | 1.02%   |
-| Samsung SSD 850 EVO 250GB          | 1        | 1.02%   |
-| Samsung SSD 850 EVO 120GB          | 1        | 1.02%   |
-| Samsung SSD 840 PRO Series 256GB   | 1        | 1.02%   |
-| Samsung HN-M500MBB 500GB           | 1        | 1.02%   |
-| Samsung HM250HI 250GB              | 1        | 1.02%   |
-| Samsung HD501LJ 500GB              | 1        | 1.02%   |
-| Samsung HD103SJ 1TB                | 1        | 1.02%   |
-| PNY CS900 500GB SSD                | 1        | 1.02%   |
-| Plextor PX-128M8VC 128GB           | 1        | 1.02%   |
 
 HDD Vendor
 ----------
@@ -1460,14 +1436,6 @@ Monitor models
 | Dell LCD Monitor 1908FP 3200x1080                                      | 1        | 2.04%   |
 | Dell E1715S DELD062 1280x1024 340x270mm 17.1-inch                      | 1        | 2.04%   |
 | CHD M27 CHD0270 1920x1080 530x290mm 23.8-inch                          | 1        | 2.04%   |
-| BenQ PD3200Q BNQ8026 2560x1440 710x400mm 32.1-inch                     | 1        | 2.04%   |
-| BenQ LCD Monitor DL2215                                                | 1        | 2.04%   |
-| BenQ LCD BNQ8024 2560x1440 600x340mm 27.2-inch                         | 1        | 2.04%   |
-| ASUSTek Computer VC279 AUS27C4 1920x1080 600x340mm 27.2-inch           | 1        | 2.04%   |
-| AOC 2470W AOC2470 1920x1080 520x290mm 23.4-inch                        | 1        | 2.04%   |
-| AOC 2070W AOC2070 1600x900 430x240mm 19.4-inch                         | 1        | 2.04%   |
-| Ancor Communications ASUS VN247 ACI24C3 1920x1080 520x290mm 23.4-inch  | 1        | 2.04%   |
-| Acer K222HQL ACR040D 1920x1080 480x270mm 21.7-inch                     | 1        | 2.04%   |
 
 Monitor Resolution
 ------------------
@@ -1933,12 +1901,6 @@ Sound card models
 | Focusrite-Novation Scarlett Solo (3rd Gen.)                                           | 1        | 1.06%   |
 | Creative Technology Sound Blaster Omni Surround 5.1                                   | 1        | 1.06%   |
 | Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                         | 1        | 1.06%   |
-| C-Media Electronics USB Audio Class 1.0 and 2.0 Device                                | 1        | 1.06%   |
-| AMD SBx00 Azalia (Intel HDA)                                                          | 1        | 1.06%   |
-| AMD Renoir Radeon High Definition Audio Controller                                    | 1        | 1.06%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                   | 1        | 1.06%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]               | 1        | 1.06%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                                      | 1        | 1.06%   |
 
 Memory
 ------
@@ -1972,57 +1934,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s      | 3        | 5.66%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 3        | 5.66%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1        | 1.89%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 1.89%   |
-| Unknown RAM Module 2GB DIMM DDR3 1067MT/s                | 1        | 1.89%   |
-| Unknown RAM Module 2GB DIMM 800MT/s                      | 1        | 1.89%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 1        | 1.89%   |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s   | 1        | 1.89%   |
-| Samsung RAM M393B5170FH0 4GB DIMM DDR3 1600MT/s          | 1        | 1.89%   |
-| Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s      | 1        | 1.89%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s      | 1        | 1.89%   |
-| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
-| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s     | 1        | 1.89%   |
-| S RAM Module 4GB DIMM DDR3 1600MT/s                      | 1        | 1.89%   |
-| Nanya RAM NT2GT72U8PD0BY-3C 2GB DIMM DDR2 667MT/s        | 1        | 1.89%   |
-| Kingston RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.89%   |
-| Kingston RAM Module 2GB DIMM DDR3 1333MT/s               | 1        | 1.89%   |
-| Kingston RAM KHX3000C15/16GX 16GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s        | 1        | 1.89%   |
-| Kingston RAM KHX2666C13/8GX 8GB DIMM DDR4 2400MT/s       | 1        | 1.89%   |
-| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s      | 1        | 1.89%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s      | 1        | 1.89%   |
-| Kingston RAM 99U5595-003.A00LF 2GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
-| Kingston RAM 99P5474-013.A 4096MB DIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s     | 1        | 1.89%   |
-| G.Skill RAM F4-3600C17-16GTZSW 16GB DIMM DDR4 3600MT/s   | 1        | 1.89%   |
-| G.Skill RAM F4-3600C16-8GTZ 8GB DIMM DDR4 2133MT/s       | 1        | 1.89%   |
-| G.Skill RAM F4-3200C16-8GVGB 8GB DIMM DDR4 3200MT/s      | 1        | 1.89%   |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s     | 1        | 1.89%   |
-| G.Skill RAM F4-2400C16-16GFT 16GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
-| G.Skill RAM F4-2400C15-16GFT 16GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
-| G.Skill RAM F3-1600C9-8GXM 8GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
-| G.Skill RAM F3-1600C9-4GRSL 4GB SODIMM DDR3 1600MT/s     | 1        | 1.89%   |
-| Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
-| Crucial RAM CT8G4DFS824A.C8FBD1 8GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s  | 1        | 1.89%   |
-| Crucial RAM BLS8G4D26BFSE.16FBR2 8GB DIMM DDR4 2666MT/s  | 1        | 1.89%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
-| Corsair RAM CMW32GX4M2C3200C16 16GB DIMM DDR4 3200MT/s   | 1        | 1.89%   |
-| Corsair RAM CMSX16GX4M2A2400C16 8GB SODIMM DDR4 2400MT/s | 1        | 1.89%   |
-| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
-| Corsair RAM CMK64GX4M2D3000C16 32GB DIMM DDR4 3066MT/s   | 1        | 1.89%   |
-| A-DATA RAM DDR4 3200 8GB DIMM DDR4 3200MT/s              | 1        | 1.89%   |
-| A-DATA RAM AM2U139C4P284V 4096MB DIMM DDR3 1333MT/s      | 1        | 1.89%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s    | 3        | 5.66%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 3        | 5.66%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s              | 1        | 1.89%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                | 1        | 1.89%   |
+| Unknown RAM Module 2GB DIMM DDR3 1067MT/s              | 1        | 1.89%   |
+| Unknown RAM Module 2GB DIMM 800MT/s                    | 1        | 1.89%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 1        | 1.89%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s   | 1        | 1.89%   |
+| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s   | 1        | 1.89%   |
+| SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s   | 1        | 1.89%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s | 1        | 1.89%   |
+| Samsung RAM M393B5170FH0 4GB DIMM DDR3 1600MT/s        | 1        | 1.89%   |
+| Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
+| Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s   | 1        | 1.89%   |
+| S RAM Module 4GB DIMM DDR3 1600MT/s                    | 1        | 1.89%   |
+| Nanya RAM NT2GT72U8PD0BY-3C 2GB DIMM DDR2 667MT/s      | 1        | 1.89%   |
+| Kingston RAM Module 4GB DIMM DDR3 1600MT/s             | 1        | 1.89%   |
+| Kingston RAM Module 2GB DIMM DDR3 1333MT/s             | 1        | 1.89%   |
+| Kingston RAM KHX3000C15/16GX 16GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s      | 1        | 1.89%   |
+| Kingston RAM KHX2666C13/8GX 8GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
+| Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s    | 1        | 1.89%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s    | 1        | 1.89%   |
+| Kingston RAM 99U5595-003.A00LF 2GB DIMM DDR3 1600MT/s  | 1        | 1.89%   |
+| Kingston RAM 99P5474-013.A 4096MB DIMM DDR3 1600MT/s   | 1        | 1.89%   |
+| Kingston RAM 9905625-062.A00G 8GB DIMM DDR4 2133MT/s   | 1        | 1.89%   |
+| G.Skill RAM F4-3600C17-16GTZSW 16GB DIMM DDR4 3600MT/s | 1        | 1.89%   |
+| G.Skill RAM F4-3600C16-8GTZ 8GB DIMM DDR4 2133MT/s     | 1        | 1.89%   |
+| G.Skill RAM F4-3200C16-8GVGB 8GB DIMM DDR4 3200MT/s    | 1        | 1.89%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s   | 1        | 1.89%   |
+| G.Skill RAM F4-2400C16-16GFT 16GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
+| G.Skill RAM F4-2400C15-16GFT 16GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
+| G.Skill RAM F3-1600C9-8GXM 8GB DIMM DDR3 1600MT/s      | 1        | 1.89%   |
+| G.Skill RAM F3-1600C9-4GRSL 4GB SODIMM DDR3 1600MT/s   | 1        | 1.89%   |
+| Crucial RAM CT8G4DFS824A.C8FE 8GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
+| Crucial RAM CT8G4DFS824A.C8FBD1 8GB DIMM DDR4 2400MT/s | 1        | 1.89%   |
 
 Memory Kind
 -----------

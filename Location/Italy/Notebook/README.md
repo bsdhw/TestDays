@@ -499,13 +499,6 @@ Motherboard model
 | ASUS K52F                                | 1         | 1.96%   |
 | ASUS G1S                                 | 1         | 1.96%   |
 | ASUS F50SL                               | 1         | 1.96%   |
-| ASUS 1000                                | 1         | 1.96%   |
-| Apple MacBookAir7,2                      | 1         | 1.96%   |
-| Acer V5-131                              | 1         | 1.96%   |
-| Acer Extensa 5635Z                       | 1         | 1.96%   |
-| Acer Aspire E1-522                       | 1         | 1.96%   |
-| Acer Aspire 5749Z                        | 1         | 1.96%   |
-| Acer AOD260                              | 1         | 1.96%   |
 
 Model Family
 ------------
@@ -858,23 +851,6 @@ Hard drive models
 | Kingston SA400S37120G 120GB                     | 1         | 1.61%   |
 | Kingston RBUSNS8154P3256GJ3 256GB               | 1         | 1.61%   |
 | Kingston OM8PCP3512F-AB 512GB                   | 1         | 1.61%   |
-| KingDian S200 60GB                              | 1         | 1.61%   |
-| Intenso SSD Sata III 256GB                      | 1         | 1.61%   |
-| Intel SSDSC2BF180A4L 180GB                      | 1         | 1.61%   |
-| Indilinx InM2246S3-64G                          | 1         | 1.61%   |
-| Hitachi HTS548040M9AT00 40GB                    | 1         | 1.61%   |
-| Hitachi HTS545050A7E380 500GB                   | 1         | 1.61%   |
-| Hitachi HTS542525K9SA00 250GB                   | 1         | 1.61%   |
-| HGST HTS545050A7E680 500GB                      | 1         | 1.61%   |
-| Fujitsu MHY2120BH 120GB                         | 1         | 1.61%   |
-| FORESEE 128GB SSD                               | 1         | 1.61%   |
-| Crucial CT525MX300SSD1 528GB                    | 1         | 1.61%   |
-| Crucial CT500MX500SSD1 500GB                    | 1         | 1.61%   |
-| Crucial CT240BX500SSD1 240GB                    | 1         | 1.61%   |
-| Crucial CT120BX300SSD1 120GB                    | 1         | 1.61%   |
-| Crucial CT1000MX500SSD1 1TB                     | 1         | 1.61%   |
-| ASUS PHISON SSD 32GB                            | 1         | 1.61%   |
-| Apple SSD SM0128G 121GB                         | 1         | 1.61%   |
 
 HDD Vendor
 ----------
@@ -1006,7 +982,7 @@ Drive models with a malfunction
 | SanDisk SDSSDP064G 64GB         | 1         | 1      | 11.11%  |
 | SanDisk SD9SN8W-128G-1006 128GB | 1         | 1      | 11.11%  |
 | Intel SSDSC2BF180A4L 180GB      | 1         | 1      | 11.11%  |
-| Hitachi HTS548040M9AT00 40GB    | 1         | 2      | 11.11%  |
+| Hitachi HTS548040M9AT00 37GB    | 1         | 2      | 11.11%  |
 | Hitachi HTS545050A7E380 500GB   | 1         | 1      | 11.11%  |
 | Crucial CT525MX300SSD1 528GB    | 1         | 3      | 11.11%  |
 
@@ -1186,54 +1162,48 @@ Processor models
 ![CPU Model](./images/pie_chart_bsd/cpu_model.svg)
 
 
-| Model                                           | Notebooks | Percent |
-|-------------------------------------------------|-----------|---------|
-| Intel Core i7-8550U CPU @ 1.80GHz               | 2         | 3.85%   |
-| Intel Core i5-5300U CPU @ 2.30GHz               | 2         | 3.85%   |
-| Intel Core i5-3210M CPU @ 2.50GHz               | 2         | 3.85%   |
-| Intel Core i5-2520M CPU @ 2.50GHz               | 2         | 3.85%   |
-| Intel Atom CPU N450 @ 1.66GHz                   | 2         | 3.85%   |
-| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx   | 2         | 3.85%   |
-| Intel Pentium M processor                       | 1         | 1.92%   |
-| Intel Pentium Dual-Core CPU T4500 @ 2.30GHz     | 1         | 1.92%   |
-| Intel Pentium Dual-Core CPU T4200 @ 2.00GHz     | 1         | 1.92%   |
-| Intel Pentium CPU P6200 @ 2.13GHz               | 1         | 1.92%   |
-| Intel Pentium CPU P6200 @ 2.13GH                | 1         | 1.92%   |
-| Intel Pentium CPU B960 @ 2.20GHz                | 1         | 1.92%   |
-| Intel Pentium CPU 997 @ 1.60GHz                 | 1         | 1.92%   |
-| Intel Core i7-7500U CPU @ 2.70GHz               | 1         | 1.92%   |
-| Intel Core i7-6700HQ CPU @ 2.60GHz              | 1         | 1.92%   |
-| Intel Core i7-5500U CPU @ 2.40GHz               | 1         | 1.92%   |
-| Intel Core i7-4510U CPU @ 2.00GHz               | 1         | 1.92%   |
-| Intel Core i5-8250U CPU @ 1.60GHz               | 1         | 1.92%   |
-| Intel Core i5-6300U CPU @ 2.40GHz               | 1         | 1.92%   |
-| Intel Core i5-5350U CPU @ 1.80GHz               | 1         | 1.92%   |
-| Intel Core i5-5200U CPU @ 2.20GHz               | 1         | 1.92%   |
-| Intel Core i5-4300U CPU @ 1.90GHz               | 1         | 1.92%   |
-| Intel Core i5-4210U CPU @ 1.70GHz               | 1         | 1.92%   |
-| Intel Core i5-3320M CPU @ 2.60GHz               | 1         | 1.92%   |
-| Intel Core i5-2540M CPU @ 2.60GHz               | 1         | 1.92%   |
-| Intel Core i5-10300H CPU @ 2.50GHz              | 1         | 1.92%   |
-| Intel Core i3-7020U CPU @ 2.30GHz               | 1         | 1.92%   |
-| Intel Core i3-3110M CPU @ 2.40GHz               | 1         | 1.92%   |
-| Intel Core i3 CPU M 370 @ 2.40GHz               | 1         | 1.92%   |
-| Intel Core 2 Duo CPU T9400 @ 2.53GHz            | 1         | 1.92%   |
-| Intel Core 2 Duo CPU T9300 @ 2.50GHz            | 1         | 1.92%   |
-| Intel Core 2 Duo CPU T8300 @ 2.40GHz            | 1         | 1.92%   |
-| Intel Core 2 Duo CPU T8100 @ 2.10GHz            | 1         | 1.92%   |
-| Intel Core 2 Duo CPU T7700 @ 2.40GHz            | 1         | 1.92%   |
-| Intel Celeron CPU N3060 @ 1.60GHz               | 1         | 1.92%   |
-| Intel Celeron CPU 847 @ 1.10GHz                 | 1         | 1.92%   |
-| Intel Celeron CPU 1017U @ 1.60GHz               | 1         | 1.92%   |
-| Intel Atom CPU N270 @ 1.60GHz                   | 1         | 1.92%   |
-| Intel 686-class                                 | 1         | 1.92%   |
-| AMD Turion 64 X2 Mobile Technology TL-60        | 1         | 1.92%   |
-| AMD Ryzen Embedded V1500B                       | 1         | 1.92%   |
-| AMD Ryzen 7 PRO 3700U w/ Radeon Vega Mobile Gfx | 1         | 1.92%   |
-| AMD Ryzen 5 5500U with Radeon Graphics          | 1         | 1.92%   |
-| AMD E1-6010 APU with AMD Radeon R2 Graphics     | 1         | 1.92%   |
-| AMD A6-5200 APU with Radeon HD Graphics         | 1         | 1.92%   |
-| AMD A4-5000 APU with Radeon HD Graphics         | 1         | 1.92%   |
+| Model                                         | Notebooks | Percent |
+|-----------------------------------------------|-----------|---------|
+| Intel Core i7-8550U CPU @ 1.80GHz             | 2         | 3.85%   |
+| Intel Core i5-5300U CPU @ 2.30GHz             | 2         | 3.85%   |
+| Intel Core i5-3210M CPU @ 2.50GHz             | 2         | 3.85%   |
+| Intel Core i5-2520M CPU @ 2.50GHz             | 2         | 3.85%   |
+| Intel Atom CPU N450 @ 1.66GHz                 | 2         | 3.85%   |
+| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx | 2         | 3.85%   |
+| Intel Pentium M processor                     | 1         | 1.92%   |
+| Intel Pentium Dual-Core CPU T4500 @ 2.30GHz   | 1         | 1.92%   |
+| Intel Pentium Dual-Core CPU T4200 @ 2.00GHz   | 1         | 1.92%   |
+| Intel Pentium CPU P6200 @ 2.13GHz             | 1         | 1.92%   |
+| Intel Pentium CPU P6200 @ 2.13GH              | 1         | 1.92%   |
+| Intel Pentium CPU B960 @ 2.20GHz              | 1         | 1.92%   |
+| Intel Pentium CPU 997 @ 1.60GHz               | 1         | 1.92%   |
+| Intel Core i7-7500U CPU @ 2.70GHz             | 1         | 1.92%   |
+| Intel Core i7-6700HQ CPU @ 2.60GHz            | 1         | 1.92%   |
+| Intel Core i7-5500U CPU @ 2.40GHz             | 1         | 1.92%   |
+| Intel Core i7-4510U CPU @ 2.00GHz             | 1         | 1.92%   |
+| Intel Core i5-8250U CPU @ 1.60GHz             | 1         | 1.92%   |
+| Intel Core i5-6300U CPU @ 2.40GHz             | 1         | 1.92%   |
+| Intel Core i5-5350U CPU @ 1.80GHz             | 1         | 1.92%   |
+| Intel Core i5-5200U CPU @ 2.20GHz             | 1         | 1.92%   |
+| Intel Core i5-4300U CPU @ 1.90GHz             | 1         | 1.92%   |
+| Intel Core i5-4210U CPU @ 1.70GHz             | 1         | 1.92%   |
+| Intel Core i5-3320M CPU @ 2.60GHz             | 1         | 1.92%   |
+| Intel Core i5-2540M CPU @ 2.60GHz             | 1         | 1.92%   |
+| Intel Core i5-10300H CPU @ 2.50GHz            | 1         | 1.92%   |
+| Intel Core i3-7020U CPU @ 2.30GHz             | 1         | 1.92%   |
+| Intel Core i3-3110M CPU @ 2.40GHz             | 1         | 1.92%   |
+| Intel Core i3 CPU M 370 @ 2.40GHz             | 1         | 1.92%   |
+| Intel Core 2 Duo CPU T9400 @ 2.53GHz          | 1         | 1.92%   |
+| Intel Core 2 Duo CPU T9300 @ 2.50GHz          | 1         | 1.92%   |
+| Intel Core 2 Duo CPU T8300 @ 2.40GHz          | 1         | 1.92%   |
+| Intel Core 2 Duo CPU T8100 @ 2.10GHz          | 1         | 1.92%   |
+| Intel Core 2 Duo CPU T7700 @ 2.40GHz          | 1         | 1.92%   |
+| Intel Celeron CPU N3060 @ 1.60GHz             | 1         | 1.92%   |
+| Intel Celeron CPU 847 @ 1.10GHz               | 1         | 1.92%   |
+| Intel Celeron CPU 1017U @ 1.60GHz             | 1         | 1.92%   |
+| Intel Atom CPU N270 @ 1.60GHz                 | 1         | 1.92%   |
+| Intel 686-class                               | 1         | 1.92%   |
+| AMD Turion 64 X2 Mobile Technology TL-60      | 1         | 1.92%   |
 
 CPU Model Family
 ----------------
@@ -1720,26 +1690,6 @@ Controller models
 | Intel Wireless-AC 9260                                                  | 1         | 0.96%   |
 | Intel Ultimate N WiFi Link 5300                                         | 1         | 0.96%   |
 | Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection           | 1         | 0.96%   |
-| Intel PRO/Wireless 2200BG [Calexico2] Network Connection                | 1         | 0.96%   |
-| Intel I211 Gigabit Network Connection                                   | 1         | 0.96%   |
-| Intel I210 Gigabit Network Connection                                   | 1         | 0.96%   |
-| Intel Ethernet Connection I219-LM                                       | 1         | 0.96%   |
-| Intel Ethernet Connection I218-V                                        | 1         | 0.96%   |
-| Intel Ethernet Connection I218-LM                                       | 1         | 0.96%   |
-| Intel Ethernet Connection (4) I219-V                                    | 1         | 0.96%   |
-| Intel Ethernet Connection (2) I219-LM                                   | 1         | 0.96%   |
-| Intel Comet Lake PCH CNVi WiFi                                          | 1         | 0.96%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 1         | 0.96%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller       | 1         | 0.96%   |
-| Intel 82801DB PRO/100 VE (MOB) Ethernet Controller                      | 1         | 0.96%   |
-| Intel 82577LC Gigabit Network Connection                                | 1         | 0.96%   |
-| Intel 82574L Gigabit Network Connection                                 | 1         | 0.96%   |
-| Intel 82567LM Gigabit Network Connection                                | 1         | 0.96%   |
-| Huawei ME936 LTE/HSDPA+ 4G modem                                        | 1         | 0.96%   |
-| Huawei E353/E3131                                                       | 1         | 0.96%   |
-| HP un2400 Gobi Wireless Modem (QDL mode)                                | 1         | 0.96%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]          | 1         | 0.96%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                         | 1         | 0.96%   |
 
 Wireless Vendor
 ---------------
@@ -2109,19 +2059,6 @@ Memory module models
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                    | 1         | 1.47%   |
 | Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
 | Micron RAM 8KTF5126 4HZ-1G6D1 4GB SODIMM DDR3 1600MT/s           | 1         | 1.47%   |
-| Micron RAM 8JTF25664HZ-1G4H1 2GB SODIMM DDR3 1067MT/s            | 1         | 1.47%   |
-| Kingston RAM KNWMX1-ETB 4GB SODIMM DDR3 1600MT/s                 | 1         | 1.47%   |
-| Kingston RAM HP16D3LS1KBG/4G 4GB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
-| Kingston RAM ACR16D3LS1NBG/4G 4GB SODIMM DDR3 800MT/s            | 1         | 1.47%   |
-| Kingston RAM 99U5469-035.A00LF 4096MB SODIMM DDR3 1333MT/s       | 1         | 1.47%   |
-| Kingston RAM 9905469-144.A00LF 4GB SODIMM DDR3 1333MT/s          | 1         | 1.47%   |
-| Crucial RAM CT16G4SFRA32A.C8FB 16GB SODIMM DDR4 3200MT/s         | 1         | 1.47%   |
-| Crucial RAM CT16G4SFD824A.C16FDD 16GB SODIMM DDR4 2400MT/s       | 1         | 1.47%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s          | 1         | 1.47%   |
-| ASint RAM SSZ3128M8-EDJEF 2GB SODIMM DDR3 1067MT/s               | 1         | 1.47%   |
-| ASint RAM SSY3128M8-EDJEF 1GB SODIMM DDR3 1067MT/s               | 1         | 1.47%   |
-| A-DATA RAM Module 8GB SODIMM DDR4 2133MT/s                       | 1         | 1.47%   |
-| A-DATA RAM Module 8192MB SODIMM DDR4 2133MT/s                    | 1         | 1.47%   |
 
 Memory Kind
 -----------

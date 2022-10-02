@@ -727,15 +727,6 @@ Hard drive models
 | Kingston SV300S37A240G 240GB                         | 1        | 2.04%   |
 | Kingston SUV500MS480G 480GB                          | 1        | 2.04%   |
 | Kingston SUV500MS240G 240GB                          | 1        | 2.04%   |
-| Kingston SMS200S330G 32GB                            | 1        | 2.04%   |
-| Intel SSDSC2BW240A4 240GB                            | 1        | 2.04%   |
-| HPE MK000480GWXFF 480GB                              | 1        | 2.04%   |
-| Hitachi HUA723020ALA640 2TB                          | 1        | 2.04%   |
-| HGST HUS724020ALA640 2TB                             | 1        | 2.04%   |
-| Generic Flash Disk 2GB                               | 1        | 2.04%   |
-| Crucial M4-CT128M4SSD2 128GB                         | 1        | 2.04%   |
-| ASMT 2115 500GB                                      | 1        | 2.04%   |
-| Apacer 8GB SATA Flash Drive                          | 1        | 2.04%   |
 
 HDD Vendor
 ----------

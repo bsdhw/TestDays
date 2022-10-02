@@ -447,26 +447,6 @@ Motherboard model
 | Gigabyte TRX40 DESIGNARE            | 1        | 1.11%   |
 | Gigabyte GA-870-UD3P                | 1        | 1.11%   |
 | Gigabyte F2A88XM-D3H                | 1        | 1.11%   |
-| Gigabyte B450M DS3H                 | 1        | 1.11%   |
-| Gigabyte B450 AORUS ELITE           | 1        | 1.11%   |
-| Gigabyte B360N WIFI                 | 1        | 1.11%   |
-| Gigabyte B150M-D3H-CF               | 1        | 1.11%   |
-| Fujitsu CELSIUS W570power           | 1        | 1.11%   |
-| Dell XPS 8700                       | 1        | 1.11%   |
-| Dell Precision T1600                | 1        | 1.11%   |
-| Dell OptiPlex 9020                  | 1        | 1.11%   |
-| Dell OptiPlex 790                   | 1        | 1.11%   |
-| Dell OptiPlex 760                   | 1        | 1.11%   |
-| Dell OptiPlex 7050                  | 1        | 1.11%   |
-| Dell OptiPlex 7040                  | 1        | 1.11%   |
-| Dell OptiPlex 380                   | 1        | 1.11%   |
-| Dell OptiPlex 3040                  | 1        | 1.11%   |
-| ASUS Z170-K                         | 1        | 1.11%   |
-| ASUS ROG STRIX TRX40-E GAMING       | 1        | 1.11%   |
-| ASUS ROG STRIX B450-F GAMING        | 1        | 1.11%   |
-| ASUS ROG STRIX B360-F GAMING        | 1        | 1.11%   |
-| ASUS PRIME Z390M-PLUS               | 1        | 1.11%   |
-| ASUS PRIME X470-PRO                 | 1        | 1.11%   |
 
 Model Family
 ------------
@@ -518,26 +498,6 @@ Motherboard model prefix
 | Gigabyte F2A88XM-D3H  | 1        | 1.11%   |
 | Gigabyte B450M        | 1        | 1.11%   |
 | Gigabyte B450         | 1        | 1.11%   |
-| Gigabyte B360N        | 1        | 1.11%   |
-| Gigabyte B150M-D3H-CF | 1        | 1.11%   |
-| Fujitsu CELSIUS       | 1        | 1.11%   |
-| Dell XPS              | 1        | 1.11%   |
-| Dell Precision        | 1        | 1.11%   |
-| ASUS Z170-K           | 1        | 1.11%   |
-| ASUS P8H77-V          | 1        | 1.11%   |
-| ASUS P8H61-M          | 1        | 1.11%   |
-| ASUS P5E-VM           | 1        | 1.11%   |
-| ASUS M5A99X           | 1        | 1.11%   |
-| ASUS M4A78            | 1        | 1.11%   |
-| ASUS Intel            | 1        | 1.11%   |
-| ASUS H61M-E           | 1        | 1.11%   |
-| ASUS BM6AD            | 1        | 1.11%   |
-| ASRock Z170           | 1        | 1.11%   |
-| ASRock H71M-DGS       | 1        | 1.11%   |
-| ASRock H61M-VG3       | 1        | 1.11%   |
-| ASRock H270M          | 1        | 1.11%   |
-| ASRock B365M          | 1        | 1.11%   |
-| ASRock A300M-STX      | 1        | 1.11%   |
 
 MFG Year
 --------
@@ -550,11 +510,11 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 17       | 18.89%  |
-| 2014 | 13       | 14.44%  |
+| 2014 | 12       | 13.33%  |
 | 2020 | 9        | 10%     |
 | 2019 | 8        | 8.89%   |
 | 2016 | 8        | 8.89%   |
-| 2013 | 7        | 7.78%   |
+| 2013 | 8        | 8.89%   |
 | 2012 | 7        | 7.78%   |
 | 2011 | 5        | 5.56%   |
 | 2009 | 4        | 4.44%   |
@@ -785,26 +745,6 @@ Geographic location (city)
 | Pyrgos Dirou        | 1        | 1.1%    |
 | Pau                 | 1        | 1.1%    |
 | Parma               | 1        | 1.1%    |
-| Ontinyent           | 1        | 1.1%    |
-| Oklahoma City       | 1        | 1.1%    |
-| Nurtingen           | 1        | 1.1%    |
-| Neuffen             | 1        | 1.1%    |
-| Munich              | 1        | 1.1%    |
-| Moscow              | 1        | 1.1%    |
-| Metzingen           | 1        | 1.1%    |
-| Melbourne           | 1        | 1.1%    |
-| MedellГ­n         | 1        | 1.1%    |
-| Madrid              | 1        | 1.1%    |
-| Macatuba            | 1        | 1.1%    |
-| Macao               | 1        | 1.1%    |
-| LГјbeck           | 1        | 1.1%    |
-| Lucca               | 1        | 1.1%    |
-| Lima                | 1        | 1.1%    |
-| Kyiv                | 1        | 1.1%    |
-| Kusatsu-shi         | 1        | 1.1%    |
-| Krasnoyarsk         | 1        | 1.1%    |
-| Krasnodar           | 1        | 1.1%    |
-| Kitchener           | 1        | 1.1%    |
 
 Drives
 ------
@@ -897,26 +837,6 @@ Hard drive models
 | WDC WD5000AAKX-00ERMA0 500GB        | 1        | 0.5%    |
 | WDC WD5000AAKS-00E4A0 500GB         | 1        | 0.5%    |
 | WDC WD5000AADS-00S9B0 500GB         | 1        | 0.5%    |
-| WDC WD40EFRX-68WT0N0 4TB            | 1        | 0.5%    |
-| WDC WD3200AAJS-56M0A0 320GB         | 1        | 0.5%    |
-| WDC WD2500JS-58NCB1 250GB           | 1        | 0.5%    |
-| WDC WD2500BEVT-00A23T0 250GB        | 1        | 0.5%    |
-| WDC WD2500AAKX-75U6AA0 250GB        | 1        | 0.5%    |
-| WDC WD2500AAKX-083CA1 250GB         | 1        | 0.5%    |
-| WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.5%    |
-| WDC WD20EVDS-63T3B0 2TB             | 1        | 0.5%    |
-| WDC WD2002FYPS-01U1B1 2TB           | 1        | 0.5%    |
-| WDC WD1600AABS-61PRA0 160GB         | 1        | 0.5%    |
-| WDC WD10JPVX-22JC3T0 1TB            | 1        | 0.5%    |
-| WDC WD10EZRX-00D8PB0 1TB            | 1        | 0.5%    |
-| WDC WD10EZEX-08WN4A0 1TB            | 1        | 0.5%    |
-| WDC WD10EFRX-68FYTN0 1TB            | 1        | 0.5%    |
-| WDC WD10EAVS-00D7B0 1TB             | 1        | 0.5%    |
-| WDC WD10EARS-00MVWB0 1TB            | 1        | 0.5%    |
-| WDC WD10EARS-003BB1 1TB             | 1        | 0.5%    |
-| Transcend TS128GMTS400 128GB        | 1        | 0.5%    |
-| Toshiba THNSNJ128GCSU 128GB         | 1        | 0.5%    |
-| Toshiba MQ01ABD100 1TB              | 1        | 0.5%    |
 
 HDD Vendor
 ----------
@@ -1227,14 +1147,6 @@ Storage controller models
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 0.71%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 1        | 0.71%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                           | 1        | 0.71%   |
-| Intel 82801IB (ICH9) 2 port SATA Controller [IDE mode]                         | 1        | 0.71%   |
-| Intel 82801I (ICH9 Family) 2 port SATA Controller [IDE mode]                   | 1        | 0.71%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 1        | 0.71%   |
-| Intel 7 Series/C210 Series Chipset Family 4-port SATA Controller [IDE mode]    | 1        | 0.71%   |
-| Intel 7 Series/C210 Series Chipset Family 2-port SATA Controller [IDE mode]    | 1        | 0.71%   |
-| Intel 631xESB/632xESB SATA AHCI Controller                                     | 1        | 0.71%   |
-| Intel 631xESB/632xESB IDE Controller                                           | 1        | 0.71%   |
-| Intel 4 Series Chipset PT IDER Controller                                      | 1        | 0.71%   |
 
 Storage Kind
 ------------
@@ -1276,68 +1188,48 @@ Processor models
 ![CPU Model](./images/pie_chart_bsd/cpu_model.svg)
 
 
-| Model                                          | Desktops | Percent |
-|------------------------------------------------|----------|---------|
-| Intel Core i7-4790 CPU @ 3.60GHz               | 3        | 3.33%   |
-| Intel Core i3-6100T CPU @ 3.20GHz              | 3        | 3.33%   |
-| Intel Core 2 Duo                               | 3        | 3.33%   |
-| AMD Ryzen 5 1600 Six-Core Processor            | 3        | 3.33%   |
-| Intel Core i7-8700 CPU @ 3.20GHz               | 2        | 2.22%   |
-| Intel Core i7-3770K CPU @ 3.50GHz              | 2        | 2.22%   |
-| Intel Core i5-9400 CPU @ 2.90GHz               | 2        | 2.22%   |
-| Intel Core i5-4590 CPU @ 3.30GHz               | 2        | 2.22%   |
-| Intel Core i5-3570K CPU @ 3.40GHz              | 2        | 2.22%   |
-| Intel Core i3-6100 CPU @ 3.70GHz               | 2        | 2.22%   |
-| AMD Ryzen 5 3400G with Radeon Vega Graphics    | 2        | 2.22%   |
-| Intel Xeon CPU X5690 @ 3.47GHz                 | 1        | 1.11%   |
-| Intel Xeon CPU X                               | 1        | 1.11%   |
-| Intel Xeon CPU E5-2620 0 @ 2.00GHz             | 1        | 1.11%   |
-| Intel Xeon CPU E5-1620 @ 3.60GHz               | 1        | 1.11%   |
-| Intel Xeon CPU E31245 @ 3.30GH                 | 1        | 1.11%   |
-| Intel Xeon CPU E3-1265L v3 @ 2.50GHz           | 1        | 1.11%   |
-| Intel Xeon CPU E3-1245 v3 @ 3.40GHz            | 1        | 1.11%   |
-| Intel Pentium Dual-Core CPU E6700 @ 3.20GHz    | 1        | 1.11%   |
-| Intel Pentium Dual-Core CPU E5200 @ 2.50GHz    | 1        | 1.11%   |
-| Intel Pentium CPU G640 @ 2.80GHz               | 1        | 1.11%   |
-| Intel Pentium CPU G620 @ 2.60GHz               | 1        | 1.11%   |
-| Intel Pentium CPU G2030 @ 3.00GHz              | 1        | 1.11%   |
-| Intel Pentium CPU G2020T @ 2.50GHz             | 1        | 1.11%   |
-| Intel Core i7-8700K CPU @ 3.70GHz              | 1        | 1.11%   |
-| Intel Core i7-7700 CPU @ 3.60GHz               | 1        | 1.11%   |
-| Intel Core i7-7500U CPU @ 2.70GHz              | 1        | 1.11%   |
-| Intel Core i7-6700K CPU @ 4.00GHz              | 1        | 1.11%   |
-| Intel Core i7-6700 CPU @ 3.40GHz               | 1        | 1.11%   |
-| Intel Core i7-4790K CPU @ 4.00GHz              | 1        | 1.11%   |
-| Intel Core i7-4770 CPU @ 3.40GHz               | 1        | 1.11%   |
-| Intel Core i7-3770 CPU @ 3.40GHz               | 1        | 1.11%   |
-| Intel Core i7-2600 CPU @ 3.40GH                | 1        | 1.11%   |
-| Intel Core i5-9400F CPU @ 2.90GHz              | 1        | 1.11%   |
-| Intel Core i5-7500 CPU @ 3.40GHz               | 1        | 1.11%   |
-| Intel Core i5-7400 CPU @ 3.00GHz               | 1        | 1.11%   |
-| Intel Core i5-4670K CPU @ 3.40GHz              | 1        | 1.11%   |
-| Intel Core i5-4570T CPU @ 2.90GHz              | 1        | 1.11%   |
-| Intel Core i5-4460T CPU @ 1.90GHz              | 1        | 1.11%   |
-| Intel Core i5-4460 CPU @ 3.20GHz               | 1        | 1.11%   |
-| Intel Core i5-3470 CPU @ 3.20GHz               | 1        | 1.11%   |
-| Intel Core i5-2400S CPU @ 2.50GHz              | 1        | 1.11%   |
-| Intel Core i5-2400 CPU @ 3.10GHz               | 1        | 1.11%   |
-| Intel Core i5 CPU 670 @ 3.47GHz                | 1        | 1.11%   |
-| Intel Core i5 CPU 650 @ 3.20GHz                | 1        | 1.11%   |
-| Intel Core i3-5010U CPU @ 2.10GHz              | 1        | 1.11%   |
-| Intel Core i3-4360 CPU @ 3.70GHz               | 1        | 1.11%   |
-| Intel Core i3-4350 CPU @ 3.60GHz               | 1        | 1.11%   |
-| Intel Core i3-3240 CPU @ 3.40GHz               | 1        | 1.11%   |
-| Intel Core i3-3220 CPU @ 3.30GHz               | 1        | 1.11%   |
-| Intel Core i3-2100 CPU @ 3.10GHz               | 1        | 1.11%   |
-| Intel Core 2 Quad CPU Q9400 @ 2.66GHz          | 1        | 1.11%   |
-| Intel Core 2 Duo CPU E7500 @ 2.93GHz           | 1        | 1.11%   |
-| Intel Core 2 Duo CPU E7200 @ 2.53GHz           | 1        | 1.11%   |
-| Intel Celeron J4115 CPU @ 1.80GHz              | 1        | 1.11%   |
-| Intel Celeron CPU G1840 @ 2.80GHz              | 1        | 1.11%   |
-| Intel Celeron 2955U @ 1.40GHz                  | 1        | 1.11%   |
-| AMD Ryzen Threadripper 3970X 32-Core Processor | 1        | 1.11%   |
-| AMD Ryzen Threadripper 3960X 24-Core Processor | 1        | 1.11%   |
-| AMD Ryzen 7 3800X 8-Core Processor             | 1        | 1.11%   |
+| Model                                       | Desktops | Percent |
+|---------------------------------------------|----------|---------|
+| Intel Core i7-4790 CPU @ 3.60GHz            | 3        | 3.33%   |
+| Intel Core i3-6100T CPU @ 3.20GHz           | 3        | 3.33%   |
+| Intel Core 2 Duo                            | 3        | 3.33%   |
+| AMD Ryzen 5 1600 Six-Core Processor         | 3        | 3.33%   |
+| Intel Core i7-8700 CPU @ 3.20GHz            | 2        | 2.22%   |
+| Intel Core i7-3770K CPU @ 3.50GHz           | 2        | 2.22%   |
+| Intel Core i5-9400 CPU @ 2.90GHz            | 2        | 2.22%   |
+| Intel Core i5-4590 CPU @ 3.30GHz            | 2        | 2.22%   |
+| Intel Core i5-3570K CPU @ 3.40GHz           | 2        | 2.22%   |
+| Intel Core i3-6100 CPU @ 3.70GHz            | 2        | 2.22%   |
+| AMD Ryzen 5 3400G with Radeon Vega Graphics | 2        | 2.22%   |
+| Intel Xeon CPU X5690 @ 3.47GHz              | 1        | 1.11%   |
+| Intel Xeon CPU X                            | 1        | 1.11%   |
+| Intel Xeon CPU E5-2620 0 @ 2.00GHz          | 1        | 1.11%   |
+| Intel Xeon CPU E5-1620 @ 3.60GHz            | 1        | 1.11%   |
+| Intel Xeon CPU E31245 @ 3.30GH              | 1        | 1.11%   |
+| Intel Xeon CPU E3-1265L v3 @ 2.50GHz        | 1        | 1.11%   |
+| Intel Xeon CPU E3-1245 v3 @ 3.40GHz         | 1        | 1.11%   |
+| Intel Pentium Dual-Core CPU E6700 @ 3.20GHz | 1        | 1.11%   |
+| Intel Pentium Dual-Core CPU E5200 @ 2.50GHz | 1        | 1.11%   |
+| Intel Pentium CPU G640 @ 2.80GHz            | 1        | 1.11%   |
+| Intel Pentium CPU G620 @ 2.60GHz            | 1        | 1.11%   |
+| Intel Pentium CPU G2030 @ 3.00GHz           | 1        | 1.11%   |
+| Intel Pentium CPU G2020T @ 2.50GHz          | 1        | 1.11%   |
+| Intel Core i7-8700K CPU @ 3.70GHz           | 1        | 1.11%   |
+| Intel Core i7-7700 CPU @ 3.60GHz            | 1        | 1.11%   |
+| Intel Core i7-7500U CPU @ 2.70GHz           | 1        | 1.11%   |
+| Intel Core i7-6700K CPU @ 4.00GHz           | 1        | 1.11%   |
+| Intel Core i7-6700 CPU @ 3.40GHz            | 1        | 1.11%   |
+| Intel Core i7-4790K CPU @ 4.00GHz           | 1        | 1.11%   |
+| Intel Core i7-4770 CPU @ 3.40GHz            | 1        | 1.11%   |
+| Intel Core i7-3770 CPU @ 3.40GHz            | 1        | 1.11%   |
+| Intel Core i7-2600 CPU @ 3.40GH             | 1        | 1.11%   |
+| Intel Core i5-9400F CPU @ 2.90GHz           | 1        | 1.11%   |
+| Intel Core i5-7500 CPU @ 3.40GHz            | 1        | 1.11%   |
+| Intel Core i5-7400 CPU @ 3.00GHz            | 1        | 1.11%   |
+| Intel Core i5-4670K CPU @ 3.40GHz           | 1        | 1.11%   |
+| Intel Core i5-4570T CPU @ 2.90GHz           | 1        | 1.11%   |
+| Intel Core i5-4460T CPU @ 1.90GHz           | 1        | 1.11%   |
+| Intel Core i5-4460 CPU @ 3.20GHz            | 1        | 1.11%   |
 
 CPU Model Family
 ----------------
@@ -1507,25 +1399,6 @@ Graphics card models
 | Nvidia G98 [GeForce 8400 GS Rev. 2]                                         | 1        | 1%      |
 | Nvidia G72 [GeForce 7300 LE]                                                | 1        | 1%      |
 | Intel Xeon E3-1200 v3 Processor Integrated Graphics Controller              | 1        | 1%      |
-| Intel HD Graphics 620                                                       | 1        | 1%      |
-| Intel HD Graphics 5500                                                      | 1        | 1%      |
-| Intel Haswell-ULT Integrated Graphics Controller                            | 1        | 1%      |
-| Intel GeminiLake [UHD Graphics 600]                                         | 1        | 1%      |
-| Intel Core Processor Integrated Graphics Controller                         | 1        | 1%      |
-| AMD Turks PRO [Radeon HD 6570/7570/8550 / R5 230]                           | 1        | 1%      |
-| AMD RV710 [Radeon HD 4350/4550]                                             | 1        | 1%      |
-| AMD Richland [Radeon HD 8570D]                                              | 1        | 1%      |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 1        | 1%      |
-| AMD Park [Mobility Radeon HD 5430]                                          | 1        | 1%      |
-| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 1        | 1%      |
-| AMD Navi 14 [Radeon RX 5500/5500M / Pro 5500M]                              | 1        | 1%      |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 1        | 1%      |
-| AMD Juniper XT [Radeon HD 5770]                                             | 1        | 1%      |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                            | 1        | 1%      |
-| AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X]                           | 1        | 1%      |
-| AMD Cape Verde PRO [Radeon HD 7750/8740 / R7 250E]                          | 1        | 1%      |
-| AMD Caicos [Radeon HD 6450/7450/8450 / R5 230 OEM]                          | 1        | 1%      |
-| AMD Baffin [Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X]         | 1        | 1%      |
 
 GPU Combo
 ---------
@@ -1621,68 +1494,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart_bsd/mon_model.svg)
 
 
-| Model                                                                 | Desktops | Percent |
-|-----------------------------------------------------------------------|----------|---------|
-| Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                  | 2        | 2.99%   |
-| ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch              | 1        | 1.49%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch    | 1        | 1.49%   |
-| Toshiba TV TSB0218 3840x2160                                          | 1        | 1.49%   |
-| Sony TV SNY9C01 1360x768                                              | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM0600 1600x900 440x250mm 19.9-inch   | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM05C5 1920x1080                      | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM036C 1920x1200 550x340mm 25.5-inch  | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM0364 1360x768 340x190mm 15.3-inch   | 1        | 1.49%   |
-| Samsung Electronics SyncMaster SAM0304 1680x1050 490x320mm 23.0-inch  | 1        | 1.49%   |
-| Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch    | 1        | 1.49%   |
-| Samsung Electronics S24E390 SAM0C1A 1920x1080 520x290mm 23.4-inch     | 1        | 1.49%   |
-| Samsung Electronics LCD Monitor SAM03A2 1440x900 410x260mm 19.1-inch  | 1        | 1.49%   |
-| PRI LED-MONITOR PRI0828 3840x2160 1150x650mm 52.0-inch                | 1        | 1.49%   |
-| Philips PHL 278E9Q PHLC17F 1920x1080 600x340mm 27.2-inch              | 1        | 1.49%   |
-| Philips LCD Monitor PHLC0B1 1920x1080 480x270mm 21.7-inch             | 1        | 1.49%   |
-| Packard Bell Viseo223DX PKB0385 1920x1080 480x270mm 21.7-inch         | 1        | 1.49%   |
-| Packard Bell Viseo 200Ws PKB00C2 1600x900 440x250mm 19.9-inch         | 1        | 1.49%   |
-| Lenovo LCD Monitor LEN60A1 1920x1080 480x270mm 21.7-inch              | 1        | 1.49%   |
-| Lenovo C24-25 LEN66B0 1920x1080 530x300mm 24.0-inch                   | 1        | 1.49%   |
-| KJT KJT4K2K60DP KJT5AFD 3840x2160 600x340mm 27.2-inch                 | 1        | 1.49%   |
-| Iiyama PLG2888UH IVM710C 3840x2160 620x340mm 27.8-inch                | 1        | 1.49%   |
-| Hewlett-Packard w1907 HWP26A3 1440x900 410x260mm 19.1-inch            | 1        | 1.49%   |
-| Hewlett-Packard LCD Monitor HWP2915 1920x1080 510x290mm 23.1-inch     | 1        | 1.49%   |
-| Hewlett-Packard LA2405 HWP284A 1920x1200 520x320mm 24.0-inch          | 1        | 1.49%   |
-| Hewlett-Packard All-in-One HWP4253 1920x1080 510x290mm 23.1-inch      | 1        | 1.49%   |
-| Hewlett-Packard 27f HPN354A 1920x1080 600x340mm 27.2-inch             | 1        | 1.49%   |
-| Hewlett-Packard 27er HWP3325 1920x1080 600x340mm 27.2-inch            | 1        | 1.49%   |
-| Hewlett-Packard 23xi HWP3031 1920x1080 510x290mm 23.1-inch            | 1        | 1.49%   |
-| Hewlett-Packard 22cw HWP3183 1920x1080 480x270mm 21.7-inch            | 1        | 1.49%   |
-| HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch            | 1        | 1.49%   |
-| Goldstar W1942 GSM4B6F 1440x900 410x260mm 19.1-inch                   | 1        | 1.49%   |
-| Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                  | 1        | 1.49%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch           | 1        | 1.49%   |
-| Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch            | 1        | 1.49%   |
-| Goldstar LG FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch             | 1        | 1.49%   |
-| Goldstar L1953TR GSM4B44 1280x1024 340x270mm 17.1-inch                | 1        | 1.49%   |
-| Goldstar L1950H GSM4AA2 1280x1024 380x300mm 19.1-inch                 | 1        | 1.49%   |
-| Goldstar E2340 GSM57C7 1920x1080 510x290mm 23.1-inch                  | 1        | 1.49%   |
-| Goldstar E2242 GSM58BE 1920x1080 480x270mm 21.7-inch                  | 1        | 1.49%   |
-| Goldstar 2D FHD LG TV GSM59C4 1920x1080 510x290mm 23.1-inch           | 1        | 1.49%   |
-| Eizo EV2303W ENC2060 1920x1080 510x290mm 23.1-inch                    | 1        | 1.49%   |
-| Eizo CS2731 ENC3071 2560x1440 600x340mm 27.2-inch                     | 1        | 1.49%   |
-| Dell U3415W DELA0A6 3440x1440 800x330mm 34.1-inch                     | 1        | 1.49%   |
-| Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                     | 1        | 1.49%   |
-| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                     | 1        | 1.49%   |
-| Dell S2716DG DELA0D1 2560x1440 600x340mm 27.2-inch                    | 1        | 1.49%   |
-| Dell P2416D DELA0C2 2048x1152 530x300mm 24.0-inch                     | 1        | 1.49%   |
-| Dell P1917S DELD092 1280x1024 380x300mm 19.1-inch                     | 1        | 1.49%   |
-| Dell LCD Monitor DELA0FA 3440x1440 800x340mm 34.2-inch                | 1        | 1.49%   |
-| Dell G2410 DEL404A 1920x1080 530x300mm 24.0-inch                      | 1        | 1.49%   |
-| Dell E1916H DELF065 1366x768 410x230mm 18.5-inch                      | 1        | 1.49%   |
-| BenQ GL2450 BNQ78A4 1920x1080 530x300mm 24.0-inch                     | 1        | 1.49%   |
-| BenQ GL2240 BNQ7887 1920x1080 480x270mm 21.7-inch                     | 1        | 1.49%   |
-| BenQ G2250 BNQ789D 1920x1080 480x270mm 21.7-inch                      | 1        | 1.49%   |
-| ASUSTek Computer VG248 AUS24C2 1920x1080 530x300mm 24.0-inch          | 1        | 1.49%   |
-| AOC 2770 AOC2770 1920x1080 600x340mm 27.2-inch                        | 1        | 1.49%   |
-| Ancor Communications VS278 ACI27A1 1920x1080 600x340mm 27.2-inch      | 1        | 1.49%   |
-| Ancor Communications ASUS VS228 ACI22FD 1920x1080 480x270mm 21.7-inch | 1        | 1.49%   |
-| Ancor Communications ASUS MX239 ACI23C2 1920x1080 530x310mm 24.2-inch | 1        | 1.49%   |
+| Model                                                                | Desktops | Percent |
+|----------------------------------------------------------------------|----------|---------|
+| Goldstar E2441 GSM581F 1920x1080 530x300mm 24.0-inch                 | 2        | 2.99%   |
+| ViewSonic VX2433wm VSC3822 1920x1080 520x290mm 23.4-inch             | 1        | 1.49%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch   | 1        | 1.49%   |
+| Toshiba TV TSB0218 3840x2160                                         | 1        | 1.49%   |
+| Sony TV SNY9C01 1360x768                                             | 1        | 1.49%   |
+| Samsung Electronics SyncMaster SAM0600 1600x900 440x250mm 19.9-inch  | 1        | 1.49%   |
+| Samsung Electronics SyncMaster SAM05C5 1920x1080                     | 1        | 1.49%   |
+| Samsung Electronics SyncMaster SAM036C 1920x1200 550x340mm 25.5-inch | 1        | 1.49%   |
+| Samsung Electronics SyncMaster SAM0364 1360x768 340x190mm 15.3-inch  | 1        | 1.49%   |
+| Samsung Electronics SyncMaster SAM0304 1680x1050 490x320mm 23.0-inch | 1        | 1.49%   |
+| Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch   | 1        | 1.49%   |
+| Samsung Electronics S24E390 SAM0C1A 1920x1080 520x290mm 23.4-inch    | 1        | 1.49%   |
+| Samsung Electronics LCD Monitor SAM03A2 1440x900 410x260mm 19.1-inch | 1        | 1.49%   |
+| PRI LED-MONITOR PRI0828 3840x2160 1150x650mm 52.0-inch               | 1        | 1.49%   |
+| Philips PHL 278E9Q PHLC17F 1920x1080 600x340mm 27.2-inch             | 1        | 1.49%   |
+| Philips LCD Monitor PHLC0B1 1920x1080 480x270mm 21.7-inch            | 1        | 1.49%   |
+| Packard Bell Viseo223DX PKB0385 1920x1080 480x270mm 21.7-inch        | 1        | 1.49%   |
+| Packard Bell Viseo 200Ws PKB00C2 1600x900 440x250mm 19.9-inch        | 1        | 1.49%   |
+| Lenovo LCD Monitor LEN60A1 1920x1080 480x270mm 21.7-inch             | 1        | 1.49%   |
+| Lenovo C24-25 LEN66B0 1920x1080 530x300mm 24.0-inch                  | 1        | 1.49%   |
+| KJT KJT4K2K60DP KJT5AFD 3840x2160 600x340mm 27.2-inch                | 1        | 1.49%   |
+| Iiyama PLG2888UH IVM710C 3840x2160 620x340mm 27.8-inch               | 1        | 1.49%   |
+| Hewlett-Packard w1907 HWP26A3 1440x900 410x260mm 19.1-inch           | 1        | 1.49%   |
+| Hewlett-Packard LCD Monitor HWP2915 1920x1080 510x290mm 23.1-inch    | 1        | 1.49%   |
+| Hewlett-Packard LA2405 HWP284A 1920x1200 520x320mm 24.0-inch         | 1        | 1.49%   |
+| Hewlett-Packard All-in-One HWP4253 1920x1080 510x290mm 23.1-inch     | 1        | 1.49%   |
+| Hewlett-Packard 27f HPN354A 1920x1080 600x340mm 27.2-inch            | 1        | 1.49%   |
+| Hewlett-Packard 27er HWP3325 1920x1080 600x340mm 27.2-inch           | 1        | 1.49%   |
+| Hewlett-Packard 23xi HWP3031 1920x1080 510x290mm 23.1-inch           | 1        | 1.49%   |
+| Hewlett-Packard 22cw HWP3183 1920x1080 480x270mm 21.7-inch           | 1        | 1.49%   |
+| HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch           | 1        | 1.49%   |
+| Goldstar W1942 GSM4B6F 1440x900 410x260mm 19.1-inch                  | 1        | 1.49%   |
+| Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                 | 1        | 1.49%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch          | 1        | 1.49%   |
+| Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch           | 1        | 1.49%   |
+| Goldstar LG FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch            | 1        | 1.49%   |
+| Goldstar L1953TR GSM4B44 1280x1024 340x270mm 17.1-inch               | 1        | 1.49%   |
+| Goldstar L1950H GSM4AA2 1280x1024 380x300mm 19.1-inch                | 1        | 1.49%   |
+| Goldstar E2340 GSM57C7 1920x1080 510x290mm 23.1-inch                 | 1        | 1.49%   |
+| Goldstar E2242 GSM58BE 1920x1080 480x270mm 21.7-inch                 | 1        | 1.49%   |
 
 Monitor Resolution
 ------------------
@@ -1895,19 +1748,6 @@ Controller models
 | Intel Ethernet Connection (5) I219-LM                                                 | 1        | 0.81%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                      | 1        | 0.81%   |
 | Intel Centrino Wireless-N 2230                                                        | 1        | 0.81%   |
-| Intel Centrino Advanced-N 6230 [Rainbow Peak]                                         | 1        | 0.81%   |
-| Intel 82579V Gigabit Network Connection                                               | 1        | 0.81%   |
-| Intel 82574L Gigabit Network Connection                                               | 1        | 0.81%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)         | 1        | 0.81%   |
-| Intel 82567LM-3 Gigabit Network Connection                                            | 1        | 0.81%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                                                  | 1        | 0.81%   |
-| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                                | 1        | 0.81%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                                       | 1        | 0.81%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                       | 1        | 0.81%   |
-| Broadcom BCM43224 802.11a/b/g/n                                                       | 1        | 0.81%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 1        | 0.81%   |
-| Broadcom 802.11ac Network Adapter                                                     | 1        | 0.81%   |
-| Bluegiga BLED112 Bluetooth 4.0 Single Mode Dongle                                     | 1        | 0.81%   |
 
 Wireless Vendor
 ---------------
@@ -2194,26 +2034,6 @@ Sound card models
 | Nvidia High Definition Audio Controller                                    | 1        | 0.56%   |
 | Nvidia GM204 High Definition Audio Controller                              | 1        | 0.56%   |
 | Nvidia GK110 High Definition Audio Controller                              | 1        | 0.56%   |
-| Nvidia GF106 High Definition Audio Controller                              | 1        | 0.56%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                    | 1        | 0.56%   |
-| Intel Sunrise Point-LP HD Audio                                            | 1        | 0.56%   |
-| Intel Haswell-ULT HD Audio Controller                                      | 1        | 0.56%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio               | 1        | 0.56%   |
-| Intel Broadwell-U Audio Controller                                         | 1        | 0.56%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 0.56%   |
-| Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 0.56%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 0.56%   |
-| Intel 8 Series HD Audio Controller                                         | 1        | 0.56%   |
-| Intel 631xESB/632xESB High Definition Audio Controller                     | 1        | 0.56%   |
-| Griffin Technology iMic                                                    | 1        | 0.56%   |
-| GN Netcom GN 8110 USB                                                      | 1        | 0.56%   |
-| Giga-Byte Technology USB Audio                                             | 1        | 0.56%   |
-| Elgato Systems Elgato Wave:3 Elgato Wave:3 Controls Elgato Wave:3 DFU      | 1        | 0.56%   |
-| Creative Labs EMU20k1 [Sound Blaster X-Fi Series]                          | 1        | 0.56%   |
-| Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1        | 0.56%   |
-| C-Media Electronics USB Audio Class 1.0 and 2.0 Device                     | 1        | 0.56%   |
-| C-Media Electronics CMI8738/CMI8768 PCI Audio                              | 1        | 0.56%   |
-| C-Media Electronics CM108 Audio Controller                                 | 1        | 0.56%   |
 
 Memory
 ------
@@ -2289,7 +2109,7 @@ Memory module models
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1        | 0.84%   |
 | Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s      | 1        | 0.84%   |
 | Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s                 | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2048MB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
@@ -2297,26 +2117,6 @@ Memory module models
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s               | 1        | 0.84%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 0.84%   |
-| Ramos RAM EWB8GB681PAE-16IC 8192MB DIMM DDR3 1600MT/s             | 1        | 0.84%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                | 1        | 0.84%   |
-| Nanya RAM 99P5471-039.A00LF 8192MB DIMM DDR3 1067MT/s             | 1        | 0.84%   |
-| Micron RAM Module 4096MB FB-DIMM DDR2 667MT/s                     | 1        | 0.84%   |
-| Micron RAM CT102464BD160B.C16 8192MB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
-| Micron RAM 9KSF25672AZ-1G6K1 2GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s             | 1        | 0.84%   |
-| Micron RAM 8KTF51264HZ-1G6J1 4096MB SODIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s              | 1        | 0.84%   |
-| Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s             | 1        | 0.84%   |
-| Micron RAM 16JTF1G64AZ-1G6E1 8GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| KomputerBay RAM KB_8G_D3_1600_C10 8192MB DIMM DDR3 1600MT/s       | 1        | 0.84%   |
-| Kingston RAM MSI24D4U7S8MB-8 8192MB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
-| Kingston RAM KHX1866C10D3/4G 4GB DIMM DDR3 1867MT/s               | 1        | 0.84%   |
-| Kingston RAM CBD24D4S7S8MA-8 8192MB SODIMM DDR4 2400MT/s          | 1        | 0.84%   |
-| Kingston RAM 99U5584-007.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.84%   |
-| Kingston RAM 99U5474-037.A00LF 4096MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s             | 1        | 0.84%   |
-| Kingston RAM 99U5471-054.A00LF 8GB DIMM DDR3 1600MT/s             | 1        | 0.84%   |
 
 Memory Kind
 -----------

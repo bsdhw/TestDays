@@ -451,68 +451,48 @@ Motherboard model
 ![Model](./images/pie_chart_bsd/node_model.svg)
 
 
-| Name                                    | Desktops | Percent |
-|-----------------------------------------|----------|---------|
-| PC Engines APU2                         | 13       | 11.93%  |
-| Unknown                                 | 7        | 6.42%   |
-| PC Engines apu4                         | 4        | 3.67%   |
-| PC Engines apu1                         | 4        | 3.67%   |
-| Dell PowerEdge R620                     | 4        | 3.67%   |
-| RPi Raspberry Pi 4 Model B              | 2        | 1.83%   |
-| ASUS PRIME X370-PRO                     | 2        | 1.83%   |
-| ASUS All Series                         | 2        | 1.83%   |
-| ZOTAC XXXXXX                            | 1        | 0.92%   |
-| Supermicro X8STi                        | 1        | 0.92%   |
-| Supermicro X8DTH-i/6/iF/6F              | 1        | 0.92%   |
-| Supermicro X11SSW-F                     | 1        | 0.92%   |
-| Supermicro X11DDW-L                     | 1        | 0.92%   |
-| Sun SUNW,Sun-Blade-1500                 | 1        | 0.92%   |
-| Sun SUNW,Sun-Blade-100                  | 1        | 0.92%   |
-| Soekris Engineering net6501             | 1        | 0.92%   |
-| Soekris Engineering net5501             | 1        | 0.92%   |
-| Shuttle DS77U                           | 1        | 0.92%   |
-| Pegatron SKLD4-P1                       | 1        | 0.92%   |
-| PC Engines APU3                         | 1        | 0.92%   |
-| PC Engines APU                          | 1        | 0.92%   |
-| MSI MS-B09012                           | 1        | 0.92%   |
-| MSI MS-7A34                             | 1        | 0.92%   |
-| MSI MS-7816                             | 1        | 0.92%   |
-| MSI MS-7345                             | 1        | 0.92%   |
-| Lenovo ThinkPad T440p 20AWS1HL00        | 1        | 0.92%   |
-| Lenovo ThinkCentre M93p 10AAS25M00      | 1        | 0.92%   |
-| Lenovo ThinkCentre M93p 10AAS1MD00      | 1        | 0.92%   |
-| Lenovo ThinkCentre M93p 10A8S0CE09      | 1        | 0.92%   |
-| Lenovo ThinkCentre M92p 3212AD2         | 1        | 0.92%   |
-| Intel S3000AH                           | 1        | 0.92%   |
-| Intel D945GCLF2                         | 1        | 0.92%   |
-| Intel D2500HN                           | 1        | 0.92%   |
-| Intel CRESCENTBAY                       | 1        | 0.92%   |
-| IBM 81832BG                             | 1        | 0.92%   |
-| IBM 8173KUB                             | 1        | 0.92%   |
-| HP ProLiant MicroServer                 | 1        | 0.92%   |
-| HP Compaq dc7800 Small Form Factor      | 1        | 0.92%   |
-| HP 120-1136                             | 1        | 0.92%   |
-| HARDKERNEL ODROID-H2                    | 1        | 0.92%   |
-| Gigabyte Z68A-D3H-B3                    | 1        | 0.92%   |
-| Gigabyte X58A-UD5                       | 1        | 0.92%   |
-| Gigabyte X570 AORUS ELITE               | 1        | 0.92%   |
-| Gigabyte M61SME-S2L                     | 1        | 0.92%   |
-| Gigabyte GB-BXBT-2807                   | 1        | 0.92%   |
-| Gigabyte GA-MA770T-UD3P                 | 1        | 0.92%   |
-| Gigabyte 970A-DS3P                      | 1        | 0.92%   |
-| Foxconn AT-7000 Series                  | 1        | 0.92%   |
-| eMachines EL1200                        | 1        | 0.92%   |
-| ECT One AMD A10-7850K, 4                | 1        | 0.92%   |
-| ECS BSWI-D2                             | 1        | 0.92%   |
-| Dell Precision WorkStation T7500        | 1        | 0.92%   |
-| Dell PowerEdge T320                     | 1        | 0.92%   |
-| Dell PowerEdge R610                     | 1        | 0.92%   |
-| Dell PowerEdge R230                     | 1        | 0.92%   |
-| Dell PowerEdge 1950                     | 1        | 0.92%   |
-| Dell OptiPlex 7020                      | 1        | 0.92%   |
-| Dell OptiPlex 3060                      | 1        | 0.92%   |
-| Bluechip bluechip BUSINESSline Workstat | 1        | 0.92%   |
-| AZW Z83 II                              | 1        | 0.92%   |
+| Name                               | Desktops | Percent |
+|------------------------------------|----------|---------|
+| PC Engines APU2                    | 13       | 11.93%  |
+| Unknown                            | 7        | 6.42%   |
+| PC Engines apu4                    | 4        | 3.67%   |
+| PC Engines apu1                    | 4        | 3.67%   |
+| Dell PowerEdge R620                | 4        | 3.67%   |
+| RPi Raspberry Pi 4 Model B         | 2        | 1.83%   |
+| ASUS PRIME X370-PRO                | 2        | 1.83%   |
+| ASUS All Series                    | 2        | 1.83%   |
+| ZOTAC XXXXXX                       | 1        | 0.92%   |
+| Supermicro X8STi                   | 1        | 0.92%   |
+| Supermicro X8DTH-i/6/iF/6F         | 1        | 0.92%   |
+| Supermicro X11SSW-F                | 1        | 0.92%   |
+| Supermicro X11DDW-L                | 1        | 0.92%   |
+| Sun SUNW,Sun-Blade-1500            | 1        | 0.92%   |
+| Sun SUNW,Sun-Blade-100             | 1        | 0.92%   |
+| Soekris Engineering net6501        | 1        | 0.92%   |
+| Soekris Engineering net5501        | 1        | 0.92%   |
+| Shuttle DS77U                      | 1        | 0.92%   |
+| Pegatron SKLD4-P1                  | 1        | 0.92%   |
+| PC Engines APU3                    | 1        | 0.92%   |
+| PC Engines APU                     | 1        | 0.92%   |
+| MSI MS-B09012                      | 1        | 0.92%   |
+| MSI MS-7A34                        | 1        | 0.92%   |
+| MSI MS-7816                        | 1        | 0.92%   |
+| MSI MS-7345                        | 1        | 0.92%   |
+| Lenovo ThinkPad T440p 20AWS1HL00   | 1        | 0.92%   |
+| Lenovo ThinkCentre M93p 10AAS25M00 | 1        | 0.92%   |
+| Lenovo ThinkCentre M93p 10AAS1MD00 | 1        | 0.92%   |
+| Lenovo ThinkCentre M93p 10A8S0CE09 | 1        | 0.92%   |
+| Lenovo ThinkCentre M92p 3212AD2    | 1        | 0.92%   |
+| Intel S3000AH                      | 1        | 0.92%   |
+| Intel D945GCLF2                    | 1        | 0.92%   |
+| Intel D2500HN                      | 1        | 0.92%   |
+| Intel CRESCENTBAY                  | 1        | 0.92%   |
+| IBM 81832BG                        | 1        | 0.92%   |
+| IBM 8173KUB                        | 1        | 0.92%   |
+| HP ProLiant MicroServer            | 1        | 0.92%   |
+| HP Compaq dc7800 Small Form Factor | 1        | 0.92%   |
+| HP 120-1136                        | 1        | 0.92%   |
+| HARDKERNEL ODROID-H2               | 1        | 0.92%   |
 
 Model Family
 ------------
@@ -564,26 +544,6 @@ Motherboard model prefix
 | Gigabyte Z68A-D3H-B3        | 1        | 0.92%   |
 | Gigabyte X58A-UD5           | 1        | 0.92%   |
 | Gigabyte X570               | 1        | 0.92%   |
-| Gigabyte M61SME-S2L         | 1        | 0.92%   |
-| Gigabyte GB-BXBT-2807       | 1        | 0.92%   |
-| Gigabyte GA-MA770T-UD3P     | 1        | 0.92%   |
-| Gigabyte 970A-DS3P          | 1        | 0.92%   |
-| Foxconn AT-7000             | 1        | 0.92%   |
-| eMachines EL1200            | 1        | 0.92%   |
-| ECT One                     | 1        | 0.92%   |
-| ECS BSWI-D2                 | 1        | 0.92%   |
-| Dell Precision              | 1        | 0.92%   |
-| Bluechip bluechip           | 1        | 0.92%   |
-| AZW Z83                     | 1        | 0.92%   |
-| ASUS Z170-K                 | 1        | 0.92%   |
-| ASUS P4P800-VM              | 1        | 0.92%   |
-| ASUS P10S-I                 | 1        | 0.92%   |
-| ASUS B75M-A                 | 1        | 0.92%   |
-| ASRock X99                  | 1        | 0.92%   |
-| ASRock N68C-S               | 1        | 0.92%   |
-| ASRock N3160                | 1        | 0.92%   |
-| ASRock J4205-ITX            | 1        | 0.92%   |
-| ASRock IMB-191              | 1        | 0.92%   |
 
 MFG Year
 --------
@@ -597,13 +557,13 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2016    | 17       | 15.6%   |
 | 2018    | 15       | 13.76%  |
-| 2019    | 12       | 11.01%  |
+| 2019    | 11       | 10.09%  |
 | 2014    | 9        | 8.26%   |
 | Unknown | 8        | 7.34%   |
 | 2020    | 7        | 6.42%   |
 | 2017    | 7        | 6.42%   |
 | 2013    | 7        | 6.42%   |
-| 2012    | 6        | 5.5%    |
+| 2012    | 7        | 6.42%   |
 | 2011    | 5        | 4.59%   |
 | 2008    | 4        | 3.67%   |
 | 2015    | 3        | 2.75%   |
@@ -844,26 +804,6 @@ Geographic location (city)
 | Oslo                       | 1        | 0.91%   |
 | Ockenheim                  | 1        | 0.91%   |
 | NГ©rac                   | 1        | 0.91%   |
-| Nuremberg                  | 1        | 0.91%   |
-| Nantes                     | 1        | 0.91%   |
-| Munich                     | 1        | 0.91%   |
-| Menifee                    | 1        | 0.91%   |
-| Lyon                       | 1        | 0.91%   |
-| Liverpool                  | 1        | 0.91%   |
-| Lipetsk                    | 1        | 0.91%   |
-| Linz                       | 1        | 0.91%   |
-| Leipzig                    | 1        | 0.91%   |
-| Kouvola                    | 1        | 0.91%   |
-| Kirov                      | 1        | 0.91%   |
-| Kenosha                    | 1        | 0.91%   |
-| Katy                       | 1        | 0.91%   |
-| Katikati                   | 1        | 0.91%   |
-| Karlsruhe                  | 1        | 0.91%   |
-| Jakarta                    | 1        | 0.91%   |
-| Independence               | 1        | 0.91%   |
-| Harrisburg                 | 1        | 0.91%   |
-| Gummersbach                | 1        | 0.91%   |
-| Gdansk                     | 1        | 0.91%   |
 
 Drives
 ------
@@ -964,26 +904,6 @@ Hard drive models
 | WDC WD1500HLFS-01G6U4 150GB        | 1        | 0.58%   |
 | WDC WD10SPZX-24Z10 1TB             | 1        | 0.58%   |
 | WDC WD10PURX-64D85Y0 1TB           | 1        | 0.58%   |
-| WDC WD10EZEX-22MFCA0 1TB           | 1        | 0.58%   |
-| WDC WD10EZEX-00MFCA0 1TB           | 1        | 0.58%   |
-| WDC WD10EALX-009BA0 1TB            | 1        | 0.58%   |
-| WDC WD10EADS-00M2B0 1TB            | 1        | 0.58%   |
-| WDC WD easystore 25FA 2TB          | 1        | 0.58%   |
-| Transcend TS64GMSA370S 64GB        | 1        | 0.58%   |
-| Transcend TS64GMSA370 64GB         | 1        | 0.58%   |
-| Transcend TS512GMSA370 512GB       | 1        | 0.58%   |
-| Transcend TS32GMSA370 32GB         | 1        | 0.58%   |
-| Transcend 3E128-TS2-550B01 100GB   | 1        | 0.58%   |
-| SK hynix HFS256G3AMNB-2200A 256GB  | 1        | 0.58%   |
-| Seagate ST9500325AS 500GB          | 1        | 0.58%   |
-| Seagate ST8000VX0022-2EJ112 8TB    | 1        | 0.58%   |
-| Seagate ST6000NM0115-1YZ110 6TB    | 1        | 0.58%   |
-| Seagate ST4000DM005-2DP166 4TB     | 1        | 0.58%   |
-| Seagate ST4000DM004-2CV104 4TB     | 1        | 0.58%   |
-| Seagate ST4000DM000-1F2168 4TB     | 1        | 0.58%   |
-| Seagate ST3750640NS 752GB          | 1        | 0.58%   |
-| Seagate ST3320820A 320GB           | 1        | 0.58%   |
-| Seagate ST3320418AS 320GB          | 1        | 0.58%   |
 
 HDD Vendor
 ----------
@@ -1313,26 +1233,6 @@ Storage controller models
 | Intel SSD Pro 7600p/760p/E 6100p Series                                          | 1        | 0.67%   |
 | Intel Platform Controller Hub EG20T SATA AHCI Controller                         | 1        | 0.67%   |
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                    | 1        | 0.67%   |
-| Intel C620 Series Chipset Family SATA Controller [AHCI mode]                     | 1        | 0.67%   |
-| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                       | 1        | 0.67%   |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                        | 1        | 0.67%   |
-| Intel 82Q35 Express PT IDER Controller                                           | 1        | 0.67%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                       | 1        | 0.67%   |
-| Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                       | 1        | 0.67%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]             | 1        | 0.67%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 4 port SATA Controller [IDE mode]              | 1        | 0.67%   |
-| Intel 82801IB (ICH9) 2 port SATA Controller [IDE mode]                           | 1        | 0.67%   |
-| Intel 82801I (ICH9 Family) 2 port SATA Controller [IDE mode]                     | 1        | 0.67%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) IDE Controller                         | 1        | 0.67%   |
-| Intel 82371AB/EB/MB PIIX4 IDE                                                    | 1        | 0.67%   |
-| Intel 8 Series/C220 Series Chipset Family IDE-r Controller                       | 1        | 0.67%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 1        | 0.67%   |
-| Intel 631xESB/632xESB IDE Controller                                             | 1        | 0.67%   |
-| Intel 6 Series/C200 Series Chipset Family IDE-r Controller                       | 1        | 0.67%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                 | 1        | 0.67%   |
-| Dell PowerEdge Expandable RAID controller 5                                      | 1        | 0.67%   |
-| Broadcom / LSI SSS6200 PCI-Express Flash SSD                                     | 1        | 0.67%   |
-| Broadcom / LSI SAS1064ET PCI-Express Fusion-MPT SAS                              | 1        | 0.67%   |
 
 Storage Kind
 ------------
@@ -1420,26 +1320,6 @@ Processor models
 | Intel Core i7-6850K CPU @ 3.60GHz                        | 1        | 0.92%   |
 | Intel Core i7-6700 CPU @ 3.40GHz                         | 1        | 0.92%   |
 | Intel Core i7-4770R CPU @ 3.20GHz                        | 1        | 0.92%   |
-| Intel Core i7-4770K CPU @ 3.50GHz                        | 1        | 0.92%   |
-| Intel Core i7-4770 CPU @ 3.40GHz                         | 1        | 0.92%   |
-| Intel Core i7-2600K CPU @ 3.40GHz                        | 1        | 0.92%   |
-| Intel Core i7 CPU 970 @ 3.20GHz                          | 1        | 0.92%   |
-| Intel Core i5-8500T CPU @ 2.10GHz                        | 1        | 0.92%   |
-| Intel Core i5-6400 CPU @ 2.70GHz                         | 1        | 0.92%   |
-| Intel Core i5-5250U CPU @ 1.60GHz                        | 1        | 0.92%   |
-| Intel Core i5-4570 CPU @ 3.20GHz                         | 1        | 0.92%   |
-| Intel Core i5-4440 CPU @ 3.10GHz                         | 1        | 0.92%   |
-| Intel Core i5-4300M CPU @ 2.60GHz                        | 1        | 0.92%   |
-| Intel Core i5-2400 CPU @ 3.10GHz                         | 1        | 0.92%   |
-| Intel Core i3-3217U CPU @ 1.80GHz                        | 1        | 0.92%   |
-| Intel Celeron J4115 CPU @ 1.80GHz                        | 1        | 0.92%   |
-| Intel Celeron J4105 CPU @ 1.50GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU N3160 @ 1.60GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU N3050 @ 1.60GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU N2807 @ 1.58GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU J1800 @ 2.41GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU 3865U @ 1.80GHz                        | 1        | 0.92%   |
-| Intel Celeron CPU 3855U @ 1.60GHz                        | 1        | 0.92%   |
 
 CPU Model Family
 ----------------
@@ -1635,17 +1515,6 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                                         | 1        | 1.2%    |
 | AMD Tobago PRO [Radeon R7 360 / R9 360 OEM]                                              | 1        | 1.2%    |
 | AMD SuperSumo [Radeon HD 6410D]                                                          | 1        | 1.2%    |
-| AMD RV280 [Radeon 9200]                                                                  | 1        | 1.2%    |
-| AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 1        | 1.2%    |
-| AMD Rage Mobility AGP 2x Series                                                          | 1        | 1.2%    |
-| AMD Rage 3 [Rage XL PCI]                                                                 | 1        | 1.2%    |
-| AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]                    | 1        | 1.2%    |
-| AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                           | 1        | 1.2%    |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                                         | 1        | 1.2%    |
-| AMD Caicos PRO [Radeon HD 7450]                                                          | 1        | 1.2%    |
-| AMD Barts XT [Radeon HD 6870]                                                            | 1        | 1.2%    |
-| AMD Baffin [Radeon RX 460/560D / Pro 450/455/460/555/555X/560/560X]                      | 1        | 1.2%    |
-| 3DLabs Sun XVR-500 Graphics Accelerator                                                  | 1        | 1.2%    |
 
 GPU Combo
 ---------
@@ -1932,68 +1801,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                         | Desktops | Percent |
-|-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 34       | 23.45%  |
-| Intel I210 Gigabit Network Connection                                         | 17       | 11.72%  |
-| Intel I211 Gigabit Network Connection                                         | 12       | 8.28%   |
-| Intel Ethernet Connection I217-LM                                             | 6        | 4.14%   |
-| Intel 82574L Gigabit Network Connection                                       | 6        | 4.14%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                | 4        | 2.76%   |
-| Intel I350 Gigabit Network Connection                                         | 4        | 2.76%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                               | 2        | 1.38%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 2        | 1.38%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 2        | 1.38%   |
-| Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter                    | 2        | 1.38%   |
-| Intel Ethernet Connection (2) I219-V                                          | 2        | 1.38%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 2        | 1.38%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2        | 1.38%   |
-| VIA VT6105M [Rhine-III]                                                       | 1        | 0.69%   |
-| TP-Link TP-LINK Wireless USB Adapter                                          | 1        | 0.69%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 0.69%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                      | 1        | 0.69%   |
-| Realtek RTL8191SU 802.11n WLAN Adapter                                        | 1        | 0.69%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 1        | 0.69%   |
-| Realtek RTL8188EE Wireless Network Adapter                                    | 1        | 0.69%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1        | 0.69%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 0.69%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                                     | 1        | 0.69%   |
-| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                                     | 1        | 0.69%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                    | 1        | 0.69%   |
-| Qualcomm Atheros AR9271 802.11n                                               | 1        | 0.69%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)                | 1        | 0.69%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                | 1        | 0.69%   |
-| Oracle/SUN RIO 10/100 Ethernet [eri]                                          | 1        | 0.69%   |
-| MediaTek 802.11ac Wireless LAN Card                                           | 1        | 0.69%   |
-| Intel Wireless 7260                                                           | 1        | 0.69%   |
-| Intel Wireless 3160                                                           | 1        | 0.69%   |
-| Intel Platform Controller Hub EG20T Gigabit Ethernet Controller               | 1        | 0.69%   |
-| Intel NM10/ICH7 Family LAN Controller                                         | 1        | 0.69%   |
-| Intel Ethernet Connection X722 for 1GbE                                       | 1        | 0.69%   |
-| Intel Ethernet Connection I219-LM                                             | 1        | 0.69%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 1        | 0.69%   |
-| Intel Ethernet Connection (2) I218-V                                          | 1        | 0.69%   |
-| Intel Centrino Wireless-N 2200                                                | 1        | 0.69%   |
-| Intel Centrino Advanced-N 6235                                                | 1        | 0.69%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1        | 0.69%   |
-| Intel 82576 Gigabit Network Connection                                        | 1        | 0.69%   |
-| Intel 82573E Gigabit Ethernet Controller (Copper)                             | 1        | 0.69%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 0.69%   |
-| Intel 82566DM-2 Gigabit Network Connection                                    | 1        | 0.69%   |
-| Intel 82562EZ 10/100 Ethernet Controller                                      | 1        | 0.69%   |
-| Intel 82541GI Gigabit Ethernet Controller                                     | 1        | 0.69%   |
-| Intel 82541EI Gigabit Ethernet Controller                                     | 1        | 0.69%   |
-| Intel 82540EM Gigabit Ethernet Controller                                     | 1        | 0.69%   |
-| Emulex OneConnect 10Gb NIC (be3)                                              | 1        | 0.69%   |
-| Davicom DM9102 Fast Ethernet Controller                                       | 1        | 0.69%   |
-| Broadcom NetXtreme II BCM5709 Gigabit Ethernet                                | 1        | 0.69%   |
-| Broadcom NetXtreme II BCM5708 Gigabit Ethernet                                | 1        | 0.69%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                              | 1        | 0.69%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 1        | 0.69%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                              | 1        | 0.69%   |
-| Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                 | 1        | 0.69%   |
-| Broadcom NetXtreme BCM5703 Gigabit Ethernet                                   | 1        | 0.69%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1        | 0.69%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 34       | 23.45%  |
+| Intel I210 Gigabit Network Connection                             | 17       | 11.72%  |
+| Intel I211 Gigabit Network Connection                             | 12       | 8.28%   |
+| Intel Ethernet Connection I217-LM                                 | 6        | 4.14%   |
+| Intel 82574L Gigabit Network Connection                           | 6        | 4.14%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 4        | 2.76%   |
+| Intel I350 Gigabit Network Connection                             | 4        | 2.76%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 2        | 1.38%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 2        | 1.38%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 1.38%   |
+| Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter        | 2        | 1.38%   |
+| Intel Ethernet Connection (2) I219-V                              | 2        | 1.38%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 1.38%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 2        | 1.38%   |
+| VIA VT6105M [Rhine-III]                                           | 1        | 0.69%   |
+| TP-Link TP-LINK Wireless USB Adapter                              | 1        | 0.69%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.69%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 0.69%   |
+| Realtek RTL8191SU 802.11n WLAN Adapter                            | 1        | 0.69%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 0.69%   |
+| Realtek RTL8188EE Wireless Network Adapter                        | 1        | 0.69%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 1        | 0.69%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.69%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                         | 1        | 0.69%   |
+| Ralink RT2790 Wireless 802.11n 1T/2R PCIe                         | 1        | 0.69%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1        | 0.69%   |
+| Qualcomm Atheros AR9271 802.11n                                   | 1        | 0.69%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 0.69%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1        | 0.69%   |
+| Oracle/SUN RIO 10/100 Ethernet [eri]                              | 1        | 0.69%   |
+| MediaTek 802.11ac Wireless LAN Card                               | 1        | 0.69%   |
+| Intel Wireless 7260                                               | 1        | 0.69%   |
+| Intel Wireless 3160                                               | 1        | 0.69%   |
+| Intel Platform Controller Hub EG20T Gigabit Ethernet Controller   | 1        | 0.69%   |
+| Intel NM10/ICH7 Family LAN Controller                             | 1        | 0.69%   |
+| Intel Ethernet Connection X722 for 1GbE                           | 1        | 0.69%   |
+| Intel Ethernet Connection I219-LM                                 | 1        | 0.69%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1        | 0.69%   |
+| Intel Ethernet Connection (2) I218-V                              | 1        | 0.69%   |
+| Intel Centrino Wireless-N 2200                                    | 1        | 0.69%   |
 
 Wireless Vendor
 ---------------
@@ -2115,7 +1964,6 @@ Ethernet models
 | Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                 | 1        | 0.84%   |
 | Broadcom NetXtreme BCM5703 Gigabit Ethernet                                   | 1        | 0.84%   |
 | Apple UniNorth 2 GMAC (Sun GEM)                                               | 1        | 0.84%   |
-| Accton SMC2-1211TX                                                            | 1        | 0.84%   |
 
 Net Controller Kind
 -------------------
@@ -2279,10 +2127,6 @@ Sound card models
 | AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1        | 1.2%    |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1        | 1.2%    |
 | AMD FCH Azalia Controller                                                                         | 1        | 1.2%    |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                                            | 1        | 1.2%    |
-| AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]                               | 1        | 1.2%    |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                                        | 1        | 1.2%    |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1        | 1.2%    |
 
 Memory
 ------

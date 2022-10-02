@@ -475,11 +475,11 @@ Motherboard manufacture year
 | 2014    | 6         | 14.63%  |
 | Unknown | 6         | 14.63%  |
 | 2019    | 4         | 9.76%   |
-| 2012    | 4         | 9.76%   |
 | 2016    | 3         | 7.32%   |
 | 2013    | 3         | 7.32%   |
+| 2012    | 3         | 7.32%   |
+| 2011    | 3         | 7.32%   |
 | 2020    | 2         | 4.88%   |
-| 2011    | 2         | 4.88%   |
 | 2010    | 2         | 4.88%   |
 | 2021    | 1         | 2.44%   |
 | 2017    | 1         | 2.44%   |
@@ -750,68 +750,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                               | Computers | Percent |
-|-------------------------------------|-----------|---------|
-| WDC WD40EFRX-68N32N0 4TB            | 5         | 2.76%   |
-| WDC WD30EFRX-68EUZN0 3TB            | 4         | 2.21%   |
-| Samsung SSD 860 EVO 250GB           | 4         | 2.21%   |
-| WDC WD40EFRX-68WT0N0 4TB            | 3         | 1.66%   |
-| WDC WD20EFRX-68EUZN0 2TB            | 3         | 1.66%   |
-| WDC WD60EFRX-68MYMN1 6TB            | 2         | 1.1%    |
-| WDC WD30EFRX-68AX9N0 3TB            | 2         | 1.1%    |
-| WDC WD20EZRX-00D8PB0 2TB            | 2         | 1.1%    |
-| WDC WD20EFRX-68AX9N0 2TB            | 2         | 1.1%    |
-| Seagate ST500DM002-1BD142 500GB     | 2         | 1.1%    |
-| Seagate ST4000DM000-1F2168 4TB      | 2         | 1.1%    |
-| Seagate ST2000DM001-1ER164 2TB      | 2         | 1.1%    |
-| Kingston SA400S37120G 120GB         | 2         | 1.1%    |
-| Intel SSDSC2BB120G4 120GB           | 2         | 1.1%    |
-| HPT DISK 0_9 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_8 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_7 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_6 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_5 18TB                   | 2         | 1.1%    |
-| HPT DISK 0_4 18TB                   | 2         | 1.1%    |
-| HPT DISK 0_3 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_2 3TB                    | 2         | 1.1%    |
-| HPT DISK 0_14 3TB                   | 2         | 1.1%    |
-| HPT DISK 0_13 2TB                   | 2         | 1.1%    |
-| HPT DISK 0_12 1TB                   | 2         | 1.1%    |
-| HPT DISK 0_11 1TB                   | 2         | 1.1%    |
-| HPT DISK 0_10 1TB                   | 2         | 1.1%    |
-| HPT DISK 0_1 6TB                    | 2         | 1.1%    |
-| HPT DISK 0_0 4TB                    | 2         | 1.1%    |
-| Hitachi HUA722020ALA331 2TB         | 2         | 1.1%    |
-| Hitachi HDS723020BLA642 2TB         | 2         | 1.1%    |
-| Hitachi HDS722020ALA330 2TB         | 2         | 1.1%    |
-| Crucial M4-CT064M4SSD2 64GB         | 2         | 1.1%    |
-| WDC WD80EFAX-68LHPN0 8TB            | 1         | 0.55%   |
-| WDC WD8004FRYZ-01VAEB0 8TB          | 1         | 0.55%   |
-| WDC WD5000LPLX-08ZNTT0 500GB        | 1         | 0.55%   |
-| WDC WD5000LPLX-00ZNTT0 500GB        | 1         | 0.55%   |
-| WDC WD5000AAKX-00U6AA0 500GB        | 1         | 0.55%   |
-| WDC WD4003FFBX-68MU3N0 4TB          | 1         | 0.55%   |
-| WDC WD30PURX-64P6ZY0 3TB            | 1         | 0.55%   |
-| WDC WD30EZRX-00MMMB0 3TB            | 1         | 0.55%   |
-| WDC WD30EFRX-68N32N0 3TB            | 1         | 0.55%   |
-| WDC WD3003FZEX-00Z4SA0 3TB          | 1         | 0.55%   |
-| WDC WD3001FFSX-68JNUN0 3TB          | 1         | 0.55%   |
-| WDC WD3000F9YZ-09N20L1 3TB          | 1         | 0.55%   |
-| WDC WD3000F9YZ-09N20L0 3TB          | 1         | 0.55%   |
-| WDC WD2002FFSX-68PF8N0 2TB          | 1         | 0.55%   |
-| WDC WD2000FYYZ 2TB                  | 1         | 0.55%   |
-| WDC WD120EDAZ-11F3RA0 12TB          | 1         | 0.55%   |
-| WDC WD10PURX-64E5EY0 1TB            | 1         | 0.55%   |
-| WDC WD10JPVX-80JC3T0 1TB            | 1         | 0.55%   |
-| WDC WD10EZEX-00RKKA0 1TB            | 1         | 0.55%   |
-| WDC WD10EURX-61C57Y0 1TB            | 1         | 0.55%   |
-| WDC WD100EMAZ-00WJTA0 10TB          | 1         | 0.55%   |
-| WD MediaMax WL2000GSA6454 2TB       | 1         | 0.55%   |
-| Transcend TS64GSSD370S 64GB         | 1         | 0.55%   |
-| Toshiba THNSNX032GTNT M.2 2242 32GB | 1         | 0.55%   |
-| Toshiba THNSNX032GTNT 32GB          | 1         | 0.55%   |
-| Toshiba MG03ACA200 2TB              | 1         | 0.55%   |
-| Toshiba HDWN180 8TB                 | 1         | 0.55%   |
+| Model                           | Computers | Percent |
+|---------------------------------|-----------|---------|
+| WDC WD40EFRX-68N32N0 4TB        | 5         | 2.76%   |
+| WDC WD30EFRX-68EUZN0 3TB        | 4         | 2.21%   |
+| Samsung SSD 860 EVO 250GB       | 4         | 2.21%   |
+| WDC WD40EFRX-68WT0N0 4TB        | 3         | 1.66%   |
+| WDC WD20EFRX-68EUZN0 2TB        | 3         | 1.66%   |
+| WDC WD60EFRX-68MYMN1 6TB        | 2         | 1.1%    |
+| WDC WD30EFRX-68AX9N0 3TB        | 2         | 1.1%    |
+| WDC WD20EZRX-00D8PB0 2TB        | 2         | 1.1%    |
+| WDC WD20EFRX-68AX9N0 2TB        | 2         | 1.1%    |
+| Seagate ST500DM002-1BD142 500GB | 2         | 1.1%    |
+| Seagate ST4000DM000-1F2168 4TB  | 2         | 1.1%    |
+| Seagate ST2000DM001-1ER164 2TB  | 2         | 1.1%    |
+| Kingston SA400S37120G 120GB     | 2         | 1.1%    |
+| Intel SSDSC2BB120G4 120GB       | 2         | 1.1%    |
+| HPT DISK 0_9 3TB                | 2         | 1.1%    |
+| HPT DISK 0_8 3TB                | 2         | 1.1%    |
+| HPT DISK 0_7 3TB                | 2         | 1.1%    |
+| HPT DISK 0_6 3TB                | 2         | 1.1%    |
+| HPT DISK 0_5 18TB               | 2         | 1.1%    |
+| HPT DISK 0_4 18TB               | 2         | 1.1%    |
+| HPT DISK 0_3 3TB                | 2         | 1.1%    |
+| HPT DISK 0_2 3TB                | 2         | 1.1%    |
+| HPT DISK 0_14 3TB               | 2         | 1.1%    |
+| HPT DISK 0_13 2TB               | 2         | 1.1%    |
+| HPT DISK 0_12 1TB               | 2         | 1.1%    |
+| HPT DISK 0_11 1TB               | 2         | 1.1%    |
+| HPT DISK 0_10 1TB               | 2         | 1.1%    |
+| HPT DISK 0_1 6TB                | 2         | 1.1%    |
+| HPT DISK 0_0 4TB                | 2         | 1.1%    |
+| Hitachi HUA722020ALA331 2TB     | 2         | 1.1%    |
+| Hitachi HDS723020BLA642 2TB     | 2         | 1.1%    |
+| Hitachi HDS722020ALA330 2TB     | 2         | 1.1%    |
+| Crucial M4-CT064M4SSD2 64GB     | 2         | 1.1%    |
+| WDC WD80EFAX-68LHPN0 8TB        | 1         | 0.55%   |
+| WDC WD8004FRYZ-01VAEB0 8TB      | 1         | 0.55%   |
+| WDC WD5000LPLX-08ZNTT0 500GB    | 1         | 0.55%   |
+| WDC WD5000LPLX-00ZNTT0 500GB    | 1         | 0.55%   |
+| WDC WD5000AAKX-00U6AA0 500GB    | 1         | 0.55%   |
+| WDC WD4003FFBX-68MU3N0 4TB      | 1         | 0.55%   |
+| WDC WD30PURX-64P6ZY0 3TB        | 1         | 0.55%   |
 
 HDD Vendor
 ----------
@@ -894,13 +874,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 77     | 31.4%   |
-| 1.01-2.0   | 15        | 57     | 17.44%  |
-| 2.01-3.0   | 13        | 80     | 15.12%  |
-| 3.01-4.0   | 11        | 61     | 12.79%  |
-| 4.01-10.0  | 8         | 27     | 9.3%    |
-| 0.51-1.0   | 8         | 28     | 9.3%    |
-| 10.01-20.0 | 4         | 7      | 4.65%   |
+| 0.01-0.5   | 27        | 72     | 31.03%  |
+| 1.01-2.0   | 16        | 62     | 18.39%  |
+| 2.01-3.0   | 13        | 80     | 14.94%  |
+| 3.01-4.0   | 11        | 61     | 12.64%  |
+| 4.01-10.0  | 8         | 27     | 9.2%    |
+| 0.51-1.0   | 8         | 28     | 9.2%    |
+| 10.01-20.0 | 4         | 7      | 4.6%    |
 
 Space Total
 -----------
@@ -1124,17 +1104,6 @@ Storage controller models
 | Intel 500 Series Chipset Family SATA AHCI Controller                             | 1         | 1.08%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 1         | 1.08%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                    | 1         | 1.08%   |
-| Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                    | 1         | 1.08%   |
-| HP Smart Array G6 controllers                                                    | 1         | 1.08%   |
-| HP Smart Array Controller                                                        | 1         | 1.08%   |
-| Dell PowerEdge Expandable RAID controller 5                                      | 1         | 1.08%   |
-| ASMedia ASM1061 SATA IDE Controller                                              | 1         | 1.08%   |
-| Areca ARC-188x series PCIe 2.0/3.0 to SAS/SATA 6/12Gb RAID Controller            | 1         | 1.08%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                 | 1         | 1.08%   |
-| AMD FCH IDE Controller                                                           | 1         | 1.08%   |
-| AMD 500 Series Chipset SATA Controller                                           | 1         | 1.08%   |
-| AMD 400 Series Chipset SATA Controller                                           | 1         | 1.08%   |
-| Unknown                                                                          | 1         | 1.08%   |
 
 Storage Kind
 ------------
@@ -1147,11 +1116,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | Kind | Computers | Percent |
 |------|-----------|---------|
 | SATA | 34        | 45.33%  |
-| RAID | 12        | 16%     |
+| RAID | 14        | 18.67%  |
 | SAS  | 10        | 13.33%  |
 | IDE  | 9         | 12%     |
 | NVMe | 7         | 9.33%   |
-| SCSI | 3         | 4%      |
+| SCSI | 1         | 1.33%   |
 
 Processor
 ---------
@@ -1781,7 +1750,7 @@ Memory module models
 | Toshiba RAM 9965525-138.A00LF 8192MB DIMM DDR3 1600MT/s     | 1         | 2.08%   |
 | Team RAM Vulcan-2400 8192MB DIMM DDR3 1333MT/s              | 1         | 2.08%   |
 | SK hynix RAM HYMP151F72CP4N3-Y5 4096MB FB-DIMM DDR2 667MT/s | 1         | 2.08%   |
-| SK hynix RAM HMT41GU7BFR8A-PB 8192MB DIMM DDR3 1600MT/s     | 1         | 2.08%   |
+| SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s        | 1         | 2.08%   |
 | SK hynix RAM HMT351R7CFR8A-H9 4096MB DIMM DDR3 800MT/s      | 1         | 2.08%   |
 | SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s        | 1         | 2.08%   |
 | Samsung RAM Module 8192MB DIMM DDR3 1600MT/s                | 1         | 2.08%   |
@@ -1793,7 +1762,7 @@ Memory module models
 | Samsung RAM M393B1K70DH0-YH9 8GB DIMM DDR3 1333MT/s         | 1         | 2.08%   |
 | Samsung RAM M393B1K70DH0-CH9 8192MB DIMM DDR3 800MT/s       | 1         | 2.08%   |
 | Samsung RAM M393B1G70QH0-YK0 8GB DIMM DDR3 1600MT/s         | 1         | 2.08%   |
-| Samsung RAM M391B5273CH0-CH9 8GB DIMM DDR3 1600MT/s         | 1         | 2.08%   |
+| Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1600MT/s         | 1         | 2.08%   |
 | Samsung RAM M391B5173QH0-YK0 4GB DIMM DDR3 1600MT/s         | 1         | 2.08%   |
 | Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3 1600MT/s         | 1         | 2.08%   |
 | Samsung RAM M391B1G73BH0-YH9 8192MB DIMM DDR3 1333MT/s      | 1         | 2.08%   |
@@ -1810,14 +1779,6 @@ Memory module models
 | Kingston RAM 9965684-012.A00G 8192MB DIMM DDR4 2400MT/s     | 1         | 2.08%   |
 | Kingston RAM 9965527-026.A00LF 8192MB DIMM DDR3 1333MT/s    | 1         | 2.08%   |
 | Kingston RAM 9965525-140.A00LF 8GB DIMM DDR3 1333MT/s       | 1         | 2.08%   |
-| Kingston RAM 9965525-054.A00LF 4096MB DIMM DDR3 1600MT/s    | 1         | 2.08%   |
-| Kingston RAM 9965525-037.A00LF 8GB DIMM DDR3 1333MT/s       | 1         | 2.08%   |
-| Kingston RAM 9965516-057.A00LF 8192MB DIMM DDR3 1066MT/s    | 1         | 2.08%   |
-| HP RAM Module 4096MB DIMM DDR3 1600MT/s                     | 1         | 2.08%   |
-| Crucial RAM BLS8G3D1609DS 8192MB DIMM DDR3 800MT/s          | 1         | 2.08%   |
-| Crucial RAM BL16G32C16U4B.16FE 16GB DIMM DDR4 3200MT/s      | 1         | 2.08%   |
-| Corsair RAM CMZ8GX3M1A1600C10 8GB DIMM DDR3 1600MT/s        | 1         | 2.08%   |
-| Corsair RAM CMD16GX4M2B3000C15 8192MB DIMM DDR4 2133MT/s    | 1         | 2.08%   |
 
 Memory Kind
 -----------

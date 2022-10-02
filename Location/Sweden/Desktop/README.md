@@ -308,10 +308,6 @@ Installed operating systems
 | FreeBSD 13.0-p4      | 1        | 1.23%   |
 | FreeBSD 13.0-p2      | 1        | 1.23%   |
 | FreeBSD 13.0-p12     | 1        | 1.23%   |
-| FreeBSD 12.3-p5      | 1        | 1.23%   |
-| FreeBSD 12.1-p8      | 1        | 1.23%   |
-| FreeBSD 12.1-p7      | 1        | 1.23%   |
-| FreeBSD 12.1-p10     | 1        | 1.23%   |
 
 OS Family
 ---------
@@ -537,21 +533,6 @@ Motherboard model
 | Fujitsu ESPRIMO E720                | 1        | 1.45%   |
 | Dell OptiPlex 5055 Ryzen CPU        | 1        | 1.45%   |
 | Dell OptiPlex 3040                  | 1        | 1.45%   |
-| Dell OptiPlex 3010                  | 1        | 1.45%   |
-| Deciso Netboard A10 V2              | 1        | 1.45%   |
-| ASUS ROG STRIX X570-F GAMING        | 1        | 1.45%   |
-| ASUS Rampage Formula                | 1        | 1.45%   |
-| ASUS P8H77-I                        | 1        | 1.45%   |
-| ASUS P8H67-M                        | 1        | 1.45%   |
-| ASUS P5Q DELUXE                     | 1        | 1.45%   |
-| ASUS M32CD_A_F_K20CD_K31CD          | 1        | 1.45%   |
-| ASUS CM6731_CM6431_CM6331-8         | 1        | 1.45%   |
-| ASRock X99 WS                       | 1        | 1.45%   |
-| ASRock X399 Taichi                  | 1        | 1.45%   |
-| ASRock E3C226D2I                    | 1        | 1.45%   |
-| AOpen DE3250                        | 1        | 1.45%   |
-| AMI PEISIA E3845 VER1.0             | 1        | 1.45%   |
-| ADI Minnowboard Turbot D0 PLATFORM  | 1        | 1.45%   |
 
 Model Family
 ------------
@@ -603,15 +584,6 @@ Motherboard model prefix
 | ASUS Rampage                   | 1        | 1.45%   |
 | ASUS P8H77-I                   | 1        | 1.45%   |
 | ASUS P8H67-M                   | 1        | 1.45%   |
-| ASUS P5Q                       | 1        | 1.45%   |
-| ASUS M32CD                     | 1        | 1.45%   |
-| ASUS CM6731                    | 1        | 1.45%   |
-| ASRock X99                     | 1        | 1.45%   |
-| ASRock X399                    | 1        | 1.45%   |
-| ASRock E3C226D2I               | 1        | 1.45%   |
-| AOpen DE3250                   | 1        | 1.45%   |
-| AMI PEISIA                     | 1        | 1.45%   |
-| ADI Minnowboard                | 1        | 1.45%   |
 
 MFG Year
 --------
@@ -794,54 +766,48 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                  | Desktops | Percent |
-|-----------------------|----------|---------|
-| Stockholm             | 12       | 15.19%  |
-| Malmo                 | 8        | 10.13%  |
-| Bromma                | 5        | 6.33%   |
-| Taby                  | 3        | 3.8%    |
-| VÃ¤sterÃ¥s        | 2        | 2.53%   |
-| UmeГҐ               | 2        | 2.53%   |
-| Tumba                 | 2        | 2.53%   |
-| Sollentuna            | 2        | 2.53%   |
-| Solleftea             | 2        | 2.53%   |
-| Lund                  | 2        | 2.53%   |
-| LinkГ¶ping          | 2        | 2.53%   |
-| JГ¶nkГ¶ping       | 2        | 2.53%   |
-| Helsingborg           | 2        | 2.53%   |
-| Г…hus              | 1        | 1.27%   |
-| Г„lvГ¤ngen       | 1        | 1.27%   |
-| Västerås            | 1        | 1.27%   |
-| Upplands Vasby        | 1        | 1.27%   |
-| UmeÃ¥               | 1        | 1.27%   |
-| Umeå                 | 1        | 1.27%   |
-| Tyreso Strand         | 1        | 1.27%   |
-| Trelleborg            | 1        | 1.27%   |
-| Trangsund             | 1        | 1.27%   |
-| Torsby                | 1        | 1.27%   |
-| SГ¶dertГ¤lje      | 1        | 1.27%   |
-| Sundsvall             | 1        | 1.27%   |
-| Sundbyberg            | 1        | 1.27%   |
-| Stroemstad            | 1        | 1.27%   |
-| SkÃ¶vde             | 1        | 1.27%   |
-| Skaellinge            | 1        | 1.27%   |
-| Saltsjoe-Boo          | 1        | 1.27%   |
-| Piteå                | 1        | 1.27%   |
-| NorrkГ¶ping         | 1        | 1.27%   |
-| Moelndal              | 1        | 1.27%   |
-| Landskrona            | 1        | 1.27%   |
-| Kungsbacka            | 1        | 1.27%   |
-| Kristianstad          | 1        | 1.27%   |
-| Kista                 | 1        | 1.27%   |
-| Karlshamn             | 1        | 1.27%   |
-| Johanneshov           | 1        | 1.27%   |
-| Hudiksvall            | 1        | 1.27%   |
-| Halmstad              | 1        | 1.27%   |
-| Grebbestad            | 1        | 1.27%   |
-| Gnesta                | 1        | 1.27%   |
-| Enskede-Arsta-Vantoer | 1        | 1.27%   |
-| Bandhagen             | 1        | 1.27%   |
-| Akarp                 | 1        | 1.27%   |
+| City             | Desktops | Percent |
+|------------------|----------|---------|
+| Stockholm        | 12       | 15.19%  |
+| Malmo            | 8        | 10.13%  |
+| Bromma           | 5        | 6.33%   |
+| Taby             | 3        | 3.8%    |
+| VÃ¤sterÃ¥s   | 2        | 2.53%   |
+| UmeГҐ          | 2        | 2.53%   |
+| Tumba            | 2        | 2.53%   |
+| Sollentuna       | 2        | 2.53%   |
+| Solleftea        | 2        | 2.53%   |
+| Lund             | 2        | 2.53%   |
+| LinkГ¶ping     | 2        | 2.53%   |
+| JГ¶nkГ¶ping  | 2        | 2.53%   |
+| Helsingborg      | 2        | 2.53%   |
+| Г…hus         | 1        | 1.27%   |
+| Г„lvГ¤ngen  | 1        | 1.27%   |
+| Västerås       | 1        | 1.27%   |
+| Upplands Vasby   | 1        | 1.27%   |
+| UmeÃ¥          | 1        | 1.27%   |
+| Umeå            | 1        | 1.27%   |
+| Tyreso Strand    | 1        | 1.27%   |
+| Trelleborg       | 1        | 1.27%   |
+| Trangsund        | 1        | 1.27%   |
+| Torsby           | 1        | 1.27%   |
+| SГ¶dertГ¤lje | 1        | 1.27%   |
+| Sundsvall        | 1        | 1.27%   |
+| Sundbyberg       | 1        | 1.27%   |
+| Stroemstad       | 1        | 1.27%   |
+| SkÃ¶vde        | 1        | 1.27%   |
+| Skaellinge       | 1        | 1.27%   |
+| Saltsjoe-Boo     | 1        | 1.27%   |
+| Piteå           | 1        | 1.27%   |
+| NorrkГ¶ping    | 1        | 1.27%   |
+| Moelndal         | 1        | 1.27%   |
+| Landskrona       | 1        | 1.27%   |
+| Kungsbacka       | 1        | 1.27%   |
+| Kristianstad     | 1        | 1.27%   |
+| Kista            | 1        | 1.27%   |
+| Karlshamn        | 1        | 1.27%   |
+| Johanneshov      | 1        | 1.27%   |
+| Hudiksvall       | 1        | 1.27%   |
 
 Drives
 ------
@@ -888,68 +854,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                                       | Desktops | Percent |
-|---------------------------------------------|----------|---------|
-| Hoodisk SSD 128GB                           | 3        | 2.83%   |
-| WDC WD5000AZLX-60K2TA0 500GB                | 2        | 1.89%   |
-| Toshiba HDWQ140 4TB                         | 2        | 1.89%   |
-| Samsung SSD 860 QVO 1TB                     | 2        | 1.89%   |
-| Samsung HD501LJ 500GB                       | 2        | 1.89%   |
-| Phison SATA SSD 16GB                        | 2        | 1.89%   |
-| Kingston SV300S37A240G 240GB                | 2        | 1.89%   |
-| Intel SSDSC2BW240A4 240GB                   | 2        | 1.89%   |
-| Hoodisk SSD 64GB                            | 2        | 1.89%   |
-| Hoodisk SSD 16GB                            | 2        | 1.89%   |
-| Crucial CT256MX100SSD1 256GB                | 2        | 1.89%   |
-| Apacer 64GB SATA Flash Drive                | 2        | 1.89%   |
-| XrayDisk SSD 64GB                           | 1        | 0.94%   |
-| WDC WDS250G2B0C-00PXH0 250GB                | 1        | 0.94%   |
-| WDC WDS250G2B0A-00SM50 250GB                | 1        | 0.94%   |
-| WDC WDS120G1G0A-00SS50 120GB                | 1        | 0.94%   |
-| WDC WD82PURZ-85TEUY0 8TB                    | 1        | 0.94%   |
-| WDC WD6400AARS-00Y5B1 640GB                 | 1        | 0.94%   |
-| WDC WD5000AAKS-07V0A0 500GB                 | 1        | 0.94%   |
-| WDC WD40EFRX-68N32N0 4TB                    | 1        | 0.94%   |
-| WDC WD2500AAJS-60B4A0 250GB                 | 1        | 0.94%   |
-| WDC WD20EFRX-68EUZN0 2TB                    | 1        | 0.94%   |
-| WDC WD20EARX-00ZUDB0 2TB                    | 1        | 0.94%   |
-| WDC WD2002FYPS-02W3B0 2TB                   | 1        | 0.94%   |
-| WDC WD10JPVX-22JC3T0 1TB                    | 1        | 0.94%   |
-| Transcend TS256GMSA452T 256GB               | 1        | 0.94%   |
-| Toshiba HDWR11A 10TB                        | 1        | 0.94%   |
-| Toshiba HDWN180 8TB                         | 1        | 0.94%   |
-| Toshiba HDWG480 8TB                         | 1        | 0.94%   |
-| Toshiba HDWG180 8TB                         | 1        | 0.94%   |
-| Toshiba DT01ACA100 1TB                      | 1        | 0.94%   |
-| Supermicro SSD 64GB                         | 1        | 0.94%   |
-| SK hynix HFS128G32MND-2200A 128GB           | 1        | 0.94%   |
-| Seagate ST9500325AS 500GB                   | 1        | 0.94%   |
-| Seagate ST9200420ASG 200GB                  | 1        | 0.94%   |
-| Seagate ST8000VX0022-2EJ112 8TB             | 1        | 0.94%   |
-| Seagate ST4000NE0025-2EW107 4TB             | 1        | 0.94%   |
-| Seagate ST4000DM005-2DP166 4TB              | 1        | 0.94%   |
-| Seagate ST4000DM000-2AE166 4TB              | 1        | 0.94%   |
-| Seagate ST4000DM000-1F2168 4TB              | 1        | 0.94%   |
-| Seagate ST2000NC001-1DY164 2TB              | 1        | 0.94%   |
-| Seagate ST2000DM008-2FR102 2TB              | 1        | 0.94%   |
-| Seagate ST100FN0021 100GB                   | 1        | 0.94%   |
-| Seagate ST1000NX0313 1TB                    | 1        | 0.94%   |
-| Seagate ST1000LM014-1EJ164-SSHD 1TB         | 1        | 0.94%   |
-| Seagate ST1000DM010-2EP102 1TB              | 1        | 0.94%   |
-| Seagate ST1000DM003-1ER162 1TB              | 1        | 0.94%   |
-| Seagate FireCuda 520 SSD ZP500GM30002 500GB | 1        | 0.94%   |
-| SanDisk SDSSDHII960G 960GB                  | 1        | 0.94%   |
-| SanDisk SDCFX3-4096 4GB                     | 1        | 0.94%   |
-| Samsung SSD 970 EVO Plus 250GB              | 1        | 0.94%   |
-| Samsung SSD 960 EVO 250GB                   | 1        | 0.94%   |
-| Samsung SSD 860 EVO mSATA 250GB             | 1        | 0.94%   |
-| Samsung SSD 860 EVO 250GB                   | 1        | 0.94%   |
-| Samsung SSD 860 EVO 1TB                     | 1        | 0.94%   |
-| Samsung SSD 850 EVO 500GB                   | 1        | 0.94%   |
-| Samsung SSD 850 EVO 1TB                     | 1        | 0.94%   |
-| Samsung SSD 840 Series 120GB                | 1        | 0.94%   |
-| Samsung SSD 840 PRO Series 256GB            | 1        | 0.94%   |
-| Samsung SSD 840 EVO 500GB                   | 1        | 0.94%   |
+| Model                             | Desktops | Percent |
+|-----------------------------------|----------|---------|
+| Hoodisk SSD 128GB                 | 3        | 2.83%   |
+| WDC WD5000AZLX-60K2TA0 500GB      | 2        | 1.89%   |
+| Toshiba HDWQ140 4TB               | 2        | 1.89%   |
+| Samsung SSD 860 QVO 1TB           | 2        | 1.89%   |
+| Samsung HD501LJ 500GB             | 2        | 1.89%   |
+| Phison SATA SSD 16GB              | 2        | 1.89%   |
+| Kingston SV300S37A240G 240GB      | 2        | 1.89%   |
+| Intel SSDSC2BW240A4 240GB         | 2        | 1.89%   |
+| Hoodisk SSD 64GB                  | 2        | 1.89%   |
+| Hoodisk SSD 16GB                  | 2        | 1.89%   |
+| Crucial CT256MX100SSD1 256GB      | 2        | 1.89%   |
+| Apacer 64GB SATA Flash Drive      | 2        | 1.89%   |
+| XrayDisk SSD 64GB                 | 1        | 0.94%   |
+| WDC WDS250G2B0C-00PXH0 250GB      | 1        | 0.94%   |
+| WDC WDS250G2B0A-00SM50 250GB      | 1        | 0.94%   |
+| WDC WDS120G1G0A-00SS50 120GB      | 1        | 0.94%   |
+| WDC WD82PURZ-85TEUY0 8TB          | 1        | 0.94%   |
+| WDC WD6400AARS-00Y5B1 640GB       | 1        | 0.94%   |
+| WDC WD5000AAKS-07V0A0 500GB       | 1        | 0.94%   |
+| WDC WD40EFRX-68N32N0 4TB          | 1        | 0.94%   |
+| WDC WD2500AAJS-60B4A0 250GB       | 1        | 0.94%   |
+| WDC WD20EFRX-68EUZN0 2TB          | 1        | 0.94%   |
+| WDC WD20EARX-00ZUDB0 2TB          | 1        | 0.94%   |
+| WDC WD2002FYPS-02W3B0 2TB         | 1        | 0.94%   |
+| WDC WD10JPVX-22JC3T0 1TB          | 1        | 0.94%   |
+| Transcend TS256GMSA452T 256GB     | 1        | 0.94%   |
+| Toshiba HDWR11A 10TB              | 1        | 0.94%   |
+| Toshiba HDWN180 8TB               | 1        | 0.94%   |
+| Toshiba HDWG480 8TB               | 1        | 0.94%   |
+| Toshiba HDWG180 8TB               | 1        | 0.94%   |
+| Toshiba DT01ACA100 1TB            | 1        | 0.94%   |
+| Supermicro SSD 64GB               | 1        | 0.94%   |
+| SK hynix HFS128G32MND-2200A 128GB | 1        | 0.94%   |
+| Seagate ST9500325AS 500GB         | 1        | 0.94%   |
+| Seagate ST9200420ASG 200GB        | 1        | 0.94%   |
+| Seagate ST8000VX0022-2EJ112 8TB   | 1        | 0.94%   |
+| Seagate ST4000NE0025-2EW107 4TB   | 1        | 0.94%   |
+| Seagate ST4000DM005-2DP166 4TB    | 1        | 0.94%   |
+| Seagate ST4000DM000-2AE166 4TB    | 1        | 0.94%   |
+| Seagate ST4000DM000-1F2168 4TB    | 1        | 0.94%   |
 
 HDD Vendor
 ----------
@@ -1245,17 +1191,6 @@ Storage controller models
 | Intel 82801JD/DO (ICH10 Family) 2-port SATA IDE Controller                              | 1        | 1.06%   |
 | Intel 82801IR/IO/IH (ICH9R/DO/DH) 6 port SATA Controller [AHCI mode]                    | 1        | 1.06%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                               | 1        | 1.06%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 1        | 1.06%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 1        | 1.06%   |
-| Intel 7 Series/C210 Series Chipset Family 4-port SATA Controller [IDE mode]             | 1        | 1.06%   |
-| Intel 7 Series/C210 Series Chipset Family 2-port SATA Controller [IDE mode]             | 1        | 1.06%   |
-| Intel 6 Series/C200 Series Chipset Family IDE-r Controller                              | 1        | 1.06%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                                    | 1        | 1.06%   |
-| Intel 4 Series Chipset PT IDER Controller                                               | 1        | 1.06%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 1        | 1.06%   |
-| AMD X399 Series Chipset SATA Controller                                                 | 1        | 1.06%   |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 1        | 1.06%   |
-| AMD FCH SATA Controller [IDE mode]                                                      | 1        | 1.06%   |
 
 Storage Kind
 ------------
@@ -1298,63 +1233,48 @@ Processor models
 ![CPU Model](./images/pie_chart_bsd/cpu_model.svg)
 
 
-| Model                                          | Desktops | Percent |
-|------------------------------------------------|----------|---------|
-| AMD GX-412TC SOC                               | 6        | 8.7%    |
-| Intel Core i7-4770K CPU @ 3.50GHz              | 3        | 4.35%   |
-| Intel Core i5-6500 CPU @ 3.20GHz               | 3        | 4.35%   |
-| Intel Core i7-7500U CPU @ 2.70GHz              | 2        | 2.9%    |
-| Intel Celeron CPU J3160 @ 1.60GHz              | 2        | 2.9%    |
-| Intel Atom CPU E3845 @ 1.91GHz                 | 2        | 2.9%    |
-| AMD Ryzen 9 3900X 12-Core Processor            | 2        | 2.9%    |
-| AMD Ryzen 7 1700 Eight-Core Processor          | 2        | 2.9%    |
-| Intel Xeon E-2224 CPU @ 3.40GHz                | 1        | 1.45%   |
-| Intel Xeon CPU E5450 @ 3.00GHz                 | 1        | 1.45%   |
-| Intel Xeon CPU E3-1515M v5 @ 2.80GHz           | 1        | 1.45%   |
-| Intel Xeon CPU E3-1230L v3 @ 1.80GHz           | 1        | 1.45%   |
-| Intel Xeon CPU E3-1225 v3 @ 3.20GHz            | 1        | 1.45%   |
-| Intel Xeon CPU E3-1220 v5 @ 3.00GHz            | 1        | 1.45%   |
-| Intel Pentium Dual-Core CPU E5700              | 1        | 1.45%   |
-| Intel Pentium CPU G6950 @ 2.80GHz              | 1        | 1.45%   |
-| Intel Pentium CPU G4400 @ 3.30GHz              | 1        | 1.45%   |
-| Intel Core i7-6850K CPU @ 3.60GHz              | 1        | 1.45%   |
-| Intel Core i7-6700K CPU @ 4.00GHz              | 1        | 1.45%   |
-| Intel Core i7-6500U CPU @ 2.50GHz              | 1        | 1.45%   |
-| Intel Core i7-5550U CPU @ 2.00GHz              | 1        | 1.45%   |
-| Intel Core i7-4790K CPU @ 4.00GHz              | 1        | 1.45%   |
-| Intel Core i7-4600U CPU @ 2.10GHz              | 1        | 1.45%   |
-| Intel Core i7-3770S CPU @ 3.10GHz              | 1        | 1.45%   |
-| Intel Core i7-2600 CPU @ 3.40GHz               | 1        | 1.45%   |
-| Intel Core i5-6400 CPU @ 2.70GHz               | 1        | 1.45%   |
-| Intel Core i5-4690K CPU @ 3.50GHz              | 1        | 1.45%   |
-| Intel Core i5-4670K CPU @ 3.40GHz              | 1        | 1.45%   |
-| Intel Core i5-4590 CPU @ 3.30GHz               | 1        | 1.45%   |
-| Intel Core i5-4570 CPU @ 3.20GHz               | 1        | 1.45%   |
-| Intel Core i5-3570K CPU @ 3.40GHz              | 1        | 1.45%   |
-| Intel Core i5-3470S CPU @ 2.90GHz              | 1        | 1.45%   |
-| Intel Core i5-3470 CPU @ 3.20GHz               | 1        | 1.45%   |
-| Intel Core i5-3450 CPU @ 3.10GHz               | 1        | 1.45%   |
-| Intel Core i5-2300 CPU @ 2.80GHz               | 1        | 1.45%   |
-| Intel Core i5-2300 CPU                         | 1        | 1.45%   |
-| Intel Core i5 CPU 750 @ 2.67GHz                | 1        | 1.45%   |
-| Intel Core i3-6100 CPU @ 3.70GHz               | 1        | 1.45%   |
-| Intel Core i3-4130 CPU @ 3.40GHz               | 1        | 1.45%   |
-| Intel Core i3-3220 CPU @ 3.30GHz               | 1        | 1.45%   |
-| Intel Core 2 Quad CPU Q6600 @ 2.40GHz          | 1        | 1.45%   |
-| Intel Core 2 Duo CPU E8500 @ 3.16GHz           | 1        | 1.45%   |
-| Intel Celeron J4125 CPU @ 2.00GHz              | 1        | 1.45%   |
-| Intel Celeron CPU N2930 @ 1.83GHz              | 1        | 1.45%   |
-| Intel Celeron CPU J3455 @ 1.50GHz              | 1        | 1.45%   |
-| Intel 11th Gen Core i7-11700K @ 3.60GHz        | 1        | 1.45%   |
-| AMD Ryzen Threadripper 1920X 12-Core Processor | 1        | 1.45%   |
-| AMD Ryzen 7 5800X 8-Core Processor             | 1        | 1.45%   |
-| AMD GX-416RA SOC                               | 1        | 1.45%   |
-| AMD GX-222GC SOC with Radeon R5E Graphics      | 1        | 1.45%   |
-| AMD G-T40E Processor                           | 1        | 1.45%   |
-| AMD FX-6300 Six-Core Processor                 | 1        | 1.45%   |
-| AMD Athlon 64 X2 Dual Core Processor 4000+     | 1        | 1.45%   |
-| AMD Athlon 5370 APU with Radeon R3             | 1        | 1.45%   |
-|                                                | 1        | 1.45%   |
+| Model                                 | Desktops | Percent |
+|---------------------------------------|----------|---------|
+| AMD GX-412TC SOC                      | 6        | 8.7%    |
+| Intel Core i7-4770K CPU @ 3.50GHz     | 3        | 4.35%   |
+| Intel Core i5-6500 CPU @ 3.20GHz      | 3        | 4.35%   |
+| Intel Core i7-7500U CPU @ 2.70GHz     | 2        | 2.9%    |
+| Intel Celeron CPU J3160 @ 1.60GHz     | 2        | 2.9%    |
+| Intel Atom CPU E3845 @ 1.91GHz        | 2        | 2.9%    |
+| AMD Ryzen 9 3900X 12-Core Processor   | 2        | 2.9%    |
+| AMD Ryzen 7 1700 Eight-Core Processor | 2        | 2.9%    |
+| Intel Xeon E-2224 CPU @ 3.40GHz       | 1        | 1.45%   |
+| Intel Xeon CPU E5450 @ 3.00GHz        | 1        | 1.45%   |
+| Intel Xeon CPU E3-1515M v5 @ 2.80GHz  | 1        | 1.45%   |
+| Intel Xeon CPU E3-1230L v3 @ 1.80GHz  | 1        | 1.45%   |
+| Intel Xeon CPU E3-1225 v3 @ 3.20GHz   | 1        | 1.45%   |
+| Intel Xeon CPU E3-1220 v5 @ 3.00GHz   | 1        | 1.45%   |
+| Intel Pentium Dual-Core CPU E5700     | 1        | 1.45%   |
+| Intel Pentium CPU G6950 @ 2.80GHz     | 1        | 1.45%   |
+| Intel Pentium CPU G4400 @ 3.30GHz     | 1        | 1.45%   |
+| Intel Core i7-6850K CPU @ 3.60GHz     | 1        | 1.45%   |
+| Intel Core i7-6700K CPU @ 4.00GHz     | 1        | 1.45%   |
+| Intel Core i7-6500U CPU @ 2.50GHz     | 1        | 1.45%   |
+| Intel Core i7-5550U CPU @ 2.00GHz     | 1        | 1.45%   |
+| Intel Core i7-4790K CPU @ 4.00GHz     | 1        | 1.45%   |
+| Intel Core i7-4600U CPU @ 2.10GHz     | 1        | 1.45%   |
+| Intel Core i7-3770S CPU @ 3.10GHz     | 1        | 1.45%   |
+| Intel Core i7-2600 CPU @ 3.40GHz      | 1        | 1.45%   |
+| Intel Core i5-6400 CPU @ 2.70GHz      | 1        | 1.45%   |
+| Intel Core i5-4690K CPU @ 3.50GHz     | 1        | 1.45%   |
+| Intel Core i5-4670K CPU @ 3.40GHz     | 1        | 1.45%   |
+| Intel Core i5-4590 CPU @ 3.30GHz      | 1        | 1.45%   |
+| Intel Core i5-4570 CPU @ 3.20GHz      | 1        | 1.45%   |
+| Intel Core i5-3570K CPU @ 3.40GHz     | 1        | 1.45%   |
+| Intel Core i5-3470S CPU @ 2.90GHz     | 1        | 1.45%   |
+| Intel Core i5-3470 CPU @ 3.20GHz      | 1        | 1.45%   |
+| Intel Core i5-3450 CPU @ 3.10GHz      | 1        | 1.45%   |
+| Intel Core i5-2300 CPU @ 2.80GHz      | 1        | 1.45%   |
+| Intel Core i5-2300 CPU                | 1        | 1.45%   |
+| Intel Core i5 CPU 750 @ 2.67GHz       | 1        | 1.45%   |
+| Intel Core i3-6100 CPU @ 3.70GHz      | 1        | 1.45%   |
+| Intel Core i3-4130 CPU @ 3.40GHz      | 1        | 1.45%   |
+| Intel Core i3-3220 CPU @ 3.30GHz      | 1        | 1.45%   |
 
 CPU Model Family
 ----------------
@@ -1816,8 +1736,6 @@ Controller models
 | Broadcom NetXtreme BCM5762 Gigabit Ethernet PCIe                              | 1        | 0.88%   |
 | Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 1        | 0.88%   |
 | Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 1        | 0.88%   |
-| Broadcom NetXtreme BCM5701 Gigabit Ethernet                                   | 1        | 0.88%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1        | 0.88%   |
 
 Wireless Vendor
 ---------------
@@ -2111,68 +2029,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                            | 5        | 6.85%   |
-| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s                    | 4        | 5.48%   |
-| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s                   | 2        | 2.74%   |
-| Samsung RAM Module 4GB DIMM DDR4 2133MT/s                              | 2        | 2.74%   |
-| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s                 | 2        | 2.74%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                                   | 1        | 1.37%   |
-| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                             | 1        | 1.37%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1332MT/s                           | 1        | 1.37%   |
-| Unknown RAM Module 2GB DIMM SDRAM                                      | 1        | 1.37%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                               | 1        | 1.37%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1332MT/s                           | 1        | 1.37%   |
-| Unknown RAM Module 1GB DIMM DDR2 800MT/s                               | 1        | 1.37%   |
-| Unknown RAM Module 1GB DIMM DDR2 333MT/s                               | 1        | 1.37%   |
-| Unknown RAM Module 16GB DIMM DDR4 2133MT/s                             | 1        | 1.37%   |
-| Unknown RAM Module 1024MB DIMM DDR3 1332MT/s                           | 1        | 1.37%   |
-| SK hynix RAM HMT451U7AFR8C-PB 4GB DIMM DDR3 1600MT/s                   | 1        | 1.37%   |
-| SK hynix RAM HMA451U6AFR8N-TF 4GB DIMM DDR4 2133MT/s                   | 1        | 1.37%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                              | 1        | 1.37%   |
-| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s                    | 1        | 1.37%   |
-| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s                  | 1        | 1.37%   |
-| Samsung RAM M471B5173BH0-YK0 4GB DIMM DDR3 1600MT/s                    | 1        | 1.37%   |
-| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s                  | 1        | 1.37%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s                    | 1        | 1.37%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s                    | 1        | 1.37%   |
-| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 1600MT/s                    | 1        | 1.37%   |
-| Micron RAM Module 2GB DIMM DDR3 1333MT/s                               | 1        | 1.37%   |
-| Micron RAM M378B5273BH1-CK0 8GB SODIMM DDR3 1600MT/s                   | 1        | 1.37%   |
-| Micron RAM 16KTF1G64HZ-1G9P1 8GB DIMM DDR3 1867MT/s                    | 1        | 1.37%   |
-| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3 1600MT/s                   | 1        | 1.37%   |
-| Micron RAM 16ATF2G64AZ-2G6J1 16GB DIMM DDR4 2667MT/s                   | 1        | 1.37%   |
-| Kingston RAM 99U5458-005.A00LF 4GB DIMM DDR3 1333MT/s                  | 1        | 1.37%   |
-| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s                  | 1        | 1.37%   |
-| Kingston RAM 9965667-001.A00G 16GB SODIMM DDR4 2133MT/s                | 1        | 1.37%   |
-| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s                  | 1        | 1.37%   |
-| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s                  | 1        | 1.37%   |
-| Kingston RAM 9905471-006.A01LF 4GB DIMM 1333MT/s                       | 1        | 1.37%   |
-| Kingston RAM 9905458-009.A00LF 2GB DIMM DDR3 1333MT/s                  | 1        | 1.37%   |
-| Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s                  | 1        | 1.37%   |
-| Kimtigo RAM KT8GS3EDF 8GB SODIMM DDR3 1600MT/s                         | 1        | 1.37%   |
-| HPE RAM 879527-091 16GB DIMM DDR4 2666MT/s                             | 1        | 1.37%   |
-| HP RAM 862690-091 16GB DIMM DDR4 2400MT/s                              | 1        | 1.37%   |
-| HP RAM 797258-081 8GB DIMM DDR4 2133MT/s                               | 1        | 1.37%   |
-| G.Skill RAM F4-3600C18-16GVK 16GB DIMM DDR4 2133MT/s                   | 1        | 1.37%   |
-| G.Skill RAM F4-3600C16-16GTZRC 16GB DIMM DDR4 2133MT/s                 | 1        | 1.37%   |
-| Elpida RAM EBJ21UE8BDF0-DJ-F 2GB DIMM DDR3 1333MT/s                    | 1        | 1.37%   |
-| Crucial RAM CT16G4DFD8213.C16FDD 16GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
-| Crucial RAM CT102464BF160B.C16 8GB SODIMM DDR3 1600MT/s                | 1        | 1.37%   |
-| Crucial RAM BLS8G4D240FSA.16FARG 8192MB DIMM DDR4 2400MT/s             | 1        | 1.37%   |
-| Crucial RAM BLS8G3D1609DS 8192MB DIMM DDR3 800MT/s                     | 1        | 1.37%   |
-| Crucial RAM BLS4G3D1609DS 4GB DIMM DDR3 800MT/s                        | 1        | 1.37%   |
-| Corsair RAM CMX8GX3M2A1333C9 4GB DIMM 1333MT/s                         | 1        | 1.37%   |
-| Corsair RAM CMX16GX3M2A1600C11 8GB DIMM DDR3 1333MT/s                  | 1        | 1.37%   |
-| Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1333MT/s                    | 1        | 1.37%   |
-| Corsair RAM CMSX8GX4M1A2400C16 8GB SODIMM DDR4 2400MT/s                | 1        | 1.37%   |
-| Corsair RAM CMSO4GX3M1A1333C9 4GB SODIMM 1333MT/s                      | 1        | 1.37%   |
-| Corsair RAM CML16GX3M2A1600C9 8GB DIMM DDR3 1600MT/s                   | 1        | 1.37%   |
-| Corsair RAM CMK16GX4M2Z2666C16 8GB DIMM DDR4 2666MT/s                  | 1        | 1.37%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s                  | 1        | 1.37%   |
-| Corsair RAM CMD16GX3M2A2400C10 8GB DIMM DDR3 1600MT/s                  | 1        | 1.37%   |
-| Corsair RAM 434D3258313032342D363430304334202020 1GB DIMM DDR2 667MT/s | 1        | 1.37%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s             | 5        | 6.85%   |
+| Corsair RAM CML8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s     | 4        | 5.48%   |
+| SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s    | 2        | 2.74%   |
+| Samsung RAM Module 4GB DIMM DDR4 2133MT/s               | 2        | 2.74%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s  | 2        | 2.74%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                    | 1        | 1.37%   |
+| Unknown RAM Module 4GB SODIMM DDR3 667MT/s              | 1        | 1.37%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1332MT/s            | 1        | 1.37%   |
+| Unknown RAM Module 2GB DIMM SDRAM                       | 1        | 1.37%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 1        | 1.37%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1332MT/s            | 1        | 1.37%   |
+| Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 1        | 1.37%   |
+| Unknown RAM Module 1GB DIMM DDR2 333MT/s                | 1        | 1.37%   |
+| Unknown RAM Module 16GB DIMM DDR4 2133MT/s              | 1        | 1.37%   |
+| Unknown RAM Module 1024MB DIMM DDR3 1332MT/s            | 1        | 1.37%   |
+| SK hynix RAM HMT451U7AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.37%   |
+| SK hynix RAM HMA451U6AFR8N-TF 4GB DIMM DDR4 2133MT/s    | 1        | 1.37%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
+| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M471B5173BH0-YK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s   | 1        | 1.37%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Samsung RAM M378B1G73DB0-CK0 8GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
+| Micron RAM Module 2GB DIMM DDR3 1333MT/s                | 1        | 1.37%   |
+| Micron RAM M378B5273BH1-CK0 8GB SODIMM DDR3 1600MT/s    | 1        | 1.37%   |
+| Micron RAM 16KTF1G64HZ-1G9P1 8GB DIMM DDR3 1867MT/s     | 1        | 1.37%   |
+| Micron RAM 16JTF51264AZ-1G6M1 4GB DIMM DDR3             | 1        | 1.37%   |
+| Micron RAM 16ATF2G64AZ-2G6J1 16GB DIMM DDR4 2667MT/s    | 1        | 1.37%   |
+| Kingston RAM 99U5458-005.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s   | 1        | 1.37%   |
+| Kingston RAM 9965667-001.A00G 16GB SODIMM DDR4 2133MT/s | 1        | 1.37%   |
+| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kingston RAM 9905471-006.A01LF 4GB DIMM 1333MT/s        | 1        | 1.37%   |
+| Kingston RAM 9905458-009.A00LF 2GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kingston RAM 9905403-011.A02LF 2GB DIMM DDR3 1333MT/s   | 1        | 1.37%   |
+| Kimtigo RAM KT8GS3EDF 8GB SODIMM DDR3 1600MT/s          | 1        | 1.37%   |
+| HPE RAM 879527-091 16GB DIMM DDR4 2666MT/s              | 1        | 1.37%   |
 
 Memory Kind
 -----------

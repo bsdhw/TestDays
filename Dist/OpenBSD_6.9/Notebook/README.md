@@ -402,21 +402,6 @@ Motherboard model
 | HP 530 Notebook PC(KP477AA#ACB)             | 1         | 1.82%   |
 | HP 250 G5 Notebook PC                       | 1         | 1.82%   |
 | Dell XPS 13 9360                            | 1         | 1.82%   |
-| Dell XPS 13 7390 2-in-1                     | 1         | 1.82%   |
-| Dell Latitude E7270                         | 1         | 1.82%   |
-| Clevo W240EU/W250EUQ/W270EUQ                | 1         | 1.82%   |
-| ASUS X555LB                                 | 1         | 1.82%   |
-| ASUS UX430UNR                               | 1         | 1.82%   |
-| ASUS UX305FA                                | 1         | 1.82%   |
-| ASUS 1000HE                                 | 1         | 1.82%   |
-| Apple PowerBook5,2                          | 1         | 1.82%   |
-| Apple MacBookPro6,2                         | 1         | 1.82%   |
-| Apple MacBookAir6,2                         | 1         | 1.82%   |
-| Acer Spin SP111-32N                         | 1         | 1.82%   |
-| Acer Aspire ES1-132                         | 1         | 1.82%   |
-| Acer AOA150                                 | 1         | 1.82%   |
-| Acer AO531h                                 | 1         | 1.82%   |
-| Unknown                                     | 1         | 1.82%   |
 
 Model Family
 ------------
@@ -696,10 +681,6 @@ Geographic location (city)
 | Commack           | 1         | 1.79%   |
 | Clearwater        | 1         | 1.79%   |
 | Bordeaux          | 1         | 1.79%   |
-| Bielefeld         | 1         | 1.79%   |
-| Arendal           | 1         | 1.79%   |
-| Ankara            | 1         | 1.79%   |
-| Aachen            | 1         | 1.79%   |
 
 Drives
 ------
@@ -784,17 +765,6 @@ Hard drive models
 | NVMe KBG40ZNV512G KIO 512GB      | 1         | 1.79%   |
 | NVMe INTEL SSDPEKKF25 256GB      | 1         | 1.79%   |
 | NVMe Force MP510 960GB           | 1         | 1.79%   |
-| Netac SSD 128GB                  | 1         | 1.79%   |
-| Kingston SA400S37480G 480GB      | 1         | 1.79%   |
-| Kingston SA400S37240G 240GB      | 1         | 1.79%   |
-| Hitachi HCC545016B9A300 160GB    | 1         | 1.79%   |
-| HGST HTE725032A7E630 320GB       | 1         | 1.79%   |
-| Fujitsu MHV2100BH PL 100GB       | 1         | 1.79%   |
-| Crucial CT960BX500SSD1 960GB     | 1         | 1.79%   |
-| Crucial CT500MX500SSD1 500GB     | 1         | 1.79%   |
-| Crucial CT240BX500SSD1 240GB     | 1         | 1.79%   |
-| Apple SSD SD0128F 121GB          | 1         | 1.79%   |
-| A-DATA SP550 480GB               | 1         | 1.79%   |
 
 HDD Vendor
 ----------
@@ -1144,12 +1114,6 @@ Processor models
 | Intel Celeron CPU N3350 @ 1.10GHz                             | 1         | 1.82%   |
 | Intel Celeron CPU N2840 @ 2.16GHz                             | 1         | 1.82%   |
 | Intel Atom CPU Z530 @ 1.60GHz ("GenuineIntel" 686-class)      | 1         | 1.82%   |
-| Intel Atom CPU N280 @ 1.66GHz ("GenuineIntel" 686-class)      | 1         | 1.82%   |
-| AMD Ryzen 7 4800H with Radeon Graphics                        | 1         | 1.82%   |
-| AMD Ryzen 5 PRO 4650U with Radeon Graphics                    | 1         | 1.82%   |
-| AMD Ryzen 5 4600H with Radeon Graphics                        | 1         | 1.82%   |
-| AMD Athlon II Neo K325 Dual-Core Processor                    | 1         | 1.82%   |
-|                                                               | 1         | 1.82%   |
 
 CPU Model Family
 ----------------
@@ -1621,26 +1585,6 @@ Controller models
 | Intel PRO/Wireless 2915ABG [Calexico2] Network Connection                     | 1         | 0.94%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                               | 1         | 0.94%   |
 | Intel Ethernet Connection I219-LM                                             | 1         | 0.94%   |
-| Intel Ethernet Connection (6) I219-V                                          | 1         | 0.94%   |
-| Intel Ethernet Connection (4) I219-V                                          | 1         | 0.94%   |
-| Intel Ethernet Connection (10) I219-V                                         | 1         | 0.94%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 1         | 0.94%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                               | 1         | 0.94%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                             | 1         | 0.94%   |
-| Intel Centrino Wireless-N 2230                                                | 1         | 0.94%   |
-| Intel Centrino Wireless-N 2200                                                | 1         | 0.94%   |
-| Intel Centrino Advanced-N 6235                                                | 1         | 0.94%   |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Modem Controller              | 1         | 0.94%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller             | 1         | 0.94%   |
-| Intel 82562ET/EZ/GT/GZ - PRO/100 VE (LOM) Ethernet Controller Mobile          | 1         | 0.94%   |
-| Intel 82540EP Gigabit Ethernet Controller (Mobile)                            | 1         | 0.94%   |
-| Fibocom L830-EB-00 LTE WWAN Modem                                             | 1         | 0.94%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                | 1         | 0.94%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 1         | 0.94%   |
-| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express                      | 1         | 0.94%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1         | 0.94%   |
-| Broadcom BCM43224 802.11a/b/g/n                                               | 1         | 0.94%   |
-| Broadcom BCM4306 802.11b/g Wireless LAN Controller                            | 1         | 0.94%   |
 
 Wireless Vendor
 ---------------

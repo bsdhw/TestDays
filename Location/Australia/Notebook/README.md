@@ -492,16 +492,16 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2019 | 5         | 14.71%  |
+| 2019 | 4         | 11.76%  |
 | 2017 | 4         | 11.76%  |
 | 2015 | 4         | 11.76%  |
 | 2014 | 4         | 11.76%  |
 | 2012 | 4         | 11.76%  |
 | 2020 | 3         | 8.82%   |
 | 2018 | 2         | 5.88%   |
+| 2016 | 2         | 5.88%   |
 | 2013 | 2         | 5.88%   |
 | 2010 | 2         | 5.88%   |
-| 2016 | 1         | 2.94%   |
 | 2011 | 1         | 2.94%   |
 | 2009 | 1         | 2.94%   |
 | 2007 | 1         | 2.94%   |
@@ -1473,10 +1473,6 @@ Controller models
 | Intel Centrino Advanced-N 6235                                     | 1         | 1.47%   |
 | Intel Cannon Lake PCH CNVi WiFi                                    | 1         | 1.47%   |
 | Intel 82573L Gigabit Ethernet Controller                           | 1         | 1.47%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                  | 1         | 1.47%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                 | 1         | 1.47%   |
-| Broadcom BCM43228 802.11a/b/g/n                                    | 1         | 1.47%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller             | 1         | 1.47%   |
 
 Wireless Vendor
 ---------------

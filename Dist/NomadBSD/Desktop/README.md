@@ -437,8 +437,6 @@ Motherboard model
 | ASRock B550 Steel Legend                 | 1        | 2.33%   |
 | ASRock B450M Pro4                        | 1        | 2.33%   |
 | ASRock AB350 Pro4                        | 1        | 2.33%   |
-| Acer Aspire M3900                        | 1        | 2.33%   |
-| Unknown                                  | 1        | 2.33%   |
 
 Model Family
 ------------
@@ -791,26 +789,6 @@ Hard drive models
 | Seagate ST3250823AS 250GB                 | 1        | 1.19%   |
 | Seagate ST3250310AS 250GB                 | 1        | 1.19%   |
 | Seagate ST31000528AS 1TB                  | 1        | 1.19%   |
-| Seagate ST3000DM008-2DM166 3TB            | 1        | 1.19%   |
-| Seagate ST1000LX015-1U7172 1TB            | 1        | 1.19%   |
-| Seagate ST1000LM049-2GH172 1TB            | 1        | 1.19%   |
-| Seagate ST1000DM003-1CH162 1TB            | 1        | 1.19%   |
-| SanDisk SSD PLUS 120GB                    | 1        | 1.19%   |
-| Samsung SSD 970 EVO Plus 1TB              | 1        | 1.19%   |
-| Samsung SSD 970 EVO 2TB                   | 1        | 1.19%   |
-| Samsung SSD 960 EVO 1TB                   | 1        | 1.19%   |
-| Samsung SSD 870 EVO 1TB                   | 1        | 1.19%   |
-| Samsung SSD 860 EVO 1TB                   | 1        | 1.19%   |
-| Samsung SSD 850 EVO M.2 500GB             | 1        | 1.19%   |
-| Samsung SSD 850 EVO 500GB                 | 1        | 1.19%   |
-| Samsung SSD 840 EVO 250GB                 | 1        | 1.19%   |
-| Samsung SP2504C 250GB                     | 1        | 1.19%   |
-| Samsung HM160HI 160GB                     | 1        | 1.19%   |
-| Samsung HD161HJ 160GB                     | 1        | 1.19%   |
-| Samsung HD161GJ 160GB                     | 1        | 1.19%   |
-| ORICO V500 1TB                            | 1        | 1.19%   |
-| Maxtor STM3250310AS 250GB                 | 1        | 1.19%   |
-| Kingston SA400S37240G 240GB               | 1        | 1.19%   |
 
 HDD Vendor
 ----------
@@ -1093,16 +1071,6 @@ Storage controller models
 | Intel 82Q35 Express PT IDER Controller                                         | 1        | 1.18%   |
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                     | 1        | 1.18%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                     | 1        | 1.18%   |
-| Intel 82801IR/IO/IH (ICH9R/DO/DH) 4 port SATA Controller [IDE mode]            | 1        | 1.18%   |
-| Intel 82801I (ICH9 Family) 2 port SATA Controller [IDE mode]                   | 1        | 1.18%   |
-| Intel 82801GR/GDH (ICH7R/ICH7DH) SATA Controller [RAID mode]                   | 1        | 1.18%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 1        | 1.18%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 1        | 1.18%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1        | 1.18%   |
-| AMD SB600 Non-Raid-5 SATA                                                      | 1        | 1.18%   |
-| AMD SB600 IDE                                                                  | 1        | 1.18%   |
-| AMD FCH SATA Controller D                                                      | 1        | 1.18%   |
-| AMD 300 Series Chipset SATA Controller                                         | 1        | 1.18%   |
 
 Storage Kind
 ------------
@@ -1679,10 +1647,6 @@ Controller models
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070]                  | 1        | 1.41%   |
 | Brooktrout TruFax Board                                                               | 1        | 1.41%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                               | 1        | 1.41%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                       | 1        | 1.41%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                    | 1        | 1.41%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                                    | 1        | 1.41%   |
-| Broadcom BCM43142 802.11b/g/n                                                         | 1        | 1.41%   |
 
 Wireless Vendor
 ---------------
@@ -1914,60 +1878,48 @@ Sound card models
 ![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                                                             | Desktops | Percent |
-|-----------------------------------------------------------------------------------|----------|---------|
-| Nvidia GP106 High Definition Audio Controller                                     | 4        | 4.76%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                           | 4        | 4.76%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 4        | 4.76%   |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                     | 3        | 3.57%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 3        | 3.57%   |
-| Intel 200 Series PCH HD Audio                                                     | 3        | 3.57%   |
-| AMD Starship/Matisse HD Audio Controller                                          | 3        | 3.57%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 3        | 3.57%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                               | 3        | 3.57%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                             | 2        | 2.38%   |
-| Intel C600/X79 series chipset High Definition Audio Controller                    | 2        | 2.38%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                                  | 2        | 2.38%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 2        | 2.38%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 2        | 2.38%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                          | 2        | 2.38%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 2        | 2.38%   |
-| AMD SBx00 Azalia (Intel HDA)                                                      | 2        | 2.38%   |
-| AMD Navi 21/23 HDMI/DP Audio Controller                                           | 2        | 2.38%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                        | 2        | 2.38%   |
-| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                            | 2        | 2.38%   |
-| XMOS XMOS XS1-U8 MFA (ST)                                                         | 1        | 1.19%   |
-| XMOS Shanling UA2                                                                 | 1        | 1.19%   |
-| Sony Sony Audio                                                                   | 1        | 1.19%   |
-| Sony DualShock 4 [CUH-ZCT2x]                                                      | 1        | 1.19%   |
-| Quanta USB Audio Realtek USB2.0 Audio Microphone                                  | 1        | 1.19%   |
-| Nvidia MCP73 High Definition Audio                                                | 1        | 1.19%   |
-| Nvidia MCP61 High Definition Audio                                                | 1        | 1.19%   |
-| Nvidia High Definition Audio Controller                                           | 1        | 1.19%   |
-| Nvidia GP108 High Definition Audio Controller                                     | 1        | 1.19%   |
-| Nvidia GP104 High Definition Audio Controller                                     | 1        | 1.19%   |
-| Nvidia GA104 High Definition Audio Controller                                     | 1        | 1.19%   |
-| LG Electronics USB Audio LG UltraFine Display Audio                               | 1        | 1.19%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                      | 1        | 1.19%   |
-| Intel Cannon Lake PCH cAVS                                                        | 1        | 1.19%   |
-| Intel 9 Series Chipset Family HD Audio Controller                                 | 1        | 1.19%   |
-| Intel 82801JD/DO (ICH10 Family) HD Audio Controller                               | 1        | 1.19%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                    | 1        | 1.19%   |
-| Creative Technology Sound Blaster Omni Surround 5.1                               | 1        | 1.19%   |
-| Corsair Corsair VOID PRO Wireless Gaming Headset                                  | 1        | 1.19%   |
-| Corsair Corsair ST100 Headset Output                                              | 1        | 1.19%   |
-| C-Media Electronics Audio Device                                                  | 1        | 1.19%   |
-| C-Media Electronics Audio Adapter                                                 | 1        | 1.19%   |
-| Audio-Technica AT2020USB+                                                         | 1        | 1.19%   |
-| AMD Vega 20 HDMI Audio [Radeon VII]                                               | 1        | 1.19%   |
-| AMD Renoir Radeon High Definition Audio Controller                                | 1        | 1.19%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                               | 1        | 1.19%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]           | 1        | 1.19%   |
-| AMD Kabini HDMI/DP Audio                                                          | 1        | 1.19%   |
-| AMD Juniper HDMI Audio [Radeon HD 5700 Series]                                    | 1        | 1.19%   |
-| AMD FCH Azalia Controller                                                         | 1        | 1.19%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1        | 1.19%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                      | 1        | 1.19%   |
+| Model                                                                      | Desktops | Percent |
+|----------------------------------------------------------------------------|----------|---------|
+| Nvidia GP106 High Definition Audio Controller                              | 4        | 4.76%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                    | 4        | 4.76%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4        | 4.76%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 3        | 3.57%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 3        | 3.57%   |
+| Intel 200 Series PCH HD Audio                                              | 3        | 3.57%   |
+| AMD Starship/Matisse HD Audio Controller                                   | 3        | 3.57%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 3        | 3.57%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 3        | 3.57%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 2.38%   |
+| Intel C600/X79 series chipset High Definition Audio Controller             | 2        | 2.38%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 2        | 2.38%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 2        | 2.38%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2        | 2.38%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 2.38%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 2.38%   |
+| AMD SBx00 Azalia (Intel HDA)                                               | 2        | 2.38%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                                    | 2        | 2.38%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 2        | 2.38%   |
+| AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 2        | 2.38%   |
+| XMOS XMOS XS1-U8 MFA (ST)                                                  | 1        | 1.19%   |
+| XMOS Shanling UA2                                                          | 1        | 1.19%   |
+| Sony Sony Audio                                                            | 1        | 1.19%   |
+| Sony DualShock 4 [CUH-ZCT2x]                                               | 1        | 1.19%   |
+| Quanta USB Audio Realtek USB2.0 Audio Microphone                           | 1        | 1.19%   |
+| Nvidia MCP73 High Definition Audio                                         | 1        | 1.19%   |
+| Nvidia MCP61 High Definition Audio                                         | 1        | 1.19%   |
+| Nvidia High Definition Audio Controller                                    | 1        | 1.19%   |
+| Nvidia GP108 High Definition Audio Controller                              | 1        | 1.19%   |
+| Nvidia GP104 High Definition Audio Controller                              | 1        | 1.19%   |
+| Nvidia GA104 High Definition Audio Controller                              | 1        | 1.19%   |
+| LG Electronics USB Audio LG UltraFine Display Audio                        | 1        | 1.19%   |
+| Intel Celeron/Pentium Silver Processor High Definition Audio               | 1        | 1.19%   |
+| Intel Cannon Lake PCH cAVS                                                 | 1        | 1.19%   |
+| Intel 9 Series Chipset Family HD Audio Controller                          | 1        | 1.19%   |
+| Intel 82801JD/DO (ICH10 Family) HD Audio Controller                        | 1        | 1.19%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1        | 1.19%   |
+| Creative Technology Sound Blaster Omni Surround 5.1                        | 1        | 1.19%   |
+| Corsair Corsair VOID PRO Wireless Gaming Headset                           | 1        | 1.19%   |
+| Corsair Corsair ST100 Headset Output                                       | 1        | 1.19%   |
 
 Memory
 ------
@@ -2002,57 +1954,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                  | 2        | 3.85%   |
-| Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                  | 2        | 3.85%   |
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2400MT/s     | 2        | 3.85%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                 | 1        | 1.92%   |
-| Unknown RAM Module 2GB DIMM SDRAM                         | 1        | 1.92%   |
-| Unknown RAM Module 2GB DIMM DDR 1333MT/s                  | 1        | 1.92%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 1.92%   |
-| Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s               | 1        | 1.92%   |
-| SK hynix RAM Zhidian4GDDR800000 4GB DIMM DDR2 800MT/s     | 1        | 1.92%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s      | 1        | 1.92%   |
-| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s      | 1        | 1.92%   |
-| SK hynix RAM HMT31GR7AFR4C-H9 8GB DIMM DDR3 1333MT/s      | 1        | 1.92%   |
-| SK hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s   | 1        | 1.92%   |
-| SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s           | 1        | 1.92%   |
-| Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1333MT/s     | 1        | 1.92%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 1.92%   |
-| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
-| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s       | 1        | 1.92%   |
-| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s        | 1        | 1.92%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 1.92%   |
-| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 1.92%   |
-| Micron RAM 36JSZF1G72PZ-1G4D 8GB DIMM DDR3 1333MT/s       | 1        | 1.92%   |
-| Micron RAM 36JSF1G72PZ-1 8GB DIMM DDR3 1600MT/s           | 1        | 1.92%   |
-| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 1.92%   |
-| Kingston RAM KY996D-ELD 2GB DIMM 1066MT/s                 | 1        | 1.92%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s         | 1        | 1.92%   |
-| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s    | 1        | 1.92%   |
-| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s            | 1        | 1.92%   |
-| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s    | 1        | 1.92%   |
-| Kingston RAM 99U5704-001.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 1.92%   |
-| Kingston RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s    | 1        | 1.92%   |
-| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s    | 1        | 1.92%   |
-| G.Skill RAM F4-3600C17-16GTZSW 16GB DIMM DDR4 3600MT/s    | 1        | 1.92%   |
-| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s       | 1        | 1.92%   |
-| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 2933MT/s       | 1        | 1.92%   |
-| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s     | 1        | 1.92%   |
-| EVGA RAM 8GX-D4-3200-MR 8192MB DIMM DDR4 3200MT/s         | 1        | 1.92%   |
-| Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s            | 1        | 1.92%   |
-| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s     | 1        | 1.92%   |
-| Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s   | 1        | 1.92%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s | 1        | 1.92%   |
-| Crucial RAM BLS8G4D240FSB.16FBD 8GB DIMM DDR4 2933MT/s    | 1        | 1.92%   |
-| Corsair RAM Module 8GB DIMM DDR4 3200MT/s                 | 1        | 1.92%   |
-| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
-| Corsair RAM CMY16GX3M2A2400C11 8GB DIMM DDR3 2400MT/s     | 1        | 1.92%   |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3200MT/s    | 1        | 1.92%   |
-| Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s      | 1        | 1.92%   |
+| Model                                                   | Desktops | Percent |
+|---------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 2        | 3.85%   |
+| Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                | 2        | 3.85%   |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2933MT/s   | 2        | 3.85%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1        | 1.92%   |
+| Unknown RAM Module 2GB DIMM SDRAM                       | 1        | 1.92%   |
+| Unknown RAM Module 2GB DIMM DDR 1333MT/s                | 1        | 1.92%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s             | 1        | 1.92%   |
+| Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s             | 1        | 1.92%   |
+| SK hynix RAM Zhidian4GDDR800000 4GB DIMM DDR2 800MT/s   | 1        | 1.92%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.92%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s    | 1        | 1.92%   |
+| SK hynix RAM HMT31GR7BFR4C-H9 8GB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
+| SK hynix RAM HMT31GR7AFR4C-H9 8GB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
+| SK hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s | 1        | 1.92%   |
+| SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s         | 1        | 1.92%   |
+| Samsung RAM M471B5273CM0-CH9 4GB SODIMM DDR3 1333MT/s   | 1        | 1.92%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.92%   |
+| Samsung RAM M378B5173EB0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s     | 1        | 1.92%   |
+| Nanya RAM NT4GC64B88B1NF-DI 4GB DIMM DDR3 1600MT/s      | 1        | 1.92%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s    | 1        | 1.92%   |
+| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s      | 1        | 1.92%   |
+| Micron RAM 36JSZF1G72PZ-1G4D 8GB DIMM DDR3 1333MT/s     | 1        | 1.92%   |
+| Micron RAM 36JSF1G72PZ-1 8GB DIMM DDR3 1600MT/s         | 1        | 1.92%   |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s    | 1        | 1.92%   |
+| Kingston RAM KY996D-ELD 2GB DIMM 1066MT/s               | 1        | 1.92%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.92%   |
+| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s  | 1        | 1.92%   |
+| Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s          | 1        | 1.92%   |
+| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s  | 1        | 1.92%   |
+| Kingston RAM 99U5704-001.A00G 4GB SODIMM DDR4 2400MT/s  | 1        | 1.92%   |
+| Kingston RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s  | 1        | 1.92%   |
+| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s  | 1        | 1.92%   |
+| G.Skill RAM F4-3600C17-16GTZSW 16GB DIMM DDR4 3600MT/s  | 1        | 1.92%   |
+| G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s     | 1        | 1.92%   |
+| G.Skill RAM F4-3000C16-8GISB 8GB DIMM DDR4 3000MT/s     | 1        | 1.92%   |
+| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s   | 1        | 1.92%   |
+| EVGA RAM 8GX-D4-3200-MR 8192MB DIMM DDR4 3200MT/s       | 1        | 1.92%   |
+| Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s          | 1        | 1.92%   |
 
 Memory Kind
 -----------
@@ -2110,16 +2053,17 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 2400    | 8        | 17.39%  |
 | 1600    | 7        | 15.22%  |
+| 2400    | 6        | 13.04%  |
 | 1333    | 6        | 13.04%  |
 | 800     | 6        | 13.04%  |
 | 3200    | 4        | 8.7%    |
 | 1066    | 4        | 8.7%    |
+| 2933    | 3        | 6.52%   |
 | 3600    | 2        | 4.35%   |
-| 2933    | 2        | 4.35%   |
 | 2667    | 2        | 4.35%   |
 | 1067    | 2        | 4.35%   |
+| 3000    | 1        | 2.17%   |
 | 667     | 1        | 2.17%   |
 | 533     | 1        | 2.17%   |
 | Unknown | 1        | 2.17%   |

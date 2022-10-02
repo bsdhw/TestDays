@@ -839,13 +839,11 @@ Hard drive models
 | Intel SSDSC2CW120A3 120GB         | 1         | 2.08%   |
 | Intel SSDSC2BF180A4L 180GB        | 1         | 2.08%   |
 | Hitachi HTS721060G9AT00 64GB      | 1         | 2.08%   |
-| Hitachi HTS548040M9AT00 40GB      | 1         | 2.08%   |
+| Hitachi HTS548040M9AT00 37GB      | 1         | 2.08%   |
 | HGST HTS545050A7E680 500GB        | 1         | 2.08%   |
 | HP v100w 8GB                      | 1         | 2.08%   |
 | Generic Flash Disk 2GB            | 1         | 2.08%   |
 | Dell PERC H710P 8TB               | 1         | 2.08%   |
-| Crucial CT1000BX500SSD1 1TB       | 1         | 2.08%   |
-| China SATA SSD 120GB              | 1         | 2.08%   |
 
 HDD Vendor
 ----------
@@ -989,7 +987,7 @@ Drive models with a malfunction
 | Intel SSDSC2CW120A3 120GB         | 1         | 1      | 9.09%   |
 | Intel SSDSC2BF180A4L 180GB        | 1         | 1      | 9.09%   |
 | Hitachi HTS721060G9AT00 64GB      | 1         | 1      | 9.09%   |
-| Hitachi HTS548040M9AT00 40GB      | 1         | 2      | 9.09%   |
+| Hitachi HTS548040M9AT00 37GB      | 1         | 2      | 9.09%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1397,10 +1395,6 @@ Graphics card models
 | AMD Park [Mobility Radeon HD 5430/5450/5470]                                             | 1         | 1.79%   |
 | AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                                           | 1         | 1.79%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 1         | 1.79%   |
-| AMD Chelsea XT GL [FirePro M4000]                                                        | 1         | 1.79%   |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                                         | 1         | 1.79%   |
-| AMD Caicos [Radeon HD 6450/7450/8450 / R5 230 OEM]                                       | 1         | 1.79%   |
-| AMD Caicos PRO [Radeon HD 7450]                                                          | 1         | 1.79%   |
 
 GPU Combo
 ---------
@@ -1713,15 +1707,6 @@ Controller models
 | Intel Centrino Ultimate-N 6300                                                        | 1         | 1.16%   |
 | Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller                     | 1         | 1.16%   |
 | Intel 82801DB PRO/100 VE (MOB) Ethernet Controller                                    | 1         | 1.16%   |
-| Intel 82577LM Gigabit Network Connection                                              | 1         | 1.16%   |
-| D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]                  | 1         | 1.16%   |
-| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                                     | 1         | 1.16%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                                      | 1         | 1.16%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                       | 1         | 1.16%   |
-| Broadcom BCM43602 802.11ac Wireless LAN SoC                                           | 1         | 1.16%   |
-| Broadcom BCM4331 802.11a/b/g/n                                                        | 1         | 1.16%   |
-| Broadcom BCM43142 802.11b/g/n                                                         | 1         | 1.16%   |
-| 3Com 3c905C-TX/TX-M [Tornado]                                                         | 1         | 1.16%   |
 
 Wireless Vendor
 ---------------
@@ -1999,9 +1984,6 @@ Sound card models
 | AMD Tonga HDMI Audio [Radeon R9 285/380]                                                          | 1         | 1.37%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 1         | 1.37%   |
 | AMD High Definition Audio Controller                                                              | 1         | 1.37%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 1         | 1.37%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                                                  | 1         | 1.37%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1         | 1.37%   |
 
 Memory
 ------
@@ -2080,9 +2062,6 @@ Memory module models
 | Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s      | 1         | 2.33%   |
 | Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s      | 1         | 2.33%   |
 | Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s            | 1         | 2.33%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s      | 1         | 2.33%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 2933MT/s      | 1         | 2.33%   |
-| A-DATA RAM Module 8GB DIMM DDR4 2666MT/s                   | 1         | 2.33%   |
 
 Memory Kind
 -----------

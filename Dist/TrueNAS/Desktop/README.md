@@ -443,11 +443,11 @@ Motherboard manufacture year
 | Unknown | 6        | 18.18%  |
 | 2018    | 4        | 12.12%  |
 | 2014    | 4        | 12.12%  |
-| 2012    | 4        | 12.12%  |
 | 2019    | 3        | 9.09%   |
 | 2016    | 3        | 9.09%   |
 | 2013    | 3        | 9.09%   |
-| 2011    | 2        | 6.06%   |
+| 2012    | 3        | 9.09%   |
+| 2011    | 3        | 9.09%   |
 | 2021    | 1        | 3.03%   |
 | 2020    | 1        | 3.03%   |
 | 2010    | 1        | 3.03%   |
@@ -703,68 +703,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| WDC WD30EFRX-68EUZN0 3TB            | 4        | 2.68%   |
-| Samsung SSD 860 EVO 250GB           | 4        | 2.68%   |
-| WDC WD40EFRX-68N32N0 4TB            | 3        | 2.01%   |
-| WDC WD60EFRX-68MYMN1 6TB            | 2        | 1.34%   |
-| WDC WD40EFRX-68WT0N0 4TB            | 2        | 1.34%   |
-| WDC WD30EFRX-68AX9N0 3TB            | 2        | 1.34%   |
-| WDC WD20EFRX-68EUZN0 2TB            | 2        | 1.34%   |
-| WDC WD20EFRX-68AX9N0 2TB            | 2        | 1.34%   |
-| Seagate ST500DM002-1BD142 500GB     | 2        | 1.34%   |
-| Kingston SA400S37120G 120GB         | 2        | 1.34%   |
-| HPT DISK 0_9 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_8 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_7 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_6 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_5 18TB                   | 2        | 1.34%   |
-| HPT DISK 0_4 18TB                   | 2        | 1.34%   |
-| HPT DISK 0_3 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_2 3TB                    | 2        | 1.34%   |
-| HPT DISK 0_14 3TB                   | 2        | 1.34%   |
-| HPT DISK 0_13 2TB                   | 2        | 1.34%   |
-| HPT DISK 0_12 1TB                   | 2        | 1.34%   |
-| HPT DISK 0_11 1TB                   | 2        | 1.34%   |
-| HPT DISK 0_10 1TB                   | 2        | 1.34%   |
-| HPT DISK 0_1 6TB                    | 2        | 1.34%   |
-| HPT DISK 0_0 4TB                    | 2        | 1.34%   |
-| Hitachi HDS723020BLA642 2TB         | 2        | 1.34%   |
-| Hitachi HDS722020ALA330 2TB         | 2        | 1.34%   |
-| Crucial M4-CT064M4SSD2 64GB         | 2        | 1.34%   |
-| WDC WD80EFAX-68LHPN0 8TB            | 1        | 0.67%   |
-| WDC WD8004FRYZ-01VAEB0 8TB          | 1        | 0.67%   |
-| WDC WD5000LPLX-08ZNTT0 500GB        | 1        | 0.67%   |
-| WDC WD5000LPLX-00ZNTT0 500GB        | 1        | 0.67%   |
-| WDC WD5000AAKX-00U6AA0 500GB        | 1        | 0.67%   |
-| WDC WD30PURX-64P6ZY0 3TB            | 1        | 0.67%   |
-| WDC WD30EZRX-00MMMB0 3TB            | 1        | 0.67%   |
-| WDC WD30EFRX-68N32N0 3TB            | 1        | 0.67%   |
-| WDC WD3003FZEX-00Z4SA0 3TB          | 1        | 0.67%   |
-| WDC WD3001FFSX-68JNUN0 3TB          | 1        | 0.67%   |
-| WDC WD3000F9YZ-09N20L1 3TB          | 1        | 0.67%   |
-| WDC WD3000F9YZ-09N20L0 3TB          | 1        | 0.67%   |
-| WDC WD20EZRX-00D8PB0 2TB            | 1        | 0.67%   |
-| WDC WD2002FFSX-68PF8N0 2TB          | 1        | 0.67%   |
-| WDC WD10PURX-64E5EY0 1TB            | 1        | 0.67%   |
-| WDC WD10JPVX-80JC3T0 1TB            | 1        | 0.67%   |
-| WDC WD10EZEX-00RKKA0 1TB            | 1        | 0.67%   |
-| WDC WD10EURX-61C57Y0 1TB            | 1        | 0.67%   |
-| WDC WD100EMAZ-00WJTA0 10TB          | 1        | 0.67%   |
-| WD MediaMax WL2000GSA6454 2TB       | 1        | 0.67%   |
-| Toshiba THNSNX032GTNT M.2 2242 32GB | 1        | 0.67%   |
-| Toshiba THNSNX032GTNT 32GB          | 1        | 0.67%   |
-| Toshiba HDWN180 8TB                 | 1        | 0.67%   |
-| Toshiba HDWF180 8TB                 | 1        | 0.67%   |
-| Toshiba HDWD130 3TB                 | 1        | 0.67%   |
-| Toshiba DT01ACA300 3TB              | 1        | 0.67%   |
-| Toshiba DT01ACA200 2TB              | 1        | 0.67%   |
-| Toshiba DT01ACA100 1TB              | 1        | 0.67%   |
-| SPCC SPCCSolidStateDisk 256GB       | 1        | 0.67%   |
-| Seagate ST980310AS 80GB             | 1        | 0.67%   |
-| Seagate ST9320421AS 320GB           | 1        | 0.67%   |
-| Seagate ST9320325AS 320GB           | 1        | 0.67%   |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| WDC WD30EFRX-68EUZN0 3TB        | 4        | 2.68%   |
+| Samsung SSD 860 EVO 250GB       | 4        | 2.68%   |
+| WDC WD40EFRX-68N32N0 4TB        | 3        | 2.01%   |
+| WDC WD60EFRX-68MYMN1 6TB        | 2        | 1.34%   |
+| WDC WD40EFRX-68WT0N0 4TB        | 2        | 1.34%   |
+| WDC WD30EFRX-68AX9N0 3TB        | 2        | 1.34%   |
+| WDC WD20EFRX-68EUZN0 2TB        | 2        | 1.34%   |
+| WDC WD20EFRX-68AX9N0 2TB        | 2        | 1.34%   |
+| Seagate ST500DM002-1BD142 500GB | 2        | 1.34%   |
+| Kingston SA400S37120G 120GB     | 2        | 1.34%   |
+| HPT DISK 0_9 3TB                | 2        | 1.34%   |
+| HPT DISK 0_8 3TB                | 2        | 1.34%   |
+| HPT DISK 0_7 3TB                | 2        | 1.34%   |
+| HPT DISK 0_6 3TB                | 2        | 1.34%   |
+| HPT DISK 0_5 18TB               | 2        | 1.34%   |
+| HPT DISK 0_4 18TB               | 2        | 1.34%   |
+| HPT DISK 0_3 3TB                | 2        | 1.34%   |
+| HPT DISK 0_2 3TB                | 2        | 1.34%   |
+| HPT DISK 0_14 3TB               | 2        | 1.34%   |
+| HPT DISK 0_13 2TB               | 2        | 1.34%   |
+| HPT DISK 0_12 1TB               | 2        | 1.34%   |
+| HPT DISK 0_11 1TB               | 2        | 1.34%   |
+| HPT DISK 0_10 1TB               | 2        | 1.34%   |
+| HPT DISK 0_1 6TB                | 2        | 1.34%   |
+| HPT DISK 0_0 4TB                | 2        | 1.34%   |
+| Hitachi HDS723020BLA642 2TB     | 2        | 1.34%   |
+| Hitachi HDS722020ALA330 2TB     | 2        | 1.34%   |
+| Crucial M4-CT064M4SSD2 64GB     | 2        | 1.34%   |
+| WDC WD80EFAX-68LHPN0 8TB        | 1        | 0.67%   |
+| WDC WD8004FRYZ-01VAEB0 8TB      | 1        | 0.67%   |
+| WDC WD5000LPLX-08ZNTT0 500GB    | 1        | 0.67%   |
+| WDC WD5000LPLX-00ZNTT0 500GB    | 1        | 0.67%   |
+| WDC WD5000AAKX-00U6AA0 500GB    | 1        | 0.67%   |
+| WDC WD30PURX-64P6ZY0 3TB        | 1        | 0.67%   |
+| WDC WD30EZRX-00MMMB0 3TB        | 1        | 0.67%   |
+| WDC WD30EFRX-68N32N0 3TB        | 1        | 0.67%   |
+| WDC WD3003FZEX-00Z4SA0 3TB      | 1        | 0.67%   |
+| WDC WD3001FFSX-68JNUN0 3TB      | 1        | 0.67%   |
+| WDC WD3000F9YZ-09N20L1 3TB      | 1        | 0.67%   |
+| WDC WD3000F9YZ-09N20L0 3TB      | 1        | 0.67%   |
 
 HDD Vendor
 ----------
@@ -846,13 +826,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 58     | 33.33%  |
-| 1.01-2.0   | 13       | 40     | 18.06%  |
-| 2.01-3.0   | 12       | 73     | 16.67%  |
-| 3.01-4.0   | 7        | 24     | 9.72%   |
-| 4.01-10.0  | 7        | 15     | 9.72%   |
-| 0.51-1.0   | 6        | 24     | 8.33%   |
-| 10.01-20.0 | 3        | 6      | 4.17%   |
+| 0.01-0.5   | 24       | 53     | 32.88%  |
+| 1.01-2.0   | 14       | 45     | 19.18%  |
+| 2.01-3.0   | 12       | 73     | 16.44%  |
+| 3.01-4.0   | 7        | 24     | 9.59%   |
+| 4.01-10.0  | 7        | 15     | 9.59%   |
+| 0.51-1.0   | 6        | 24     | 8.22%   |
+| 10.01-20.0 | 3        | 6      | 4.11%   |
 
 Space Total
 -----------
@@ -1069,11 +1049,6 @@ Storage controller models
 | Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                              | 1        | 1.32%   |
 | ASMedia ASM1061 SATA IDE Controller                                              | 1        | 1.32%   |
 | Areca ARC-188x series PCIe 2.0/3.0 to SAS/SATA 6/12Gb RAID Controller            | 1        | 1.32%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                 | 1        | 1.32%   |
-| AMD FCH IDE Controller                                                           | 1        | 1.32%   |
-| AMD 500 Series Chipset SATA Controller                                           | 1        | 1.32%   |
-| AMD 400 Series Chipset SATA Controller                                           | 1        | 1.32%   |
-| Unknown                                                                          | 1        | 1.32%   |
 
 Storage Kind
 ------------
@@ -1086,11 +1061,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | Kind | Desktops | Percent |
 |------|----------|---------|
 | SATA | 30       | 50%     |
-| RAID | 10       | 16.67%  |
+| RAID | 11       | 18.33%  |
 | IDE  | 7        | 11.67%  |
 | SAS  | 6        | 10%     |
 | NVMe | 5        | 8.33%   |
-| SCSI | 2        | 3.33%   |
+| SCSI | 1        | 1.67%   |
 
 Processor
 ---------
@@ -1699,7 +1674,7 @@ Memory module models
 | Samsung RAM Module 8192MB DIMM DDR3 1600MT/s             | 1        | 2.86%   |
 | Samsung RAM M393B2G70BH0-CH9 16384MB DIMM DDR3 1066MT/s  | 1        | 2.86%   |
 | Samsung RAM M393B1K70DH0-CH9 8192MB DIMM DDR3 800MT/s    | 1        | 2.86%   |
-| Samsung RAM M391B5273CH0-CH9 8GB DIMM DDR3 1600MT/s      | 1        | 2.86%   |
+| Samsung RAM M391B5273CH0-CH9 4GB DIMM DDR3 1600MT/s      | 1        | 2.86%   |
 | Samsung RAM M391B5173QH0-YK0 4GB DIMM DDR3 1600MT/s      | 1        | 2.86%   |
 | Samsung RAM M391B1G73BH0-YH9 8192MB DIMM DDR3 1333MT/s   | 1        | 2.86%   |
 | PNY RAM 8GBF1X08QFHH38-135-K 8192MB DIMM DDR4 2133MT/s   | 1        | 2.86%   |
