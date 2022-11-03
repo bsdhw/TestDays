@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 53
+Total: 46
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -170,22 +170,15 @@ Total: 53
 | Casper    | EXCALIBUR G900              | [539cf08655](https://bsd-hardware.info/?probe=539cf08655) | Dec 24, 2021 |
 | Lenovo    | ThinkPad X1 Carbon Gen 9... | [8f9e9ddde5](https://bsd-hardware.info/?probe=8f9e9ddde5) | Dec 02, 2021 |
 | Lenovo    | IdeaPad Y700-15ISK 80NV     | [0fa0f325e9](https://bsd-hardware.info/?probe=0fa0f325e9) | Oct 28, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [7f77c09ea1](https://bsd-hardware.info/?probe=7f77c09ea1) | Oct 28, 2021 |
 | Lenovo    | ThinkPad T490s 20NYS3TU0... | [d377309110](https://bsd-hardware.info/?probe=d377309110) | Oct 02, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [cec09523c6](https://bsd-hardware.info/?probe=cec09523c6) | Sep 29, 2021 |
 | Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [2a54a0c338](https://bsd-hardware.info/?probe=2a54a0c338) | Sep 14, 2021 |
 | Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [7979c87340](https://bsd-hardware.info/?probe=7979c87340) | Sep 14, 2021 |
 | Lenovo    | IdeaPad Y700-15ISK 80NV     | [1498417edf](https://bsd-hardware.info/?probe=1498417edf) | Aug 15, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [c40cb92b67](https://bsd-hardware.info/?probe=c40cb92b67) | Aug 15, 2021 |
 | Lenovo    | ThinkPad X1 Carbon Gen 8... | [85e94a1288](https://bsd-hardware.info/?probe=85e94a1288) | Jul 13, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [ae63f87748](https://bsd-hardware.info/?probe=ae63f87748) | Jun 22, 2021 |
 | Lenovo    | ThinkPad T420 4237A12       | [dc29d714d9](https://bsd-hardware.info/?probe=dc29d714d9) | Jun 02, 2021 |
 | ASUSTek   | UX31A                       | [67a6df2b68](https://bsd-hardware.info/?probe=67a6df2b68) | May 30, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [1cdbad9dfe](https://bsd-hardware.info/?probe=1cdbad9dfe) | May 27, 2021 |
 | Dell      | Latitude E6430              | [8d24817728](https://bsd-hardware.info/?probe=8d24817728) | May 19, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [5020fdee8a](https://bsd-hardware.info/?probe=5020fdee8a) | May 01, 2021 |
 | HP        | EliteBook 840 G3            | [2b97986de1](https://bsd-hardware.info/?probe=2b97986de1) | Apr 21, 2021 |
-| Lenovo    | IdeaPad Y700-15ISK 80NV     | [6f935f23d5](https://bsd-hardware.info/?probe=6f935f23d5) | Apr 11, 2021 |
 | Lenovo    | IdeaPad Y700-15ISK 80NV     | [beacf76b6a](https://bsd-hardware.info/?probe=beacf76b6a) | Mar 26, 2021 |
 | HUAWEI    | MACH-WX9                    | [f7e09652d9](https://bsd-hardware.info/?probe=f7e09652d9) | Mar 25, 2021 |
 | HUAWEI    | MACH-WX9                    | [f9fdc75b45](https://bsd-hardware.info/?probe=f9fdc75b45) | Mar 25, 2021 |
@@ -688,7 +681,7 @@ Hard drive vendors
 | Crucial             | 2         | 2      | 5.88%   |
 | Seagate             | 1         | 1      | 2.94%   |
 | OCZ                 | 1         | 1      | 2.94%   |
-| LITEON              | 1         | 9      | 2.94%   |
+| LITEON              | 1         | 5      | 2.94%   |
 | Kingston            | 1         | 1      | 2.94%   |
 
 Drive Model
@@ -766,7 +759,7 @@ Solid state drive vendors
 | WDC                 | 1         | 1      | 5.26%   |
 | Transcend           | 1         | 2      | 5.26%   |
 | OCZ                 | 1         | 1      | 5.26%   |
-| LITEON              | 1         | 9      | 5.26%   |
+| LITEON              | 1         | 5      | 5.26%   |
 | Kingston            | 1         | 1      | 5.26%   |
 | Intel               | 1         | 2      | 5.26%   |
 | Crucial             | 1         | 1      | 5.26%   |
@@ -781,7 +774,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 18        | 31     | 54.55%  |
+| SSD  | 18        | 27     | 54.55%  |
 | NVMe | 11        | 11     | 33.33%  |
 | HDD  | 4         | 4      | 12.12%  |
 
@@ -795,7 +788,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 21        | 35     | 65.63%  |
+| SATA | 21        | 31     | 65.63%  |
 | NVMe | 11        | 11     | 34.38%  |
 
 Drive Size
@@ -809,7 +802,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 15        | 20     | 68.18%  |
-| 0.51-1.0   | 6         | 14     | 27.27%  |
+| 0.51-1.0   | 6         | 10     | 27.27%  |
 | 1.01-2.0   | 1         | 1      | 4.55%   |
 
 Space Total
@@ -911,7 +904,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 28        | 41     | 87.5%   |
+| Works    | 28        | 37     | 87.5%   |
 | Detected | 2         | 2      | 6.25%   |
 | Malfunc  | 2         | 3      | 6.25%   |
 
@@ -2006,14 +1999,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 25        | 40.98%  |
-| Bluetooth                | 10        | 16.39%  |
-| Net/wireless             | 7         | 11.48%  |
-| Card reader              | 6         | 9.84%   |
-| Fingerprint reader       | 5         | 8.2%    |
-| Firewire controller      | 4         | 6.56%   |
-| Storage                  | 1         | 1.64%   |
-| Sound                    | 1         | 1.64%   |
-| Network                  | 1         | 1.64%   |
-| Graphics card            | 1         | 1.64%   |
+| Communication controller | 25        | 41.67%  |
+| Bluetooth                | 9         | 15%     |
+| Net/wireless             | 7         | 11.67%  |
+| Card reader              | 6         | 10%     |
+| Fingerprint reader       | 5         | 8.33%   |
+| Firewire controller      | 4         | 6.67%   |
+| Storage                  | 1         | 1.67%   |
+| Sound                    | 1         | 1.67%   |
+| Network                  | 1         | 1.67%   |
+| Graphics card            | 1         | 1.67%   |
 

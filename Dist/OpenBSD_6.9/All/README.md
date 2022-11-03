@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 107
+Total: 106
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -195,7 +195,6 @@ Total: 107
 | HP            | ProLiant DL360e Gen8        | Desktop     | [30eeb098b0](https://bsd-hardware.info/?probe=30eeb098b0) | Jul 10, 2021 |
 | HP            | ProLiant DL320 G5           | Desktop     | [3b4ee33976](https://bsd-hardware.info/?probe=3b4ee33976) | Jul 10, 2021 |
 | Foxconn       | AT-7000 Series              | Desktop     | [3802fb98b5](https://bsd-hardware.info/?probe=3802fb98b5) | Jul 10, 2021 |
-| Unknown       | Pine64 Rock64               | Desktop     | [106c7823a8](https://bsd-hardware.info/?probe=106c7823a8) | Jul 10, 2021 |
 | Lenovo        | ThinkPad X230 232578G       | Notebook    | [a8c497b58b](https://bsd-hardware.info/?probe=a8c497b58b) | Jul 09, 2021 |
 | Unknown       | Pine64 Rock64               | Desktop     | [9cffa29c69](https://bsd-hardware.info/?probe=9cffa29c69) | Jul 08, 2021 |
 | ASUSTek       | PRIME B560M-A               | Desktop     | [55f46bc85d](https://bsd-hardware.info/?probe=55f46bc85d) | Jul 07, 2021 |
@@ -826,7 +825,7 @@ Hard drive models
 
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| OPENBSD SR RAID 1 752GB           | 5         | 4%      |
+| OPENBSD SR RAID 1 2TB             | 5         | 4%      |
 | WDC WD1600BEVT-22ZCT0 160GB       | 3         | 2.4%    |
 | Samsung SSD 850 EVO 250GB         | 3         | 2.4%    |
 | NVMe Samsung SSD 960 500GB        | 3         | 2.4%    |
@@ -962,12 +961,12 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 68        | 90     | 68.69%  |
-| 0.51-1.0        | 21        | 32     | 21.21%  |
-| 1.01-2.0        | 6         | 9      | 6.06%   |
-| 4.01-10.0       | 2         | 3      | 2.02%   |
-| More than 100.0 | 1         | 1      | 1.01%   |
-| 3.01-4.0        | 1         | 1      | 1.01%   |
+| 0.01-0.5        | 68        | 90     | 68%     |
+| 0.51-1.0        | 18        | 27     | 18%     |
+| 1.01-2.0        | 10        | 14     | 10%     |
+| 4.01-10.0       | 2         | 3      | 2%      |
+| More than 100.0 | 1         | 1      | 1%      |
+| 3.01-4.0        | 1         | 1      | 1%      |
 
 Space Total
 -----------
@@ -1551,7 +1550,7 @@ Monitor models
 | Sharp LQ156M1JW01 SHP14C3 1920x1080 340x190mm 15.3-inch                  | 1         | 2.08%   |
 | Sharp LCD Monitor SHP1449 1920x1080 290x170mm 13.2-inch                  | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.08%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2.08%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 2.08%   |
 | Samsung Electronics LCD Monitor SDC374A 3200x1800 290x170mm 13.2-inch    | 1         | 2.08%   |
 | Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch                 | 1         | 2.08%   |
 | LG Philips LCD Monitor LPLDB00 1280x800 330x210mm 15.4-inch              | 1         | 2.08%   |

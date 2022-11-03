@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 67
+Total: 65
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -162,7 +162,6 @@ Total: 67
 | Acer          | Aspire A514-52              | [60f9683fb1](https://bsd-hardware.info/?probe=60f9683fb1) | Feb 21, 2022 |
 | Lenovo        | ThinkPad X250 20CLS59400    | [92333ad60b](https://bsd-hardware.info/?probe=92333ad60b) | Feb 17, 2022 |
 | Lenovo        | Flex 2-15 20405             | [1e8904f4fc](https://bsd-hardware.info/?probe=1e8904f4fc) | Feb 15, 2022 |
-| HP            | EliteBook 2530p             | [dd52bb1163](https://bsd-hardware.info/?probe=dd52bb1163) | Feb 15, 2022 |
 | Lenovo        | Flex 2-15 20405             | [b77b926f9b](https://bsd-hardware.info/?probe=b77b926f9b) | Feb 13, 2022 |
 | Lenovo        | ThinkPad X240 20AMS2QD0C    | [ae597455a4](https://bsd-hardware.info/?probe=ae597455a4) | Feb 13, 2022 |
 | Lenovo        | ThinkPad X200 745969G       | [c024d383e7](https://bsd-hardware.info/?probe=c024d383e7) | Feb 13, 2022 |
@@ -203,7 +202,6 @@ Total: 67
 | Panasonic     | CF-53AAGHYDM                | [721ef0235c](https://bsd-hardware.info/?probe=721ef0235c) | Oct 30, 2021 |
 | Matsushita... | CF-48V4KNDQM                | [9e254ab443](https://bsd-hardware.info/?probe=9e254ab443) | Oct 23, 2021 |
 | ASUSTek       | 1000HE                      | [1d5e3e5bc3](https://bsd-hardware.info/?probe=1d5e3e5bc3) | Oct 22, 2021 |
-| Google        | Grunt                       | [259f96d9c8](https://bsd-hardware.info/?probe=259f96d9c8) | Oct 22, 2021 |
 | Lenovo        | ThinkPad T430 2347GZU       | [3337c00433](https://bsd-hardware.info/?probe=3337c00433) | Oct 22, 2021 |
 | Matsushita... | CF-51RCVDNLM                | [b20953f2f4](https://bsd-hardware.info/?probe=b20953f2f4) | Oct 18, 2021 |
 | Panasonic     | CF-52PFPBSFQ                | [bbdfde368b](https://bsd-hardware.info/?probe=bbdfde368b) | Oct 18, 2021 |
@@ -699,7 +697,7 @@ Hard drive vendors
 | NVMe                | 14        | 19     | 25.45%  |
 | Samsung Electronics | 9         | 10     | 16.36%  |
 | WDC                 | 7         | 7      | 12.73%  |
-| Toshiba             | 5         | 7      | 9.09%   |
+| Toshiba             | 5         | 6      | 9.09%   |
 | Seagate             | 3         | 3      | 5.45%   |
 | SK hynix            | 2         | 2      | 3.64%   |
 | Kingston            | 2         | 2      | 3.64%   |
@@ -778,7 +776,7 @@ Hard disk drive vendors
 | NVMe                | 10        | 13     | 32.26%  |
 | WDC                 | 6         | 6      | 19.35%  |
 | Samsung Electronics | 4         | 5      | 12.9%   |
-| Toshiba             | 3         | 5      | 9.68%   |
+| Toshiba             | 3         | 4      | 9.68%   |
 | Seagate             | 3         | 3      | 9.68%   |
 | Hitachi             | 2         | 2      | 6.45%   |
 | Lexar               | 1         | 1      | 3.23%   |
@@ -818,7 +816,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 30        | 38     | 57.69%  |
+| HDD  | 30        | 37     | 57.69%  |
 | SSD  | 19        | 22     | 36.54%  |
 | NVMe | 3         | 4      | 5.77%   |
 
@@ -832,7 +830,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 46        | 60     | 93.88%  |
+| SATA | 46        | 59     | 93.88%  |
 | NVMe | 3         | 4      | 6.12%   |
 
 Drive Size
@@ -845,7 +843,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 38        | 47     | 77.55%  |
+| 0.01-0.5   | 38        | 46     | 77.55%  |
 | 0.51-1.0   | 7         | 7      | 14.29%  |
 | 1.01-2.0   | 4         | 6      | 8.16%   |
 
@@ -891,7 +889,7 @@ Drive models with a malfunction
 
 | Model                         | Notebooks | Drives | Percent |
 |-------------------------------|-----------|--------|---------|
-| Toshiba MK1629GSGF 160GB      | 1         | 3      | 11.11%  |
+| Toshiba MK1629GSGF 160GB      | 1         | 2      | 11.11%  |
 | Seagate ST9500420AS 500GB     | 1         | 1      | 11.11%  |
 | Seagate ST9320423AS 320GB     | 1         | 1      | 11.11%  |
 | Intel SSDSC2KF256H6L 256GB    | 1         | 1      | 11.11%  |
@@ -914,7 +912,7 @@ Vendors of faulty drives
 | Seagate           | 2         | 2      | 22.22%  |
 | Intel             | 2         | 2      | 22.22%  |
 | A-DATA Technology | 2         | 2      | 22.22%  |
-| Toshiba           | 1         | 3      | 11.11%  |
+| Toshiba           | 1         | 2      | 11.11%  |
 | Hitachi           | 1         | 1      | 11.11%  |
 | HGST              | 1         | 2      | 11.11%  |
 
@@ -929,7 +927,7 @@ Vendors of faulty HDD drives
 | Vendor  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
 | Seagate | 2         | 2      | 40%     |
-| Toshiba | 1         | 3      | 20%     |
+| Toshiba | 1         | 2      | 20%     |
 | Hitachi | 1         | 1      | 20%     |
 | HGST    | 1         | 2      | 20%     |
 
@@ -943,7 +941,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 5         | 8      | 55.56%  |
+| HDD  | 5         | 7      | 55.56%  |
 | SSD  | 4         | 4      | 44.44%  |
 
 Failed Drives
@@ -972,7 +970,7 @@ Number of failed and malfunc. drives
 |----------|-----------|--------|---------|
 | Works    | 30        | 32     | 55.56%  |
 | Detected | 15        | 20     | 27.78%  |
-| Malfunc  | 9         | 12     | 16.67%  |
+| Malfunc  | 9         | 11     | 16.67%  |
 
 Storage controller
 ------------------
@@ -1376,7 +1374,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO106C 1366x768 280x160mm 12.7-inch            | 2         | 5.26%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch     | 1         | 2.63%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.63%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 2.63%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 2.63%   |
 | PANDA LCD Monitor NCP0004 1920x1080 290x170mm 13.2-inch                  | 1         | 2.63%   |
 | LG Display LCD Monitor LGD058B 2560x1440 310x170mm 13.9-inch             | 1         | 2.63%   |
 | LG Display LCD Monitor LGD046D 1920x1080 310x170mm 13.9-inch             | 1         | 2.63%   |
@@ -1519,9 +1517,9 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 42        | 84%     |
-| 0     | 7         | 14%     |
-| 2     | 1         | 2%      |
+| 1     | 42        | 82.35%  |
+| 0     | 8         | 15.69%  |
+| 2     | 1         | 1.96%   |
 
 Network
 -------

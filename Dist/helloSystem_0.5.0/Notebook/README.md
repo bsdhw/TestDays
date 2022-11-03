@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 142
+Total: 137
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -154,7 +154,6 @@ Total: 142
 | HP            | Laptop 15-dw0xxx            | [4903f23b62](https://bsd-hardware.info/?probe=4903f23b62) | Dec 05, 2021 |
 | HP            | EliteBook 840 G3            | [03be88ded4](https://bsd-hardware.info/?probe=03be88ded4) | Nov 02, 2021 |
 | HP            | ProBook 470 G4              | [5f026ff3a2](https://bsd-hardware.info/?probe=5f026ff3a2) | Oct 17, 2021 |
-| HP            | ProBook 470 G4              | [40c180238f](https://bsd-hardware.info/?probe=40c180238f) | Oct 17, 2021 |
 | Lenovo        | G500s 20245                 | [e6141c9ab3](https://bsd-hardware.info/?probe=e6141c9ab3) | Oct 16, 2021 |
 | Lenovo        | ThinkPad X230 23254G7       | [06c6a282ca](https://bsd-hardware.info/?probe=06c6a282ca) | Oct 16, 2021 |
 | HP            | Pavilion dv3                | [7f0b7f520f](https://bsd-hardware.info/?probe=7f0b7f520f) | Oct 14, 2021 |
@@ -205,7 +204,6 @@ Total: 142
 | Lenovo        | ThinkPad X200 7458VP4       | [42100d8ea1](https://bsd-hardware.info/?probe=42100d8ea1) | Jun 30, 2021 |
 | HP            | Pavilion 17                 | [9929e0c39b](https://bsd-hardware.info/?probe=9929e0c39b) | Jun 30, 2021 |
 | Dell          | Latitude E6410              | [8c904d84e0](https://bsd-hardware.info/?probe=8c904d84e0) | Jun 28, 2021 |
-| Lenovo        | G500 20236                  | [6e96d4c26f](https://bsd-hardware.info/?probe=6e96d4c26f) | Jun 28, 2021 |
 | Lenovo        | G500 20236                  | [7ae63d4c6c](https://bsd-hardware.info/?probe=7ae63d4c6c) | Jun 27, 2021 |
 | Lenovo        | ThinkPad L450 20DTCTO1WW    | [aba7b76575](https://bsd-hardware.info/?probe=aba7b76575) | Jun 27, 2021 |
 | ASUSTek       | Strix 17 GL703GE            | [1697ebb0a5](https://bsd-hardware.info/?probe=1697ebb0a5) | Jun 25, 2021 |
@@ -240,7 +238,6 @@ Total: 142
 | Lenovo        | ThinkPad T440s 20ARS1B70... | [b644ed3914](https://bsd-hardware.info/?probe=b644ed3914) | Mar 31, 2021 |
 | Dell          | Vostro 14-3468              | [219133fc53](https://bsd-hardware.info/?probe=219133fc53) | Mar 30, 2021 |
 | Dell          | Vostro 14-3468              | [2c61fcee12](https://bsd-hardware.info/?probe=2c61fcee12) | Mar 30, 2021 |
-| Lenovo        | ThinkPad T440s 20ARS1B70... | [a5b9f5e79d](https://bsd-hardware.info/?probe=a5b9f5e79d) | Mar 27, 2021 |
 | Lenovo        | ThinkPad X230 23255Y4       | [ab871769f0](https://bsd-hardware.info/?probe=ab871769f0) | Mar 27, 2021 |
 | Toshiba       | Satellite L500              | [e07fd4edd9](https://bsd-hardware.info/?probe=e07fd4edd9) | Mar 25, 2021 |
 | HP            | Pavilion Notebook           | [42ecf97502](https://bsd-hardware.info/?probe=42ecf97502) | Mar 25, 2021 |
@@ -279,8 +276,6 @@ Total: 142
 | Apple         | MacBookPro9,2               | [a7d9aeda81](https://bsd-hardware.info/?probe=a7d9aeda81) | Feb 22, 2021 |
 | HP            | EliteBook 8540p             | [78d9a31074](https://bsd-hardware.info/?probe=78d9a31074) | Feb 21, 2021 |
 | Lenovo        | ThinkPad E420 1141A83       | [aa98e655f3](https://bsd-hardware.info/?probe=aa98e655f3) | Feb 20, 2021 |
-| Lenovo        | ThinkPad E420 1141A83       | [9731048099](https://bsd-hardware.info/?probe=9731048099) | Feb 20, 2021 |
-| Lenovo        | ThinkPad E420 1141A83       | [03d4d9a468](https://bsd-hardware.info/?probe=03d4d9a468) | Feb 20, 2021 |
 | Lenovo        | ThinkPad E420 1141A83       | [a48872901d](https://bsd-hardware.info/?probe=a48872901d) | Feb 20, 2021 |
 | HP            | ProBook 440 G2              | [63038d613f](https://bsd-hardware.info/?probe=63038d613f) | Feb 19, 2021 |
 | Lenovo        | ZIUS6                       | [1c239bac92](https://bsd-hardware.info/?probe=1c239bac92) | Feb 18, 2021 |
@@ -1563,7 +1558,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 340x190mm 15.3-inch        | 2         | 2.22%   |
 | Sony SDM-HS95P SNY2500 1280x1024 380x300mm 19.1-inch                 | 1         | 1.11%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 470x300mm 22.0-inch | 1         | 1.11%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 1.11%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 300x170mm 13.6-inch | 1         | 1.11%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch | 1         | 1.11%   |
 | Samsung Electronics LCD Monitor SEC354C 1366x768 350x200mm 15.9-inch | 1         | 1.11%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 340x190mm 15.3-inch | 1         | 1.11%   |
@@ -2205,7 +2200,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                        | 1         | 0.67%   |
 | Unknown RAM Module 2048MB SODIMM 800MT/s                          | 1         | 0.67%   |
 | Unknown RAM Module 2048MB SODIMM 667MT/s                          | 1         | 0.67%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1         | 0.67%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1         | 0.67%   |
 | Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s            | 1         | 0.67%   |
 | Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s              | 1         | 0.67%   |
 | Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s               | 1         | 0.67%   |
@@ -2285,16 +2280,16 @@ Memory module speed
 | 1600    | 42        | 33.07%  |
 | 1333    | 20        | 15.75%  |
 | 1334    | 12        | 9.45%   |
-| 2400    | 11        | 8.66%   |
 | 2667    | 10        | 7.87%   |
+| 2400    | 10        | 7.87%   |
 | 2133    | 7         | 5.51%   |
 | 800     | 7         | 5.51%   |
+| 3200    | 4         | 3.15%   |
 | 1067    | 4         | 3.15%   |
-| 3200    | 3         | 2.36%   |
 | 1867    | 3         | 2.36%   |
 | 667     | 3         | 2.36%   |
 | Unknown | 2         | 1.57%   |
-| 1777    | 1         | 0.79%   |
+| 1866    | 1         | 0.79%   |
 | 975     | 1         | 0.79%   |
 | 333     | 1         | 0.79%   |
 

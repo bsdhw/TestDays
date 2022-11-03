@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 42
+Total: 41
 
 | Vendor     | Model                   | Probe                                                     | Date         |
 |------------|-------------------------|-----------------------------------------------------------|--------------|
@@ -169,7 +169,6 @@ Total: 42
 | HP         | ProLiant DL360e Gen8    | [30eeb098b0](https://bsd-hardware.info/?probe=30eeb098b0) | Jul 10, 2021 |
 | HP         | ProLiant DL320 G5       | [3b4ee33976](https://bsd-hardware.info/?probe=3b4ee33976) | Jul 10, 2021 |
 | Foxconn    | AT-7000 Series          | [3802fb98b5](https://bsd-hardware.info/?probe=3802fb98b5) | Jul 10, 2021 |
-| Unknown    | Pine64 Rock64           | [106c7823a8](https://bsd-hardware.info/?probe=106c7823a8) | Jul 10, 2021 |
 | Unknown    | Pine64 Rock64           | [9cffa29c69](https://bsd-hardware.info/?probe=9cffa29c69) | Jul 08, 2021 |
 | ASUSTek    | PRIME B560M-A           | [55f46bc85d](https://bsd-hardware.info/?probe=55f46bc85d) | Jul 07, 2021 |
 | Unknown    | Unknown                 | [cfb0e172cb](https://bsd-hardware.info/?probe=cfb0e172cb) | Jun 27, 2021 |
@@ -671,7 +670,7 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| OPENBSD SR RAID 1 752GB           | 5        | 7.94%   |
+| OPENBSD SR RAID 1 2TB             | 5        | 7.94%   |
 | Toshiba MQ04ABF100 1TB            | 2        | 3.17%   |
 | NVMe Samsung SSD 970 250GB        | 2        | 3.17%   |
 | HGST HUS724020ALA640 2TB          | 2        | 3.17%   |
@@ -796,11 +795,11 @@ Size of hard drive
 
 | Size in TB      | Desktops | Drives | Percent |
 |-----------------|----------|--------|---------|
-| 0.01-0.5        | 23       | 40     | 54.76%  |
-| 0.51-1.0        | 13       | 24     | 30.95%  |
-| 1.01-2.0        | 4        | 7      | 9.52%   |
-| More than 100.0 | 1        | 1      | 2.38%   |
-| 3.01-4.0        | 1        | 1      | 2.38%   |
+| 0.01-0.5        | 23       | 40     | 53.49%  |
+| 0.51-1.0        | 10       | 19     | 23.26%  |
+| 1.01-2.0        | 8        | 12     | 18.6%   |
+| More than 100.0 | 1        | 1      | 2.33%   |
+| 3.01-4.0        | 1        | 1      | 2.33%   |
 
 Space Total
 -----------

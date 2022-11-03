@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 255
+Total: 254
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -272,7 +272,6 @@ Total: 255
 | Lenovo        | ThinkPad T500 2087A16       | Notebook    | [334eacfe16](https://bsd-hardware.info/?probe=334eacfe16) | Nov 03, 2020 |
 | Lenovo        | ThinkPad W530 2436CTO       | Notebook    | [ded161fe2e](https://bsd-hardware.info/?probe=ded161fe2e) | Oct 31, 2020 |
 | Lenovo        | ThinkPad W530 2436CTO       | Notebook    | [e108d4a375](https://bsd-hardware.info/?probe=e108d4a375) | Oct 31, 2020 |
-| ASUSTek       | X102BA                      | Notebook    | [9156250b96](https://bsd-hardware.info/?probe=9156250b96) | Oct 31, 2020 |
 | PC Engines    | APU2                        | Desktop     | [e0361ddbad](https://bsd-hardware.info/?probe=e0361ddbad) | Oct 31, 2020 |
 | Intel         | NUC7i5BNH                   | Mini pc     | [ea59613cff](https://bsd-hardware.info/?probe=ea59613cff) | Oct 31, 2020 |
 | ASUSTek       | B75M-A                      | Desktop     | [43ece33e8c](https://bsd-hardware.info/?probe=43ece33e8c) | Oct 31, 2020 |
@@ -693,13 +692,13 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 23        | 11.06%  |
 | 2016    | 23        | 11.06%  |
+| 2019    | 22        | 10.58%  |
 | 2018    | 20        | 9.62%   |
 | 2020    | 19        | 9.13%   |
 | 2013    | 15        | 7.21%   |
 | 2017    | 14        | 6.73%   |
-| 2015    | 13        | 6.25%   |
+| 2015    | 14        | 6.73%   |
 | 2012    | 13        | 6.25%   |
 | Unknown | 11        | 5.29%   |
 | 2010    | 10        | 4.81%   |
@@ -1026,7 +1025,7 @@ Hard drive models
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
 | Phison SATA SSD 16GB                | 10        | 3.41%   |
-| OPENBSD SR RAID 1 752GB             | 5         | 1.71%   |
+| OPENBSD SR RAID 1 2TB               | 5         | 1.71%   |
 | NVMe Samsung SSD 970 250GB          | 5         | 1.71%   |
 | Dell PERC H710 282GB                | 4         | 1.37%   |
 | NVMe WDC PC SN730 SDB 256GB         | 3         | 1.02%   |
@@ -1174,12 +1173,12 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 164       | 225    | 67.49%  |
-| 0.51-1.0        | 50        | 58     | 20.58%  |
-| 1.01-2.0        | 17        | 31     | 7%      |
-| 3.01-4.0        | 6         | 7      | 2.47%   |
-| 2.01-3.0        | 2         | 4      | 0.82%   |
-| 4.01-10.0       | 2         | 4      | 0.82%   |
+| 0.01-0.5        | 164       | 225    | 67.77%  |
+| 0.51-1.0        | 46        | 53     | 19.01%  |
+| 1.01-2.0        | 20        | 36     | 8.26%   |
+| 3.01-4.0        | 5         | 6      | 2.07%   |
+| 4.01-10.0       | 3         | 5      | 1.24%   |
+| 2.01-3.0        | 2         | 4      | 0.83%   |
 | More than 100.0 | 1         | 1      | 0.41%   |
 | 0               | 1         | 1      | 0.41%   |
 
@@ -1842,7 +1841,7 @@ Monitor models
 | Samsung Electronics SMB2340 SAM0691 1920x1080 510x290mm 23.1-inch    | 1         | 0.96%   |
 | Samsung Electronics SE790C SAM0BFE 3440x1440 800x330mm 34.1-inch     | 1         | 0.96%   |
 | Samsung Electronics S24C450 SAM09CF 1920x1200 520x320mm 24.0-inch    | 1         | 0.96%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch | 1         | 0.96%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch | 1         | 0.96%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch | 1         | 0.96%   |
 | Samsung Electronics LCD Monitor SDC314D 1366x768 310x170mm 13.9-inch | 1         | 0.96%   |
 | Samsung Electronics C34H89x SAM0E25 3440x1440 800x330mm 34.1-inch    | 1         | 0.96%   |

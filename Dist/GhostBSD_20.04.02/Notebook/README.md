@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 82
+Total: 72
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -177,25 +177,15 @@ Total: 82
 | Apple         | MacBookPro8,1               | [e4e3731289](https://bsd-hardware.info/?probe=e4e3731289) | Apr 01, 2021 |
 | Acer          | Aspire E5-521G              | [e2b6dbfe40](https://bsd-hardware.info/?probe=e2b6dbfe40) | Apr 01, 2021 |
 | HP            | 255 G7 Notebook PC          | [3e500c12a3](https://bsd-hardware.info/?probe=3e500c12a3) | Mar 24, 2021 |
-| HP            | Laptop 15-da0xxx            | [a7a25be087](https://bsd-hardware.info/?probe=a7a25be087) | Mar 16, 2021 |
-| Lenovo        | ThinkPad X250 20CM003WMS    | [c7f71901c3](https://bsd-hardware.info/?probe=c7f71901c3) | Mar 11, 2021 |
-| Lenovo        | ThinkPad X250 20CM003WMS    | [803974a844](https://bsd-hardware.info/?probe=803974a844) | Mar 11, 2021 |
 | Lenovo        | ThinkPad X250 20CM003WMS    | [196cd8a730](https://bsd-hardware.info/?probe=196cd8a730) | Mar 11, 2021 |
 | Acer          | Aspire F5-573G              | [240171b234](https://bsd-hardware.info/?probe=240171b234) | Mar 08, 2021 |
 | HP            | Pavilion Gaming Laptop 1... | [9ede3128c5](https://bsd-hardware.info/?probe=9ede3128c5) | Mar 07, 2021 |
 | HP            | Laptop 15-db0xxx            | [b1ee3da46f](https://bsd-hardware.info/?probe=b1ee3da46f) | Mar 06, 2021 |
 | Apple         | MacBookPro5,5               | [50ac436475](https://bsd-hardware.info/?probe=50ac436475) | Mar 06, 2021 |
-| Lenovo        | ThinkPad T470 20HD000MUK    | [b85d23571e](https://bsd-hardware.info/?probe=b85d23571e) | Feb 23, 2021 |
 | Acer          | Extensa 5635Z               | [837c6f28b4](https://bsd-hardware.info/?probe=837c6f28b4) | Feb 19, 2021 |
-| Apple         | MacBookPro5,5               | [9bbe1119a1](https://bsd-hardware.info/?probe=9bbe1119a1) | Feb 12, 2021 |
 | Lenovo        | ThinkPad T470 20HD000MUK    | [39c8cd6d0c](https://bsd-hardware.info/?probe=39c8cd6d0c) | Feb 08, 2021 |
-| HP            | Laptop 15-da0xxx            | [d6bc2b2c1d](https://bsd-hardware.info/?probe=d6bc2b2c1d) | Feb 08, 2021 |
-| Apple         | MacBookPro5,5               | [ffc0295ae1](https://bsd-hardware.info/?probe=ffc0295ae1) | Feb 07, 2021 |
-| Apple         | MacBookPro5,5               | [13fdaa7c15](https://bsd-hardware.info/?probe=13fdaa7c15) | Feb 04, 2021 |
 | Apple         | MacBookPro5,5               | [254e518190](https://bsd-hardware.info/?probe=254e518190) | Feb 03, 2021 |
-| HP            | Laptop 15-da0xxx            | [869d894f4f](https://bsd-hardware.info/?probe=869d894f4f) | Jan 30, 2021 |
 | Dell          | Latitude 5480               | [9b38a72dd4](https://bsd-hardware.info/?probe=9b38a72dd4) | Jan 26, 2021 |
-| HP            | Laptop 15-da0xxx            | [3e37c56f14](https://bsd-hardware.info/?probe=3e37c56f14) | Jan 23, 2021 |
 | HP            | Laptop 17-ca1xxx            | [fb318623f3](https://bsd-hardware.info/?probe=fb318623f3) | Jan 23, 2021 |
 | HP            | Laptop 17-ca1xxx            | [97a89d4eb0](https://bsd-hardware.info/?probe=97a89d4eb0) | Jan 23, 2021 |
 | HP            | Laptop 17-ca1xxx            | [806c954739](https://bsd-hardware.info/?probe=806c954739) | Jan 23, 2021 |
@@ -716,9 +706,9 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 16        | 23     | 23.53%  |
+| Samsung Electronics | 16        | 20     | 23.53%  |
 | WDC                 | 9         | 9      | 13.24%  |
-| Seagate             | 7         | 11     | 10.29%  |
+| Seagate             | 7         | 8      | 10.29%  |
 | SanDisk             | 6         | 6      | 8.82%   |
 | Kingston            | 5         | 5      | 7.35%   |
 | Crucial             | 4         | 5      | 5.88%   |
@@ -798,7 +788,7 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 7         | 11     | 35%     |
+| Seagate             | 7         | 8      | 35%     |
 | WDC                 | 5         | 5      | 25%     |
 | Hitachi             | 3         | 3      | 15%     |
 | Toshiba             | 2         | 2      | 10%     |
@@ -816,7 +806,7 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 10        | 17     | 25.64%  |
+| Samsung Electronics | 10        | 14     | 25.64%  |
 | SanDisk             | 6         | 6      | 15.38%  |
 | Kingston            | 5         | 5      | 12.82%  |
 | Crucial             | 4         | 5      | 10.26%  |
@@ -841,8 +831,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 34        | 47     | 54.84%  |
-| HDD  | 19        | 24     | 30.65%  |
+| SSD  | 34        | 44     | 54.84%  |
+| HDD  | 19        | 21     | 30.65%  |
 | NVMe | 9         | 10     | 14.52%  |
 
 Drive Connector
@@ -855,7 +845,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 50        | 71     | 84.75%  |
+| SATA | 50        | 65     | 84.75%  |
 | NVMe | 9         | 10     | 15.25%  |
 
 Drive Size
@@ -869,7 +859,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 34        | 40     | 64.15%  |
-| 0.51-1.0   | 17        | 28     | 32.08%  |
+| 0.51-1.0   | 17        | 22     | 32.08%  |
 | 1.01-2.0   | 2         | 3      | 3.77%   |
 
 Space Total
@@ -990,7 +980,7 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 49        | 74     | 87.5%   |
+| Works   | 49        | 68     | 87.5%   |
 | Malfunc | 7         | 7      | 12.5%   |
 
 Storage controller
@@ -1384,7 +1374,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 470x300mm 22.0-inch | 1         | 1.89%   |
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 300x170mm 13.6-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |

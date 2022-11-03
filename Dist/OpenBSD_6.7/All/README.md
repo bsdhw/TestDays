@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 61
+Total: 60
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -172,7 +172,6 @@ Total: 61
 | Shuttle       | DS437                       | Desktop     | [aa350b6b92](https://bsd-hardware.info/?probe=aa350b6b92) | Aug 03, 2020 |
 | PC Engines    | APU2                        | Desktop     | [fe5c2f4838](https://bsd-hardware.info/?probe=fe5c2f4838) | Aug 03, 2020 |
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | Notebook    | [20f3e760eb](https://bsd-hardware.info/?probe=20f3e760eb) | Aug 03, 2020 |
-| Lenovo        | ThinkPad X1 Carbon 5th 2... | Notebook    | [b305c0df5e](https://bsd-hardware.info/?probe=b305c0df5e) | Aug 03, 2020 |
 | Lenovo        | ThinkPad W540 20BG001KUK    | Notebook    | [f3e2acbb66](https://bsd-hardware.info/?probe=f3e2acbb66) | Jul 31, 2020 |
 | Lenovo        | ThinkPad W540 20BG001KUK    | Notebook    | [7ae8c247e9](https://bsd-hardware.info/?probe=7ae8c247e9) | Jul 31, 2020 |
 | Lenovo        | ThinkPad T60 87445BU        | Notebook    | [37a42caa92](https://bsd-hardware.info/?probe=37a42caa92) | Jul 30, 2020 |
@@ -754,7 +753,7 @@ Hard drive models
 | Phison SATA SSD 64GB             | 1         | 1.64%   |
 | Phison SATA SSD 16GB             | 1         | 1.64%   |
 | Phison SATA SSD 128GB            | 1         | 1.64%   |
-| OPENBSD SR RAID 1 752GB          | 1         | 1.64%   |
+| OPENBSD SR RAID 1 2TB            | 1         | 1.64%   |
 | NVMe WDC PC SN720 SDA 1TB        | 1         | 1.64%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 1.64%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |
@@ -843,8 +842,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 36        | 39     | 62.07%  |
-| 0.51-1.0   | 16        | 16     | 27.59%  |
-| 1.01-2.0   | 5         | 9      | 8.62%   |
+| 0.51-1.0   | 15        | 15     | 25.86%  |
+| 1.01-2.0   | 6         | 10     | 10.34%  |
 | 2.01-3.0   | 1         | 1      | 1.72%   |
 
 Space Total

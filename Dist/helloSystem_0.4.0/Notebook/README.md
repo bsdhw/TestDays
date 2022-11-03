@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 125
+Total: 122
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -162,7 +162,6 @@ Total: 125
 | Apple         | MacBookPro11,3              | [1c9feef8e7](https://bsd-hardware.info/?probe=1c9feef8e7) | May 03, 2021 |
 | Notebook      | W65KJ1_KK1                  | [d4d0b819bc](https://bsd-hardware.info/?probe=d4d0b819bc) | Apr 24, 2021 |
 | Gateway       | NE56R                       | [bbbc827581](https://bsd-hardware.info/?probe=bbbc827581) | Apr 16, 2021 |
-| Gateway       | NE56R                       | [f4031498db](https://bsd-hardware.info/?probe=f4031498db) | Apr 15, 2021 |
 | Dell          | Latitude E7240              | [1dbd9a5cee](https://bsd-hardware.info/?probe=1dbd9a5cee) | Apr 13, 2021 |
 | Lenovo        | ThinkPad T400 7417TPU       | [981517a51a](https://bsd-hardware.info/?probe=981517a51a) | Apr 13, 2021 |
 | Apple         | MacBookPro8,1               | [5d3d014284](https://bsd-hardware.info/?probe=5d3d014284) | Apr 12, 2021 |
@@ -249,7 +248,6 @@ Total: 125
 | ASUSTek       | K50IJ                       | [8cd0aedd3a](https://bsd-hardware.info/?probe=8cd0aedd3a) | Feb 11, 2021 |
 | A-DATA Tec... | XENIA159GENI72060           | [b2bf9a977b](https://bsd-hardware.info/?probe=b2bf9a977b) | Feb 11, 2021 |
 | Dell          | Latitude 3410               | [465dd01c0d](https://bsd-hardware.info/?probe=465dd01c0d) | Feb 11, 2021 |
-| Dell          | Inspiron 3521               | [43196baf75](https://bsd-hardware.info/?probe=43196baf75) | Feb 11, 2021 |
 | Samsung       | 300V3Z/300V4Z/300V5Z        | [270ca253a3](https://bsd-hardware.info/?probe=270ca253a3) | Feb 11, 2021 |
 | Dell          | Inspiron 3521               | [b3569ebb39](https://bsd-hardware.info/?probe=b3569ebb39) | Feb 11, 2021 |
 | Lenovo        | ThinkPad L470 20J5S09500    | [b17963cd30](https://bsd-hardware.info/?probe=b17963cd30) | Feb 10, 2021 |
@@ -271,7 +269,6 @@ Total: 125
 | Pegatron      | T12Ah                       | [e9c5982872](https://bsd-hardware.info/?probe=e9c5982872) | Jan 23, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 3444A... | [b659b95d1a](https://bsd-hardware.info/?probe=b659b95d1a) | Jan 18, 2021 |
 | HP            | ProBook 470 G4              | [e39a46cadf](https://bsd-hardware.info/?probe=e39a46cadf) | Jan 17, 2021 |
-| HP            | ProBook 470 G4              | [55c762d22e](https://bsd-hardware.info/?probe=55c762d22e) | Jan 17, 2021 |
 | Lenovo        | ThinkPad T480s 20L8S6G21... | [a8508f91de](https://bsd-hardware.info/?probe=a8508f91de) | Jan 14, 2021 |
 | HP            | ProBook 470 G4              | [c4eecdac67](https://bsd-hardware.info/?probe=c4eecdac67) | Jan 14, 2021 |
 
@@ -1505,7 +1502,7 @@ Monitor models
 | LG Display LCD Monitor LGD0258 1600x900 350x190mm 15.7-inch           | 1         | 1.32%   |
 | LG Display LCD Monitor LGD0213 1600x900 310x170mm 13.9-inch           | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.32%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.32%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 1.32%   |
@@ -2152,16 +2149,16 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 34        | 31.78%  |
-| 2400    | 15        | 14.02%  |
-| 1333    | 13        | 12.15%  |
-| 2133    | 8         | 7.48%   |
-| 667     | 8         | 7.48%   |
-| 3200    | 6         | 5.61%   |
-| 1334    | 6         | 5.61%   |
-| 2667    | 5         | 4.67%   |
-| 1067    | 5         | 4.67%   |
-| 1867    | 3         | 2.8%    |
+| 1600    | 34        | 31.48%  |
+| 2400    | 15        | 13.89%  |
+| 1333    | 13        | 12.04%  |
+| 2133    | 8         | 7.41%   |
+| 667     | 8         | 7.41%   |
+| 3200    | 6         | 5.56%   |
+| 1334    | 6         | 5.56%   |
+| 1067    | 6         | 5.56%   |
+| 2667    | 5         | 4.63%   |
+| 1867    | 3         | 2.78%   |
 | 1066    | 1         | 0.93%   |
 | 800     | 1         | 0.93%   |
 | 533     | 1         | 0.93%   |

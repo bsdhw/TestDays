@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 41
+Total: 40
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -179,7 +179,6 @@ Total: 41
 | Lenovo        | ThinkServer TS440           | [6390c16543](https://bsd-hardware.info/?probe=6390c16543) | May 28, 2021 |
 | ASUSTek       | M5A99X EVO R2.0             | [cec3cb521d](https://bsd-hardware.info/?probe=cec3cb521d) | May 20, 2021 |
 | Unknown       | Unknown                     | [6b724a36cd](https://bsd-hardware.info/?probe=6b724a36cd) | Feb 19, 2021 |
-| Unknown       | Unknown                     | [760e148164](https://bsd-hardware.info/?probe=760e148164) | Feb 19, 2021 |
 | Unknown       | Unknown                     | [baf854930a](https://bsd-hardware.info/?probe=baf854930a) | Feb 19, 2021 |
 | TYAN Compu... | S5512                       | [6a6164af73](https://bsd-hardware.info/?probe=6a6164af73) | Jan 27, 2021 |
 | Unknown       | Unknown                     | [96ca836be9](https://bsd-hardware.info/?probe=96ca836be9) | Jan 19, 2021 |
@@ -826,13 +825,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 53     | 32.88%  |
-| 1.01-2.0   | 14       | 45     | 19.18%  |
-| 2.01-3.0   | 12       | 73     | 16.44%  |
-| 3.01-4.0   | 7        | 24     | 9.59%   |
-| 4.01-10.0  | 7        | 15     | 9.59%   |
-| 0.51-1.0   | 6        | 24     | 8.22%   |
-| 10.01-20.0 | 3        | 6      | 4.11%   |
+| 0.01-0.5   | 24       | 58     | 33.33%  |
+| 1.01-2.0   | 13       | 40     | 18.06%  |
+| 2.01-3.0   | 12       | 73     | 16.67%  |
+| 3.01-4.0   | 7        | 24     | 9.72%   |
+| 4.01-10.0  | 7        | 15     | 9.72%   |
+| 0.51-1.0   | 6        | 24     | 8.33%   |
+| 10.01-20.0 | 3        | 6      | 4.17%   |
 
 Space Total
 -----------

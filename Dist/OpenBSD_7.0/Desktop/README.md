@@ -715,7 +715,7 @@ Hard drive models
 | Product:              USB DISK 2.0 USB DISK 2.0 4GB  | 1        | 2.04%   |
 | Phison SATA SSD 16GB                                 | 1        | 2.04%   |
 | Patriot Burst 120GB                                  | 1        | 2.04%   |
-| OPENBSD SR RAID 1 752GB                              | 1        | 2.04%   |
+| OPENBSD SR RAID 1 2TB                                | 1        | 2.04%   |
 | NVMe WDS500G3X0C-00SJ 500GB                          | 1        | 2.04%   |
 | NVMe WDC WDS100T2B0C- 1TB                            | 1        | 2.04%   |
 | NVMe TOSHIBA-RC100 240GB                             | 1        | 2.04%   |
@@ -811,10 +811,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 25       | 37     | 67.57%  |
-| 0.51-1.0   | 8        | 10     | 21.62%  |
-| 1.01-2.0   | 3        | 8      | 8.11%   |
-| 4.01-10.0  | 1        | 1      | 2.7%    |
+| 0.01-0.5   | 25       | 37     | 69.44%  |
+| 0.51-1.0   | 7        | 9      | 19.44%  |
+| 1.01-2.0   | 3        | 9      | 8.33%   |
+| 4.01-10.0  | 1        | 1      | 2.78%   |
 
 Space Total
 -----------
@@ -1018,9 +1018,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 21       | 65.63%  |
+| SATA | 20       | 62.5%   |
+| IDE  | 6        | 18.75%  |
 | NVMe | 5        | 15.63%  |
-| IDE  | 5        | 15.63%  |
 | RAID | 1        | 3.13%   |
 
 Processor

@@ -1682,7 +1682,7 @@ Memory module models
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s          | 1         | 3.23%   |
 | Kingston RAM KCRXJ6-MIE 16GB SODIMM DDR4 2667MT/s              | 1         | 3.23%   |
 | Kingston RAM CBD26D4S9S8K1C-8 8GB SODIMM DDR4 2667MT/s         | 1         | 3.23%   |
-| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1066MT/s          | 1         | 3.23%   |
+| Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s          | 1         | 3.23%   |
 | Corsair RAM CMSX64GX4M2A2666C18 32GB SODIMM DDR4 2667MT/s      | 1         | 3.23%   |
 
 Memory Kind
@@ -1747,7 +1747,7 @@ Memory module speed
 | 1334    | 2         | 8.7%    |
 | 1867    | 1         | 4.35%   |
 | 1333    | 1         | 4.35%   |
-| 1066    | 1         | 4.35%   |
+| 1067    | 1         | 4.35%   |
 | Unknown | 1         | 4.35%   |
 
 Printers & scanners

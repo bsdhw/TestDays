@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 32
+Total: 31
 
 | Vendor  | Model                       | Probe                                                     | Date         |
 |---------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -161,7 +161,6 @@ Total: 32
 | ASUSTek | K52Jc                       | [fc919c73e3](https://bsd-hardware.info/?probe=fc919c73e3) | Nov 07, 2021 |
 | Google  | Grunt                       | [aa07a1dd40](https://bsd-hardware.info/?probe=aa07a1dd40) | Nov 05, 2021 |
 | Google  | Grunt                       | [c87e033731](https://bsd-hardware.info/?probe=c87e033731) | Nov 01, 2021 |
-| Google  | Grunt                       | [259f96d9c8](https://bsd-hardware.info/?probe=259f96d9c8) | Oct 22, 2021 |
 | Google  | Grunt                       | [e6d4421a4d](https://bsd-hardware.info/?probe=e6d4421a4d) | Oct 16, 2021 |
 | Google  | Grunt                       | [ee9b2d7ad3](https://bsd-hardware.info/?probe=ee9b2d7ad3) | Oct 15, 2021 |
 | Google  | Grunt                       | [e76c73d9a3](https://bsd-hardware.info/?probe=e76c73d9a3) | Oct 11, 2021 |
@@ -1341,10 +1340,10 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 19        | 79.17%  |
-| 0     | 3         | 12.5%   |
-| 3     | 1         | 4.17%   |
-| 2     | 1         | 4.17%   |
+| 1     | 19        | 76%     |
+| 0     | 4         | 16%     |
+| 3     | 1         | 4%      |
+| 2     | 1         | 4%      |
 
 Network
 -------

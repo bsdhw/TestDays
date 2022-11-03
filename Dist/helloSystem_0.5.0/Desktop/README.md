@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 142
+Total: 139
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -194,10 +194,8 @@ Total: 142
 | ASUSTek       | H81M-A                      | [9e0c8e8024](https://bsd-hardware.info/?probe=9e0c8e8024) | Aug 07, 2021 |
 | ASUSTek       | Crosshair V Formula         | [90c27497d9](https://bsd-hardware.info/?probe=90c27497d9) | Aug 05, 2021 |
 | PCPartner     | MILANO-P Rev.00             | [526390c559](https://bsd-hardware.info/?probe=526390c559) | Aug 04, 2021 |
-| PCPartner     | MILANO-P Rev.00             | [071eac9b1b](https://bsd-hardware.info/?probe=071eac9b1b) | Aug 04, 2021 |
 | Biostar       | A770E3                      | [4d0ac19b8e](https://bsd-hardware.info/?probe=4d0ac19b8e) | Aug 03, 2021 |
 | Dell          | 0RY007                      | [c67ccf8bc6](https://bsd-hardware.info/?probe=c67ccf8bc6) | Aug 01, 2021 |
-| PCPartner     | MILANO-P Rev.00             | [ef40df391b](https://bsd-hardware.info/?probe=ef40df391b) | Aug 01, 2021 |
 | Gigabyte      | H110-D3A-CF                 | [7923f57fbe](https://bsd-hardware.info/?probe=7923f57fbe) | Aug 01, 2021 |
 | ASUSTek       | A58M-A/USB3                 | [9ffd4220e8](https://bsd-hardware.info/?probe=9ffd4220e8) | Aug 01, 2021 |
 | Biostar       | N68S3+                      | [528c9d6eab](https://bsd-hardware.info/?probe=528c9d6eab) | Jul 26, 2021 |
@@ -256,7 +254,6 @@ Total: 142
 | Pegatron      | IPM41-D3                    | [687047b3d2](https://bsd-hardware.info/?probe=687047b3d2) | Mar 30, 2021 |
 | Gigabyte      | Z77X-UD5H                   | [d3742d3898](https://bsd-hardware.info/?probe=d3742d3898) | Mar 29, 2021 |
 | HP            | 18E7                        | [0e835b61ff](https://bsd-hardware.info/?probe=0e835b61ff) | Mar 24, 2021 |
-| Lenovo        | SHARKBAY SDK0E50510 WIN     | [78a7c7b8cb](https://bsd-hardware.info/?probe=78a7c7b8cb) | Mar 23, 2021 |
 | Lenovo        | SHARKBAY SDK0E50510 WIN     | [5ae508dfa8](https://bsd-hardware.info/?probe=5ae508dfa8) | Mar 19, 2021 |
 | ASUSTek       | PRIME H310M-E R2.0          | [8964a02114](https://bsd-hardware.info/?probe=8964a02114) | Mar 15, 2021 |
 | ASUSTek       | PRIME Z390M-PLUS            | [0a3b290f9f](https://bsd-hardware.info/?probe=0a3b290f9f) | Mar 15, 2021 |
@@ -317,7 +314,8 @@ Desktop Environment
 
 | Name         | Desktops | Percent |
 |--------------|----------|---------|
-| helloDesktop | 115      | 100%    |
+| helloDesktop | 115      | 99.14%  |
+| XFCE         | 1        | 0.86%   |
 
 Display Server
 --------------
@@ -368,8 +366,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| EFI  | 92       | 80%     |
-| BIOS | 23       | 20%     |
+| EFI  | 91       | 79.13%  |
+| BIOS | 24       | 20.87%  |
 
 Filesystem
 ----------
@@ -543,10 +541,10 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2020 | 17       | 14.78%  |
-| 2019 | 15       | 13.04%  |
 | 2012 | 15       | 13.04%  |
+| 2019 | 14       | 12.17%  |
+| 2018 | 13       | 11.3%   |
 | 2013 | 13       | 11.3%   |
-| 2018 | 12       | 10.43%  |
 | 2010 | 8        | 6.96%   |
 | 2014 | 6        | 5.22%   |
 | 2011 | 6        | 5.22%   |
@@ -806,7 +804,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 42       | 61     | 23.2%   |
-| Seagate             | 34       | 55     | 18.78%  |
+| Seagate             | 34       | 56     | 18.78%  |
 | Samsung Electronics | 29       | 40     | 16.02%  |
 | Toshiba             | 8        | 9      | 4.42%   |
 | Kingston            | 8        | 9      | 4.42%   |
@@ -897,7 +895,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 37       | 54     | 36.27%  |
-| Seagate             | 34       | 55     | 33.33%  |
+| Seagate             | 34       | 56     | 33.33%  |
 | Samsung Electronics | 10       | 12     | 9.8%    |
 | Hitachi             | 7        | 8      | 6.86%   |
 | Toshiba             | 5        | 5      | 4.9%    |
@@ -946,7 +944,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 81       | 144    | 51.92%  |
+| HDD  | 81       | 145    | 51.92%  |
 | SSD  | 49       | 76     | 31.41%  |
 | NVMe | 26       | 33     | 16.67%  |
 
@@ -960,7 +958,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 105      | 220    | 80.15%  |
+| SATA | 105      | 221    | 80.15%  |
 | NVMe | 26       | 33     | 19.85%  |
 
 Drive Size
@@ -973,7 +971,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 88       | 143    | 61.54%  |
+| 0.01-0.5   | 88       | 144    | 61.54%  |
 | 0.51-1.0   | 34       | 46     | 23.78%  |
 | 1.01-2.0   | 10       | 14     | 6.99%   |
 | 3.01-4.0   | 5        | 6      | 3.5%    |
@@ -990,10 +988,10 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 1-20       | 81       | 68.64%  |
+| 1-20       | 80       | 67.8%   |
 | 101-250    | 15       | 12.71%  |
 | 501-1000   | 10       | 8.47%   |
-| 251-500    | 6        | 5.08%   |
+| 251-500    | 7        | 5.93%   |
 | 51-100     | 3        | 2.54%   |
 | 21-50      | 2        | 1.69%   |
 | 1001-2000  | 1        | 0.85%   |
@@ -1141,7 +1139,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 86       | 199    | 67.19%  |
+| Works    | 86       | 200    | 67.19%  |
 | Malfunc  | 35       | 41     | 27.34%  |
 | Detected | 6        | 12     | 4.69%   |
 | Failed   | 1        | 1      | 0.78%   |
@@ -1684,17 +1682,17 @@ Diagonal size in inches
 | 19      | 15       | 16.48%  |
 | 23      | 11       | 12.09%  |
 | 27      | 9        | 9.89%   |
-| 24      | 9        | 9.89%   |
+| 24      | 8        | 8.79%   |
 | 31      | 7        | 7.69%   |
 | 18      | 7        | 7.69%   |
 | 22      | 3        | 3.3%    |
 | 20      | 3        | 3.3%    |
+| 34      | 2        | 2.2%    |
 | 64      | 1        | 1.1%    |
 | 54      | 1        | 1.1%    |
 | 50      | 1        | 1.1%    |
 | 40      | 1        | 1.1%    |
 | 39      | 1        | 1.1%    |
-| 34      | 1        | 1.1%    |
 | 30      | 1        | 1.1%    |
 | 28      | 1        | 1.1%    |
 | 17      | 1        | 1.1%    |
@@ -1713,12 +1711,12 @@ Physical width
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
 | 401-500     | 38       | 42.22%  |
-| 501-600     | 26       | 28.89%  |
+| 501-600     | 25       | 27.78%  |
 | 601-700     | 10       | 11.11%  |
 | 351-400     | 7        | 7.78%   |
 | 1001-1500   | 3        | 3.33%   |
 | 801-900     | 2        | 2.22%   |
-| 701-800     | 1        | 1.11%   |
+| 701-800     | 2        | 2.22%   |
 | 301-350     | 1        | 1.11%   |
 | 201-300     | 1        | 1.11%   |
 | Unknown     | 1        | 1.11%   |
@@ -1750,10 +1748,10 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 35       | 39.77%  |
+| 201-250        | 34       | 38.64%  |
 | 151-200        | 18       | 20.45%  |
 | 301-350        | 10       | 11.36%  |
-| 351-500        | 8        | 9.09%   |
+| 351-500        | 9        | 10.23%  |
 | 141-150        | 7        | 7.95%   |
 | More than 1000 | 3        | 3.41%   |
 | 251-300        | 2        | 2.27%   |
@@ -1772,8 +1770,8 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 57       | 65.52%  |
-| 101-120 | 23       | 26.44%  |
+| 51-100  | 58       | 66.67%  |
+| 101-120 | 22       | 25.29%  |
 | 161-240 | 3        | 3.45%   |
 | 121-160 | 2        | 2.3%    |
 | 1-50    | 1        | 1.15%   |
@@ -2260,7 +2258,7 @@ Memory module models
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1        | 0.66%   |
 | Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1        | 0.66%   |
 | Unknown (09A4) RAM 08S2400CL170H 8192MB DIMM DDR4 2133MT/s         | 1        | 0.66%   |
-| Team RAM TEAMGROUP-UD4-3000 4GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
 | Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s                | 1        | 0.66%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.66%   |
 | SK hynix RAM HYMP525F72CP4N3-Y5 2048MB FB-DIMM DDR2 533MT/s        | 1        | 0.66%   |
@@ -2311,8 +2309,8 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 4096  | 48       | 35.04%  |
-| 8192  | 39       | 28.47%  |
+| 4096  | 47       | 34.31%  |
+| 8192  | 40       | 29.2%   |
 | 2048  | 32       | 23.36%  |
 | 16384 | 10       | 7.3%    |
 | 1024  | 6        | 4.38%   |

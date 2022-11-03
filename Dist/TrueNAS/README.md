@@ -149,7 +149,7 @@ Contents
 Test Cases
 ----------
 
-Total: 58
+Total: 57
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -196,7 +196,6 @@ Total: 58
 | Lenovo        | ThinkServer TS440           | Desktop     | [6390c16543](https://bsd-hardware.info/?probe=6390c16543) | May 28, 2021 |
 | ASUSTek       | M5A99X EVO R2.0             | Desktop     | [cec3cb521d](https://bsd-hardware.info/?probe=cec3cb521d) | May 20, 2021 |
 | Unknown       | Unknown                     | Desktop     | [6b724a36cd](https://bsd-hardware.info/?probe=6b724a36cd) | Feb 19, 2021 |
-| Unknown       | Unknown                     | Desktop     | [760e148164](https://bsd-hardware.info/?probe=760e148164) | Feb 19, 2021 |
 | Unknown       | Unknown                     | Desktop     | [baf854930a](https://bsd-hardware.info/?probe=baf854930a) | Feb 19, 2021 |
 | TYAN Compu... | S5512                       | Desktop     | [6a6164af73](https://bsd-hardware.info/?probe=6a6164af73) | Jan 27, 2021 |
 | Unknown       | Unknown                     | Desktop     | [96ca836be9](https://bsd-hardware.info/?probe=96ca836be9) | Jan 19, 2021 |
@@ -874,13 +873,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 27        | 72     | 31.03%  |
-| 1.01-2.0   | 16        | 62     | 18.39%  |
-| 2.01-3.0   | 13        | 80     | 14.94%  |
-| 3.01-4.0   | 11        | 61     | 12.64%  |
-| 4.01-10.0  | 8         | 27     | 9.2%    |
-| 0.51-1.0   | 8         | 28     | 9.2%    |
-| 10.01-20.0 | 4         | 7      | 4.6%    |
+| 0.01-0.5   | 27        | 77     | 31.4%   |
+| 1.01-2.0   | 15        | 57     | 17.44%  |
+| 2.01-3.0   | 13        | 80     | 15.12%  |
+| 3.01-4.0   | 11        | 61     | 12.79%  |
+| 4.01-10.0  | 8         | 27     | 9.3%    |
+| 0.51-1.0   | 8         | 28     | 9.3%    |
+| 10.01-20.0 | 4         | 7      | 4.65%   |
 
 Space Total
 -----------

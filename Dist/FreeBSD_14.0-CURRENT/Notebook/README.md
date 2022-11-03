@@ -145,36 +145,31 @@ Contents
 Test Cases
 ----------
 
-Total: 132
+Total: 105
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo        | Legion 5 15IMH05 82AU       | [d89559e5c2](https://bsd-hardware.info/?probe=d89559e5c2) | Oct 03, 2022 |
 | System76      | Gazelle                     | [6d5d4f5021](https://bsd-hardware.info/?probe=6d5d4f5021) | Sep 24, 2022 |
 | HP            | EliteBook 8570p             | [7c6751649b](https://bsd-hardware.info/?probe=7c6751649b) | Sep 07, 2022 |
 | Valve         | Jupiter                     | [4e58d828cc](https://bsd-hardware.info/?probe=4e58d828cc) | Sep 01, 2022 |
 | HP            | EliteBook 8570p             | [978f01c546](https://bsd-hardware.info/?probe=978f01c546) | Jul 16, 2022 |
-| HP            | EliteBook 8570p             | [68c4af67b5](https://bsd-hardware.info/?probe=68c4af67b5) | Jul 14, 2022 |
 | Lenovo        | ThinkPad T495 20NJ0010PB    | [078888676a](https://bsd-hardware.info/?probe=078888676a) | Jul 13, 2022 |
 | Apple         | MacBookAir5,2               | [894b6f82cf](https://bsd-hardware.info/?probe=894b6f82cf) | Jul 13, 2022 |
 | Toshiba       | Satellite L305D             | [ed950787b0](https://bsd-hardware.info/?probe=ed950787b0) | Jul 10, 2022 |
 | Dell          | Latitude 5521               | [2c9d24a69e](https://bsd-hardware.info/?probe=2c9d24a69e) | Jun 19, 2022 |
 | Dell          | Latitude 5410               | [3334ff3727](https://bsd-hardware.info/?probe=3334ff3727) | Jun 06, 2022 |
 | HP            | EliteBook 8570p             | [1067f6ab27](https://bsd-hardware.info/?probe=1067f6ab27) | Jun 03, 2022 |
-| HP            | EliteBook 8570p             | [3d0fdb11ff](https://bsd-hardware.info/?probe=3d0fdb11ff) | May 27, 2022 |
 | HP            | ProBook 455 G7              | [c6944afe69](https://bsd-hardware.info/?probe=c6944afe69) | May 19, 2022 |
 | Lenovo        | ThinkPad T495s 20QKS1812... | [89db84f7ec](https://bsd-hardware.info/?probe=89db84f7ec) | May 10, 2022 |
 | Lenovo        | ThinkPad X1 Carbon 3rd 2... | [015bf0fea4](https://bsd-hardware.info/?probe=015bf0fea4) | May 06, 2022 |
 | Framework     | Laptop                      | [5d6cb039ea](https://bsd-hardware.info/?probe=5d6cb039ea) | Apr 25, 2022 |
-| HP            | EliteBook 8570p             | [c4dee3f070](https://bsd-hardware.info/?probe=c4dee3f070) | Apr 21, 2022 |
-| HP            | EliteBook 8570p             | [d9acb17caf](https://bsd-hardware.info/?probe=d9acb17caf) | Apr 20, 2022 |
 | HP            | EliteBook 8570p             | [0c73871c49](https://bsd-hardware.info/?probe=0c73871c49) | Apr 04, 2022 |
 | MSI           | Bravo 15 A4DDR              | [1868573e9a](https://bsd-hardware.info/?probe=1868573e9a) | Apr 02, 2022 |
 | Lenovo        | ThinkPad X260 20F5A28AUK    | [f53c625efd](https://bsd-hardware.info/?probe=f53c625efd) | Mar 30, 2022 |
 | Lenovo        | XiaoXinPro-13ARE 2020 82... | [859a429ad0](https://bsd-hardware.info/?probe=859a429ad0) | Mar 24, 2022 |
-| HP            | EliteBook 8570p             | [e9f59e748e](https://bsd-hardware.info/?probe=e9f59e748e) | Mar 24, 2022 |
 | Lenovo        | ThinkPad T14s Gen 2i 20W... | [6858ad2b12](https://bsd-hardware.info/?probe=6858ad2b12) | Mar 22, 2022 |
 | HP            | EliteBook 8570p             | [7e1e137c8f](https://bsd-hardware.info/?probe=7e1e137c8f) | Mar 20, 2022 |
-| HP            | EliteBook 8570p             | [dafb1bbb92](https://bsd-hardware.info/?probe=dafb1bbb92) | Mar 20, 2022 |
 | Acer          | Aspire A114-33              | [6e7384f4cc](https://bsd-hardware.info/?probe=6e7384f4cc) | Mar 15, 2022 |
 | Apple         | MacBookPro12,1              | [e04a1b354c](https://bsd-hardware.info/?probe=e04a1b354c) | Mar 11, 2022 |
 | Apple         | MacBookPro12,1              | [ac59621182](https://bsd-hardware.info/?probe=ac59621182) | Mar 10, 2022 |
@@ -186,43 +181,27 @@ Total: 132
 | HP            | EliteBook 8570p             | [f47789d894](https://bsd-hardware.info/?probe=f47789d894) | Jan 29, 2022 |
 | MSI           | GE76 Raider 10UG            | [b48b628936](https://bsd-hardware.info/?probe=b48b628936) | Jan 27, 2022 |
 | HP            | EliteBook 8570p             | [61406080a7](https://bsd-hardware.info/?probe=61406080a7) | Jan 18, 2022 |
-| HP            | EliteBook 8570p             | [1520fece28](https://bsd-hardware.info/?probe=1520fece28) | Jan 17, 2022 |
-| HP            | EliteBook 8570p             | [5f106ee686](https://bsd-hardware.info/?probe=5f106ee686) | Jan 15, 2022 |
 | Lenovo        | ThinkPad X13 Gen 1 20T20... | [6836fc60f6](https://bsd-hardware.info/?probe=6836fc60f6) | Jan 09, 2022 |
 | Lenovo        | ThinkPad E14 Gen 3 20Y70... | [6c208c85a5](https://bsd-hardware.info/?probe=6c208c85a5) | Jan 06, 2022 |
 | HP            | EliteBook 8570p             | [1bbb37d4c6](https://bsd-hardware.info/?probe=1bbb37d4c6) | Jan 03, 2022 |
-| HP            | EliteBook 8570p             | [0a180d834c](https://bsd-hardware.info/?probe=0a180d834c) | Jan 03, 2022 |
-| HP            | EliteBook 8570p             | [b956c2a933](https://bsd-hardware.info/?probe=b956c2a933) | Dec 28, 2021 |
 | Lenovo        | ThinkBook 14 G3 ACL 21A2    | [42b4bcbcc2](https://bsd-hardware.info/?probe=42b4bcbcc2) | Dec 27, 2021 |
 | Lenovo        | ThinkBook 14 G3 ACL 21A2    | [695d7201d4](https://bsd-hardware.info/?probe=695d7201d4) | Dec 27, 2021 |
-| HP            | EliteBook 8570p             | [44d3e7366c](https://bsd-hardware.info/?probe=44d3e7366c) | Dec 20, 2021 |
 | HP            | EliteBook Folio 9470m       | [b872e9b044](https://bsd-hardware.info/?probe=b872e9b044) | Dec 18, 2021 |
 | HP            | ProBook 440 G6              | [7a8a66430a](https://bsd-hardware.info/?probe=7a8a66430a) | Dec 13, 2021 |
 | HP            | ProBook 440 G6              | [f3c014b120](https://bsd-hardware.info/?probe=f3c014b120) | Dec 12, 2021 |
-| HP            | EliteBook 8570p             | [045ffeb9b3](https://bsd-hardware.info/?probe=045ffeb9b3) | Dec 12, 2021 |
 | ASUSTek       | 1215B                       | [6dbcac684f](https://bsd-hardware.info/?probe=6dbcac684f) | Dec 04, 2021 |
-| HP            | EliteBook 8570p             | [92fc69392b](https://bsd-hardware.info/?probe=92fc69392b) | Nov 27, 2021 |
-| HP            | EliteBook 8570p             | [d3888a4c7d](https://bsd-hardware.info/?probe=d3888a4c7d) | Nov 21, 2021 |
 | HP            | EliteBook 8570p             | [822a2481bb](https://bsd-hardware.info/?probe=822a2481bb) | Nov 17, 2021 |
-| HP            | EliteBook 8570p             | [ea51e03be6](https://bsd-hardware.info/?probe=ea51e03be6) | Nov 13, 2021 |
-| HP            | EliteBook 8570p             | [28a264a128](https://bsd-hardware.info/?probe=28a264a128) | Nov 09, 2021 |
-| HP            | EliteBook 8570p             | [d0b487888a](https://bsd-hardware.info/?probe=d0b487888a) | Nov 08, 2021 |
 | Lenovo        | ThinkPad X1 Extreme Gen ... | [e54d79065e](https://bsd-hardware.info/?probe=e54d79065e) | Nov 02, 2021 |
 | Lenovo        | ThinkPad X1 Extreme Gen ... | [a71d3392eb](https://bsd-hardware.info/?probe=a71d3392eb) | Nov 02, 2021 |
 | Lenovo        | ThinkPad T470p 20J7S0PM0... | [7a61d90a55](https://bsd-hardware.info/?probe=7a61d90a55) | Oct 28, 2021 |
 | Lenovo        | ThinkPad P14s Gen 1 20Y1... | [d910c79d75](https://bsd-hardware.info/?probe=d910c79d75) | Oct 24, 2021 |
 | HP            | EliteBook 8570p             | [86613b04d3](https://bsd-hardware.info/?probe=86613b04d3) | Oct 17, 2021 |
-| HP            | EliteBook 8570p             | [1b48acadd5](https://bsd-hardware.info/?probe=1b48acadd5) | Oct 10, 2021 |
 | Valve         | Jupiter                     | [e5aca4b7d0](https://bsd-hardware.info/?probe=e5aca4b7d0) | Oct 02, 2021 |
-| HP            | EliteBook 8570p             | [646148fc25](https://bsd-hardware.info/?probe=646148fc25) | Sep 18, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X512... | [0b73df29bf](https://bsd-hardware.info/?probe=0b73df29bf) | Sep 15, 2021 |
-| HP            | EliteBook 8570p             | [5a4e53da56](https://bsd-hardware.info/?probe=5a4e53da56) | Sep 12, 2021 |
 | Lenovo        | ThinkPad X395 20NL000GPG    | [d7812a2905](https://bsd-hardware.info/?probe=d7812a2905) | Sep 10, 2021 |
 | Lenovo        | ThinkPad X395 20NL000GPG    | [cdde22fb04](https://bsd-hardware.info/?probe=cdde22fb04) | Sep 10, 2021 |
-| HP            | EliteBook 8570p             | [7a289e8d1b](https://bsd-hardware.info/?probe=7a289e8d1b) | Sep 06, 2021 |
 | HP            | EliteBook 8570p             | [fae9e84f60](https://bsd-hardware.info/?probe=fae9e84f60) | Aug 27, 2021 |
 | Lenovo        | ThinkPad P14s Gen 1 20Y1... | [76f004bd26](https://bsd-hardware.info/?probe=76f004bd26) | Aug 26, 2021 |
-| HP            | EliteBook 8570p             | [a98c6adb40](https://bsd-hardware.info/?probe=a98c6adb40) | Aug 22, 2021 |
 | HP            | EliteBook 8570p             | [71092e78e2](https://bsd-hardware.info/?probe=71092e78e2) | Aug 17, 2021 |
 | HP            | EliteBook 8570p             | [6e97c9a59e](https://bsd-hardware.info/?probe=6e97c9a59e) | Aug 14, 2021 |
 | Lenovo        | Unknown                     | [e16ce5e864](https://bsd-hardware.info/?probe=e16ce5e864) | Aug 08, 2021 |
@@ -236,7 +215,6 @@ Total: 132
 | Dell          | G5 5505                     | [9933a09c4f](https://bsd-hardware.info/?probe=9933a09c4f) | Jul 24, 2021 |
 | HP            | ZBook 17 G2                 | [1ef99f31dd](https://bsd-hardware.info/?probe=1ef99f31dd) | Jul 23, 2021 |
 | Avell High... | A62 LIV                     | [5983302b1d](https://bsd-hardware.info/?probe=5983302b1d) | Jul 21, 2021 |
-| Lenovo        | XiaoXinPro-13ARE 2020 82... | [e0e6f62814](https://bsd-hardware.info/?probe=e0e6f62814) | Jul 19, 2021 |
 | Lenovo        | XiaoXinPro-13ARE 2020 82... | [b0da42c20d](https://bsd-hardware.info/?probe=b0da42c20d) | Jul 18, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X512... | [9c9d4cc782](https://bsd-hardware.info/?probe=9c9d4cc782) | Jul 18, 2021 |
 | ASUSTek       | VivoBook_ASUSLaptop X512... | [3d5e512e18](https://bsd-hardware.info/?probe=3d5e512e18) | Jul 18, 2021 |
@@ -253,23 +231,18 @@ Total: 132
 | Lenovo        | IdeaPad 330-15ARR 81D2      | [8fc867cfae](https://bsd-hardware.info/?probe=8fc867cfae) | Jun 06, 2021 |
 | HP            | EliteBook 8570p             | [52ba4e835f](https://bsd-hardware.info/?probe=52ba4e835f) | Jun 03, 2021 |
 | Lenovo        | ThinkPad X270 20HM004JBR    | [88c27e65d7](https://bsd-hardware.info/?probe=88c27e65d7) | May 23, 2021 |
-| HP            | EliteBook 8570p             | [062fe5ec40](https://bsd-hardware.info/?probe=062fe5ec40) | May 09, 2021 |
 | Dell          | G5 5505                     | [ba74d8eee0](https://bsd-hardware.info/?probe=ba74d8eee0) | May 08, 2021 |
 | Dell          | G5 5505                     | [23ae99e489](https://bsd-hardware.info/?probe=23ae99e489) | May 08, 2021 |
 | Lenovo        | Legion 5P 15IMH05H 82AW     | [2be8cf963c](https://bsd-hardware.info/?probe=2be8cf963c) | May 02, 2021 |
 | Dell          | Inspiron 3793               | [c2d56fc369](https://bsd-hardware.info/?probe=c2d56fc369) | Apr 29, 2021 |
-| HP            | EliteBook 8570p             | [e90abb54c9](https://bsd-hardware.info/?probe=e90abb54c9) | Apr 25, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | [4993ad0feb](https://bsd-hardware.info/?probe=4993ad0feb) | Apr 25, 2021 |
 | HUAWEI        | HN-WX9X                     | [d776625073](https://bsd-hardware.info/?probe=d776625073) | Apr 11, 2021 |
-| HP            | EliteBook 8570p             | [d9ec051372](https://bsd-hardware.info/?probe=d9ec051372) | Apr 06, 2021 |
-| HP            | EliteBook 8570p             | [cdeafa0952](https://bsd-hardware.info/?probe=cdeafa0952) | Apr 02, 2021 |
 | Lenovo        | ThinkPad P15 Gen 1 20ST0... | [342e914968](https://bsd-hardware.info/?probe=342e914968) | Mar 29, 2021 |
 | HP            | EliteBook 8570p             | [ed80dc9019](https://bsd-hardware.info/?probe=ed80dc9019) | Mar 27, 2021 |
 | HP            | ProBook 455 G7              | [dd877e6c6c](https://bsd-hardware.info/?probe=dd877e6c6c) | Mar 27, 2021 |
 | Lenovo        | ThinkPad X395 20NL001SMX    | [cd016e96ee](https://bsd-hardware.info/?probe=cd016e96ee) | Mar 17, 2021 |
 | Lenovo        | Legion 5 15IMH05 82AU       | [9fed35d792](https://bsd-hardware.info/?probe=9fed35d792) | Mar 10, 2021 |
 | HP            | ProBook 455 G7              | [1fcde7c0e1](https://bsd-hardware.info/?probe=1fcde7c0e1) | Mar 09, 2021 |
-| Lenovo        | ThinkPad E14 20RBCTO1WW     | [f2c2e5345a](https://bsd-hardware.info/?probe=f2c2e5345a) | Feb 27, 2021 |
 | Lenovo        | ThinkPad E14 20RBCTO1WW     | [aacafb6ace](https://bsd-hardware.info/?probe=aacafb6ace) | Feb 24, 2021 |
 | A-DATA Tec... | XENIA159GENI72060           | [be88e8f865](https://bsd-hardware.info/?probe=be88e8f865) | Feb 15, 2021 |
 | Lenovo        | ThinkPad T495s 20QKS1812... | [0e5e228d18](https://bsd-hardware.info/?probe=0e5e228d18) | Feb 13, 2021 |
@@ -308,24 +281,23 @@ Desktop Environment
 
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
-| KDE5          | 16        | 26.23%  |
-| XFCE          | 9         | 14.75%  |
-| TWM           | 5         | 8.2%    |
-| Console       | 5         | 8.2%    |
-| MATE          | 4         | 6.56%   |
-| GNOME         | 4         | 6.56%   |
-| i3            | 3         | 4.92%   |
-| Cinnamon      | 3         | 4.92%   |
-| LXDE          | 2         | 3.28%   |
-| Lumina        | 2         | 3.28%   |
-| Xfwm4         | 1         | 1.64%   |
-| Picom         | 1         | 1.64%   |
-| LXQt          | 1         | 1.64%   |
-| GNUstep       | 1         | 1.64%   |
-| Fluxbox       | 1         | 1.64%   |
-| Enlightenment | 1         | 1.64%   |
-| ctwm          | 1         | 1.64%   |
-| akonadi_newm  | 1         | 1.64%   |
+| KDE5          | 15        | 25%     |
+| XFCE          | 9         | 15%     |
+| TWM           | 5         | 8.33%   |
+| GNOME         | 5         | 8.33%   |
+| Console       | 5         | 8.33%   |
+| MATE          | 4         | 6.67%   |
+| i3            | 3         | 5%      |
+| Cinnamon      | 3         | 5%      |
+| LXDE          | 2         | 3.33%   |
+| Lumina        | 2         | 3.33%   |
+| Xfwm4         | 1         | 1.67%   |
+| Picom         | 1         | 1.67%   |
+| LXQt          | 1         | 1.67%   |
+| GNUstep       | 1         | 1.67%   |
+| Fluxbox       | 1         | 1.67%   |
+| Enlightenment | 1         | 1.67%   |
+| ctwm          | 1         | 1.67%   |
 
 Display Server
 --------------
@@ -369,16 +341,16 @@ Language
 
 | Lang             | Notebooks | Percent |
 |------------------|-----------|---------|
-| C                | 42        | 71.19%  |
-| en_US            | 6         | 10.17%  |
-| en_GB            | 3         | 5.08%   |
-| zh_CN            | 2         | 3.39%   |
-| pt_PT            | 1         | 1.69%   |
-| pl_PL            | 1         | 1.69%   |
-| it_IT.ISO8859-15 | 1         | 1.69%   |
-| fr_FR            | 1         | 1.69%   |
-| de_DE            | 1         | 1.69%   |
-| Unknown          | 1         | 1.69%   |
+| C                | 42        | 72.41%  |
+| en_US            | 6         | 10.34%  |
+| zh_CN            | 2         | 3.45%   |
+| en_GB            | 2         | 3.45%   |
+| pt_PT            | 1         | 1.72%   |
+| pl_PL            | 1         | 1.72%   |
+| it_IT.ISO8859-15 | 1         | 1.72%   |
+| fr_FR            | 1         | 1.72%   |
+| de_DE            | 1         | 1.72%   |
+| Unknown          | 1         | 1.72%   |
 
 Boot Mode
 ---------
@@ -631,9 +603,9 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 39        | 63.93%  |
-| 2      | 20        | 32.79%  |
-| 3      | 2         | 3.28%   |
+| 1      | 39        | 62.9%   |
+| 2      | 21        | 33.87%  |
+| 3      | 2         | 3.23%   |
 
 Has CD-ROM
 ----------
@@ -740,7 +712,6 @@ Geographic location (city)
 | ЕЊta-ku      | 1         | 1.52%   |
 | Zurich         | 1         | 1.52%   |
 | Wuhan          | 1         | 1.52%   |
-| Worthing       | 1         | 1.52%   |
 | Wieliczka      | 1         | 1.52%   |
 | Washington     | 1         | 1.52%   |
 | Warsaw         | 1         | 1.52%   |
@@ -773,6 +744,7 @@ Geographic location (city)
 | Khabarovsk     | 1         | 1.52%   |
 | Katowice       | 1         | 1.52%   |
 | JoГЈo Pessoa | 1         | 1.52%   |
+| Istanbul       | 1         | 1.52%   |
 
 Drives
 ------
@@ -787,25 +759,25 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 20        | 25     | 27.03%  |
-| WDC                 | 13        | 20     | 17.57%  |
-| Toshiba             | 7         | 16     | 9.46%   |
-| HGST                | 5         | 22     | 6.76%   |
-| KIOXIA              | 4         | 4      | 5.41%   |
-| SK hynix            | 3         | 3      | 4.05%   |
-| Kingston            | 3         | 5      | 4.05%   |
-| Apple               | 3         | 3      | 4.05%   |
-| A-DATA Technology   | 3         | 3      | 4.05%   |
-| Seagate             | 2         | 2      | 2.7%    |
-| Intel               | 2         | 2      | 2.7%    |
-| Crucial             | 2         | 4      | 2.7%    |
-| SPCC                | 1         | 1      | 1.35%   |
-| Solid State Storage | 1         | 1      | 1.35%   |
-| Silicon Motion      | 1         | 1      | 1.35%   |
-| SanDisk             | 1         | 2      | 1.35%   |
-| Mushkin             | 1         | 1      | 1.35%   |
-| LITEON              | 1         | 1      | 1.35%   |
-| Fujitsu             | 1         | 2      | 1.35%   |
+| Samsung Electronics | 20        | 26     | 26.67%  |
+| WDC                 | 13        | 20     | 17.33%  |
+| Toshiba             | 7         | 13     | 9.33%   |
+| HGST                | 5         | 18     | 6.67%   |
+| KIOXIA              | 4         | 4      | 5.33%   |
+| SK hynix            | 3         | 3      | 4%      |
+| Seagate             | 3         | 3      | 4%      |
+| Kingston            | 3         | 5      | 4%      |
+| Apple               | 3         | 3      | 4%      |
+| A-DATA Technology   | 3         | 3      | 4%      |
+| Intel               | 2         | 2      | 2.67%   |
+| Crucial             | 2         | 4      | 2.67%   |
+| SPCC                | 1         | 1      | 1.33%   |
+| Solid State Storage | 1         | 1      | 1.33%   |
+| Silicon Motion      | 1         | 1      | 1.33%   |
+| SanDisk             | 1         | 2      | 1.33%   |
+| Mushkin             | 1         | 1      | 1.33%   |
+| LITEON              | 1         | 1      | 1.33%   |
+| Fujitsu             | 1         | 2      | 1.33%   |
 
 Drive Model
 -----------
@@ -817,46 +789,46 @@ Hard drive models
 
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
-| Toshiba MQ01ABF050 500GB                           | 5         | 6.25%   |
-| HGST HTS725050A7E630 500GB                         | 4         | 5%      |
-| Samsung HM251JX 250GB                              | 3         | 3.75%   |
-| WDC WDS100T3X0C-00SJG0 1TB                         | 2         | 2.5%    |
-| WDC PC SN730 SDBQNTY-1T00-1001 1TB                 | 2         | 2.5%    |
-| WDC PC SN730 NVMe 1024GB                           | 2         | 2.5%    |
-| Samsung SSD 970 EVO Plus 1TB                       | 2         | 2.5%    |
-| Samsung MZVLB512HBJQ-000L7 512GB                   | 2         | 2.5%    |
-| KIOXIA KBG40ZNS256G NVMe 256GB                     | 2         | 2.5%    |
-| HGST HTS721010A9E630 1TB                           | 2         | 2.5%    |
-| Apple SSD SM256E 256GB                             | 2         | 2.5%    |
-| WDC WDS500G1X0E-00AFY0 500GB                       | 1         | 1.25%   |
-| WDC WDS100T1X0E-00AFY0 1TB                         | 1         | 1.25%   |
-| WDC WD10SPZX-60Z10T0 1TB                           | 1         | 1.25%   |
-| WDC PC SN730 SDBQNTY-512G-1001 512GB               | 1         | 1.25%   |
-| WDC PC SN730 SDBQNTY-256G-1001 256GB               | 1         | 1.25%   |
-| WDC PC SN730 SDBPNTY-512G-1101 512GB               | 1         | 1.25%   |
-| WDC PC SN720 SDAQNTW-512G-1001 512GB               | 1         | 1.25%   |
-| WDC PC SN530 SDBPMPZ-512G-1101 512GB               | 1         | 1.25%   |
-| Toshiba MQ04ABF100 1TB                             | 1         | 1.25%   |
-| Toshiba KXG6APNV2T04 2TB                           | 1         | 1.25%   |
-| SPCC M.2 PCIe SSD 1TB                              | 1         | 1.25%   |
-| Solid State Storage CL1-3D128-Q11 NVMe SSSTC 128GB | 1         | 1.25%   |
-| SK hynix PC300 HFS512GD9MND-5510A 512GB            | 1         | 1.25%   |
-| SK hynix BC511 NVMe 256GB                          | 1         | 1.25%   |
-| SK hynix BC511 HFM256GDJTNI-82A0A 256GB            | 1         | 1.25%   |
-| Silicon Motion NE-256 256GB                        | 1         | 1.25%   |
-| Seagate ST1000LM049-2GH172 1TB                     | 1         | 1.25%   |
-| Seagate ST1000LM035-1RK172 1TB                     | 1         | 1.25%   |
-| SanDisk SDSSDH3500G 500GB                          | 1         | 1.25%   |
-| Samsung SSD 980 PRO 1TB                            | 1         | 1.25%   |
-| Samsung SSD 970 PRO 1TB                            | 1         | 1.25%   |
-| Samsung SSD 970 EVO 1TB                            | 1         | 1.25%   |
-| Samsung SSD 860 EVO 500GB                          | 1         | 1.25%   |
-| Samsung SSD 850 EVO 250GB                          | 1         | 1.25%   |
-| Samsung SSD 840 PRO Series 128GB                   | 1         | 1.25%   |
-| Samsung PM9A1 NVMe 512GB                           | 1         | 1.25%   |
-| Samsung MZVLW256HEHP-000L7 256GB                   | 1         | 1.25%   |
-| Samsung MZVLB512HBJQ-000L2 512GB                   | 1         | 1.25%   |
-| Samsung MZVLB2T0HMLB-00000 2TB                     | 1         | 1.25%   |
+| Toshiba MQ01ABF050 500GB                           | 5         | 6.17%   |
+| HGST HTS725050A7E630 500GB                         | 4         | 4.94%   |
+| Samsung HM251JX 250GB                              | 3         | 3.7%    |
+| WDC WDS100T3X0C-00SJG0 1TB                         | 2         | 2.47%   |
+| WDC PC SN730 SDBQNTY-1T00-1001 1TB                 | 2         | 2.47%   |
+| WDC PC SN730 NVMe 1024GB                           | 2         | 2.47%   |
+| Seagate ST1000LM035-1RK172 1TB                     | 2         | 2.47%   |
+| Samsung SSD 970 EVO Plus 1TB                       | 2         | 2.47%   |
+| Samsung MZVLB512HBJQ-000L7 512GB                   | 2         | 2.47%   |
+| KIOXIA KBG40ZNS256G NVMe 256GB                     | 2         | 2.47%   |
+| HGST HTS721010A9E630 1TB                           | 2         | 2.47%   |
+| Apple SSD SM256E 256GB                             | 2         | 2.47%   |
+| WDC WDS500G1X0E-00AFY0 500GB                       | 1         | 1.23%   |
+| WDC WDS100T1X0E-00AFY0 1TB                         | 1         | 1.23%   |
+| WDC WD10SPZX-60Z10T0 1TB                           | 1         | 1.23%   |
+| WDC PC SN730 SDBQNTY-512G-1001 512GB               | 1         | 1.23%   |
+| WDC PC SN730 SDBQNTY-256G-1001 256GB               | 1         | 1.23%   |
+| WDC PC SN730 SDBPNTY-512G-1101 512GB               | 1         | 1.23%   |
+| WDC PC SN720 SDAQNTW-512G-1001 512GB               | 1         | 1.23%   |
+| WDC PC SN530 SDBPMPZ-512G-1101 512GB               | 1         | 1.23%   |
+| Toshiba MQ04ABF100 1TB                             | 1         | 1.23%   |
+| Toshiba KXG6APNV2T04 2TB                           | 1         | 1.23%   |
+| SPCC M.2 PCIe SSD 1TB                              | 1         | 1.23%   |
+| Solid State Storage CL1-3D128-Q11 NVMe SSSTC 128GB | 1         | 1.23%   |
+| SK hynix PC300 HFS512GD9MND-5510A 512GB            | 1         | 1.23%   |
+| SK hynix BC511 NVMe 256GB                          | 1         | 1.23%   |
+| SK hynix BC511 HFM256GDJTNI-82A0A 256GB            | 1         | 1.23%   |
+| Silicon Motion NE-256 256GB                        | 1         | 1.23%   |
+| Seagate ST1000LM049-2GH172 1TB                     | 1         | 1.23%   |
+| SanDisk SDSSDH3500G 500GB                          | 1         | 1.23%   |
+| Samsung SSD 980 PRO 1TB                            | 1         | 1.23%   |
+| Samsung SSD 970 PRO 1TB                            | 1         | 1.23%   |
+| Samsung SSD 970 EVO 1TB                            | 1         | 1.23%   |
+| Samsung SSD 860 EVO 500GB                          | 1         | 1.23%   |
+| Samsung SSD 850 EVO 250GB                          | 1         | 1.23%   |
+| Samsung SSD 840 PRO Series 128GB                   | 1         | 1.23%   |
+| Samsung PM9A1 NVMe 512GB                           | 1         | 1.23%   |
+| Samsung MZVLW256HEHP-000L7 256GB                   | 1         | 1.23%   |
+| Samsung MZVLB512HBJQ-000L2 512GB                   | 1         | 1.23%   |
+| Samsung MZVLB2T0HMLB-00000 2TB                     | 1         | 1.23%   |
 
 HDD Vendor
 ----------
@@ -868,12 +840,12 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Toshiba             | 6         | 15     | 33.33%  |
-| HGST                | 5         | 22     | 27.78%  |
-| Samsung Electronics | 3         | 3      | 16.67%  |
-| Seagate             | 2         | 2      | 11.11%  |
-| WDC                 | 1         | 1      | 5.56%   |
-| Fujitsu             | 1         | 2      | 5.56%   |
+| Toshiba             | 6         | 12     | 31.58%  |
+| HGST                | 5         | 18     | 26.32%  |
+| Seagate             | 3         | 3      | 15.79%  |
+| Samsung Electronics | 3         | 3      | 15.79%  |
+| WDC                 | 1         | 1      | 5.26%   |
+| Fujitsu             | 1         | 2      | 5.26%   |
 
 SSD Vendor
 ----------
@@ -904,9 +876,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 40        | 58     | 62.5%   |
-| SSD  | 12        | 15     | 18.75%  |
-| HDD  | 12        | 45     | 18.75%  |
+| NVMe | 40        | 59     | 61.54%  |
+| HDD  | 13        | 39     | 20%     |
+| SSD  | 12        | 15     | 18.46%  |
 
 Drive Connector
 ---------------
@@ -918,8 +890,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 40        | 58     | 62.5%   |
-| SATA | 24        | 60     | 37.5%   |
+| NVMe | 40        | 59     | 61.54%  |
+| SATA | 25        | 54     | 38.46%  |
 
 Drive Size
 ----------
@@ -931,8 +903,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 19        | 43     | 76%     |
-| 0.51-1.0   | 6         | 17     | 24%     |
+| 0.01-0.5   | 19        | 38     | 73.08%  |
+| 0.51-1.0   | 7         | 16     | 26.92%  |
 
 Space Total
 -----------
@@ -963,11 +935,11 @@ Amount of used disk space
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1-20     | 36        | 59.02%  |
-| 21-50    | 19        | 31.15%  |
-| 101-250  | 4         | 6.56%   |
-| 501-1000 | 1         | 1.64%   |
-| 51-100   | 1         | 1.64%   |
+| 1-20     | 36        | 58.06%  |
+| 21-50    | 19        | 30.65%  |
+| 101-250  | 5         | 8.06%   |
+| 501-1000 | 1         | 1.61%   |
+| 51-100   | 1         | 1.61%   |
 
 Malfunc. Drives
 ---------------
@@ -979,10 +951,10 @@ Drive models with a malfunction
 
 | Model                             | Notebooks | Drives | Percent |
 |-----------------------------------|-----------|--------|---------|
-| HGST HTS725050A7E630 500GB        | 4         | 9      | 50%     |
+| HGST HTS725050A7E630 500GB        | 4         | 7      | 50%     |
 | WDC WD10SPZX-60Z10T0 1TB          | 1         | 1      | 12.5%   |
 | Samsung Electronics HM251JX 250GB | 1         | 1      | 12.5%   |
-| HGST HTS721010A9E630 1TB          | 1         | 11     | 12.5%   |
+| HGST HTS721010A9E630 1TB          | 1         | 9      | 12.5%   |
 | Fujitsu MHS2040AT D 40GB          | 1         | 2      | 12.5%   |
 
 Malfunc. Drive Vendor
@@ -995,7 +967,7 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 20     | 57.14%  |
+| HGST                | 4         | 16     | 57.14%  |
 | WDC                 | 1         | 1      | 14.29%  |
 | Samsung Electronics | 1         | 1      | 14.29%  |
 | Fujitsu             | 1         | 2      | 14.29%  |
@@ -1010,7 +982,7 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 20     | 57.14%  |
+| HGST                | 4         | 16     | 57.14%  |
 | WDC                 | 1         | 1      | 14.29%  |
 | Samsung Electronics | 1         | 1      | 14.29%  |
 | Fujitsu             | 1         | 2      | 14.29%  |
@@ -1025,7 +997,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 6         | 24     | 100%    |
+| HDD  | 6         | 20     | 100%    |
 
 Failed Drives
 -------------
@@ -1051,8 +1023,8 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 54        | 91     | 85.71%  |
-| Malfunc  | 6         | 24     | 9.52%   |
+| Works    | 54        | 90     | 85.71%  |
+| Malfunc  | 6         | 20     | 9.52%   |
 | Detected | 3         | 3      | 4.76%   |
 
 Storage controller
@@ -1871,8 +1843,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 48        | 78.69%  |
-| Yes  | 13        | 21.31%  |
+| No   | 48        | 77.42%  |
+| Yes  | 14        | 22.58%  |
 
 Bluetooth
 ---------
@@ -2302,13 +2274,13 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 21        | 35.59%  |
-| 4     | 12        | 20.34%  |
-| 1     | 10        | 16.95%  |
-| 3     | 9         | 15.25%  |
-| 5     | 4         | 6.78%   |
-| 0     | 2         | 3.39%   |
-| 9     | 1         | 1.69%   |
+| 2     | 22        | 36.67%  |
+| 4     | 12        | 20%     |
+| 1     | 10        | 16.67%  |
+| 3     | 9         | 15%     |
+| 5     | 4         | 6.67%   |
+| 0     | 2         | 3.33%   |
+| 9     | 1         | 1.67%   |
 
 Unsupported Device Types
 ------------------------

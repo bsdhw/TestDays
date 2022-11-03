@@ -1110,7 +1110,7 @@ Monitor models
 | LG Display LCD Monitor LGD40A0 1366x768 310x170mm 13.9-inch          | 1         | 11.11%  |
 | LG Display LCD Monitor LGD03CD 1366x768 280x160mm 12.7-inch          | 1         | 11.11%  |
 | LG Display LCD Monitor LGD0335 1366x768 310x170mm 13.9-inch          | 1         | 11.11%  |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch              | 1         | 11.11%  |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch              | 1         | 11.11%  |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 340x190mm 15.3-inch      | 1         | 11.11%  |
 | Chimei Innolux LCD Monitor CMN1472 1366x768 310x170mm 13.9-inch      | 1         | 11.11%  |
 | Apple LCD Monitor APP9C5F 1280x800 290x180mm 13.4-inch               | 1         | 11.11%  |
@@ -1535,7 +1535,7 @@ Memory module models
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s       | 1         | 6.25%   |
 | Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s      | 1         | 6.25%   |
 | Micron RAM 16JSF51264HZ-1G1D1 4GB SODIMM DDR3 1067MT/s     | 1         | 6.25%   |
-| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s | 1         | 6.25%   |
+| Kingston RAM ACR16D3LFS1KBG/2G 2GB SODIMM DDR3 1600MT/s    | 1         | 6.25%   |
 | Kingston RAM 9905428-026.A02LF 2048MB SODIMM DDR3 1066MT/s | 1         | 6.25%   |
 
 Memory Kind

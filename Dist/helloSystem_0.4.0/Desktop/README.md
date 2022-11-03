@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 114
+Total: 113
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -183,7 +183,6 @@ Total: 114
 | Gigabyte      | Z87-D3HP-CF                 | [4c2d7f9b3b](https://bsd-hardware.info/?probe=4c2d7f9b3b) | Mar 03, 2021 |
 | HP            | 339A                        | [6b1072ee33](https://bsd-hardware.info/?probe=6b1072ee33) | Mar 01, 2021 |
 | HP            | 18E7                        | [091b80c404](https://bsd-hardware.info/?probe=091b80c404) | Mar 01, 2021 |
-| Gigabyte      | Z87-D3HP-CF                 | [2af4fda964](https://bsd-hardware.info/?probe=2af4fda964) | Feb 27, 2021 |
 | ASRock        | AB350 Pro4                  | [8e0afc66b5](https://bsd-hardware.info/?probe=8e0afc66b5) | Feb 26, 2021 |
 | ASRock        | H61M-VG3                    | [68d5d3c6cd](https://bsd-hardware.info/?probe=68d5d3c6cd) | Feb 26, 2021 |
 | Intel         | H61                         | [a8ae96a0ab](https://bsd-hardware.info/?probe=a8ae96a0ab) | Feb 23, 2021 |
@@ -759,7 +758,7 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 31       | 40     | 18.79%  |
+| WDC                 | 31       | 39     | 18.79%  |
 | Seagate             | 29       | 39     | 17.58%  |
 | Samsung Electronics | 28       | 47     | 16.97%  |
 | Kingston            | 15       | 16     | 9.09%   |
@@ -797,14 +796,14 @@ Hard drive models
 
 | Model                               | Desktops | Percent |
 |-------------------------------------|----------|---------|
-| Samsung SSD 860 EVO 500GB           | 4        | 1.99%   |
-| Samsung HD103SI 1TB                 | 4        | 1.99%   |
-| Kingston SA400S37240G 240GB         | 4        | 1.99%   |
-| Crucial CT500MX500SSD1 500GB        | 4        | 1.99%   |
-| Toshiba DT01ACA100 1TB              | 3        | 1.49%   |
-| Seagate ST500DM002-1BD142 500GB     | 3        | 1.49%   |
-| Samsung SSD 850 EVO 250GB           | 3        | 1.49%   |
-| Kingston SV300S37A120G 120GB        | 3        | 1.49%   |
+| Samsung SSD 860 EVO 500GB           | 4        | 2%      |
+| Samsung HD103SI 1TB                 | 4        | 2%      |
+| Kingston SA400S37240G 240GB         | 4        | 2%      |
+| Crucial CT500MX500SSD1 500GB        | 4        | 2%      |
+| Toshiba DT01ACA100 1TB              | 3        | 1.5%    |
+| Seagate ST500DM002-1BD142 500GB     | 3        | 1.5%    |
+| Samsung SSD 850 EVO 250GB           | 3        | 1.5%    |
+| Kingston SV300S37A120G 120GB        | 3        | 1.5%    |
 | WDC WDS100T2B0A-00SM50 1TB          | 2        | 1%      |
 | WDC WD20EARX-00PASB0 2TB            | 2        | 1%      |
 | WDC WD10EZEX-00RKKA0 1TB            | 2        | 1%      |
@@ -824,7 +823,6 @@ Hard drive models
 | WDC WDS500G2B0A-00SM50 500GB        | 1        | 0.5%    |
 | WDC WDS250G2B0A-00SM50 250GB        | 1        | 0.5%    |
 | WDC WDS240G2G0A-00JH30 240GB        | 1        | 0.5%    |
-| WDC WDS120G2G0A-00JH30 120GB        | 1        | 0.5%    |
 | WDC WDS100T2G0A-00JH30 1TB          | 1        | 0.5%    |
 | WDC WD7500AAVS-00D7B0 752GB         | 1        | 0.5%    |
 | WDC WD60EMAZ-11LW3B0 6TB            | 1        | 0.5%    |
@@ -837,6 +835,7 @@ Hard drive models
 | WDC WD5000AAKX-00ERMA0 500GB        | 1        | 0.5%    |
 | WDC WD5000AAKS-00E4A0 500GB         | 1        | 0.5%    |
 | WDC WD5000AADS-00S9B0 500GB         | 1        | 0.5%    |
+| WDC WD40EFRX-68WT0N0 4TB            | 1        | 0.5%    |
 
 HDD Vendor
 ----------
@@ -870,7 +869,7 @@ Solid state drive vendors
 | Kingston            | 13       | 14     | 17.33%  |
 | Crucial             | 11       | 15     | 14.67%  |
 | SanDisk             | 10       | 11     | 13.33%  |
-| WDC                 | 6        | 7      | 8%      |
+| WDC                 | 6        | 6      | 8%      |
 | Toshiba             | 3        | 3      | 4%      |
 | Micron Technology   | 3        | 3      | 4%      |
 | SPCC                | 2        | 2      | 2.67%   |
@@ -896,7 +895,7 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | HDD  | 58       | 101    | 45.31%  |
-| SSD  | 54       | 92     | 42.19%  |
+| SSD  | 54       | 91     | 42.19%  |
 | NVMe | 16       | 24     | 12.5%   |
 
 Drive Connector
@@ -909,7 +908,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 86       | 193    | 84.31%  |
+| SATA | 86       | 192    | 84.31%  |
 | NVMe | 16       | 24     | 15.69%  |
 
 Drive Size
@@ -922,7 +921,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 74       | 128    | 61.67%  |
+| 0.01-0.5   | 74       | 127    | 61.67%  |
 | 0.51-1.0   | 32       | 47     | 26.67%  |
 | 1.01-2.0   | 9        | 12     | 7.5%    |
 | 3.01-4.0   | 2        | 2      | 1.67%   |
@@ -1068,7 +1067,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 81       | 185    | 77.14%  |
+| Works    | 81       | 184    | 77.14%  |
 | Malfunc  | 23       | 31     | 21.9%   |
 | Detected | 1        | 1      | 0.95%   |
 
@@ -2096,7 +2095,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
 | Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
 | Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
 | SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |

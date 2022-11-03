@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 112
+Total: 110
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -176,7 +176,6 @@ Total: 112
 | Lenovo        | ThinkPad X250 20CLS59400    | Notebook    | [92333ad60b](https://bsd-hardware.info/?probe=92333ad60b) | Feb 17, 2022 |
 | MSI           | MS-7253                     | Desktop     | [c4e971ea82](https://bsd-hardware.info/?probe=c4e971ea82) | Feb 16, 2022 |
 | Lenovo        | Flex 2-15 20405             | Notebook    | [1e8904f4fc](https://bsd-hardware.info/?probe=1e8904f4fc) | Feb 15, 2022 |
-| HP            | EliteBook 2530p             | Notebook    | [dd52bb1163](https://bsd-hardware.info/?probe=dd52bb1163) | Feb 15, 2022 |
 | Raspberry ... | Raspberry Pi 400            | Desktop     | [dd56609ceb](https://bsd-hardware.info/?probe=dd56609ceb) | Feb 14, 2022 |
 | Lenovo        | ThinkPad T400 2768W3A       | Desktop     | [4691fdb146](https://bsd-hardware.info/?probe=4691fdb146) | Feb 13, 2022 |
 | Lenovo        | ThinkPad T400 2768W3A       | Desktop     | [97788dfb1a](https://bsd-hardware.info/?probe=97788dfb1a) | Feb 13, 2022 |
@@ -240,7 +239,6 @@ Total: 112
 | HP            | 0A60h                       | Desktop     | [5c227c5b61](https://bsd-hardware.info/?probe=5c227c5b61) | Oct 27, 2021 |
 | Matsushita... | CF-48V4KNDQM                | Notebook    | [9e254ab443](https://bsd-hardware.info/?probe=9e254ab443) | Oct 23, 2021 |
 | ASUSTek       | 1000HE                      | Notebook    | [1d5e3e5bc3](https://bsd-hardware.info/?probe=1d5e3e5bc3) | Oct 22, 2021 |
-| Google        | Grunt                       | Notebook    | [259f96d9c8](https://bsd-hardware.info/?probe=259f96d9c8) | Oct 22, 2021 |
 | Lenovo        | ThinkPad T430 2347GZU       | Notebook    | [3337c00433](https://bsd-hardware.info/?probe=3337c00433) | Oct 22, 2021 |
 | Matsushita... | CF-51RCVDNLM                | Notebook    | [b20953f2f4](https://bsd-hardware.info/?probe=b20953f2f4) | Oct 18, 2021 |
 | Panasonic     | CF-52PFPBSFQ                | Notebook    | [bbdfde368b](https://bsd-hardware.info/?probe=bbdfde368b) | Oct 18, 2021 |
@@ -800,7 +798,7 @@ Hard drive vendors
 | WDC                                | 13        | 13     | 12.26%  |
 | Samsung Electronics                | 13        | 15     | 12.26%  |
 | Seagate                            | 10        | 13     | 9.43%   |
-| Toshiba                            | 9         | 11     | 8.49%   |
+| Toshiba                            | 9         | 10     | 8.49%   |
 | Kingston                           | 6         | 8      | 5.66%   |
 | SK hynix                           | 3         | 3      | 2.83%   |
 | Intel                              | 3         | 4      | 2.83%   |
@@ -890,7 +888,7 @@ Hard disk drive vendors
 | NVMe                               | 15        | 18     | 23.44%  |
 | WDC                                | 11        | 11     | 17.19%  |
 | Seagate                            | 10        | 13     | 15.63%  |
-| Toshiba                            | 7         | 9      | 10.94%  |
+| Toshiba                            | 7         | 8      | 10.94%  |
 | Samsung Electronics                | 6         | 8      | 9.38%   |
 | Hitachi                            | 3         | 3      | 4.69%   |
 | HGST                               | 2         | 3      | 3.13%   |
@@ -942,7 +940,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 52        | 76     | 57.78%  |
+| HDD  | 52        | 75     | 57.78%  |
 | SSD  | 35        | 44     | 38.89%  |
 | NVMe | 3         | 4      | 3.33%   |
 
@@ -956,7 +954,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 78        | 120    | 96.3%   |
+| SATA | 78        | 119    | 96.3%   |
 | NVMe | 3         | 4      | 3.7%    |
 
 Drive Size
@@ -969,10 +967,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 64        | 85     | 71.91%  |
-| 0.51-1.0   | 17        | 20     | 19.1%   |
-| 1.01-2.0   | 7         | 14     | 7.87%   |
-| 4.01-10.0  | 1         | 1      | 1.12%   |
+| 0.01-0.5   | 64        | 84     | 72.73%  |
+| 0.51-1.0   | 16        | 19     | 18.18%  |
+| 1.01-2.0   | 7         | 15     | 7.95%   |
+| 4.01-10.0  | 1         | 1      | 1.14%   |
 
 Space Total
 -----------
@@ -1024,7 +1022,7 @@ Drive models with a malfunction
 | WDC WD1600BEVE-00UYT0 160GB     | 1         | 1      | 7.14%   |
 | WDC WD10EADS-00M2B0 1TB         | 1         | 1      | 7.14%   |
 | Toshiba MQ04ABF100 1TB          | 1         | 1      | 7.14%   |
-| Toshiba MK1629GSGF 160GB        | 1         | 3      | 7.14%   |
+| Toshiba MK1629GSGF 160GB        | 1         | 2      | 7.14%   |
 | Seagate ST9500420AS 500GB       | 1         | 1      | 7.14%   |
 | Seagate ST9320423AS 320GB       | 1         | 1      | 7.14%   |
 | Seagate ST250DM000-1BD141 250GB | 1         | 1      | 7.14%   |
@@ -1048,7 +1046,7 @@ Vendors of faulty drives
 |-------------------|-----------|--------|---------|
 | Seagate           | 3         | 3      | 21.43%  |
 | WDC               | 2         | 2      | 14.29%  |
-| Toshiba           | 2         | 4      | 14.29%  |
+| Toshiba           | 2         | 3      | 14.29%  |
 | Intel             | 2         | 2      | 14.29%  |
 | A-DATA Technology | 2         | 2      | 14.29%  |
 | Kingston          | 1         | 2      | 7.14%   |
@@ -1067,7 +1065,7 @@ Vendors of faulty HDD drives
 |---------|-----------|--------|---------|
 | Seagate | 3         | 3      | 33.33%  |
 | WDC     | 2         | 2      | 22.22%  |
-| Toshiba | 2         | 4      | 22.22%  |
+| Toshiba | 2         | 3      | 22.22%  |
 | Hitachi | 1         | 1      | 11.11%  |
 | HGST    | 1         | 2      | 11.11%  |
 
@@ -1081,7 +1079,7 @@ Kinds of faulty drives
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 9         | 12     | 64.29%  |
+| HDD  | 9         | 11     | 64.29%  |
 | SSD  | 5         | 6      | 35.71%  |
 
 Failed Drives
@@ -1120,7 +1118,7 @@ Number of failed and malfunc. drives
 |----------|-----------|--------|---------|
 | Works    | 53        | 69     | 56.38%  |
 | Detected | 26        | 36     | 27.66%  |
-| Malfunc  | 14        | 18     | 14.89%  |
+| Malfunc  | 14        | 17     | 14.89%  |
 | Failed   | 1         | 1      | 1.06%   |
 
 Storage controller
@@ -1210,9 +1208,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 58        | 61.7%   |
+| SATA | 57        | 60.64%  |
 | NVMe | 21        | 22.34%  |
-| IDE  | 14        | 14.89%  |
+| IDE  | 15        | 15.96%  |
 | RAID | 1         | 1.06%   |
 
 Processor
@@ -1568,7 +1566,7 @@ Monitor models
 | Samsung Electronics S24D390 SAM0B65 1920x1080 520x290mm 23.4-inch        | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch     | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 1.85%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch     | 1         | 1.85%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch     | 1         | 1.85%   |
 | Samsung Electronics LCD Monitor SAM7103 3840x2160 700x390mm 31.5-inch    | 1         | 1.85%   |
 | Philips LCD Monitor PHLC00B 1280x1024 340x270mm 17.1-inch                | 1         | 1.85%   |
 | PANDA LCD Monitor NCP0004 1920x1080 290x170mm 13.2-inch                  | 1         | 1.85%   |
@@ -1733,9 +1731,9 @@ Total monitors connected
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 1     | 59        | 67.82%  |
-| 0     | 25        | 28.74%  |
-| 2     | 3         | 3.45%   |
+| 1     | 59        | 67.05%  |
+| 0     | 26        | 29.55%  |
+| 2     | 3         | 3.41%   |
 
 Network
 -------

@@ -147,7 +147,7 @@ Contents
 Test Cases
 ----------
 
-Total: 248
+Total: 244
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
@@ -175,7 +175,6 @@ Total: 248
 | ASUSTek       | ROG STRIX B360-F GAMING     | Desktop     | [6e874538cb](https://bsd-hardware.info/?probe=6e874538cb) | Apr 20, 2021 |
 | HP            | 18E7                        | Desktop     | [e6354de524](https://bsd-hardware.info/?probe=e6354de524) | Apr 20, 2021 |
 | Gateway       | NE56R                       | Notebook    | [bbbc827581](https://bsd-hardware.info/?probe=bbbc827581) | Apr 16, 2021 |
-| Gateway       | NE56R                       | Notebook    | [f4031498db](https://bsd-hardware.info/?probe=f4031498db) | Apr 15, 2021 |
 | Dell          | Latitude E7240              | Notebook    | [1dbd9a5cee](https://bsd-hardware.info/?probe=1dbd9a5cee) | Apr 13, 2021 |
 | Lenovo        | ThinkPad T400 7417TPU       | Notebook    | [981517a51a](https://bsd-hardware.info/?probe=981517a51a) | Apr 13, 2021 |
 | Apple         | MacBookPro8,1               | Notebook    | [5d3d014284](https://bsd-hardware.info/?probe=5d3d014284) | Apr 12, 2021 |
@@ -227,7 +226,6 @@ Total: 248
 | Intel         | NUC8BEB J72693-306          | Mini pc     | [0951c73dba](https://bsd-hardware.info/?probe=0951c73dba) | Mar 01, 2021 |
 | Lenovo        | ThinkPad X1 Carbon 5th 2... | Notebook    | [950cf51db1](https://bsd-hardware.info/?probe=950cf51db1) | Feb 28, 2021 |
 | ASUSTek       | G1S                         | Notebook    | [593c12aa06](https://bsd-hardware.info/?probe=593c12aa06) | Feb 28, 2021 |
-| Gigabyte      | Z87-D3HP-CF                 | Desktop     | [2af4fda964](https://bsd-hardware.info/?probe=2af4fda964) | Feb 27, 2021 |
 | ASRock        | AB350 Pro4                  | Desktop     | [8e0afc66b5](https://bsd-hardware.info/?probe=8e0afc66b5) | Feb 26, 2021 |
 | ASRock        | H61M-VG3                    | Desktop     | [68d5d3c6cd](https://bsd-hardware.info/?probe=68d5d3c6cd) | Feb 26, 2021 |
 | ASUSTek       | X555LAB                     | Notebook    | [b0364fffaf](https://bsd-hardware.info/?probe=b0364fffaf) | Feb 25, 2021 |
@@ -358,7 +356,6 @@ Total: 248
 | ASUSTek       | M5A78L-M/USB3               | Desktop     | [a49ff2b77a](https://bsd-hardware.info/?probe=a49ff2b77a) | Feb 11, 2021 |
 | ASUSTek       | M5A78L-M LX PLUS            | Desktop     | [f19ced0784](https://bsd-hardware.info/?probe=f19ced0784) | Feb 11, 2021 |
 | Dell          | Latitude 3410               | Notebook    | [465dd01c0d](https://bsd-hardware.info/?probe=465dd01c0d) | Feb 11, 2021 |
-| Dell          | Inspiron 3521               | Notebook    | [43196baf75](https://bsd-hardware.info/?probe=43196baf75) | Feb 11, 2021 |
 | Samsung       | 300V3Z/300V4Z/300V5Z        | Notebook    | [270ca253a3](https://bsd-hardware.info/?probe=270ca253a3) | Feb 11, 2021 |
 | Dell          | Inspiron 3521               | Notebook    | [b3569ebb39](https://bsd-hardware.info/?probe=b3569ebb39) | Feb 11, 2021 |
 | Medion        | H81H3-EM2 H81EM2W08.308     | Desktop     | [9958f514c9](https://bsd-hardware.info/?probe=9958f514c9) | Feb 10, 2021 |
@@ -394,7 +391,6 @@ Total: 248
 | Lenovo        | ThinkPad X1 Carbon 3444A... | Notebook    | [b659b95d1a](https://bsd-hardware.info/?probe=b659b95d1a) | Jan 18, 2021 |
 | HP            | ProBook 470 G4              | Notebook    | [e39a46cadf](https://bsd-hardware.info/?probe=e39a46cadf) | Jan 17, 2021 |
 | MSI           | Boston                      | Desktop     | [aa9d7bae21](https://bsd-hardware.info/?probe=aa9d7bae21) | Jan 17, 2021 |
-| HP            | ProBook 470 G4              | Notebook    | [55c762d22e](https://bsd-hardware.info/?probe=55c762d22e) | Jan 17, 2021 |
 | MSI           | Boston                      | Desktop     | [f21954fa35](https://bsd-hardware.info/?probe=f21954fa35) | Jan 17, 2021 |
 | Gigabyte      | TRX40 DESIGNARE             | Desktop     | [f506b21449](https://bsd-hardware.info/?probe=f506b21449) | Jan 17, 2021 |
 | Lenovo        | ThinkPad T480s 20L8S6G21... | Notebook    | [a8508f91de](https://bsd-hardware.info/?probe=a8508f91de) | Jan 14, 2021 |
@@ -925,7 +921,7 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 47        | 59     | 16.79%  |
+| WDC                 | 47        | 58     | 16.79%  |
 | Samsung Electronics | 46        | 66     | 16.43%  |
 | Seagate             | 39        | 49     | 13.93%  |
 | Kingston            | 23        | 24     | 8.21%   |
@@ -976,8 +972,8 @@ Hard drive models
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
 | Samsung SSD 860 EVO 500GB           | 6         | 1.88%   |
-| Kingston SA400S37240G 240GB         | 5         | 1.56%   |
-| Crucial CT500MX500SSD1 500GB        | 5         | 1.56%   |
+| Kingston SA400S37240G 240GB         | 5         | 1.57%   |
+| Crucial CT500MX500SSD1 500GB        | 5         | 1.57%   |
 | Samsung SSD 850 EVO 250GB           | 4         | 1.25%   |
 | Samsung HD103SI 1TB                 | 4         | 1.25%   |
 | Micron 1100 SATA 256GB              | 4         | 1.25%   |
@@ -1049,7 +1045,7 @@ Solid state drive vendors
 | Kingston            | 20        | 21     | 13.99%  |
 | SanDisk             | 18        | 19     | 12.59%  |
 | Crucial             | 18        | 23     | 12.59%  |
-| WDC                 | 11        | 12     | 7.69%   |
+| WDC                 | 11        | 11     | 7.69%   |
 | Micron Technology   | 6         | 6      | 4.2%    |
 | Toshiba             | 4         | 4      | 2.8%    |
 | SPCC                | 4         | 4      | 2.8%    |
@@ -1084,7 +1080,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 115       | 161    | 48.32%  |
+| SSD  | 115       | 160    | 48.32%  |
 | HDD  | 93        | 139    | 39.08%  |
 | NVMe | 30        | 38     | 12.61%  |
 
@@ -1098,7 +1094,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 174       | 300    | 85.29%  |
+| SATA | 174       | 299    | 85.29%  |
 | NVMe | 30        | 38     | 14.71%  |
 
 Drive Size
@@ -1111,7 +1107,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 151       | 216    | 70.89%  |
+| 0.01-0.5   | 151       | 215    | 70.89%  |
 | 0.51-1.0   | 46        | 64     | 21.6%   |
 | 1.01-2.0   | 11        | 14     | 5.16%   |
 | 3.01-4.0   | 2         | 2      | 0.94%   |
@@ -1276,7 +1272,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 159       | 276    | 75.36%  |
+| Works    | 159       | 275    | 75.36%  |
 | Malfunc  | 50        | 60     | 23.7%   |
 | Detected | 2         | 2      | 0.95%   |
 
@@ -2502,25 +2498,25 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 63        | 30%     |
-| 1333    | 34        | 16.19%  |
-| 2400    | 32        | 15.24%  |
-| 2133    | 12        | 5.71%   |
-| 3200    | 11        | 5.24%   |
-| 800     | 9         | 4.29%   |
-| 667     | 9         | 4.29%   |
-| 2667    | 8         | 3.81%   |
-| 1067    | 7         | 3.33%   |
-| 1334    | 6         | 2.86%   |
-| 1867    | 5         | 2.38%   |
-| 2666    | 3         | 1.43%   |
-| 1066    | 3         | 1.43%   |
+| 1600    | 63        | 29.86%  |
+| 1333    | 34        | 16.11%  |
+| 2400    | 32        | 15.17%  |
+| 2133    | 12        | 5.69%   |
+| 3200    | 11        | 5.21%   |
+| 800     | 9         | 4.27%   |
+| 667     | 9         | 4.27%   |
+| 2667    | 8         | 3.79%   |
+| 1067    | 8         | 3.79%   |
+| 1334    | 6         | 2.84%   |
+| 1867    | 5         | 2.37%   |
+| 2666    | 3         | 1.42%   |
+| 1066    | 3         | 1.42%   |
 | 1866    | 2         | 0.95%   |
 | Unknown | 2         | 0.95%   |
-| 3600    | 1         | 0.48%   |
-| 2933    | 1         | 0.48%   |
-| 2800    | 1         | 0.48%   |
-| 533     | 1         | 0.48%   |
+| 3600    | 1         | 0.47%   |
+| 2933    | 1         | 0.47%   |
+| 2800    | 1         | 0.47%   |
+| 533     | 1         | 0.47%   |
 
 Printers & scanners
 -------------------

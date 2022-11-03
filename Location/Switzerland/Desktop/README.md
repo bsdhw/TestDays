@@ -147,10 +147,14 @@ Contents
 Test Cases
 ----------
 
-Total: 185
+Total: 183
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Unknown       | Unknown                     | [bc7a300434](https://bsd-hardware.info/?probe=bc7a300434) | Nov 02, 2022 |
+| Unknown       | Unknown                     | [2fc5bd737a](https://bsd-hardware.info/?probe=2fc5bd737a) | Oct 09, 2022 |
+| PC Engines    | APU2                        | [47e38f3abe](https://bsd-hardware.info/?probe=47e38f3abe) | Oct 05, 2022 |
+| Unknown       | Unknown                     | [02a9700c12](https://bsd-hardware.info/?probe=02a9700c12) | Oct 03, 2022 |
 | Gigabyte      | X570 AORUS MASTER           | [353008eb5e](https://bsd-hardware.info/?probe=353008eb5e) | Sep 29, 2022 |
 | PC Engines    | APU2                        | [3fcc5e5ae2](https://bsd-hardware.info/?probe=3fcc5e5ae2) | Sep 25, 2022 |
 | HP            | ProLiant ML350p Gen8        | [1a9c6a10bd](https://bsd-hardware.info/?probe=1a9c6a10bd) | Sep 19, 2022 |
@@ -162,7 +166,6 @@ Total: 185
 | Acer          | Aspire X3995                | [9240256ae5](https://bsd-hardware.info/?probe=9240256ae5) | Aug 06, 2022 |
 | Unknown       | Unknown                     | [9f98df6faf](https://bsd-hardware.info/?probe=9f98df6faf) | Aug 05, 2022 |
 | Unknown       | Unknown                     | [25ca16baef](https://bsd-hardware.info/?probe=25ca16baef) | Aug 05, 2022 |
-| Unknown       | Unknown                     | [9542c23a8a](https://bsd-hardware.info/?probe=9542c23a8a) | Aug 05, 2022 |
 | Unknown       | Unknown                     | [f9bf5b2e00](https://bsd-hardware.info/?probe=f9bf5b2e00) | Aug 04, 2022 |
 | PC Engines    | APU2                        | [35d0a79b04](https://bsd-hardware.info/?probe=35d0a79b04) | Aug 04, 2022 |
 | Protectli     | FW6                         | [b686fdf1c1](https://bsd-hardware.info/?probe=b686fdf1c1) | Jul 31, 2022 |
@@ -207,7 +210,6 @@ Total: 185
 | PC Engines    | APU2                        | [6e5badb880](https://bsd-hardware.info/?probe=6e5badb880) | Mar 04, 2022 |
 | Intel         | Q3XXG4-P V1.0               | [7da5182091](https://bsd-hardware.info/?probe=7da5182091) | Feb 27, 2022 |
 | PC Engines    | APU2                        | [40ba1b35da](https://bsd-hardware.info/?probe=40ba1b35da) | Feb 24, 2022 |
-| PC Engines    | APU2                        | [3ac0b6f7c4](https://bsd-hardware.info/?probe=3ac0b6f7c4) | Feb 21, 2022 |
 | Dell          | 0X4N41 A01                  | [fea17bcf92](https://bsd-hardware.info/?probe=fea17bcf92) | Feb 19, 2022 |
 | PC Engines    | APU2                        | [547be2fb61](https://bsd-hardware.info/?probe=547be2fb61) | Feb 19, 2022 |
 | Dell          | 0X4N41 A01                  | [a62eea5e4e](https://bsd-hardware.info/?probe=a62eea5e4e) | Feb 11, 2022 |
@@ -219,7 +221,6 @@ Total: 185
 | HP            | 0B54h D                     | [1878f5822c](https://bsd-hardware.info/?probe=1878f5822c) | Feb 06, 2022 |
 | HP            | ProLiant ML350p Gen8        | [b9e0021bfb](https://bsd-hardware.info/?probe=b9e0021bfb) | Feb 06, 2022 |
 | Unknown       | Unknown                     | [000331f38e](https://bsd-hardware.info/?probe=000331f38e) | Jan 31, 2022 |
-| Unknown       | Unknown                     | [df6e313377](https://bsd-hardware.info/?probe=df6e313377) | Jan 31, 2022 |
 | Unknown       | Unknown                     | [74b8fc0269](https://bsd-hardware.info/?probe=74b8fc0269) | Jan 30, 2022 |
 | PC Engines    | apu4                        | [4f6a1c9c9a](https://bsd-hardware.info/?probe=4f6a1c9c9a) | Jan 25, 2022 |
 | Unknown       | Unknown                     | [b572e30460](https://bsd-hardware.info/?probe=b572e30460) | Jan 19, 2022 |
@@ -297,7 +298,6 @@ Total: 185
 | HPE           | ProLiant MicroServer Gen... | [40ec36ad78](https://bsd-hardware.info/?probe=40ec36ad78) | Mar 18, 2021 |
 | PC Engines    | apu4                        | [e10b5c92e9](https://bsd-hardware.info/?probe=e10b5c92e9) | Mar 16, 2021 |
 | Unknown       | Unknown                     | [36f81afd88](https://bsd-hardware.info/?probe=36f81afd88) | Mar 13, 2021 |
-| PC Engines    | apu4                        | [6d42054ec5](https://bsd-hardware.info/?probe=6d42054ec5) | Mar 13, 2021 |
 | PC Engines    | apu4                        | [9268ee6857](https://bsd-hardware.info/?probe=9268ee6857) | Mar 13, 2021 |
 | HPE           | ProLiant MicroServer Gen... | [2c0b0d8eb0](https://bsd-hardware.info/?probe=2c0b0d8eb0) | Mar 09, 2021 |
 | BESSTAR Te... | IB9                         | [6d455b5e28](https://bsd-hardware.info/?probe=6d455b5e28) | Mar 08, 2021 |
@@ -308,8 +308,6 @@ Total: 185
 | ASUSTek       | Z170-K                      | [aa525de283](https://bsd-hardware.info/?probe=aa525de283) | Feb 13, 2021 |
 | Unknown       | Unknown                     | [ad3998234a](https://bsd-hardware.info/?probe=ad3998234a) | Feb 11, 2021 |
 | PC Engines    | APU2                        | [836a3035f1](https://bsd-hardware.info/?probe=836a3035f1) | Feb 06, 2021 |
-| PC Engines    | APU2                        | [22b310774a](https://bsd-hardware.info/?probe=22b310774a) | Feb 06, 2021 |
-| PC Engines    | APU2                        | [290957c97b](https://bsd-hardware.info/?probe=290957c97b) | Feb 04, 2021 |
 | PC Engines    | APU2                        | [4985fa31bf](https://bsd-hardware.info/?probe=4985fa31bf) | Feb 03, 2021 |
 | PC Engines    | apu4                        | [c740c17c50](https://bsd-hardware.info/?probe=c740c17c50) | Feb 01, 2021 |
 | YANYU         | D19SL_B                     | [d16128eed9](https://bsd-hardware.info/?probe=d16128eed9) | Jan 28, 2021 |
@@ -350,46 +348,46 @@ Installed operating systems
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| OPNsense 22.7       | 7        | 5%      |
-| OPNsense 21.7.3     | 7        | 5%      |
-| OPNsense 21.7.1     | 7        | 5%      |
-| OPNsense 21.1.6     | 7        | 5%      |
-| OPNsense 20.7.8     | 7        | 5%      |
-| OPNsense 22.1.8     | 6        | 4.29%   |
-| OPNsense 21.7.6     | 5        | 3.57%   |
-| OPNsense 22.1.6     | 4        | 2.86%   |
-| OPNsense 22.1.3     | 4        | 2.86%   |
-| OPNsense 21.7.7     | 4        | 2.86%   |
-| OPNsense 21.1.3     | 4        | 2.86%   |
-| OPNsense 21.1       | 4        | 2.86%   |
-| OpenBSD 6.8         | 4        | 2.86%   |
-| OPNsense 22.1.7     | 3        | 2.14%   |
-| OPNsense 22.1.1     | 3        | 2.14%   |
-| OPNsense 21.7       | 3        | 2.14%   |
-| OPNsense 21.1.8     | 3        | 2.14%   |
-| OPNsense 21.1.2     | 3        | 2.14%   |
-| OPNsense 22.7.4     | 2        | 1.43%   |
-| OPNsense 22.1.9     | 2        | 1.43%   |
-| OPNsense 22.1.4     | 2        | 1.43%   |
-| OPNsense 22.1.2     | 2        | 1.43%   |
-| OPNsense 22.1.10    | 2        | 1.43%   |
-| OPNsense 22.1       | 2        | 1.43%   |
-| OPNsense 21.7.5     | 2        | 1.43%   |
-| OPNsense 21.7.4     | 2        | 1.43%   |
-| OPNsense 21.1.9     | 2        | 1.43%   |
-| OPNsense 21.1.7     | 2        | 1.43%   |
-| OPNsense 21.1.5     | 2        | 1.43%   |
-| OPNsense 21.1.4     | 2        | 1.43%   |
-| OpenBSD 7.0         | 2        | 1.43%   |
-| OpenBSD 6.7         | 2        | 1.43%   |
-| FreeBSD 13.1-p2     | 2        | 1.43%   |
-| FreeBSD 13.0-p7     | 2        | 1.43%   |
-| FreeBSD 12.2-p2     | 2        | 1.43%   |
-| FreeBSD 12.1-STABLE | 2        | 1.43%   |
-| FreeBSD 12.1-p5     | 2        | 1.43%   |
-| TrueNAS 12.2-p6     | 1        | 0.71%   |
-| TrueNAS 12.2-p12    | 1        | 0.71%   |
-| OPNsense 23.1       | 1        | 0.71%   |
+| OPNsense 22.7       | 7        | 4.86%   |
+| OPNsense 21.7.3     | 7        | 4.86%   |
+| OPNsense 21.7.1     | 7        | 4.86%   |
+| OPNsense 21.1.6     | 7        | 4.86%   |
+| OPNsense 20.7.8     | 7        | 4.86%   |
+| OPNsense 22.1.8     | 6        | 4.17%   |
+| OPNsense 21.7.6     | 5        | 3.47%   |
+| OPNsense 22.7.4     | 4        | 2.78%   |
+| OPNsense 22.1.6     | 4        | 2.78%   |
+| OPNsense 22.1.3     | 4        | 2.78%   |
+| OPNsense 21.7.7     | 4        | 2.78%   |
+| OPNsense 21.1.3     | 4        | 2.78%   |
+| OPNsense 21.1       | 4        | 2.78%   |
+| OpenBSD 6.8         | 4        | 2.78%   |
+| OPNsense 22.1.7     | 3        | 2.08%   |
+| OPNsense 22.1.1     | 3        | 2.08%   |
+| OPNsense 21.7       | 3        | 2.08%   |
+| OPNsense 21.1.8     | 3        | 2.08%   |
+| OPNsense 21.1.2     | 3        | 2.08%   |
+| OPNsense 22.1.9     | 2        | 1.39%   |
+| OPNsense 22.1.4     | 2        | 1.39%   |
+| OPNsense 22.1.2     | 2        | 1.39%   |
+| OPNsense 22.1.10    | 2        | 1.39%   |
+| OPNsense 22.1       | 2        | 1.39%   |
+| OPNsense 21.7.5     | 2        | 1.39%   |
+| OPNsense 21.7.4     | 2        | 1.39%   |
+| OPNsense 21.1.9     | 2        | 1.39%   |
+| OPNsense 21.1.7     | 2        | 1.39%   |
+| OPNsense 21.1.5     | 2        | 1.39%   |
+| OPNsense 21.1.4     | 2        | 1.39%   |
+| OpenBSD 7.0         | 2        | 1.39%   |
+| OpenBSD 6.7         | 2        | 1.39%   |
+| FreeBSD 13.1-p2     | 2        | 1.39%   |
+| FreeBSD 13.0-p7     | 2        | 1.39%   |
+| FreeBSD 12.2-p2     | 2        | 1.39%   |
+| FreeBSD 12.1-STABLE | 2        | 1.39%   |
+| FreeBSD 12.1-p5     | 2        | 1.39%   |
+| TrueNAS 12.2-p6     | 1        | 0.69%   |
+| TrueNAS 12.2-p12    | 1        | 0.69%   |
+| OPNsense 23.1       | 1        | 0.69%   |
 
 OS Family
 ---------
@@ -727,15 +725,15 @@ Total RAM memory
 
 | Size in GB  | Desktops | Percent |
 |-------------|----------|---------|
-| 4.01-8.0    | 32       | 32%     |
-| 8.01-16.0   | 24       | 24%     |
-| 16.01-24.0  | 23       | 23%     |
-| 32.01-64.0  | 11       | 11%     |
-| 64.01-256.0 | 4        | 4%      |
-| 2.01-3.0    | 3        | 3%      |
-| 1.01-2.0    | 1        | 1%      |
-| 0.01-0.5    | 1        | 1%      |
-| Unknown     | 1        | 1%      |
+| 4.01-8.0    | 32       | 31.68%  |
+| 16.01-24.0  | 24       | 23.76%  |
+| 8.01-16.0   | 24       | 23.76%  |
+| 32.01-64.0  | 11       | 10.89%  |
+| 64.01-256.0 | 4        | 3.96%   |
+| 2.01-3.0    | 3        | 2.97%   |
+| 1.01-2.0    | 1        | 0.99%   |
+| 0.01-0.5    | 1        | 0.99%   |
+| Unknown     | 1        | 0.99%   |
 
 RAM Used
 --------
@@ -853,48 +851,48 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City               | Desktops | Percent |
-|--------------------|----------|---------|
-| Zurich             | 21       | 17.95%  |
-| Winterthur         | 6        | 5.13%   |
-| Gachnang           | 6        | 5.13%   |
-| Gordola            | 5        | 4.27%   |
-| St. Moritz         | 3        | 2.56%   |
-| Lenzburg           | 3        | 2.56%   |
-| Lausanne           | 3        | 2.56%   |
-| Basel              | 3        | 2.56%   |
-| St. Gallen         | 2        | 1.71%   |
-| Riehen             | 2        | 1.71%   |
-| Ottenbach          | 2        | 1.71%   |
-| Oensingen          | 2        | 1.71%   |
-| Mettmenstetten     | 2        | 1.71%   |
-| Horgen             | 2        | 1.71%   |
-| Yverdon-les-Bains  | 1        | 0.85%   |
-| Yens               | 1        | 0.85%   |
-| Worblaufen         | 1        | 0.85%   |
-| Willisau           | 1        | 0.85%   |
-| Wetzikon           | 1        | 0.85%   |
-| Wettswil           | 1        | 0.85%   |
-| Welschenrohr       | 1        | 0.85%   |
-| Uster              | 1        | 0.85%   |
-| Trogen             | 1        | 0.85%   |
-| Suhr               | 1        | 0.85%   |
-| Steckborn          | 1        | 0.85%   |
-| Sitterdorf         | 1        | 0.85%   |
-| Rumlang            | 1        | 0.85%   |
-| Riviera            | 1        | 0.85%   |
-| Rickenbach bei Wil | 1        | 0.85%   |
-| Richterswil        | 1        | 0.85%   |
-| Renens             | 1        | 0.85%   |
-| Pfaeffikon         | 1        | 0.85%   |
-| Opfikon            | 1        | 0.85%   |
-| Oftringen          | 1        | 0.85%   |
-| Oberrieden         | 1        | 0.85%   |
-| Niederbipp         | 1        | 0.85%   |
-| Nidau              | 1        | 0.85%   |
-| Neuenegg           | 1        | 0.85%   |
-| Naters             | 1        | 0.85%   |
-| Moosseedorf        | 1        | 0.85%   |
+| City                               | Desktops | Percent |
+|------------------------------------|----------|---------|
+| Zurich                             | 21       | 17.8%   |
+| Winterthur                         | 6        | 5.08%   |
+| Gachnang                           | 6        | 5.08%   |
+| Gordola                            | 5        | 4.24%   |
+| St. Moritz                         | 3        | 2.54%   |
+| Lenzburg                           | 3        | 2.54%   |
+| Lausanne                           | 3        | 2.54%   |
+| Basel                              | 3        | 2.54%   |
+| St. Gallen                         | 2        | 1.69%   |
+| Riehen                             | 2        | 1.69%   |
+| Ottenbach                          | 2        | 1.69%   |
+| Oensingen                          | 2        | 1.69%   |
+| Mettmenstetten                     | 2        | 1.69%   |
+| Horgen                             | 2        | 1.69%   |
+| Yverdon-les-Bains                  | 1        | 0.85%   |
+| Yens                               | 1        | 0.85%   |
+| Worblaufen                         | 1        | 0.85%   |
+| Willisau                           | 1        | 0.85%   |
+| Wiesendangen / Wiesendangen (Dorf) | 1        | 0.85%   |
+| Wetzikon                           | 1        | 0.85%   |
+| Wettswil                           | 1        | 0.85%   |
+| Welschenrohr                       | 1        | 0.85%   |
+| Uster                              | 1        | 0.85%   |
+| Trogen                             | 1        | 0.85%   |
+| Suhr                               | 1        | 0.85%   |
+| Steckborn                          | 1        | 0.85%   |
+| Sitterdorf                         | 1        | 0.85%   |
+| Rumlang                            | 1        | 0.85%   |
+| Riviera                            | 1        | 0.85%   |
+| Rickenbach bei Wil                 | 1        | 0.85%   |
+| Richterswil                        | 1        | 0.85%   |
+| Renens                             | 1        | 0.85%   |
+| Pfaeffikon                         | 1        | 0.85%   |
+| Opfikon                            | 1        | 0.85%   |
+| Oftringen                          | 1        | 0.85%   |
+| Oberrieden                         | 1        | 0.85%   |
+| Niederbipp                         | 1        | 0.85%   |
+| Nidau                              | 1        | 0.85%   |
+| Neuenegg                           | 1        | 0.85%   |
+| Naters                             | 1        | 0.85%   |
 
 Drives
 ------
@@ -912,7 +910,7 @@ Hard drive vendors
 | Samsung Electronics | 21       | 40     | 20.79%  |
 | Phison              | 13       | 16     | 12.87%  |
 | WDC                 | 10       | 18     | 9.9%    |
-| Kingston            | 9        | 10     | 8.91%   |
+| Kingston            | 9        | 11     | 8.91%   |
 | Seagate             | 7        | 8      | 6.93%   |
 | Hoodisk             | 5        | 7      | 4.95%   |
 | Intel               | 4        | 20     | 3.96%   |
@@ -922,8 +920,8 @@ Hard drive vendors
 | Corsair             | 3        | 4      | 2.97%   |
 | China               | 3        | 4      | 2.97%   |
 | Toshiba             | 2        | 3      | 1.98%   |
-| ShiJi               | 2        | 4      | 1.98%   |
-| SanDisk             | 2        | 4      | 1.98%   |
+| ShiJi               | 2        | 6      | 1.98%   |
+| SanDisk             | 2        | 5      | 1.98%   |
 | Transcend           | 1        | 1      | 0.99%   |
 | SPCC                | 1        | 2      | 0.99%   |
 | PNY                 | 1        | 1      | 0.99%   |
@@ -1023,8 +1021,8 @@ Solid state drive vendors
 | Intel               | 4        | 20     | 5.88%   |
 | Crucial             | 4        | 10     | 5.88%   |
 | WDC                 | 3        | 5      | 4.41%   |
-| ShiJi               | 2        | 4      | 2.94%   |
-| SanDisk             | 2        | 4      | 2.94%   |
+| ShiJi               | 2        | 6      | 2.94%   |
+| SanDisk             | 2        | 5      | 2.94%   |
 | Corsair             | 2        | 3      | 2.94%   |
 | China               | 2        | 3      | 2.94%   |
 | Transcend           | 1        | 1      | 1.47%   |
@@ -1045,9 +1043,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 67       | 121    | 70.53%  |
+| SSD  | 67       | 124    | 70.53%  |
 | HDD  | 17       | 73     | 17.89%  |
-| NVMe | 11       | 13     | 11.58%  |
+| NVMe | 11       | 14     | 11.58%  |
 
 Drive Connector
 ---------------
@@ -1059,8 +1057,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 76       | 194    | 87.36%  |
-| NVMe | 11       | 13     | 12.64%  |
+| SATA | 76       | 197    | 87.36%  |
+| NVMe | 11       | 14     | 12.64%  |
 
 Drive Size
 ----------
@@ -1072,10 +1070,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 75       | 130    | 71.43%  |
-| 0.51-1.0   | 7        | 12     | 6.67%   |
-| 1.01-2.0   | 6        | 14     | 5.71%   |
+| 0.01-0.5   | 75       | 139    | 71.43%  |
+| 1.01-2.0   | 7        | 9      | 6.67%   |
 | 4.01-10.0  | 6        | 11     | 5.71%   |
+| 0.51-1.0   | 6        | 11     | 5.71%   |
 | 2.01-3.0   | 5        | 19     | 4.76%   |
 | 3.01-4.0   | 4        | 4      | 3.81%   |
 | 10.01-20.0 | 2        | 4      | 1.9%    |
@@ -1206,7 +1204,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 78       | 140    | 84.78%  |
+| Works    | 78       | 144    | 84.78%  |
 | Malfunc  | 9        | 25     | 9.78%   |
 | Detected | 5        | 42     | 5.43%   |
 
@@ -2138,19 +2136,19 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Kingston            | 28       | 29.79%  |
-| Unknown             | 20       | 21.28%  |
-| Samsung Electronics | 10       | 10.64%  |
-| Crucial             | 8        | 8.51%   |
-| Corsair             | 8        | 8.51%   |
-| SK hynix            | 7        | 7.45%   |
-| Micron Technology   | 5        | 5.32%   |
-| Nanya Technology    | 2        | 2.13%   |
-| Hewlett-Packard     | 2        | 2.13%   |
-| Unknown (0x05F7)    | 1        | 1.06%   |
-| Unknown (07FB)      | 1        | 1.06%   |
-| Tigo                | 1        | 1.06%   |
-| Super Talent        | 1        | 1.06%   |
+| Kingston            | 28       | 29.47%  |
+| Unknown             | 20       | 21.05%  |
+| Samsung Electronics | 10       | 10.53%  |
+| Crucial             | 9        | 9.47%   |
+| Corsair             | 8        | 8.42%   |
+| SK hynix            | 7        | 7.37%   |
+| Micron Technology   | 5        | 5.26%   |
+| Nanya Technology    | 2        | 2.11%   |
+| Hewlett-Packard     | 2        | 2.11%   |
+| Unknown (0x05F7)    | 1        | 1.05%   |
+| Unknown (07FB)      | 1        | 1.05%   |
+| Tigo                | 1        | 1.05%   |
+| Super Talent        | 1        | 1.05%   |
 
 Memory Model
 ------------
@@ -2162,46 +2160,46 @@ Memory module models
 
 | Model                                                        | Desktops | Percent |
 |--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 12       | 12.24%  |
-| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s         | 3        | 3.06%   |
-| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s         | 3        | 3.06%   |
-| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s         | 3        | 3.06%   |
-| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s       | 3        | 3.06%   |
-| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                   | 2        | 2.04%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 2        | 2.04%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                  | 2        | 2.04%   |
-| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2.04%   |
-| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s        | 2        | 2.04%   |
-| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2.04%   |
-| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s       | 2        | 2.04%   |
-| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s         | 2        | 2.04%   |
-| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s         | 2        | 2.04%   |
-| Unknown RAM Module 512MB DIMM DDR2 667MT/s                   | 1        | 1.02%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 1        | 1.02%   |
-| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s         | 1        | 1.02%   |
-| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s | 1        | 1.02%   |
-| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                 | 1        | 1.02%   |
-| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s        | 1        | 1.02%   |
-| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 1.02%   |
-| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                 | 1        | 1.02%   |
-| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s     | 1        | 1.02%   |
-| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s         | 1        | 1.02%   |
-| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                   | 1        | 1.02%   |
-| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                   | 1        | 1.02%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 1        | 1.02%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1        | 1.02%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 1        | 1.02%   |
-| Samsung RAM M393B2G70DB0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 1.02%   |
-| Samsung RAM M393B2G70BH0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 1.02%   |
-| Samsung RAM M393B1K70BH1-CH9 8GB DIMM DDR3 1333MT/s          | 1        | 1.02%   |
-| Samsung RAM M393A1K43BB1-CTD 8GB RIMM DDR4 2133MT/s          | 1        | 1.02%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 1.02%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 1.02%   |
-| Nanya RAM NT1GT64U8HB0BY-3C 1GB DIMM DDR2 667MT/s            | 1        | 1.02%   |
-| Nanya RAM M2S4G64CC88D5N-DI 4GB SODIMM DDR3 1600MT/s         | 1        | 1.02%   |
-| Micron RAM Module 8GB Row Of Chips LPDDR4 3200MT/s           | 1        | 1.02%   |
-| Micron RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 1.02%   |
-| Micron RAM Module 2GB DIMM DDR3 1333MT/s                     | 1        | 1.02%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 12       | 12%     |
+| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s         | 3        | 3%      |
+| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s         | 3        | 3%      |
+| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s         | 3        | 3%      |
+| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s       | 3        | 3%      |
+| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                   | 2        | 2%      |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 2        | 2%      |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                  | 2        | 2%      |
+| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2%      |
+| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s        | 2        | 2%      |
+| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 2%      |
+| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s       | 2        | 2%      |
+| Crucial RAM CT8G4SFRA32A.M8FR 8GB SODIMM DDR4 3200MT/s       | 2        | 2%      |
+| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s         | 2        | 2%      |
+| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s         | 2        | 2%      |
+| Unknown RAM Module 512MB DIMM DDR2 667MT/s                   | 1        | 1%      |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 1        | 1%      |
+| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s         | 1        | 1%      |
+| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s | 1        | 1%      |
+| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                 | 1        | 1%      |
+| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s        | 1        | 1%      |
+| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 1%      |
+| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                 | 1        | 1%      |
+| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s     | 1        | 1%      |
+| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s         | 1        | 1%      |
+| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                   | 1        | 1%      |
+| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                   | 1        | 1%      |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 1        | 1%      |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1        | 1%      |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 1        | 1%      |
+| Samsung RAM M393B2G70DB0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 1%      |
+| Samsung RAM M393B2G70BH0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 1%      |
+| Samsung RAM M393B1K70BH1-CH9 8GB DIMM DDR3 1333MT/s          | 1        | 1%      |
+| Samsung RAM M393A1K43BB1-CTD 8GB RIMM DDR4 2133MT/s          | 1        | 1%      |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 1%      |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 1%      |
+| Nanya RAM NT1GT64U8HB0BY-3C 1GB DIMM DDR2 667MT/s            | 1        | 1%      |
+| Nanya RAM M2S4G64CC88D5N-DI 4GB SODIMM DDR3 1600MT/s         | 1        | 1%      |
+| Micron RAM Module 8GB Row Of Chips LPDDR4 3200MT/s           | 1        | 1%      |
+| Micron RAM Module 4096MB DIMM DDR3 1333MT/s                  | 1        | 1%      |
 
 Memory Kind
 -----------
@@ -2263,18 +2261,18 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1333  | 30       | 32.97%  |
-| 2667  | 11       | 12.09%  |
-| 1600  | 11       | 12.09%  |
-| 2133  | 9        | 9.89%   |
-| 3200  | 8        | 8.79%   |
-| 2400  | 8        | 8.79%   |
-| 2666  | 5        | 5.49%   |
-| 667   | 4        | 4.4%    |
-| 800   | 2        | 2.2%    |
-| 3600  | 1        | 1.1%    |
-| 1800  | 1        | 1.1%    |
-| 1066  | 1        | 1.1%    |
+| 1333  | 30       | 32.61%  |
+| 2667  | 11       | 11.96%  |
+| 1600  | 11       | 11.96%  |
+| 3200  | 9        | 9.78%   |
+| 2133  | 9        | 9.78%   |
+| 2400  | 8        | 8.7%    |
+| 2666  | 5        | 5.43%   |
+| 667   | 4        | 4.35%   |
+| 800   | 2        | 2.17%   |
+| 3600  | 1        | 1.09%   |
+| 1800  | 1        | 1.09%   |
+| 1066  | 1        | 1.09%   |
 
 Printers & scanners
 -------------------
@@ -2368,11 +2366,11 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 46       | 44.66%  |
-| 1     | 35       | 33.98%  |
-| 2     | 14       | 13.59%  |
-| 3     | 7        | 6.8%    |
-| 4     | 1        | 0.97%   |
+| 0     | 46       | 44.23%  |
+| 1     | 36       | 34.62%  |
+| 2     | 14       | 13.46%  |
+| 3     | 7        | 6.73%   |
+| 4     | 1        | 0.96%   |
 
 Unsupported Device Types
 ------------------------
@@ -2384,13 +2382,13 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Communication controller | 43       | 58.9%   |
-| Firewire controller      | 8        | 10.96%  |
-| Net/wireless             | 6        | 8.22%   |
-| Bluetooth                | 6        | 8.22%   |
-| Net/ethernet             | 4        | 5.48%   |
-| Sound                    | 2        | 2.74%   |
-| Card reader              | 2        | 2.74%   |
-| Network                  | 1        | 1.37%   |
-| Graphics card            | 1        | 1.37%   |
+| Communication controller | 44       | 59.46%  |
+| Firewire controller      | 8        | 10.81%  |
+| Net/wireless             | 6        | 8.11%   |
+| Bluetooth                | 6        | 8.11%   |
+| Net/ethernet             | 4        | 5.41%   |
+| Sound                    | 2        | 2.7%    |
+| Card reader              | 2        | 2.7%    |
+| Network                  | 1        | 1.35%   |
+| Graphics card            | 1        | 1.35%   |
 

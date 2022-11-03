@@ -1252,7 +1252,7 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 3.57%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch                   | 1         | 3.57%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 3.57%   |
@@ -1782,7 +1782,7 @@ Memory module models
 | Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 2.38%   |
 | Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
-| Kingston RAM ACR16D3LFS1KBG/2G 2048MB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
+| Kingston RAM ACR16D3LFS1KBG/2G 2GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
 | Elpida RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 2.38%   |
 | Elpida RAM Module 2048MB SODIMM DDR3 800MT/s                  | 1         | 2.38%   |
 | Crucial RAM Module 4096MB SODIMM DDR3 1333MT/s                | 1         | 2.38%   |

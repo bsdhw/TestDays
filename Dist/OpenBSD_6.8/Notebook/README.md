@@ -145,7 +145,7 @@ Contents
 Test Cases
 ----------
 
-Total: 114
+Total: 113
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
@@ -210,7 +210,6 @@ Total: 114
 | Lenovo        | ThinkPad T500 2087A16       | [334eacfe16](https://bsd-hardware.info/?probe=334eacfe16) | Nov 03, 2020 |
 | Lenovo        | ThinkPad W530 2436CTO       | [ded161fe2e](https://bsd-hardware.info/?probe=ded161fe2e) | Oct 31, 2020 |
 | Lenovo        | ThinkPad W530 2436CTO       | [e108d4a375](https://bsd-hardware.info/?probe=e108d4a375) | Oct 31, 2020 |
-| ASUSTek       | X102BA                      | [9156250b96](https://bsd-hardware.info/?probe=9156250b96) | Oct 31, 2020 |
 | Acer          | Extensa 2540                | [26670a4ae9](https://bsd-hardware.info/?probe=26670a4ae9) | Oct 30, 2020 |
 | Lenovo        | ThinkPad T450 20BV0005US    | [603e66300a](https://bsd-hardware.info/?probe=603e66300a) | Oct 27, 2020 |
 | Lenovo        | ThinkPad T500 2087A16       | [cf8228f878](https://bsd-hardware.info/?probe=cf8228f878) | Oct 25, 2020 |
@@ -522,10 +521,10 @@ Motherboard manufacture year
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
 | 2020    | 10        | 11.11%  |
-| 2015    | 9         | 10%     |
-| 2019    | 8         | 8.89%   |
+| 2015    | 10        | 11.11%  |
 | 2013    | 8         | 8.89%   |
 | 2010    | 8         | 8.89%   |
+| 2019    | 7         | 7.78%   |
 | 2016    | 6         | 6.67%   |
 | 2012    | 6         | 6.67%   |
 | 2018    | 5         | 5.56%   |
@@ -941,8 +940,8 @@ Size of hard drive
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
 | 0.01-0.5        | 69        | 87     | 71.88%  |
-| 0.51-1.0        | 23        | 23     | 23.96%  |
-| 1.01-2.0        | 2         | 3      | 2.08%   |
+| 0.51-1.0        | 22        | 22     | 22.92%  |
+| 1.01-2.0        | 3         | 4      | 3.13%   |
 | More than 100.0 | 1         | 1      | 1.04%   |
 | 0               | 1         | 1      | 1.04%   |
 
@@ -1503,7 +1502,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO34ED 1920x1080 340x190mm 15.3-inch       | 2         | 3.23%   |
 | AU Optronics LCD Monitor AUO21EC 1366x768 340x190mm 15.3-inch        | 2         | 3.23%   |
 | Sharp LCD Monitor SHP14BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.61%   |
-| Samsung Electronics LCD Monitor SEC304C 1366x768 350x200mm 15.9-inch | 1         | 1.61%   |
+| Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch | 1         | 1.61%   |
 | Samsung Electronics LCD Monitor SDC314D 1366x768 310x170mm 13.9-inch | 1         | 1.61%   |
 | Samsung Electronics C34H89x SAM0E25 3440x1440 800x330mm 34.1-inch    | 1         | 1.61%   |
