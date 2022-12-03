@@ -715,7 +715,7 @@ Hard drive models
 | Product:              USB DISK 2.0 USB DISK 2.0 4GB  | 1        | 2.04%   |
 | Phison SATA SSD 16GB                                 | 1        | 2.04%   |
 | Patriot Burst 120GB                                  | 1        | 2.04%   |
-| OPENBSD SR RAID 1 2TB                                | 1        | 2.04%   |
+| OPENBSD SR RAID 1 752GB                              | 1        | 2.04%   |
 | NVMe WDS500G3X0C-00SJ 500GB                          | 1        | 2.04%   |
 | NVMe WDC WDS100T2B0C- 1TB                            | 1        | 2.04%   |
 | NVMe TOSHIBA-RC100 240GB                             | 1        | 2.04%   |
@@ -811,10 +811,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 25       | 37     | 69.44%  |
-| 0.51-1.0   | 7        | 9      | 19.44%  |
-| 1.01-2.0   | 3        | 9      | 8.33%   |
-| 4.01-10.0  | 1        | 1      | 2.78%   |
+| 0.01-0.5   | 25       | 37     | 67.57%  |
+| 0.51-1.0   | 8        | 10     | 21.62%  |
+| 1.01-2.0   | 3        | 8      | 8.11%   |
+| 4.01-10.0  | 1        | 1      | 2.7%    |
 
 Space Total
 -----------
@@ -1217,7 +1217,7 @@ Graphics card models
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1        | 4%      |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 1        | 4%      |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 1        | 4%      |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1        | 4%      |
+| Intel HD Graphics 610                                                         | 1        | 4%      |
 | Intel CometLake-U GT2 [UHD Graphics]                                          | 1        | 4%      |
 | Intel 82Q963/Q965 Integrated Graphics Controller                              | 1        | 4%      |
 | Intel 82Q35 Express Integrated Graphics Controller                            | 1        | 4%      |
@@ -1231,7 +1231,7 @@ Graphics card models
 | AMD Navi 14 [Radeon RX 5500/5500M / Pro 5500M]                                | 1        | 4%      |
 | AMD Kabini [Radeon HD 8330E]                                                  | 1        | 4%      |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                       | 1        | 4%      |
-| AMD Cezanne                                                                   | 1        | 4%      |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                  | 1        | 4%      |
 
 GPU Combo
 ---------
@@ -1703,7 +1703,7 @@ Sound card models
 | AMD Starship/Matisse HD Audio Controller                                | 4        | 11.43%  |
 | Intel 82801I (ICH9 Family) HD Audio Controller                          | 2        | 5.71%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller     | 2        | 5.71%   |
-| C-Media Electronics Digital Hifi Audio Digital Hifi Audio SPDIFs        | 2        | 5.71%   |
+| C-Media Electronics FX-AUDIO                                            | 2        | 5.71%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                 | 2        | 5.71%   |
 | AMD FCH Azalia Controller                                               | 2        | 5.71%   |
 | VIA Technologies VX900/VT8xxx High Definition Audio Controller          | 1        | 2.86%   |

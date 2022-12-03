@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 47
+Total: 49
 
 | Vendor   | Model                   | Probe                                                     | Date         |
 |----------|-------------------------|-----------------------------------------------------------|--------------|
+| Acer     | Revo RN86               | [a4dcb7f7a2](https://bsd-hardware.info/?probe=a4dcb7f7a2) | Nov 27, 2022 |
+| Unknown  | Unknown                 | [1d3bd58d18](https://bsd-hardware.info/?probe=1d3bd58d18) | Nov 25, 2022 |
 | Unknown  | Unknown                 | [410283dd4f](https://bsd-hardware.info/?probe=410283dd4f) | Oct 22, 2022 |
 | Unknown  | Unknown                 | [5e2f93a960](https://bsd-hardware.info/?probe=5e2f93a960) | Aug 06, 2022 |
 | Unknown  | Unknown                 | [66fefba790](https://bsd-hardware.info/?probe=66fefba790) | Aug 06, 2022 |
@@ -212,22 +214,24 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| NetBSD 9.2        | 8        | 20.51%  |
-| NetBSD 9.1        | 7        | 17.95%  |
-| NetBSD 9.0_STABLE | 5        | 12.82%  |
-| NetBSD 9.1_STABLE | 3        | 7.69%   |
-| NetBSD 9.99.94    | 2        | 5.13%   |
-| NetBSD 9.99.93    | 2        | 5.13%   |
-| NetBSD 9.99.77    | 2        | 5.13%   |
-| NetBSD 9.0        | 2        | 5.13%   |
-| NetBSD 9.99.85    | 1        | 2.56%   |
-| NetBSD 9.99.81    | 1        | 2.56%   |
-| NetBSD 9.99.74    | 1        | 2.56%   |
-| NetBSD 9.99.71    | 1        | 2.56%   |
-| NetBSD 9.99.61    | 1        | 2.56%   |
-| NetBSD 9.99.23    | 1        | 2.56%   |
-| NetBSD 9.3        | 1        | 2.56%   |
-| NetBSD 9.2_STABLE | 1        | 2.56%   |
+| NetBSD 9.2        | 8        | 19.51%  |
+| NetBSD 9.1        | 7        | 17.07%  |
+| NetBSD 9.0_STABLE | 5        | 12.2%   |
+| NetBSD 9.1_STABLE | 3        | 7.32%   |
+| NetBSD 9.99.94    | 2        | 4.88%   |
+| NetBSD 9.99.93    | 2        | 4.88%   |
+| NetBSD 9.99.77    | 2        | 4.88%   |
+| NetBSD 9.0        | 2        | 4.88%   |
+| NetBSD 9.99.85    | 1        | 2.44%   |
+| NetBSD 9.99.81    | 1        | 2.44%   |
+| NetBSD 9.99.74    | 1        | 2.44%   |
+| NetBSD 9.99.71    | 1        | 2.44%   |
+| NetBSD 9.99.61    | 1        | 2.44%   |
+| NetBSD 9.99.23    | 1        | 2.44%   |
+| NetBSD 9.99.107   | 1        | 2.44%   |
+| NetBSD 9.3_STABLE | 1        | 2.44%   |
+| NetBSD 9.3        | 1        | 2.44%   |
+| NetBSD 9.2_STABLE | 1        | 2.44%   |
 
 OS Family
 ---------
@@ -314,12 +318,13 @@ Language
 
 | Lang    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 27       | 75%     |
-| en_US   | 3        | 8.33%   |
-| ru_RU   | 2        | 5.56%   |
-| fi_FI   | 2        | 5.56%   |
-| hu_HU   | 1        | 2.78%   |
-| en_GB   | 1        | 2.78%   |
+| Unknown | 28       | 73.68%  |
+| en_US   | 3        | 7.89%   |
+| ru_RU   | 2        | 5.26%   |
+| fi_FI   | 2        | 5.26%   |
+| hu_HU   | 1        | 2.63%   |
+| en_GB   | 1        | 2.63%   |
+| C       | 1        | 2.63%   |
 
 Boot Mode
 ---------
@@ -536,11 +541,11 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 0      | 14       | 37.84%  |
-| 1      | 11       | 29.73%  |
-| 2      | 9        | 24.32%  |
-| 3      | 2        | 5.41%   |
-| 4      | 1        | 2.7%    |
+| 0      | 15       | 39.47%  |
+| 1      | 11       | 28.95%  |
+| 2      | 9        | 23.68%  |
+| 3      | 2        | 5.26%   |
+| 4      | 1        | 2.63%   |
 
 Has CD-ROM
 ----------
@@ -678,7 +683,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 8        | 11     | 23.53%  |
-| Toshiba             | 4        | 5      | 11.76%  |
+| Toshiba             | 4        | 6      | 11.76%  |
 | Samsung Electronics | 4        | 4      | 11.76%  |
 | SanDisk             | 3        | 4      | 8.82%   |
 | Kingston            | 3        | 3      | 8.82%   |
@@ -744,7 +749,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | WDC                 | 7        | 9      | 31.82%  |
-| Toshiba             | 4        | 5      | 18.18%  |
+| Toshiba             | 4        | 6      | 18.18%  |
 | Seagate             | 2        | 2      | 9.09%   |
 | Samsung Electronics | 2        | 2      | 9.09%   |
 | Maxtor              | 2        | 2      | 9.09%   |
@@ -782,7 +787,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 16       | 25     | 57.14%  |
+| HDD  | 16       | 26     | 57.14%  |
 | SSD  | 12       | 16     | 42.86%  |
 
 Drive Connector
@@ -795,7 +800,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 22       | 41     | 100%    |
+| SATA | 22       | 42     | 100%    |
 
 Drive Size
 ----------
@@ -808,7 +813,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 21       | 27     | 67.74%  |
-| 0.51-1.0   | 8        | 10     | 25.81%  |
+| 0.51-1.0   | 8        | 11     | 25.81%  |
 | 1.01-2.0   | 2        | 4      | 6.45%   |
 
 Space Total
@@ -840,13 +845,13 @@ Amount of used disk space
 
 | Used GB   | Desktops | Percent |
 |-----------|----------|---------|
-| 1-20      | 26       | 68.42%  |
-| 21-50     | 4        | 10.53%  |
-| 51-100    | 3        | 7.89%   |
-| 1001-2000 | 2        | 5.26%   |
-| 251-500   | 1        | 2.63%   |
-| 101-250   | 1        | 2.63%   |
-| 501-1000  | 1        | 2.63%   |
+| 1-20      | 26       | 65%     |
+| 21-50     | 6        | 15%     |
+| 51-100    | 3        | 7.5%    |
+| 1001-2000 | 2        | 5%      |
+| 251-500   | 1        | 2.5%    |
+| 101-250   | 1        | 2.5%    |
+| 501-1000  | 1        | 2.5%    |
 
 Malfunc. Drives
 ---------------
@@ -927,7 +932,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 17       | 31     | 62.96%  |
+| Works    | 17       | 32     | 62.96%  |
 | Detected | 6        | 6      | 22.22%  |
 | Malfunc  | 4        | 4      | 14.81%  |
 
@@ -1031,30 +1036,31 @@ Processor models
 
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
-| Intel 686-class                             | 9        | 25.71%  |
-|                                             | 3        | 8.57%   |
-| Arm Cortex-A53 r0p4 (v8-A)                  | 2        | 5.71%   |
-| Intel Xeon CPU E5-2630L v3 @ 1.80GHz        | 1        | 2.86%   |
-| Intel Pentium III                           | 1        | 2.86%   |
-| Intel Core i7-6700K CPU @ 4.00GHz           | 1        | 2.86%   |
-| Intel Core i7-3770 CPU @ 3.40GHz            | 1        | 2.86%   |
-| Intel Core i5-7400 CPU @ 3.00GHz            | 1        | 2.86%   |
-| Intel Core i5-4310M CPU @ 2.70GHz           | 1        | 2.86%   |
-| Intel Core i5-2320 CPU @ 3.00GHz            | 1        | 2.86%   |
-| Intel Core i3-4150 CPU @ 3.50GHz            | 1        | 2.86%   |
-| Intel Celeron CPU N2830 @ 2.16GHz           | 1        | 2.86%   |
-| AMD Sempron 145 Processor                   | 1        | 2.86%   |
-| AMD Ryzen 9 3900X 12-Core Processor         | 1        | 2.86%   |
-| AMD Ryzen 7 2700 Eight-Core Processor       | 1        | 2.86%   |
-| AMD Ryzen 5 3600 6-Core Processor           | 1        | 2.86%   |
-| AMD Ryzen 5 2600 Six-Core Processor         | 1        | 2.86%   |
-| AMD Ryzen 3 2200G with Radeon Vega Graphics | 1        | 2.86%   |
-| AMD Ryzen 3 1200 Quad-Core Processor        | 1        | 2.86%   |
-| AMD Phenom II X6 1055T Processor            | 1        | 2.86%   |
-| AMD Phenom II X4 965 Processor              | 1        | 2.86%   |
-| AMD FX-8350 Eight-Core Processor            | 1        | 2.86%   |
-| AMD E-450 APU with Radeon HD Graphics       | 1        | 2.86%   |
-| AMD 686-class                               | 1        | 2.86%   |
+| Intel 686-class                             | 9        | 25%     |
+|                                             | 3        | 8.33%   |
+| Arm Cortex-A53 r0p4 (v8-A)                  | 2        | 5.56%   |
+| Intel Xeon CPU E5-2630L v3 @ 1.80GHz        | 1        | 2.78%   |
+| Intel Pentium III                           | 1        | 2.78%   |
+| Intel Core i7-6700K CPU @ 4.00GHz           | 1        | 2.78%   |
+| Intel Core i7-3770 CPU @ 3.40GHz            | 1        | 2.78%   |
+| Intel Core i5-9400T CPU @ 1.80GHz           | 1        | 2.78%   |
+| Intel Core i5-7400 CPU @ 3.00GHz            | 1        | 2.78%   |
+| Intel Core i5-4310M CPU @ 2.70GHz           | 1        | 2.78%   |
+| Intel Core i5-2320 CPU @ 3.00GHz            | 1        | 2.78%   |
+| Intel Core i3-4150 CPU @ 3.50GHz            | 1        | 2.78%   |
+| Intel Celeron CPU N2830 @ 2.16GHz           | 1        | 2.78%   |
+| AMD Sempron 145 Processor                   | 1        | 2.78%   |
+| AMD Ryzen 9 3900X 12-Core Processor         | 1        | 2.78%   |
+| AMD Ryzen 7 2700 Eight-Core Processor       | 1        | 2.78%   |
+| AMD Ryzen 5 3600 6-Core Processor           | 1        | 2.78%   |
+| AMD Ryzen 5 2600 Six-Core Processor         | 1        | 2.78%   |
+| AMD Ryzen 3 2200G with Radeon Vega Graphics | 1        | 2.78%   |
+| AMD Ryzen 3 1200 Quad-Core Processor        | 1        | 2.78%   |
+| AMD Phenom II X6 1055T Processor            | 1        | 2.78%   |
+| AMD Phenom II X4 965 Processor              | 1        | 2.78%   |
+| AMD FX-8350 Eight-Core Processor            | 1        | 2.78%   |
+| AMD E-450 APU with Radeon HD Graphics       | 1        | 2.78%   |
+| AMD 686-class                               | 1        | 2.78%   |
 
 CPU Model Family
 ----------------
@@ -1066,24 +1072,24 @@ Processor model prefix
 
 | Model             | Desktops | Percent |
 |-------------------|----------|---------|
-| Intel 686-class   | 9        | 25.71%  |
-| Other             | 5        | 14.29%  |
-| Intel Core i5     | 3        | 8.57%   |
-| Intel Core i7     | 2        | 5.71%   |
-| AMD Ryzen 5       | 2        | 5.71%   |
-| AMD Ryzen 3       | 2        | 5.71%   |
-| Intel Xeon        | 1        | 2.86%   |
-| Intel Pentium III | 1        | 2.86%   |
-| Intel Core i3     | 1        | 2.86%   |
-| Intel Celeron     | 1        | 2.86%   |
-| AMD Sempron       | 1        | 2.86%   |
-| AMD Ryzen 9       | 1        | 2.86%   |
-| AMD Ryzen 7       | 1        | 2.86%   |
-| AMD Phenom II X6  | 1        | 2.86%   |
-| AMD Phenom II X4  | 1        | 2.86%   |
-| AMD FX            | 1        | 2.86%   |
-| AMD E             | 1        | 2.86%   |
-| AMD 686-class     | 1        | 2.86%   |
+| Intel 686-class   | 9        | 25%     |
+| Other             | 5        | 13.89%  |
+| Intel Core i5     | 4        | 11.11%  |
+| Intel Core i7     | 2        | 5.56%   |
+| AMD Ryzen 5       | 2        | 5.56%   |
+| AMD Ryzen 3       | 2        | 5.56%   |
+| Intel Xeon        | 1        | 2.78%   |
+| Intel Pentium III | 1        | 2.78%   |
+| Intel Core i3     | 1        | 2.78%   |
+| Intel Celeron     | 1        | 2.78%   |
+| AMD Sempron       | 1        | 2.78%   |
+| AMD Ryzen 9       | 1        | 2.78%   |
+| AMD Ryzen 7       | 1        | 2.78%   |
+| AMD Phenom II X6  | 1        | 2.78%   |
+| AMD Phenom II X4  | 1        | 2.78%   |
+| AMD FX            | 1        | 2.78%   |
+| AMD E             | 1        | 2.78%   |
+| AMD 686-class     | 1        | 2.78%   |
 
 CPU Cores
 ---------
@@ -1095,12 +1101,12 @@ Number of processor cores
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 21       | 60%     |
-| 4       | 6        | 17.14%  |
-| 8       | 3        | 8.57%   |
-| 6       | 2        | 5.71%   |
-| 2       | 2        | 5.71%   |
-| 12      | 1        | 2.86%   |
+| Unknown | 21       | 58.33%  |
+| 4       | 6        | 16.67%  |
+| 8       | 3        | 8.33%   |
+| 6       | 3        | 8.33%   |
+| 2       | 2        | 5.56%   |
+| 12      | 1        | 2.78%   |
 
 CPU Sockets
 -----------
@@ -1112,8 +1118,8 @@ Number of sockets
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| 1       | 19       | 54.29%  |
-| Unknown | 16       | 45.71%  |
+| 1       | 20       | 55.56%  |
+| Unknown | 16       | 44.44%  |
 
 CPU Threads
 -----------
@@ -1125,9 +1131,9 @@ Threads per core (Hyper-Threading)
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 21       | 60%     |
-| 2       | 8        | 22.86%  |
-| 1       | 6        | 17.14%  |
+| Unknown | 21       | 58.33%  |
+| 2       | 8        | 22.22%  |
+| 1       | 7        | 19.44%  |
 
 CPU Microarch
 -------------
@@ -1139,20 +1145,20 @@ Microarchitecture
 
 | Name        | Desktops | Percent |
 |-------------|----------|---------|
-| Unknown     | 17       | 48.57%  |
-| Zen+        | 2        | 5.71%   |
-| Zen 2       | 2        | 5.71%   |
-| Zen         | 2        | 5.71%   |
-| K10         | 2        | 5.71%   |
-| Haswell     | 2        | 5.71%   |
-| Skylake     | 1        | 2.86%   |
-| Silvermont  | 1        | 2.86%   |
-| SandyBridge | 1        | 2.86%   |
-| Piledriver  | 1        | 2.86%   |
-| P6          | 1        | 2.86%   |
-| KabyLake    | 1        | 2.86%   |
-| IvyBridge   | 1        | 2.86%   |
-| Bobcat      | 1        | 2.86%   |
+| Unknown     | 17       | 47.22%  |
+| Zen+        | 2        | 5.56%   |
+| Zen 2       | 2        | 5.56%   |
+| Zen         | 2        | 5.56%   |
+| KabyLake    | 2        | 5.56%   |
+| K10         | 2        | 5.56%   |
+| Haswell     | 2        | 5.56%   |
+| Skylake     | 1        | 2.78%   |
+| Silvermont  | 1        | 2.78%   |
+| SandyBridge | 1        | 2.78%   |
+| Piledriver  | 1        | 2.78%   |
+| P6          | 1        | 2.78%   |
+| IvyBridge   | 1        | 2.78%   |
+| Bobcat      | 1        | 2.78%   |
 
 Graphics
 --------
@@ -1732,14 +1738,14 @@ Memory module vendors
 
 | Vendor            | Desktops | Percent |
 |-------------------|----------|---------|
-| Kingston          | 5        | 23.81%  |
-| Crucial           | 4        | 19.05%  |
-| Unknown           | 3        | 14.29%  |
-| G.Skill           | 3        | 14.29%  |
-| Patriot           | 2        | 9.52%   |
-| Corsair           | 2        | 9.52%   |
-| Micron Technology | 1        | 4.76%   |
-| A-DATA Technology | 1        | 4.76%   |
+| Kingston          | 6        | 27.27%  |
+| Crucial           | 4        | 18.18%  |
+| Unknown           | 3        | 13.64%  |
+| G.Skill           | 3        | 13.64%  |
+| Patriot           | 2        | 9.09%   |
+| Corsair           | 2        | 9.09%   |
+| Micron Technology | 1        | 4.55%   |
+| A-DATA Technology | 1        | 4.55%   |
 
 Memory Model
 ------------
@@ -1751,30 +1757,31 @@ Memory module models
 
 | Model                                                 | Desktops | Percent |
 |-------------------------------------------------------|----------|---------|
-| Unknown RAM Module 8192MB DIMM 400MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s           | 1        | 4.17%   |
-| Unknown RAM Module 2048MB DIMM 400MT/s                | 1        | 4.17%   |
-| Unknown RAM Module 128MB DIMM DRAM                    | 1        | 4.17%   |
-| Patriot RAM PSD44G213382 4096MB DIMM DDR4 2133MT/s    | 1        | 4.17%   |
-| Patriot RAM PSD34G13332 4GB DIMM DDR3 1333MT/s        | 1        | 4.17%   |
-| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s  | 1        | 4.17%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s     | 1        | 4.17%   |
-| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s   | 1        | 4.17%   |
-| Kingston RAM ACR16D3LS1KFG/4G 4GB DIMM DDR3 1600MT/s  | 1        | 4.17%   |
-| Kingston RAM 99U5701-077.A00G 16GB DIMM DDR4 2667MT/s | 1        | 4.17%   |
-| Kingston RAM 99U5471-028.A00LF 4GB DIMM DDR3 667MT/s  | 1        | 4.17%   |
-| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1333MT/s | 1        | 4.17%   |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s  | 1        | 4.17%   |
-| G.Skill RAM F4-2800C17-8GVR 8192MB DIMM DDR4 2133MT/s | 1        | 4.17%   |
-| G.Skill RAM F3-1600C11-8G 8GB DIMM DDR3 1600MT/s      | 1        | 4.17%   |
-| Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s  | 1        | 4.17%   |
-| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s | 1        | 4.17%   |
-| Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s | 1        | 4.17%   |
-| Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s       | 1        | 4.17%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s | 1        | 4.17%   |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 2933MT/s | 1        | 4.17%   |
-| A-DATA RAM Module 8GB DIMM DDR4 2666MT/s              | 1        | 4.17%   |
+| Unknown RAM Module 8192MB DIMM 400MT/s                | 1        | 4%      |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s           | 1        | 4%      |
+| Unknown RAM Module 2048MB DIMM 400MT/s                | 1        | 4%      |
+| Unknown RAM Module 128MB DIMM DRAM                    | 1        | 4%      |
+| Patriot RAM PSD44G213382 4096MB DIMM DDR4 2133MT/s    | 1        | 4%      |
+| Patriot RAM PSD34G13332 4GB DIMM DDR3 1333MT/s        | 1        | 4%      |
+| Micron RAM 36ASF2G72PZ-2G1A2 16GB DIMM DDR4 2133MT/s  | 1        | 4%      |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s     | 1        | 4%      |
+| Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s   | 1        | 4%      |
+| Kingston RAM ACR26D4S9S8ME-8 8GB SODIMM DDR4 2667MT/s | 1        | 4%      |
+| Kingston RAM ACR16D3LS1KFG/4G 4GB DIMM DDR3 1600MT/s  | 1        | 4%      |
+| Kingston RAM 99U5701-077.A00G 16GB DIMM DDR4 2667MT/s | 1        | 4%      |
+| Kingston RAM 99U5471-028.A00LF 4GB DIMM DDR3 667MT/s  | 1        | 4%      |
+| Kingston RAM 9905471-011.A00LF 4GB DIMM DDR3 1333MT/s | 1        | 4%      |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s  | 1        | 4%      |
+| G.Skill RAM F4-2800C17-8GVR 8192MB DIMM DDR4 2133MT/s | 1        | 4%      |
+| G.Skill RAM F3-1600C11-8G 8GB DIMM DDR3 1600MT/s      | 1        | 4%      |
+| Crucial RAM CT8G4DFS824A.M8FE 8GB DIMM DDR4 2933MT/s  | 1        | 4%      |
+| Crucial RAM CT51264BA160B.C16F 4GB DIMM DDR3 1600MT/s | 1        | 4%      |
+| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s | 1        | 4%      |
+| Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s | 1        | 4%      |
+| Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s       | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 2933MT/s | 1        | 4%      |
+| A-DATA RAM Module 8GB DIMM DDR4 2666MT/s              | 1        | 4%      |
 
 Memory Kind
 -----------
@@ -1786,11 +1793,11 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR4    | 10       | 50%     |
-| DDR3    | 7        | 35%     |
-| DRAM    | 1        | 5%      |
-| DDR2    | 1        | 5%      |
-| Unknown | 1        | 5%      |
+| DDR4    | 11       | 52.38%  |
+| DDR3    | 7        | 33.33%  |
+| DRAM    | 1        | 4.76%   |
+| DDR2    | 1        | 4.76%   |
+| Unknown | 1        | 4.76%   |
 
 Memory Form Factor
 ------------------
@@ -1800,9 +1807,10 @@ Physical design of the memory module
 ![Memory Form Factor](./images/pie_chart_bsd/memory_formfactor.svg)
 
 
-| Name | Desktops | Percent |
-|------|----------|---------|
-| DIMM | 20       | 100%    |
+| Name   | Desktops | Percent |
+|--------|----------|---------|
+| DIMM   | 20       | 95.24%  |
+| SODIMM | 1        | 4.76%   |
 
 Memory Size
 -----------
@@ -1814,11 +1822,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 8        | 38.1%   |
-| 4096  | 7        | 33.33%  |
-| 16384 | 3        | 14.29%  |
-| 2048  | 2        | 9.52%   |
-| 128   | 1        | 4.76%   |
+| 8192  | 9        | 40.91%  |
+| 4096  | 7        | 31.82%  |
+| 16384 | 3        | 13.64%  |
+| 2048  | 2        | 9.09%   |
+| 128   | 1        | 4.55%   |
 
 Memory Speed
 ------------
@@ -1830,18 +1838,18 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 5        | 21.74%  |
-| 2133    | 3        | 13.04%  |
-| 3200    | 2        | 8.7%    |
-| 2933    | 2        | 8.7%    |
-| 2400    | 2        | 8.7%    |
-| 1333    | 2        | 8.7%    |
-| 800     | 2        | 8.7%    |
-| 2667    | 1        | 4.35%   |
-| 2666    | 1        | 4.35%   |
-| 667     | 1        | 4.35%   |
-| 400     | 1        | 4.35%   |
-| Unknown | 1        | 4.35%   |
+| 1600    | 5        | 20.83%  |
+| 2133    | 3        | 12.5%   |
+| 3200    | 2        | 8.33%   |
+| 2933    | 2        | 8.33%   |
+| 2667    | 2        | 8.33%   |
+| 2400    | 2        | 8.33%   |
+| 1333    | 2        | 8.33%   |
+| 800     | 2        | 8.33%   |
+| 2666    | 1        | 4.17%   |
+| 667     | 1        | 4.17%   |
+| 400     | 1        | 4.17%   |
+| Unknown | 1        | 4.17%   |
 
 Printers & scanners
 -------------------

@@ -544,11 +544,11 @@ Motherboard manufacture year
 | 2009    | 6         | 6.98%   |
 | Unknown | 6         | 6.98%   |
 | 2018    | 5         | 5.81%   |
-| 2014    | 5         | 5.81%   |
+| 2014    | 4         | 4.65%   |
+| 2012    | 3         | 3.49%   |
 | 2010    | 3         | 3.49%   |
 | 2016    | 2         | 2.33%   |
 | 2013    | 2         | 2.33%   |
-| 2012    | 2         | 2.33%   |
 | 2008    | 2         | 2.33%   |
 | 2007    | 2         | 2.33%   |
 | 2006    | 2         | 2.33%   |
@@ -967,10 +967,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 64        | 84     | 72.73%  |
-| 0.51-1.0   | 16        | 19     | 18.18%  |
-| 1.01-2.0   | 7         | 15     | 7.95%   |
-| 4.01-10.0  | 1         | 1      | 1.14%   |
+| 0.01-0.5   | 64        | 84     | 71.91%  |
+| 0.51-1.0   | 17        | 20     | 19.1%   |
+| 1.01-2.0   | 7         | 14     | 7.87%   |
+| 4.01-10.0  | 1         | 1      | 1.12%   |
 
 Space Total
 -----------
@@ -1180,7 +1180,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                         | 2         | 1.96%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                    | 1         | 0.98%   |
 | VIA VT8237A SATA 2-Port Controller                                             | 1         | 0.98%   |
-| Toshiba unknown                                                                | 1         | 0.98%   |
+| Toshiba XG5 NVMe SSD Controller                                                | 1         | 0.98%   |
 | Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.98%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.98%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.98%   |
@@ -1462,9 +1462,9 @@ Graphics card models
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 1.15%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 1.15%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 1         | 1.15%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1         | 1.15%   |
 | Intel Iris Plus Graphics G4 (Ice Lake)                                        | 1         | 1.15%   |
 | Intel HD Graphics 620                                                         | 1         | 1.15%   |
+| Intel HD Graphics 610                                                         | 1         | 1.15%   |
 | Intel Comet Lake-H GT1 [UHD Graphics 610]                                     | 1         | 1.15%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 1.15%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1         | 1.15%   |
@@ -2121,7 +2121,7 @@ Sound card models
 | Intel 82801CA/CAM AC'97 Audio Controller                                   | 2         | 2%      |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 2         | 2%      |
 | Intel 8 Series HD Audio Controller                                         | 2         | 2%      |
-| C-Media Electronics Digital Hifi Audio Digital Hifi Audio SPDIFs           | 2         | 2%      |
+| C-Media Electronics FX-AUDIO                                               | 2         | 2%      |
 | AMD Wrestler HDMI Audio                                                    | 2         | 2%      |
 | AMD SBx00 Azalia (Intel HDA)                                               | 2         | 2%      |
 | AMD Renoir Radeon High Definition Audio Controller                         | 2         | 2%      |
@@ -2181,7 +2181,7 @@ Memory module models
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5%      |
 | SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s   | 1         | 5%      |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5%      |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5%      |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 5%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |

@@ -1053,7 +1053,7 @@ Storage controller models
 | AMD 500 Series Chipset SATA Controller                                        | 2         | 2.47%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 1.23%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 1.23%   |
-| Toshiba unknown                                                               | 1         | 1.23%   |
+| Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
 | SK hynix hynix unknown                                                        | 1         | 1.23%   |
 | SK hynix BC511                                                                | 1         | 1.23%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 1.23%   |
@@ -1317,7 +1317,7 @@ Graphics card models
 | Nvidia GK107M [GeForce GT 645M]                                               | 1         | 1.61%   |
 | Nvidia GA104 [GeForce RTX 3070]                                               | 1         | 1.61%   |
 | Matrox Electronics Systems MGA G200eW WPCM450                                 | 1         | 1.61%   |
-| Intel UHD Graphics 615                                                        | 1         | 1.61%   |
+| Intel UHD Graphics 617                                                        | 1         | 1.61%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 1         | 1.61%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 1.61%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 1.61%   |

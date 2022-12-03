@@ -830,7 +830,7 @@ Hard drive vendors
 | LITEON              | 1        | 1      | 0.55%   |
 | Lenovo              | 1        | 1      | 0.55%   |
 | KingSpec            | 1        | 1      | 0.55%   |
-| EMTEC               | 1        | 1      | 0.55%   |
+| Emtec               | 1        | 1      | 0.55%   |
 | CLOVER              | 1        | 1      | 0.55%   |
 
 Drive Model
@@ -932,7 +932,7 @@ Solid state drive vendors
 | LITEON              | 1        | 1      | 1.72%   |
 | Lenovo              | 1        | 1      | 1.72%   |
 | KingSpec            | 1        | 1      | 1.72%   |
-| EMTEC               | 1        | 1      | 1.72%   |
+| Emtec               | 1        | 1      | 1.72%   |
 
 Drive Kind
 ----------
@@ -2258,7 +2258,7 @@ Memory module models
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1        | 0.66%   |
 | Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1        | 0.66%   |
 | Unknown (09A4) RAM 08S2400CL170H 8192MB DIMM DDR4 2133MT/s         | 1        | 0.66%   |
-| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-3000 4GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
 | Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s                | 1        | 0.66%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.66%   |
 | SK hynix RAM HYMP525F72CP4N3-Y5 2048MB FB-DIMM DDR2 533MT/s        | 1        | 0.66%   |

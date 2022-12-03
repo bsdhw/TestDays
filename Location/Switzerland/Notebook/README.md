@@ -924,12 +924,12 @@ Storage controller vendors
 | Intel                     | 18        | 54.55%  |
 | Samsung Electronics       | 6         | 18.18%  |
 | SanDisk                   | 3         | 9.09%   |
+| Transcend                 | 1         | 3.03%   |
 | Silicon Motion            | 1         | 3.03%   |
 | Nvidia                    | 1         | 3.03%   |
 | Micron/Crucial Technology | 1         | 3.03%   |
 | KIOXIA                    | 1         | 3.03%   |
 | AMD                       | 1         | 3.03%   |
-| Unknown                   | 1         | 3.03%   |
 
 Storage Model
 -------------
@@ -1155,7 +1155,7 @@ Graphics card models
 | Intel HD Graphics 530                                                     | 2         | 5.88%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 2         | 5.88%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 2         | 5.88%   |
-| AMD Cezanne                                                               | 2         | 5.88%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]              | 2         | 5.88%   |
 | Nvidia GM108M [GeForce 940MX]                                             | 1         | 2.94%   |
 | Nvidia GA106M [GeForce RTX 3060 Mobile / Max-Q]                           | 1         | 2.94%   |
 | Nvidia G98M [GeForce 9300M GS]                                            | 1         | 2.94%   |

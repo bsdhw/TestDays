@@ -1123,7 +1123,7 @@ Graphics card models
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 1         | 2.7%    |
 | AMD Mars XTX [Radeon HD 8790M]                                                           | 1         | 2.7%    |
 | AMD Lucienne                                                                             | 1         | 2.7%    |
-| AMD Cezanne                                                                              | 1         | 2.7%    |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 1         | 2.7%    |
 
 GPU Combo
 ---------

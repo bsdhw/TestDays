@@ -520,18 +520,18 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2021    | 11        | 12.22%  |
+| 2018    | 9         | 10%     |
 | 2009    | 9         | 10%     |
 | Unknown | 9         | 10%     |
-| 2020    | 8         | 8.89%   |
-| 2018    | 8         | 8.89%   |
 | 2011    | 8         | 8.89%   |
+| 2020    | 7         | 7.78%   |
 | 2010    | 7         | 7.78%   |
 | 2022    | 5         | 5.56%   |
 | 2019    | 5         | 5.56%   |
-| 2014    | 4         | 4.44%   |
-| 2012    | 4         | 4.44%   |
+| 2012    | 5         | 5.56%   |
 | 2016    | 3         | 3.33%   |
 | 2015    | 3         | 3.33%   |
+| 2014    | 3         | 3.33%   |
 | 2013    | 2         | 2.22%   |
 | 2007    | 2         | 2.22%   |
 | 2006    | 1         | 1.11%   |
@@ -820,7 +820,7 @@ Hard drive models
 | Innostor SSD 15GB               | 3         | 2.42%   |
 | Toshiba HDWG440 4TB             | 2         | 1.61%   |
 | Seagate ST1000DM010-2EP102 1TB  | 2         | 1.61%   |
-| OPENBSD SR RAID 1 2TB           | 2         | 1.61%   |
+| OPENBSD SR RAID 1 752GB         | 2         | 1.61%   |
 | OCZ VERTEX3 120GB               | 2         | 1.61%   |
 | NVMe WDC PC SN530 SDB 256GB     | 2         | 1.61%   |
 | Apacer AS340 240GB              | 2         | 1.61%   |
@@ -949,9 +949,9 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 61        | 77     | 61%     |
-| 0.51-1.0   | 29        | 35     | 29%     |
-| 1.01-2.0   | 5         | 13     | 5%      |
+| 0.51-1.0   | 30        | 37     | 30%     |
 | 3.01-4.0   | 4         | 7      | 4%      |
+| 1.01-2.0   | 4         | 11     | 4%      |
 | 4.01-10.0  | 1         | 3      | 1%      |
 
 Space Total
@@ -2163,7 +2163,7 @@ Memory module models
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 5.88%   |
 | SK hynix RAM 484D543332355336 2GB SODIMM DDR3 1333MT/s | 1         | 5.88%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.88%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.88%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 5.88%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.88%   |
 | Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 2400MT/s  | 1         | 5.88%   |
 | Kingston RAM 4143523531325836 4GB SODIMM DDR3 1333MT/s | 1         | 5.88%   |

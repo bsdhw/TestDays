@@ -898,18 +898,18 @@ Graphics card models
 ![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
 
-| Model                                             | Desktops | Percent |
-|---------------------------------------------------|----------|---------|
-| Nvidia GP108 [GeForce GT 1030]                    | 1        | 10%     |
-| Nvidia GP107 [GeForce GTX 1050]                   | 1        | 10%     |
-| Nvidia GP106 [GeForce GTX 1060 6GB]               | 1        | 10%     |
-| Nvidia GP104 [GeForce GTX 1080]                   | 1        | 10%     |
-| Nvidia GM107 [GeForce GTX 750 Ti]                 | 1        | 10%     |
-| Intel HD Graphics 630                             | 1        | 10%     |
-| Intel HD Graphics 530                             | 1        | 10%     |
-| AMD Cezanne                                       | 1        | 10%     |
-| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]  | 1        | 10%     |
-| AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X] | 1        | 10%     |
+| Model                                                        | Desktops | Percent |
+|--------------------------------------------------------------|----------|---------|
+| Nvidia GP108 [GeForce GT 1030]                               | 1        | 10%     |
+| Nvidia GP107 [GeForce GTX 1050]                              | 1        | 10%     |
+| Nvidia GP106 [GeForce GTX 1060 6GB]                          | 1        | 10%     |
+| Nvidia GP104 [GeForce GTX 1080]                              | 1        | 10%     |
+| Nvidia GM107 [GeForce GTX 750 Ti]                            | 1        | 10%     |
+| Intel HD Graphics 630                                        | 1        | 10%     |
+| Intel HD Graphics 530                                        | 1        | 10%     |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series] | 1        | 10%     |
+| AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]             | 1        | 10%     |
+| AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X]            | 1        | 10%     |
 
 GPU Combo
 ---------

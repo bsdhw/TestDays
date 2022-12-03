@@ -1319,6 +1319,7 @@ Graphics card models
 | Nvidia G98M [GeForce G 105M]                                              | 1         | 1.27%   |
 | Nvidia C79 [GeForce 9400M]                                                | 1         | 1.27%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 1         | 1.27%   |
+| Intel Whiskey Lake-U GT1 [UHD Graphics 610]                               | 1         | 1.27%   |
 | Intel UHD Graphics 620                                                    | 1         | 1.27%   |
 | Intel UHD Graphics 615                                                    | 1         | 1.27%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                 | 1         | 1.27%   |
@@ -1326,7 +1327,6 @@ Graphics card models
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)       | 1         | 1.27%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)         | 1         | 1.27%   |
 | Intel HD Graphics 5300                                                    | 1         | 1.27%   |
-| Intel Coffee Lake UHD 610 Graphics Controller                             | 1         | 1.27%   |
 | AMD Wrestler [Radeon HD 6320]                                             | 1         | 1.27%   |
 | AMD Wrestler [Radeon HD 6310]                                             | 1         | 1.27%   |
 | AMD Wrestler [Radeon HD 6290]                                             | 1         | 1.27%   |

@@ -307,7 +307,7 @@ Desktop Environment
 | fvwm         | 10        | 20.41%  |
 | MATE         | 8         | 16.33%  |
 | XFCE         | 6         | 12.24%  |
-| openbox      | 4         | 8.16%   |
+| Openbox      | 4         | 8.16%   |
 | TWM          | 3         | 6.12%   |
 | Console      | 3         | 6.12%   |
 | KDE5         | 2         | 4.08%   |
@@ -523,13 +523,13 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2019 | 7         | 14.29%  |
+| 2012 | 7         | 14.29%  |
 | 2013 | 6         | 12.24%  |
-| 2012 | 6         | 12.24%  |
 | 2009 | 5         | 10.2%   |
-| 2014 | 4         | 8.16%   |
 | 2018 | 3         | 6.12%   |
 | 2017 | 3         | 6.12%   |
 | 2016 | 3         | 6.12%   |
+| 2014 | 3         | 6.12%   |
 | 2011 | 3         | 6.12%   |
 | 2022 | 2         | 4.08%   |
 | 2021 | 2         | 4.08%   |
@@ -1021,12 +1021,12 @@ Storage controller vendors
 | SanDisk                   | 2         | 3.51%   |
 | KIOXIA                    | 2         | 3.51%   |
 | VIA Technologies          | 1         | 1.75%   |
+| Transcend                 | 1         | 1.75%   |
 | SK hynix                  | 1         | 1.75%   |
 | Silicon Motion            | 1         | 1.75%   |
 | Phison Electronics        | 1         | 1.75%   |
 | Micron/Crucial Technology | 1         | 1.75%   |
 | AMD                       | 1         | 1.75%   |
-| Unknown                   | 1         | 1.75%   |
 
 Storage Model
 -------------

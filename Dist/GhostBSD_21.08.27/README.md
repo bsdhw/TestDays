@@ -1212,7 +1212,7 @@ Graphics card models
 | Intel HD Graphics 530                                                                    | 2         | 3.92%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 2         | 3.92%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 2         | 3.92%   |
-| AMD Cezanne                                                                              | 2         | 3.92%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 2         | 3.92%   |
 | Nvidia TU104M [GeForce RTX 2070 SUPER Mobile / Max-Q]                                    | 1         | 1.96%   |
 | Nvidia GP108 [GeForce GT 1030]                                                           | 1         | 1.96%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 1         | 1.96%   |

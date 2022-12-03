@@ -866,7 +866,7 @@ Hard drive models
 | Toshiba MQ01ABF050 500GB                  | 2         | 1.92%   |
 | Seagate ST95005620AS 500GB                | 2         | 1.92%   |
 | SanDisk SSD U100 24GB                     | 2         | 1.92%   |
-| SanDisk pSSD 256GB                        | 2         | 1.92%   |
+| SanDisk pSSD 16GB                         | 2         | 1.92%   |
 | Crucial CT500MX500SSD1 500GB              | 2         | 1.92%   |
 | Apple SSD SM0512F 500GB                   | 2         | 1.92%   |
 | WDC WDS240G2G0A-00JH30 240GB              | 1         | 0.96%   |

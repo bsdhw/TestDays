@@ -890,9 +890,9 @@ Storage controller vendors
 | Intel               | 18        | 69.23%  |
 | Samsung Electronics | 3         | 11.54%  |
 | SK hynix            | 2         | 7.69%   |
+| Transcend           | 1         | 3.85%   |
 | Toshiba             | 1         | 3.85%   |
 | Silicon Motion      | 1         | 3.85%   |
-| Unknown             | 1         | 3.85%   |
 
 Storage Model
 -------------

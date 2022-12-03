@@ -825,7 +825,7 @@ Hard drive models
 
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| OPENBSD SR RAID 1 2TB             | 5         | 4%      |
+| OPENBSD SR RAID 1 752GB           | 5         | 4%      |
 | WDC WD1600BEVT-22ZCT0 160GB       | 3         | 2.4%    |
 | Samsung SSD 850 EVO 250GB         | 3         | 2.4%    |
 | NVMe Samsung SSD 960 500GB        | 3         | 2.4%    |
@@ -961,12 +961,12 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 68        | 90     | 68%     |
-| 0.51-1.0        | 18        | 27     | 18%     |
-| 1.01-2.0        | 10        | 14     | 10%     |
-| 4.01-10.0       | 2         | 3      | 2%      |
-| More than 100.0 | 1         | 1      | 1%      |
-| 3.01-4.0        | 1         | 1      | 1%      |
+| 0.01-0.5        | 68        | 90     | 68.69%  |
+| 0.51-1.0        | 21        | 32     | 21.21%  |
+| 1.01-2.0        | 6         | 9      | 6.06%   |
+| 4.01-10.0       | 2         | 3      | 2.02%   |
+| More than 100.0 | 1         | 1      | 1.01%   |
+| 3.01-4.0        | 1         | 1      | 1.01%   |
 
 Space Total
 -----------
@@ -1445,9 +1445,9 @@ Graphics card models
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 1         | 0.98%   |
 | Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 0.98%   |
 | Intel Skylake GT2 [HD Graphics 520]                                           | 1         | 0.98%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1         | 0.98%   |
 | Intel Iris Plus Graphics G7                                                   | 1         | 0.98%   |
 | Intel Iris Plus Graphics G4 (Ice Lake)                                        | 1         | 0.98%   |
+| Intel HD Graphics 610                                                         | 1         | 0.98%   |
 | Intel HD Graphics 5300                                                        | 1         | 0.98%   |
 | Intel HD Graphics 500                                                         | 1         | 0.98%   |
 | Intel GeminiLake [UHD Graphics 605]                                           | 1         | 0.98%   |
@@ -2090,48 +2090,48 @@ Sound card models
 ![Sound Model](./All/images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                                                      | Computers | Percent |
-|----------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 8         | 8%      |
-| Intel NM10/ICH7 Family High Definition Audio Controller                    | 7         | 7%      |
-| Intel Wildcat Point-LP High Definition Audio Controller                    | 6         | 6%      |
-| Intel Sunrise Point-LP HD Audio                                            | 6         | 6%      |
-| Intel Broadwell-U Audio Controller                                         | 6         | 6%      |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 5         | 5%      |
-| AMD Family 17h/19h HD Audio Controller                                     | 5         | 5%      |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 4         | 4%      |
-| AMD Renoir Radeon High Definition Audio Controller                         | 4         | 4%      |
-| Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 3%      |
-| Intel Cannon Lake PCH cAVS                                                 | 3         | 3%      |
-| Intel 82801I (ICH9 Family) HD Audio Controller                             | 3         | 3%      |
-| Nvidia GP106 High Definition Audio Controller                              | 2         | 2%      |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 2         | 2%      |
-| Intel Haswell-ULT HD Audio Controller                                      | 2         | 2%      |
-| Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 2%      |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 2         | 2%      |
-| Intel 8 Series HD Audio Controller                                         | 2         | 2%      |
-| AMD Starship/Matisse HD Audio Controller                                   | 2         | 2%      |
-| AMD Navi 10 HDMI Audio                                                     | 2         | 2%      |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 2         | 2%      |
-| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                  | 1         | 1%      |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 1%      |
-| Nvidia TU104 HD Audio Controller                                           | 1         | 1%      |
-| Nvidia GT216 HDMI Audio Controller                                         | 1         | 1%      |
-| Nvidia GM204 High Definition Audio Controller                              | 1         | 1%      |
-| Logitech H390 headset with microphone                                      | 1         | 1%      |
-| JMTek USB PnP Audio Device                                                 | 1         | 1%      |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1         | 1%      |
-| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller            | 1         | 1%      |
-| Intel Tiger Lake-H HD Audio Controller                                     | 1         | 1%      |
-| Intel Comet Lake PCH-LP cAVS                                               | 1         | 1%      |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 1         | 1%      |
-| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller           | 1         | 1%      |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller          | 1         | 1%      |
-| Intel 82801CA/CAM AC'97 Audio Controller                                   | 1         | 1%      |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1         | 1%      |
-| Generalplus Technology USB Audio Device                                    | 1         | 1%      |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]              | 1         | 1%      |
-| AMD SBx00 Azalia (Intel HDA)                                               | 1         | 1%      |
+| Model                                                                                           | Computers | Percent |
+|-------------------------------------------------------------------------------------------------|-----------|---------|
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 8         | 8%      |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                         | 7         | 7%      |
+| Intel Wildcat Point-LP High Definition Audio Controller                                         | 6         | 6%      |
+| Intel Sunrise Point-LP HD Audio                                                                 | 6         | 6%      |
+| Intel Broadwell-U Audio Controller                                                              | 6         | 6%      |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                      | 5         | 5%      |
+| AMD Family 17h/19h HD Audio Controller                                                          | 5         | 5%      |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                                        | 4         | 4%      |
+| AMD Renoir Radeon High Definition Audio Controller                                              | 4         | 4%      |
+| Intel Cannon Point-LP High Definition Audio Controller                                          | 3         | 3%      |
+| Intel Cannon Lake PCH cAVS                                                                      | 3         | 3%      |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                  | 3         | 3%      |
+| Nvidia GP106 High Definition Audio Controller                                                   | 2         | 2%      |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller                                       | 2         | 2%      |
+| Intel Haswell-ULT HD Audio Controller                                                           | 2         | 2%      |
+| Intel Celeron/Pentium Silver Processor High Definition Audio                                    | 2         | 2%      |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                               | 2         | 2%      |
+| Intel 8 Series HD Audio Controller                                                              | 2         | 2%      |
+| AMD Starship/Matisse HD Audio Controller                                                        | 2         | 2%      |
+| AMD Navi 10 HDMI Audio                                                                          | 2         | 2%      |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                             | 2         | 2%      |
+| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                                       | 1         | 1%      |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller                                  | 1         | 1%      |
+| Nvidia TU104 HD Audio Controller                                                                | 1         | 1%      |
+| Nvidia GT216 HDMI Audio Controller                                                              | 1         | 1%      |
+| Nvidia GM204 High Definition Audio Controller                                                   | 1         | 1%      |
+| Logitech H390 headset with microphone                                                           | 1         | 1%      |
+| JMTek USB PnP Audio Device                                                                      | 1         | 1%      |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                | 1         | 1%      |
+| Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller                                 | 1         | 1%      |
+| Intel Tiger Lake-H HD Audio Controller                                                          | 1         | 1%      |
+| Intel Comet Lake PCH-LP cAVS                                                                    | 1         | 1%      |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                      | 1         | 1%      |
+| Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller                                | 1         | 1%      |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                               | 1         | 1%      |
+| Intel 82801CA/CAM AC'97 Audio Controller                                                        | 1         | 1%      |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 1         | 1%      |
+| Generalplus Technology USB Audio Device                                                         | 1         | 1%      |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1         | 1%      |
+| AMD SBx00 Azalia (Intel HDA)                                                                    | 1         | 1%      |
 
 Memory
 ------
@@ -2171,7 +2171,7 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 400MT/s                    | 1         | 5.56%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5.56%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5.56%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 5.56%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 5.56%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5.56%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 5.56%   |

@@ -1348,47 +1348,47 @@ Graphics card models
 ![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
 
-| Model                                                                              | Notebooks | Percent |
-|------------------------------------------------------------------------------------|-----------|---------|
-| Intel 3rd Gen Core processor Graphics Controller                                   | 14        | 12.73%  |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller          | 11        | 10%     |
-| Intel HD Graphics 620                                                              | 9         | 8.18%   |
-| Intel Haswell-ULT Integrated Graphics Controller                                   | 9         | 8.18%   |
-| Intel Mobile 4 Series Chipset Integrated Graphics Controller                       | 8         | 7.27%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                | 6         | 5.45%   |
-| Intel Core Processor Integrated Graphics Controller                                | 6         | 5.45%   |
-| Intel 4th Gen Core Processor Integrated Graphics Controller                        | 3         | 2.73%   |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]               | 3         | 2.73%   |
-| Nvidia GP107M [GeForce GTX 1050 Mobile]                                            | 2         | 1.82%   |
-| Nvidia GM108M [GeForce 840M]                                                       | 2         | 1.82%   |
-| Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]               | 2         | 1.82%   |
-| Nvidia G84M [GeForce 8600M GT]                                                     | 2         | 1.82%   |
-| Nvidia C79 [GeForce 9400M]                                                         | 2         | 1.82%   |
-| Intel UHD Graphics 620                                                             | 2         | 1.82%   |
-| Intel HD Graphics 630                                                              | 2         | 1.82%   |
-| Intel HD Graphics 5500                                                             | 2         | 1.82%   |
-| Intel HD Graphics 530                                                              | 2         | 1.82%   |
-| Intel CometLake-U GT2 [UHD Graphics]                                               | 2         | 1.82%   |
-| AMD Renoir                                                                         | 2         | 1.82%   |
-| Nvidia TU117M                                                                      | 1         | 0.91%   |
-| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                         | 1         | 0.91%   |
-| Nvidia GT216M [GeForce GT 330M]                                                    | 1         | 0.91%   |
-| Nvidia GM108M [GeForce 940MX]                                                      | 1         | 0.91%   |
-| Nvidia GM108M [GeForce 930MX]                                                      | 1         | 0.91%   |
-| Nvidia GM107M [GeForce GTX 950M]                                                   | 1         | 0.91%   |
-| Nvidia GK107M [GeForce GT 750M Mac Edition]                                        | 1         | 0.91%   |
-| Nvidia GF119M [GeForce GT 520MX]                                                   | 1         | 0.91%   |
-| Nvidia GF116M [GeForce GT 555M/635M]                                               | 1         | 0.91%   |
-| Nvidia G98M [GeForce 9200M GS]                                                     | 1         | 0.91%   |
-| Nvidia G86M [Quadro NVS 140M]                                                      | 1         | 0.91%   |
-| Nvidia G72M [Quadro NVS 110M/GeForce Go 7300]                                      | 1         | 0.91%   |
-| Nvidia C79 [GeForce 9400M G]                                                       | 1         | 0.91%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                         | 1         | 0.91%   |
-| Intel HD Graphics 5300                                                             | 1         | 0.91%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller | 1         | 0.91%   |
-| AMD Thames [Radeon HD 7550M/7570M/7650M]                                           | 1         | 0.91%   |
-| AMD Sun LE [Radeon HD 8550M / R5 M230]                                             | 1         | 0.91%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                         | 1         | 0.91%   |
+| Model                                                                     | Notebooks | Percent |
+|---------------------------------------------------------------------------|-----------|---------|
+| Intel 3rd Gen Core processor Graphics Controller                          | 14        | 12.73%  |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 11        | 10%     |
+| Intel HD Graphics 620                                                     | 9         | 8.18%   |
+| Intel Haswell-ULT Integrated Graphics Controller                          | 9         | 8.18%   |
+| Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 8         | 7.27%   |
+| Intel Skylake GT2 [HD Graphics 520]                                       | 6         | 5.45%   |
+| Intel Core Processor Integrated Graphics Controller                       | 6         | 5.45%   |
+| Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 2.73%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 3         | 2.73%   |
+| Nvidia GP107M [GeForce GTX 1050 Mobile]                                   | 2         | 1.82%   |
+| Nvidia GM108M [GeForce 840M]                                              | 2         | 1.82%   |
+| Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]      | 2         | 1.82%   |
+| Nvidia G84M [GeForce 8600M GT]                                            | 2         | 1.82%   |
+| Nvidia C79 [GeForce 9400M]                                                | 2         | 1.82%   |
+| Intel UHD Graphics 620                                                    | 2         | 1.82%   |
+| Intel HD Graphics 630                                                     | 2         | 1.82%   |
+| Intel HD Graphics 5500                                                    | 2         | 1.82%   |
+| Intel HD Graphics 530                                                     | 2         | 1.82%   |
+| Intel CometLake-U GT2 [UHD Graphics]                                      | 2         | 1.82%   |
+| AMD Renoir                                                                | 2         | 1.82%   |
+| Nvidia TU117M                                                             | 1         | 0.91%   |
+| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 1         | 0.91%   |
+| Nvidia GT216M [GeForce GT 330M]                                           | 1         | 0.91%   |
+| Nvidia GM108M [GeForce 940MX]                                             | 1         | 0.91%   |
+| Nvidia GM108M [GeForce 930MX]                                             | 1         | 0.91%   |
+| Nvidia GM107M [GeForce GTX 950M]                                          | 1         | 0.91%   |
+| Nvidia GK107M [GeForce GT 750M Mac Edition]                               | 1         | 0.91%   |
+| Nvidia GF119M [GeForce GT 520MX]                                          | 1         | 0.91%   |
+| Nvidia GF116M [GeForce GT 555M/635M]                                      | 1         | 0.91%   |
+| Nvidia G98M [GeForce 9200M GS]                                            | 1         | 0.91%   |
+| Nvidia G86M [Quadro NVS 140M]                                             | 1         | 0.91%   |
+| Nvidia G72M [Quadro NVS 110M/GeForce Go 7300]                             | 1         | 0.91%   |
+| Nvidia C79 [GeForce 9400M G]                                              | 1         | 0.91%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 1         | 0.91%   |
+| Intel HD Graphics 5300                                                    | 1         | 0.91%   |
+| Intel Apollo Lake [HD Graphics 505]                                       | 1         | 0.91%   |
+| AMD Thames [Radeon HD 7550M/7570M/7650M]                                  | 1         | 0.91%   |
+| AMD Sun LE [Radeon HD 8550M / R5 M230]                                    | 1         | 0.91%   |
+| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                | 1         | 0.91%   |
 
 GPU Combo
 ---------
@@ -2133,8 +2133,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 51        | 49.04%  |
-| 2048  | 23        | 22.12%  |
+| 4096  | 52        | 50%     |
+| 2048  | 22        | 21.15%  |
 | 8192  | 21        | 20.19%  |
 | 16384 | 7         | 6.73%   |
 | 1024  | 2         | 1.92%   |

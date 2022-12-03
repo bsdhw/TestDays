@@ -1914,7 +1914,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC4141 1366x768 340x190mm 15.3-inch   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM7016 3840x2160 1420x800mm 64.2-inch | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SAM0D4F 1920x1080 1020x570mm 46.0-inch | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SAM0D4F 1920x1080 890x500mm 40.2-inch  | 1         | 0.67%   |
 | Samsung Electronics F27G3xTF SAM710D 1920x1080 600x330mm 27.0-inch     | 1         | 0.67%   |
 | Philips PHL 233V5 PHLC0D0 1920x1080 510x290mm 23.1-inch                | 1         | 0.67%   |
 | Philips LCD Monitor PHLC050 1366x768 410x230mm 18.5-inch               | 1         | 0.67%   |
@@ -2601,7 +2601,6 @@ Memory module models
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2         | 0.78%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 0.78%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2         | 0.78%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2         | 0.78%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
@@ -2627,6 +2626,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                    | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM DDR3 667MT/s              | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM 667MT/s                   | 1         | 0.39%   |
+| Unknown RAM Module 2GB DIMM SDRAM                       | 1         | 0.39%   |
 
 Memory Kind
 -----------

@@ -1202,8 +1202,8 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                                   | 2         | 1.32%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2         | 1.32%   |
 | AMD FCH SATA Controller D                                                               | 2         | 1.32%   |
+| Toshiba XG5 NVMe SSD Controller                                                         | 1         | 0.66%   |
 | Toshiba XG4 NVMe SSD Controller                                                         | 1         | 0.66%   |
-| Toshiba unknown                                                                         | 1         | 0.66%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1         | 0.66%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1         | 0.66%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.66%   |

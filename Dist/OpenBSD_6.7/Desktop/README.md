@@ -624,7 +624,7 @@ Hard drive models
 | Samsung Flash Drive FIT 32GB    | 1        | 3.23%   |
 | Phison SATA SSD 64GB            | 1        | 3.23%   |
 | Phison SATA SSD 16GB            | 1        | 3.23%   |
-| OPENBSD SR RAID 1 2TB           | 1        | 3.23%   |
+| OPENBSD SR RAID 1 752GB         | 1        | 3.23%   |
 | LSI Logical Volume 597GB        | 1        | 3.23%   |
 | Kingston SUV500MS240G 240GB     | 1        | 3.23%   |
 | Kingston DataTraveler G3 8GB    | 1        | 3.23%   |
@@ -704,8 +704,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 19       | 22     | 67.86%  |
-| 0.51-1.0   | 5        | 5      | 17.86%  |
-| 1.01-2.0   | 3        | 6      | 10.71%  |
+| 0.51-1.0   | 6        | 6      | 21.43%  |
+| 1.01-2.0   | 2        | 5      | 7.14%   |
 | 2.01-3.0   | 1        | 1      | 3.57%   |
 
 Space Total
@@ -1057,7 +1057,7 @@ Graphics card models
 | Nvidia GF110 [GeForce GTX 580]                                              | 1        | 6.67%   |
 | Matrox Electronics Systems G200eR2                                          | 1        | 6.67%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1        | 6.67%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                        | 1        | 6.67%   |
+| Intel HD Graphics 610                                                       | 1        | 6.67%   |
 | Intel HD Graphics 500                                                       | 1        | 6.67%   |
 | Intel 82Q963/Q965 Integrated Graphics Controller                            | 1        | 6.67%   |
 | Intel 82G33/G31 Express Integrated Graphics Controller                      | 1        | 6.67%   |

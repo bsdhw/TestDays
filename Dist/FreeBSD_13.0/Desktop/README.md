@@ -1559,48 +1559,48 @@ Monitor models
 ![Monitor Model](./images/pie_chart_bsd/mon_model.svg)
 
 
-| Model                                                                  | Desktops | Percent |
-|------------------------------------------------------------------------|----------|---------|
-| Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                      | 2        | 3.85%   |
-| Sceptre Tech Sceptre E20 SPT080D 1600x900 410x280mm 19.5-inch          | 1        | 1.92%   |
-| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch   | 1        | 1.92%   |
-| Samsung Electronics SyncMaster SAM027D 1680x1050 430x270mm 20.0-inch   | 1        | 1.92%   |
-| Samsung Electronics SyncMaster SAM0236 2560x1600 640x400mm 29.7-inch   | 1        | 1.92%   |
-| Samsung Electronics SyncMaster SAM01BB 1280x1024 380x300mm 19.1-inch   | 1        | 1.92%   |
-| Samsung Electronics S24E510C SAM0C61 1920x1080 520x300mm 23.6-inch     | 1        | 1.92%   |
-| Samsung Electronics LCD Monitor SAM0D4F 1920x1080 1020x570mm 46.0-inch | 1        | 1.92%   |
-| Philips PHL 233V5 PHLC0D0 1920x1080 510x290mm 23.1-inch                | 1        | 1.92%   |
-| Philips LCD Monitor PHLC050 1366x768 410x230mm 18.5-inch               | 1        | 1.92%   |
-| Philips 215i PHLC05A 1920x1080 470x260mm 21.1-inch                     | 1        | 1.92%   |
-| Philips 190S PHL083F 1280x1024 380x300mm 19.1-inch                     | 1        | 1.92%   |
-| Panasonic TV MEIC136 1280x720 698x392mm 31.5-inch                      | 1        | 1.92%   |
-| LG Electronics LCD Monitor LG Ultra HD 3840x2160                       | 1        | 1.92%   |
-| Lenovo LEN S24e-10 LEN61CA 1920x1080 530x300mm 24.0-inch               | 1        | 1.92%   |
-| Iiyama PLX2483H IVM6114 1920x1080 530x300mm 24.0-inch                  | 1        | 1.92%   |
-| Iiyama PL2209HD IVM560B 1920x1080 480x270mm 21.7-inch                  | 1        | 1.92%   |
-| Hewlett-Packard Z24nf HWP3209 1920x1080 530x300mm 24.0-inch            | 1        | 1.92%   |
-| Goldstar W2246 GSM5784 1920x1080 480x270mm 21.7-inch                   | 1        | 1.92%   |
-| Goldstar W2052 GSM4E88 1680x1050 470x300mm 22.0-inch                   | 1        | 1.92%   |
-| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 1.92%   |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch             | 1        | 1.92%   |
-| Goldstar LG TV GSMC0A0 3840x2160                                       | 1        | 1.92%   |
-| Goldstar LG FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch              | 1        | 1.92%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                 | 1        | 1.92%   |
-| Goldstar 22EA53 GSM59A4 1920x1080 480x270mm 21.7-inch                  | 1        | 1.92%   |
-| Eizo CS2420 ENC2741 1920x1200 520x330mm 24.2-inch                      | 1        | 1.92%   |
-| Dell U3011 DEL4064 1920x1200 640x400mm 29.7-inch                       | 1        | 1.92%   |
-| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                  | 1        | 1.92%   |
-| Dell S2340M DELD05A 1920x1080 510x290mm 23.1-inch                      | 1        | 1.92%   |
-| Dell P2715Q DEL40BD 3840x2160 600x340mm 27.2-inch                      | 1        | 1.92%   |
-| Dell P2415Q DELA0BE 3840x2160 530x300mm 24.0-inch                      | 1        | 1.92%   |
-| Dell LCD Monitor U3011 2560x1600                                       | 1        | 1.92%   |
-| Dell LCD Monitor DELD110 2560x1440 700x400mm 31.7-inch                 | 1        | 1.92%   |
-| Dell E2417H DELA0E1 1920x1080 530x300mm 24.0-inch                      | 1        | 1.92%   |
-| Dell E197FP DELA024 1280x1024 380x300mm 19.1-inch                      | 1        | 1.92%   |
-| Dell E1916H DELF065 1366x768 410x230mm 18.5-inch                       | 1        | 1.92%   |
-| CKL LCD Monitor CKL0001 1920x1200 1150x650mm 52.0-inch                 | 1        | 1.92%   |
-| BenQ GW2270 BNQ78DB 1920x1080 480x270mm 21.7-inch                      | 1        | 1.92%   |
-| BenQ BL2411 BNQ8011 1920x1200 520x320mm 24.0-inch                      | 1        | 1.92%   |
+| Model                                                                 | Desktops | Percent |
+|-----------------------------------------------------------------------|----------|---------|
+| Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                     | 2        | 3.85%   |
+| Sceptre Tech Sceptre E20 SPT080D 1600x900 410x280mm 19.5-inch         | 1        | 1.92%   |
+| Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.92%   |
+| Samsung Electronics SyncMaster SAM027D 1680x1050 430x270mm 20.0-inch  | 1        | 1.92%   |
+| Samsung Electronics SyncMaster SAM0236 2560x1600 640x400mm 29.7-inch  | 1        | 1.92%   |
+| Samsung Electronics SyncMaster SAM01BB 1280x1024 380x300mm 19.1-inch  | 1        | 1.92%   |
+| Samsung Electronics S24E510C SAM0C61 1920x1080 520x300mm 23.6-inch    | 1        | 1.92%   |
+| Samsung Electronics LCD Monitor SAM0D4F 1920x1080 890x500mm 40.2-inch | 1        | 1.92%   |
+| Philips PHL 233V5 PHLC0D0 1920x1080 510x290mm 23.1-inch               | 1        | 1.92%   |
+| Philips LCD Monitor PHLC050 1366x768 410x230mm 18.5-inch              | 1        | 1.92%   |
+| Philips 215i PHLC05A 1920x1080 470x260mm 21.1-inch                    | 1        | 1.92%   |
+| Philips 190S PHL083F 1280x1024 380x300mm 19.1-inch                    | 1        | 1.92%   |
+| Panasonic TV MEIC136 1280x720 698x392mm 31.5-inch                     | 1        | 1.92%   |
+| LG Electronics LCD Monitor LG Ultra HD 3840x2160                      | 1        | 1.92%   |
+| Lenovo LEN S24e-10 LEN61CA 1920x1080 530x300mm 24.0-inch              | 1        | 1.92%   |
+| Iiyama PLX2483H IVM6114 1920x1080 530x300mm 24.0-inch                 | 1        | 1.92%   |
+| Iiyama PL2209HD IVM560B 1920x1080 480x270mm 21.7-inch                 | 1        | 1.92%   |
+| Hewlett-Packard Z24nf HWP3209 1920x1080 530x300mm 24.0-inch           | 1        | 1.92%   |
+| Goldstar W2246 GSM5784 1920x1080 480x270mm 21.7-inch                  | 1        | 1.92%   |
+| Goldstar W2052 GSM4E88 1680x1050 470x300mm 22.0-inch                  | 1        | 1.92%   |
+| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch            | 1        | 1.92%   |
+| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch            | 1        | 1.92%   |
+| Goldstar LG TV GSMC0A0 3840x2160                                      | 1        | 1.92%   |
+| Goldstar LG FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch             | 1        | 1.92%   |
+| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                | 1        | 1.92%   |
+| Goldstar 22EA53 GSM59A4 1920x1080 480x270mm 21.7-inch                 | 1        | 1.92%   |
+| Eizo CS2420 ENC2741 1920x1200 520x330mm 24.2-inch                     | 1        | 1.92%   |
+| Dell U3011 DEL4064 1920x1200 640x400mm 29.7-inch                      | 1        | 1.92%   |
+| Dell SE2717H/HX DELD0A1 1920x1080 600x340mm 27.2-inch                 | 1        | 1.92%   |
+| Dell S2340M DELD05A 1920x1080 510x290mm 23.1-inch                     | 1        | 1.92%   |
+| Dell P2715Q DEL40BD 3840x2160 600x340mm 27.2-inch                     | 1        | 1.92%   |
+| Dell P2415Q DELA0BE 3840x2160 530x300mm 24.0-inch                     | 1        | 1.92%   |
+| Dell LCD Monitor U3011 2560x1600                                      | 1        | 1.92%   |
+| Dell LCD Monitor DELD110 2560x1440 700x400mm 31.7-inch                | 1        | 1.92%   |
+| Dell E2417H DELA0E1 1920x1080 530x300mm 24.0-inch                     | 1        | 1.92%   |
+| Dell E197FP DELA024 1280x1024 380x300mm 19.1-inch                     | 1        | 1.92%   |
+| Dell E1916H DELF065 1366x768 410x230mm 18.5-inch                      | 1        | 1.92%   |
+| CKL LCD Monitor CKL0001 1920x1200 1150x650mm 52.0-inch                | 1        | 1.92%   |
+| BenQ GW2270 BNQ78DB 1920x1080 480x270mm 21.7-inch                     | 1        | 1.92%   |
+| BenQ BL2411 BNQ8011 1920x1200 520x320mm 24.0-inch                     | 1        | 1.92%   |
 
 Monitor Resolution
 ------------------
@@ -2140,7 +2140,6 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2        | 2.47%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2        | 2.47%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2        | 2.47%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.47%   |
 | Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s | 2        | 2.47%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 2        | 2.47%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.23%   |
@@ -2155,6 +2154,8 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 400MT/s                     | 1        | 1.23%   |
 | Unknown RAM Module 16GB DIMM DDR4 2133MT/s              | 1        | 1.23%   |
 | Unknown RAM 2G-08-10-12-1333 2GB DIMM DDR3 1333MT/s     | 1        | 1.23%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 1        | 1.23%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 1        | 1.23%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.23%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.23%   |
 | SK hynix RAM HMA82GU6AFR8N-UH 16GB DIMM DDR4 2400MT/s   | 1        | 1.23%   |
@@ -2175,7 +2176,6 @@ Memory module models
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.23%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s     | 1        | 1.23%   |
 | Kingston RAM KHX16LC9/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.23%   |
-| Kingston RAM KHX1600C9D3/8GX 8GB DIMM DDR3 1333MT/s     | 1        | 1.23%   |
 
 Memory Kind
 -----------

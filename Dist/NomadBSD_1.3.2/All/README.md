@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 256GB                        | 2         | 3.39%   |
+| SanDisk pSSD 16GB                         | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |

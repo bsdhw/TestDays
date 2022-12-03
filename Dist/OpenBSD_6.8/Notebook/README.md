@@ -940,8 +940,8 @@ Size of hard drive
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
 | 0.01-0.5        | 69        | 87     | 71.88%  |
-| 0.51-1.0        | 22        | 22     | 22.92%  |
-| 1.01-2.0        | 3         | 4      | 3.13%   |
+| 0.51-1.0        | 23        | 23     | 23.96%  |
+| 1.01-2.0        | 2         | 3      | 2.08%   |
 | More than 100.0 | 1         | 1      | 1.04%   |
 | 0               | 1         | 1      | 1.04%   |
 
@@ -1132,7 +1132,7 @@ Storage controller models
 | Intel 82801CAM IDE U100 Controller                                             | 2         | 2%      |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 2%      |
 | Union Memory (Shenzhen) Memory unknown                                         | 1         | 1%      |
-| Toshiba unknown                                                                | 1         | 1%      |
+| Toshiba XG5 NVMe SSD Controller                                                | 1         | 1%      |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 1%      |
 | Silicon Integrated Systems [SiS] 5518 UDMA IDE Controller                      | 1         | 1%      |
 | SanDisk WD Black NVMe SSD                                                      | 1         | 1%      |

@@ -145,10 +145,11 @@ Contents
 Test Cases
 ----------
 
-Total: 132
+Total: 133
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Apple         | PowerMac10,1                | [0760ed34c3](https://bsd-hardware.info/?probe=0760ed34c3) | Nov 21, 2022 |
 | ASRock        | X99 WS                      | [201a7417a5](https://bsd-hardware.info/?probe=201a7417a5) | Jun 11, 2021 |
 | Apple         | PowerMac10,1                | [d098ba539d](https://bsd-hardware.info/?probe=d098ba539d) | May 27, 2021 |
 | ASRock        | X99 WS                      | [eb20367455](https://bsd-hardware.info/?probe=eb20367455) | May 05, 2021 |
@@ -354,14 +355,14 @@ Language
 
 | Lang    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 92       | 83.64%  |
-| ru_RU   | 8        | 7.27%   |
-| en_US   | 4        | 3.64%   |
-| C       | 2        | 1.82%   |
-| pl_PL   | 1        | 0.91%   |
-| fr_FR   | 1        | 0.91%   |
-| en_AU   | 1        | 0.91%   |
-| de_DE   | 1        | 0.91%   |
+| Unknown | 93       | 83.78%  |
+| ru_RU   | 8        | 7.21%   |
+| en_US   | 4        | 3.6%    |
+| C       | 2        | 1.8%    |
+| pl_PL   | 1        | 0.9%    |
+| fr_FR   | 1        | 0.9%    |
+| en_AU   | 1        | 0.9%    |
+| de_DE   | 1        | 0.9%    |
 
 Boot Mode
 ---------
@@ -651,15 +652,15 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 63       | 56.25%  |
-| 2      | 25       | 22.32%  |
-| 3      | 13       | 11.61%  |
-| 4      | 5        | 4.46%   |
-| 10     | 2        | 1.79%   |
-| 12     | 1        | 0.89%   |
-| 7      | 1        | 0.89%   |
-| 6      | 1        | 0.89%   |
-| 5      | 1        | 0.89%   |
+| 1      | 63       | 55.75%  |
+| 2      | 26       | 23.01%  |
+| 3      | 13       | 11.5%   |
+| 4      | 5        | 4.42%   |
+| 10     | 2        | 1.77%   |
+| 12     | 1        | 0.88%   |
+| 7      | 1        | 0.88%   |
+| 6      | 1        | 0.88%   |
+| 5      | 1        | 0.88%   |
 
 Has CD-ROM
 ----------
@@ -764,46 +765,46 @@ Geographic location (city)
 
 | City                       | Desktops | Percent |
 |----------------------------|----------|---------|
-| Moscow                     | 10       | 9.09%   |
-| Berlin                     | 5        | 4.55%   |
-| Amsterdam                  | 5        | 4.55%   |
-| New Taipei                 | 4        | 3.64%   |
-| Malmo                      | 3        | 2.73%   |
-| Lausanne                   | 3        | 2.73%   |
-| Ibiza Town                 | 3        | 2.73%   |
-| Vladivostok                | 2        | 1.82%   |
-| Vienna                     | 2        | 1.82%   |
-| Svenstrup                  | 2        | 1.82%   |
-| St Petersburg              | 2        | 1.82%   |
-| Skien                      | 2        | 1.82%   |
-| Saint-Martin-d'HГЁres    | 2        | 1.82%   |
-| Paris                      | 2        | 1.82%   |
-| Lebanon                    | 2        | 1.82%   |
-| Atlanta                    | 2        | 1.82%   |
-| Zurich                     | 1        | 0.91%   |
-| Zagreb                     | 1        | 0.91%   |
-| Waukesha                   | 1        | 0.91%   |
-| Ust'-Charyshskaya Pristan' | 1        | 0.91%   |
-| Turrivalignani             | 1        | 0.91%   |
-| Tallinn                    | 1        | 0.91%   |
-| Syeverodonets'k            | 1        | 0.91%   |
-| Sydney                     | 1        | 0.91%   |
-| Surgut                     | 1        | 0.91%   |
-| Springfield                | 1        | 0.91%   |
-| Soresina                   | 1        | 0.91%   |
-| Sofia                      | 1        | 0.91%   |
-| Sheffield                  | 1        | 0.91%   |
-| Seattle                    | 1        | 0.91%   |
-| Saint-Herblain             | 1        | 0.91%   |
-| Rubtsovsk                  | 1        | 0.91%   |
-| Roubaix                    | 1        | 0.91%   |
-| Rivne                      | 1        | 0.91%   |
-| Punta Gorda                | 1        | 0.91%   |
-| Porto Alegre               | 1        | 0.91%   |
-| Oviedo                     | 1        | 0.91%   |
-| Oslo                       | 1        | 0.91%   |
-| Ockenheim                  | 1        | 0.91%   |
-| NГ©rac                   | 1        | 0.91%   |
+| Moscow                     | 10       | 9.01%   |
+| Berlin                     | 5        | 4.5%    |
+| Amsterdam                  | 5        | 4.5%    |
+| New Taipei                 | 4        | 3.6%    |
+| Malmo                      | 3        | 2.7%    |
+| Lausanne                   | 3        | 2.7%    |
+| Ibiza Town                 | 3        | 2.7%    |
+| Vladivostok                | 2        | 1.8%    |
+| Vienna                     | 2        | 1.8%    |
+| Svenstrup                  | 2        | 1.8%    |
+| St Petersburg              | 2        | 1.8%    |
+| Skien                      | 2        | 1.8%    |
+| Saint-Martin-d'HГЁres    | 2        | 1.8%    |
+| Paris                      | 2        | 1.8%    |
+| Lebanon                    | 2        | 1.8%    |
+| Atlanta                    | 2        | 1.8%    |
+| Zurich                     | 1        | 0.9%    |
+| Zagreb                     | 1        | 0.9%    |
+| Waukesha                   | 1        | 0.9%    |
+| Ust'-Charyshskaya Pristan' | 1        | 0.9%    |
+| Turrivalignani             | 1        | 0.9%    |
+| Tallinn                    | 1        | 0.9%    |
+| Syeverodonets'k            | 1        | 0.9%    |
+| Sydney                     | 1        | 0.9%    |
+| Surgut                     | 1        | 0.9%    |
+| Springfield                | 1        | 0.9%    |
+| Soresina                   | 1        | 0.9%    |
+| Sofia                      | 1        | 0.9%    |
+| Sheffield                  | 1        | 0.9%    |
+| Serpukhov                  | 1        | 0.9%    |
+| Seattle                    | 1        | 0.9%    |
+| Saint-Herblain             | 1        | 0.9%    |
+| Rubtsovsk                  | 1        | 0.9%    |
+| Roubaix                    | 1        | 0.9%    |
+| Rivne                      | 1        | 0.9%    |
+| Punta Gorda                | 1        | 0.9%    |
+| Porto Alegre               | 1        | 0.9%    |
+| Oviedo                     | 1        | 0.9%    |
+| Oslo                       | 1        | 0.9%    |
+| Ockenheim                  | 1        | 0.9%    |
 
 Drives
 ------
@@ -824,7 +825,7 @@ Hard drive vendors
 | Samsung Electronics | 11       | 19     | 6.92%   |
 | Phison              | 11       | 11     | 6.92%   |
 | NVMe                | 9        | 10     | 5.66%   |
-| Hitachi             | 8        | 8      | 5.03%   |
+| Hitachi             | 8        | 9      | 5.03%   |
 | Crucial             | 8        | 17     | 5.03%   |
 | HGST                | 6        | 7      | 3.77%   |
 | Dell                | 6        | 10     | 3.77%   |
@@ -865,7 +866,7 @@ Hard drive models
 | Model                              | Desktops | Percent |
 |------------------------------------|----------|---------|
 | Phison SATA SSD 16GB               | 10       | 5.81%   |
-| OPENBSD SR RAID 1 2TB              | 4        | 2.33%   |
+| OPENBSD SR RAID 1 752GB            | 4        | 2.33%   |
 | Dell PERC H710 282GB               | 4        | 2.33%   |
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |
@@ -917,7 +918,7 @@ Hard disk drive vendors
 |---------------------|----------|--------|---------|
 | WDC                 | 20       | 27     | 23.26%  |
 | Seagate             | 19       | 28     | 22.09%  |
-| Hitachi             | 8        | 8      | 9.3%    |
+| Hitachi             | 8        | 9      | 9.3%    |
 | HGST                | 6        | 7      | 6.98%   |
 | Dell                | 6        | 10     | 6.98%   |
 | OPENBSD             | 5        | 5      | 5.81%   |
@@ -976,7 +977,7 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | SSD  | 64       | 97     | 51.2%   |
-| HDD  | 61       | 109    | 48.8%   |
+| HDD  | 61       | 110    | 48.8%   |
 
 Drive Connector
 ---------------
@@ -988,7 +989,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 107      | 206    | 100%    |
+| SATA | 107      | 207    | 100%    |
 
 Drive Size
 ----------
@@ -1000,12 +1001,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 89       | 132    | 65.44%  |
-| 0.51-1.0   | 22       | 29     | 16.18%  |
-| 1.01-2.0   | 15       | 30     | 11.03%  |
-| 3.01-4.0   | 5        | 6      | 3.68%   |
-| 4.01-10.0  | 3        | 5      | 2.21%   |
-| 2.01-3.0   | 2        | 4      | 1.47%   |
+| 0.01-0.5   | 89       | 133    | 64.96%  |
+| 0.51-1.0   | 25       | 33     | 18.25%  |
+| 1.01-2.0   | 13       | 26     | 9.49%   |
+| 3.01-4.0   | 5        | 6      | 3.65%   |
+| 4.01-10.0  | 3        | 5      | 2.19%   |
+| 2.01-3.0   | 2        | 4      | 1.46%   |
 
 Space Total
 -----------
@@ -1017,15 +1018,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 35       | 32.11%  |
-| 251-500        | 18       | 16.51%  |
-| 1-20           | 15       | 13.76%  |
-| 51-100         | 12       | 11.01%  |
-| 21-50          | 8        | 7.34%   |
-| More than 3000 | 6        | 5.5%    |
-| 1001-2000      | 6        | 5.5%    |
-| 501-1000       | 6        | 5.5%    |
-| 2001-3000      | 3        | 2.75%   |
+| 101-250        | 36       | 32.73%  |
+| 251-500        | 18       | 16.36%  |
+| 1-20           | 15       | 13.64%  |
+| 51-100         | 12       | 10.91%  |
+| 21-50          | 8        | 7.27%   |
+| More than 3000 | 6        | 5.45%   |
+| 1001-2000      | 6        | 5.45%   |
+| 501-1000       | 6        | 5.45%   |
+| 2001-3000      | 3        | 2.73%   |
 
 Space Used
 ----------
@@ -1037,14 +1038,14 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 72       | 64.86%  |
-| 21-50          | 10       | 9.01%   |
-| 101-250        | 10       | 9.01%   |
-| 51-100         | 7        | 6.31%   |
-| 1001-2000      | 4        | 3.6%    |
-| 501-1000       | 4        | 3.6%    |
-| 251-500        | 3        | 2.7%    |
-| More than 3000 | 1        | 0.9%    |
+| 1-20           | 72       | 64.29%  |
+| 21-50          | 11       | 9.82%   |
+| 101-250        | 10       | 8.93%   |
+| 51-100         | 7        | 6.25%   |
+| 1001-2000      | 4        | 3.57%   |
+| 501-1000       | 4        | 3.57%   |
+| 251-500        | 3        | 2.68%   |
+| More than 3000 | 1        | 0.89%   |
 
 Malfunc. Drives
 ---------------
@@ -1153,7 +1154,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 82       | 142    | 64.57%  |
+| Works    | 82       | 143    | 64.57%  |
 | Detected | 30       | 46     | 23.62%  |
 | Malfunc  | 14       | 16     | 11.02%  |
 | Failed   | 1        | 2      | 0.79%   |
@@ -1481,10 +1482,11 @@ Graphics card models
 | Matrox Electronics Systems MGA G200eW WPCM450                                            | 3        | 3.61%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 3        | 3.61%   |
 | ASPEED Technology ASPEED Graphics Family                                                 | 3        | 3.61%   |
+| Intel HD Graphics 610                                                                    | 2        | 2.41%   |
 | Intel GeminiLake [UHD Graphics 600]                                                      | 2        | 2.41%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller       | 2        | 2.41%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 2        | 2.41%   |
 | Intel Atom Processor D2xxx/N2xxx Integrated Graphics Controller                          | 2        | 2.41%   |
+| Intel Apollo Lake [HD Graphics 505]                                                      | 2        | 2.41%   |
 | Intel 82865G Integrated Graphics Controller                                              | 2        | 2.41%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 2        | 2.41%   |
 | AMD Wrestler [Radeon HD 7340]                                                            | 2        | 2.41%   |
@@ -1499,15 +1501,13 @@ Graphics card models
 | Nvidia G92 [GeForce GTS 250]                                                             | 1        | 1.2%    |
 | Nvidia C61 [GeForce 6150SE nForce 430]                                                   | 1        | 1.2%    |
 | Nvidia C61 [GeForce 6100 nForce 405]                                                     | 1        | 1.2%    |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                                     | 1        | 1.2%    |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                                   | 1        | 1.2%    |
-| Intel HD Graphics 610                                                                    | 1        | 1.2%    |
 | Intel HD Graphics 6000                                                                   | 1        | 1.2%    |
 | Intel HD Graphics 530                                                                    | 1        | 1.2%    |
 | Intel HD Graphics 510                                                                    | 1        | 1.2%    |
 | Intel Crystal Well Integrated Iris Pro Graphics 5200                                     | 1        | 1.2%    |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1        | 1.2%    |
-| Intel Coffee Lake UHD Graphics                                                           | 1        | 1.2%    |
+| Intel Coffee Lake-S GT2 [UHD Graphics P630]                                              | 1        | 1.2%    |
 | Intel 82945G/GZ Integrated Graphics Controller                                           | 1        | 1.2%    |
 | Intel 82915G/GV/910GL Integrated Graphics Controller                                     | 1        | 1.2%    |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 1        | 1.2%    |
@@ -1515,6 +1515,7 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                                         | 1        | 1.2%    |
 | AMD Tobago PRO [Radeon R7 360 / R9 360 OEM]                                              | 1        | 1.2%    |
 | AMD SuperSumo [Radeon HD 6410D]                                                          | 1        | 1.2%    |
+| AMD RV280 [Radeon 9200]                                                                  | 1        | 1.2%    |
 
 GPU Combo
 ---------

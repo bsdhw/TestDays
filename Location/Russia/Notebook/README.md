@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 205
+Total: 206
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Sony          | SVP1321V9RB                 | [932facd689](https://bsd-hardware.info/?probe=932facd689) | Nov 25, 2022 |
 | Samsung       | Q430/Q530                   | [fb98c8c797](https://bsd-hardware.info/?probe=fb98c8c797) | Oct 29, 2022 |
 | Samsung       | Q430/Q530                   | [4965215a13](https://bsd-hardware.info/?probe=4965215a13) | Oct 25, 2022 |
 | MSI           | PS63 Modern 8M              | [949e472db5](https://bsd-hardware.info/?probe=949e472db5) | Oct 19, 2022 |
@@ -370,46 +371,46 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 15        | 11.03%  |
-| OpenBSD 6.8          | 10        | 7.35%   |
-| FreeBSD 13.1         | 8         | 5.88%   |
-| NomadBSD 1.3.2       | 7         | 5.15%   |
-| FreeBSD 13.0         | 6         | 4.41%   |
-| OpenBSD 7.1          | 5         | 3.68%   |
-| helloSystem 0.8.0    | 5         | 3.68%   |
-| FreeBSD 14.0-CURRENT | 5         | 3.68%   |
-| FreeBSD 13.0-CURRENT | 5         | 3.68%   |
-| NomadBSD 5806f915    | 4         | 2.94%   |
-| helloSystem 0.6.0    | 4         | 2.94%   |
-| FreeBSD 12.1-STABLE  | 4         | 2.94%   |
-| OpenBSD 6.9          | 3         | 2.21%   |
-| GhostBSD 20.04.02    | 3         | 2.21%   |
-| FreeBSD 13.1-p1      | 3         | 2.21%   |
-| FreeBSD 12.2-p4      | 3         | 2.21%   |
-| OpenBSD 6.7          | 2         | 1.47%   |
-| FreeBSD 13.0-p3      | 2         | 1.47%   |
-| FreeBSD 12.3-STABLE  | 2         | 1.47%   |
-| FreeBSD 12.2-STABLE  | 2         | 1.47%   |
-| FreeBSD 12.2-p3      | 2         | 1.47%   |
-| FreeBSD 12.1-p8      | 2         | 1.47%   |
-| FreeBSD 12.1-p7      | 2         | 1.47%   |
-| FreeBSD 12.1-p5      | 2         | 1.47%   |
-| OS108 9.0            | 1         | 0.74%   |
-| OpenBSD 7.0          | 1         | 0.74%   |
-| NomadBSD 1.4         | 1         | 0.74%   |
-| NomadBSD 1.3.1       | 1         | 0.74%   |
-| NetBSD 9.99.94       | 1         | 0.74%   |
-| NetBSD 9.1           | 1         | 0.74%   |
-| NetBSD 7.2           | 1         | 0.74%   |
-| LibertyBSD 6.1       | 1         | 0.74%   |
-| helloSystem 0.3.0    | 1         | 0.74%   |
-| GhostBSD 21.08.27    | 1         | 0.74%   |
-| FreeBSD 8.4          | 1         | 0.74%   |
-| FreeBSD 13.1-STABLE  | 1         | 0.74%   |
-| FreeBSD 13.1-p2      | 1         | 0.74%   |
-| FreeBSD 13.1-BETA3   | 1         | 0.74%   |
-| FreeBSD 13.0-STABLE  | 1         | 0.74%   |
-| FreeBSD 13.0-RC1     | 1         | 0.74%   |
+| helloSystem 0.7.0    | 15        | 10.95%  |
+| OpenBSD 6.8          | 10        | 7.3%    |
+| FreeBSD 13.1         | 8         | 5.84%   |
+| NomadBSD 1.3.2       | 7         | 5.11%   |
+| FreeBSD 13.0         | 6         | 4.38%   |
+| OpenBSD 7.1          | 5         | 3.65%   |
+| helloSystem 0.8.0    | 5         | 3.65%   |
+| FreeBSD 14.0-CURRENT | 5         | 3.65%   |
+| FreeBSD 13.0-CURRENT | 5         | 3.65%   |
+| NomadBSD 5806f915    | 4         | 2.92%   |
+| helloSystem 0.6.0    | 4         | 2.92%   |
+| FreeBSD 12.1-STABLE  | 4         | 2.92%   |
+| OpenBSD 6.9          | 3         | 2.19%   |
+| GhostBSD 20.04.02    | 3         | 2.19%   |
+| FreeBSD 13.1-p1      | 3         | 2.19%   |
+| FreeBSD 12.2-p4      | 3         | 2.19%   |
+| OpenBSD 6.7          | 2         | 1.46%   |
+| FreeBSD 13.0-p3      | 2         | 1.46%   |
+| FreeBSD 12.3-STABLE  | 2         | 1.46%   |
+| FreeBSD 12.2-STABLE  | 2         | 1.46%   |
+| FreeBSD 12.2-p3      | 2         | 1.46%   |
+| FreeBSD 12.1-p8      | 2         | 1.46%   |
+| FreeBSD 12.1-p7      | 2         | 1.46%   |
+| FreeBSD 12.1-p5      | 2         | 1.46%   |
+| OS108 9.0            | 1         | 0.73%   |
+| OpenBSD 7.0          | 1         | 0.73%   |
+| NomadBSD 1.4         | 1         | 0.73%   |
+| NomadBSD 1.3.1       | 1         | 0.73%   |
+| NetBSD 9.99.94       | 1         | 0.73%   |
+| NetBSD 9.1           | 1         | 0.73%   |
+| NetBSD 7.2           | 1         | 0.73%   |
+| LibertyBSD 6.1       | 1         | 0.73%   |
+| helloSystem 0.3.0    | 1         | 0.73%   |
+| GhostBSD 21.08.27    | 1         | 0.73%   |
+| FreeBSD 8.4          | 1         | 0.73%   |
+| FreeBSD 13.1-STABLE  | 1         | 0.73%   |
+| FreeBSD 13.1-p4      | 1         | 0.73%   |
+| FreeBSD 13.1-p2      | 1         | 0.73%   |
+| FreeBSD 13.1-BETA3   | 1         | 0.73%   |
+| FreeBSD 13.0-STABLE  | 1         | 0.73%   |
 
 OS Family
 ---------
@@ -949,7 +950,7 @@ Hard drive vendors
 |---------------------|-----------|--------|---------|
 | WDC                 | 27        | 32     | 18.75%  |
 | Seagate             | 17        | 20     | 11.81%  |
-| Samsung Electronics | 16        | 19     | 11.11%  |
+| Samsung Electronics | 16        | 20     | 11.11%  |
 | Toshiba             | 11        | 12     | 7.64%   |
 | SanDisk             | 9         | 11     | 6.25%   |
 | SK hynix            | 8         | 9      | 5.56%   |
@@ -1059,7 +1060,7 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 10        | 11     | 18.18%  |
+| Samsung Electronics | 10        | 12     | 18.18%  |
 | SanDisk             | 9         | 11     | 16.36%  |
 | Kingston            | 5         | 6      | 9.09%   |
 | WDC                 | 4         | 5      | 7.27%   |
@@ -1092,7 +1093,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | HDD  | 56        | 70     | 42.42%  |
-| SSD  | 49        | 67     | 37.12%  |
+| SSD  | 49        | 68     | 37.12%  |
 | NVMe | 27        | 34     | 20.45%  |
 
 Drive Connector
@@ -1105,7 +1106,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 93        | 137    | 77.5%   |
+| SATA | 93        | 138    | 77.5%   |
 | NVMe | 27        | 34     | 22.5%   |
 
 Drive Size
@@ -1118,7 +1119,7 @@ Size of hard drive
 
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 77        | 109    | 74.76%  |
+| 0.01-0.5        | 77        | 110    | 74.76%  |
 | 0.51-1.0        | 22        | 24     | 21.36%  |
 | 1.01-2.0        | 3         | 3      | 2.91%   |
 | More than 100.0 | 1         | 1      | 0.97%   |
@@ -1283,7 +1284,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 93        | 135    | 72.09%  |
+| Works    | 93        | 136    | 72.09%  |
 | Malfunc  | 31        | 31     | 24.03%  |
 | Detected | 4         | 4      | 3.1%    |
 | Failed   | 1         | 1      | 0.78%   |
@@ -1306,6 +1307,7 @@ Storage controller vendors
 | SK hynix                         | 8         | 5.93%   |
 | SanDisk                          | 6         | 4.44%   |
 | Samsung Electronics              | 6         | 4.44%   |
+| Transcend                        | 1         | 0.74%   |
 | Toshiba                          | 1         | 0.74%   |
 | Silicon Motion                   | 1         | 0.74%   |
 | Silicon Integrated Systems [SiS] | 1         | 0.74%   |
@@ -1316,7 +1318,6 @@ Storage controller vendors
 | KIOXIA                           | 1         | 0.74%   |
 | Kingston Technology Company      | 1         | 0.74%   |
 | JMicron Technology               | 1         | 0.74%   |
-| Unknown                          | 1         | 0.74%   |
 
 Storage Model
 -------------
@@ -1357,7 +1358,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 1.41%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.7%    |
 | SK hynix hynix unknown                                                           | 1         | 0.7%    |
-| SK hynix Gold P31 SSD                                                            | 1         | 0.7%    |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                   | 1         | 0.7%    |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 0.7%    |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 0.7%    |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 0.7%    |
@@ -1619,7 +1620,7 @@ Graphics card models
 | Intel Core Processor Integrated Graphics Controller                                      | 3         | 2.05%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 3         | 2.05%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 3         | 2.05%   |
-| AMD Cezanne                                                                              | 3         | 2.05%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 3         | 2.05%   |
 | Nvidia GK208BM [GeForce 920M]                                                            | 2         | 1.37%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 2         | 1.37%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 2         | 1.37%   |
@@ -2409,46 +2410,46 @@ Memory module models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 4         | 2.92%   |
-| Unknown RAM Module 512MB SODIMM DDR                                       | 3         | 2.19%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 3         | 2.19%   |
-| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 3         | 2.19%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 3         | 2.19%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s                     | 3         | 2.19%   |
-| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 3         | 2.19%   |
-| Unknown                                                                   | 3         | 2.19%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 2         | 1.46%   |
-| Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 2         | 1.46%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM 1333MT/s                         | 2         | 1.46%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s                    | 2         | 1.46%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 2         | 1.46%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 1.46%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s                     | 2         | 1.46%   |
-| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s                      | 2         | 1.46%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s                      | 2         | 1.46%   |
-| Kingston RAM 9905700-011.A00G 8192MB SODIMM DDR4 2400MT/s                 | 2         | 1.46%   |
-| Unknown RAM Module 512MB SODIMM DRAM                                      | 1         | 0.73%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                               | 1         | 0.73%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                               | 1         | 0.73%   |
-| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                                 | 1         | 0.73%   |
-| Unknown RAM Module 256MB SODIMM DRAM                                      | 1         | 0.73%   |
-| Unknown RAM Module 256MB SODIMM DDR 100MT/s                               | 1         | 0.73%   |
-| Unknown RAM Module 2560MB SODIMM DDR                                      | 1         | 0.73%   |
-| Unknown RAM Module 2048MB SODIMM SDRAM                                    | 1         | 0.73%   |
-| Unknown RAM Module 2048MB SODIMM DDR3                                     | 1         | 0.73%   |
-| Unknown RAM Module 2048MB SODIMM DDR2                                     | 1         | 0.73%   |
-| Unknown RAM Module 2048MB SODIMM DDR 800MT/s                              | 1         | 0.73%   |
-| Unknown RAM Module 128MB SODIMM DRAM                                      | 1         | 0.73%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM 266MT/s                            | 1         | 0.73%   |
-| Unknown RAM Module 1024MB SODIMM SDRAM 266(3.8ns)MT/s                     | 1         | 0.73%   |
-| Unknown RAM Module 1024MB SODIMM RAM                                      | 1         | 0.73%   |
-| Unknown RAM Module 1024MB SODIMM DRAM                                     | 1         | 0.73%   |
-| Unknown RAM Module 1024MB SODIMM DDR                                      | 1         | 0.73%   |
-| Unknown (0x0809) RAM Module 8GB SODIMM DDR3 800MT/s                       | 1         | 0.73%   |
-| Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s                            | 1         | 0.73%   |
-| Transcend RAM JM667QSU-2G 2GB SODIMM DDR2 667MT/s                         | 1         | 0.73%   |
-| SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s                      | 1         | 0.73%   |
-| SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                              | 1         | 0.73%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s                     | 4         | 2.9%    |
+| Unknown RAM Module 512MB SODIMM DDR                                       | 3         | 2.17%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s                    | 3         | 2.17%   |
+| SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 3         | 2.17%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 3         | 2.17%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s                     | 3         | 2.17%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 3         | 2.17%   |
+| Unknown                                                                   | 3         | 2.17%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 2         | 1.45%   |
+| Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 2         | 1.45%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM 1333MT/s                         | 2         | 1.45%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s                    | 2         | 1.45%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s                    | 2         | 1.45%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 1.45%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s                     | 2         | 1.45%   |
+| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s                      | 2         | 1.45%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s                      | 2         | 1.45%   |
+| Kingston RAM 9905700-011.A00G 8192MB SODIMM DDR4 2400MT/s                 | 2         | 1.45%   |
+| Unknown RAM Module 512MB SODIMM DRAM                                      | 1         | 0.72%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                               | 1         | 0.72%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                               | 1         | 0.72%   |
+| Unknown RAM Module 4GB DIMM DDR3 1067MT/s                                 | 1         | 0.72%   |
+| Unknown RAM Module 2GB SODIMM DDR3                                        | 1         | 0.72%   |
+| Unknown RAM Module 256MB SODIMM DRAM                                      | 1         | 0.72%   |
+| Unknown RAM Module 256MB SODIMM DDR 100MT/s                               | 1         | 0.72%   |
+| Unknown RAM Module 2560MB SODIMM DDR                                      | 1         | 0.72%   |
+| Unknown RAM Module 2048MB SODIMM SDRAM                                    | 1         | 0.72%   |
+| Unknown RAM Module 2048MB SODIMM DDR3                                     | 1         | 0.72%   |
+| Unknown RAM Module 2048MB SODIMM DDR2                                     | 1         | 0.72%   |
+| Unknown RAM Module 2048MB SODIMM DDR 800MT/s                              | 1         | 0.72%   |
+| Unknown RAM Module 128MB SODIMM DRAM                                      | 1         | 0.72%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM 266MT/s                            | 1         | 0.72%   |
+| Unknown RAM Module 1024MB SODIMM SDRAM 266(3.8ns)MT/s                     | 1         | 0.72%   |
+| Unknown RAM Module 1024MB SODIMM RAM                                      | 1         | 0.72%   |
+| Unknown RAM Module 1024MB SODIMM DRAM                                     | 1         | 0.72%   |
+| Unknown RAM Module 1024MB SODIMM DDR                                      | 1         | 0.72%   |
+| Unknown (0x0809) RAM Module 8GB SODIMM DDR3 800MT/s                       | 1         | 0.72%   |
+| Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s                            | 1         | 0.72%   |
+| Transcend RAM JM667QSU-2G 2GB SODIMM DDR2 667MT/s                         | 1         | 0.72%   |
+| SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s                      | 1         | 0.72%   |
 
 Memory Kind
 -----------

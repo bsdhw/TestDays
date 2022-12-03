@@ -1182,8 +1182,8 @@ Storage controller models
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 2         | 1.54%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 1.54%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 1.54%   |
+| Toshiba XG5 NVMe SSD Controller                                                  | 1         | 0.77%   |
 | Toshiba XG4 NVMe SSD Controller                                                  | 1         | 0.77%   |
-| Toshiba unknown                                                                  | 1         | 0.77%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.77%   |
 | SK hynix BC501 NVMe Solid State Drive                                            | 1         | 0.77%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 0.77%   |

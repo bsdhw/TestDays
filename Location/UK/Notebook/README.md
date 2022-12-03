@@ -147,10 +147,13 @@ Contents
 Test Cases
 ----------
 
-Total: 171
+Total: 174
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | EliteBook 8570p             | [3ad7cec298](https://bsd-hardware.info/?probe=3ad7cec298) | Nov 26, 2022 |
+| Dell          | XPS 13 9343                 | [8ec61db3f0](https://bsd-hardware.info/?probe=8ec61db3f0) | Nov 22, 2022 |
+| HP            | EliteBook 8570p             | [436a2d30f6](https://bsd-hardware.info/?probe=436a2d30f6) | Nov 16, 2022 |
 | Deciso        | NetBoard-A10                | [5d4c95dcac](https://bsd-hardware.info/?probe=5d4c95dcac) | Oct 26, 2022 |
 | HP            | ENVY Laptop 13-aq0xxx       | [bc229efed9](https://bsd-hardware.info/?probe=bc229efed9) | Oct 18, 2022 |
 | HP            | ENVY Laptop 13-aq0xxx       | [0a8b1f727f](https://bsd-hardware.info/?probe=0a8b1f727f) | Oct 17, 2022 |
@@ -336,46 +339,46 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 10        | 9.43%   |
-| FreeBSD 13.0         | 8         | 7.55%   |
-| FreeBSD 14.0-CURRENT | 6         | 5.66%   |
-| helloSystem 0.5.0    | 4         | 3.77%   |
-| helloSystem 0.4.0    | 4         | 3.77%   |
-| GhostBSD 20.04.02    | 4         | 3.77%   |
-| FreeBSD 13.1         | 4         | 3.77%   |
-| FreeBSD 12.2         | 4         | 3.77%   |
-| OpenBSD 7.1          | 3         | 2.83%   |
-| OpenBSD 6.8          | 3         | 2.83%   |
-| NomadBSD 1.4-RC1     | 3         | 2.83%   |
-| NomadBSD 1.3.2       | 3         | 2.83%   |
-| helloSystem 0.6.0    | 3         | 2.83%   |
-| OPNsense 22.4.3      | 2         | 1.89%   |
-| helloSystem 0.8.0    | 2         | 1.89%   |
-| FreeBSD 13.0-p5      | 2         | 1.89%   |
-| FreeBSD 13.0-CURRENT | 2         | 1.89%   |
-| FreeBSD 12.2-p6      | 2         | 1.89%   |
-| FreeBSD 12.2-p4      | 2         | 1.89%   |
-| FreeBSD 12.2-p3      | 2         | 1.89%   |
-| FreeBSD 12.2-p2      | 2         | 1.89%   |
-| FreeBSD 12.1-p9      | 2         | 1.89%   |
-| OPNsense 22.7.4      | 1         | 0.94%   |
-| OPNsense 22.1.6      | 1         | 0.94%   |
-| OPNsense 22.1.10     | 1         | 0.94%   |
-| OPNsense 21.1.4      | 1         | 0.94%   |
-| OPNsense 21.1.3      | 1         | 0.94%   |
-| OPNsense 21.1.1      | 1         | 0.94%   |
-| OpenBSD 7.2          | 1         | 0.94%   |
-| OpenBSD 7.0          | 1         | 0.94%   |
-| OpenBSD 6.9          | 1         | 0.94%   |
-| NomadBSD 1.4         | 1         | 0.94%   |
-| helloSystem          | 1         | 0.94%   |
-| GhostBSD 22.08.06    | 1         | 0.94%   |
-| GhostBSD 22.06.26    | 1         | 0.94%   |
-| GhostBSD 22.06.07    | 1         | 0.94%   |
-| GhostBSD 22.01.12    | 1         | 0.94%   |
-| GhostBSD 21.08.27    | 1         | 0.94%   |
-| FuryBSD 12.1-p9      | 1         | 0.94%   |
-| FreeBSD 13.1-p2      | 1         | 0.94%   |
+| helloSystem 0.7.0    | 10        | 9.35%   |
+| FreeBSD 13.0         | 8         | 7.48%   |
+| FreeBSD 14.0-CURRENT | 6         | 5.61%   |
+| helloSystem 0.5.0    | 4         | 3.74%   |
+| helloSystem 0.4.0    | 4         | 3.74%   |
+| GhostBSD 20.04.02    | 4         | 3.74%   |
+| FreeBSD 13.1         | 4         | 3.74%   |
+| FreeBSD 12.2         | 4         | 3.74%   |
+| OpenBSD 7.1          | 3         | 2.8%    |
+| OpenBSD 6.8          | 3         | 2.8%    |
+| NomadBSD 1.4-RC1     | 3         | 2.8%    |
+| NomadBSD 1.3.2       | 3         | 2.8%    |
+| helloSystem 0.6.0    | 3         | 2.8%    |
+| OPNsense 22.4.3      | 2         | 1.87%   |
+| helloSystem 0.8.0    | 2         | 1.87%   |
+| FreeBSD 13.0-p5      | 2         | 1.87%   |
+| FreeBSD 13.0-CURRENT | 2         | 1.87%   |
+| FreeBSD 12.2-p6      | 2         | 1.87%   |
+| FreeBSD 12.2-p4      | 2         | 1.87%   |
+| FreeBSD 12.2-p3      | 2         | 1.87%   |
+| FreeBSD 12.2-p2      | 2         | 1.87%   |
+| FreeBSD 12.1-p9      | 2         | 1.87%   |
+| OPNsense 22.7.4      | 1         | 0.93%   |
+| OPNsense 22.1.6      | 1         | 0.93%   |
+| OPNsense 22.1.10     | 1         | 0.93%   |
+| OPNsense 21.1.4      | 1         | 0.93%   |
+| OPNsense 21.1.3      | 1         | 0.93%   |
+| OPNsense 21.1.1      | 1         | 0.93%   |
+| OpenBSD 7.2          | 1         | 0.93%   |
+| OpenBSD 7.0          | 1         | 0.93%   |
+| OpenBSD 6.9          | 1         | 0.93%   |
+| NomadBSD 1.4         | 1         | 0.93%   |
+| helloSystem          | 1         | 0.93%   |
+| GhostBSD 22.08.06    | 1         | 0.93%   |
+| GhostBSD 22.06.26    | 1         | 0.93%   |
+| GhostBSD 22.06.07    | 1         | 0.93%   |
+| GhostBSD 22.01.12    | 1         | 0.93%   |
+| GhostBSD 21.08.27    | 1         | 0.93%   |
+| FuryBSD 12.1-p9      | 1         | 0.93%   |
+| FreeBSD 13.1-p4      | 1         | 0.93%   |
 
 OS Family
 ---------
@@ -441,9 +444,9 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 64        | 83.12%  |
-| Console | 11        | 14.29%  |
-| Wayland | 2         | 2.6%    |
+| X11     | 64        | 82.05%  |
+| Console | 12        | 15.38%  |
+| Wayland | 2         | 2.56%   |
 
 Display Manager
 ---------------
@@ -673,16 +676,16 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 9         | 11.84%  |
+| 2020 | 8         | 10.53%  |
 | 2011 | 8         | 10.53%  |
 | 2016 | 7         | 9.21%   |
 | 2010 | 7         | 9.21%   |
 | 2019 | 6         | 7.89%   |
 | 2013 | 6         | 7.89%   |
 | 2009 | 6         | 7.89%   |
+| 2018 | 5         | 6.58%   |
 | 2012 | 5         | 6.58%   |
 | 2021 | 4         | 5.26%   |
-| 2018 | 4         | 5.26%   |
 | 2022 | 3         | 3.95%   |
 | 2015 | 3         | 3.95%   |
 | 2008 | 3         | 3.95%   |
@@ -896,11 +899,11 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 24        | 42     | 25.26%  |
-| WDC                 | 12        | 16     | 12.63%  |
-| Toshiba             | 8         | 20     | 8.42%   |
+| Samsung Electronics | 24        | 43     | 25.26%  |
+| WDC                 | 12        | 17     | 12.63%  |
+| Toshiba             | 8         | 21     | 8.42%   |
 | Seagate             | 7         | 7      | 7.37%   |
-| HGST                | 6         | 22     | 6.32%   |
+| HGST                | 6         | 23     | 6.32%   |
 | Intel               | 4         | 4      | 4.21%   |
 | Hitachi             | 4         | 4      | 4.21%   |
 | Transcend           | 3         | 4      | 3.16%   |
@@ -989,8 +992,8 @@ Hard disk drive vendors
 |---------------------|-----------|--------|---------|
 | Seagate             | 7         | 7      | 20.59%  |
 | WDC                 | 6         | 7      | 17.65%  |
-| HGST                | 6         | 22     | 17.65%  |
-| Toshiba             | 5         | 15     | 14.71%  |
+| HGST                | 6         | 23     | 17.65%  |
+| Toshiba             | 5         | 16     | 14.71%  |
 | Hitachi             | 4         | 4      | 11.76%  |
 | Samsung Electronics | 3         | 3      | 8.82%   |
 | NVMe                | 2         | 2      | 5.88%   |
@@ -1006,8 +1009,8 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 15        | 31     | 31.91%  |
-| WDC                 | 6         | 9      | 12.77%  |
+| Samsung Electronics | 15        | 32     | 31.91%  |
+| WDC                 | 6         | 10     | 12.77%  |
 | SanDisk             | 3         | 3      | 6.38%   |
 | Kingston            | 3         | 3      | 6.38%   |
 | Intel               | 3         | 3      | 6.38%   |
@@ -1039,8 +1042,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 42        | 67     | 50%     |
-| HDD  | 28        | 66     | 33.33%  |
+| SSD  | 42        | 69     | 50%     |
+| HDD  | 28        | 68     | 33.33%  |
 | NVMe | 14        | 19     | 16.67%  |
 
 Drive Connector
@@ -1053,7 +1056,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 63        | 133    | 81.82%  |
+| SATA | 63        | 137    | 81.82%  |
 | NVMe | 14        | 19     | 18.18%  |
 
 Drive Size
@@ -1066,8 +1069,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 55        | 111    | 82.09%  |
-| 0.51-1.0   | 10        | 19     | 14.93%  |
+| 0.01-0.5   | 55        | 114    | 82.09%  |
+| 0.51-1.0   | 10        | 20     | 14.93%  |
 | 1.01-2.0   | 2         | 3      | 2.99%   |
 
 Space Total
@@ -1124,7 +1127,7 @@ Drive models with a malfunction
 | Micron Technology MTFDDAK256MAM-1K12 256GB       | 1         | 1      | 6.25%   |
 | Hitachi HTS545032B9A302 320GB                    | 1         | 1      | 6.25%   |
 | Hitachi HTS543232A7A384 320GB                    | 1         | 1      | 6.25%   |
-| HGST HTS721010A9E630 1TB                         | 1         | 10     | 6.25%   |
+| HGST HTS721010A9E630 1TB                         | 1         | 11     | 6.25%   |
 | HGST HTS541010A9E680 1TB                         | 1         | 1      | 6.25%   |
 | A-DATA Technology SP550 240GB                    | 1         | 1      | 6.25%   |
 
@@ -1138,7 +1141,7 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 5         | 21     | 33.33%  |
+| HGST                | 5         | 22     | 33.33%  |
 | WDC                 | 2         | 2      | 13.33%  |
 | Seagate             | 2         | 2      | 13.33%  |
 | Samsung Electronics | 2         | 2      | 13.33%  |
@@ -1156,7 +1159,7 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 5         | 21     | 41.67%  |
+| HGST                | 5         | 22     | 41.67%  |
 | WDC                 | 2         | 2      | 16.67%  |
 | Seagate             | 2         | 2      | 16.67%  |
 | Hitachi             | 2         | 2      | 16.67%  |
@@ -1172,7 +1175,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 11        | 28     | 78.57%  |
+| HDD  | 11        | 29     | 78.57%  |
 | SSD  | 3         | 3      | 21.43%  |
 
 Failed Drives
@@ -1199,8 +1202,8 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 64        | 114    | 77.11%  |
-| Malfunc  | 14        | 31     | 16.87%  |
+| Works    | 64        | 117    | 77.11%  |
+| Malfunc  | 14        | 32     | 16.87%  |
 | Detected | 5         | 7      | 6.02%   |
 
 Storage controller
@@ -1218,9 +1221,9 @@ Storage controller vendors
 |--------------------------------|-----------|---------|
 | Intel                          | 59        | 72.84%  |
 | Samsung Electronics            | 7         | 8.64%   |
+| Transcend                      | 3         | 3.7%    |
 | Nvidia                         | 3         | 3.7%    |
 | AMD                            | 3         | 3.7%    |
-| Unknown                        | 3         | 3.7%    |
 | Toshiba                        | 2         | 2.47%   |
 | Solid State Storage Technology | 1         | 1.23%   |
 | SK hynix                       | 1         | 1.23%   |

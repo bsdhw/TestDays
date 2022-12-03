@@ -465,12 +465,12 @@ Motherboard manufacture year
 | 2009 | 5         | 10%     |
 | 2019 | 3         | 6%      |
 | 2018 | 3         | 6%      |
-| 2014 | 3         | 6%      |
 | 2010 | 3         | 6%      |
+| 2014 | 2         | 4%      |
 | 2013 | 2         | 4%      |
+| 2012 | 2         | 4%      |
 | 2017 | 1         | 2%      |
 | 2016 | 1         | 2%      |
-| 2012 | 1         | 2%      |
 | 2008 | 1         | 2%      |
 | 2007 | 1         | 2%      |
 | 2006 | 1         | 2%      |
@@ -740,7 +740,7 @@ Hard drive models
 | Seagate ST9500420AS 500GB         | 1         | 1.75%   |
 | Seagate ST9320423AS 320GB         | 1         | 1.75%   |
 | Seagate ST9160821A 160GB          | 1         | 1.75%   |
-| SanDisk Cruzer Blade 32GB         | 1         | 1.75%   |
+| SanDisk Cruzer Blade 16GB         | 1         | 1.75%   |
 | Samsung SSD 860 EVO 1TB           | 1         | 1.75%   |
 | Samsung SSD 850 EVO 500GB         | 1         | 1.75%   |
 | Samsung SSD 840 EVO 120GB         | 1         | 1.75%   |
@@ -1021,7 +1021,7 @@ Storage controller models
 | Intel 82801CAM IDE U100 Controller                                                     | 2         | 3.39%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                           | 2         | 3.39%   |
 | AMD FCH SATA Controller [AHCI mode]                                                    | 2         | 3.39%   |
-| Toshiba unknown                                                                        | 1         | 1.69%   |
+| Toshiba XG5 NVMe SSD Controller                                                        | 1         | 1.69%   |
 | SanDisk unknown                                                                        | 1         | 1.69%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                          | 1         | 1.69%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 1         | 1.69%   |
@@ -1917,7 +1917,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 7.14%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 7.14%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 7.14%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 7.14%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 1         | 7.14%   |
 | Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s  | 1         | 7.14%   |

@@ -661,7 +661,7 @@ Hard drive models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 5.71%   |
-| SanDisk pSSD 256GB                        | 2         | 5.71%   |
+| SanDisk pSSD 16GB                         | 2         | 5.71%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 2.86%   |
 | WDC WD10SPZX-00Z10T0 1TB                  | 1         | 2.86%   |
 | WDC WD10JPVX-22JC3T0 1TB                  | 1         | 2.86%   |

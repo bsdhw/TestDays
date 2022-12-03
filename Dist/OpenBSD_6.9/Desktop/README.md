@@ -670,7 +670,7 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| OPENBSD SR RAID 1 2TB             | 5        | 7.94%   |
+| OPENBSD SR RAID 1 752GB           | 5        | 7.94%   |
 | Toshiba MQ04ABF100 1TB            | 2        | 3.17%   |
 | NVMe Samsung SSD 970 250GB        | 2        | 3.17%   |
 | HGST HUS724020ALA640 2TB          | 2        | 3.17%   |
@@ -795,11 +795,11 @@ Size of hard drive
 
 | Size in TB      | Desktops | Drives | Percent |
 |-----------------|----------|--------|---------|
-| 0.01-0.5        | 23       | 40     | 53.49%  |
-| 0.51-1.0        | 10       | 19     | 23.26%  |
-| 1.01-2.0        | 8        | 12     | 18.6%   |
-| More than 100.0 | 1        | 1      | 2.33%   |
-| 3.01-4.0        | 1        | 1      | 2.33%   |
+| 0.01-0.5        | 23       | 40     | 54.76%  |
+| 0.51-1.0        | 13       | 24     | 30.95%  |
+| 1.01-2.0        | 4        | 7      | 9.52%   |
+| More than 100.0 | 1        | 1      | 2.38%   |
+| 3.01-4.0        | 1        | 1      | 2.38%   |
 
 Space Total
 -----------
@@ -1213,7 +1213,7 @@ Graphics card models
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 1        | 3.23%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1        | 3.23%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 1        | 3.23%   |
-| Intel Kaby Lake-U GT1 Integrated Graphics Controller                          | 1        | 3.23%   |
+| Intel HD Graphics 610                                                         | 1        | 3.23%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                     | 1        | 3.23%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1        | 3.23%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1        | 3.23%   |
@@ -1225,7 +1225,7 @@ Graphics card models
 | AMD Renoir                                                                    | 1        | 3.23%   |
 | AMD ES1000                                                                    | 1        | 3.23%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                       | 1        | 3.23%   |
-| AMD Cezanne                                                                   | 1        | 3.23%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                  | 1        | 3.23%   |
 | AMD Caicos PRO [Radeon HD 7450]                                               | 1        | 3.23%   |
 
 GPU Combo
@@ -1690,29 +1690,29 @@ Sound card models
 ![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                                                             | Desktops | Percent |
-|-----------------------------------------------------------------------------------|----------|---------|
-| Intel Cannon Lake PCH cAVS                                                        | 3        | 10%     |
-| Nvidia GP106 High Definition Audio Controller                                     | 2        | 6.67%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller        | 2        | 6.67%   |
-| AMD Starship/Matisse HD Audio Controller                                          | 2        | 6.67%   |
-| AMD Renoir Radeon High Definition Audio Controller                                | 2        | 6.67%   |
-| AMD Navi 10 HDMI Audio                                                            | 2        | 6.67%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 2        | 6.67%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                               | 2        | 6.67%   |
-| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                         | 1        | 3.33%   |
-| Nvidia TU104 HD Audio Controller                                                  | 1        | 3.33%   |
-| Nvidia GM204 High Definition Audio Controller                                     | 1        | 3.33%   |
-| JMTek USB PnP Audio Device                                                        | 1        | 3.33%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 1        | 3.33%   |
-| Intel Tiger Lake-H HD Audio Controller                                            | 1        | 3.33%   |
-| Intel Sunrise Point-LP HD Audio                                                   | 1        | 3.33%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                           | 1        | 3.33%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1        | 3.33%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1        | 3.33%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                     | 1        | 3.33%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                        | 1        | 3.33%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1        | 3.33%   |
+| Model                                                                                           | Desktops | Percent |
+|-------------------------------------------------------------------------------------------------|----------|---------|
+| Intel Cannon Lake PCH cAVS                                                                      | 3        | 10%     |
+| Nvidia GP106 High Definition Audio Controller                                                   | 2        | 6.67%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                      | 2        | 6.67%   |
+| AMD Starship/Matisse HD Audio Controller                                                        | 2        | 6.67%   |
+| AMD Renoir Radeon High Definition Audio Controller                                              | 2        | 6.67%   |
+| AMD Navi 10 HDMI Audio                                                                          | 2        | 6.67%   |
+| AMD Family 17h/19h HD Audio Controller                                                          | 2        | 6.67%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                             | 2        | 6.67%   |
+| VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                                       | 1        | 3.33%   |
+| Nvidia TU104 HD Audio Controller                                                                | 1        | 3.33%   |
+| Nvidia GM204 High Definition Audio Controller                                                   | 1        | 3.33%   |
+| JMTek USB PnP Audio Device                                                                      | 1        | 3.33%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                | 1        | 3.33%   |
+| Intel Tiger Lake-H HD Audio Controller                                                          | 1        | 3.33%   |
+| Intel Sunrise Point-LP HD Audio                                                                 | 1        | 3.33%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                         | 1        | 3.33%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 1        | 3.33%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 1        | 3.33%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 3.33%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                      | 1        | 3.33%   |
+| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]               | 1        | 3.33%   |
 
 Memory
 ------

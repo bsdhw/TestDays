@@ -1859,48 +1859,48 @@ Sound card models
 ![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                                                                 | Desktops | Percent |
-|---------------------------------------------------------------------------------------|----------|---------|
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                   | 8        | 8.51%   |
-| AMD Starship/Matisse HD Audio Controller                                              | 7        | 7.45%   |
-| Nvidia GK107 HDMI Audio Controller                                                    | 5        | 5.32%   |
-| Nvidia GP107GL High Definition Audio Controller                                       | 4        | 4.26%   |
-| Nvidia GP104 High Definition Audio Controller                                         | 4        | 4.26%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller            | 4        | 4.26%   |
-| AMD FCH Azalia Controller                                                             | 4        | 4.26%   |
-| Nvidia GM206 High Definition Audio Controller                                         | 3        | 3.19%   |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                         | 3        | 3.19%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                                      | 3        | 3.19%   |
-| AMD Kabini HDMI/DP Audio                                                              | 3        | 3.19%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                            | 3        | 3.19%   |
-| SteelSeries ApS SteelSeries Arctis 7 Arctis 7 Chat Arctis 7 Game SteelSeries Arctis 7 | 2        | 2.13%   |
-| Nvidia GP108 High Definition Audio Controller                                         | 2        | 2.13%   |
-| Intel Cannon Lake PCH cAVS                                                            | 2        | 2.13%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                        | 2        | 2.13%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                   | 2        | 2.13%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                   | 2        | 2.13%   |
-| Intel 200 Series PCH HD Audio                                                         | 2        | 2.13%   |
-| AMD Family 17h/19h HD Audio Controller                                                | 2        | 2.13%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                          | 2        | 2.13%   |
-| VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller           | 1        | 1.06%   |
-| Nvidia TU116 High Definition Audio Controller                                         | 1        | 1.06%   |
-| Nvidia TU106 High Definition Audio Controller                                         | 1        | 1.06%   |
-| Nvidia TU104 HD Audio Controller                                                      | 1        | 1.06%   |
-| Nvidia MCP73 High Definition Audio                                                    | 1        | 1.06%   |
-| Nvidia GF108 High Definition Audio Controller                                         | 1        | 1.06%   |
-| Nvidia GF100 High Definition Audio Controller                                         | 1        | 1.06%   |
-| Nvidia GA104 High Definition Audio Controller                                         | 1        | 1.06%   |
-| Nam Tai E&E Products Sony SingStar USBMIC                                             | 1        | 1.06%   |
-| Logitech Logitech USB Microphone                                                      | 1        | 1.06%   |
-| Logitech HD Webcam C510                                                               | 1        | 1.06%   |
-| JMTek Sharkoon 7.1 Sound Extension                                                    | 1        | 1.06%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                      | 1        | 1.06%   |
-| Intel Sunrise Point-LP HD Audio                                                       | 1        | 1.06%   |
-| Intel 9 Series Chipset Family HD Audio Controller                                     | 1        | 1.06%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                       | 1        | 1.06%   |
-| Focusrite-Novation Scarlett Solo (3rd Gen.)                                           | 1        | 1.06%   |
-| Creative Technology Sound Blaster Omni Surround 5.1                                   | 1        | 1.06%   |
-| Creative Labs Sound Core3D [Sound Blaster Recon3D / Z-Series]                         | 1        | 1.06%   |
+| Model                                                                                           | Desktops | Percent |
+|-------------------------------------------------------------------------------------------------|----------|---------|
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                             | 8        | 8.51%   |
+| AMD Starship/Matisse HD Audio Controller                                                        | 7        | 7.45%   |
+| Nvidia GK107 HDMI Audio Controller                                                              | 5        | 5.32%   |
+| Nvidia GP107GL High Definition Audio Controller                                                 | 4        | 4.26%   |
+| Nvidia GP104 High Definition Audio Controller                                                   | 4        | 4.26%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                      | 4        | 4.26%   |
+| AMD FCH Azalia Controller                                                                       | 4        | 4.26%   |
+| Nvidia GM206 High Definition Audio Controller                                                   | 3        | 3.19%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]                                   | 3        | 3.19%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                | 3        | 3.19%   |
+| AMD Kabini HDMI/DP Audio                                                                        | 3        | 3.19%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                      | 3        | 3.19%   |
+| SteelSeries ApS SteelSeries Arctis 7 Arctis 7 Chat Arctis 7 Game SteelSeries Arctis 7           | 2        | 2.13%   |
+| Nvidia GP108 High Definition Audio Controller                                                   | 2        | 2.13%   |
+| Intel Cannon Lake PCH cAVS                                                                      | 2        | 2.13%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                  | 2        | 2.13%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 2        | 2.13%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 2.13%   |
+| Intel 200 Series PCH HD Audio                                                                   | 2        | 2.13%   |
+| AMD Family 17h/19h HD Audio Controller                                                          | 2        | 2.13%   |
+| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                    | 2        | 2.13%   |
+| VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller                     | 1        | 1.06%   |
+| Nvidia TU116 High Definition Audio Controller                                                   | 1        | 1.06%   |
+| Nvidia TU106 High Definition Audio Controller                                                   | 1        | 1.06%   |
+| Nvidia TU104 HD Audio Controller                                                                | 1        | 1.06%   |
+| Nvidia MCP73 High Definition Audio                                                              | 1        | 1.06%   |
+| Nvidia GF108 High Definition Audio Controller                                                   | 1        | 1.06%   |
+| Nvidia GF100 High Definition Audio Controller                                                   | 1        | 1.06%   |
+| Nvidia GA104 High Definition Audio Controller                                                   | 1        | 1.06%   |
+| Nam Tai E&E Products Sony SingStar USBMIC                                                       | 1        | 1.06%   |
+| Logitech Logitech USB Microphone                                                                | 1        | 1.06%   |
+| Logitech HD Webcam C510                                                                         | 1        | 1.06%   |
+| JMTek Sharkoon 7.1 Sound Extension                                                              | 1        | 1.06%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                | 1        | 1.06%   |
+| Intel Sunrise Point-LP HD Audio                                                                 | 1        | 1.06%   |
+| Intel 9 Series Chipset Family HD Audio Controller                                               | 1        | 1.06%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                 | 1        | 1.06%   |
+| Focusrite-Novation Scarlett Solo (3rd Gen.)                                                     | 1        | 1.06%   |
+| Creative Technology Sound Blaster Omni Surround 5.1                                             | 1        | 1.06%   |
+| Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.06%   |
 
 Memory
 ------

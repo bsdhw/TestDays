@@ -1241,42 +1241,42 @@ Graphics card models
 ![GPU Model](./images/pie_chart_bsd/gpu_model.svg)
 
 
-| Model                                                                              | Notebooks | Percent |
-|------------------------------------------------------------------------------------|-----------|---------|
-| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller      | 6         | 8.82%   |
-| Intel 3rd Gen Core processor Graphics Controller                                   | 6         | 8.82%   |
-| Intel HD Graphics 5500                                                             | 5         | 7.35%   |
-| Intel Mobile 945GSE Express Integrated Graphics Controller                         | 4         | 5.88%   |
-| Intel Core Processor Integrated Graphics Controller                                | 4         | 5.88%   |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller          | 4         | 5.88%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                         | 3         | 4.41%   |
-| Intel Mobile 4 Series Chipset Integrated Graphics Controller                       | 3         | 4.41%   |
-| AMD Renoir                                                                         | 3         | 4.41%   |
-| Intel UHD Graphics 620                                                             | 2         | 2.94%   |
-| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller          | 2         | 2.94%   |
-| Intel HD Graphics 620                                                              | 2         | 2.94%   |
-| Intel Haswell-ULT Integrated Graphics Controller                                   | 2         | 2.94%   |
-| AMD RV200/M7 [Mobility Radeon 7500]                                                | 2         | 2.94%   |
-| Nvidia TU117M                                                                      | 1         | 1.47%   |
-| Nvidia GT216M [GeForce GT 330M]                                                    | 1         | 1.47%   |
-| Nvidia GP108M [GeForce MX330]                                                      | 1         | 1.47%   |
-| Nvidia GP108M [GeForce MX150]                                                      | 1         | 1.47%   |
-| Nvidia GM108M [GeForce 940M]                                                       | 1         | 1.47%   |
-| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                                | 1         | 1.47%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                | 1         | 1.47%   |
-| Intel Iris Plus Graphics G7                                                        | 1         | 1.47%   |
-| Intel HD Graphics 5300                                                             | 1         | 1.47%   |
-| Intel HD Graphics 500                                                              | 1         | 1.47%   |
-| Intel GeminiLake [UHD Graphics 605]                                                | 1         | 1.47%   |
-| Intel GeminiLake [UHD Graphics 600]                                                | 1         | 1.47%   |
-| Intel CometLake-U GT2 [UHD Graphics]                                               | 1         | 1.47%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Integrated Graphics Controller | 1         | 1.47%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                       | 1         | 1.47%   |
-| AMD RV370/M22 [Mobility Radeon X300]                                               | 1         | 1.47%   |
-| AMD RV350/M10 / RV360/M11 [Mobility Radeon 9600 (PRO) / 9700]                      | 1         | 1.47%   |
-| AMD RS880M [Mobility Radeon HD 4225/4250]                                          | 1         | 1.47%   |
-| AMD Mars [Radeon HD 8670A/8670M/8750M / R7 M370]                                   | 1         | 1.47%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                         | 1         | 1.47%   |
+| Model                                                                         | Notebooks | Percent |
+|-------------------------------------------------------------------------------|-----------|---------|
+| Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 6         | 8.82%   |
+| Intel 3rd Gen Core processor Graphics Controller                              | 6         | 8.82%   |
+| Intel HD Graphics 5500                                                        | 5         | 7.35%   |
+| Intel Mobile 945GSE Express Integrated Graphics Controller                    | 4         | 5.88%   |
+| Intel Core Processor Integrated Graphics Controller                           | 4         | 5.88%   |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 4         | 5.88%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 3         | 4.41%   |
+| Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 3         | 4.41%   |
+| AMD Renoir                                                                    | 3         | 4.41%   |
+| Intel UHD Graphics 620                                                        | 2         | 2.94%   |
+| Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 2.94%   |
+| Intel HD Graphics 620                                                         | 2         | 2.94%   |
+| Intel Haswell-ULT Integrated Graphics Controller                              | 2         | 2.94%   |
+| AMD RV200/M7 [Mobility Radeon 7500]                                           | 2         | 2.94%   |
+| Nvidia TU117M                                                                 | 1         | 1.47%   |
+| Nvidia GT216M [GeForce GT 330M]                                               | 1         | 1.47%   |
+| Nvidia GP108M [GeForce MX330]                                                 | 1         | 1.47%   |
+| Nvidia GP108M [GeForce MX150]                                                 | 1         | 1.47%   |
+| Nvidia GM108M [GeForce 940M]                                                  | 1         | 1.47%   |
+| Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 1.47%   |
+| Intel Skylake GT2 [HD Graphics 520]                                           | 1         | 1.47%   |
+| Intel Iris Plus Graphics G7                                                   | 1         | 1.47%   |
+| Intel HD Graphics 5300                                                        | 1         | 1.47%   |
+| Intel HD Graphics 500                                                         | 1         | 1.47%   |
+| Intel GeminiLake [UHD Graphics 605]                                           | 1         | 1.47%   |
+| Intel GeminiLake [UHD Graphics 600]                                           | 1         | 1.47%   |
+| Intel CometLake-U GT2 [UHD Graphics]                                          | 1         | 1.47%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1         | 1.47%   |
+| Intel Apollo Lake [HD Graphics 505]                                           | 1         | 1.47%   |
+| AMD RV370/M22 [Mobility Radeon X300]                                          | 1         | 1.47%   |
+| AMD RV350/M10 / RV360/M11 [Mobility Radeon 9600 (PRO) / 9700]                 | 1         | 1.47%   |
+| AMD RS880M [Mobility Radeon HD 4225/4250]                                     | 1         | 1.47%   |
+| AMD Mars [Radeon HD 8670A/8670M/8750M / R7 M370]                              | 1         | 1.47%   |
+| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                    | 1         | 1.47%   |
 
 GPU Combo
 ---------
@@ -1903,7 +1903,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 8.33%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 8.33%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 8.33%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 8.33%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 1         | 8.33%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 8.33%   |
 | Samsung RAM M471A2G44AM0-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 8.33%   |

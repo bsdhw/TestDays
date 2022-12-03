@@ -508,11 +508,11 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 17       | 18.89%  |
+| 2018 | 16       | 17.78%  |
 | 2014 | 12       | 13.33%  |
 | 2020 | 9        | 10%     |
+| 2016 | 9        | 10%     |
 | 2019 | 8        | 8.89%   |
-| 2016 | 8        | 8.89%   |
 | 2013 | 8        | 8.89%   |
 | 2012 | 7        | 7.78%   |
 | 2011 | 5        | 5.56%   |
@@ -770,7 +770,7 @@ Hard drive vendors
 | Micron Technology   | 3        | 3      | 1.82%   |
 | PNY                 | 2        | 2      | 1.21%   |
 | Intel               | 2        | 2      | 1.21%   |
-| GOODRAM             | 2        | 2      | 1.21%   |
+| Goodram             | 2        | 2      | 1.21%   |
 | Gigabyte Technology | 2        | 3      | 1.21%   |
 | Corsair             | 2        | 2      | 1.21%   |
 | Transcend           | 1        | 1      | 0.61%   |
@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 2        | 1%      |
 | Seagate ST1000DM003-1ER162 1TB      | 2        | 1%      |
 | SanDisk SDSSDA240G 240GB            | 2        | 1%      |
-| SanDisk pSSD 256GB                  | 2        | 1%      |
+| SanDisk pSSD 16GB                   | 2        | 1%      |
 | Samsung SSD 960 EVO 500GB           | 2        | 1%      |
 | Samsung SSD 960 EVO 250GB           | 2        | 1%      |
 | Samsung SSD 840 EVO 1TB             | 2        | 1%      |
@@ -2095,7 +2095,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
 | Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.84%   |
 | Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
 | Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
 | SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |
@@ -2178,7 +2178,7 @@ Memory module speed
 | 1333    | 21       | 22.34%  |
 | 2400    | 13       | 13.83%  |
 | 800     | 7        | 7.45%   |
-| 3200    | 4        | 4.26%   |
+| 3200    | 5        | 5.32%   |
 | 2133    | 4        | 4.26%   |
 | 2666    | 3        | 3.19%   |
 | 2667    | 2        | 2.13%   |
@@ -2188,7 +2188,6 @@ Memory module speed
 | 1066    | 2        | 2.13%   |
 | 3600    | 1        | 1.06%   |
 | 2933    | 1        | 1.06%   |
-| 2800    | 1        | 1.06%   |
 | 667     | 1        | 1.06%   |
 | Unknown | 1        | 1.06%   |
 
