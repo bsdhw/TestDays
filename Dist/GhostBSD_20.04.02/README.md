@@ -563,17 +563,17 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 17        | 15.6%   |
 | 2018 | 14        | 12.84%  |
-| 2013 | 11        | 10.09%  |
+| 2013 | 12        | 11.01%  |
 | 2019 | 10        | 9.17%   |
 | 2014 | 10        | 9.17%   |
-| 2012 | 9         | 8.26%   |
+| 2012 | 10        | 9.17%   |
 | 2017 | 7         | 6.42%   |
 | 2015 | 7         | 6.42%   |
 | 2011 | 6         | 5.5%    |
 | 2009 | 5         | 4.59%   |
-| 2016 | 4         | 3.67%   |
 | 2008 | 4         | 3.67%   |
 | 2010 | 3         | 2.75%   |
+| 2016 | 2         | 1.83%   |
 | 2021 | 1         | 0.92%   |
 | 2007 | 1         | 0.92%   |
 
@@ -1602,7 +1602,7 @@ Monitor models
 | Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch     | 1         | 0.94%   |
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 300x170mm 13.6-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |

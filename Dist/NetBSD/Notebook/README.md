@@ -235,7 +235,7 @@ Desktop Environment
 | Console      | 6         | 33.33%  |
 | XFCE         | 4         | 22.22%  |
 | Fluxbox      | 2         | 11.11%  |
-| ctwm         | 2         | 11.11%  |
+| CTWM         | 2         | 11.11%  |
 | MATE         | 1         | 5.56%   |
 | helloDesktop | 1         | 5.56%   |
 | DWM          | 1         | 5.56%   |
@@ -1123,7 +1123,7 @@ Monitor models
 | LG Display LCD Monitor LGD03CD 1366x768 280x160mm 12.7-inch          | 1         | 10%     |
 | LG Display LCD Monitor LGD0335 1366x768 310x170mm 13.9-inch          | 1         | 10%     |
 | LG Display LCD Monitor LGD029E 1600x900 340x190mm 15.3-inch          | 1         | 10%     |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch              | 1         | 10%     |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch              | 1         | 10%     |
 | Chimei Innolux LCD Monitor CMN15AB 1366x768 340x190mm 15.3-inch      | 1         | 10%     |
 | Chimei Innolux LCD Monitor CMN1472 1366x768 310x170mm 13.9-inch      | 1         | 10%     |
 | Apple LCD Monitor APP9C5F 1280x800 290x180mm 13.4-inch               | 1         | 10%     |

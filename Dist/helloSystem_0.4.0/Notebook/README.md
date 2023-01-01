@@ -519,13 +519,13 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 17        | 18.48%  |
+| 2013 | 18        | 19.57%  |
 | 2009 | 10        | 10.87%  |
 | 2018 | 8         | 8.7%    |
 | 2017 | 8         | 8.7%    |
-| 2016 | 8         | 8.7%    |
 | 2020 | 7         | 7.61%   |
 | 2019 | 7         | 7.61%   |
+| 2016 | 7         | 7.61%   |
 | 2015 | 6         | 6.52%   |
 | 2014 | 5         | 5.43%   |
 | 2010 | 5         | 5.43%   |
@@ -1502,7 +1502,7 @@ Monitor models
 | LG Display LCD Monitor LGD0258 1600x900 350x190mm 15.7-inch           | 1         | 1.32%   |
 | LG Display LCD Monitor LGD0213 1600x900 310x170mm 13.9-inch           | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.32%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.32%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 1.32%   |

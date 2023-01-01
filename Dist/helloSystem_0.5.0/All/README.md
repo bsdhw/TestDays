@@ -524,8 +524,8 @@ EFI or BIOS
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
-| EFI  | 197       | 80.41%  |
-| BIOS | 48        | 19.59%  |
+| EFI  | 198       | 80.82%  |
+| BIOS | 47        | 19.18%  |
 
 Filesystem
 ----------
@@ -1190,9 +1190,9 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 1-20       | 155       | 62.5%   |
+| 1-20       | 156       | 62.9%   |
 | 101-250    | 37        | 14.92%  |
-| 251-500    | 25        | 10.08%  |
+| 251-500    | 24        | 9.68%   |
 | 501-1000   | 18        | 7.26%   |
 | 51-100     | 7         | 2.82%   |
 | 21-50      | 4         | 1.61%   |
@@ -1883,7 +1883,7 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S24C350 SAM0A3A 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 480x270mm 21.7-inch    | 1         | 0.52%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 300x170mm 13.6-inch | 1         | 0.52%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC354C 1366x768 350x200mm 15.9-inch | 1         | 0.52%   |
 
@@ -2676,16 +2676,14 @@ Memory module speed
 | 1334    | 12        | 4.46%   |
 | 667     | 11        | 4.09%   |
 | 3200    | 10        | 3.72%   |
-| 1867    | 6         | 2.23%   |
+| 1867    | 7         | 2.6%    |
 | 2666    | 5         | 1.86%   |
 | 1067    | 4         | 1.49%   |
 | Unknown | 4         | 1.49%   |
 | 1866    | 3         | 1.12%   |
 | 533     | 3         | 1.12%   |
+| 3000    | 2         | 0.74%   |
 | 1066    | 2         | 0.74%   |
-| 3000    | 1         | 0.37%   |
-| 2933    | 1         | 0.37%   |
-| 1800    | 1         | 0.37%   |
 | 975     | 1         | 0.37%   |
 | 333     | 1         | 0.37%   |
 

@@ -1780,7 +1780,7 @@ Memory module models
 | Crucial RAM BLS4G4D240FSE.8FBD 4GB DIMM DDR4 2400MT/s | 1        | 4%      |
 | Corsair RAM CMV8GX3M1A160 8GB DIMM DDR3 800MT/s       | 1        | 4%      |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s | 1        | 4%      |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 2933MT/s | 1        | 4%      |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s | 1        | 4%      |
 | A-DATA RAM Module 8GB DIMM DDR4 2666MT/s              | 1        | 4%      |
 
 Memory Kind
@@ -1841,11 +1841,12 @@ Memory module speed
 | 1600    | 5        | 20.83%  |
 | 2133    | 3        | 12.5%   |
 | 3200    | 2        | 8.33%   |
-| 2933    | 2        | 8.33%   |
 | 2667    | 2        | 8.33%   |
 | 2400    | 2        | 8.33%   |
 | 1333    | 2        | 8.33%   |
 | 800     | 2        | 8.33%   |
+| 3000    | 1        | 4.17%   |
+| 2933    | 1        | 4.17%   |
 | 2666    | 1        | 4.17%   |
 | 667     | 1        | 4.17%   |
 | 400     | 1        | 4.17%   |

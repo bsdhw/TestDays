@@ -610,7 +610,7 @@ Hard drive models
 | Samsung SSD 860 EVO mSATA 500GB | 3        | 9.68%   |
 | WDC WD6400AARS-00Y5B1 640GB     | 2        | 6.45%   |
 | Seagate ST250DM000-1BD141 250GB | 2        | 6.45%   |
-| SanDisk Ultra Fit 16GB          | 2        | 6.45%   |
+| SanDisk Ultra Fit 128GB         | 2        | 6.45%   |
 | WDC WD1600AAJS-60B4A0 160GB     | 1        | 3.23%   |
 | Seagate ST500DM009-2DM14C 500GB | 1        | 3.23%   |
 | Seagate ST3320418AS 320GB       | 1        | 3.23%   |
@@ -624,7 +624,7 @@ Hard drive models
 | Samsung Flash Drive FIT 32GB    | 1        | 3.23%   |
 | Phison SATA SSD 64GB            | 1        | 3.23%   |
 | Phison SATA SSD 16GB            | 1        | 3.23%   |
-| OPENBSD SR RAID 1 752GB         | 1        | 3.23%   |
+| OPENBSD SR RAID 1 1TB           | 1        | 3.23%   |
 | LSI Logical Volume 597GB        | 1        | 3.23%   |
 | Kingston SUV500MS240G 240GB     | 1        | 3.23%   |
 | Kingston DataTraveler G3 8GB    | 1        | 3.23%   |

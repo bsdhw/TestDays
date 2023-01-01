@@ -1508,7 +1508,7 @@ Monitor models
 | LG Display LCD Monitor LGD03CD 1366x768 280x160mm 12.7-inch           | 1         | 4%      |
 | LG Display LCD Monitor LGD0335 1366x768 310x170mm 13.9-inch           | 1         | 4%      |
 | LG Display LCD Monitor LGD029E 1600x900 340x190mm 15.3-inch           | 1         | 4%      |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 4%      |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 4%      |
 | Impression R19W11 IMP1911 1440x900 410x260mm 19.1-inch                | 1         | 4%      |
 | Goldstar W1952 GSM4B78 1440x900 410x260mm 19.1-inch                   | 1         | 4%      |
 | Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch           | 1         | 4%      |
@@ -2150,12 +2150,13 @@ Memory module speed
 | 2133    | 3         | 7.32%   |
 | 1333    | 3         | 7.32%   |
 | 3200    | 2         | 4.88%   |
-| 2933    | 2         | 4.88%   |
 | 2667    | 2         | 4.88%   |
 | 2400    | 2         | 4.88%   |
 | 1334    | 2         | 4.88%   |
 | 1067    | 2         | 4.88%   |
 | 800     | 2         | 4.88%   |
+| 3000    | 1         | 2.44%   |
+| 2933    | 1         | 2.44%   |
 | 2666    | 1         | 2.44%   |
 | 1867    | 1         | 2.44%   |
 | 1066    | 1         | 2.44%   |

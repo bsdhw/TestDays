@@ -746,7 +746,7 @@ Hard drive models
 | SK hynix SC311 SATA 256GB        | 1         | 1.79%   |
 | Seagate ST9160821A 160GB         | 1         | 1.79%   |
 | Seagate ST500LT012-9WS142 500GB  | 1         | 1.79%   |
-| SanDisk Ultra Fit 16GB           | 1         | 1.79%   |
+| SanDisk Ultra Fit 128GB          | 1         | 1.79%   |
 | SanDisk SSD PLUS 120GB           | 1         | 1.79%   |
 | SanDisk SD7SN3Q128G1002 128GB    | 1         | 1.79%   |
 | Samsung SSD 860 PRO 256GB        | 1         | 1.79%   |

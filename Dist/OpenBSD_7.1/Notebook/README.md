@@ -677,7 +677,7 @@ Hard drive models
 |----------------------------------|-----------|---------|
 | Samsung HM321HI 320GB            | 3         | 7.14%   |
 | NVMe WDC PC SN530 SDB 256GB      | 2         | 4.76%   |
-| NVMe Samsung SSD 980 1TB         | 2         | 4.76%   |
+| NVMe Samsung SSD 980 2TB         | 2         | 4.76%   |
 | Innostor SSD 15GB                | 2         | 4.76%   |
 | Apacer AS340 240GB               | 2         | 4.76%   |
 | WDC WD7500BPKX-00HPJT0 752GB     | 1         | 2.38%   |
@@ -789,7 +789,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 23        | 27     | 63.89%  |
-| 0.51-1.0   | 13        | 14     | 36.11%  |
+| 0.51-1.0   | 11        | 12     | 30.56%  |
+| 1.01-2.0   | 2         | 2      | 5.56%   |
 
 Space Total
 -----------
@@ -1281,7 +1282,7 @@ Monitor models
 | LG Display LCD Monitor LGD05FA 1920x1080 310x170mm 13.9-inch             | 1         | 3.85%   |
 | LG Display LCD Monitor LGD0215 1920x1080 350x190mm 15.7-inch             | 1         | 3.85%   |
 | LG Display LCD Monitor LGD01AB 1280x800 260x160mm 12.0-inch              | 1         | 3.85%   |
-| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch                  | 1         | 3.85%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                  | 1         | 3.85%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch          | 1         | 3.85%   |
 | Chimei Innolux LCD Monitor CMN15D7 1920x1080 340x190mm 15.3-inch         | 1         | 3.85%   |
 | Chimei Innolux LCD Monitor CMN152E 1920x1080 340x190mm 15.3-inch         | 1         | 3.85%   |

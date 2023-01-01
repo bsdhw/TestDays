@@ -508,20 +508,20 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2018 | 16       | 17.78%  |
+| 2018 | 15       | 16.67%  |
 | 2014 | 12       | 13.33%  |
 | 2020 | 9        | 10%     |
-| 2016 | 9        | 10%     |
 | 2019 | 8        | 8.89%   |
+| 2016 | 8        | 8.89%   |
 | 2013 | 8        | 8.89%   |
-| 2012 | 7        | 7.78%   |
+| 2012 | 8        | 8.89%   |
 | 2011 | 5        | 5.56%   |
 | 2009 | 4        | 4.44%   |
 | 2017 | 3        | 3.33%   |
+| 2010 | 3        | 3.33%   |
 | 2008 | 3        | 3.33%   |
 | 2021 | 2        | 2.22%   |
 | 2015 | 2        | 2.22%   |
-| 2010 | 2        | 2.22%   |
 
 Form Factor
 -----------
@@ -770,7 +770,7 @@ Hard drive vendors
 | Micron Technology   | 3        | 3      | 1.82%   |
 | PNY                 | 2        | 2      | 1.21%   |
 | Intel               | 2        | 2      | 1.21%   |
-| Goodram             | 2        | 2      | 1.21%   |
+| GOODRAM             | 2        | 2      | 1.21%   |
 | Gigabyte Technology | 2        | 3      | 1.21%   |
 | Corsair             | 2        | 2      | 1.21%   |
 | Transcend           | 1        | 1      | 0.61%   |
@@ -1526,7 +1526,7 @@ Monitor models
 | Hewlett-Packard 23xi HWP3031 1920x1080 510x290mm 23.1-inch           | 1        | 1.49%   |
 | Hewlett-Packard 22cw HWP3183 1920x1080 480x270mm 21.7-inch           | 1        | 1.49%   |
 | HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch           | 1        | 1.49%   |
-| Goldstar W1942 GSM4B6F 1440x900 410x260mm 19.1-inch                  | 1        | 1.49%   |
+| Goldstar W2242 GSM4B6F 1680x1050 490x320mm 23.0-inch                 | 1        | 1.49%   |
 | Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                 | 1        | 1.49%   |
 | Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch          | 1        | 1.49%   |
 | Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch           | 1        | 1.49%   |
@@ -1550,12 +1550,12 @@ Monitor screen resolution
 | 3840x2160 (4K)     | 5        | 7.81%   |
 | 1920x1200 (WUXGA)  | 4        | 6.25%   |
 | 2560x1440 (QHD)    | 3        | 4.69%   |
-| 1440x900 (WXGA+)   | 3        | 4.69%   |
+| 1680x1050 (WSXGA+) | 3        | 4.69%   |
 | 1280x1024 (SXGA)   | 3        | 4.69%   |
 | 3440x1440          | 2        | 3.13%   |
 | 2560x1080          | 2        | 3.13%   |
-| 1680x1050 (WSXGA+) | 2        | 3.13%   |
 | 1600x900 (HD+)     | 2        | 3.13%   |
+| 1440x900 (WXGA+)   | 2        | 3.13%   |
 | 1360x768           | 2        | 3.13%   |
 | 2048x1152          | 1        | 1.56%   |
 | 1920x540           | 1        | 1.56%   |
@@ -1574,8 +1574,8 @@ Diagonal size in inches
 | 27      | 12       | 18.18%  |
 | 24      | 12       | 18.18%  |
 | 21      | 11       | 16.67%  |
-| 23      | 9        | 13.64%  |
-| 19      | 7        | 10.61%  |
+| 23      | 10       | 15.15%  |
+| 19      | 6        | 9.09%   |
 | 34      | 4        | 6.06%   |
 | Unknown | 3        | 4.55%   |
 | 42      | 2        | 3.03%   |
@@ -1617,10 +1617,10 @@ Proportional relationship between the width and the height
 | Ratio | Desktops | Percent |
 |-------|----------|---------|
 | 16/9  | 47       | 74.6%   |
-| 16/10 | 8        | 12.7%   |
+| 16/10 | 7        | 11.11%  |
 | 21/9  | 4        | 6.35%   |
 | 5/4   | 3        | 4.76%   |
-| 3/2   | 1        | 1.59%   |
+| 3/2   | 2        | 3.17%   |
 
 Monitor Area
 ------------
@@ -1632,9 +1632,9 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 27       | 42.19%  |
+| 201-250        | 28       | 43.75%  |
 | 301-350        | 12       | 18.75%  |
-| 151-200        | 7        | 10.94%  |
+| 151-200        | 6        | 9.38%   |
 | 251-300        | 5        | 7.81%   |
 | 351-500        | 4        | 6.25%   |
 | Unknown        | 3        | 4.69%   |
@@ -2074,48 +2074,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2        | 1.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s               | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s               | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                     | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
-| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s             | 1        | 0.84%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s      | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s                 | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s               | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 0.84%   |
+| Model                                                        | Desktops | Percent |
+|--------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 3        | 2.52%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2        | 1.68%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s         | 2        | 1.68%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                 | 2        | 1.68%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2        | 1.68%   |
+| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s     | 2        | 1.68%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2        | 1.68%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR2                          | 1        | 0.84%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s               | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                 | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR2                          | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.84%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s             | 1        | 0.84%   |
+| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                   | 1        | 0.84%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s              | 1        | 0.84%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1        | 0.84%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s        | 1        | 0.84%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s         | 1        | 0.84%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s | 1        | 0.84%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s          | 1        | 0.84%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s          | 1        | 0.84%   |
 
 Memory Kind
 -----------
@@ -2174,20 +2174,21 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 27       | 28.72%  |
-| 1333    | 21       | 22.34%  |
+| 1600    | 28       | 29.79%  |
+| 1333    | 20       | 21.28%  |
 | 2400    | 13       | 13.83%  |
 | 800     | 7        | 7.45%   |
 | 3200    | 5        | 5.32%   |
 | 2133    | 4        | 4.26%   |
 | 2666    | 3        | 3.19%   |
-| 2667    | 2        | 2.13%   |
 | 1867    | 2        | 2.13%   |
 | 1866    | 2        | 2.13%   |
 | 1067    | 2        | 2.13%   |
 | 1066    | 2        | 2.13%   |
 | 3600    | 1        | 1.06%   |
+| 3000    | 1        | 1.06%   |
 | 2933    | 1        | 1.06%   |
+| 2667    | 1        | 1.06%   |
 | 667     | 1        | 1.06%   |
 | Unknown | 1        | 1.06%   |
 

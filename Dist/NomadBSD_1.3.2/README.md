@@ -473,11 +473,11 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 11        | 21.15%  |
 | 2019 | 6         | 11.54%  |
-| 2016 | 4         | 7.69%   |
+| 2013 | 5         | 9.62%   |
 | 2014 | 4         | 7.69%   |
-| 2013 | 4         | 7.69%   |
 | 2018 | 3         | 5.77%   |
 | 2017 | 3         | 5.77%   |
+| 2016 | 3         | 5.77%   |
 | 2015 | 3         | 5.77%   |
 | 2011 | 3         | 5.77%   |
 | 2008 | 3         | 5.77%   |
@@ -1408,8 +1408,8 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch                   | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 2.08%   |
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
 | Hewlett-Packard HPQ 8300 AiO HWP4212 1920x1080 510x290mm 23.1-inch        | 1         | 2.08%   |
@@ -1991,7 +1991,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
+| Samsung RAM M471A4G43MB1-CTD 0kB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.64%   |

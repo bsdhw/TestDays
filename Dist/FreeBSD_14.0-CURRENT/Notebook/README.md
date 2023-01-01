@@ -145,10 +145,14 @@ Contents
 Test Cases
 ----------
 
-Total: 109
+Total: 113
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Timi          | Redmi Book Pro 14 2022      | [ce5e882952](https://bsd-hardware.info/?probe=ce5e882952) | Dec 28, 2022 |
+| HP            | EliteBook 8570p             | [7cf06451fd](https://bsd-hardware.info/?probe=7cf06451fd) | Dec 17, 2022 |
+| HP            | EliteBook 8570p             | [64c92d49d9](https://bsd-hardware.info/?probe=64c92d49d9) | Dec 12, 2022 |
+| HP            | EliteBook 8570p             | [6d10b2a0b4](https://bsd-hardware.info/?probe=6d10b2a0b4) | Dec 11, 2022 |
 | HP            | EliteBook 8570p             | [3ad7cec298](https://bsd-hardware.info/?probe=3ad7cec298) | Nov 26, 2022 |
 | HP            | EliteBook 8570p             | [436a2d30f6](https://bsd-hardware.info/?probe=436a2d30f6) | Nov 16, 2022 |
 | Dell          | Latitude E7240              | [ea99621380](https://bsd-hardware.info/?probe=ea99621380) | Nov 12, 2022 |
@@ -272,8 +276,8 @@ OS architecture (x86_64, i586, etc.)
 
 | Name  | Notebooks | Percent |
 |-------|-----------|---------|
-| amd64 | 57        | 98.28%  |
-| i386  | 1         | 1.72%   |
+| amd64 | 58        | 98.31%  |
+| i386  | 1         | 1.69%   |
 
 DE
 --
@@ -285,23 +289,23 @@ Desktop Environment
 
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
-| KDE5          | 15        | 24.19%  |
-| XFCE          | 10        | 16.13%  |
-| TWM           | 5         | 8.06%   |
-| MATE          | 5         | 8.06%   |
-| GNOME         | 5         | 8.06%   |
-| Console       | 5         | 8.06%   |
-| i3            | 3         | 4.84%   |
-| Cinnamon      | 3         | 4.84%   |
-| LXDE          | 2         | 3.23%   |
-| Lumina        | 2         | 3.23%   |
-| Xfwm4         | 1         | 1.61%   |
-| Picom         | 1         | 1.61%   |
-| LXQt          | 1         | 1.61%   |
-| GNUstep       | 1         | 1.61%   |
-| Fluxbox       | 1         | 1.61%   |
-| Enlightenment | 1         | 1.61%   |
-| ctwm          | 1         | 1.61%   |
+| KDE5          | 15        | 23.81%  |
+| XFCE          | 10        | 15.87%  |
+| TWM           | 6         | 9.52%   |
+| MATE          | 5         | 7.94%   |
+| GNOME         | 5         | 7.94%   |
+| Console       | 5         | 7.94%   |
+| i3            | 3         | 4.76%   |
+| Cinnamon      | 3         | 4.76%   |
+| LXDE          | 2         | 3.17%   |
+| Lumina        | 2         | 3.17%   |
+| Xfwm4         | 1         | 1.59%   |
+| Picom         | 1         | 1.59%   |
+| LXQt          | 1         | 1.59%   |
+| GNUstep       | 1         | 1.59%   |
+| Fluxbox       | 1         | 1.59%   |
+| Enlightenment | 1         | 1.59%   |
+| ctwm          | 1         | 1.59%   |
 
 Display Server
 --------------
@@ -313,9 +317,9 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| X11     | 50        | 81.97%  |
-| Console | 9         | 14.75%  |
-| Wayland | 2         | 3.28%   |
+| X11     | 51        | 82.26%  |
+| Console | 9         | 14.52%  |
+| Wayland | 2         | 3.23%   |
 
 Display Manager
 ---------------
@@ -327,13 +331,13 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Console | 20        | 33.33%  |
-| SDDM    | 15        | 25%     |
-| SLiM    | 9         | 15%     |
-| GDM     | 7         | 11.67%  |
-| XDM     | 5         | 8.33%   |
-| LightDM | 3         | 5%      |
-| Ly      | 1         | 1.67%   |
+| Console | 21        | 34.43%  |
+| SDDM    | 15        | 24.59%  |
+| SLiM    | 9         | 14.75%  |
+| GDM     | 7         | 11.48%  |
+| XDM     | 5         | 8.2%    |
+| LightDM | 3         | 4.92%   |
+| Ly      | 1         | 1.64%   |
 
 OS Lang
 -------
@@ -345,16 +349,16 @@ Language
 
 | Lang             | Notebooks | Percent |
 |------------------|-----------|---------|
-| C                | 44        | 73.33%  |
-| en_US            | 6         | 10%     |
-| zh_CN            | 2         | 3.33%   |
-| en_GB            | 2         | 3.33%   |
-| pt_PT            | 1         | 1.67%   |
-| pl_PL            | 1         | 1.67%   |
-| it_IT.ISO8859-15 | 1         | 1.67%   |
-| fr_FR            | 1         | 1.67%   |
-| de_DE            | 1         | 1.67%   |
-| Unknown          | 1         | 1.67%   |
+| C                | 45        | 73.77%  |
+| en_US            | 6         | 9.84%   |
+| zh_CN            | 2         | 3.28%   |
+| en_GB            | 2         | 3.28%   |
+| pt_PT            | 1         | 1.64%   |
+| pl_PL            | 1         | 1.64%   |
+| it_IT.ISO8859-15 | 1         | 1.64%   |
+| fr_FR            | 1         | 1.64%   |
+| de_DE            | 1         | 1.64%   |
+| Unknown          | 1         | 1.64%   |
 
 Boot Mode
 ---------
@@ -366,8 +370,8 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| EFI  | 54        | 93.1%   |
-| BIOS | 4         | 6.9%    |
+| EFI  | 55        | 93.22%  |
+| BIOS | 4         | 6.78%   |
 
 Filesystem
 ----------
@@ -379,8 +383,8 @@ Type of filesystem
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| Zfs  | 45        | 77.59%  |
-| Ufs  | 13        | 22.41%  |
+| Zfs  | 46        | 77.97%  |
+| Ufs  | 13        | 22.03%  |
 
 Part. scheme
 ------------
@@ -392,8 +396,8 @@ Scheme of partitioning
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| GPT  | 56        | 96.55%  |
-| MBR  | 2         | 3.45%   |
+| GPT  | 57        | 96.61%  |
+| MBR  | 2         | 3.39%   |
 
 Board
 -----
@@ -408,21 +412,22 @@ Motherboard manufacturer
 
 | Name                           | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| Lenovo                         | 25        | 43.1%   |
-| Hewlett-Packard                | 8         | 13.79%  |
-| Dell                           | 8         | 13.79%  |
-| Apple                          | 3         | 5.17%   |
-| MSI                            | 2         | 3.45%   |
-| Framework                      | 2         | 3.45%   |
-| ASUSTek Computer               | 2         | 3.45%   |
-| Valve                          | 1         | 1.72%   |
-| System76                       | 1         | 1.72%   |
-| Notebook                       | 1         | 1.72%   |
-| Matsushita Electric Industrial | 1         | 1.72%   |
-| HUAWEI                         | 1         | 1.72%   |
-| Google                         | 1         | 1.72%   |
-| Avell High Performance         | 1         | 1.72%   |
-| A-DATA Technology              | 1         | 1.72%   |
+| Lenovo                         | 25        | 42.37%  |
+| Hewlett-Packard                | 8         | 13.56%  |
+| Dell                           | 8         | 13.56%  |
+| Apple                          | 3         | 5.08%   |
+| MSI                            | 2         | 3.39%   |
+| Framework                      | 2         | 3.39%   |
+| ASUSTek Computer               | 2         | 3.39%   |
+| Valve                          | 1         | 1.69%   |
+| Timi                           | 1         | 1.69%   |
+| System76                       | 1         | 1.69%   |
+| Notebook                       | 1         | 1.69%   |
+| Matsushita Electric Industrial | 1         | 1.69%   |
+| HUAWEI                         | 1         | 1.69%   |
+| Google                         | 1         | 1.69%   |
+| Avell High Performance         | 1         | 1.69%   |
+| A-DATA Technology              | 1         | 1.69%   |
 
 Model
 -----
@@ -434,46 +439,46 @@ Motherboard model
 
 | Name                                        | Notebooks | Percent |
 |---------------------------------------------|-----------|---------|
-| HP EliteBook 8570p                          | 3         | 5.17%   |
-| Framework Laptop                            | 2         | 3.45%   |
-| Valve Jupiter                               | 1         | 1.72%   |
-| System76 Gazelle                            | 1         | 1.72%   |
-| Notebook NS50_70MU                          | 1         | 1.72%   |
-| MSI GE76 Raider 10UG                        | 1         | 1.72%   |
-| MSI Bravo 15 A4DDR                          | 1         | 1.72%   |
-| Matsushita Electric Industrial CF-T2BW1AXR  | 1         | 1.72%   |
-| Lenovo XiaoXinPro-13ARE 2020 82DM           | 1         | 1.72%   |
-| Lenovo ThinkPad X395 20NL001SMX             | 1         | 1.72%   |
-| Lenovo ThinkPad X395 20NL000GPG             | 1         | 1.72%   |
-| Lenovo ThinkPad X270 20HM004JBR             | 1         | 1.72%   |
-| Lenovo ThinkPad X260 20F5A28AUK             | 1         | 1.72%   |
-| Lenovo ThinkPad X13 Gen 1 20T2003PRT        | 1         | 1.72%   |
-| Lenovo ThinkPad X1 Extreme Gen 3 20TLA055CD | 1         | 1.72%   |
-| Lenovo ThinkPad X1 Extreme 20MF000BUS       | 1         | 1.72%   |
-| Lenovo ThinkPad X1 Carbon 5th 20HQS1QC00    | 1         | 1.72%   |
-| Lenovo ThinkPad X1 Carbon 3rd 20BTS0BT00    | 1         | 1.72%   |
-| Lenovo ThinkPad T495s 20QKS1812F            | 1         | 1.72%   |
-| Lenovo ThinkPad T495 20NJ0010PB             | 1         | 1.72%   |
-| Lenovo ThinkPad T470p 20J7S0PM00            | 1         | 1.72%   |
-| Lenovo ThinkPad T430 2349H2G                | 1         | 1.72%   |
-| Lenovo ThinkPad T14s Gen 2i 20WM00B7MX      | 1         | 1.72%   |
-| Lenovo ThinkPad P15 Gen 1 20ST005VRT        | 1         | 1.72%   |
-| Lenovo ThinkPad P14s Gen 1 20Y1CTO1WW       | 1         | 1.72%   |
-| Lenovo ThinkPad E14 Gen 3 20Y7003SGE        | 1         | 1.72%   |
-| Lenovo ThinkPad E14 20RBCTO1WW              | 1         | 1.72%   |
-| Lenovo ThinkBook 14 G3 ACL 21A2             | 1         | 1.72%   |
-| Lenovo Legion 5P 15IMH05H 82AW              | 1         | 1.72%   |
-| Lenovo Legion 5 15IMH05 82AU                | 1         | 1.72%   |
-| Lenovo IdeaPad Gaming 3 15ARH05 82EY        | 1         | 1.72%   |
-| Lenovo IdeaPad 330-15ARR 81D2               | 1         | 1.72%   |
-| HUAWEI HN-WX9X                              | 1         | 1.72%   |
-| HP ZBook 17 G2                              | 1         | 1.72%   |
-| HP ProBook 455 G7                           | 1         | 1.72%   |
-| HP ProBook 440 G7                           | 1         | 1.72%   |
-| HP ProBook 440 G6                           | 1         | 1.72%   |
-| HP EliteBook Folio 9470m                    | 1         | 1.72%   |
-| Google Akemi                                | 1         | 1.72%   |
-| Dell Vostro 5490                            | 1         | 1.72%   |
+| HP EliteBook 8570p                          | 3         | 5.08%   |
+| Framework Laptop                            | 2         | 3.39%   |
+| Valve Jupiter                               | 1         | 1.69%   |
+| Timi Redmi Book Pro 14 2022                 | 1         | 1.69%   |
+| System76 Gazelle                            | 1         | 1.69%   |
+| Notebook NS50_70MU                          | 1         | 1.69%   |
+| MSI GE76 Raider 10UG                        | 1         | 1.69%   |
+| MSI Bravo 15 A4DDR                          | 1         | 1.69%   |
+| Matsushita Electric Industrial CF-T2BW1AXR  | 1         | 1.69%   |
+| Lenovo XiaoXinPro-13ARE 2020 82DM           | 1         | 1.69%   |
+| Lenovo ThinkPad X395 20NL001SMX             | 1         | 1.69%   |
+| Lenovo ThinkPad X395 20NL000GPG             | 1         | 1.69%   |
+| Lenovo ThinkPad X270 20HM004JBR             | 1         | 1.69%   |
+| Lenovo ThinkPad X260 20F5A28AUK             | 1         | 1.69%   |
+| Lenovo ThinkPad X13 Gen 1 20T2003PRT        | 1         | 1.69%   |
+| Lenovo ThinkPad X1 Extreme Gen 3 20TLA055CD | 1         | 1.69%   |
+| Lenovo ThinkPad X1 Extreme 20MF000BUS       | 1         | 1.69%   |
+| Lenovo ThinkPad X1 Carbon 5th 20HQS1QC00    | 1         | 1.69%   |
+| Lenovo ThinkPad X1 Carbon 3rd 20BTS0BT00    | 1         | 1.69%   |
+| Lenovo ThinkPad T495s 20QKS1812F            | 1         | 1.69%   |
+| Lenovo ThinkPad T495 20NJ0010PB             | 1         | 1.69%   |
+| Lenovo ThinkPad T470p 20J7S0PM00            | 1         | 1.69%   |
+| Lenovo ThinkPad T430 2349H2G                | 1         | 1.69%   |
+| Lenovo ThinkPad T14s Gen 2i 20WM00B7MX      | 1         | 1.69%   |
+| Lenovo ThinkPad P15 Gen 1 20ST005VRT        | 1         | 1.69%   |
+| Lenovo ThinkPad P14s Gen 1 20Y1CTO1WW       | 1         | 1.69%   |
+| Lenovo ThinkPad E14 Gen 3 20Y7003SGE        | 1         | 1.69%   |
+| Lenovo ThinkPad E14 20RBCTO1WW              | 1         | 1.69%   |
+| Lenovo ThinkBook 14 G3 ACL 21A2             | 1         | 1.69%   |
+| Lenovo Legion 5P 15IMH05H 82AW              | 1         | 1.69%   |
+| Lenovo Legion 5 15IMH05 82AU                | 1         | 1.69%   |
+| Lenovo IdeaPad Gaming 3 15ARH05 82EY        | 1         | 1.69%   |
+| Lenovo IdeaPad 330-15ARR 81D2               | 1         | 1.69%   |
+| HUAWEI HN-WX9X                              | 1         | 1.69%   |
+| HP ZBook 17 G2                              | 1         | 1.69%   |
+| HP ProBook 455 G7                           | 1         | 1.69%   |
+| HP ProBook 440 G7                           | 1         | 1.69%   |
+| HP ProBook 440 G6                           | 1         | 1.69%   |
+| HP EliteBook Folio 9470m                    | 1         | 1.69%   |
+| Google Akemi                                | 1         | 1.69%   |
 
 Model Family
 ------------
@@ -485,36 +490,37 @@ Motherboard model prefix
 
 | Name                                       | Notebooks | Percent |
 |--------------------------------------------|-----------|---------|
-| Lenovo ThinkPad                            | 18        | 31.03%  |
-| HP EliteBook                               | 4         | 6.9%    |
-| Dell Latitude                              | 4         | 6.9%    |
-| HP ProBook                                 | 3         | 5.17%   |
-| Lenovo Legion                              | 2         | 3.45%   |
-| Lenovo IdeaPad                             | 2         | 3.45%   |
-| Framework Laptop                           | 2         | 3.45%   |
-| Valve Jupiter                              | 1         | 1.72%   |
-| System76 Gazelle                           | 1         | 1.72%   |
-| Notebook NS50                              | 1         | 1.72%   |
-| MSI GE76                                   | 1         | 1.72%   |
-| MSI Bravo                                  | 1         | 1.72%   |
-| Matsushita Electric Industrial CF-T2BW1AXR | 1         | 1.72%   |
-| Lenovo XiaoXinPro-13ARE                    | 1         | 1.72%   |
-| Lenovo ThinkBook                           | 1         | 1.72%   |
-| HUAWEI HN-WX9X                             | 1         | 1.72%   |
-| HP ZBook                                   | 1         | 1.72%   |
-| Google Akemi                               | 1         | 1.72%   |
-| Dell Vostro                                | 1         | 1.72%   |
-| Dell Inspiron                              | 1         | 1.72%   |
-| Dell G5                                    | 1         | 1.72%   |
-| Dell G3                                    | 1         | 1.72%   |
-| Avell High Performance A62                 | 1         | 1.72%   |
-| ASUS VivoBook                              | 1         | 1.72%   |
-| ASUS 1215B                                 | 1         | 1.72%   |
-| Apple MacBookPro12                         | 1         | 1.72%   |
-| Apple MacBookPro10                         | 1         | 1.72%   |
-| Apple MacBookAir5                          | 1         | 1.72%   |
-| A-DATA XENIA159GENI72060                   | 1         | 1.72%   |
-| Unknown                                    | 1         | 1.72%   |
+| Lenovo ThinkPad                            | 18        | 30.51%  |
+| HP EliteBook                               | 4         | 6.78%   |
+| Dell Latitude                              | 4         | 6.78%   |
+| HP ProBook                                 | 3         | 5.08%   |
+| Lenovo Legion                              | 2         | 3.39%   |
+| Lenovo IdeaPad                             | 2         | 3.39%   |
+| Framework Laptop                           | 2         | 3.39%   |
+| Valve Jupiter                              | 1         | 1.69%   |
+| Timi Redmi                                 | 1         | 1.69%   |
+| System76 Gazelle                           | 1         | 1.69%   |
+| Notebook NS50                              | 1         | 1.69%   |
+| MSI GE76                                   | 1         | 1.69%   |
+| MSI Bravo                                  | 1         | 1.69%   |
+| Matsushita Electric Industrial CF-T2BW1AXR | 1         | 1.69%   |
+| Lenovo XiaoXinPro-13ARE                    | 1         | 1.69%   |
+| Lenovo ThinkBook                           | 1         | 1.69%   |
+| HUAWEI HN-WX9X                             | 1         | 1.69%   |
+| HP ZBook                                   | 1         | 1.69%   |
+| Google Akemi                               | 1         | 1.69%   |
+| Dell Vostro                                | 1         | 1.69%   |
+| Dell Inspiron                              | 1         | 1.69%   |
+| Dell G5                                    | 1         | 1.69%   |
+| Dell G3                                    | 1         | 1.69%   |
+| Avell High Performance A62                 | 1         | 1.69%   |
+| ASUS VivoBook                              | 1         | 1.69%   |
+| ASUS 1215B                                 | 1         | 1.69%   |
+| Apple MacBookPro12                         | 1         | 1.69%   |
+| Apple MacBookPro10                         | 1         | 1.69%   |
+| Apple MacBookAir5                          | 1         | 1.69%   |
+| A-DATA XENIA159GENI72060                   | 1         | 1.69%   |
+| Unknown                                    | 1         | 1.69%   |
 
 MFG Year
 --------
@@ -526,18 +532,18 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2020 | 17        | 29.31%  |
-| 2021 | 13        | 22.41%  |
-| 2019 | 7         | 12.07%  |
-| 2022 | 4         | 6.9%    |
-| 2017 | 4         | 6.9%    |
-| 2013 | 4         | 6.9%    |
-| 2015 | 3         | 5.17%   |
-| 2018 | 2         | 3.45%   |
-| 2016 | 1         | 1.72%   |
-| 2014 | 1         | 1.72%   |
-| 2011 | 1         | 1.72%   |
-| 2003 | 1         | 1.72%   |
+| 2020 | 17        | 28.81%  |
+| 2021 | 13        | 22.03%  |
+| 2019 | 7         | 11.86%  |
+| 2022 | 5         | 8.47%   |
+| 2017 | 4         | 6.78%   |
+| 2013 | 4         | 6.78%   |
+| 2015 | 3         | 5.08%   |
+| 2018 | 2         | 3.39%   |
+| 2016 | 1         | 1.69%   |
+| 2014 | 1         | 1.69%   |
+| 2011 | 1         | 1.69%   |
+| 2003 | 1         | 1.69%   |
 
 Form Factor
 -----------
@@ -549,7 +555,7 @@ Physical design of the computer
 
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
-| Notebook | 58        | 100%    |
+| Notebook | 59        | 100%    |
 
 Coreboot
 --------
@@ -561,8 +567,8 @@ Have coreboot on board
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 56        | 96.55%  |
-| Yes  | 2         | 3.45%   |
+| No   | 57        | 96.61%  |
+| Yes  | 2         | 3.39%   |
 
 RAM Size
 --------
@@ -574,13 +580,13 @@ Total RAM memory
 
 | Size in GB  | Notebooks | Percent |
 |-------------|-----------|---------|
-| 16.01-24.0  | 25        | 41.67%  |
-| 8.01-16.0   | 15        | 25%     |
-| 32.01-64.0  | 11        | 18.33%  |
-| 64.01-256.0 | 4         | 6.67%   |
-| 4.01-8.0    | 3         | 5%      |
-| 24.01-32.0  | 1         | 1.67%   |
-| 1.01-2.0    | 1         | 1.67%   |
+| 16.01-24.0  | 26        | 42.62%  |
+| 8.01-16.0   | 15        | 24.59%  |
+| 32.01-64.0  | 11        | 18.03%  |
+| 64.01-256.0 | 4         | 6.56%   |
+| 4.01-8.0    | 3         | 4.92%   |
+| 24.01-32.0  | 1         | 1.64%   |
+| 1.01-2.0    | 1         | 1.64%   |
 
 RAM Used
 --------
@@ -592,13 +598,13 @@ Used RAM memory
 
 | Used GB    | Notebooks | Percent |
 |------------|-----------|---------|
-| 0.51-1.0   | 24        | 40%     |
-| 1.01-2.0   | 16        | 26.67%  |
-| 2.01-3.0   | 8         | 13.33%  |
-| 0.01-0.5   | 7         | 11.67%  |
-| 3.01-4.0   | 2         | 3.33%   |
-| 24.01-32.0 | 2         | 3.33%   |
-| 8.01-16.0  | 1         | 1.67%   |
+| 0.51-1.0   | 24        | 39.34%  |
+| 1.01-2.0   | 17        | 27.87%  |
+| 2.01-3.0   | 8         | 13.11%  |
+| 0.01-0.5   | 7         | 11.48%  |
+| 3.01-4.0   | 2         | 3.28%   |
+| 24.01-32.0 | 2         | 3.28%   |
+| 8.01-16.0  | 1         | 1.64%   |
 
 Total Drives
 ------------
@@ -610,9 +616,9 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 41        | 64.06%  |
-| 2      | 21        | 32.81%  |
-| 3      | 2         | 3.13%   |
+| 1      | 42        | 64.62%  |
+| 2      | 21        | 32.31%  |
+| 3      | 2         | 3.08%   |
 
 Has CD-ROM
 ----------
@@ -624,8 +630,8 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 54        | 90%     |
-| Yes       | 6         | 10%     |
+| No        | 55        | 90.16%  |
+| Yes       | 6         | 9.84%   |
 
 Has Ethernet
 ------------
@@ -637,8 +643,8 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 48        | 82.76%  |
-| No        | 10        | 17.24%  |
+| Yes       | 48        | 81.36%  |
+| No        | 11        | 18.64%  |
 
 Has WiFi
 --------
@@ -650,7 +656,8 @@ Has WiFi module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 58        | 100%    |
+| Yes       | 58        | 98.31%  |
+| No        | 1         | 1.69%   |
 
 Has Bluetooth
 -------------
@@ -662,8 +669,8 @@ Has Bluetooth module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 45        | 76.27%  |
-| No        | 14        | 23.73%  |
+| Yes       | 46        | 76.67%  |
+| No        | 14        | 23.33%  |
 
 Location
 --------
@@ -678,29 +685,29 @@ Geographic location (country)
 
 | Country     | Notebooks | Percent |
 |-------------|-----------|---------|
-| USA         | 12        | 20.69%  |
-| UK          | 6         | 10.34%  |
-| Germany     | 6         | 10.34%  |
-| Russia      | 5         | 8.62%   |
-| Poland      | 4         | 6.9%    |
-| China       | 4         | 6.9%    |
-| Brazil      | 3         | 5.17%   |
-| Portugal    | 2         | 3.45%   |
-| Austria     | 2         | 3.45%   |
-| Turkey      | 1         | 1.72%   |
-| Switzerland | 1         | 1.72%   |
-| Sweden      | 1         | 1.72%   |
-| Spain       | 1         | 1.72%   |
-| Peru        | 1         | 1.72%   |
-| Netherlands | 1         | 1.72%   |
-| Japan       | 1         | 1.72%   |
-| Italy       | 1         | 1.72%   |
-| India       | 1         | 1.72%   |
-| Denmark     | 1         | 1.72%   |
-| Croatia     | 1         | 1.72%   |
-| Colombia    | 1         | 1.72%   |
-| Belarus     | 1         | 1.72%   |
-| Bangladesh  | 1         | 1.72%   |
+| USA         | 12        | 20.34%  |
+| UK          | 6         | 10.17%  |
+| Russia      | 6         | 10.17%  |
+| Germany     | 6         | 10.17%  |
+| Poland      | 4         | 6.78%   |
+| China       | 4         | 6.78%   |
+| Brazil      | 3         | 5.08%   |
+| Portugal    | 2         | 3.39%   |
+| Austria     | 2         | 3.39%   |
+| Turkey      | 1         | 1.69%   |
+| Switzerland | 1         | 1.69%   |
+| Sweden      | 1         | 1.69%   |
+| Spain       | 1         | 1.69%   |
+| Peru        | 1         | 1.69%   |
+| Netherlands | 1         | 1.69%   |
+| Japan       | 1         | 1.69%   |
+| Italy       | 1         | 1.69%   |
+| India       | 1         | 1.69%   |
+| Denmark     | 1         | 1.69%   |
+| Croatia     | 1         | 1.69%   |
+| Colombia    | 1         | 1.69%   |
+| Belarus     | 1         | 1.69%   |
+| Bangladesh  | 1         | 1.69%   |
 
 City
 ----
@@ -712,46 +719,46 @@ Geographic location (city)
 
 | City           | Notebooks | Percent |
 |----------------|-----------|---------|
-| Brighton       | 5         | 7.35%   |
-| London         | 3         | 4.41%   |
-| Seattle        | 2         | 2.94%   |
-| Moscow         | 2         | 2.94%   |
-| ЕЊta-ku      | 1         | 1.47%   |
-| Zurich         | 1         | 1.47%   |
-| Wuhan          | 1         | 1.47%   |
-| Wieliczka      | 1         | 1.47%   |
-| Washington     | 1         | 1.47%   |
-| Warsaw         | 1         | 1.47%   |
-| Vienna         | 1         | 1.47%   |
-| Vancouver      | 1         | 1.47%   |
-| Trosa          | 1         | 1.47%   |
-| Thrissur       | 1         | 1.47%   |
-| Stuttgart      | 1         | 1.47%   |
-| St Petersburg  | 1         | 1.47%   |
-| Slavonski Brod | 1         | 1.47%   |
-| Shanghai       | 1         | 1.47%   |
-| Rostov-on-Don  | 1         | 1.47%   |
-| Riverside      | 1         | 1.47%   |
-| Resana         | 1         | 1.47%   |
-| Poulsbo        | 1         | 1.47%   |
-| Pobiedziska    | 1         | 1.47%   |
-| Omaha          | 1         | 1.47%   |
-| Olympia        | 1         | 1.47%   |
-| Northeim       | 1         | 1.47%   |
-| New York       | 1         | 1.47%   |
-| Neumünster    | 1         | 1.47%   |
-| Montclair      | 1         | 1.47%   |
-| Minsk          | 1         | 1.47%   |
-| Milan          | 1         | 1.47%   |
-| Medellín      | 1         | 1.47%   |
-| Manchester     | 1         | 1.47%   |
-| Maia           | 1         | 1.47%   |
-| Madrid         | 1         | 1.47%   |
-| Lima           | 1         | 1.47%   |
-| Kislovodsk     | 1         | 1.47%   |
-| Khabarovsk     | 1         | 1.47%   |
-| Katowice       | 1         | 1.47%   |
-| JoГЈo Pessoa | 1         | 1.47%   |
+| Brighton       | 5         | 7.14%   |
+| Moscow         | 3         | 4.29%   |
+| London         | 3         | 4.29%   |
+| Seattle        | 2         | 2.86%   |
+| ЕЊta-ku      | 1         | 1.43%   |
+| Zurich         | 1         | 1.43%   |
+| Wuhan          | 1         | 1.43%   |
+| Wieliczka      | 1         | 1.43%   |
+| Washington     | 1         | 1.43%   |
+| Warsaw         | 1         | 1.43%   |
+| Vienna         | 1         | 1.43%   |
+| Vancouver      | 1         | 1.43%   |
+| Trosa          | 1         | 1.43%   |
+| Thrissur       | 1         | 1.43%   |
+| Stuttgart      | 1         | 1.43%   |
+| St Petersburg  | 1         | 1.43%   |
+| Slavonski Brod | 1         | 1.43%   |
+| Shanghai       | 1         | 1.43%   |
+| Rostov-on-Don  | 1         | 1.43%   |
+| Riverside      | 1         | 1.43%   |
+| Resana         | 1         | 1.43%   |
+| Poulsbo        | 1         | 1.43%   |
+| Pobiedziska    | 1         | 1.43%   |
+| Omaha          | 1         | 1.43%   |
+| Olympia        | 1         | 1.43%   |
+| Northeim       | 1         | 1.43%   |
+| New York       | 1         | 1.43%   |
+| Neumünster    | 1         | 1.43%   |
+| Montclair      | 1         | 1.43%   |
+| Minsk          | 1         | 1.43%   |
+| Milan          | 1         | 1.43%   |
+| Medellín      | 1         | 1.43%   |
+| Manchester     | 1         | 1.43%   |
+| Maia           | 1         | 1.43%   |
+| Madrid         | 1         | 1.43%   |
+| Lima           | 1         | 1.43%   |
+| Kislovodsk     | 1         | 1.43%   |
+| Khabarovsk     | 1         | 1.43%   |
+| Katowice       | 1         | 1.43%   |
+| JoГЈo Pessoa | 1         | 1.43%   |
 
 Drives
 ------
@@ -766,25 +773,25 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 22        | 28     | 28.57%  |
-| WDC                 | 13        | 20     | 16.88%  |
-| Toshiba             | 7         | 14     | 9.09%   |
-| HGST                | 5         | 19     | 6.49%   |
-| KIOXIA              | 4         | 4      | 5.19%   |
-| SK hynix            | 3         | 3      | 3.9%    |
-| Seagate             | 3         | 3      | 3.9%    |
-| Kingston            | 3         | 5      | 3.9%    |
-| Apple               | 3         | 3      | 3.9%    |
-| A-DATA Technology   | 3         | 3      | 3.9%    |
-| Intel               | 2         | 2      | 2.6%    |
-| Crucial             | 2         | 4      | 2.6%    |
-| SPCC                | 1         | 1      | 1.3%    |
-| Solid State Storage | 1         | 1      | 1.3%    |
-| Silicon Motion      | 1         | 1      | 1.3%    |
-| SanDisk             | 1         | 2      | 1.3%    |
-| Mushkin             | 1         | 1      | 1.3%    |
-| LITEON              | 1         | 1      | 1.3%    |
-| Fujitsu             | 1         | 2      | 1.3%    |
+| Samsung Electronics | 22        | 28     | 28.21%  |
+| WDC                 | 13        | 20     | 16.67%  |
+| Toshiba             | 7         | 15     | 8.97%   |
+| KIOXIA              | 5         | 5      | 6.41%   |
+| HGST                | 5         | 20     | 6.41%   |
+| SK hynix            | 3         | 3      | 3.85%   |
+| Seagate             | 3         | 3      | 3.85%   |
+| Kingston            | 3         | 5      | 3.85%   |
+| Apple               | 3         | 3      | 3.85%   |
+| A-DATA Technology   | 3         | 3      | 3.85%   |
+| Intel               | 2         | 2      | 2.56%   |
+| Crucial             | 2         | 4      | 2.56%   |
+| SPCC                | 1         | 1      | 1.28%   |
+| Solid State Storage | 1         | 1      | 1.28%   |
+| Silicon Motion      | 1         | 1      | 1.28%   |
+| SanDisk             | 1         | 2      | 1.28%   |
+| Mushkin             | 1         | 1      | 1.28%   |
+| LITEON              | 1         | 1      | 1.28%   |
+| Fujitsu             | 1         | 2      | 1.28%   |
 
 Drive Model
 -----------
@@ -796,46 +803,46 @@ Hard drive models
 
 | Model                                              | Notebooks | Percent |
 |----------------------------------------------------|-----------|---------|
-| Toshiba MQ01ABF050 500GB                           | 5         | 6.02%   |
-| HGST HTS725050A7E630 500GB                         | 4         | 4.82%   |
-| Samsung HM251JX 250GB                              | 3         | 3.61%   |
-| WDC WDS100T3X0C-00SJG0 1TB                         | 2         | 2.41%   |
-| WDC PC SN730 SDBQNTY-1T00-1001 1TB                 | 2         | 2.41%   |
-| WDC PC SN730 NVMe 1024GB                           | 2         | 2.41%   |
-| Seagate ST1000LM035-1RK172 1TB                     | 2         | 2.41%   |
-| Samsung SSD 970 EVO Plus 1TB                       | 2         | 2.41%   |
-| Samsung MZVLB512HBJQ-000L7 512GB                   | 2         | 2.41%   |
-| KIOXIA KBG40ZNS256G NVMe 256GB                     | 2         | 2.41%   |
-| HGST HTS721010A9E630 1TB                           | 2         | 2.41%   |
-| Apple SSD SM256E 256GB                             | 2         | 2.41%   |
-| WDC WDS500G1X0E-00AFY0 500GB                       | 1         | 1.2%    |
-| WDC WDS100T1X0E-00AFY0 1TB                         | 1         | 1.2%    |
-| WDC WD10SPZX-60Z10T0 1TB                           | 1         | 1.2%    |
-| WDC PC SN730 SDBQNTY-512G-1001 512GB               | 1         | 1.2%    |
-| WDC PC SN730 SDBQNTY-256G-1001 256GB               | 1         | 1.2%    |
-| WDC PC SN730 SDBPNTY-512G-1101 512GB               | 1         | 1.2%    |
-| WDC PC SN720 SDAQNTW-512G-1001 512GB               | 1         | 1.2%    |
-| WDC PC SN530 SDBPMPZ-512G-1101 512GB               | 1         | 1.2%    |
-| Toshiba MQ04ABF100 1TB                             | 1         | 1.2%    |
-| Toshiba KXG6APNV2T04 2TB                           | 1         | 1.2%    |
-| SPCC M.2 PCIe SSD 1TB                              | 1         | 1.2%    |
-| Solid State Storage CL1-3D128-Q11 NVMe SSSTC 128GB | 1         | 1.2%    |
-| SK hynix PC300 HFS512GD9MND-5510A 512GB            | 1         | 1.2%    |
-| SK hynix BC511 NVMe 256GB                          | 1         | 1.2%    |
-| SK hynix BC511 HFM256GDJTNI-82A0A 256GB            | 1         | 1.2%    |
-| Silicon Motion NE-256 256GB                        | 1         | 1.2%    |
-| Seagate ST1000LM049-2GH172 1TB                     | 1         | 1.2%    |
-| SanDisk SDSSDH3500G 500GB                          | 1         | 1.2%    |
-| Samsung SSD PM851 mSATA 256GB                      | 1         | 1.2%    |
-| Samsung SSD 980 PRO 1TB                            | 1         | 1.2%    |
-| Samsung SSD 970 PRO 1TB                            | 1         | 1.2%    |
-| Samsung SSD 970 EVO 1TB                            | 1         | 1.2%    |
-| Samsung SSD 860 EVO 500GB                          | 1         | 1.2%    |
-| Samsung SSD 850 EVO 250GB                          | 1         | 1.2%    |
-| Samsung SSD 840 PRO Series 128GB                   | 1         | 1.2%    |
-| Samsung PM9A1 NVMe 512GB                           | 1         | 1.2%    |
-| Samsung MZVLW256HEHP-000L7 256GB                   | 1         | 1.2%    |
-| Samsung MZVLB512HBJQ-000L2 512GB                   | 1         | 1.2%    |
+| Toshiba MQ01ABF050 500GB                           | 5         | 5.95%   |
+| HGST HTS725050A7E630 500GB                         | 4         | 4.76%   |
+| Samsung HM251JX 250GB                              | 3         | 3.57%   |
+| WDC WDS100T3X0C-00SJG0 1TB                         | 2         | 2.38%   |
+| WDC PC SN730 SDBQNTY-1T00-1001 1TB                 | 2         | 2.38%   |
+| WDC PC SN730 NVMe 1024GB                           | 2         | 2.38%   |
+| Seagate ST1000LM035-1RK172 1TB                     | 2         | 2.38%   |
+| Samsung SSD 970 EVO Plus 1TB                       | 2         | 2.38%   |
+| Samsung MZVLB512HBJQ-000L7 512GB                   | 2         | 2.38%   |
+| KIOXIA KBG40ZNS256G NVMe 256GB                     | 2         | 2.38%   |
+| HGST HTS721010A9E630 1TB                           | 2         | 2.38%   |
+| Apple SSD SM256E 256GB                             | 2         | 2.38%   |
+| WDC WDS500G1X0E-00AFY0 500GB                       | 1         | 1.19%   |
+| WDC WDS100T1X0E-00AFY0 1TB                         | 1         | 1.19%   |
+| WDC WD10SPZX-60Z10T0 1TB                           | 1         | 1.19%   |
+| WDC PC SN730 SDBQNTY-512G-1001 512GB               | 1         | 1.19%   |
+| WDC PC SN730 SDBQNTY-256G-1001 256GB               | 1         | 1.19%   |
+| WDC PC SN730 SDBPNTY-512G-1101 512GB               | 1         | 1.19%   |
+| WDC PC SN720 SDAQNTW-512G-1001 512GB               | 1         | 1.19%   |
+| WDC PC SN530 SDBPMPZ-512G-1101 512GB               | 1         | 1.19%   |
+| Toshiba MQ04ABF100 1TB                             | 1         | 1.19%   |
+| Toshiba KXG6APNV2T04 2TB                           | 1         | 1.19%   |
+| SPCC M.2 PCIe SSD 1TB                              | 1         | 1.19%   |
+| Solid State Storage CL1-3D128-Q11 NVMe SSSTC 128GB | 1         | 1.19%   |
+| SK hynix PC300 HFS512GD9MND-5510A 512GB            | 1         | 1.19%   |
+| SK hynix BC511 NVMe 256GB                          | 1         | 1.19%   |
+| SK hynix BC511 HFM256GDJTNI-82A0A 256GB            | 1         | 1.19%   |
+| Silicon Motion NE-256 256GB                        | 1         | 1.19%   |
+| Seagate ST1000LM049-2GH172 1TB                     | 1         | 1.19%   |
+| SanDisk SDSSDH3500G 500GB                          | 1         | 1.19%   |
+| Samsung SSD PM851 mSATA 256GB                      | 1         | 1.19%   |
+| Samsung SSD 980 PRO 1TB                            | 1         | 1.19%   |
+| Samsung SSD 970 PRO 1TB                            | 1         | 1.19%   |
+| Samsung SSD 970 EVO 1TB                            | 1         | 1.19%   |
+| Samsung SSD 860 EVO 500GB                          | 1         | 1.19%   |
+| Samsung SSD 850 EVO 250GB                          | 1         | 1.19%   |
+| Samsung SSD 840 PRO Series 128GB                   | 1         | 1.19%   |
+| Samsung PM9A1 NVMe 512GB                           | 1         | 1.19%   |
+| Samsung MZVLW256HEHP-000L7 256GB                   | 1         | 1.19%   |
+| Samsung MZVLB512HBJQ-000L2 512GB                   | 1         | 1.19%   |
 
 HDD Vendor
 ----------
@@ -847,8 +854,8 @@ Hard disk drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Toshiba             | 6         | 13     | 31.58%  |
-| HGST                | 5         | 19     | 26.32%  |
+| Toshiba             | 6         | 14     | 31.58%  |
+| HGST                | 5         | 20     | 26.32%  |
 | Seagate             | 3         | 3      | 15.79%  |
 | Samsung Electronics | 3         | 3      | 15.79%  |
 | WDC                 | 1         | 1      | 5.26%   |
@@ -883,9 +890,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 41        | 60     | 61.19%  |
-| SSD  | 13        | 16     | 19.4%   |
-| HDD  | 13        | 41     | 19.4%   |
+| NVMe | 42        | 61     | 61.76%  |
+| SSD  | 13        | 16     | 19.12%  |
+| HDD  | 13        | 43     | 19.12%  |
 
 Drive Connector
 ---------------
@@ -897,8 +904,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 41        | 60     | 61.19%  |
-| SATA | 26        | 57     | 38.81%  |
+| NVMe | 42        | 61     | 61.76%  |
+| SATA | 26        | 59     | 38.24%  |
 
 Drive Size
 ----------
@@ -910,8 +917,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 20        | 40     | 74.07%  |
-| 0.51-1.0   | 7         | 17     | 25.93%  |
+| 0.01-0.5   | 20        | 41     | 74.07%  |
+| 0.51-1.0   | 7         | 18     | 25.93%  |
 
 Space Total
 -----------
@@ -923,14 +930,14 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 17        | 26.98%  |
-| 251-500    | 16        | 25.4%   |
-| 501-1000   | 11        | 17.46%  |
-| 51-100     | 7         | 11.11%  |
-| 21-50      | 5         | 7.94%   |
-| 1001-2000  | 4         | 6.35%   |
-| 1-20       | 2         | 3.17%   |
-| 2001-3000  | 1         | 1.59%   |
+| 251-500    | 17        | 26.56%  |
+| 101-250    | 17        | 26.56%  |
+| 501-1000   | 11        | 17.19%  |
+| 51-100     | 7         | 10.94%  |
+| 21-50      | 5         | 7.81%   |
+| 1001-2000  | 4         | 6.25%   |
+| 1-20       | 2         | 3.13%   |
+| 2001-3000  | 1         | 1.56%   |
 
 Space Used
 ----------
@@ -942,11 +949,11 @@ Amount of used disk space
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 1-20     | 38        | 59.38%  |
-| 21-50    | 19        | 29.69%  |
-| 101-250  | 5         | 7.81%   |
-| 501-1000 | 1         | 1.56%   |
-| 51-100   | 1         | 1.56%   |
+| 1-20     | 39        | 60%     |
+| 21-50    | 19        | 29.23%  |
+| 101-250  | 5         | 7.69%   |
+| 501-1000 | 1         | 1.54%   |
+| 51-100   | 1         | 1.54%   |
 
 Malfunc. Drives
 ---------------
@@ -962,7 +969,7 @@ Drive models with a malfunction
 | WDC WD10SPZX-60Z10T0 1TB                  | 1         | 1      | 11.11%  |
 | Samsung Electronics SSD PM851 mSATA 256GB | 1         | 1      | 11.11%  |
 | Samsung Electronics HM251JX 250GB         | 1         | 1      | 11.11%  |
-| HGST HTS721010A9E630 1TB                  | 1         | 10     | 11.11%  |
+| HGST HTS721010A9E630 1TB                  | 1         | 11     | 11.11%  |
 | Fujitsu MHS2040AT D 40GB                  | 1         | 2      | 11.11%  |
 
 Malfunc. Drive Vendor
@@ -975,7 +982,7 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 17     | 50%     |
+| HGST                | 4         | 18     | 50%     |
 | Samsung Electronics | 2         | 2      | 25%     |
 | WDC                 | 1         | 1      | 12.5%   |
 | Fujitsu             | 1         | 2      | 12.5%   |
@@ -990,7 +997,7 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 17     | 57.14%  |
+| HGST                | 4         | 18     | 57.14%  |
 | WDC                 | 1         | 1      | 14.29%  |
 | Samsung Electronics | 1         | 1      | 14.29%  |
 | Fujitsu             | 1         | 2      | 14.29%  |
@@ -1005,7 +1012,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 6         | 21     | 85.71%  |
+| HDD  | 6         | 22     | 85.71%  |
 | SSD  | 1         | 1      | 14.29%  |
 
 Failed Drives
@@ -1032,9 +1039,9 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 55        | 92     | 84.62%  |
-| Malfunc  | 7         | 22     | 10.77%  |
-| Detected | 3         | 3      | 4.62%   |
+| Works    | 56        | 94     | 84.85%  |
+| Malfunc  | 7         | 23     | 10.61%  |
+| Detected | 3         | 3      | 4.55%   |
 
 Storage controller
 ------------------
@@ -1049,18 +1056,18 @@ Storage controller vendors
 
 | Vendor                         | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| Intel                          | 31        | 36.9%   |
-| Samsung Electronics            | 16        | 19.05%  |
-| SanDisk                        | 13        | 15.48%  |
-| AMD                            | 8         | 9.52%   |
-| SK hynix                       | 3         | 3.57%   |
-| KIOXIA                         | 3         | 3.57%   |
-| Toshiba                        | 2         | 2.38%   |
-| Silicon Motion                 | 2         | 2.38%   |
-| Kingston Technology Company    | 2         | 2.38%   |
-| ADATA Technology               | 2         | 2.38%   |
-| Solid State Storage Technology | 1         | 1.19%   |
-| Micron Technology              | 1         | 1.19%   |
+| Intel                          | 31        | 36.47%  |
+| Samsung Electronics            | 16        | 18.82%  |
+| SanDisk                        | 13        | 15.29%  |
+| AMD                            | 8         | 9.41%   |
+| KIOXIA                         | 4         | 4.71%   |
+| SK hynix                       | 3         | 3.53%   |
+| Toshiba                        | 2         | 2.35%   |
+| Silicon Motion                 | 2         | 2.35%   |
+| Kingston Technology Company    | 2         | 2.35%   |
+| ADATA Technology               | 2         | 2.35%   |
+| Solid State Storage Technology | 1         | 1.18%   |
+| Micron Technology              | 1         | 1.18%   |
 
 Storage Model
 -------------
@@ -1072,42 +1079,42 @@ Storage controller models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 10        | 11.36%  |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 9         | 10.23%  |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 7.95%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 7         | 7.95%   |
-| Intel Comet Lake SATA AHCI Controller                                          | 5         | 5.68%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                           | 4         | 4.55%   |
-| Samsung NVMe SSD Controller 980                                                | 3         | 3.41%   |
-| KIOXIA NVMe SSD Controller BG4                                                 | 3         | 3.41%   |
-| Unknown                                                                        | 3         | 3.41%   |
-| Toshiba XG6 NVMe SSD Controller                                                | 2         | 2.27%   |
-| SK hynix BC511                                                                 | 2         | 2.27%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 2         | 2.27%   |
-| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 2.27%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 2         | 2.27%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 2.27%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 2.27%   |
-| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 2         | 2.27%   |
-| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 2         | 2.27%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                           | 2         | 2.27%   |
-| SK hynix PC300 NVMe Solid State Drive 512GB                                    | 1         | 1.14%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.14%   |
-| SanDisk PC SN530                                                               | 1         | 1.14%   |
-| Samsung SM951 AHCI                                                             | 1         | 1.14%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 1.14%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 1.14%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 1.14%   |
-| Intel SSD 660P Series                                                          | 1         | 1.14%   |
-| Intel Jasper Lake SATA AHCI Controller                                         | 1         | 1.14%   |
-| Intel Ice Lake-LP SATA Controller [AHCI mode]                                  | 1         | 1.14%   |
-| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 1.14%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 1.14%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 1.14%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 1         | 1.14%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1         | 1.14%   |
-| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 1         | 1.14%   |
-| ADATA IM2P33F8ABR1 NVMe SSD                                                    | 1         | 1.14%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 10        | 11.24%  |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 9         | 10.11%  |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 7.87%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 7         | 7.87%   |
+| Intel Comet Lake SATA AHCI Controller                                          | 5         | 5.62%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                           | 4         | 4.49%   |
+| Unknown                                                                        | 4         | 4.49%   |
+| Samsung NVMe SSD Controller 980                                                | 3         | 3.37%   |
+| KIOXIA NVMe SSD Controller BG4                                                 | 3         | 3.37%   |
+| Toshiba XG6 NVMe SSD Controller                                                | 2         | 2.25%   |
+| SK hynix BC511                                                                 | 2         | 2.25%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 2         | 2.25%   |
+| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 2.25%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 2         | 2.25%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 2         | 2.25%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 2.25%   |
+| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 2         | 2.25%   |
+| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 2         | 2.25%   |
+| Intel 500 Series Chipset Family SATA AHCI Controller                           | 2         | 2.25%   |
+| SK hynix PC300 NVMe Solid State Drive 512GB                                    | 1         | 1.12%   |
+| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 1.12%   |
+| SanDisk PC SN530                                                               | 1         | 1.12%   |
+| Samsung SM951 AHCI                                                             | 1         | 1.12%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 1.12%   |
+| Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 1.12%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 1.12%   |
+| Intel SSD 660P Series                                                          | 1         | 1.12%   |
+| Intel Jasper Lake SATA AHCI Controller                                         | 1         | 1.12%   |
+| Intel Ice Lake-LP SATA Controller [AHCI mode]                                  | 1         | 1.12%   |
+| Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 1         | 1.12%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 1         | 1.12%   |
+| Intel 82801DBM (ICH4-M) IDE Controller                                         | 1         | 1.12%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 1         | 1.12%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 1         | 1.12%   |
+| ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 1         | 1.12%   |
+| ADATA IM2P33F8ABR1 NVMe SSD                                                    | 1         | 1.12%   |
 
 Storage Kind
 ------------
@@ -1119,9 +1126,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| NVMe | 41        | 50.62%  |
-| SATA | 37        | 45.68%  |
-| IDE  | 3         | 3.7%    |
+| NVMe | 42        | 51.22%  |
+| SATA | 37        | 45.12%  |
+| IDE  | 3         | 3.66%   |
 
 Processor
 ---------
@@ -1136,8 +1143,8 @@ Processor vendors
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| Intel  | 42        | 71.19%  |
-| AMD    | 17        | 28.81%  |
+| Intel  | 42        | 70%     |
+| AMD    | 18        | 30%     |
 
 CPU Model
 ---------
@@ -1149,46 +1156,46 @@ Processor models
 
 | Model                                           | Notebooks | Percent |
 |-------------------------------------------------|-----------|---------|
-| Intel Core i5-10210U CPU @ 1.60GHz              | 5         | 8.47%   |
-| Intel 11th Gen Core i7-1165G7 @ 2.80GHz         | 5         | 8.47%   |
-| Intel Core i7-3520M CPU @ 2.90GHz               | 4         | 6.78%   |
-| Intel Core i7-10750H CPU @ 2.60GHz              | 3         | 5.08%   |
-| Intel Core i7-7600U CPU @ 2.80GHz               | 2         | 3.39%   |
-| Intel Core i5-10300H CPU @ 2.50GHz              | 2         | 3.39%   |
-| AMD Ryzen 7 PRO 3700U w/ Radeon Vega Mobile Gfx | 2         | 3.39%   |
-| AMD Ryzen 7 4800H with Radeon Graphics          | 2         | 3.39%   |
-| AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx | 2         | 3.39%   |
-| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx   | 2         | 3.39%   |
-| Intel Xeon W-10885M CPU @ 2.40GHz               | 1         | 1.69%   |
-| Intel Pentium M processor 1000MHz               | 1         | 1.69%   |
-| Intel Core i7-9750H CPU @ 2.60GHz               | 1         | 1.69%   |
-| Intel Core i7-8750H CPU @ 2.20GHz               | 1         | 1.69%   |
-| Intel Core i7-8565U CPU @ 1.80GHz               | 1         | 1.69%   |
-| Intel Core i7-7700HQ CPU @ 2.80GHz              | 1         | 1.69%   |
-| Intel Core i7-5600U CPU @ 2.60GHz               | 1         | 1.69%   |
-| Intel Core i7-4710MQ CPU @ 2.50GHz              | 1         | 1.69%   |
-| Intel Core i7-4710HQ CPU @ 2.50GHz              | 1         | 1.69%   |
-| Intel Core i7-4600U CPU @ 2.10GHz               | 1         | 1.69%   |
-| Intel Core i7-3687U CPU @ 2.10GHz               | 1         | 1.69%   |
-| Intel Core i7-3615QM CPU @ 2.30GHz              | 1         | 1.69%   |
-| Intel Core i7-10870H CPU @ 2.20GHz              | 1         | 1.69%   |
-| Intel Core i7-1065G7 CPU @ 1.30GHz              | 1         | 1.69%   |
-| Intel Core i7-10510U CPU @ 1.80GHz              | 1         | 1.69%   |
-| Intel Core i5-6300U CPU @ 2.40GHz               | 1         | 1.69%   |
-| Intel Core i5-5257U CPU @ 2.70GHz               | 1         | 1.69%   |
-| Intel Core i5-3427U CPU @ 1.80GHz               | 1         | 1.69%   |
-| Intel Core i5-3320M CPU @ 2.60GHz               | 1         | 1.69%   |
-| Intel 11th Gen Core i7-11850H @ 2.50GHz         | 1         | 1.69%   |
-| Intel 11th Gen Core i7-11800H @ 2.30GHz         | 1         | 1.69%   |
-| AMD Ryzen 7 PRO 4750U with Radeon Graphics      | 1         | 1.69%   |
-| AMD Ryzen 7 5700U with Radeon Graphics          | 1         | 1.69%   |
-| AMD Ryzen 7 4800U with Radeon Graphics          | 1         | 1.69%   |
-| AMD Ryzen 7 4700U with Radeon Graphics          | 1         | 1.69%   |
-| AMD Ryzen 5 5500U with Radeon Graphics          | 1         | 1.69%   |
-| AMD Ryzen 5 4600H with Radeon Graphics          | 1         | 1.69%   |
-| AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx   | 1         | 1.69%   |
-| AMD E-450 APU with Radeon HD Graphics           | 1         | 1.69%   |
-| AMD Custom APU 0405                             | 1         | 1.69%   |
+| Intel Core i5-10210U CPU @ 1.60GHz              | 5         | 8.33%   |
+| Intel 11th Gen Core i7-1165G7 @ 2.80GHz         | 5         | 8.33%   |
+| Intel Core i7-3520M CPU @ 2.90GHz               | 4         | 6.67%   |
+| Intel Core i7-10750H CPU @ 2.60GHz              | 3         | 5%      |
+| Intel Core i7-7600U CPU @ 2.80GHz               | 2         | 3.33%   |
+| Intel Core i5-10300H CPU @ 2.50GHz              | 2         | 3.33%   |
+| AMD Ryzen 7 PRO 3700U w/ Radeon Vega Mobile Gfx | 2         | 3.33%   |
+| AMD Ryzen 7 4800H with Radeon Graphics          | 2         | 3.33%   |
+| AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx | 2         | 3.33%   |
+| AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx   | 2         | 3.33%   |
+| Intel Xeon W-10885M CPU @ 2.40GHz               | 1         | 1.67%   |
+| Intel Pentium M processor 1000MHz               | 1         | 1.67%   |
+| Intel Core i7-9750H CPU @ 2.60GHz               | 1         | 1.67%   |
+| Intel Core i7-8750H CPU @ 2.20GHz               | 1         | 1.67%   |
+| Intel Core i7-8565U CPU @ 1.80GHz               | 1         | 1.67%   |
+| Intel Core i7-7700HQ CPU @ 2.80GHz              | 1         | 1.67%   |
+| Intel Core i7-5600U CPU @ 2.60GHz               | 1         | 1.67%   |
+| Intel Core i7-4710MQ CPU @ 2.50GHz              | 1         | 1.67%   |
+| Intel Core i7-4710HQ CPU @ 2.50GHz              | 1         | 1.67%   |
+| Intel Core i7-4600U CPU @ 2.10GHz               | 1         | 1.67%   |
+| Intel Core i7-3687U CPU @ 2.10GHz               | 1         | 1.67%   |
+| Intel Core i7-3615QM CPU @ 2.30GHz              | 1         | 1.67%   |
+| Intel Core i7-10870H CPU @ 2.20GHz              | 1         | 1.67%   |
+| Intel Core i7-1065G7 CPU @ 1.30GHz              | 1         | 1.67%   |
+| Intel Core i7-10510U CPU @ 1.80GHz              | 1         | 1.67%   |
+| Intel Core i5-6300U CPU @ 2.40GHz               | 1         | 1.67%   |
+| Intel Core i5-5257U CPU @ 2.70GHz               | 1         | 1.67%   |
+| Intel Core i5-3427U CPU @ 1.80GHz               | 1         | 1.67%   |
+| Intel Core i5-3320M CPU @ 2.60GHz               | 1         | 1.67%   |
+| Intel 11th Gen Core i7-11850H @ 2.50GHz         | 1         | 1.67%   |
+| Intel 11th Gen Core i7-11800H @ 2.30GHz         | 1         | 1.67%   |
+| AMD Ryzen 7 PRO 4750U with Radeon Graphics      | 1         | 1.67%   |
+| AMD Ryzen 7 6800H with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 7 5700U with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 7 4800U with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 7 4700U with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 5 5500U with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 5 4600H with Radeon Graphics          | 1         | 1.67%   |
+| AMD Ryzen 3 2200U with Radeon Vega Mobile Gfx   | 1         | 1.67%   |
+| AMD E-450 APU with Radeon HD Graphics           | 1         | 1.67%   |
 
 CPU Model Family
 ----------------
@@ -1200,17 +1207,17 @@ Processor model prefix
 
 | Model           | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Intel Core i7   | 22        | 37.93%  |
-| Intel Core i5   | 11        | 18.97%  |
-| Other           | 7         | 12.07%  |
-| AMD Ryzen 7     | 5         | 8.62%   |
-| AMD Ryzen 5     | 4         | 6.9%    |
-| AMD Ryzen 7 PRO | 3         | 5.17%   |
-| AMD Ryzen 5 PRO | 2         | 3.45%   |
-| Intel Xeon      | 1         | 1.72%   |
-| Intel Pentium M | 1         | 1.72%   |
-| AMD Ryzen 3     | 1         | 1.72%   |
-| AMD E           | 1         | 1.72%   |
+| Intel Core i7   | 22        | 37.29%  |
+| Intel Core i5   | 11        | 18.64%  |
+| Other           | 7         | 11.86%  |
+| AMD Ryzen 7     | 6         | 10.17%  |
+| AMD Ryzen 5     | 4         | 6.78%   |
+| AMD Ryzen 7 PRO | 3         | 5.08%   |
+| AMD Ryzen 5 PRO | 2         | 3.39%   |
+| Intel Xeon      | 1         | 1.69%   |
+| Intel Pentium M | 1         | 1.69%   |
+| AMD Ryzen 3     | 1         | 1.69%   |
+| AMD E           | 1         | 1.69%   |
 
 CPU Cores
 ---------
@@ -1222,13 +1229,13 @@ Number of processor cores
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 4      | 20        | 33.9%   |
-| 2      | 14        | 23.73%  |
-| 8      | 12        | 20.34%  |
-| 16     | 5         | 8.47%   |
-| 6      | 5         | 8.47%   |
-| 12     | 2         | 3.39%   |
-| 1      | 1         | 1.69%   |
+| 4      | 20        | 33.33%  |
+| 2      | 14        | 23.33%  |
+| 8      | 12        | 20%     |
+| 16     | 6         | 10%     |
+| 6      | 5         | 8.33%   |
+| 12     | 2         | 3.33%   |
+| 1      | 1         | 1.67%   |
 
 CPU Sockets
 -----------
@@ -1240,7 +1247,7 @@ Number of sockets
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 58        | 100%    |
+| 1      | 59        | 100%    |
 
 CPU Threads
 -----------
@@ -1252,9 +1259,9 @@ Threads per core (Hyper-Threading)
 
 | Number  | Notebooks | Percent |
 |---------|-----------|---------|
-| 2       | 41        | 69.49%  |
-| 1       | 17        | 28.81%  |
-| Unknown | 1         | 1.69%   |
+| 2       | 41        | 68.33%  |
+| 1       | 18        | 30%     |
+| Unknown | 1         | 1.67%   |
 
 CPU Microarch
 -------------
@@ -1266,20 +1273,20 @@ Microarchitecture
 
 | Name      | Notebooks | Percent |
 |-----------|-----------|---------|
-| KabyLake  | 12        | 20.34%  |
-| IvyBridge | 8         | 13.56%  |
-| CometLake | 7         | 11.86%  |
-| Zen+      | 6         | 10.17%  |
-| Zen 2     | 6         | 10.17%  |
-| TigerLake | 5         | 8.47%   |
-| Unknown   | 5         | 8.47%   |
-| Haswell   | 3         | 5.08%   |
-| Broadwell | 2         | 3.39%   |
-| Zen       | 1         | 1.69%   |
-| Skylake   | 1         | 1.69%   |
-| P6        | 1         | 1.69%   |
-| IceLake   | 1         | 1.69%   |
-| Bobcat    | 1         | 1.69%   |
+| KabyLake  | 12        | 20%     |
+| IvyBridge | 8         | 13.33%  |
+| CometLake | 7         | 11.67%  |
+| Zen+      | 6         | 10%     |
+| Zen 2     | 6         | 10%     |
+| Unknown   | 6         | 10%     |
+| TigerLake | 5         | 8.33%   |
+| Haswell   | 3         | 5%      |
+| Broadwell | 2         | 3.33%   |
+| Zen       | 1         | 1.67%   |
+| Skylake   | 1         | 1.67%   |
+| P6        | 1         | 1.67%   |
+| IceLake   | 1         | 1.67%   |
+| Bobcat    | 1         | 1.67%   |
 
 Graphics
 --------
@@ -1294,9 +1301,9 @@ Vendors of graphics cards
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| Intel  | 38        | 49.35%  |
-| AMD    | 20        | 25.97%  |
-| Nvidia | 19        | 24.68%  |
+| Intel  | 38        | 48.72%  |
+| AMD    | 21        | 26.92%  |
+| Nvidia | 19        | 24.36%  |
 
 GPU Model
 ---------
@@ -1308,46 +1315,46 @@ Graphics card models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Intel CometLake-U GT2 [UHD Graphics]                                 | 6         | 7.59%   |
-| AMD Renoir                                                           | 6         | 7.59%   |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 6         | 7.59%   |
-| Intel TigerLake-LP GT2 [Iris Xe Graphics]                            | 5         | 6.33%   |
-| Intel 3rd Gen Core processor Graphics Controller                     | 5         | 6.33%   |
-| Intel CometLake-H GT2 [UHD Graphics]                                 | 4         | 5.06%   |
-| Nvidia TU117M                                                        | 3         | 3.8%    |
-| AMD Thames [Radeon HD 7550M/7570M/7650M]                             | 3         | 3.8%    |
-| Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                           | 2         | 2.53%   |
-| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                           | 2         | 2.53%   |
-| Nvidia GP108M [GeForce MX230]                                        | 2         | 2.53%   |
-| Intel TigerLake-H GT1 [UHD Graphics]                                 | 2         | 2.53%   |
-| Intel HD Graphics 620                                                | 2         | 2.53%   |
-| Intel CoffeeLake-H GT2 [UHD Graphics 630]                            | 2         | 2.53%   |
-| Intel 4th Gen Core Processor Integrated Graphics Controller          | 2         | 2.53%   |
-| AMD Lucienne                                                         | 2         | 2.53%   |
-| Nvidia TU117M [GeForce MX450]                                        | 1         | 1.27%   |
-| Nvidia TU104GLM [Quadro RTX 5000 Mobile / Max-Q]                     | 1         | 1.27%   |
-| Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                           | 1         | 1.27%   |
-| Nvidia GM108M [GeForce MX130]                                        | 1         | 1.27%   |
-| Nvidia GM108M [GeForce 940MX]                                        | 1         | 1.27%   |
-| Nvidia GM107M [GeForce GTX 860M]                                     | 1         | 1.27%   |
-| Nvidia GK107M [GeForce GT 650M Mac Edition]                          | 1         | 1.27%   |
-| Nvidia GK107GLM [Quadro K1100M]                                      | 1         | 1.27%   |
-| Nvidia GA107M [GeForce RTX 3050 Ti Mobile]                           | 1         | 1.27%   |
-| Nvidia GA104M [GeForce RTX 3070 Mobile / Max-Q]                      | 1         | 1.27%   |
-| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                           | 1         | 1.27%   |
-| Intel Skylake GT2 [HD Graphics 520]                                  | 1         | 1.27%   |
-| Intel JasperLake [UHD Graphics]                                      | 1         | 1.27%   |
-| Intel Iris Plus Graphics G7                                          | 1         | 1.27%   |
-| Intel Iris Graphics 6100                                             | 1         | 1.27%   |
-| Intel HD Graphics 630                                                | 1         | 1.27%   |
-| Intel HD Graphics 5500                                               | 1         | 1.27%   |
-| Intel Haswell-ULT Integrated Graphics Controller                     | 1         | 1.27%   |
-| Intel Coffee Lake-S GT2 [UHD Graphics P630]                          | 1         | 1.27%   |
-| Intel 82852/855GM Integrated Graphics Device                         | 1         | 1.27%   |
-| AMD Wrestler [Radeon HD 6320]                                        | 1         | 1.27%   |
-| AMD VanGogh [AMD Custom GPU 0405]                                    | 1         | 1.27%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]     | 1         | 1.27%   |
-| AMD Navi 14 [Radeon RX 5500/5500M / Pro 5500M]                       | 1         | 1.27%   |
+| Intel CometLake-U GT2 [UHD Graphics]                                 | 6         | 7.5%    |
+| AMD Renoir                                                           | 6         | 7.5%    |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 6         | 7.5%    |
+| Intel TigerLake-LP GT2 [Iris Xe Graphics]                            | 5         | 6.25%   |
+| Intel 3rd Gen Core processor Graphics Controller                     | 5         | 6.25%   |
+| Intel CometLake-H GT2 [UHD Graphics]                                 | 4         | 5%      |
+| Nvidia TU117M                                                        | 3         | 3.75%   |
+| AMD Thames [Radeon HD 7550M/7570M/7650M]                             | 3         | 3.75%   |
+| Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                           | 2         | 2.5%    |
+| Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                           | 2         | 2.5%    |
+| Nvidia GP108M [GeForce MX230]                                        | 2         | 2.5%    |
+| Intel TigerLake-H GT1 [UHD Graphics]                                 | 2         | 2.5%    |
+| Intel HD Graphics 620                                                | 2         | 2.5%    |
+| Intel CoffeeLake-H GT2 [UHD Graphics 630]                            | 2         | 2.5%    |
+| Intel 4th Gen Core Processor Integrated Graphics Controller          | 2         | 2.5%    |
+| AMD Lucienne                                                         | 2         | 2.5%    |
+| Nvidia TU117M [GeForce MX450]                                        | 1         | 1.25%   |
+| Nvidia TU104GLM [Quadro RTX 5000 Mobile / Max-Q]                     | 1         | 1.25%   |
+| Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                           | 1         | 1.25%   |
+| Nvidia GM108M [GeForce MX130]                                        | 1         | 1.25%   |
+| Nvidia GM108M [GeForce 940MX]                                        | 1         | 1.25%   |
+| Nvidia GM107M [GeForce GTX 860M]                                     | 1         | 1.25%   |
+| Nvidia GK107M [GeForce GT 650M Mac Edition]                          | 1         | 1.25%   |
+| Nvidia GK107GLM [Quadro K1100M]                                      | 1         | 1.25%   |
+| Nvidia GA107M [GeForce RTX 3050 Ti Mobile]                           | 1         | 1.25%   |
+| Nvidia GA104M [GeForce RTX 3070 Mobile / Max-Q]                      | 1         | 1.25%   |
+| Intel WhiskeyLake-U GT2 [UHD Graphics 620]                           | 1         | 1.25%   |
+| Intel Skylake GT2 [HD Graphics 520]                                  | 1         | 1.25%   |
+| Intel JasperLake [UHD Graphics]                                      | 1         | 1.25%   |
+| Intel Iris Plus Graphics G7                                          | 1         | 1.25%   |
+| Intel Iris Graphics 6100                                             | 1         | 1.25%   |
+| Intel HD Graphics 630                                                | 1         | 1.25%   |
+| Intel HD Graphics 5500                                               | 1         | 1.25%   |
+| Intel Haswell-ULT Integrated Graphics Controller                     | 1         | 1.25%   |
+| Intel Coffee Lake-S GT2 [UHD Graphics P630]                          | 1         | 1.25%   |
+| Intel 82852/855GM Integrated Graphics Device                         | 1         | 1.25%   |
+| AMD Wrestler [Radeon HD 6320]                                        | 1         | 1.25%   |
+| AMD VanGogh [AMD Custom GPU 0405]                                    | 1         | 1.25%   |
+| AMD Rembrandt [Radeon 680M]                                          | 1         | 1.25%   |
+| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]     | 1         | 1.25%   |
 
 GPU Combo
 ---------
@@ -1359,12 +1366,12 @@ Combinations of graphics cards
 
 | Name           | Notebooks | Percent |
 |----------------|-----------|---------|
-| 1 x Intel      | 21        | 35%     |
-| 1 x AMD        | 17        | 28.33%  |
-| Intel + Nvidia | 16        | 26.67%  |
-| 1 x Nvidia     | 3         | 5%      |
-| 2 x AMD        | 2         | 3.33%   |
-| AMD + Nvidia   | 1         | 1.67%   |
+| 1 x Intel      | 21        | 34.43%  |
+| 1 x AMD        | 18        | 29.51%  |
+| Intel + Nvidia | 16        | 26.23%  |
+| 1 x Nvidia     | 3         | 4.92%   |
+| 2 x AMD        | 2         | 3.28%   |
+| AMD + Nvidia   | 1         | 1.64%   |
 
 GPU Driver
 ----------
@@ -1376,8 +1383,8 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 48        | 82.76%  |
-| Proprietary | 10        | 17.24%  |
+| Free        | 49        | 83.05%  |
+| Proprietary | 10        | 16.95%  |
 
 GPU Memory
 ----------
@@ -1389,11 +1396,11 @@ Total video memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 47        | 78.33%  |
-| 1.01-2.0   | 4         | 6.67%   |
-| 0.51-1.0   | 4         | 6.67%   |
-| 0.01-0.5   | 4         | 6.67%   |
-| 3.01-4.0   | 1         | 1.67%   |
+| Unknown    | 48        | 78.69%  |
+| 1.01-2.0   | 4         | 6.56%   |
+| 0.51-1.0   | 4         | 6.56%   |
+| 0.01-0.5   | 4         | 6.56%   |
+| 3.01-4.0   | 1         | 1.64%   |
 
 Monitor
 -------
@@ -1608,10 +1615,10 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 38        | 62.3%   |
-| 0     | 15        | 24.59%  |
-| 2     | 7         | 11.48%  |
-| 3     | 1         | 1.64%   |
+| 1     | 38        | 61.29%  |
+| 0     | 16        | 25.81%  |
+| 2     | 7         | 11.29%  |
+| 3     | 1         | 1.61%   |
 
 Network
 -------
@@ -1626,18 +1633,18 @@ Controller vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 49        | 46.67%  |
-| Realtek Semiconductor | 30        | 28.57%  |
-| TP-Link               | 5         | 4.76%   |
-| Broadcom              | 5         | 4.76%   |
-| Hewlett-Packard       | 4         | 3.81%   |
-| Qualcomm Atheros      | 3         | 2.86%   |
-| Ralink Technology     | 2         | 1.9%    |
-| Edimax Technology     | 2         | 1.9%    |
-| D-Link System         | 2         | 1.9%    |
-| Lenovo                | 1         | 0.95%   |
-| Google                | 1         | 0.95%   |
-| BUFFALO               | 1         | 0.95%   |
+| Intel                 | 49        | 46.23%  |
+| Realtek Semiconductor | 31        | 29.25%  |
+| TP-Link               | 5         | 4.72%   |
+| Broadcom              | 5         | 4.72%   |
+| Hewlett-Packard       | 4         | 3.77%   |
+| Qualcomm Atheros      | 3         | 2.83%   |
+| Ralink Technology     | 2         | 1.89%   |
+| Edimax Technology     | 2         | 1.89%   |
+| D-Link System         | 2         | 1.89%   |
+| Lenovo                | 1         | 0.94%   |
+| Google                | 1         | 0.94%   |
+| BUFFALO               | 1         | 0.94%   |
 
 Net Controller Model
 --------------------
@@ -1649,25 +1656,26 @@ Controller models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 25        | 19.08%  |
-| Intel Wi-Fi 6 AX200                                                        | 6         | 4.58%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 4.58%   |
-| Intel Comet Lake PCH CNVi WiFi                                             | 6         | 4.58%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 4.58%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 4.58%   |
-| Intel Wireless-AC 9260                                                     | 5         | 3.82%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 3.05%   |
-| Intel Wireless 8265 / 8275                                                 | 4         | 3.05%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 4         | 3.05%   |
-| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                    | 4         | 3.05%   |
-| Intel Wi-Fi 6 AX201                                                        | 3         | 2.29%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 2         | 1.53%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                        | 2         | 1.53%   |
-| Ralink MT7601U Wireless Adapter                                            | 2         | 1.53%   |
-| Intel Wireless 7260                                                        | 2         | 1.53%   |
-| Intel Ethernet Connection (4) I219-LM                                      | 2         | 1.53%   |
-| Intel Ethernet Connection (10) I219-V                                      | 2         | 1.53%   |
-| D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 2         | 1.53%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 25        | 18.94%  |
+| Intel Wi-Fi 6 AX200                                                        | 6         | 4.55%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 4.55%   |
+| Intel Comet Lake PCH CNVi WiFi                                             | 6         | 4.55%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 4.55%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 4.55%   |
+| Intel Wireless-AC 9260                                                     | 5         | 3.79%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 3.03%   |
+| Intel Wireless 8265 / 8275                                                 | 4         | 3.03%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 4         | 3.03%   |
+| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                    | 4         | 3.03%   |
+| Intel Wi-Fi 6 AX201                                                        | 3         | 2.27%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 2         | 1.52%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                        | 2         | 1.52%   |
+| Ralink MT7601U Wireless Adapter                                            | 2         | 1.52%   |
+| Intel Wireless 7260                                                        | 2         | 1.52%   |
+| Intel Ethernet Connection (4) I219-LM                                      | 2         | 1.52%   |
+| Intel Ethernet Connection (10) I219-V                                      | 2         | 1.52%   |
+| D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 2         | 1.52%   |
+| Unknown                                                                    | 2         | 1.52%   |
 | TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]        | 1         | 0.76%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                   | 1         | 0.76%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1         | 0.76%   |
@@ -1688,7 +1696,6 @@ Controller models
 | Intel Ethernet Connection I217-LM                                          | 1         | 0.76%   |
 | Intel Ethernet Connection (7) I219-V                                       | 1         | 0.76%   |
 | Intel Ethernet Connection (5) I219-V                                       | 1         | 0.76%   |
-| Intel Ethernet Connection (3) I218-LM                                      | 1         | 0.76%   |
 
 Wireless Vendor
 ---------------
@@ -1814,9 +1821,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 59        | 52.21%  |
-| Ethernet | 49        | 43.36%  |
-| Modem    | 5         | 4.42%   |
+| WiFi     | 59        | 51.75%  |
+| Ethernet | 49        | 42.98%  |
+| Modem    | 5         | 4.39%   |
+| Unknown  | 1         | 0.88%   |
 
 Used Controller
 ---------------
@@ -1842,9 +1850,9 @@ Total network controllers on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 46        | 79.31%  |
-| 1     | 10        | 17.24%  |
-| 3     | 2         | 3.45%   |
+| 2     | 46        | 77.97%  |
+| 1     | 11        | 18.64%  |
+| 3     | 2         | 3.39%   |
 
 IPv6
 ----
@@ -1856,8 +1864,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 50        | 78.13%  |
-| Yes  | 14        | 21.88%  |
+| No   | 51        | 78.46%  |
+| Yes  | 14        | 21.54%  |
 
 Bluetooth
 ---------
@@ -1872,13 +1880,14 @@ Controller vendors
 
 | Vendor                          | Notebooks | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 35        | 76.09%  |
-| Apple                           | 4         | 8.7%    |
-| Realtek Semiconductor           | 2         | 4.35%   |
-| IMC Networks                    | 2         | 4.35%   |
-| Realtek                         | 1         | 2.17%   |
-| Qualcomm Atheros Communications | 1         | 2.17%   |
-| Broadcom                        | 1         | 2.17%   |
+| Intel                           | 35        | 74.47%  |
+| Apple                           | 4         | 8.51%   |
+| Realtek Semiconductor           | 2         | 4.26%   |
+| IMC Networks                    | 2         | 4.26%   |
+| Realtek                         | 1         | 2.13%   |
+| Qualcomm Atheros Communications | 1         | 2.13%   |
+| Opticis                         | 1         | 2.13%   |
+| Broadcom                        | 1         | 2.13%   |
 
 Bluetooth Model
 ---------------
@@ -1890,23 +1899,24 @@ Controller models
 
 | Model                                          | Notebooks | Percent |
 |------------------------------------------------|-----------|---------|
-| Intel AX201 Bluetooth                          | 13        | 28.26%  |
-| Intel AX200 Bluetooth                          | 6         | 13.04%  |
-| Intel Bluetooth wireless interface             | 5         | 10.87%  |
-| Intel Wireless-AC 9260 Bluetooth Adapter       | 4         | 8.7%    |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 3         | 6.52%   |
-| Intel AX210 Bluetooth                          | 3         | 6.52%   |
-| Apple Bluetooth Host Controller                | 2         | 4.35%   |
-| Realtek  Bluetooth Adapter                     | 1         | 2.17%   |
-| Realtek Bluetooth Radio                        | 1         | 2.17%   |
-| Realtek Bluetooth Radio                        | 1         | 2.17%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.0         | 1         | 2.17%   |
-| Intel Centrino Bluetooth Wireless Transceiver  | 1         | 2.17%   |
-| IMC Networks Bluetooth Radio                   | 1         | 2.17%   |
-| IMC Networks Bluetooth module                  | 1         | 2.17%   |
-| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 2.17%   |
-| Apple Built-in Bluetooth 2.0+EDR HCI           | 1         | 2.17%   |
-| Apple Apple Broadcom Built-in Bluetooth        | 1         | 2.17%   |
+| Intel AX201 Bluetooth                          | 13        | 27.66%  |
+| Intel AX200 Bluetooth                          | 6         | 12.77%  |
+| Intel Bluetooth wireless interface             | 5         | 10.64%  |
+| Intel Wireless-AC 9260 Bluetooth Adapter       | 4         | 8.51%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 3         | 6.38%   |
+| Intel AX210 Bluetooth                          | 3         | 6.38%   |
+| Apple Bluetooth Host Controller                | 2         | 4.26%   |
+| Realtek  Bluetooth Adapter                     | 1         | 2.13%   |
+| Realtek Bluetooth Radio                        | 1         | 2.13%   |
+| Realtek Bluetooth Radio                        | 1         | 2.13%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.0         | 1         | 2.13%   |
+| Opticis Bluetooth Radio                        | 1         | 2.13%   |
+| Intel Centrino Bluetooth Wireless Transceiver  | 1         | 2.13%   |
+| IMC Networks Bluetooth Radio                   | 1         | 2.13%   |
+| IMC Networks Bluetooth module                  | 1         | 2.13%   |
+| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 2.13%   |
+| Apple Built-in Bluetooth 2.0+EDR HCI           | 1         | 2.13%   |
+| Apple Apple Broadcom Built-in Bluetooth        | 1         | 2.13%   |
 
 Sound
 -----
@@ -1921,12 +1931,12 @@ Sound card vendors
 
 | Vendor          | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Intel           | 43        | 53.09%  |
-| AMD             | 20        | 24.69%  |
-| Nvidia          | 13        | 16.05%  |
-| Lenovo          | 3         | 3.7%    |
-| SteelSeries ApS | 1         | 1.23%   |
-| CMX Systems     | 1         | 1.23%   |
+| Intel           | 43        | 52.44%  |
+| AMD             | 21        | 25.61%  |
+| Nvidia          | 13        | 15.85%  |
+| Lenovo          | 3         | 3.66%   |
+| SteelSeries ApS | 1         | 1.22%   |
+| CMX Systems     | 1         | 1.22%   |
 
 Sound Model
 -----------
@@ -1938,44 +1948,44 @@ Sound card models
 
 | Model                                                               | Notebooks | Percent |
 |---------------------------------------------------------------------|-----------|---------|
-| AMD Family 17h/19h HD Audio Controller                              | 15        | 14.85%  |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller | 8         | 7.92%   |
-| Intel Comet Lake PCH cAVS                                           | 7         | 6.93%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                 | 7         | 6.93%   |
-| Intel Comet Lake PCH-LP cAVS                                        | 6         | 5.94%   |
-| AMD Renoir Radeon High Definition Audio Controller                  | 6         | 5.94%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller      | 5         | 4.95%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller         | 5         | 4.95%   |
-| Intel Sunrise Point-LP HD Audio                                     | 3         | 2.97%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]           | 3         | 2.97%   |
-| Nvidia TU116 High Definition Audio Controller                       | 2         | 1.98%   |
-| Nvidia GK107 HDMI Audio Controller                                  | 2         | 1.98%   |
-| Intel Wildcat Point-LP High Definition Audio Controller             | 2         | 1.98%   |
-| Intel Tiger Lake-H HD Audio Controller                              | 2         | 1.98%   |
-| Intel Cannon Lake PCH cAVS                                          | 2         | 1.98%   |
-| Intel Broadwell-U Audio Controller                                  | 2         | 1.98%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 2         | 1.98%   |
-| AMD Navi 10 HDMI Audio                                              | 2         | 1.98%   |
-| SteelSeries ApS SteelSeries Siberia 350                             | 1         | 0.99%   |
-| Nvidia TU104 HD Audio Controller                                    | 1         | 0.99%   |
-| Nvidia GP107GL High Definition Audio Controller                     | 1         | 0.99%   |
-| Nvidia GA104 High Definition Audio Controller                       | 1         | 0.99%   |
-| Lenovo ThinkPad Thunderbolt 3 Dock Audio                            | 1         | 0.99%   |
-| Lenovo ThinkPad Dock Audio                                          | 1         | 0.99%   |
-| Lenovo Realtek USB Audio                                            | 1         | 0.99%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1         | 0.99%   |
-| Intel Jasper Lake HD Audio                                          | 1         | 0.99%   |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller           | 1         | 0.99%   |
-| Intel Haswell-ULT HD Audio Controller                               | 1         | 0.99%   |
-| Intel CM238 HD Audio Controller                                     | 1         | 0.99%   |
-| Intel Cannon Point-LP High Definition Audio Controller              | 1         | 0.99%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller   | 1         | 0.99%   |
-| Intel 8 Series HD Audio Controller                                  | 1         | 0.99%   |
-| CMX Systems USB PnP Audio Device                                    | 1         | 0.99%   |
-| AMD Wrestler HDMI Audio                                             | 1         | 0.99%   |
-| AMD SBx00 Azalia (Intel HDA)                                        | 1         | 0.99%   |
-| AMD Rembrandt Radeon High Definition Audio Controller               | 1         | 0.99%   |
-| Unknown                                                             | 1         | 0.99%   |
+| AMD Family 17h/19h HD Audio Controller                              | 16        | 15.53%  |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller | 8         | 7.77%   |
+| Intel Comet Lake PCH cAVS                                           | 7         | 6.8%    |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                 | 7         | 6.8%    |
+| Intel Comet Lake PCH-LP cAVS                                        | 6         | 5.83%   |
+| AMD Renoir Radeon High Definition Audio Controller                  | 6         | 5.83%   |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller      | 5         | 4.85%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller         | 5         | 4.85%   |
+| Intel Sunrise Point-LP HD Audio                                     | 3         | 2.91%   |
+| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]           | 3         | 2.91%   |
+| Nvidia TU116 High Definition Audio Controller                       | 2         | 1.94%   |
+| Nvidia GK107 HDMI Audio Controller                                  | 2         | 1.94%   |
+| Intel Wildcat Point-LP High Definition Audio Controller             | 2         | 1.94%   |
+| Intel Tiger Lake-H HD Audio Controller                              | 2         | 1.94%   |
+| Intel Cannon Lake PCH cAVS                                          | 2         | 1.94%   |
+| Intel Broadwell-U Audio Controller                                  | 2         | 1.94%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 2         | 1.94%   |
+| AMD Rembrandt Radeon High Definition Audio Controller               | 2         | 1.94%   |
+| AMD Navi 10 HDMI Audio                                              | 2         | 1.94%   |
+| SteelSeries ApS SteelSeries Siberia 350                             | 1         | 0.97%   |
+| Nvidia TU104 HD Audio Controller                                    | 1         | 0.97%   |
+| Nvidia GP107GL High Definition Audio Controller                     | 1         | 0.97%   |
+| Nvidia GA104 High Definition Audio Controller                       | 1         | 0.97%   |
+| Lenovo ThinkPad Thunderbolt 3 Dock Audio                            | 1         | 0.97%   |
+| Lenovo ThinkPad Dock Audio                                          | 1         | 0.97%   |
+| Lenovo Realtek USB Audio                                            | 1         | 0.97%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1         | 0.97%   |
+| Intel Jasper Lake HD Audio                                          | 1         | 0.97%   |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller           | 1         | 0.97%   |
+| Intel Haswell-ULT HD Audio Controller                               | 1         | 0.97%   |
+| Intel CM238 HD Audio Controller                                     | 1         | 0.97%   |
+| Intel Cannon Point-LP High Definition Audio Controller              | 1         | 0.97%   |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller   | 1         | 0.97%   |
+| Intel 8 Series HD Audio Controller                                  | 1         | 0.97%   |
+| CMX Systems USB PnP Audio Device                                    | 1         | 0.97%   |
+| AMD Wrestler HDMI Audio                                             | 1         | 0.97%   |
+| AMD SBx00 Azalia (Intel HDA)                                        | 1         | 0.97%   |
+| Unknown                                                             | 1         | 0.97%   |
 
 Memory
 ------
@@ -1990,23 +2000,23 @@ Memory module vendors
 
 | Vendor              | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Samsung Electronics | 20        | 28.99%  |
-| SK hynix            | 12        | 17.39%  |
-| Micron Technology   | 10        | 14.49%  |
-| Kingston            | 6         | 8.7%    |
-| Crucial             | 5         | 7.25%   |
-| Ramaxel Technology  | 3         | 4.35%   |
-| Unknown             | 2         | 2.9%    |
-| Smart               | 2         | 2.9%    |
-| Team                | 1         | 1.45%   |
-| PNY                 | 1         | 1.45%   |
-| Neo Forza           | 1         | 1.45%   |
-| Goodram             | 1         | 1.45%   |
-| Gold Key            | 1         | 1.45%   |
-| G.Skill             | 1         | 1.45%   |
-| Elpida              | 1         | 1.45%   |
-| A-DATA Technology   | 1         | 1.45%   |
-| Unknown             | 1         | 1.45%   |
+| Samsung Electronics | 20        | 28.57%  |
+| SK hynix            | 12        | 17.14%  |
+| Micron Technology   | 10        | 14.29%  |
+| Kingston            | 6         | 8.57%   |
+| Crucial             | 5         | 7.14%   |
+| Ramaxel Technology  | 3         | 4.29%   |
+| Unknown             | 2         | 2.86%   |
+| Smart               | 2         | 2.86%   |
+| Unknown             | 2         | 2.86%   |
+| Team                | 1         | 1.43%   |
+| PNY                 | 1         | 1.43%   |
+| Neo Forza           | 1         | 1.43%   |
+| Goodram             | 1         | 1.43%   |
+| Gold Key            | 1         | 1.43%   |
+| G.Skill             | 1         | 1.43%   |
+| Elpida              | 1         | 1.43%   |
+| A-DATA Technology   | 1         | 1.43%   |
 
 Memory Model
 ------------
@@ -2018,46 +2028,46 @@ Memory module models
 
 | Model                                                        | Notebooks | Percent |
 |--------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s        | 4         | 5.71%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 2.86%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 2         | 2.86%   |
-| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s       | 2         | 2.86%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 2         | 2.86%   |
-| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 2         | 2.86%   |
-| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s         | 2         | 2.86%   |
-| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s         | 2         | 2.86%   |
-| Crucial RAM BL32G32C16S4B.M16FB1 32GB SODIMM DDR4 2667MT/s   | 2         | 2.86%   |
-| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s                  | 1         | 1.43%   |
-| Unknown RAM Module 1GB SODIMM DDR                            | 1         | 1.43%   |
-| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s        | 1         | 1.43%   |
-| Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s        | 1         | 1.43%   |
-| Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s        | 1         | 1.43%   |
-| SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                 | 1         | 1.43%   |
-| SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 1.43%   |
-| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 1.43%   |
-| SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 1.43%   |
-| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 1.43%   |
-| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 1.43%   |
-| Samsung RAM M474A4G43AB1-CVF 32GB SODIMM DDR4 2933MT/s       | 1         | 1.43%   |
-| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s        | 1         | 1.43%   |
-| Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s          | 1         | 1.43%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.43%   |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s        | 1         | 1.43%   |
-| Samsung RAM M471A5244BB0-CWE 4GB SODIMM DDR4 3200MT/s        | 1         | 1.43%   |
-| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.43%   |
-| Samsung RAM M471A2G43BB2-CWE 16GB SODIMM DDR4 3200MT/s       | 1         | 1.43%   |
-| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s       | 1         | 1.43%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 1.43%   |
-| Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 1         | 1.43%   |
-| Samsung RAM K4EBE304EB-EGCF 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 1.43%   |
-| Ramaxel RAM RMSA3320MJ78HAF-3200 8GB SODIMM DDR4 3200MT/s    | 1         | 1.43%   |
-| Ramaxel RAM RMSA3300MH78HBF-2666 16GB SODIMM DDR4 2400MT/s   | 1         | 1.43%   |
-| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 1.43%   |
-| PNY RAM 16GU2X16LIII43-12-K 16GB SODIMM DDR4 2667MT/s        | 1         | 1.43%   |
-| Neo Forza RAM NMSO432F82-3200E 32GB SODIMM DDR4 3200MT/s     | 1         | 1.43%   |
-| Micron RAM Module 8GB SODIMM DDR4 3200MT/s                   | 1         | 1.43%   |
-| Micron RAM Module 2GB SODIMM DDR3 1600MT/s                   | 1         | 1.43%   |
-| Micron RAM 53E2G32D4NQ-046 4GB Row Of Chips LPDDR4 4267MT/s  | 1         | 1.43%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s        | 4         | 5.63%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 2         | 2.82%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s       | 2         | 2.82%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s       | 2         | 2.82%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 2         | 2.82%   |
+| Samsung RAM M471A1G44AB0-CTD 8GB SODIMM DDR4 2667MT/s        | 2         | 2.82%   |
+| Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s         | 2         | 2.82%   |
+| Micron RAM 4ATF1G64HZ-3G2E1 8GB SODIMM DDR4 3200MT/s         | 2         | 2.82%   |
+| Crucial RAM BL32G32C16S4B.M16FB1 32GB SODIMM DDR4 2667MT/s   | 2         | 2.82%   |
+| Unknown                                                      | 2         | 2.82%   |
+| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s                  | 1         | 1.41%   |
+| Unknown RAM Module 1GB SODIMM DDR                            | 1         | 1.41%   |
+| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s         | 1         | 1.41%   |
+| Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s        | 1         | 1.41%   |
+| Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s        | 1         | 1.41%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                 | 1         | 1.41%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 1.41%   |
+| SK hynix RAM HMA82GS6DJR8N-XN 16GB SODIMM DDR4 3200MT/s      | 1         | 1.41%   |
+| SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s      | 1         | 1.41%   |
+| SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 1         | 1.41%   |
+| SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s       | 1         | 1.41%   |
+| Samsung RAM M474A4G43AB1-CVF 32GB SODIMM DDR4 2933MT/s       | 1         | 1.41%   |
+| Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s        | 1         | 1.41%   |
+| Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s          | 1         | 1.41%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s        | 1         | 1.41%   |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s        | 1         | 1.41%   |
+| Samsung RAM M471A5244BB0-CWE 4GB SODIMM DDR4 3200MT/s        | 1         | 1.41%   |
+| Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s       | 1         | 1.41%   |
+| Samsung RAM M471A2G43BB2-CWE 16GB SODIMM DDR4 3200MT/s       | 1         | 1.41%   |
+| Samsung RAM M471A2G43AB2-CWE 16GB SODIMM DDR4 3200MT/s       | 1         | 1.41%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s        | 1         | 1.41%   |
+| Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s  | 1         | 1.41%   |
+| Samsung RAM K4EBE304EB-EGCF 8GB Row Of Chips LPDDR3 1867MT/s | 1         | 1.41%   |
+| Ramaxel RAM RMSA3320MJ78HAF-3200 8GB SODIMM DDR4 3200MT/s    | 1         | 1.41%   |
+| Ramaxel RAM RMSA3300MH78HBF-2666 16GB SODIMM DDR4 2400MT/s   | 1         | 1.41%   |
+| Ramaxel RAM RMSA3260ME78HAF-2666 8GB SODIMM DDR4 2667MT/s    | 1         | 1.41%   |
+| PNY RAM 16GU2X16LIII43-12-K 16GB SODIMM DDR4 2667MT/s        | 1         | 1.41%   |
+| Neo Forza RAM NMSO432F82-3200E 32GB SODIMM DDR4 3200MT/s     | 1         | 1.41%   |
+| Micron RAM Module 8GB SODIMM DDR4 3200MT/s                   | 1         | 1.41%   |
+| Micron RAM Module 2GB SODIMM DDR3 1600MT/s                   | 1         | 1.41%   |
 
 Memory Kind
 -----------
@@ -2069,12 +2079,12 @@ Memory module kinds
 
 | Kind   | Notebooks | Percent |
 |--------|-----------|---------|
-| DDR4   | 42        | 70%     |
-| DDR3   | 14        | 23.33%  |
-| LPDDR5 | 1         | 1.67%   |
-| LPDDR4 | 1         | 1.67%   |
-| LPDDR3 | 1         | 1.67%   |
-| DDR    | 1         | 1.67%   |
+| DDR4   | 42        | 68.85%  |
+| DDR3   | 14        | 22.95%  |
+| LPDDR5 | 2         | 3.28%   |
+| LPDDR4 | 1         | 1.64%   |
+| LPDDR3 | 1         | 1.64%   |
+| DDR    | 1         | 1.64%   |
 
 Memory Form Factor
 ------------------
@@ -2086,9 +2096,9 @@ Physical design of the memory module
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| SODIMM       | 55        | 91.67%  |
-| Row Of Chips | 4         | 6.67%   |
-| Chip         | 1         | 1.67%   |
+| SODIMM       | 55        | 90.16%  |
+| Row Of Chips | 5         | 8.2%    |
+| Chip         | 1         | 1.64%   |
 
 Memory Size
 -----------
@@ -2100,12 +2110,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 27        | 43.55%  |
-| 16384 | 15        | 24.19%  |
-| 4096  | 11        | 17.74%  |
-| 32768 | 6         | 9.68%   |
-| 2048  | 2         | 3.23%   |
-| 1024  | 1         | 1.61%   |
+| 8192  | 27        | 42.86%  |
+| 16384 | 15        | 23.81%  |
+| 4096  | 12        | 19.05%  |
+| 32768 | 6         | 9.52%   |
+| 2048  | 2         | 3.17%   |
+| 1024  | 1         | 1.59%   |
 
 Memory Speed
 ------------
@@ -2117,18 +2127,19 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 3200    | 19        | 30.16%  |
-| 2667    | 17        | 26.98%  |
-| 1600    | 8         | 12.7%   |
-| 1867    | 6         | 9.52%   |
-| 2400    | 4         | 6.35%   |
-| 2933    | 2         | 3.17%   |
-| 2133    | 2         | 3.17%   |
-| 4267    | 1         | 1.59%   |
-| 4266    | 1         | 1.59%   |
-| 1334    | 1         | 1.59%   |
-| 1333    | 1         | 1.59%   |
-| Unknown | 1         | 1.59%   |
+| 3200    | 19        | 29.69%  |
+| 2667    | 17        | 26.56%  |
+| 1600    | 8         | 12.5%   |
+| 1867    | 6         | 9.38%   |
+| 2400    | 4         | 6.25%   |
+| 2933    | 2         | 3.13%   |
+| 2133    | 2         | 3.13%   |
+| 6400    | 1         | 1.56%   |
+| 4267    | 1         | 1.56%   |
+| 4266    | 1         | 1.56%   |
+| 1334    | 1         | 1.56%   |
+| 1333    | 1         | 1.56%   |
+| Unknown | 1         | 1.56%   |
 
 Printers & scanners
 -------------------
@@ -2174,17 +2185,18 @@ Camera device vendors
 
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
-| Chicony Electronics                    | 15        | 26.79%  |
-| IMC Networks                           | 10        | 17.86%  |
-| Realtek Semiconductor                  | 6         | 10.71%  |
-| Lite-On Technology                     | 5         | 8.93%   |
-| Acer                                   | 5         | 8.93%   |
-| Sunplus Innovation Technology          | 3         | 5.36%   |
-| Logitech                               | 3         | 5.36%   |
-| Cheng Uei Precision Industry (Foxlink) | 3         | 5.36%   |
-| Syntek                                 | 2         | 3.57%   |
-| Microdia                               | 2         | 3.57%   |
-| Apple                                  | 2         | 3.57%   |
+| Chicony Electronics                    | 15        | 26.32%  |
+| IMC Networks                           | 10        | 17.54%  |
+| Realtek Semiconductor                  | 6         | 10.53%  |
+| Lite-On Technology                     | 5         | 8.77%   |
+| Acer                                   | 5         | 8.77%   |
+| Sunplus Innovation Technology          | 3         | 5.26%   |
+| Logitech                               | 3         | 5.26%   |
+| Cheng Uei Precision Industry (Foxlink) | 3         | 5.26%   |
+| Syntek                                 | 2         | 3.51%   |
+| Microdia                               | 2         | 3.51%   |
+| Apple                                  | 2         | 3.51%   |
+| SunplusIT                              | 1         | 1.75%   |
 
 Camera Model
 ------------
@@ -2196,36 +2208,37 @@ Camera device models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| IMC Networks Integrated Camera                                             | 7         | 12.28%  |
-| Chicony Integrated Camera                                                  | 7         | 12.28%  |
-| Sunplus Integrated_Webcam_HD                                               | 3         | 5.26%   |
-| Lite-On Integrated Camera                                                  | 3         | 5.26%   |
-| Chicony Integrated HP HD Webcam                                            | 3         | 5.26%   |
-| Acer Integrated Camera                                                     | 3         | 5.26%   |
-| Realtek Laptop Camera                                                      | 2         | 3.51%   |
-| Realtek Integrated_Webcam_HD                                               | 2         | 3.51%   |
-| Logitech Webcam C270                                                       | 2         | 3.51%   |
-| Lite-On HP HD Camera                                                       | 2         | 3.51%   |
-| Chicony ThinkPad T490 Webcam                                               | 2         | 3.51%   |
-| Apple FaceTime HD Camera (Built-in)                                        | 2         | 3.51%   |
-| Acer HD Webcam                                                             | 2         | 3.51%   |
-| Syntek Lenovo EasyCamera                                                   | 1         | 1.75%   |
-| Syntek Integrated Camera                                                   | 1         | 1.75%   |
-| Realtek USB 2 Webcam                                                       | 1         | 1.75%   |
-| Realtek Realtek USB2.0 PC Camera                                           | 1         | 1.75%   |
-| Microdia Integrated Webcam                                                 | 1         | 1.75%   |
-| Microdia Dell Integrated HD Webcam                                         | 1         | 1.75%   |
-| Logitech HD Pro Webcam C920                                                | 1         | 1.75%   |
-| IMC Networks USB2.0 HD UVC WebCam                                          | 1         | 1.75%   |
-| IMC Networks HD Camera                                                     | 1         | 1.75%   |
-| IMC Networks EasyCamera                                                    | 1         | 1.75%   |
-| Chicony USB2.0 0.3M UVC WebCam                                             | 1         | 1.75%   |
-| Chicony Integrated IR Camera                                               | 1         | 1.75%   |
-| Chicony HD Webcam                                                          | 1         | 1.75%   |
-| Chicony Chicony USB2.0 Camera                                              | 1         | 1.75%   |
-| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 1.75%   |
-| Cheng Uei Precision Industry (Foxlink) HP HD Webcam [Fixed]                | 1         | 1.75%   |
-| Cheng Uei Precision Industry (Foxlink) HP EliteBook integrated HD Webcam   | 1         | 1.75%   |
+| IMC Networks Integrated Camera                                             | 7         | 12.07%  |
+| Chicony Integrated Camera                                                  | 7         | 12.07%  |
+| Sunplus Integrated_Webcam_HD                                               | 3         | 5.17%   |
+| Lite-On Integrated Camera                                                  | 3         | 5.17%   |
+| Chicony Integrated HP HD Webcam                                            | 3         | 5.17%   |
+| Acer Integrated Camera                                                     | 3         | 5.17%   |
+| Realtek Laptop Camera                                                      | 2         | 3.45%   |
+| Realtek Integrated_Webcam_HD                                               | 2         | 3.45%   |
+| Logitech Webcam C270                                                       | 2         | 3.45%   |
+| Lite-On HP HD Camera                                                       | 2         | 3.45%   |
+| Chicony ThinkPad T490 Webcam                                               | 2         | 3.45%   |
+| Apple FaceTime HD Camera (Built-in)                                        | 2         | 3.45%   |
+| Acer HD Webcam                                                             | 2         | 3.45%   |
+| Syntek Lenovo EasyCamera                                                   | 1         | 1.72%   |
+| Syntek Integrated Camera                                                   | 1         | 1.72%   |
+| SunplusIT XiaoMi USB 2.0 Webcam                                            | 1         | 1.72%   |
+| Realtek USB 2 Webcam                                                       | 1         | 1.72%   |
+| Realtek Realtek USB2.0 PC Camera                                           | 1         | 1.72%   |
+| Microdia Integrated Webcam                                                 | 1         | 1.72%   |
+| Microdia Dell Integrated HD Webcam                                         | 1         | 1.72%   |
+| Logitech HD Pro Webcam C920                                                | 1         | 1.72%   |
+| IMC Networks USB2.0 HD UVC WebCam                                          | 1         | 1.72%   |
+| IMC Networks HD Camera                                                     | 1         | 1.72%   |
+| IMC Networks EasyCamera                                                    | 1         | 1.72%   |
+| Chicony USB2.0 0.3M UVC WebCam                                             | 1         | 1.72%   |
+| Chicony Integrated IR Camera                                               | 1         | 1.72%   |
+| Chicony HD Webcam                                                          | 1         | 1.72%   |
+| Chicony Chicony USB2.0 Camera                                              | 1         | 1.72%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 1.72%   |
+| Cheng Uei Precision Industry (Foxlink) HP HD Webcam [Fixed]                | 1         | 1.72%   |
+| Cheng Uei Precision Industry (Foxlink) HP EliteBook integrated HD Webcam   | 1         | 1.72%   |
 
 Security
 --------
@@ -2292,13 +2305,13 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 23        | 37.1%   |
-| 4     | 12        | 19.35%  |
-| 1     | 11        | 17.74%  |
-| 3     | 9         | 14.52%  |
-| 5     | 4         | 6.45%   |
-| 0     | 2         | 3.23%   |
-| 9     | 1         | 1.61%   |
+| 2     | 23        | 36.51%  |
+| 4     | 12        | 19.05%  |
+| 1     | 12        | 19.05%  |
+| 3     | 9         | 14.29%  |
+| 5     | 4         | 6.35%   |
+| 0     | 2         | 3.17%   |
+| 9     | 1         | 1.59%   |
 
 Unsupported Device Types
 ------------------------
@@ -2310,13 +2323,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 47        | 35.61%  |
-| Bluetooth                | 29        | 21.97%  |
-| Net/wireless             | 22        | 16.67%  |
-| Fingerprint reader       | 19        | 14.39%  |
-| Card reader              | 8         | 6.06%   |
-| Sound                    | 2         | 1.52%   |
-| Net/ethernet             | 2         | 1.52%   |
-| Firewire controller      | 2         | 1.52%   |
-| Modem                    | 1         | 0.76%   |
+| Communication controller | 47        | 35.34%  |
+| Bluetooth                | 29        | 21.8%   |
+| Net/wireless             | 22        | 16.54%  |
+| Fingerprint reader       | 19        | 14.29%  |
+| Card reader              | 8         | 6.02%   |
+| Sound                    | 2         | 1.5%    |
+| Net/ethernet             | 2         | 1.5%    |
+| Firewire controller      | 2         | 1.5%    |
+| Network                  | 1         | 0.75%   |
+| Modem                    | 1         | 0.75%   |
 

@@ -1519,7 +1519,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 1.61%   |
 | LG Display LCD Monitor LGD02AD 1366x768 340x190mm 15.3-inch          | 1         | 1.61%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch              | 1         | 1.61%   |
-| Lenovo LCD Monitor LEN4011 1280x800 260x170mm 12.2-inch              | 1         | 1.61%   |
+| Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch              | 1         | 1.61%   |
 | InfoVision LCD Monitor IVO057D 1920x1080 310x170mm 13.9-inch         | 1         | 1.61%   |
 | Iiyama PL2474H IVM6137 1920x1080 520x290mm 23.4-inch                 | 1         | 1.61%   |
 | HannStar LCD Monitor HSD1CF3 1920x1200 590x370mm 27.4-inch           | 1         | 1.61%   |

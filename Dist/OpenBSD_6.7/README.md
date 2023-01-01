@@ -725,7 +725,7 @@ Hard drive models
 | WDC WD6400AARS-00Y5B1 640GB      | 2         | 3.28%   |
 | Seagate ST250DM000-1BD141 250GB  | 2         | 3.28%   |
 | Seagate ST1000LM035-1RK172 1TB   | 2         | 3.28%   |
-| SanDisk Ultra Fit 16GB           | 2         | 3.28%   |
+| SanDisk Ultra Fit 128GB          | 2         | 3.28%   |
 | NVMe SAMSUNG MZVLW256 256GB      | 2         | 3.28%   |
 | WDC WDS240G2G0A-00JH30 240GB     | 1         | 1.64%   |
 | WDC WDS100T2B0A-00SM50 1TB       | 1         | 1.64%   |
@@ -753,7 +753,7 @@ Hard drive models
 | Phison SATA SSD 64GB             | 1         | 1.64%   |
 | Phison SATA SSD 16GB             | 1         | 1.64%   |
 | Phison SATA SSD 128GB            | 1         | 1.64%   |
-| OPENBSD SR RAID 1 752GB          | 1         | 1.64%   |
+| OPENBSD SR RAID 1 1TB            | 1         | 1.64%   |
 | NVMe WDC PC SN720 SDA 1TB        | 1         | 1.64%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 1.64%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |

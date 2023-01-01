@@ -670,7 +670,7 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| OPENBSD SR RAID 1 752GB           | 5        | 7.94%   |
+| OPENBSD SR RAID 1 1TB             | 5        | 7.94%   |
 | Toshiba MQ04ABF100 1TB            | 2        | 3.17%   |
 | NVMe Samsung SSD 970 250GB        | 2        | 3.17%   |
 | HGST HUS724020ALA640 2TB          | 2        | 3.17%   |

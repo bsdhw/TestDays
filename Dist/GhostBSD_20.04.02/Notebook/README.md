@@ -469,7 +469,7 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2020 | 9         | 15.52%  |
-| 2013 | 8         | 13.79%  |
+| 2013 | 9         | 15.52%  |
 | 2014 | 7         | 12.07%  |
 | 2017 | 5         | 8.62%   |
 | 2011 | 5         | 8.62%   |
@@ -478,8 +478,8 @@ Motherboard manufacture year
 | 2012 | 4         | 6.9%    |
 | 2009 | 4         | 6.9%    |
 | 2018 | 2         | 3.45%   |
-| 2016 | 2         | 3.45%   |
 | 2010 | 2         | 3.45%   |
+| 2016 | 1         | 1.72%   |
 | 2008 | 1         | 1.72%   |
 | 2007 | 1         | 1.72%   |
 
@@ -1374,7 +1374,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 470x300mm 22.0-inch | 1         | 1.89%   |
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 300x170mm 13.6-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |

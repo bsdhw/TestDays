@@ -825,7 +825,7 @@ Hard drive models
 
 | Model                             | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| OPENBSD SR RAID 1 752GB           | 5         | 4%      |
+| OPENBSD SR RAID 1 1TB             | 5         | 4%      |
 | WDC WD1600BEVT-22ZCT0 160GB       | 3         | 2.4%    |
 | Samsung SSD 850 EVO 250GB         | 3         | 2.4%    |
 | NVMe Samsung SSD 960 500GB        | 3         | 2.4%    |

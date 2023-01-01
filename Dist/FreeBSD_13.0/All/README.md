@@ -1512,9 +1512,9 @@ Processor vendors
 
 | Vendor  | Computers | Percent |
 |---------|-----------|---------|
-| Intel   | 168       | 75.34%  |
-| AMD     | 41        | 18.39%  |
-| ARM     | 11        | 4.93%   |
+| Intel   | 168       | 75.68%  |
+| AMD     | 41        | 18.47%  |
+| ARM     | 10        | 4.5%    |
 | Unknown | 3         | 1.35%   |
 
 CPU Model
@@ -1527,11 +1527,11 @@ Processor models
 
 | Model                                        | Computers | Percent |
 |----------------------------------------------|-----------|---------|
-| ARM Cortex-A72 r0p3                          | 6         | 2.69%   |
-| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.24%   |
-| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.79%   |
-| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.79%   |
-| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.79%   |
+| ARM Cortex-A72 r0p3                          | 6         | 2.7%    |
+| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.25%   |
+| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.8%    |
+| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.8%    |
+| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.8%    |
 | Intel CPU Version                            | 3         | 1.35%   |
 | Intel Core i7-7500U CPU @ 2.70GHz            | 3         | 1.35%   |
 | Intel Core i7-6700 CPU @ 3.40GHz             | 3         | 1.35%   |
@@ -1578,20 +1578,20 @@ Processor model prefix
 
 | Model                  | Computers | Percent |
 |------------------------|-----------|---------|
-| Intel Core i5          | 50        | 22.42%  |
-| Intel Core i7          | 39        | 17.49%  |
-| Other                  | 12        | 5.38%   |
-| Intel Core i3          | 12        | 5.38%   |
-| Intel Xeon             | 11        | 4.93%   |
-| ARM Cortex             | 11        | 4.93%   |
-| AMD Ryzen 7            | 11        | 4.93%   |
-| Intel Celeron          | 10        | 4.48%   |
-| Intel Pentium          | 9         | 4.04%   |
-| AMD Ryzen 9            | 8         | 3.59%   |
-| Intel Core 2 Duo       | 7         | 3.14%   |
-| Intel Atom             | 6         | 2.69%   |
-| Intel Pentium 4        | 4         | 1.79%   |
-| AMD Ryzen 5            | 4         | 1.79%   |
+| Intel Core i5          | 50        | 22.52%  |
+| Intel Core i7          | 39        | 17.57%  |
+| Other                  | 12        | 5.41%   |
+| Intel Core i3          | 12        | 5.41%   |
+| Intel Xeon             | 11        | 4.95%   |
+| AMD Ryzen 7            | 11        | 4.95%   |
+| Intel Celeron          | 10        | 4.5%    |
+| ARM Cortex             | 10        | 4.5%    |
+| Intel Pentium          | 9         | 4.05%   |
+| AMD Ryzen 9            | 8         | 3.6%    |
+| Intel Core 2 Duo       | 7         | 3.15%   |
+| Intel Atom             | 6         | 2.7%    |
+| Intel Pentium 4        | 4         | 1.8%    |
+| AMD Ryzen 5            | 4         | 1.8%    |
 | AMD Ryzen 3            | 3         | 1.35%   |
 | Intel Xeon Silver      | 2         | 0.9%    |
 | Intel Pentium Silver   | 2         | 0.9%    |
@@ -1649,9 +1649,9 @@ Number of sockets
 
 | Number  | Computers | Percent |
 |---------|-----------|---------|
-| 1       | 202       | 90.58%  |
-| Unknown | 11        | 4.93%   |
-| 2       | 10        | 4.48%   |
+| 1       | 202       | 90.99%  |
+| 2       | 10        | 4.5%    |
+| Unknown | 10        | 4.5%    |
 
 CPU Threads
 -----------
@@ -2699,13 +2699,13 @@ Memory module speed
 | 1067    | 9         | 3.91%   |
 | 800     | 9         | 3.91%   |
 | 667     | 7         | 3.04%   |
+| 3000    | 5         | 2.17%   |
 | 1334    | 5         | 2.17%   |
-| 3000    | 4         | 1.74%   |
 | 533     | 4         | 1.74%   |
 | Unknown | 4         | 1.74%   |
-| 2933    | 3         | 1.3%    |
 | 2666    | 3         | 1.3%    |
 | 4267    | 2         | 0.87%   |
+| 2933    | 2         | 0.87%   |
 | 1867    | 2         | 0.87%   |
 | 975     | 2         | 0.87%   |
 | 400     | 2         | 0.87%   |
