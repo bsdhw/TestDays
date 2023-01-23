@@ -1238,12 +1238,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 89       | 54.6%   |
-| IDE  | 31       | 19.02%  |
-| NVMe | 26       | 15.95%  |
-| RAID | 10       | 6.13%   |
-| SAS  | 4        | 2.45%   |
-| SCSI | 3        | 1.84%   |
+| SATA | 89       | 54.94%  |
+| IDE  | 31       | 19.14%  |
+| NVMe | 26       | 16.05%  |
+| RAID | 9        | 5.56%   |
+| SAS  | 4        | 2.47%   |
+| SCSI | 3        | 1.85%   |
 
 Processor
 ---------

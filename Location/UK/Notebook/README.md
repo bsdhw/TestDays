@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 178
+Total: 179
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | EliteBook 8570p             | [17f5e2e3d2](https://bsd-hardware.info/?probe=17f5e2e3d2) | Jan 04, 2023 |
 | Star Labs     | Lite                        | [9ad15636dd](https://bsd-hardware.info/?probe=9ad15636dd) | Dec 25, 2022 |
 | HP            | EliteBook 8570p             | [7cf06451fd](https://bsd-hardware.info/?probe=7cf06451fd) | Dec 17, 2022 |
 | HP            | EliteBook 8570p             | [64c92d49d9](https://bsd-hardware.info/?probe=64c92d49d9) | Dec 12, 2022 |
@@ -908,7 +909,7 @@ Hard drive vendors
 | WDC                 | 12        | 17     | 12.5%   |
 | Toshiba             | 8         | 22     | 8.33%   |
 | Seagate             | 7         | 7      | 7.29%   |
-| HGST                | 6         | 24     | 6.25%   |
+| HGST                | 6         | 25     | 6.25%   |
 | Intel               | 4         | 4      | 4.17%   |
 | Hitachi             | 4         | 4      | 4.17%   |
 | Transcend           | 3         | 4      | 3.13%   |
@@ -998,7 +999,7 @@ Hard disk drive vendors
 |---------------------|-----------|--------|---------|
 | Seagate             | 7         | 7      | 20.59%  |
 | WDC                 | 6         | 7      | 17.65%  |
-| HGST                | 6         | 24     | 17.65%  |
+| HGST                | 6         | 25     | 17.65%  |
 | Toshiba             | 5         | 17     | 14.71%  |
 | Hitachi             | 4         | 4      | 11.76%  |
 | Samsung Electronics | 3         | 3      | 8.82%   |
@@ -1050,7 +1051,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 43        | 70     | 50.59%  |
-| HDD  | 28        | 70     | 32.94%  |
+| HDD  | 28        | 71     | 32.94%  |
 | NVMe | 14        | 19     | 16.47%  |
 
 Drive Connector
@@ -1063,7 +1064,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 64        | 140    | 82.05%  |
+| SATA | 64        | 141    | 82.05%  |
 | NVMe | 14        | 19     | 17.95%  |
 
 Drive Size
@@ -1077,7 +1078,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 55        | 115    | 80.88%  |
-| 0.51-1.0   | 10        | 21     | 14.71%  |
+| 0.51-1.0   | 10        | 22     | 14.71%  |
 | 1.01-2.0   | 3         | 4      | 4.41%   |
 
 Space Total
@@ -1134,7 +1135,7 @@ Drive models with a malfunction
 | Micron Technology MTFDDAK256MAM-1K12 256GB       | 1         | 1      | 6.25%   |
 | Hitachi HTS545032B9A302 320GB                    | 1         | 1      | 6.25%   |
 | Hitachi HTS543232A7A384 320GB                    | 1         | 1      | 6.25%   |
-| HGST HTS721010A9E630 1TB                         | 1         | 12     | 6.25%   |
+| HGST HTS721010A9E630 1TB                         | 1         | 13     | 6.25%   |
 | HGST HTS541010A9E680 1TB                         | 1         | 1      | 6.25%   |
 | A-DATA Technology SP550 240GB                    | 1         | 1      | 6.25%   |
 
@@ -1148,7 +1149,7 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 5         | 23     | 33.33%  |
+| HGST                | 5         | 24     | 33.33%  |
 | WDC                 | 2         | 2      | 13.33%  |
 | Seagate             | 2         | 2      | 13.33%  |
 | Samsung Electronics | 2         | 2      | 13.33%  |
@@ -1166,7 +1167,7 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 5         | 23     | 41.67%  |
+| HGST                | 5         | 24     | 41.67%  |
 | WDC                 | 2         | 2      | 16.67%  |
 | Seagate             | 2         | 2      | 16.67%  |
 | Hitachi             | 2         | 2      | 16.67%  |
@@ -1182,7 +1183,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 11        | 30     | 78.57%  |
+| HDD  | 11        | 31     | 78.57%  |
 | SSD  | 3         | 3      | 21.43%  |
 
 Failed Drives
@@ -1210,7 +1211,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Works    | 65        | 119    | 77.38%  |
-| Malfunc  | 14        | 33     | 16.67%  |
+| Malfunc  | 14        | 34     | 16.67%  |
 | Detected | 5         | 7      | 5.95%   |
 
 Storage controller
@@ -2442,7 +2443,7 @@ Camera device models
 | Silicon Motion WebCam SC-13HDL11939N                                     | 1         | 1.92%   |
 | Silicon Motion 300k Pixel Camera                                         | 1         | 1.92%   |
 | Realtek Realtek USB2.0 PC Camera                                         | 1         | 1.92%   |
-| Microdia Ltd., USB 2.0 Camera                                            | 1         | 1.92%   |
+| Microdia USB 2.0 Camera                                                  | 1         | 1.92%   |
 | Microdia Integrated Webcam                                               | 1         | 1.92%   |
 | Logitech Webcam C930e                                                    | 1         | 1.92%   |
 | Logitech B525 HD Webcam                                                  | 1         | 1.92%   |

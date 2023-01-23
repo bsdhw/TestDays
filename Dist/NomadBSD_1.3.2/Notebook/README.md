@@ -1774,7 +1774,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
-| Samsung RAM M471A4G43MB1-CTD 0kB SODIMM DDR4 2667MT/s         | 1         | 2.38%   |
+| Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 2.38%   |
 | Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 2.38%   |
 | Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 2.38%   |

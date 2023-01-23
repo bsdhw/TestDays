@@ -1952,7 +1952,7 @@ Memory module models
 | Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3             | 1        | 1.89%   |
 | Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s   | 1        | 1.89%   |
 | S RAM Module 4GB DIMM DDR3 1600MT/s                    | 1        | 1.89%   |
 | Nanya RAM NT2GT72U8PD0BY-3C 2GB DIMM DDR2 667MT/s      | 1        | 1.89%   |

@@ -2601,6 +2601,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2         | 0.78%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 0.78%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2         | 0.78%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2         | 0.78%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
@@ -2626,7 +2627,6 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                    | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM DDR3 667MT/s              | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM 667MT/s                   | 1         | 0.39%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 1         | 0.39%   |
 
 Memory Kind
 -----------

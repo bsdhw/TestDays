@@ -1916,7 +1916,7 @@ Memory module models
 | Kingmax RAM FLFF65F-C8KL9 4GB DIMM DDR3 1333MT/s                 | 1         | 2%      |
 | GOODRAM RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2%      |
 | G.Skill RAM F4-4000C18-8GTZ 8GB DIMM DDR4 3333MT/s               | 1         | 2%      |
-| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1333MT/s            | 1         | 2%      |
+| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s            | 1         | 2%      |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2%      |
 
 Memory Kind
@@ -1980,8 +1980,8 @@ Memory module speed
 | 2667    | 9         | 20.45%  |
 | 3200    | 5         | 11.36%  |
 | 2133    | 5         | 11.36%  |
-| 1333    | 5         | 11.36%  |
-| 1334    | 2         | 4.55%   |
+| 1333    | 4         | 9.09%   |
+| 1334    | 3         | 6.82%   |
 | 3600    | 1         | 2.27%   |
 | 3333    | 1         | 2.27%   |
 | 2400    | 1         | 2.27%   |

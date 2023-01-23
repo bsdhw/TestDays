@@ -510,9 +510,9 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2018 | 15       | 16.67%  |
 | 2014 | 12       | 13.33%  |
-| 2020 | 9        | 10%     |
+| 2016 | 9        | 10%     |
+| 2020 | 8        | 8.89%   |
 | 2019 | 8        | 8.89%   |
-| 2016 | 8        | 8.89%   |
 | 2013 | 8        | 8.89%   |
 | 2012 | 8        | 8.89%   |
 | 2011 | 5        | 5.56%   |
@@ -874,7 +874,7 @@ Solid state drive vendors
 | Micron Technology   | 3        | 3      | 4%      |
 | SPCC                | 2        | 2      | 2.67%   |
 | PNY                 | 2        | 2      | 2.67%   |
-| GOODRAM             | 2        | 2      | 2.67%   |
+| Goodram             | 2        | 2      | 2.67%   |
 | Transcend           | 1        | 1      | 1.33%   |
 | OCZ                 | 1        | 2      | 1.33%   |
 | Leven               | 1        | 2      | 1.33%   |
@@ -2086,7 +2086,7 @@ Memory module models
 | Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s     | 2        | 1.68%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2        | 1.68%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s               | 2        | 1.68%   |
 | Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1        | 0.84%   |
 | Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1        | 0.84%   |
 | Unknown RAM Module 4096MB DIMM DDR2                          | 1        | 0.84%   |
@@ -2112,7 +2112,7 @@ Memory module models
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
 | Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                   | 1        | 0.84%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
 | Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s          | 1        | 0.84%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s          | 1        | 0.84%   |

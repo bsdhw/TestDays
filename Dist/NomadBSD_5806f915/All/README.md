@@ -2043,7 +2043,7 @@ Memory module models
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s  | 2         | 2.94%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s   | 2         | 2.94%   |
 | Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s   | 2         | 2.94%   |
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2933MT/s   | 2         | 2.94%   |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s   | 2         | 2.94%   |
 | Unknown                                                 | 2         | 2.94%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 1         | 1.47%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s              | 1         | 1.47%   |
@@ -2142,16 +2142,16 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 14        | 23.33%  |
+| 3200    | 9         | 15%     |
 | 2400    | 8         | 13.33%  |
-| 3200    | 7         | 11.67%  |
 | 2133    | 7         | 11.67%  |
-| 1333    | 6         | 10%     |
 | 2667    | 5         | 8.33%   |
-| 2933    | 3         | 5%      |
+| 1333    | 5         | 8.33%   |
+| 1334    | 2         | 3.33%   |
 | 667     | 2         | 3.33%   |
 | Unknown | 2         | 3.33%   |
 | 3600    | 1         | 1.67%   |
-| 1334    | 1         | 1.67%   |
+| 2933    | 1         | 1.67%   |
 | 1066    | 1         | 1.67%   |
 | 975     | 1         | 1.67%   |
 | 800     | 1         | 1.67%   |

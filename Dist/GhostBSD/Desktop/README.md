@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 95
+Total: 96
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| MSI       | X299 PRO                    | [a1f37f69d9](https://bsd-hardware.info/?probe=a1f37f69d9) | Jan 08, 2023 |
 | HP        | 18E7                        | [0b962b9400](https://bsd-hardware.info/?probe=0b962b9400) | Dec 20, 2022 |
 | MSI       | X299 PRO                    | [beec8001a1](https://bsd-hardware.info/?probe=beec8001a1) | Dec 17, 2022 |
 | MSI       | B450M MORTAR MAX            | [d8d6af9e56](https://bsd-hardware.info/?probe=d8d6af9e56) | Dec 10, 2022 |
@@ -260,22 +261,23 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| GhostBSD 20.04.02 | 45       | 60%     |
-| GhostBSD 21.08.27 | 8        | 10.67%  |
-| GhostBSD 22.01.12 | 4        | 5.33%   |
-| GhostBSD 22.11.22 | 3        | 4%      |
-| GhostBSD 22.09.16 | 2        | 2.67%   |
-| GhostBSD 22.07.16 | 2        | 2.67%   |
-| GhostBSD 22.04.06 | 2        | 2.67%   |
-| GhostBSD 22.11.02 | 1        | 1.33%   |
-| GhostBSD 22.10.12 | 1        | 1.33%   |
-| GhostBSD 22.08.23 | 1        | 1.33%   |
-| GhostBSD 22.07.13 | 1        | 1.33%   |
-| GhostBSD 22.06.26 | 1        | 1.33%   |
-| GhostBSD 22.05.14 | 1        | 1.33%   |
-| GhostBSD 22.04.22 | 1        | 1.33%   |
-| GhostBSD 22.01.28 | 1        | 1.33%   |
-| GhostBSD 19.12    | 1        | 1.33%   |
+| GhostBSD 20.04.02 | 45       | 59.21%  |
+| GhostBSD 21.08.27 | 8        | 10.53%  |
+| GhostBSD 22.01.12 | 4        | 5.26%   |
+| GhostBSD 22.11.22 | 3        | 3.95%   |
+| GhostBSD 22.09.16 | 2        | 2.63%   |
+| GhostBSD 22.07.16 | 2        | 2.63%   |
+| GhostBSD 22.04.06 | 2        | 2.63%   |
+| GhostBSD 22.12.20 | 1        | 1.32%   |
+| GhostBSD 22.11.02 | 1        | 1.32%   |
+| GhostBSD 22.10.12 | 1        | 1.32%   |
+| GhostBSD 22.08.23 | 1        | 1.32%   |
+| GhostBSD 22.07.13 | 1        | 1.32%   |
+| GhostBSD 22.06.26 | 1        | 1.32%   |
+| GhostBSD 22.05.14 | 1        | 1.32%   |
+| GhostBSD 22.04.22 | 1        | 1.32%   |
+| GhostBSD 22.01.28 | 1        | 1.32%   |
+| GhostBSD 19.12    | 1        | 1.32%   |
 
 OS Family
 ---------
@@ -793,10 +795,10 @@ Hard drive vendors
 | WDC                 | 34       | 52     | 22.97%  |
 | Samsung Electronics | 29       | 39     | 19.59%  |
 | Seagate             | 20       | 30     | 13.51%  |
-| Crucial             | 15       | 18     | 10.14%  |
+| Crucial             | 15       | 19     | 10.14%  |
 | Toshiba             | 7        | 8      | 4.73%   |
 | Hitachi             | 6        | 6      | 4.05%   |
-| SanDisk             | 5        | 7      | 3.38%   |
+| SanDisk             | 5        | 8      | 3.38%   |
 | Micron Technology   | 3        | 3      | 2.03%   |
 | Kingston            | 3        | 3      | 2.03%   |
 | HGST                | 3        | 3      | 2.03%   |
@@ -900,7 +902,7 @@ Solid state drive vendors
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 21       | 25     | 33.33%  |
 | Crucial             | 12       | 14     | 19.05%  |
-| SanDisk             | 5        | 7      | 7.94%   |
+| SanDisk             | 5        | 8      | 7.94%   |
 | WDC                 | 4        | 6      | 6.35%   |
 | A-DATA Technology   | 3        | 3      | 4.76%   |
 | Toshiba             | 2        | 2      | 3.17%   |
@@ -928,8 +930,8 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | HDD  | 48       | 93     | 42.48%  |
-| SSD  | 44       | 75     | 38.94%  |
-| NVMe | 21       | 30     | 18.58%  |
+| SSD  | 44       | 76     | 38.94%  |
+| NVMe | 21       | 31     | 18.58%  |
 
 Drive Connector
 ---------------
@@ -941,8 +943,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 70       | 168    | 76.92%  |
-| NVMe | 21       | 30     | 23.08%  |
+| SATA | 70       | 169    | 76.92%  |
+| NVMe | 21       | 31     | 23.08%  |
 
 Drive Size
 ----------
@@ -955,7 +957,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 53       | 80     | 47.75%  |
-| 0.51-1.0   | 28       | 43     | 25.23%  |
+| 0.51-1.0   | 28       | 44     | 25.23%  |
 | 1.01-2.0   | 15       | 21     | 13.51%  |
 | 3.01-4.0   | 8        | 10     | 7.21%   |
 | 4.01-10.0  | 5        | 10     | 4.5%    |
@@ -1095,7 +1097,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 70       | 173    | 79.55%  |
+| Works    | 70       | 175    | 79.55%  |
 | Malfunc  | 17       | 21     | 19.32%  |
 | Detected | 1        | 4      | 1.14%   |
 
@@ -2146,7 +2148,7 @@ Memory module models
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.15%   |
 | SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.15%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.15%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 1.15%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3             | 1        | 1.15%   |
 | SK hynix RAM HMT325U6BFR8C-H9 2GB DIMM DDR3 1333MT/s    | 1        | 1.15%   |
 | SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s | 1        | 1.15%   |
 | SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2667MT/s    | 1        | 1.15%   |
@@ -2158,7 +2160,7 @@ Memory module models
 | Samsung RAM M391A4G43MB1-CTD 32GB DIMM DDR4 3200MT/s    | 1        | 1.15%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s     | 1        | 1.15%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.15%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.15%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3              | 1        | 1.15%   |
 | Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s    | 1        | 1.15%   |
 | S RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 1.15%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s | 1        | 1.15%   |

@@ -147,10 +147,13 @@ Contents
 Test Cases
 ----------
 
-Total: 117
+Total: 120
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | 82A1                        | [2d7d9105f7](https://bsd-hardware.info/?probe=2d7d9105f7) | Jan 13, 2023 |
+| Gigabyte      | G31M-ES2C                   | [8353660219](https://bsd-hardware.info/?probe=8353660219) | Jan 08, 2023 |
+| ASRock        | E3C226D2I                   | [5dfcf8051d](https://bsd-hardware.info/?probe=5dfcf8051d) | Jan 06, 2023 |
 | Lenovo        | 30D9 SDK0J40700 WIN 3258... | [ac867149f2](https://bsd-hardware.info/?probe=ac867149f2) | Dec 31, 2022 |
 | Unknown       | Unknown                     | [b4d44b0018](https://bsd-hardware.info/?probe=b4d44b0018) | Dec 26, 2022 |
 | ACMA          | X8SIE                       | [01898b2ffb](https://bsd-hardware.info/?probe=01898b2ffb) | Dec 21, 2022 |
@@ -282,46 +285,46 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| OPNsense 21.1     | 8        | 8.6%    |
-| OPNsense 21.1.3   | 5        | 5.38%   |
-| OPNsense 21.1.2   | 5        | 5.38%   |
-| OPNsense 22.7.8   | 4        | 4.3%    |
-| OPNsense 21.7.7   | 4        | 4.3%    |
-| OPNsense 22.7.2   | 3        | 3.23%   |
-| OPNsense 21.7.3   | 3        | 3.23%   |
-| OPNsense 21.1.8   | 3        | 3.23%   |
-| OPNsense 21.1.5   | 3        | 3.23%   |
-| OpenBSD 6.8       | 3        | 3.23%   |
-| OPNsense 22.7.9   | 2        | 2.15%   |
-| OPNsense 22.7.6   | 2        | 2.15%   |
-| OPNsense 22.1.9   | 2        | 2.15%   |
-| OPNsense 22.1.3   | 2        | 2.15%   |
-| OPNsense 21.7.6   | 2        | 2.15%   |
-| OPNsense 21.7.1   | 2        | 2.15%   |
-| OPNsense 21.7     | 2        | 2.15%   |
-| OPNsense 21.1.7   | 2        | 2.15%   |
-| OPNsense 20.7.8   | 2        | 2.15%   |
-| FreeBSD 13.0-p7   | 2        | 2.15%   |
-| FreeBSD 12.2-p4   | 2        | 2.15%   |
-| pfSense 2.5.0     | 1        | 1.08%   |
-| OPNsense 22.7.7   | 1        | 1.08%   |
-| OPNsense 22.7.10  | 1        | 1.08%   |
-| OPNsense 22.7     | 1        | 1.08%   |
-| OPNsense 22.1.8   | 1        | 1.08%   |
-| OPNsense 22.1.6   | 1        | 1.08%   |
-| OPNsense 22.1.5   | 1        | 1.08%   |
-| OPNsense 22.1.2   | 1        | 1.08%   |
-| OPNsense 22.1.10  | 1        | 1.08%   |
-| OPNsense 22.1.1   | 1        | 1.08%   |
-| OPNsense 22.1     | 1        | 1.08%   |
-| OPNsense 21.1.6   | 1        | 1.08%   |
-| OPNsense 21.1.1   | 1        | 1.08%   |
-| OpenBSD 7.0       | 1        | 1.08%   |
-| OpenBSD 6.7       | 1        | 1.08%   |
-| helloSystem 0.7.0 | 1        | 1.08%   |
-| helloSystem 0.5.0 | 1        | 1.08%   |
-| GhostBSD 19.12    | 1        | 1.08%   |
-| FuryBSD 12.2-p3   | 1        | 1.08%   |
+| OPNsense 21.1     | 8        | 8.33%   |
+| OPNsense 21.1.3   | 5        | 5.21%   |
+| OPNsense 21.1.2   | 5        | 5.21%   |
+| OPNsense 22.7.8   | 4        | 4.17%   |
+| OPNsense 22.7.10  | 4        | 4.17%   |
+| OPNsense 21.7.7   | 4        | 4.17%   |
+| OPNsense 22.7.2   | 3        | 3.13%   |
+| OPNsense 21.7.3   | 3        | 3.13%   |
+| OPNsense 21.1.8   | 3        | 3.13%   |
+| OPNsense 21.1.5   | 3        | 3.13%   |
+| OpenBSD 6.8       | 3        | 3.13%   |
+| OPNsense 22.7.9   | 2        | 2.08%   |
+| OPNsense 22.7.6   | 2        | 2.08%   |
+| OPNsense 22.1.9   | 2        | 2.08%   |
+| OPNsense 22.1.3   | 2        | 2.08%   |
+| OPNsense 21.7.6   | 2        | 2.08%   |
+| OPNsense 21.7.1   | 2        | 2.08%   |
+| OPNsense 21.7     | 2        | 2.08%   |
+| OPNsense 21.1.7   | 2        | 2.08%   |
+| OPNsense 20.7.8   | 2        | 2.08%   |
+| FreeBSD 13.0-p7   | 2        | 2.08%   |
+| FreeBSD 12.2-p4   | 2        | 2.08%   |
+| pfSense 2.5.0     | 1        | 1.04%   |
+| OPNsense 22.7.7   | 1        | 1.04%   |
+| OPNsense 22.7     | 1        | 1.04%   |
+| OPNsense 22.1.8   | 1        | 1.04%   |
+| OPNsense 22.1.6   | 1        | 1.04%   |
+| OPNsense 22.1.5   | 1        | 1.04%   |
+| OPNsense 22.1.2   | 1        | 1.04%   |
+| OPNsense 22.1.10  | 1        | 1.04%   |
+| OPNsense 22.1.1   | 1        | 1.04%   |
+| OPNsense 22.1     | 1        | 1.04%   |
+| OPNsense 21.1.6   | 1        | 1.04%   |
+| OPNsense 21.1.1   | 1        | 1.04%   |
+| OpenBSD 7.0       | 1        | 1.04%   |
+| OpenBSD 6.7       | 1        | 1.04%   |
+| helloSystem 0.7.0 | 1        | 1.04%   |
+| helloSystem 0.5.0 | 1        | 1.04%   |
+| GhostBSD 19.12    | 1        | 1.04%   |
+| FuryBSD 12.2-p3   | 1        | 1.04%   |
 
 OS Family
 ---------
@@ -786,46 +789,46 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Stockholm             | 15       | 16.85%  |
-| Malmo                 | 8        | 8.99%   |
-| Bromma                | 5        | 5.62%   |
-| Taby                  | 3        | 3.37%   |
-| VÃ¤sterÃ¥s        | 2        | 2.25%   |
-| Västerås            | 2        | 2.25%   |
-| UmeГҐ               | 2        | 2.25%   |
-| Tumba                 | 2        | 2.25%   |
-| Sollentuna            | 2        | 2.25%   |
-| Solleftea             | 2        | 2.25%   |
-| Piteå                | 2        | 2.25%   |
-| Lund                  | 2        | 2.25%   |
-| LinkГ¶ping          | 2        | 2.25%   |
-| JГ¶nkГ¶ping       | 2        | 2.25%   |
-| Helsingborg           | 2        | 2.25%   |
-| Enskede-Arsta-Vantoer | 2        | 2.25%   |
-| Bandhagen             | 2        | 2.25%   |
-| Г…hus              | 1        | 1.12%   |
-| Г„lvГ¤ngen       | 1        | 1.12%   |
-| Vaxjo                 | 1        | 1.12%   |
-| Upplands Vasby        | 1        | 1.12%   |
-| UmeÃ¥               | 1        | 1.12%   |
-| Umeå                 | 1        | 1.12%   |
-| Tyreso Strand         | 1        | 1.12%   |
-| Trelleborg            | 1        | 1.12%   |
-| Trangsund             | 1        | 1.12%   |
-| Torsby                | 1        | 1.12%   |
-| SГ¶dertГ¤lje      | 1        | 1.12%   |
-| Sundsvall             | 1        | 1.12%   |
-| Sundbyberg            | 1        | 1.12%   |
-| Stroemstad            | 1        | 1.12%   |
-| SkÃ¶vde             | 1        | 1.12%   |
-| Skaellinge            | 1        | 1.12%   |
-| Saltsjoe-Boo          | 1        | 1.12%   |
-| NorrkГ¶ping         | 1        | 1.12%   |
-| Moelndal              | 1        | 1.12%   |
-| Landskrona            | 1        | 1.12%   |
-| Kungsbacka            | 1        | 1.12%   |
-| Kristianstad          | 1        | 1.12%   |
-| Kode                  | 1        | 1.12%   |
+| Stockholm             | 16       | 17.58%  |
+| Malmo                 | 8        | 8.79%   |
+| Bromma                | 5        | 5.49%   |
+| Taby                  | 3        | 3.3%    |
+| VÃ¤sterÃ¥s        | 2        | 2.2%    |
+| Västerås            | 2        | 2.2%    |
+| UmeГҐ               | 2        | 2.2%    |
+| Tumba                 | 2        | 2.2%    |
+| Sollentuna            | 2        | 2.2%    |
+| Solleftea             | 2        | 2.2%    |
+| Piteå                | 2        | 2.2%    |
+| Lund                  | 2        | 2.2%    |
+| LinkГ¶ping          | 2        | 2.2%    |
+| JГ¶nkГ¶ping       | 2        | 2.2%    |
+| Helsingborg           | 2        | 2.2%    |
+| Enskede-Arsta-Vantoer | 2        | 2.2%    |
+| Bandhagen             | 2        | 2.2%    |
+| Г…hus              | 1        | 1.1%    |
+| Г„lvГ¤ngen       | 1        | 1.1%    |
+| Vaxjo                 | 1        | 1.1%    |
+| Upplands Vasby        | 1        | 1.1%    |
+| UmeÃ¥               | 1        | 1.1%    |
+| Umeå                 | 1        | 1.1%    |
+| Tyreso Strand         | 1        | 1.1%    |
+| Trelleborg            | 1        | 1.1%    |
+| Trangsund             | 1        | 1.1%    |
+| Torsby                | 1        | 1.1%    |
+| SГ¶dertГ¤lje      | 1        | 1.1%    |
+| Sundsvall             | 1        | 1.1%    |
+| Sundbyberg            | 1        | 1.1%    |
+| Stroemstad            | 1        | 1.1%    |
+| Skövde               | 1        | 1.1%    |
+| SkÃ¶vde             | 1        | 1.1%    |
+| Skaellinge            | 1        | 1.1%    |
+| Saltsjoe-Boo          | 1        | 1.1%    |
+| NorrkГ¶ping         | 1        | 1.1%    |
+| Moelndal              | 1        | 1.1%    |
+| Landskrona            | 1        | 1.1%    |
+| Kungsbacka            | 1        | 1.1%    |
+| Kristianstad          | 1        | 1.1%    |
 
 Drives
 ------
@@ -840,30 +843,31 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 19       | 29     | 17.59%  |
-| Seagate             | 14       | 29     | 12.96%  |
-| WDC                 | 13       | 21     | 12.04%  |
-| Hoodisk             | 11       | 14     | 10.19%  |
-| Kingston            | 10       | 12     | 9.26%   |
-| Intel               | 8        | 12     | 7.41%   |
-| Crucial             | 6        | 14     | 5.56%   |
-| Toshiba             | 5        | 13     | 4.63%   |
-| SanDisk             | 2        | 3      | 1.85%   |
-| Phison              | 2        | 2      | 1.85%   |
-| NVMe                | 2        | 3      | 1.85%   |
-| Innodisk            | 2        | 3      | 1.85%   |
-| Hitachi             | 2        | 2      | 1.85%   |
-| Apacer              | 2        | 2      | 1.85%   |
-| XrayDisk            | 1        | 1      | 0.93%   |
-| Transcend           | 1        | 1      | 0.93%   |
-| Supermicro          | 1        | 1      | 0.93%   |
-| SK hynix            | 1        | 1      | 0.93%   |
-| OCZ                 | 1        | 2      | 0.93%   |
-| LITEONIT            | 1        | 1      | 0.93%   |
-| LITEON              | 1        | 1      | 0.93%   |
-| KingSpec            | 1        | 1      | 0.93%   |
-| Fordisk             | 1        | 1      | 0.93%   |
-| Corsair             | 1        | 1      | 0.93%   |
+| Samsung Electronics | 19       | 29     | 17.43%  |
+| Seagate             | 14       | 29     | 12.84%  |
+| WDC                 | 13       | 22     | 11.93%  |
+| Hoodisk             | 11       | 14     | 10.09%  |
+| Kingston            | 10       | 12     | 9.17%   |
+| Intel               | 8        | 13     | 7.34%   |
+| Crucial             | 6        | 14     | 5.5%    |
+| Toshiba             | 5        | 13     | 4.59%   |
+| SanDisk             | 2        | 3      | 1.83%   |
+| Phison              | 2        | 2      | 1.83%   |
+| NVMe                | 2        | 3      | 1.83%   |
+| Innodisk            | 2        | 3      | 1.83%   |
+| Hitachi             | 2        | 2      | 1.83%   |
+| Apacer              | 2        | 2      | 1.83%   |
+| XrayDisk            | 1        | 1      | 0.92%   |
+| Transcend           | 1        | 1      | 0.92%   |
+| Supermicro          | 1        | 1      | 0.92%   |
+| SK hynix            | 1        | 1      | 0.92%   |
+| PNY                 | 1        | 1      | 0.92%   |
+| OCZ                 | 1        | 2      | 0.92%   |
+| LITEONIT            | 1        | 1      | 0.92%   |
+| LITEON              | 1        | 1      | 0.92%   |
+| KingSpec            | 1        | 1      | 0.92%   |
+| Fordisk             | 1        | 1      | 0.92%   |
+| Corsair             | 1        | 1      | 0.92%   |
 
 Drive Model
 -----------
@@ -875,20 +879,20 @@ Hard drive models
 
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Samsung SSD 860 QVO 1TB           | 3        | 2.5%    |
-| Hoodisk SSD 64GB                  | 3        | 2.5%    |
-| Hoodisk SSD 16GB                  | 3        | 2.5%    |
-| Hoodisk SSD 128GB                 | 3        | 2.5%    |
-| WDC WD5000AZLX-60K2TA0 500GB      | 2        | 1.67%   |
-| Toshiba HDWQ140 4TB               | 2        | 1.67%   |
-| Samsung SSD 970 EVO 500GB         | 2        | 1.67%   |
-| Samsung HD501LJ 500GB             | 2        | 1.67%   |
-| Phison SATA SSD 16GB              | 2        | 1.67%   |
-| Kingston SV300S37A240G 240GB      | 2        | 1.67%   |
-| Kingston SA400S37240G 240GB       | 2        | 1.67%   |
-| Intel SSDSC2BW240A4 240GB         | 2        | 1.67%   |
-| Crucial CT256MX100SSD1 256GB      | 2        | 1.67%   |
-| Apacer 64GB SATA Flash Drive      | 2        | 1.67%   |
+| Samsung SSD 860 QVO 1TB           | 3        | 2.48%   |
+| Hoodisk SSD 64GB                  | 3        | 2.48%   |
+| Hoodisk SSD 16GB                  | 3        | 2.48%   |
+| Hoodisk SSD 128GB                 | 3        | 2.48%   |
+| WDC WD5000AZLX-60K2TA0 500GB      | 2        | 1.65%   |
+| Toshiba HDWQ140 4TB               | 2        | 1.65%   |
+| Samsung SSD 970 EVO 500GB         | 2        | 1.65%   |
+| Samsung HD501LJ 500GB             | 2        | 1.65%   |
+| Phison SATA SSD 16GB              | 2        | 1.65%   |
+| Kingston SV300S37A240G 240GB      | 2        | 1.65%   |
+| Kingston SA400S37240G 240GB       | 2        | 1.65%   |
+| Intel SSDSC2BW240A4 240GB         | 2        | 1.65%   |
+| Crucial CT256MX100SSD1 256GB      | 2        | 1.65%   |
+| Apacer 64GB SATA Flash Drive      | 2        | 1.65%   |
 | XrayDisk SSD 64GB                 | 1        | 0.83%   |
 | WDC WDS250G2B0C-00PXH0 250GB      | 1        | 0.83%   |
 | WDC WDS250G2B0A-00SM50 250GB      | 1        | 0.83%   |
@@ -927,7 +931,7 @@ Hard disk drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Seagate             | 13       | 27     | 37.14%  |
-| WDC                 | 10       | 16     | 28.57%  |
+| WDC                 | 10       | 17     | 28.57%  |
 | Toshiba             | 5        | 13     | 14.29%  |
 | Samsung Electronics | 4        | 6      | 11.43%  |
 | Hitachi             | 2        | 2      | 5.71%   |
@@ -943,28 +947,29 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 13       | 18     | 18.57%  |
-| Hoodisk             | 11       | 14     | 15.71%  |
-| Kingston            | 10       | 12     | 14.29%  |
-| Intel               | 8        | 12     | 11.43%  |
-| Crucial             | 6        | 14     | 8.57%   |
-| WDC                 | 2        | 4      | 2.86%   |
-| SanDisk             | 2        | 3      | 2.86%   |
-| Phison              | 2        | 2      | 2.86%   |
-| Innodisk            | 2        | 3      | 2.86%   |
-| Apacer              | 2        | 2      | 2.86%   |
-| XrayDisk            | 1        | 1      | 1.43%   |
-| Transcend           | 1        | 1      | 1.43%   |
-| Supermicro          | 1        | 1      | 1.43%   |
-| SK hynix            | 1        | 1      | 1.43%   |
-| Seagate             | 1        | 1      | 1.43%   |
-| OCZ                 | 1        | 2      | 1.43%   |
-| NVMe                | 1        | 1      | 1.43%   |
-| LITEONIT            | 1        | 1      | 1.43%   |
-| LITEON              | 1        | 1      | 1.43%   |
-| KingSpec            | 1        | 1      | 1.43%   |
-| Fordisk             | 1        | 1      | 1.43%   |
-| Corsair             | 1        | 1      | 1.43%   |
+| Samsung Electronics | 13       | 18     | 18.31%  |
+| Hoodisk             | 11       | 14     | 15.49%  |
+| Kingston            | 10       | 12     | 14.08%  |
+| Intel               | 8        | 13     | 11.27%  |
+| Crucial             | 6        | 14     | 8.45%   |
+| WDC                 | 2        | 4      | 2.82%   |
+| SanDisk             | 2        | 3      | 2.82%   |
+| Phison              | 2        | 2      | 2.82%   |
+| Innodisk            | 2        | 3      | 2.82%   |
+| Apacer              | 2        | 2      | 2.82%   |
+| XrayDisk            | 1        | 1      | 1.41%   |
+| Transcend           | 1        | 1      | 1.41%   |
+| Supermicro          | 1        | 1      | 1.41%   |
+| SK hynix            | 1        | 1      | 1.41%   |
+| Seagate             | 1        | 1      | 1.41%   |
+| PNY                 | 1        | 1      | 1.41%   |
+| OCZ                 | 1        | 2      | 1.41%   |
+| NVMe                | 1        | 1      | 1.41%   |
+| LITEONIT            | 1        | 1      | 1.41%   |
+| LITEON              | 1        | 1      | 1.41%   |
+| KingSpec            | 1        | 1      | 1.41%   |
+| Fordisk             | 1        | 1      | 1.41%   |
+| Corsair             | 1        | 1      | 1.41%   |
 
 Drive Kind
 ----------
@@ -976,8 +981,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 59       | 97     | 67.05%  |
-| HDD  | 23       | 66     | 26.14%  |
+| SSD  | 59       | 99     | 67.05%  |
+| HDD  | 23       | 67     | 26.14%  |
 | NVMe | 6        | 7      | 6.82%   |
 
 Drive Connector
@@ -990,7 +995,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 71       | 163    | 92.21%  |
+| SATA | 71       | 166    | 92.21%  |
 | NVMe | 6        | 7      | 7.79%   |
 
 Drive Size
@@ -1003,7 +1008,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 64       | 102    | 66.67%  |
+| 0.01-0.5   | 64       | 105    | 66.67%  |
 | 0.51-1.0   | 14       | 21     | 14.58%  |
 | 3.01-4.0   | 8        | 18     | 8.33%   |
 | 1.01-2.0   | 7        | 12     | 7.29%   |
@@ -1019,14 +1024,14 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 34       | 42.5%   |
-| 1-20           | 11       | 13.75%  |
-| 21-50          | 10       | 12.5%   |
-| 51-100         | 9        | 11.25%  |
-| 251-500        | 8        | 10%     |
-| 1001-2000      | 4        | 5%      |
-| 501-1000       | 3        | 3.75%   |
-| More than 3000 | 1        | 1.25%   |
+| 101-250        | 35       | 43.21%  |
+| 1-20           | 11       | 13.58%  |
+| 21-50          | 10       | 12.35%  |
+| 51-100         | 9        | 11.11%  |
+| 251-500        | 8        | 9.88%   |
+| 1001-2000      | 4        | 4.94%   |
+| 501-1000       | 3        | 3.7%    |
+| More than 3000 | 1        | 1.23%   |
 
 Space Used
 ----------
@@ -1067,7 +1072,7 @@ Drive models with a malfunction
 | Samsung Electronics HD321KJ 320GB     | 1        | 1      | 7.14%   |
 | Kingston SV300S37A120G 120GB          | 1        | 1      | 7.14%   |
 | Intel SSDSC2CT120A3 120GB             | 1        | 1      | 7.14%   |
-| Intel SSDSC2CT060A3 64GB              | 1        | 1      | 7.14%   |
+| Intel SSDSC2CT060A3 64GB              | 1        | 2      | 7.14%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1082,7 +1087,7 @@ Vendors of faulty drives
 | WDC                 | 4        | 9      | 33.33%  |
 | Seagate             | 2        | 2      | 16.67%  |
 | Samsung Electronics | 2        | 2      | 16.67%  |
-| Intel               | 2        | 2      | 16.67%  |
+| Intel               | 2        | 3      | 16.67%  |
 | SK hynix            | 1        | 1      | 8.33%   |
 | Kingston            | 1        | 1      | 8.33%   |
 
@@ -1110,7 +1115,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 5        | 5      | 45.45%  |
+| SSD  | 5        | 6      | 45.45%  |
 | HDD  | 5        | 11     | 45.45%  |
 | NVMe | 1        | 1      | 9.09%   |
 
@@ -1138,9 +1143,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 68       | 144    | 80%     |
-| Malfunc  | 11       | 17     | 12.94%  |
-| Detected | 6        | 9      | 7.06%   |
+| Works    | 69       | 146    | 80.23%  |
+| Malfunc  | 11       | 18     | 12.79%  |
+| Detected | 6        | 9      | 6.98%   |
 
 Storage controller
 ------------------

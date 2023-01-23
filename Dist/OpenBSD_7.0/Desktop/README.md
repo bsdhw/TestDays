@@ -1054,36 +1054,36 @@ Processor models
 ![CPU Model](./images/pie_chart_bsd/cpu_model.svg)
 
 
-| Model                                                                                 | Desktops | Percent |
-|---------------------------------------------------------------------------------------|----------|---------|
-| ARM Cortex-A72 r0p3                                                                   | 4        | 11.76%  |
-| ARM Cortex-A53 r0p4                                                                   | 2        | 5.88%   |
-| AMD Ryzen 7 5800X 8-Core Processor                                                    | 2        | 5.88%   |
-| AMD GX-412TC SOC                                                                      | 2        | 5.88%   |
-| PowerPC 7447A (Revision 0x102)                                                        | 1        | 2.94%   |
-| Intel Xeon CPU E3-1220 v5 @ 3.00GHz                                                   | 1        | 2.94%   |
-| Intel Core i7-8550U CPU @ 1.80GHz                                                     | 1        | 2.94%   |
-| Intel Core i7 CPU 970 @ 3.20GHz                                                       | 1        | 2.94%   |
-| Intel Core i5-4570S CPU @ 2.90GHz                                                     | 1        | 2.94%   |
-| Intel Core i3-10110U CPU @ 2.10GHz                                                    | 1        | 2.94%   |
-| Intel Core 2 Duo CPU P8600 @ 2.40GHz                                                  | 1        | 2.94%   |
-| Intel Core 2 Duo CPU E8400 @ 3.00GHz                                                  | 1        | 2.94%   |
-| Intel Core 2 CPU 6400 @ 2.13GHz                                                       | 1        | 2.94%   |
-| Intel Celeron CPU G1820 @ 2.70GHz                                                     | 1        | 2.94%   |
-| Intel Celeron CPU 847E @ 1.10GHz                                                      | 1        | 2.94%   |
-| Intel Celeron CPU 3865U @ 1.80GHz                                                     | 1        | 2.94%   |
-| Intel Atom CPU N270 @ 1.60GHz ("GenuineIntel" 686-class)                              | 1        | 2.94%   |
-| Intel 11th Gen Core i9-11900K @ 3.50GHz                                               | 1        | 2.94%   |
-| ARM Cortex-A8 r3p2                                                                    | 1        | 2.94%   |
-| ARM Cortex-A7 r0p4                                                                    | 1        | 2.94%   |
-| AMD Ryzen 7 5700G with Radeon Graphics                                                | 1        | 2.94%   |
-| AMD Ryzen 7 2700 Eight-Core Processor                                                 | 1        | 2.94%   |
-| AMD Ryzen 5 3600 6-Core Processor                                                     | 1        | 2.94%   |
-| AMD Ryzen 3 3100 4-Core Processor                                                     | 1        | 2.94%   |
-| AMD GX-415GA SOC with Radeon HD Graphics                                              | 1        | 2.94%   |
-| AMD G-T48E Processor                                                                  | 1        | 2.94%   |
-| AMD Athlon 64 X2 Dual Core Processor 4000+ ("AuthenticAMD" 686-class, 512KB L2 cache) | 1        | 2.94%   |
-| AMD A10-6800K APU with Radeon HD Graphics                                             | 1        | 2.94%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| ARM Cortex-A72 r0p3                                                    | 4        | 11.76%  |
+| ARM Cortex-A53 r0p4                                                    | 2        | 5.88%   |
+| AMD Ryzen 7 5800X 8-Core Processor                                     | 2        | 5.88%   |
+| AMD GX-412TC SOC                                                       | 2        | 5.88%   |
+| PowerPC 7447A (Revision 0x102)                                         | 1        | 2.94%   |
+| Intel Xeon CPU E3-1220 v5 @ 3.00GHz                                    | 1        | 2.94%   |
+| Intel Core i7-8550U CPU @ 1.80GHz                                      | 1        | 2.94%   |
+| Intel Core i7 CPU 970 @ 3.20GHz                                        | 1        | 2.94%   |
+| Intel Core i5-4570S CPU @ 2.90GHz                                      | 1        | 2.94%   |
+| Intel Core i3-10110U CPU @ 2.10GHz                                     | 1        | 2.94%   |
+| Intel Core 2 Duo CPU P8600 @ 2.40GHz                                   | 1        | 2.94%   |
+| Intel Core 2 Duo CPU E8400 @ 3.00GHz                                   | 1        | 2.94%   |
+| Intel Core 2 CPU 6400 @ 2.13GHz                                        | 1        | 2.94%   |
+| Intel Celeron CPU G1820 @ 2.70GHz                                      | 1        | 2.94%   |
+| Intel Celeron CPU 847E @ 1.10GHz                                       | 1        | 2.94%   |
+| Intel Celeron CPU 3865U @ 1.80GHz                                      | 1        | 2.94%   |
+| Intel Atom CPU N270 @ 1.60GHz ("GenuineIntel" 686-class)               | 1        | 2.94%   |
+| Intel 11th Gen Core i9-11900K @ 3.50GHz                                | 1        | 2.94%   |
+| ARM Cortex-A8 r3p2                                                     | 1        | 2.94%   |
+| ARM Cortex-A7 r0p4                                                     | 1        | 2.94%   |
+| AMD Ryzen 7 5700G with Radeon Graphics                                 | 1        | 2.94%   |
+| AMD Ryzen 7 2700 Eight-Core Processor                                  | 1        | 2.94%   |
+| AMD Ryzen 5 3600 6-Core Processor                                      | 1        | 2.94%   |
+| AMD Ryzen 3 3100 4-Core Processor                                      | 1        | 2.94%   |
+| AMD GX-415GA SOC with Radeon HD Graphics                               | 1        | 2.94%   |
+| AMD G-T48E Processor                                                   | 1        | 2.94%   |
+| AMD Athlon 64 X2 Dual Core Processor 4000+ ("AuthenticAMD" 686-class,  | 1        | 2.94%   |
+| AMD A10-6800K APU with Radeon HD Graphics                              | 1        | 2.94%   |
 
 CPU Model Family
 ----------------

@@ -1709,7 +1709,7 @@ Memory module models
 | Micron RAM 16ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2133MT/s            | 1         | 2.63%   |
 | Kingston RAM Module 4GB SODIMM DDR4 2667MT/s                     | 1         | 2.63%   |
 | GOODRAM RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
-| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
+| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s            | 1         | 2.63%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2.63%   |
 | Crucial RAM CT16G4SFRA32A.C8FB 16GB SODIMM DDR4 3200MT/s         | 1         | 2.63%   |
 | 09490000802C RAM V2D4SF16GB1G81G82666 16GB SODIMM DDR4 2667MT/s  | 1         | 2.63%   |
@@ -1772,8 +1772,8 @@ Memory module speed
 | 1600    | 9         | 27.27%  |
 | 3200    | 4         | 12.12%  |
 | 2133    | 3         | 9.09%   |
-| 1333    | 3         | 9.09%   |
-| 1334    | 2         | 6.06%   |
+| 1334    | 3         | 9.09%   |
+| 1333    | 2         | 6.06%   |
 | 1867    | 1         | 3.03%   |
 | 667     | 1         | 3.03%   |
 | Unknown | 1         | 3.03%   |

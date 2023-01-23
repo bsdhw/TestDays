@@ -460,14 +460,14 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2011    | 7         | 14%     |
+| 2019    | 5         | 10%     |
 | 2018    | 5         | 10%     |
 | 2017    | 5         | 10%     |
 | 2015    | 5         | 10%     |
-| 2019    | 4         | 8%      |
 | 2012    | 4         | 8%      |
 | 2006    | 4         | 8%      |
-| Unknown | 4         | 8%      |
 | 2020    | 3         | 6%      |
+| Unknown | 3         | 6%      |
 | 2014    | 2         | 4%      |
 | 2010    | 2         | 4%      |
 | 2016    | 1         | 2%      |
@@ -754,7 +754,7 @@ Hard drive models
 | Phison SATA SSD 16GB             | 1         | 1.64%   |
 | Phison SATA SSD 128GB            | 1         | 1.64%   |
 | OPENBSD SR RAID 1 1TB            | 1         | 1.64%   |
-| NVMe WDC PC SN720 SDA 1TB        | 1         | 1.64%   |
+| NVMe WDC PC SN720 SDA 512GB      | 1         | 1.64%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 1.64%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |
 | NVMe INTEL SSDPEKNW51 512GB      | 1         | 1.64%   |
@@ -842,8 +842,8 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 36        | 39     | 62.07%  |
-| 0.51-1.0   | 16        | 16     | 27.59%  |
-| 1.01-2.0   | 5         | 9      | 8.62%   |
+| 0.51-1.0   | 17        | 17     | 29.31%  |
+| 1.01-2.0   | 4         | 8      | 6.9%    |
 | 2.01-3.0   | 1         | 1      | 1.72%   |
 
 Space Total

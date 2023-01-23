@@ -1576,7 +1576,7 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 2933MT/s  | 2        | 9.52%   |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 2        | 9.52%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 1        | 4.76%   |
 | Unknown RAM Module 2GB DIMM SDRAM                      | 1        | 4.76%   |
 | Unknown RAM Module 2GB DIMM DDR 1333MT/s               | 1        | 4.76%   |
@@ -1650,11 +1650,11 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
+| 3200    | 5        | 27.78%  |
 | 1600    | 5        | 27.78%  |
-| 3200    | 3        | 16.67%  |
-| 2933    | 3        | 16.67%  |
 | 1333    | 3        | 16.67%  |
 | 3600    | 1        | 5.56%   |
+| 2933    | 1        | 5.56%   |
 | 2667    | 1        | 5.56%   |
 | 2400    | 1        | 5.56%   |
 | Unknown | 1        | 5.56%   |

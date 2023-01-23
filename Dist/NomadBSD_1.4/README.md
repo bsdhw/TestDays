@@ -1634,7 +1634,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 1         | 3.23%   |
 | Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                       | 1         | 3.23%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                      | 1         | 3.23%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1067MT/s                      | 1         | 3.23%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s                           | 1         | 3.23%   |
 | SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s                           | 1         | 3.23%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 1         | 3.23%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 3.23%   |
@@ -1712,15 +1712,15 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
+| 1600    | 6         | 23.08%  |
 | 2667    | 5         | 19.23%  |
-| 1600    | 5         | 19.23%  |
 | 2400    | 4         | 15.38%  |
 | 1334    | 2         | 7.69%   |
-| 1067    | 2         | 7.69%   |
 | 667     | 2         | 7.69%   |
 | 3200    | 1         | 3.85%   |
 | 1867    | 1         | 3.85%   |
 | 1866    | 1         | 3.85%   |
+| 1067    | 1         | 3.85%   |
 | 1066    | 1         | 3.85%   |
 | 800     | 1         | 3.85%   |
 | Unknown | 1         | 3.85%   |

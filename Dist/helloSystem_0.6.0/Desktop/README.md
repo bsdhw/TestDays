@@ -1987,7 +1987,7 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown                                                 | 3        | 4.17%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.78%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2        | 2.78%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.78%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |

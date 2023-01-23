@@ -654,10 +654,10 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2013 | 26        | 13.68%  |
 | 2018 | 24        | 12.63%  |
-| 2020 | 19        | 10%     |
+| 2020 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
 | 2014 | 17        | 8.95%   |
-| 2016 | 15        | 7.89%   |
+| 2016 | 16        | 8.42%   |
 | 2009 | 14        | 7.37%   |
 | 2017 | 12        | 6.32%   |
 | 2012 | 12        | 6.32%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| GOODRAM             | 2         | 2      | 0.71%   |
+| Goodram             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -1056,7 +1056,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| GOODRAM             | 2         | 2      | 1.4%    |
+| Goodram             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -2425,7 +2425,7 @@ Memory module models
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
 | Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 2         | 0.79%   |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s           | 2         | 0.79%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s           | 2         | 0.79%   |
 | V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s        | 1         | 0.39%   |
 | Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                | 1         | 0.39%   |
 | Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                | 1         | 0.39%   |
@@ -2499,15 +2499,15 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 64        | 30.33%  |
-| 1333    | 33        | 15.64%  |
 | 2400    | 32        | 15.17%  |
+| 1333    | 32        | 15.17%  |
 | 3200    | 12        | 5.69%   |
 | 2133    | 12        | 5.69%   |
 | 800     | 9         | 4.27%   |
 | 667     | 9         | 4.27%   |
 | 1067    | 8         | 3.79%   |
 | 2667    | 7         | 3.32%   |
-| 1334    | 6         | 2.84%   |
+| 1334    | 7         | 3.32%   |
 | 1867    | 5         | 2.37%   |
 | 2666    | 3         | 1.42%   |
 | 1066    | 3         | 1.42%   |

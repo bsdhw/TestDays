@@ -369,17 +369,16 @@ Motherboard manufacture year
 ![MFG Year](./images/pie_chart_bsd/node_year.svg)
 
 
-| Year    | Notebooks | Percent |
-|---------|-----------|---------|
-| 2019    | 4         | 17.39%  |
-| 2011    | 4         | 17.39%  |
-| 2006    | 4         | 17.39%  |
-| 2015    | 3         | 13.04%  |
-| 2020    | 2         | 8.7%    |
-| 2017    | 2         | 8.7%    |
-| 2012    | 2         | 8.7%    |
-| 2014    | 1         | 4.35%   |
-| Unknown | 1         | 4.35%   |
+| Year | Notebooks | Percent |
+|------|-----------|---------|
+| 2019 | 5         | 21.74%  |
+| 2011 | 4         | 17.39%  |
+| 2006 | 4         | 17.39%  |
+| 2015 | 3         | 13.04%  |
+| 2020 | 2         | 8.7%    |
+| 2017 | 2         | 8.7%    |
+| 2012 | 2         | 8.7%    |
+| 2014 | 1         | 4.35%   |
 
 Form Factor
 -----------
@@ -612,7 +611,7 @@ Hard drive models
 | Samsung MZHPV256HDGL-000L1 256GB | 1         | 3.57%   |
 | Samsung MZ7PC128HAFU-000L1 128GB | 1         | 3.57%   |
 | Samsung MZ7LN512HMJP-000L7 512GB | 1         | 3.57%   |
-| NVMe WDC PC SN720 SDA 1TB        | 1         | 3.57%   |
+| NVMe WDC PC SN720 SDA 512GB      | 1         | 3.57%   |
 | NVMe SAMSUNG MZVLW1T0 1TB        | 1         | 3.57%   |
 | NVMe LENSE30512GMSP34 512GB      | 1         | 3.57%   |
 | NVMe INTEL SSDPEKNW51 512GB      | 1         | 3.57%   |
@@ -698,8 +697,8 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 16        | 16     | 57.14%  |
-| 0.51-1.0   | 9         | 9      | 32.14%  |
-| 1.01-2.0   | 3         | 4      | 10.71%  |
+| 0.51-1.0   | 10        | 10     | 35.71%  |
+| 1.01-2.0   | 2         | 3      | 7.14%   |
 
 Space Total
 -----------
