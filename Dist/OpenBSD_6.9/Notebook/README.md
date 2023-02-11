@@ -2038,6 +2038,7 @@ Camera device models
 |------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                | 4         | 12.12%  |
 | Lite-On Integrated Camera                | 2         | 6.06%   |
+| Chicony VGA Webcam                       | 2         | 6.06%   |
 | Acer Integrated Camera                   | 2         | 6.06%   |
 | Acer EasyCamera                          | 2         | 6.06%   |
 | Syntek Lenovo EasyCamera                 | 1         | 3.03%   |
@@ -2054,9 +2055,7 @@ Camera device models
 | IMC Networks USB2.0 HD UVC WebCam        | 1         | 3.03%   |
 | IMC Networks Lenovo EasyCamera           | 1         | 3.03%   |
 | IMC Networks Integrated Camera           | 1         | 3.03%   |
-| Chicony VGA WebCam                       | 1         | 3.03%   |
 | Chicony thinkpad t430s camera            | 1         | 3.03%   |
-| Chicony Ltd., VGA Webcam                 | 1         | 3.03%   |
 | Chicony Lenovo Integrated Camera (0.3MP) | 1         | 3.03%   |
 | Chicony Integrated Camera [ThinkPad]     | 1         | 3.03%   |
 | Chicony HD Webcam                        | 1         | 3.03%   |

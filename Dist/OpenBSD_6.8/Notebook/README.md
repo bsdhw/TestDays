@@ -2058,7 +2058,7 @@ Sound card models
 | Intel 82801CA/CAM AC'97 Audio Controller                                                          | 1         | 0.85%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 0.85%   |
 | ESS Technology ES1988 Allegro-1                                                                   | 1         | 0.85%   |
-| C-Media Electronics Anua Mic CM 900                                                               | 1         | 0.85%   |
+| C-Media Electronics USB PnP Audio Device                                                          | 1         | 0.85%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 0.85%   |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1         | 0.85%   |
 | AMD Renoir Radeon High Definition Audio Controller                                                | 1         | 0.85%   |

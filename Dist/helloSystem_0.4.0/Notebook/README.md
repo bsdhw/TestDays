@@ -526,8 +526,8 @@ Motherboard manufacture year
 | 2020 | 7         | 7.61%   |
 | 2019 | 7         | 7.61%   |
 | 2016 | 7         | 7.61%   |
-| 2015 | 6         | 6.52%   |
-| 2014 | 5         | 5.43%   |
+| 2014 | 6         | 6.52%   |
+| 2015 | 5         | 5.43%   |
 | 2010 | 5         | 5.43%   |
 | 2012 | 4         | 4.35%   |
 | 2008 | 3         | 3.26%   |
@@ -2060,7 +2060,7 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s    | 2         | 1.6%    |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
@@ -2149,7 +2149,7 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 34        | 31.48%  |
+| 1600    | 33        | 30.56%  |
 | 2400    | 15        | 13.89%  |
 | 1333    | 12        | 11.11%  |
 | 2133    | 8         | 7.41%   |
@@ -2158,7 +2158,7 @@ Memory module speed
 | 3200    | 6         | 5.56%   |
 | 1067    | 6         | 5.56%   |
 | 2667    | 5         | 4.63%   |
-| 1867    | 3         | 2.78%   |
+| 1867    | 4         | 3.7%    |
 | 1066    | 1         | 0.93%   |
 | 800     | 1         | 0.93%   |
 | 533     | 1         | 0.93%   |

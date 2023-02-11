@@ -677,7 +677,7 @@ Hard drive models
 |----------------------------------|-----------|---------|
 | Samsung HM321HI 320GB            | 3         | 7.14%   |
 | NVMe WDC PC SN530 SDB 256GB      | 2         | 4.76%   |
-| NVMe Samsung SSD 980 2TB         | 2         | 4.76%   |
+| NVMe Samsung SSD 980 1TB         | 2         | 4.76%   |
 | Innostor SSD 15GB                | 2         | 4.76%   |
 | Apacer AS340 240GB               | 2         | 4.76%   |
 | WDC WD7500BPKX-00HPJT0 752GB     | 1         | 2.38%   |
@@ -789,8 +789,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 23        | 27     | 63.89%  |
-| 0.51-1.0   | 11        | 12     | 30.56%  |
-| 1.01-2.0   | 2         | 2      | 5.56%   |
+| 0.51-1.0   | 13        | 14     | 36.11%  |
 
 Space Total
 -----------

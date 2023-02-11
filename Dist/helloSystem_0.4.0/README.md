@@ -655,14 +655,14 @@ Motherboard manufacture year
 | 2013 | 26        | 13.68%  |
 | 2018 | 24        | 12.63%  |
 | 2020 | 18        | 9.47%   |
+| 2014 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
-| 2014 | 17        | 8.95%   |
 | 2016 | 16        | 8.42%   |
 | 2009 | 14        | 7.37%   |
 | 2017 | 12        | 6.32%   |
 | 2012 | 12        | 6.32%   |
-| 2015 | 8         | 4.21%   |
 | 2010 | 8         | 4.21%   |
+| 2015 | 7         | 3.68%   |
 | 2011 | 7         | 3.68%   |
 | 2008 | 6         | 3.16%   |
 | 2021 | 2         | 1.05%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| Goodram             | 2         | 2      | 0.71%   |
+| GOODRAM             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -1056,7 +1056,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| Goodram             | 2         | 2      | 1.4%    |
+| GOODRAM             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -2075,11 +2075,11 @@ Ethernet vendors
 
 | Vendor                   | Computers | Percent |
 |--------------------------|-----------|---------|
-| Intel                    | 83        | 45.11%  |
-| Realtek Semiconductor    | 75        | 40.76%  |
-| Qualcomm Atheros         | 9         | 4.89%   |
-| Broadcom                 | 9         | 4.89%   |
-| Nvidia                   | 4         | 2.17%   |
+| Intel                    | 83        | 44.86%  |
+| Realtek Semiconductor    | 76        | 41.08%  |
+| Qualcomm Atheros         | 9         | 4.86%   |
+| Broadcom                 | 9         | 4.86%   |
+| Nvidia                   | 4         | 2.16%   |
 | MediaTek                 | 1         | 0.54%   |
 | Marvell Technology Group | 1         | 0.54%   |
 | JMicron Technology       | 1         | 0.54%   |
@@ -2095,30 +2095,30 @@ Ethernet models
 
 | Model                                                                         | Computers | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 62        | 33.16%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 18        | 9.63%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 10        | 5.35%   |
-| Intel Ethernet Connection I217-LM                                             | 8         | 4.28%   |
-| Intel I211 Gigabit Network Connection                                         | 6         | 3.21%   |
-| Intel Ethernet Connection I219-LM                                             | 5         | 2.67%   |
-| Intel Ethernet Connection (4) I219-LM                                         | 5         | 2.67%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                                      | 4         | 2.14%   |
-| Intel Ethernet Connection I217-V                                              | 4         | 2.14%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 4         | 2.14%   |
-| Intel 82577LM Gigabit Network Connection                                      | 4         | 2.14%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 62        | 32.98%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 18        | 9.57%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 10        | 5.32%   |
+| Intel Ethernet Connection I217-LM                                             | 8         | 4.26%   |
+| Intel I211 Gigabit Network Connection                                         | 6         | 3.19%   |
+| Intel Ethernet Connection I219-LM                                             | 5         | 2.66%   |
+| Intel Ethernet Connection (4) I219-LM                                         | 5         | 2.66%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                                      | 4         | 2.13%   |
+| Intel Ethernet Connection I217-V                                              | 4         | 2.13%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 4         | 2.13%   |
+| Intel 82577LM Gigabit Network Connection                                      | 4         | 2.13%   |
 | Nvidia MCP79 Ethernet                                                         | 3         | 1.6%    |
 | Intel Ethernet Connection I218-LM                                             | 3         | 1.6%    |
 | Intel Ethernet Connection (7) I219-V                                          | 3         | 1.6%    |
 | Intel Ethernet Connection (4) I219-V                                          | 3         | 1.6%    |
 | Intel Ethernet Connection (2) I219-V                                          | 3         | 1.6%    |
 | Intel 82567LM Gigabit Network Connection                                      | 3         | 1.6%    |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 2         | 1.07%   |
-| Intel I210 Gigabit Network Connection                                         | 2         | 1.07%   |
-| Intel Ethernet Connection (2) I218-V                                          | 2         | 1.07%   |
-| Intel 82578DM Gigabit Network Connection                                      | 2         | 1.07%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                               | 2         | 1.07%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 2         | 1.06%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 2         | 1.06%   |
+| Intel I210 Gigabit Network Connection                                         | 2         | 1.06%   |
+| Intel Ethernet Connection (2) I218-V                                          | 2         | 1.06%   |
+| Intel 82578DM Gigabit Network Connection                                      | 2         | 1.06%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                               | 2         | 1.06%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1         | 0.53%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1         | 0.53%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.53%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 0.53%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1         | 0.53%   |
@@ -2146,10 +2146,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 182       | 58.9%   |
-| WiFi     | 123       | 39.81%  |
+| Ethernet | 182       | 59.09%  |
+| WiFi     | 123       | 39.94%  |
 | Modem    | 3         | 0.97%   |
-| Unknown  | 1         | 0.32%   |
 
 Used Controller
 ---------------
@@ -2408,7 +2407,7 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 2         | 0.79%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s    | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
@@ -2498,7 +2497,7 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 64        | 30.33%  |
+| 1600    | 63        | 29.86%  |
 | 2400    | 32        | 15.17%  |
 | 1333    | 32        | 15.17%  |
 | 3200    | 12        | 5.69%   |
@@ -2508,7 +2507,7 @@ Memory module speed
 | 1067    | 8         | 3.79%   |
 | 2667    | 7         | 3.32%   |
 | 1334    | 7         | 3.32%   |
-| 1867    | 5         | 2.37%   |
+| 1867    | 6         | 2.84%   |
 | 2666    | 3         | 1.42%   |
 | 1066    | 3         | 1.42%   |
 | 1866    | 2         | 0.95%   |

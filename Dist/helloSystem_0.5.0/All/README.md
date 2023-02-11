@@ -715,8 +715,8 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 33        | 13.47%  |
-| 2019 | 31        | 12.65%  |
+| 2020 | 32        | 13.06%  |
+| 2019 | 32        | 13.06%  |
 | 2013 | 28        | 11.43%  |
 | 2012 | 26        | 10.61%  |
 | 2018 | 22        | 8.98%   |
@@ -1455,11 +1455,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 197       | 63.96%  |
-| NVMe | 43        | 13.96%  |
-| IDE  | 43        | 13.96%  |
-| RAID | 18        | 5.84%   |
-| SAS  | 4         | 1.3%    |
+| SATA | 197       | 63.75%  |
+| NVMe | 43        | 13.92%  |
+| IDE  | 43        | 13.92%  |
+| RAID | 19        | 6.15%   |
+| SAS  | 4         | 1.29%   |
 | SCSI | 3         | 0.97%   |
 
 Processor
@@ -2564,7 +2564,7 @@ Memory module models
 |--------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB DIMM 1333MT/s                         | 4         | 1.25%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 4         | 1.25%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 4         | 1.25%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 4         | 1.25%   |
 | Unknown RAM Module 4GB DIMM 1333MT/s                         | 3         | 0.94%   |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 3         | 0.94%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 0.94%   |

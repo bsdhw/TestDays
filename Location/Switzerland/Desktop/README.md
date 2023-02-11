@@ -1032,7 +1032,7 @@ Hard disk drive vendors
 | Toshiba             | 2        | 3      | 7.41%   |
 | Samsung Electronics | 1        | 1      | 3.7%    |
 | OPENBSD             | 1        | 1      | 3.7%    |
-| Hewlett-Packard     | 1        | 8      | 3.7%    |
+| Hewlett-Packard     | 1        | 10     | 3.7%    |
 | China               | 1        | 1      | 3.7%    |
 | Apple               | 1        | 1      | 3.7%    |
 
@@ -1046,27 +1046,26 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 18       | 36     | 24%     |
-| Phison              | 13       | 16     | 17.33%  |
-| Kingston            | 8        | 9      | 10.67%  |
-| Intel               | 5        | 21     | 6.67%   |
-| Hoodisk             | 5        | 7      | 6.67%   |
-| WDC                 | 4        | 7      | 5.33%   |
-| Crucial             | 4        | 11     | 5.33%   |
-| ShiJi               | 2        | 7      | 2.67%   |
-| SanDisk             | 2        | 5      | 2.67%   |
-| Corsair             | 2        | 3      | 2.67%   |
-| China               | 2        | 3      | 2.67%   |
-| Transcend           | 1        | 1      | 1.33%   |
-| SPCC                | 1        | 2      | 1.33%   |
-| SK hynix            | 1        | 1      | 1.33%   |
-| PNY                 | 1        | 1      | 1.33%   |
-| Micron Technology   | 1        | 2      | 1.33%   |
-| Intenso             | 1        | 1      | 1.33%   |
-| Hewlett-Packard     | 1        | 2      | 1.33%   |
-| FORESEE             | 1        | 1      | 1.33%   |
-| BIWIN               | 1        | 1      | 1.33%   |
-| A-DATA Technology   | 1        | 1      | 1.33%   |
+| Samsung Electronics | 18       | 36     | 24.32%  |
+| Phison              | 13       | 16     | 17.57%  |
+| Kingston            | 8        | 9      | 10.81%  |
+| Intel               | 5        | 21     | 6.76%   |
+| Hoodisk             | 5        | 7      | 6.76%   |
+| WDC                 | 4        | 7      | 5.41%   |
+| Crucial             | 4        | 11     | 5.41%   |
+| ShiJi               | 2        | 7      | 2.7%    |
+| SanDisk             | 2        | 5      | 2.7%    |
+| Corsair             | 2        | 3      | 2.7%    |
+| China               | 2        | 3      | 2.7%    |
+| Transcend           | 1        | 1      | 1.35%   |
+| SPCC                | 1        | 2      | 1.35%   |
+| SK hynix            | 1        | 1      | 1.35%   |
+| PNY                 | 1        | 1      | 1.35%   |
+| Micron Technology   | 1        | 2      | 1.35%   |
+| Intenso             | 1        | 1      | 1.35%   |
+| FORESEE             | 1        | 1      | 1.35%   |
+| BIWIN               | 1        | 1      | 1.35%   |
+| A-DATA Technology   | 1        | 1      | 1.35%   |
 
 Drive Kind
 ----------
@@ -1078,9 +1077,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 73       | 138    | 70.19%  |
-| HDD  | 19       | 86     | 18.27%  |
-| NVMe | 12       | 15     | 11.54%  |
+| SSD  | 72       | 136    | 69.9%   |
+| HDD  | 19       | 88     | 18.45%  |
+| NVMe | 12       | 15     | 11.65%  |
 
 Drive Connector
 ---------------
@@ -1105,13 +1104,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 80       | 151    | 69.57%  |
-| 0.51-1.0   | 9        | 20     | 7.83%   |
-| 4.01-10.0  | 7        | 12     | 6.09%   |
-| 2.01-3.0   | 6        | 23     | 5.22%   |
-| 1.01-2.0   | 6        | 9      | 5.22%   |
-| 3.01-4.0   | 5        | 5      | 4.35%   |
-| 10.01-20.0 | 2        | 4      | 1.74%   |
+| 0.01-0.5   | 80       | 153    | 70.18%  |
+| 0.51-1.0   | 8        | 18     | 7.02%   |
+| 4.01-10.0  | 7        | 12     | 6.14%   |
+| 2.01-3.0   | 6        | 23     | 5.26%   |
+| 1.01-2.0   | 6        | 9      | 5.26%   |
+| 3.01-4.0   | 5        | 5      | 4.39%   |
+| 10.01-20.0 | 2        | 4      | 1.75%   |
 
 Space Total
 -----------
@@ -2206,48 +2205,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 12       | 11.32%  |
-| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s         | 3        | 2.83%   |
-| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s         | 3        | 2.83%   |
-| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s         | 3        | 2.83%   |
-| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s       | 3        | 2.83%   |
-| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                   | 2        | 1.89%   |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                    | 2        | 1.89%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                  | 2        | 1.89%   |
-| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 1.89%   |
-| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s        | 2        | 1.89%   |
-| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s        | 2        | 1.89%   |
-| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s       | 2        | 1.89%   |
-| Crucial RAM CT8G4SFRA32A.M8FR 8GB SODIMM DDR4 3200MT/s       | 2        | 1.89%   |
-| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s         | 2        | 1.89%   |
-| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s         | 2        | 1.89%   |
-| Unknown RAM Module 512MB DIMM DDR2 667MT/s                   | 1        | 0.94%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                      | 1        | 0.94%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.94%   |
-| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s         | 1        | 0.94%   |
-| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s | 1        | 0.94%   |
-| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                 | 1        | 0.94%   |
-| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s        | 1        | 0.94%   |
-| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                   | 1        | 0.94%   |
-| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                 | 1        | 0.94%   |
-| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s     | 1        | 0.94%   |
-| SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s         | 1        | 0.94%   |
-| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s         | 1        | 0.94%   |
-| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                 | 1        | 0.94%   |
-| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                   | 1        | 0.94%   |
-| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                   | 1        | 0.94%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s        | 1        | 0.94%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1        | 0.94%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 1        | 0.94%   |
-| Samsung RAM M393B2G70DB0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 0.94%   |
-| Samsung RAM M393B2G70BH0-CK0 16GB DIMM DDR3 1600MT/s         | 1        | 0.94%   |
-| Samsung RAM M393B1K70BH1-CH9 8GB DIMM DDR3 1333MT/s          | 1        | 0.94%   |
-| Samsung RAM M393A1K43BB1-CTD 8GB RIMM DDR4 2133MT/s          | 1        | 0.94%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.94%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                   | 1        | 0.94%   |
-| Nanya RAM NT1GT64U8HB0BY-3C 1GB DIMM DDR2 667MT/s            | 1        | 0.94%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 12       | 11.32%  |
+| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s           | 3        | 2.83%   |
+| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s           | 3        | 2.83%   |
+| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s           | 3        | 2.83%   |
+| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s         | 3        | 2.83%   |
+| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                     | 2        | 1.89%   |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 2        | 1.89%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                    | 2        | 1.89%   |
+| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s          | 2        | 1.89%   |
+| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s          | 2        | 1.89%   |
+| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s          | 2        | 1.89%   |
+| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s         | 2        | 1.89%   |
+| Crucial RAM CT8G4SFRA32A.M8FR 8GB SODIMM DDR4 3200MT/s         | 2        | 1.89%   |
+| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s           | 2        | 1.89%   |
+| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s           | 2        | 1.89%   |
+| Unknown RAM Module 512MB DIMM DDR2 667MT/s                     | 1        | 0.94%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 0.94%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.94%   |
+| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s           | 1        | 0.94%   |
+| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s   | 1        | 0.94%   |
+| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                   | 1        | 0.94%   |
+| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s          | 1        | 0.94%   |
+| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                     | 1        | 0.94%   |
+| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                   | 1        | 0.94%   |
+| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s       | 1        | 0.94%   |
+| SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.94%   |
+| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s           | 1        | 0.94%   |
+| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                   | 1        | 0.94%   |
+| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                     | 1        | 0.94%   |
+| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                     | 1        | 0.94%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s          | 1        | 0.94%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s          | 1        | 0.94%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s          | 1        | 0.94%   |
+| Samsung RAM M393B2G70DB0-CK0 16GB DIMM DDR3 1600MT/s           | 1        | 0.94%   |
+| Samsung RAM M393B2G70BH0-CK0 16GB DIMM DDR3 1600MT/s           | 1        | 0.94%   |
+| Samsung RAM M393B1K70BH1-CH9 8GB DIMM DDR3 1333MT/s            | 1        | 0.94%   |
+| Samsung RAM M393A1K43BB1-CTD 8GB RIMM DDR4 2133MT/s            | 1        | 0.94%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.94%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                     | 1        | 0.94%   |
+| Nanya RAM NT1GT64U8HB0BY-3C 1GB DIMM DDR2 667MT/s              | 1        | 0.94%   |
 
 Memory Kind
 -----------

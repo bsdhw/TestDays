@@ -1869,16 +1869,16 @@ Ethernet vendors
 
 | Vendor                            | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Realtek Semiconductor             | 38       | 44.71%  |
-| Intel                             | 33       | 38.82%  |
-| Broadcom                          | 4        | 4.71%   |
-| Qualcomm Atheros                  | 3        | 3.53%   |
-| Marvell Technology Group          | 2        | 2.35%   |
-| Sundance Technology Inc / IC Plus | 1        | 1.18%   |
-| Silicon Integrated Systems [SiS]  | 1        | 1.18%   |
-| Samsung Electronics               | 1        | 1.18%   |
-| Qualcomm                          | 1        | 1.18%   |
-| ADMtek                            | 1        | 1.18%   |
+| Realtek Semiconductor             | 39       | 45.35%  |
+| Intel                             | 33       | 38.37%  |
+| Broadcom                          | 4        | 4.65%   |
+| Qualcomm Atheros                  | 3        | 3.49%   |
+| Marvell Technology Group          | 2        | 2.33%   |
+| Sundance Technology Inc / IC Plus | 1        | 1.16%   |
+| Silicon Integrated Systems [SiS]  | 1        | 1.16%   |
+| Samsung Electronics               | 1        | 1.16%   |
+| Qualcomm                          | 1        | 1.16%   |
+| ADMtek                            | 1        | 1.16%   |
 
 Ethernet Model
 --------------
@@ -1890,37 +1890,37 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 36       | 40.45%  |
-| Intel I211 Gigabit Network Connection                                         | 9        | 10.11%  |
-| Intel Ethernet Connection (2) I219-V                                          | 4        | 4.49%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 4        | 4.49%   |
-| Intel 82574L Gigabit Network Connection                                       | 4        | 4.49%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 3        | 3.37%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 2        | 2.25%   |
-| Intel I210 Gigabit Network Connection                                         | 2        | 2.25%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2        | 2.25%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2        | 2.25%   |
-| Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1        | 1.12%   |
-| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1        | 1.12%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 1.12%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1        | 1.12%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.12%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 1.12%   |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.12%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.12%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                                    | 1        | 1.12%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 1.12%   |
-| Intel I350 Gigabit Network Connection                                         | 1        | 1.12%   |
-| Intel Ethernet Controller I225-V                                              | 1        | 1.12%   |
-| Intel Ethernet Connection (7) I219-V                                          | 1        | 1.12%   |
-| Intel Ethernet Connection (2) I218-V                                          | 1        | 1.12%   |
-| Intel Ethernet Connection (12) I219-V                                         | 1        | 1.12%   |
-| Intel 82573L Gigabit Ethernet Controller                                      | 1        | 1.12%   |
-| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 1        | 1.12%   |
-| Intel 82566DM-2 Gigabit Network Connection                                    | 1        | 1.12%   |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                       | 1        | 1.12%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 1        | 1.12%   |
-| ADMtek NC100 Network Everywhere Fast Ethernet 10/100                          | 1        | 1.12%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 36       | 40%     |
+| Intel I211 Gigabit Network Connection                                         | 9        | 10%     |
+| Intel Ethernet Connection (2) I219-V                                          | 4        | 4.44%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 4        | 4.44%   |
+| Intel 82574L Gigabit Network Connection                                       | 4        | 4.44%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 3        | 3.33%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 2        | 2.22%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 2        | 2.22%   |
+| Intel I210 Gigabit Network Connection                                         | 2        | 2.22%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2        | 2.22%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2        | 2.22%   |
+| Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1        | 1.11%   |
+| Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1        | 1.11%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 1.11%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.11%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 1.11%   |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.11%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.11%   |
+| Qualcomm ALCATEL Composite RNDIS Interface                                    | 1        | 1.11%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 1.11%   |
+| Intel I350 Gigabit Network Connection                                         | 1        | 1.11%   |
+| Intel Ethernet Controller I225-V                                              | 1        | 1.11%   |
+| Intel Ethernet Connection (7) I219-V                                          | 1        | 1.11%   |
+| Intel Ethernet Connection (2) I218-V                                          | 1        | 1.11%   |
+| Intel Ethernet Connection (12) I219-V                                         | 1        | 1.11%   |
+| Intel 82573L Gigabit Ethernet Controller                                      | 1        | 1.11%   |
+| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 1        | 1.11%   |
+| Intel 82566DM-2 Gigabit Network Connection                                    | 1        | 1.11%   |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                       | 1        | 1.11%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 1        | 1.11%   |
+| ADMtek NC100 Network Everywhere Fast Ethernet 10/100                          | 1        | 1.11%   |
 
 Net Controller Kind
 -------------------
@@ -1932,9 +1932,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 75       | 71.43%  |
-| WiFi     | 26       | 24.76%  |
-| Unknown  | 4        | 3.81%   |
+| Ethernet | 75       | 72.12%  |
+| WiFi     | 26       | 25%     |
+| Unknown  | 3        | 2.88%   |
 
 Used Controller
 ---------------

@@ -2052,7 +2052,7 @@ Memory module models
 |------------------------------------------------------------------|-----------|---------|
 | Unknown                                                          | 7         | 9.59%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 4.11%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 3         | 4.11%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s         | 3         | 4.11%   |
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s                    | 2         | 2.74%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 2         | 2.74%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 2.74%   |

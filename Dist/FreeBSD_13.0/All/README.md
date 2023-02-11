@@ -2259,20 +2259,20 @@ Ethernet vendors
 
 | Vendor                            | Computers | Percent |
 |-----------------------------------|-----------|---------|
-| Realtek Semiconductor             | 87        | 42.23%  |
-| Intel                             | 70        | 33.98%  |
-| Broadcom                          | 16        | 7.77%   |
-| Qualcomm Atheros                  | 15        | 7.28%   |
-| Samsung Electronics               | 4         | 1.94%   |
-| Marvell Technology Group          | 4         | 1.94%   |
+| Realtek Semiconductor             | 88        | 42.51%  |
+| Intel                             | 70        | 33.82%  |
+| Broadcom                          | 16        | 7.73%   |
+| Qualcomm Atheros                  | 15        | 7.25%   |
+| Samsung Electronics               | 4         | 1.93%   |
+| Marvell Technology Group          | 4         | 1.93%   |
 | Nvidia                            | 2         | 0.97%   |
 | Cisco Systems                     | 2         | 0.97%   |
-| Xiaomi                            | 1         | 0.49%   |
-| Sundance Technology Inc / IC Plus | 1         | 0.49%   |
-| Silicon Integrated Systems [SiS]  | 1         | 0.49%   |
-| Qualcomm                          | 1         | 0.49%   |
-| Apple                             | 1         | 0.49%   |
-| ADMtek                            | 1         | 0.49%   |
+| Xiaomi                            | 1         | 0.48%   |
+| Sundance Technology Inc / IC Plus | 1         | 0.48%   |
+| Silicon Integrated Systems [SiS]  | 1         | 0.48%   |
+| Qualcomm                          | 1         | 0.48%   |
+| Apple                             | 1         | 0.48%   |
+| ADMtek                            | 1         | 0.48%   |
 
 Ethernet Model
 --------------
@@ -2284,39 +2284,39 @@ Ethernet models
 
 | Model                                                                         | Computers | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 72        | 33.8%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13        | 6.1%    |
-| Intel I211 Gigabit Network Connection                                         | 9         | 4.23%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 8         | 3.76%   |
-| Intel Ethernet Connection (4) I219-LM                                         | 5         | 2.35%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 5         | 2.35%   |
-| Intel I350 Gigabit Network Connection                                         | 4         | 1.88%   |
-| Intel I210 Gigabit Network Connection                                         | 4         | 1.88%   |
-| Intel Ethernet Connection I217-LM                                             | 4         | 1.88%   |
-| Intel Ethernet Connection (2) I219-V                                          | 4         | 1.88%   |
-| Intel 82574L Gigabit Network Connection                                       | 4         | 1.88%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 3         | 1.41%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                    | 3         | 1.41%   |
-| Intel Ethernet Connection (4) I219-V                                          | 3         | 1.41%   |
-| Intel Ethernet Connection (3) I218-LM                                         | 3         | 1.41%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 2         | 0.94%   |
-| Samsung Galaxy series, misc. (tethering mode)                                 | 2         | 0.94%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                                         | 2         | 0.94%   |
-| Nvidia MCP79 Ethernet                                                         | 2         | 0.94%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 2         | 0.94%   |
-| Intel Ethernet Connection (7) I219-V                                          | 2         | 0.94%   |
-| Intel 82577LM Gigabit Network Connection                                      | 2         | 0.94%   |
-| Intel 82577LC Gigabit Network Connection                                      | 2         | 0.94%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2         | 0.94%   |
-| Cisco Systems VIC Ethernet NIC                                                | 2         | 0.94%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 2         | 0.94%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2         | 0.94%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2         | 0.94%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                               | 2         | 0.94%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 72        | 33.64%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13        | 6.07%   |
+| Intel I211 Gigabit Network Connection                                         | 9         | 4.21%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 8         | 3.74%   |
+| Intel Ethernet Connection (4) I219-LM                                         | 5         | 2.34%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 5         | 2.34%   |
+| Intel I350 Gigabit Network Connection                                         | 4         | 1.87%   |
+| Intel I210 Gigabit Network Connection                                         | 4         | 1.87%   |
+| Intel Ethernet Connection I217-LM                                             | 4         | 1.87%   |
+| Intel Ethernet Connection (2) I219-V                                          | 4         | 1.87%   |
+| Intel 82574L Gigabit Network Connection                                       | 4         | 1.87%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 3         | 1.4%    |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                    | 3         | 1.4%    |
+| Intel Ethernet Connection (4) I219-V                                          | 3         | 1.4%    |
+| Intel Ethernet Connection (3) I218-LM                                         | 3         | 1.4%    |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 2         | 0.93%   |
+| Samsung Galaxy series, misc. (tethering mode)                                 | 2         | 0.93%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 2         | 0.93%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                         | 2         | 0.93%   |
+| Nvidia MCP79 Ethernet                                                         | 2         | 0.93%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 2         | 0.93%   |
+| Intel Ethernet Connection (7) I219-V                                          | 2         | 0.93%   |
+| Intel 82577LM Gigabit Network Connection                                      | 2         | 0.93%   |
+| Intel 82577LC Gigabit Network Connection                                      | 2         | 0.93%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2         | 0.93%   |
+| Cisco Systems VIC Ethernet NIC                                                | 2         | 0.93%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                             | 2         | 0.93%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2         | 0.93%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2         | 0.93%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                               | 2         | 0.93%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1         | 0.47%   |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1         | 0.47%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1         | 0.47%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1         | 0.47%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.47%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 0.47%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                     | 1         | 0.47%   |
@@ -2335,9 +2335,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 190       | 54.91%  |
-| WiFi     | 149       | 43.06%  |
-| Unknown  | 6         | 1.73%   |
+| Ethernet | 190       | 55.07%  |
+| WiFi     | 149       | 43.19%  |
+| Unknown  | 5         | 1.45%   |
 | Modem    | 1         | 0.29%   |
 
 Used Controller
@@ -2585,48 +2585,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                   | Computers | Percent |
-|---------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 5         | 1.95%   |
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 4         | 1.56%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s   | 4         | 1.56%   |
-| Unknown                                                 | 4         | 1.56%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s              | 3         | 1.17%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                | 3         | 1.17%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 3         | 1.17%   |
-| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s  | 3         | 1.17%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 3         | 1.17%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s   | 3         | 1.17%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2         | 0.78%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                    | 2         | 0.78%   |
-| Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 0.78%   |
-| Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2         | 0.78%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2         | 0.78%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
-| SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
-| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s  | 2         | 0.78%   |
-| SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s | 2         | 0.78%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s   | 2         | 0.78%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 2         | 0.78%   |
-| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s   | 2         | 0.78%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s   | 2         | 0.78%   |
-| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s   | 2         | 0.78%   |
-| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s | 2         | 0.78%   |
-| Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s | 2         | 0.78%   |
-| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s | 2         | 0.78%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 2         | 0.78%   |
-| Unknown SODIMM 1GB SODIMM DDR2 533MT/s                  | 1         | 0.39%   |
-| Unknown RAM PartNum 0 512MB Chip DDR2 533MT/s           | 1         | 0.39%   |
-| Unknown RAM Module 8GB SODIMM DDR4 2133MT/s             | 1         | 0.39%   |
-| Unknown RAM Module 8GB DIMM DDR3 1067MT/s               | 1         | 0.39%   |
-| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s             | 1         | 0.39%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1         | 0.39%   |
-| Unknown RAM Module 4GB DIMM DDR 1333MT/s                | 1         | 0.39%   |
-| Unknown RAM Module 4GB DIMM 400MT/s                     | 1         | 0.39%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                    | 1         | 0.39%   |
-| Unknown RAM Module 2GB SODIMM DDR3 667MT/s              | 1         | 0.39%   |
-| Unknown RAM Module 2GB SODIMM 667MT/s                   | 1         | 0.39%   |
+| Model                                                    | Computers | Percent |
+|----------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 5         | 1.95%   |
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s   | 4         | 1.56%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s    | 4         | 1.56%   |
+| Unknown                                                  | 4         | 1.56%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s               | 3         | 1.17%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                 | 3         | 1.17%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 3         | 1.17%   |
+| SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s   | 3         | 1.17%   |
+| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 3         | 1.17%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s    | 3         | 1.17%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                | 2         | 0.78%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                     | 2         | 0.78%   |
+| Unknown RAM Module 2GB SODIMM DDR2                       | 2         | 0.78%   |
+| Unknown RAM Module 1GB DIMM DDR2 800MT/s                 | 2         | 0.78%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s       | 2         | 0.78%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.78%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.78%   |
+| SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s   | 2         | 0.78%   |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s   | 2         | 0.78%   |
+| SK hynix RAM HMA82GS6CJR8N-VK 16GB SODIMM DDR4 2667MT/s  | 2         | 0.78%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s    | 2         | 0.78%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.78%   |
+| Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s    | 2         | 0.78%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s    | 2         | 0.78%   |
+| Samsung RAM M471A1K43DB1-CWE 8GB SODIMM DDR4 3200MT/s    | 2         | 0.78%   |
+| Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
+| Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
+| Crucial RAM CT102464BF160B.M16 8GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s    | 2         | 0.78%   |
+| Unknown SODIMM 1GB SODIMM DDR2 533MT/s                   | 1         | 0.39%   |
+| Unknown RAM PartNum 0 512MB Chip DDR2 533MT/s            | 1         | 0.39%   |
+| Unknown RAM Module 8GB SODIMM DDR4 2133MT/s              | 1         | 0.39%   |
+| Unknown RAM Module 8GB DIMM DDR3 1067MT/s                | 1         | 0.39%   |
+| Unknown RAM Module 4GB SODIMM DDR4 2667MT/s              | 1         | 0.39%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                | 1         | 0.39%   |
+| Unknown RAM Module 4GB DIMM DDR 1333MT/s                 | 1         | 0.39%   |
+| Unknown RAM Module 4GB DIMM 400MT/s                      | 1         | 0.39%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                     | 1         | 0.39%   |
+| Unknown RAM Module 2GB SODIMM DDR3 667MT/s               | 1         | 0.39%   |
+| Unknown RAM Module 2GB SODIMM 667MT/s                    | 1         | 0.39%   |
 
 Memory Kind
 -----------

@@ -1808,13 +1808,13 @@ Ethernet vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 43       | 46.74%  |
-| Intel                 | 42       | 45.65%  |
-| Qualcomm Atheros      | 3        | 3.26%   |
-| Nvidia                | 1        | 1.09%   |
-| MediaTek              | 1        | 1.09%   |
-| D-Link System         | 1        | 1.09%   |
-| Broadcom              | 1        | 1.09%   |
+| Realtek Semiconductor | 44       | 47.31%  |
+| Intel                 | 42       | 45.16%  |
+| Qualcomm Atheros      | 3        | 3.23%   |
+| Nvidia                | 1        | 1.08%   |
+| MediaTek              | 1        | 1.08%   |
+| D-Link System         | 1        | 1.08%   |
+| Broadcom              | 1        | 1.08%   |
 
 Ethernet Model
 --------------
@@ -1826,36 +1826,36 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 38       | 40%     |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 9        | 9.47%   |
-| Intel I211 Gigabit Network Connection                                         | 6        | 6.32%   |
-| Intel Ethernet Connection I217-LM                                             | 5        | 5.26%   |
-| Intel Ethernet Connection I217-V                                              | 3        | 3.16%   |
-| Intel Ethernet Connection (7) I219-V                                          | 3        | 3.16%   |
-| Intel Ethernet Connection (2) I219-V                                          | 3        | 3.16%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 3        | 3.16%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 2        | 2.11%   |
-| Intel Ethernet Connection (2) I218-V                                          | 2        | 2.11%   |
-| Intel 82578DM Gigabit Network Connection                                      | 2        | 2.11%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1        | 1.05%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1        | 1.05%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.05%   |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.05%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                                      | 1        | 1.05%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 1.05%   |
-| Nvidia MCP73 Ethernet                                                         | 1        | 1.05%   |
-| MediaTek USB Ethernet-RNDIS                                                   | 1        | 1.05%   |
-| Intel I210 Gigabit Network Connection                                         | 1        | 1.05%   |
-| Intel Ethernet Connection I219-LM                                             | 1        | 1.05%   |
-| Intel Ethernet Connection (5) I219-LM                                         | 1        | 1.05%   |
-| Intel 82579V Gigabit Network Connection                                       | 1        | 1.05%   |
-| Intel 82574L Gigabit Network Connection                                       | 1        | 1.05%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.05%   |
-| Intel 82567LM-3 Gigabit Network Connection                                    | 1        | 1.05%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 1        | 1.05%   |
-| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                        | 1        | 1.05%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                               | 1        | 1.05%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                               | 1        | 1.05%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 38       | 39.58%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 9        | 9.38%   |
+| Intel I211 Gigabit Network Connection                                         | 6        | 6.25%   |
+| Intel Ethernet Connection I217-LM                                             | 5        | 5.21%   |
+| Intel Ethernet Connection I217-V                                              | 3        | 3.13%   |
+| Intel Ethernet Connection (7) I219-V                                          | 3        | 3.13%   |
+| Intel Ethernet Connection (2) I219-V                                          | 3        | 3.13%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 3        | 3.13%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 2        | 2.08%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 2        | 2.08%   |
+| Intel Ethernet Connection (2) I218-V                                          | 2        | 2.08%   |
+| Intel 82578DM Gigabit Network Connection                                      | 2        | 2.08%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1        | 1.04%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.04%   |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.04%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                                      | 1        | 1.04%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 1        | 1.04%   |
+| Nvidia MCP73 Ethernet                                                         | 1        | 1.04%   |
+| MediaTek USB Ethernet-RNDIS                                                   | 1        | 1.04%   |
+| Intel I210 Gigabit Network Connection                                         | 1        | 1.04%   |
+| Intel Ethernet Connection I219-LM                                             | 1        | 1.04%   |
+| Intel Ethernet Connection (5) I219-LM                                         | 1        | 1.04%   |
+| Intel 82579V Gigabit Network Connection                                       | 1        | 1.04%   |
+| Intel 82574L Gigabit Network Connection                                       | 1        | 1.04%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.04%   |
+| Intel 82567LM-3 Gigabit Network Connection                                    | 1        | 1.04%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 1        | 1.04%   |
+| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                        | 1        | 1.04%   |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                               | 1        | 1.04%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                               | 1        | 1.04%   |
 
 Net Controller Kind
 -------------------
@@ -1867,10 +1867,9 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 90       | 76.92%  |
-| WiFi     | 25       | 21.37%  |
-| Modem    | 1        | 0.85%   |
-| Unknown  | 1        | 0.85%   |
+| Ethernet | 90       | 77.59%  |
+| WiFi     | 25       | 21.55%  |
+| Modem    | 1        | 0.86%   |
 
 Used Controller
 ---------------
@@ -2074,48 +2073,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2        | 1.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s         | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                 | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s     | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s               | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                          | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                          | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s             | 1        | 0.84%   |
-| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                   | 1        | 0.84%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1        | 0.84%   |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s        | 1        | 0.84%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s         | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                   | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s          | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s          | 1        | 0.84%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3        | 2.52%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 1.68%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 1.68%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2        | 1.68%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2        | 1.68%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2        | 1.68%   |
+| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s       | 2        | 1.68%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s                 | 2        | 1.68%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1        | 0.84%   |
+| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                     | 1        | 0.84%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1        | 0.84%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s           | 1        | 0.84%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s   | 1        | 0.84%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s              | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                     | 1        | 0.84%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
 
 Memory Kind
 -----------

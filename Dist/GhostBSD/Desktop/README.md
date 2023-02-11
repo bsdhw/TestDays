@@ -1867,13 +1867,13 @@ Ethernet vendors
 
 | Vendor                | Desktops | Percent |
 |-----------------------|----------|---------|
-| Realtek Semiconductor | 34       | 43.04%  |
-| Intel                 | 34       | 43.04%  |
-| Broadcom              | 5        | 6.33%   |
-| Qualcomm Atheros      | 3        | 3.8%    |
-| Qualcomm              | 1        | 1.27%   |
-| Nvidia                | 1        | 1.27%   |
-| Aquantia              | 1        | 1.27%   |
+| Realtek Semiconductor | 35       | 43.75%  |
+| Intel                 | 34       | 42.5%   |
+| Broadcom              | 5        | 6.25%   |
+| Qualcomm Atheros      | 3        | 3.75%   |
+| Qualcomm              | 1        | 1.25%   |
+| Nvidia                | 1        | 1.25%   |
+| Aquantia              | 1        | 1.25%   |
 
 Ethernet Model
 --------------
@@ -1885,38 +1885,38 @@ Ethernet models
 
 | Model                                                             | Desktops | Percent |
 |-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 27       | 33.75%  |
-| Intel I211 Gigabit Network Connection                             | 11       | 13.75%  |
-| Intel Ethernet Connection (2) I219-V                              | 6        | 7.5%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3        | 3.75%   |
-| Intel Ethernet Connection I217-LM                                 | 3        | 3.75%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 2        | 2.5%    |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 2.5%    |
-| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 2.5%    |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 1.25%   |
-| Realtek Killer E2500 Gigabit Ethernet Controller                  | 1        | 1.25%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.25%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.25%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.25%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 1.25%   |
-| Nvidia MCP73 Ethernet                                             | 1        | 1.25%   |
-| Intel I350 Gigabit Network Connection                             | 1        | 1.25%   |
-| Intel Ethernet Controller X710 for 10GbE SFP+                     | 1        | 1.25%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 1.25%   |
-| Intel Ethernet Connection I217-V                                  | 1        | 1.25%   |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 1.25%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 1.25%   |
-| Intel Ethernet Connection (5) I219-LM                             | 1        | 1.25%   |
-| Intel Ethernet Connection (2) I218-V                              | 1        | 1.25%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 1.25%   |
-| Intel 82576 Gigabit Network Connection                            | 1        | 1.25%   |
-| Intel 82574L Gigabit Network Connection                           | 1        | 1.25%   |
-| Intel 82567V-2 Gigabit Network Connection                         | 1        | 1.25%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1        | 1.25%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 1.25%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1        | 1.25%   |
-| Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 1        | 1.25%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 1.25%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 27       | 33.33%  |
+| Intel I211 Gigabit Network Connection                             | 11       | 13.58%  |
+| Intel Ethernet Connection (2) I219-V                              | 6        | 7.41%   |
+| Realtek RTL8125 2.5GbE Controller                                 | 3        | 3.7%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3        | 3.7%    |
+| Intel Ethernet Connection I217-LM                                 | 3        | 3.7%    |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 2.47%   |
+| Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 2.47%   |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 1.23%   |
+| Realtek Killer E2500 Gigabit Ethernet Controller                  | 1        | 1.23%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 1.23%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.23%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 1.23%   |
+| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 1.23%   |
+| Nvidia MCP73 Ethernet                                             | 1        | 1.23%   |
+| Intel I350 Gigabit Network Connection                             | 1        | 1.23%   |
+| Intel Ethernet Controller X710 for 10GbE SFP+                     | 1        | 1.23%   |
+| Intel Ethernet Controller I225-V                                  | 1        | 1.23%   |
+| Intel Ethernet Connection I217-V                                  | 1        | 1.23%   |
+| Intel Ethernet Connection (7) I219-V                              | 1        | 1.23%   |
+| Intel Ethernet Connection (7) I219-LM                             | 1        | 1.23%   |
+| Intel Ethernet Connection (5) I219-LM                             | 1        | 1.23%   |
+| Intel Ethernet Connection (2) I218-V                              | 1        | 1.23%   |
+| Intel 82579V Gigabit Network Connection                           | 1        | 1.23%   |
+| Intel 82576 Gigabit Network Connection                            | 1        | 1.23%   |
+| Intel 82574L Gigabit Network Connection                           | 1        | 1.23%   |
+| Intel 82567V-2 Gigabit Network Connection                         | 1        | 1.23%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1        | 1.23%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 1        | 1.23%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1        | 1.23%   |
+| Broadcom NetLink BCM57781 Gigabit Ethernet PCIe                   | 1        | 1.23%   |
+| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion] | 1        | 1.23%   |
 
 Net Controller Kind
 -------------------
@@ -1928,10 +1928,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 73       | 70.87%  |
-| WiFi     | 26       | 25.24%  |
-| Modem    | 2        | 1.94%   |
-| Unknown  | 2        | 1.94%   |
+| Ethernet | 73       | 71.57%  |
+| WiFi     | 26       | 25.49%  |
+| Modem    | 2        | 1.96%   |
+| Unknown  | 1        | 0.98%   |
 
 Used Controller
 ---------------
