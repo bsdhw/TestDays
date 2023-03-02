@@ -2060,7 +2060,7 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s    | 2         | 1.6%    |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
@@ -2212,7 +2212,7 @@ Camera device vendors
 | Realtek Semiconductor                  | 8         | 10.81%  |
 | Microdia                               | 7         | 9.46%   |
 | IMC Networks                           | 7         | 9.46%   |
-| Acer                                   | 7         | 9.46%   |
+| Bison Electronics                      | 7         | 9.46%   |
 | Suyin                                  | 5         | 6.76%   |
 | Sunplus Innovation Technology          | 4         | 5.41%   |
 | Silicon Motion                         | 3         | 4.05%   |
@@ -2248,7 +2248,7 @@ Camera device models
 | Chicony USB2.0 VGA UVC WebCam                        | 2         | 2.67%   |
 | Chicony USB2.0 HD UVC WebCam                         | 2         | 2.67%   |
 | Chicony FJ Camera                                    | 2         | 2.67%   |
-| Acer Integrated Camera                               | 2         | 2.67%   |
+| Bison Integrated Camera                              | 2         | 2.67%   |
 | Syntek Lenovo EasyCamera                             | 1         | 1.33%   |
 | Suyin HP webcam [dv6-1190en]                         | 1         | 1.33%   |
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.33%   |

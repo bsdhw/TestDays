@@ -661,7 +661,7 @@ Hard drive models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 5.71%   |
-| SanDisk pSSD 16GB                         | 2         | 5.71%   |
+| SanDisk pSSD 32GB                         | 2         | 5.71%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 2.86%   |
 | WDC WD10SPZX-00Z10T0 1TB                  | 1         | 2.86%   |
 | WDC WD10JPVX-22JC3T0 1TB                  | 1         | 2.86%   |
@@ -1769,7 +1769,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s      | 1         | 2.38%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 2.38%   |
@@ -1915,8 +1915,8 @@ Camera device vendors
 | Microdia                               | 1         | 3.7%    |
 | Logitech                               | 1         | 3.7%    |
 | Lite-On Technology                     | 1         | 3.7%    |
+| Bison Electronics                      | 1         | 3.7%    |
 | Apple                                  | 1         | 3.7%    |
-| Acer                                   | 1         | 3.7%    |
 
 Camera Model
 ------------
@@ -1948,8 +1948,8 @@ Camera device models
 | Chicony Lenovo EasyCamera                           | 1         | 3.7%    |
 | Chicony Integrated Camera [ThinkPad]                | 1         | 3.7%    |
 | Chicony HD WebCam                                   | 1         | 3.7%    |
+| Bison NEC HD WebCam                                 | 1         | 3.7%    |
 | Apple FaceTime HD Camera                            | 1         | 3.7%    |
-| Acer NEC HD WebCam                                  | 1         | 3.7%    |
 
 Security
 --------

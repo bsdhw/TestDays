@@ -2028,7 +2028,7 @@ Camera device vendors
 | Vendor                        | Notebooks | Percent |
 |-------------------------------|-----------|---------|
 | Chicony Electronics           | 9         | 29.03%  |
-| Acer                          | 7         | 22.58%  |
+| Bison Electronics             | 7         | 22.58%  |
 | Realtek Semiconductor         | 2         | 6.45%   |
 | Microdia                      | 2         | 6.45%   |
 | IMC Networks                  | 2         | 6.45%   |
@@ -2053,7 +2053,7 @@ Camera device models
 | Model                                         | Notebooks | Percent |
 |-----------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                     | 3         | 9.68%   |
-| Acer Integrated Camera                        | 3         | 9.68%   |
+| Bison Integrated Camera                       | 3         | 9.68%   |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.45%   |
 | IMC Networks Integrated Camera                | 2         | 6.45%   |
 | Syntek Lenovo EasyCamera                      | 1         | 3.23%   |
@@ -2070,13 +2070,13 @@ Camera device models
 | Chicony HP Webcam [2 MP]                      | 1         | 3.23%   |
 | Chicony HP Webcam [2 MP Macro]                | 1         | 3.23%   |
 | Chicony 2.0M UVC Webcam / CNF7129             | 1         | 3.23%   |
+| Bison ThinkPad P50 Integrated Camera          | 1         | 3.23%   |
+| Bison ThinkPad Integrated Camera              | 1         | 3.23%   |
+| Bison SunplusIT Integrated Camera             | 1         | 3.23%   |
+| Bison EasyCamera                              | 1         | 3.23%   |
 | Apple FaceTime HD Camera                      | 1         | 3.23%   |
 | ALi WebCam                                    | 1         | 3.23%   |
 | Alcor Micro USB 2.0 Camera                    | 1         | 3.23%   |
-| Acer ThinkPad P50 Integrated Camera           | 1         | 3.23%   |
-| Acer ThinkPad Integrated Camera               | 1         | 3.23%   |
-| Acer SunplusIT Integrated Camera              | 1         | 3.23%   |
-| Acer EasyCamera                               | 1         | 3.23%   |
 
 Security
 --------

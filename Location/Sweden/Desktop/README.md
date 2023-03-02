@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 120
+Total: 121
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Unknown       | Unknown                     | [44ac3b2832](https://bsd-hardware.info/?probe=44ac3b2832) | Feb 13, 2023 |
 | HP            | 82A1                        | [2d7d9105f7](https://bsd-hardware.info/?probe=2d7d9105f7) | Jan 13, 2023 |
 | Gigabyte      | G31M-ES2C                   | [8353660219](https://bsd-hardware.info/?probe=8353660219) | Jan 08, 2023 |
 | ASRock        | E3C226D2I                   | [5dfcf8051d](https://bsd-hardware.info/?probe=5dfcf8051d) | Jan 06, 2023 |
@@ -285,46 +286,46 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| OPNsense 21.1     | 8        | 8.33%   |
-| OPNsense 21.1.3   | 5        | 5.21%   |
-| OPNsense 21.1.2   | 5        | 5.21%   |
-| OPNsense 22.7.8   | 4        | 4.17%   |
-| OPNsense 22.7.10  | 4        | 4.17%   |
-| OPNsense 21.7.7   | 4        | 4.17%   |
-| OPNsense 22.7.2   | 3        | 3.13%   |
-| OPNsense 21.7.3   | 3        | 3.13%   |
-| OPNsense 21.1.8   | 3        | 3.13%   |
-| OPNsense 21.1.5   | 3        | 3.13%   |
-| OpenBSD 6.8       | 3        | 3.13%   |
-| OPNsense 22.7.9   | 2        | 2.08%   |
-| OPNsense 22.7.6   | 2        | 2.08%   |
-| OPNsense 22.1.9   | 2        | 2.08%   |
-| OPNsense 22.1.3   | 2        | 2.08%   |
-| OPNsense 21.7.6   | 2        | 2.08%   |
-| OPNsense 21.7.1   | 2        | 2.08%   |
-| OPNsense 21.7     | 2        | 2.08%   |
-| OPNsense 21.1.7   | 2        | 2.08%   |
-| OPNsense 20.7.8   | 2        | 2.08%   |
-| FreeBSD 13.0-p7   | 2        | 2.08%   |
-| FreeBSD 12.2-p4   | 2        | 2.08%   |
-| pfSense 2.5.0     | 1        | 1.04%   |
-| OPNsense 22.7.7   | 1        | 1.04%   |
-| OPNsense 22.7     | 1        | 1.04%   |
-| OPNsense 22.1.8   | 1        | 1.04%   |
-| OPNsense 22.1.6   | 1        | 1.04%   |
-| OPNsense 22.1.5   | 1        | 1.04%   |
-| OPNsense 22.1.2   | 1        | 1.04%   |
-| OPNsense 22.1.10  | 1        | 1.04%   |
-| OPNsense 22.1.1   | 1        | 1.04%   |
-| OPNsense 22.1     | 1        | 1.04%   |
-| OPNsense 21.1.6   | 1        | 1.04%   |
-| OPNsense 21.1.1   | 1        | 1.04%   |
-| OpenBSD 7.0       | 1        | 1.04%   |
-| OpenBSD 6.7       | 1        | 1.04%   |
-| helloSystem 0.7.0 | 1        | 1.04%   |
-| helloSystem 0.5.0 | 1        | 1.04%   |
-| GhostBSD 19.12    | 1        | 1.04%   |
-| FuryBSD 12.2-p3   | 1        | 1.04%   |
+| OPNsense 21.1     | 8        | 8.25%   |
+| OPNsense 21.1.3   | 5        | 5.15%   |
+| OPNsense 21.1.2   | 5        | 5.15%   |
+| OPNsense 22.7.8   | 4        | 4.12%   |
+| OPNsense 22.7.10  | 4        | 4.12%   |
+| OPNsense 21.7.7   | 4        | 4.12%   |
+| OPNsense 22.7.2   | 3        | 3.09%   |
+| OPNsense 21.7.3   | 3        | 3.09%   |
+| OPNsense 21.1.8   | 3        | 3.09%   |
+| OPNsense 21.1.5   | 3        | 3.09%   |
+| OpenBSD 6.8       | 3        | 3.09%   |
+| OPNsense 22.7.9   | 2        | 2.06%   |
+| OPNsense 22.7.6   | 2        | 2.06%   |
+| OPNsense 22.1.9   | 2        | 2.06%   |
+| OPNsense 22.1.3   | 2        | 2.06%   |
+| OPNsense 21.7.6   | 2        | 2.06%   |
+| OPNsense 21.7.1   | 2        | 2.06%   |
+| OPNsense 21.7     | 2        | 2.06%   |
+| OPNsense 21.1.7   | 2        | 2.06%   |
+| OPNsense 20.7.8   | 2        | 2.06%   |
+| FreeBSD 13.0-p7   | 2        | 2.06%   |
+| FreeBSD 12.2-p4   | 2        | 2.06%   |
+| pfSense 2.5.0     | 1        | 1.03%   |
+| OPNsense 23.1     | 1        | 1.03%   |
+| OPNsense 22.7.7   | 1        | 1.03%   |
+| OPNsense 22.7     | 1        | 1.03%   |
+| OPNsense 22.1.8   | 1        | 1.03%   |
+| OPNsense 22.1.6   | 1        | 1.03%   |
+| OPNsense 22.1.5   | 1        | 1.03%   |
+| OPNsense 22.1.2   | 1        | 1.03%   |
+| OPNsense 22.1.10  | 1        | 1.03%   |
+| OPNsense 22.1.1   | 1        | 1.03%   |
+| OPNsense 22.1     | 1        | 1.03%   |
+| OPNsense 21.1.6   | 1        | 1.03%   |
+| OPNsense 21.1.1   | 1        | 1.03%   |
+| OpenBSD 7.0       | 1        | 1.03%   |
+| OpenBSD 6.7       | 1        | 1.03%   |
+| helloSystem 0.7.0 | 1        | 1.03%   |
+| helloSystem 0.5.0 | 1        | 1.03%   |
+| GhostBSD 19.12    | 1        | 1.03%   |
 
 OS Family
 ---------
@@ -789,46 +790,46 @@ Geographic location (city)
 
 | City                  | Desktops | Percent |
 |-----------------------|----------|---------|
-| Stockholm             | 16       | 17.58%  |
-| Malmo                 | 8        | 8.79%   |
-| Bromma                | 5        | 5.49%   |
-| Taby                  | 3        | 3.3%    |
-| VÃ¤sterÃ¥s        | 2        | 2.2%    |
-| Västerås            | 2        | 2.2%    |
-| UmeГҐ               | 2        | 2.2%    |
-| Tumba                 | 2        | 2.2%    |
-| Sollentuna            | 2        | 2.2%    |
-| Solleftea             | 2        | 2.2%    |
-| Piteå                | 2        | 2.2%    |
-| Lund                  | 2        | 2.2%    |
-| LinkГ¶ping          | 2        | 2.2%    |
-| JГ¶nkГ¶ping       | 2        | 2.2%    |
-| Helsingborg           | 2        | 2.2%    |
-| Enskede-Arsta-Vantoer | 2        | 2.2%    |
-| Bandhagen             | 2        | 2.2%    |
-| Г…hus              | 1        | 1.1%    |
-| Г„lvГ¤ngen       | 1        | 1.1%    |
-| Vaxjo                 | 1        | 1.1%    |
-| Upplands Vasby        | 1        | 1.1%    |
-| UmeÃ¥               | 1        | 1.1%    |
-| Umeå                 | 1        | 1.1%    |
-| Tyreso Strand         | 1        | 1.1%    |
-| Trelleborg            | 1        | 1.1%    |
-| Trangsund             | 1        | 1.1%    |
-| Torsby                | 1        | 1.1%    |
-| SГ¶dertГ¤lje      | 1        | 1.1%    |
-| Sundsvall             | 1        | 1.1%    |
-| Sundbyberg            | 1        | 1.1%    |
-| Stroemstad            | 1        | 1.1%    |
-| Skövde               | 1        | 1.1%    |
-| SkÃ¶vde             | 1        | 1.1%    |
-| Skaellinge            | 1        | 1.1%    |
-| Saltsjoe-Boo          | 1        | 1.1%    |
-| NorrkГ¶ping         | 1        | 1.1%    |
-| Moelndal              | 1        | 1.1%    |
-| Landskrona            | 1        | 1.1%    |
-| Kungsbacka            | 1        | 1.1%    |
-| Kristianstad          | 1        | 1.1%    |
+| Stockholm             | 17       | 18.48%  |
+| Malmo                 | 8        | 8.7%    |
+| Bromma                | 5        | 5.43%   |
+| Taby                  | 3        | 3.26%   |
+| VÃ¤sterÃ¥s        | 2        | 2.17%   |
+| Västerås            | 2        | 2.17%   |
+| UmeГҐ               | 2        | 2.17%   |
+| Tumba                 | 2        | 2.17%   |
+| Sollentuna            | 2        | 2.17%   |
+| Solleftea             | 2        | 2.17%   |
+| Piteå                | 2        | 2.17%   |
+| Lund                  | 2        | 2.17%   |
+| LinkГ¶ping          | 2        | 2.17%   |
+| JГ¶nkГ¶ping       | 2        | 2.17%   |
+| Helsingborg           | 2        | 2.17%   |
+| Enskede-Arsta-Vantoer | 2        | 2.17%   |
+| Bandhagen             | 2        | 2.17%   |
+| Г…hus              | 1        | 1.09%   |
+| Г„lvГ¤ngen       | 1        | 1.09%   |
+| Vaxjo                 | 1        | 1.09%   |
+| Upplands Vasby        | 1        | 1.09%   |
+| UmeÃ¥               | 1        | 1.09%   |
+| Umeå                 | 1        | 1.09%   |
+| Tyreso Strand         | 1        | 1.09%   |
+| Trelleborg            | 1        | 1.09%   |
+| Trangsund             | 1        | 1.09%   |
+| Torsby                | 1        | 1.09%   |
+| SГ¶dertГ¤lje      | 1        | 1.09%   |
+| Sundsvall             | 1        | 1.09%   |
+| Sundbyberg            | 1        | 1.09%   |
+| Stroemstad            | 1        | 1.09%   |
+| Skövde               | 1        | 1.09%   |
+| SkÃ¶vde             | 1        | 1.09%   |
+| Skaellinge            | 1        | 1.09%   |
+| Saltsjoe-Boo          | 1        | 1.09%   |
+| NorrkГ¶ping         | 1        | 1.09%   |
+| Moelndal              | 1        | 1.09%   |
+| Landskrona            | 1        | 1.09%   |
+| Kungsbacka            | 1        | 1.09%   |
+| Kristianstad          | 1        | 1.09%   |
 
 Drives
 ------
@@ -846,7 +847,7 @@ Hard drive vendors
 | Samsung Electronics | 19       | 29     | 17.43%  |
 | Seagate             | 14       | 29     | 12.84%  |
 | WDC                 | 13       | 22     | 11.93%  |
-| Hoodisk             | 11       | 14     | 10.09%  |
+| Hoodisk             | 11       | 15     | 10.09%  |
 | Kingston            | 10       | 12     | 9.17%   |
 | Intel               | 8        | 13     | 7.34%   |
 | Crucial             | 6        | 14     | 5.5%    |
@@ -948,7 +949,7 @@ Solid state drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Samsung Electronics | 13       | 18     | 18.31%  |
-| Hoodisk             | 11       | 14     | 15.49%  |
+| Hoodisk             | 11       | 15     | 15.49%  |
 | Kingston            | 10       | 12     | 14.08%  |
 | Intel               | 8        | 13     | 11.27%  |
 | Crucial             | 6        | 14     | 8.45%   |
@@ -981,7 +982,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 59       | 99     | 67.05%  |
+| SSD  | 59       | 100    | 67.05%  |
 | HDD  | 23       | 67     | 26.14%  |
 | NVMe | 6        | 7      | 6.82%   |
 
@@ -995,7 +996,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 71       | 166    | 92.21%  |
+| SATA | 71       | 167    | 92.21%  |
 | NVMe | 6        | 7      | 7.79%   |
 
 Drive Size
@@ -1008,7 +1009,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 64       | 105    | 66.67%  |
+| 0.01-0.5   | 64       | 106    | 66.67%  |
 | 0.51-1.0   | 15       | 22     | 15.63%  |
 | 3.01-4.0   | 8        | 18     | 8.33%   |
 | 1.01-2.0   | 6        | 11     | 6.25%   |
@@ -1143,7 +1144,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 69       | 146    | 80.23%  |
+| Works    | 69       | 147    | 80.23%  |
 | Malfunc  | 11       | 18     | 12.79%  |
 | Detected | 6        | 9      | 6.98%   |
 
@@ -1483,7 +1484,7 @@ Graphics card models
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller                | 1        | 1.43%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 1        | 1.43%   |
 | AMD Pitcairn PRO [Radeon HD 7850 / R7 265 / R9 270 1024SP]                               | 1        | 1.43%   |
-| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]                                     | 1        | 1.43%   |
+| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]                            | 1        | 1.43%   |
 
 GPU Combo
 ---------
@@ -1978,7 +1979,7 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                     | 1        | 10%     |
 | IMC Networks Realtek Bluetooth 4.0 + High Speed Chip | 1        | 10%     |
 | Dell Dell Wireless 355C Bluetooth 2.0 + EDR module   | 1        | 10%     |
-| Apple Apple Broadcom Built-in Bluetooth              | 1        | 10%     |
+| Apple Bluetooth Host Controller                      | 1        | 10%     |
 
 Sound
 -----

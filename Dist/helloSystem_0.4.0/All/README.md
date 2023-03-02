@@ -982,7 +982,7 @@ Hard drive models
 | Toshiba MQ01ABD100 1TB              | 3         | 0.94%   |
 | Toshiba DT01ACA100 1TB              | 3         | 0.94%   |
 | Seagate ST500DM002-1BD142 500GB     | 3         | 0.94%   |
-| SanDisk pSSD 16GB                   | 3         | 0.94%   |
+| SanDisk pSSD 32GB                   | 3         | 0.94%   |
 | Samsung SSD 860 EVO 250GB           | 3         | 0.94%   |
 | Samsung SSD 840 EVO 1TB             | 3         | 0.94%   |
 | WDC WDS100T2B0A-00SM50 1TB          | 2         | 0.63%   |
@@ -2407,7 +2407,7 @@ Memory module models
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
 | SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 2         | 0.79%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s    | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
@@ -2418,7 +2418,7 @@ Memory module models
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 2         | 0.79%   |
 | Kingston RAM Module 2048MB DIMM DDR2 800MT/s             | 2         | 0.79%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s     | 2         | 0.79%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
 | Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s | 2         | 0.79%   |
 | Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s    | 2         | 0.79%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
@@ -2593,7 +2593,7 @@ Camera device vendors
 | Realtek Semiconductor                  | 9         | 10.11%  |
 | Microdia                               | 9         | 10.11%  |
 | IMC Networks                           | 7         | 7.87%   |
-| Acer                                   | 7         | 7.87%   |
+| Bison Electronics                      | 7         | 7.87%   |
 | Suyin                                  | 5         | 5.62%   |
 | Sunplus Innovation Technology          | 5         | 5.62%   |
 | Silicon Motion                         | 3         | 3.37%   |
@@ -2636,8 +2636,8 @@ Camera device models
 | Chicony USB2.0 VGA UVC WebCam                        | 2         | 2.22%   |
 | Chicony USB2.0 HD UVC WebCam                         | 2         | 2.22%   |
 | Chicony FJ Camera                                    | 2         | 2.22%   |
+| Bison Integrated Camera                              | 2         | 2.22%   |
 | ARC International Camera                             | 2         | 2.22%   |
-| Acer Integrated Camera                               | 2         | 2.22%   |
 | Z-Star Venus USB2.0 Camera                           | 1         | 1.11%   |
 | Z-Star Vega USB 2.0 Camera                           | 1         | 1.11%   |
 | Syntek Lenovo EasyCamera                             | 1         | 1.11%   |

@@ -990,12 +990,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 71        | 91     | 57.26%  |
-| 0.51-1.0   | 35        | 47     | 28.23%  |
-| 1.01-2.0   | 10        | 13     | 8.06%   |
-| 3.01-4.0   | 4         | 4      | 3.23%   |
-| 4.01-10.0  | 3         | 7      | 2.42%   |
-| 2.01-3.0   | 1         | 2      | 0.81%   |
+| 0.01-0.5   | 71        | 91     | 58.68%  |
+| 0.51-1.0   | 35        | 51     | 28.93%  |
+| 1.01-2.0   | 10        | 13     | 8.26%   |
+| 3.01-4.0   | 3         | 3      | 2.48%   |
+| 4.01-10.0  | 2         | 6      | 1.65%   |
 
 Space Total
 -----------
@@ -2409,7 +2408,7 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 15        | 27.27%  |
-| Acer                                   | 7         | 12.73%  |
+| Bison Electronics                      | 7         | 12.73%  |
 | Suyin                                  | 4         | 7.27%   |
 | Sunplus Innovation Technology          | 4         | 7.27%   |
 | Realtek Semiconductor                  | 4         | 7.27%   |
@@ -2436,7 +2435,7 @@ Camera device models
 
 | Model                                                          | Computers | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                                         | 6         | 10.71%  |
+| Bison Integrated Camera                                        | 6         | 10.71%  |
 | Chicony Integrated Camera (1280x720@30)                        | 3         | 5.36%   |
 | Chicony Integrated Camera                                      | 3         | 5.36%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]                       | 2         | 3.57%   |
@@ -2472,10 +2471,10 @@ Camera device models
 | Chicony Lenovo EasyCamera                                      | 1         | 1.79%   |
 | Chicony HP High Definition 1MP Webcam                          | 1         | 1.79%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.79%   |
+| Bison ThinkPad Integrated Camera                               | 1         | 1.79%   |
 | Alcor Micro USB 2.0 Web Camera                                 | 1         | 1.79%   |
 | Alcor Micro USB 2.0 Camera                                     | 1         | 1.79%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 1.79%   |
-| Alcor Micro Acer Integrated Webcam                             | 1         | 1.79%   |
 
 Security
 --------

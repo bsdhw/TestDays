@@ -1273,7 +1273,7 @@ Graphics card models
 | Intel CometLake-U GT2 [UHD Graphics]                                          | 1         | 1.39%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 1.39%   |
 | AMD Sumo [Radeon HD 6520G]                                                    | 1         | 1.39%   |
-| AMD RV710/M92 [Mobility Radeon HD 4530/4570/545v]                             | 1         | 1.39%   |
+| AMD RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]              | 1         | 1.39%   |
 | AMD RV635/M86 [Mobility Radeon HD 3650]                                       | 1         | 1.39%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                           | 1         | 1.39%   |
 | AMD Mars [Radeon HD 8670A/8670M/8750M / R7 M370]                              | 1         | 1.39%   |
@@ -2079,7 +2079,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 12        | 24.49%  |
-| Acer                                   | 7         | 14.29%  |
+| Bison Electronics                      | 7         | 14.29%  |
 | Suyin                                  | 4         | 8.16%   |
 | Sunplus Innovation Technology          | 4         | 8.16%   |
 | Realtek Semiconductor                  | 4         | 8.16%   |
@@ -2103,7 +2103,7 @@ Camera device models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                                         | 6         | 12.24%  |
+| Bison Integrated Camera                                        | 6         | 12.24%  |
 | Suyin Acer/HP Integrated Webcam [CN0314]                       | 2         | 4.08%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                           | 2         | 4.08%   |
 | Microdia Integrated_Webcam_HD                                  | 2         | 4.08%   |
@@ -2134,11 +2134,11 @@ Camera device models
 | Chicony Lenovo Integrated Camera (0.3MP)                       | 1         | 2.04%   |
 | Chicony Lenovo EasyCamera                                      | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.04%   |
+| Bison ThinkPad Integrated Camera                               | 1         | 2.04%   |
 | Alcor Micro USB 2.0 Web Camera                                 | 1         | 2.04%   |
 | Alcor Micro USB 2.0 Camera                                     | 1         | 2.04%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 2.04%   |
 | Alcor Micro Acer Integrated Webcam                             | 1         | 2.04%   |
-| Acer ThinkPad Integrated Camera                                | 1         | 2.04%   |
 
 Security
 --------

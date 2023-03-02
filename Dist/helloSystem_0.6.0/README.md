@@ -581,16 +581,16 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2019 | 16        | 11.68%  |
-| 2013 | 14        | 10.22%  |
+| 2013 | 15        | 10.95%  |
 | 2012 | 14        | 10.22%  |
 | 2011 | 14        | 10.22%  |
 | 2015 | 13        | 9.49%   |
 | 2010 | 13        | 9.49%   |
-| 2020 | 10        | 7.3%    |
+| 2020 | 9         | 6.57%   |
 | 2014 | 9         | 6.57%   |
 | 2021 | 8         | 5.84%   |
-| 2018 | 7         | 5.11%   |
-| 2016 | 7         | 5.11%   |
+| 2016 | 8         | 5.84%   |
+| 2018 | 6         | 4.38%   |
 | 2009 | 5         | 3.65%   |
 | 2017 | 4         | 2.92%   |
 | 2008 | 2         | 1.46%   |
@@ -876,7 +876,7 @@ Hard drive vendors
 | Lexar               | 1         | 1      | 0.53%   |
 | Leven               | 1         | 1      | 0.53%   |
 | Hewlett-Packard     | 1         | 1      | 0.53%   |
-| Goodram             | 1         | 1      | 0.53%   |
+| GOODRAM             | 1         | 1      | 0.53%   |
 | FORESEE             | 1         | 1      | 0.53%   |
 | Apple               | 1         | 1      | 0.53%   |
 | AMD                 | 1         | 1      | 0.53%   |
@@ -983,7 +983,7 @@ Solid state drive vendors
 | LITEON              | 1         | 1      | 1.33%   |
 | Lexar               | 1         | 1      | 1.33%   |
 | Leven               | 1         | 1      | 1.33%   |
-| Goodram             | 1         | 1      | 1.33%   |
+| GOODRAM             | 1         | 1      | 1.33%   |
 | Gigabyte Technology | 1         | 1      | 1.33%   |
 | FORESEE             | 1         | 1      | 1.33%   |
 | Apple               | 1         | 1      | 1.33%   |
@@ -2159,7 +2159,7 @@ Controller models
 |-------------------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                          | 13        | 23.21%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 7.14%   |
-| Apple Apple Broadcom Built-in Bluetooth                     | 4         | 7.14%   |
+| Apple Bluetooth Host Controller                             | 4         | 7.14%   |
 | Realtek  Bluetooth Adapter                                  | 2         | 3.57%   |
 | Realtek  Bluetooth 4.0 Adapter                              | 2         | 3.57%   |
 | Intel Wireless-AC 3168 Bluetooth                            | 2         | 3.57%   |
@@ -2177,7 +2177,7 @@ Controller models
 | Intel AX201 Bluetooth                                       | 1         | 1.79%   |
 | Intel AX200 Bluetooth                                       | 1         | 1.79%   |
 | HP Broadcom 2070 Bluetooth Combo                            | 1         | 1.79%   |
-| Foxconn / Hon Hai Broadcom Bluetooth 4.0 USB                | 1         | 1.79%   |
+| Foxconn / Hon Hai Broadcom BCM20702A1 Bluetooth             | 1         | 1.79%   |
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth               | 1         | 1.79%   |
 | Foxconn / Hon Hai Atheros AR3012 Bluetooth                  | 1         | 1.79%   |
 | Broadcom Broadcom Bluetooth 4.0                             | 1         | 1.79%   |
@@ -2185,8 +2185,8 @@ Controller models
 | Broadcom BCM2046 Bluetooth Device                           | 1         | 1.79%   |
 | Broadcom BCM2045B (BDC-2.1)                                 | 1         | 1.79%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                          | 1         | 1.79%   |
-| Apple Bluetooth Host Controller                             | 1         | 1.79%   |
 | Apple Bluetooth HCI                                         | 1         | 1.79%   |
+| Apple Apple Broadcom Built-in Bluetooth                     | 1         | 1.79%   |
 
 Sound
 -----
@@ -2315,7 +2315,7 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown                                                         | 5         | 2.91%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 1.74%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s              | 2         | 1.16%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
@@ -2493,7 +2493,7 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 17        | 27.87%  |
-| Acer                                   | 8         | 13.11%  |
+| Bison Electronics                      | 8         | 13.11%  |
 | IMC Networks                           | 5         | 8.2%    |
 | Sunplus Innovation Technology          | 4         | 6.56%   |
 | Realtek Semiconductor                  | 4         | 6.56%   |
@@ -2523,8 +2523,8 @@ Camera device models
 | Model                                                       | Computers | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                   | 8         | 13.11%  |
-| Acer Lenovo EasyCamera                                      | 3         | 4.92%   |
-| Acer Integrated Camera                                      | 3         | 4.92%   |
+| Bison Lenovo EasyCamera                                     | 3         | 4.92%   |
+| Bison Integrated Camera                                     | 3         | 4.92%   |
 | Realtek Realtek USB2.0 PC Camera                            | 2         | 3.28%   |
 | Realtek Integrated_Webcam_HD                                | 2         | 3.28%   |
 | IMC Networks XHC Camera                                     | 2         | 3.28%   |

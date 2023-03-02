@@ -1451,7 +1451,7 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                              | 2         | 2.27%   |
 | ASPEED Technology ASPEED Graphics Family                                      | 2         | 2.27%   |
 | AMD Wrestler [Radeon HD 6250]                                                 | 2         | 2.27%   |
-| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]                          | 2         | 2.27%   |
+| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]                 | 2         | 2.27%   |
 | Nvidia TU104GLM [Quadro RTX 4000 Mobile / Max-Q]                              | 1         | 1.14%   |
 | Nvidia GT218M [NVS 3100M]                                                     | 1         | 1.14%   |
 | Nvidia GP104M [GeForce GTX 1070 Mobile]                                       | 1         | 1.14%   |
@@ -2175,26 +2175,26 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                    | Computers | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s              | 2         | 10%     |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s    | 2         | 10%     |
-| Unknown RAM Module 512MB SODIMM SDRAM                    | 1         | 5%      |
-| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s              | 1         | 5%      |
-| Unknown RAM Module 1GB SODIMM DDR2                       | 1         | 5%      |
-| Transcend RAM TS128MLQ64V6J 1GB DIMM DDR2 667MT/s        | 1         | 5%      |
-| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s      | 1         | 5%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 1         | 5%      |
-| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s     | 1         | 5%      |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s    | 1         | 5%      |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s         | 1         | 5%      |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 1         | 5%      |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1         | 5%      |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s    | 1         | 5%      |
-| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s    | 1         | 5%      |
-| Samsung RAM M3 78T2953CZ3-CE6 1GB DIMM DDR2 667MT/s      | 1         | 5%      |
-| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s    | 1         | 5%      |
-| Unknown                                                  | 1         | 5%      |
+| Model                                                  | Computers | Percent |
+|--------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 2         | 10%     |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s  | 2         | 10%     |
+| Unknown RAM Module 512MB SODIMM SDRAM                  | 1         | 5%      |
+| Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 5%      |
+| Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 5%      |
+| Transcend RAM TS128MLQ64V6J 1GB DIMM DDR2 667MT/s      | 1         | 5%      |
+| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s    | 1         | 5%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 5%      |
+| SK hynix RAM HMA81GR7AFR8N-VK 8GB DIMM DDR4 2666MT/s   | 1         | 5%      |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 5%      |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 5%      |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
+| Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 1         | 5%      |
+| Samsung RAM M3 78T2953CZ3-CE6 1GB DIMM DDR2 667MT/s    | 1         | 5%      |
+| Kingston RAM KHX1600C9S3L/8G 8GB SODIMM DDR3 1600MT/s  | 1         | 5%      |
+| Unknown                                                | 1         | 5%      |
 
 Memory Kind
 -----------
@@ -2304,7 +2304,7 @@ Camera device vendors
 | Vendor                        | Computers | Percent |
 |-------------------------------|-----------|---------|
 | Chicony Electronics           | 9         | 27.27%  |
-| Acer                          | 7         | 21.21%  |
+| Bison Electronics             | 7         | 21.21%  |
 | Microdia                      | 3         | 9.09%   |
 | Realtek Semiconductor         | 2         | 6.06%   |
 | IMC Networks                  | 2         | 6.06%   |
@@ -2330,7 +2330,7 @@ Camera device models
 | Model                                         | Computers | Percent |
 |-----------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                     | 3         | 9.09%   |
-| Acer Integrated Camera                        | 3         | 9.09%   |
+| Bison Integrated Camera                       | 3         | 9.09%   |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.06%   |
 | IMC Networks Integrated Camera                | 2         | 6.06%   |
 | Z-Star Integrated Camera                      | 1         | 3.03%   |
@@ -2349,13 +2349,13 @@ Camera device models
 | Chicony HP Webcam [2 MP]                      | 1         | 3.03%   |
 | Chicony HP Webcam [2 MP Macro]                | 1         | 3.03%   |
 | Chicony 2.0M UVC Webcam / CNF7129             | 1         | 3.03%   |
+| Bison ThinkPad P50 Integrated Camera          | 1         | 3.03%   |
+| Bison ThinkPad Integrated Camera              | 1         | 3.03%   |
+| Bison SunplusIT Integrated Camera             | 1         | 3.03%   |
+| Bison EasyCamera                              | 1         | 3.03%   |
 | Apple FaceTime HD Camera                      | 1         | 3.03%   |
 | ALi WebCam                                    | 1         | 3.03%   |
 | Alcor Micro USB 2.0 Camera                    | 1         | 3.03%   |
-| Acer ThinkPad P50 Integrated Camera           | 1         | 3.03%   |
-| Acer ThinkPad Integrated Camera               | 1         | 3.03%   |
-| Acer SunplusIT Integrated Camera              | 1         | 3.03%   |
-| Acer EasyCamera                               | 1         | 3.03%   |
 
 Security
 --------

@@ -2208,7 +2208,7 @@ Camera device vendors
 | Chicony Electronics                    | 19        | 35.19%  |
 | IMC Networks                           | 9         | 16.67%  |
 | Realtek Semiconductor                  | 5         | 9.26%   |
-| Acer                                   | 5         | 9.26%   |
+| Bison Electronics                      | 5         | 9.26%   |
 | Lite-On Technology                     | 4         | 7.41%   |
 | Sunplus Innovation Technology          | 2         | 3.7%    |
 | Microdia                               | 2         | 3.7%    |
@@ -2237,8 +2237,8 @@ Camera device models
 | IMC Networks USB2.0 VGA UVC WebCam                            | 2         | 3.7%    |
 | Chicony Lenovo Integrated Camera (0.3MP)                      | 2         | 3.7%    |
 | Chicony Integrated Camera [ThinkPad]                          | 2         | 3.7%    |
-| Acer Lenovo EasyCamera                                        | 2         | 3.7%    |
-| Acer Integrated Camera                                        | 2         | 3.7%    |
+| Bison Lenovo EasyCamera                                       | 2         | 3.7%    |
+| Bison Integrated Camera                                       | 2         | 3.7%    |
 | Syntek EasyCamera                                             | 1         | 1.85%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)   | 1         | 1.85%   |
 | Sunplus Integrated_Webcam_FHD                                 | 1         | 1.85%   |
@@ -2262,8 +2262,8 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)                       | 1         | 1.85%   |
 | Chicony 2.0M UVC Webcam / CNF7129                             | 1         | 1.85%   |
 | Cheng Uei Precision Industry (Foxlink) USB2.0 UVC 1.3M WebCam | 1         | 1.85%   |
+| Bison SunplusIT Integrated Camera                             | 1         | 1.85%   |
 | Alcor Micro Asus Integrated Webcam                            | 1         | 1.85%   |
-| Acer SunplusIT Integrated Camera                              | 1         | 1.85%   |
 
 Security
 --------

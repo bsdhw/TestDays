@@ -1544,7 +1544,7 @@ Memory module models
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 4.35%   |
 | Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.35%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
 | Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.35%   |
 | 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.35%   |
@@ -1657,7 +1657,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 42.86%  |
-| Acer                                   | 3         | 21.43%  |
+| Bison Electronics                      | 3         | 21.43%  |
 | Sunplus Innovation Technology          | 1         | 7.14%   |
 | Silicon Motion                         | 1         | 7.14%   |
 | Microdia                               | 1         | 7.14%   |
@@ -1684,9 +1684,9 @@ Camera device models
 | Chicony HP TrueVision HD Camera                     | 1         | 7.14%   |
 | Chicony HD WebCam                                   | 1         | 7.14%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 1         | 7.14%   |
-| Acer Lenovo EasyCamera                              | 1         | 7.14%   |
-| Acer Integrated Camera                              | 1         | 7.14%   |
-| Acer EasyCamera                                     | 1         | 7.14%   |
+| Bison Lenovo EasyCamera                             | 1         | 7.14%   |
+| Bison Integrated Camera                             | 1         | 7.14%   |
+| Bison EasyCamera                                    | 1         | 7.14%   |
 
 Security
 --------

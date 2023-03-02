@@ -1223,7 +1223,7 @@ Graphics card models
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller   | 2        | 7.69%   |
-| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M]                          | 2        | 7.69%   |
+| AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]                 | 2        | 7.69%   |
 | Nvidia GF110 [GeForce GTX 580]                                                | 1        | 3.85%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 1        | 3.85%   |
 | Intel UHD Graphics 620                                                        | 1        | 3.85%   |
@@ -1770,13 +1770,13 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Transcend RAM TS128MLQ64V6J 1GB DIMM DDR2 667MT/s        | 1        | 20%     |
-| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s      | 1        | 20%     |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 1        | 20%     |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s | 1        | 20%     |
-| Samsung RAM M3 78T2953CZ3-CE6 1GB DIMM DDR2 667MT/s      | 1        | 20%     |
+| Model                                                 | Desktops | Percent |
+|-------------------------------------------------------|----------|---------|
+| Transcend RAM TS128MLQ64V6J 1GB DIMM DDR2 667MT/s     | 1        | 20%     |
+| SK hynix RAM HYMP112U64CP8-Y5 1GB DIMM DDR2 667MT/s   | 1        | 20%     |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s | 1        | 20%     |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s | 1        | 20%     |
+| Samsung RAM M3 78T2953CZ3-CE6 1GB DIMM DDR2 667MT/s   | 1        | 20%     |
 
 Memory Kind
 -----------

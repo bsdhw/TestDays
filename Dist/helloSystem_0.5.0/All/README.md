@@ -1086,15 +1086,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 55        | 78     | 34.59%  |
-| WDC                 | 49        | 66     | 30.82%  |
-| Toshiba             | 13        | 13     | 8.18%   |
-| Samsung Electronics | 13        | 15     | 8.18%   |
-| Hitachi             | 13        | 15     | 8.18%   |
-| HGST                | 7         | 7      | 4.4%    |
-| Fujitsu             | 3         | 4      | 1.89%   |
-| Apple               | 3         | 3      | 1.89%   |
-| LSI                 | 1         | 1      | 0.63%   |
+| Seagate             | 55        | 78     | 34.81%  |
+| WDC                 | 49        | 66     | 31.01%  |
+| Toshiba             | 13        | 13     | 8.23%   |
+| Samsung Electronics | 13        | 15     | 8.23%   |
+| Hitachi             | 13        | 15     | 8.23%   |
+| HGST                | 7         | 7      | 4.43%   |
+| Fujitsu             | 3         | 4      | 1.9%    |
+| Apple               | 3         | 3      | 1.9%    |
 | Hewlett-Packard     | 1         | 1      | 0.63%   |
 | CLOVER              | 1         | 1      | 0.63%   |
 
@@ -1108,33 +1107,34 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 30        | 38     | 23.26%  |
-| Crucial             | 14        | 16     | 10.85%  |
-| SanDisk             | 13        | 14     | 10.08%  |
-| Kingston            | 13        | 14     | 10.08%  |
-| WDC                 | 8         | 9      | 6.2%    |
-| Intel               | 7         | 7      | 5.43%   |
-| A-DATA Technology   | 6         | 7      | 4.65%   |
-| Toshiba             | 4         | 5      | 3.1%    |
-| SPCC                | 4         | 5      | 3.1%    |
-| Apple               | 4         | 4      | 3.1%    |
-| PNY                 | 3         | 9      | 2.33%   |
-| OCZ                 | 3         | 3      | 2.33%   |
-| Transcend           | 2         | 3      | 1.55%   |
-| Patriot             | 2         | 2      | 1.55%   |
-| LITEON              | 2         | 2      | 1.55%   |
-| KingSpec            | 2         | 2      | 1.55%   |
-| Apacer              | 2         | 2      | 1.55%   |
-| SSSTC               | 1         | 1      | 0.78%   |
-| Smart               | 1         | 1      | 0.78%   |
-| ORICO               | 1         | 2      | 0.78%   |
-| MyDigitalSSD        | 1         | 1      | 0.78%   |
-| Micron Technology   | 1         | 1      | 0.78%   |
-| LITEONIT            | 1         | 1      | 0.78%   |
-| Lenovo              | 1         | 1      | 0.78%   |
-| HPE                 | 1         | 1      | 0.78%   |
-| Hewlett-Packard     | 1         | 2      | 0.78%   |
-| Emtec               | 1         | 1      | 0.78%   |
+| Samsung Electronics | 30        | 38     | 23.08%  |
+| Crucial             | 14        | 16     | 10.77%  |
+| SanDisk             | 13        | 14     | 10%     |
+| Kingston            | 13        | 14     | 10%     |
+| WDC                 | 8         | 9      | 6.15%   |
+| Intel               | 7         | 7      | 5.38%   |
+| A-DATA Technology   | 6         | 7      | 4.62%   |
+| Toshiba             | 4         | 5      | 3.08%   |
+| SPCC                | 4         | 5      | 3.08%   |
+| Apple               | 4         | 4      | 3.08%   |
+| PNY                 | 3         | 9      | 2.31%   |
+| OCZ                 | 3         | 3      | 2.31%   |
+| Transcend           | 2         | 3      | 1.54%   |
+| Patriot             | 2         | 2      | 1.54%   |
+| LITEON              | 2         | 2      | 1.54%   |
+| KingSpec            | 2         | 2      | 1.54%   |
+| Apacer              | 2         | 2      | 1.54%   |
+| SSSTC               | 1         | 1      | 0.77%   |
+| Smart               | 1         | 1      | 0.77%   |
+| ORICO               | 1         | 2      | 0.77%   |
+| MyDigitalSSD        | 1         | 1      | 0.77%   |
+| Micron Technology   | 1         | 1      | 0.77%   |
+| LSI                 | 1         | 1      | 0.77%   |
+| LITEONIT            | 1         | 1      | 0.77%   |
+| Lenovo              | 1         | 1      | 0.77%   |
+| HPE                 | 1         | 1      | 0.77%   |
+| Hewlett-Packard     | 1         | 2      | 0.77%   |
+| Emtec               | 1         | 1      | 0.77%   |
 
 Drive Kind
 ----------
@@ -1146,8 +1146,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 137       | 204    | 46.6%   |
-| SSD  | 114       | 154    | 38.78%  |
+| HDD  | 137       | 203    | 46.6%   |
+| SSD  | 114       | 155    | 38.78%  |
 | NVMe | 43        | 51     | 14.63%  |
 
 Drive Connector
@@ -1173,9 +1173,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 176       | 248    | 67.43%  |
-| 0.51-1.0   | 61        | 76     | 23.37%  |
-| 1.01-2.0   | 13        | 17     | 4.98%   |
+| 0.01-0.5   | 176       | 249    | 67.69%  |
+| 0.51-1.0   | 60        | 75     | 23.08%  |
+| 1.01-2.0   | 13        | 17     | 5%      |
 | 3.01-4.0   | 5         | 6      | 1.92%   |
 | 2.01-3.0   | 3         | 6      | 1.15%   |
 | 4.01-10.0  | 3         | 5      | 1.15%   |
@@ -2388,12 +2388,13 @@ Controller models
 | Intel Bluetooth wireless interface                          | 31        | 26.96%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 10        | 8.7%    |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 6         | 5.22%   |
-| Apple Apple Broadcom Built-in Bluetooth                     | 5         | 4.35%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 4         | 3.48%   |
 | Intel AX200 Bluetooth                                       | 4         | 3.48%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                  | 4         | 3.48%   |
+| Apple Apple Broadcom Built-in Bluetooth                     | 4         | 3.48%   |
 | Realtek  Bluetooth 4.2 Adapter                              | 3         | 2.61%   |
 | Intel AX201 Bluetooth                                       | 3         | 2.61%   |
+| Apple Bluetooth Host Controller                             | 3         | 2.61%   |
 | Ralink RT3290 Bluetooth                                     | 2         | 1.74%   |
 | Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 2         | 1.74%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                       | 2         | 1.74%   |
@@ -2401,7 +2402,6 @@ Controller models
 | Intel Wireless-AC 3168 Bluetooth                            | 2         | 1.74%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter           | 2         | 1.74%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                          | 2         | 1.74%   |
-| Apple Bluetooth Host Controller                             | 2         | 1.74%   |
 | Realtek RTL8821A Bluetooth                                  | 1         | 0.87%   |
 | Realtek  Bluetooth Adapter                                  | 1         | 0.87%   |
 | Realtek  Bluetooth 4.0 + High Speed Chip                    | 1         | 0.87%   |
@@ -2564,7 +2564,7 @@ Memory module models
 |--------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB DIMM 1333MT/s                         | 4         | 1.25%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 4         | 1.25%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s     | 4         | 1.25%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 4         | 1.25%   |
 | Unknown RAM Module 4GB DIMM 1333MT/s                         | 3         | 0.94%   |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 3         | 0.94%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 0.94%   |
@@ -2755,7 +2755,7 @@ Camera device vendors
 | Microdia                               | 7         | 7.29%   |
 | IMC Networks                           | 7         | 7.29%   |
 | Sunplus Innovation Technology          | 6         | 6.25%   |
-| Acer                                   | 6         | 6.25%   |
+| Bison Electronics                      | 6         | 6.25%   |
 | Suyin                                  | 5         | 5.21%   |
 | Apple                                  | 4         | 4.17%   |
 | Syntek                                 | 3         | 3.13%   |
@@ -2804,7 +2804,7 @@ Camera device models
 | Logitech Webcam C270                                | 2         | 2.06%   |
 | IMC Networks Integrated Camera                      | 2         | 2.06%   |
 | Chicony HP HD Camera                                | 2         | 2.06%   |
-| Acer Integrated Camera                              | 2         | 2.06%   |
+| Bison Integrated Camera                             | 2         | 2.06%   |
 | Syntek EasyCamera                                   | 1         | 1.03%   |
 | Suyin USB 2.0 Camera                                | 1         | 1.03%   |
 | Suyin Sony Visual Communication Camera              | 1         | 1.03%   |

@@ -1872,7 +1872,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 11        | 44%     |
-| Acer                                   | 4         | 16%     |
+| Bison Electronics                      | 4         | 16%     |
 | Realtek Semiconductor                  | 2         | 8%      |
 | Tripath Technology                     | 1         | 4%      |
 | Sunplus Innovation Technology          | 1         | 4%      |
@@ -1904,16 +1904,16 @@ Camera device models
 | Denron Corp., 2M Front Camera                                              | 1         | 4%      |
 | Chicony Lenovo Integrated Camera UVC                                       | 1         | 4%      |
 | Chicony Lenovo Integrated Camera (0.3MP)                                   | 1         | 4%      |
+| Chicony Integrated IR Camera                                               | 1         | 4%      |
 | Chicony Integrated Camera [ThinkPad]                                       | 1         | 4%      |
-| Chicony HD Webcam                                                          | 1         | 4%      |
 | Chicony FJ Camera                                                          | 1         | 4%      |
 | Chicony 2.0M UVC Webcam / CNF7129                                          | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 4%      |
+| Bison Integrated Camera                                                    | 1         | 4%      |
+| Bison HD Webcam                                                            | 1         | 4%      |
+| Bison EasyCamera                                                           | 1         | 4%      |
+| Bison BisonCam, NB Pro                                                     | 1         | 4%      |
 | Alcor Micro ASUS USB2.0 WebCam                                             | 1         | 4%      |
-| Acer Integrated Camera                                                     | 1         | 4%      |
-| Acer HD Webcam                                                             | 1         | 4%      |
-| Acer EasyCamera                                                            | 1         | 4%      |
-| Acer BisonCam, NB Pro                                                      | 1         | 4%      |
 
 Security
 --------

@@ -2041,7 +2041,7 @@ Camera device vendors
 | IMC Networks          | 3         | 15.79%  |
 | Microdia              | 2         | 10.53%  |
 | Logitech              | 2         | 10.53%  |
-| Acer                  | 2         | 10.53%  |
+| Bison Electronics     | 2         | 10.53%  |
 
 Camera Model
 ------------
@@ -2069,8 +2069,8 @@ Camera device models
 | Chicony Integrated Camera            | 1         | 5.26%   |
 | Chicony HP HD Camera                 | 1         | 5.26%   |
 | Chicony HD WebCam                    | 1         | 5.26%   |
-| Acer Lenovo EasyCamera               | 1         | 5.26%   |
-| Acer Integrated Camera               | 1         | 5.26%   |
+| Bison Lenovo EasyCamera              | 1         | 5.26%   |
+| Bison Integrated Camera              | 1         | 5.26%   |
 
 Security
 --------

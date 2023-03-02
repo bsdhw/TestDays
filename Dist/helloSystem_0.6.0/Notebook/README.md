@@ -483,18 +483,18 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2011 | 11        | 15.49%  |
-| 2013 | 9         | 12.68%  |
+| 2013 | 10        | 14.08%  |
 | 2012 | 9         | 12.68%  |
 | 2015 | 7         | 9.86%   |
 | 2014 | 7         | 9.86%   |
 | 2019 | 6         | 8.45%   |
 | 2010 | 6         | 8.45%   |
-| 2020 | 5         | 7.04%   |
+| 2020 | 4         | 5.63%   |
 | 2009 | 4         | 5.63%   |
-| 2018 | 2         | 2.82%   |
-| 2016 | 2         | 2.82%   |
+| 2016 | 3         | 4.23%   |
 | 2008 | 2         | 2.82%   |
 | 2021 | 1         | 1.41%   |
+| 2018 | 1         | 1.41%   |
 
 Form Factor
 -----------
@@ -1882,7 +1882,7 @@ Controller models
 | Intel Centrino Bluetooth Wireless Transceiver       | 2         | 5.41%   |
 | Broadcom BCM43142 Bluetooth 4.0                     | 2         | 5.41%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 2         | 5.41%   |
-| Apple Apple Broadcom Built-in Bluetooth             | 2         | 5.41%   |
+| Apple Bluetooth Host Controller                     | 2         | 5.41%   |
 | Realtek RTL8723B Bluetooth                          | 1         | 2.7%    |
 | Realtek  Bluetooth Adapter                          | 1         | 2.7%    |
 | Realtek Bluetooth Radio                             | 1         | 2.7%    |
@@ -1899,8 +1899,8 @@ Controller models
 | Broadcom BCM2046 Bluetooth Device                   | 1         | 2.7%    |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 2.7%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1         | 2.7%    |
-| Apple Bluetooth Host Controller                     | 1         | 2.7%    |
 | Apple Bluetooth HCI                                 | 1         | 2.7%    |
+| Apple Apple Broadcom Built-in Bluetooth             | 1         | 2.7%    |
 
 Sound
 -----
@@ -2157,7 +2157,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 16        | 31.37%  |
-| Acer                                   | 8         | 15.69%  |
+| Bison Electronics                      | 8         | 15.69%  |
 | Sunplus Innovation Technology          | 4         | 7.84%   |
 | Microdia                               | 4         | 7.84%   |
 | Realtek Semiconductor                  | 3         | 5.88%   |
@@ -2184,8 +2184,8 @@ Camera device models
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                      | 8         | 15.69%  |
-| Acer Lenovo EasyCamera                                         | 3         | 5.88%   |
-| Acer Integrated Camera                                         | 3         | 5.88%   |
+| Bison Lenovo EasyCamera                                        | 3         | 5.88%   |
+| Bison Integrated Camera                                        | 3         | 5.88%   |
 | Realtek Realtek USB2.0 PC Camera                               | 2         | 3.92%   |
 | Tripath 2M Front Camera                                        | 1         | 1.96%   |
 | Syntek EasyCamera                                              | 1         | 1.96%   |
@@ -2217,11 +2217,11 @@ Camera device models
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101           | 1         | 1.96%   |
 | Cheng Uei Precision Industry (Foxlink) HP Universal Camera     | 1         | 1.96%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.96%   |
+| Bison ThinkPad Integrated Camera                               | 1         | 1.96%   |
+| Bison HD Webcam                                                | 1         | 1.96%   |
 | Apple FaceTime HD Camera (Built-in)                            | 1         | 1.96%   |
 | Apple FaceTime HD Camera                                       | 1         | 1.96%   |
 | ALi WebCam                                                     | 1         | 1.96%   |
-| Acer ThinkPad Integrated Camera                                | 1         | 1.96%   |
-| Acer HD Webcam                                                 | 1         | 1.96%   |
 
 Security
 --------

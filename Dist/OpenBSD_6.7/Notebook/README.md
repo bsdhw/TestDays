@@ -1653,7 +1653,7 @@ Camera device vendors
 |---------------------|-----------|---------|
 | Chicony Electronics | 8         | 72.73%  |
 | IMC Networks        | 2         | 18.18%  |
-| Acer                | 1         | 9.09%   |
+| Bison Electronics   | 1         | 9.09%   |
 
 Camera Model
 ------------
@@ -1674,7 +1674,7 @@ Camera device models
 | Chicony Integrated IR Camera             | 1         | 8.33%   |
 | Chicony Integrated Camera [ThinkPad]     | 1         | 8.33%   |
 | Chicony FJ Camera                        | 1         | 8.33%   |
-| Acer SunplusIT INC. Integrated Camera    | 1         | 8.33%   |
+| Bison SunplusIT INC. Integrated Camera   | 1         | 8.33%   |
 
 Security
 --------

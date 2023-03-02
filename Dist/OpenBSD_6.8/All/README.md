@@ -1076,29 +1076,29 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 35        | 42     | 25.36%  |
-| Seagate             | 28        | 37     | 20.29%  |
-| NVMe                | 20        | 24     | 14.49%  |
-| Hitachi             | 9         | 10     | 6.52%   |
-| HGST                | 7         | 8      | 5.07%   |
-| OPENBSD             | 6         | 6      | 4.35%   |
-| Dell                | 6         | 10     | 4.35%   |
-| Toshiba             | 4         | 5      | 2.9%    |
-| Samsung Electronics | 4         | 6      | 2.9%    |
-| Apple               | 3         | 3      | 2.17%   |
-| USB                 | 2         | 2      | 1.45%   |
-| LSI                 | 2         | 2      | 1.45%   |
-| Generic             | 2         | 2      | 1.45%   |
-| UFD 2.0             | 1         | 1      | 0.72%   |
-| SABRENT             | 1         | 1      | 0.72%   |
-| Multiple            | 1         | 1      | 0.72%   |
-| Maxtor              | 1         | 1      | 0.72%   |
-| MaxDigital          | 1         | 1      | 0.72%   |
-| Lexar               | 1         | 1      | 0.72%   |
-| JetFlash            | 1         | 1      | 0.72%   |
-| IBM                 | 1         | 1      | 0.72%   |
-| General             | 1         | 1      | 0.72%   |
-| ASMT                | 1         | 1      | 0.72%   |
+| WDC                 | 35        | 42     | 25.55%  |
+| Seagate             | 28        | 37     | 20.44%  |
+| NVMe                | 20        | 24     | 14.6%   |
+| Hitachi             | 9         | 10     | 6.57%   |
+| HGST                | 7         | 8      | 5.11%   |
+| OPENBSD             | 6         | 6      | 4.38%   |
+| Dell                | 6         | 10     | 4.38%   |
+| Toshiba             | 4         | 5      | 2.92%   |
+| Samsung Electronics | 4         | 6      | 2.92%   |
+| Apple               | 3         | 3      | 2.19%   |
+| USB                 | 2         | 2      | 1.46%   |
+| Generic             | 2         | 2      | 1.46%   |
+| UFD 2.0             | 1         | 1      | 0.73%   |
+| SABRENT             | 1         | 1      | 0.73%   |
+| Multiple            | 1         | 1      | 0.73%   |
+| Maxtor              | 1         | 1      | 0.73%   |
+| MaxDigital          | 1         | 1      | 0.73%   |
+| LSI                 | 1         | 1      | 0.73%   |
+| Lexar               | 1         | 1      | 0.73%   |
+| JetFlash            | 1         | 1      | 0.73%   |
+| IBM                 | 1         | 1      | 0.73%   |
+| General             | 1         | 1      | 0.73%   |
+| ASMT                | 1         | 1      | 0.73%   |
 
 SSD Vendor
 ----------
@@ -1110,20 +1110,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 24        | 31     | 17.14%  |
-| Kingston            | 19        | 20     | 13.57%  |
-| SanDisk             | 13        | 15     | 9.29%   |
-| Crucial             | 13        | 22     | 9.29%   |
-| Phison              | 11        | 11     | 7.86%   |
-| NVMe                | 10        | 10     | 7.14%   |
-| Transcend           | 9         | 12     | 6.43%   |
-| Intel               | 8         | 8      | 5.71%   |
-| WDC                 | 6         | 6      | 4.29%   |
-| PNY                 | 5         | 5      | 3.57%   |
-| A-DATA Technology   | 4         | 5      | 2.86%   |
-| LITEONIT            | 2         | 2      | 1.43%   |
-| Hewlett-Packard     | 2         | 3      | 1.43%   |
-| Apple               | 2         | 2      | 1.43%   |
+| Samsung Electronics | 24        | 31     | 17.02%  |
+| Kingston            | 19        | 20     | 13.48%  |
+| SanDisk             | 13        | 15     | 9.22%   |
+| Crucial             | 13        | 22     | 9.22%   |
+| Phison              | 11        | 11     | 7.8%    |
+| NVMe                | 10        | 10     | 7.09%   |
+| Transcend           | 9         | 12     | 6.38%   |
+| Intel               | 8         | 8      | 5.67%   |
+| WDC                 | 6         | 6      | 4.26%   |
+| PNY                 | 5         | 5      | 3.55%   |
+| A-DATA Technology   | 4         | 5      | 2.84%   |
+| LITEONIT            | 2         | 2      | 1.42%   |
+| Hewlett-Packard     | 2         | 3      | 1.42%   |
+| Apple               | 2         | 2      | 1.42%   |
 | Zheino              | 1         | 1      | 0.71%   |
 | Toshiba             | 1         | 1      | 0.71%   |
 | SPCC                | 1         | 1      | 0.71%   |
@@ -1131,6 +1131,7 @@ Solid state drive vendors
 | Qumo                | 1         | 1      | 0.71%   |
 | OCZ                 | 1         | 1      | 0.71%   |
 | MidasForce          | 1         | 1      | 0.71%   |
+| LSI                 | 1         | 1      | 0.71%   |
 | LITEON              | 1         | 1      | 0.71%   |
 | KingSpec            | 1         | 1      | 0.71%   |
 | Hoodisk             | 1         | 2      | 0.71%   |
@@ -1147,8 +1148,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 122       | 165    | 52.14%  |
-| HDD  | 110       | 167    | 47.01%  |
+| SSD  | 123       | 166    | 52.56%  |
+| HDD  | 109       | 166    | 46.58%  |
 | NVMe | 2         | 2      | 0.85%   |
 
 Drive Connector
@@ -1174,8 +1175,8 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 164       | 226    | 67.49%  |
-| 0.51-1.0        | 51        | 59     | 20.99%  |
+| 0.01-0.5        | 165       | 227    | 67.9%   |
+| 0.51-1.0        | 50        | 58     | 20.58%  |
 | 1.01-2.0        | 16        | 30     | 6.58%   |
 | 3.01-4.0        | 5         | 6      | 2.06%   |
 | 4.01-10.0       | 3         | 5      | 1.23%   |
@@ -2345,15 +2346,15 @@ Controller models
 | Intel Bluetooth wireless interface                                                  | 23        | 35.38%  |
 | Intel AX200 Bluetooth                                                               | 4         | 6.15%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 4         | 6.15%   |
-| Apple Apple Broadcom Built-in Bluetooth                                             | 4         | 6.15%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 3         | 4.62%   |
+| Apple Bluetooth Host Controller                                                     | 3         | 4.62%   |
+| Apple Apple Broadcom Built-in Bluetooth                                             | 3         | 4.62%   |
 | Alps Electric UGTZ4 Bluetooth                                                       | 3         | 4.62%   |
 | Realtek  Bluetooth Adapter                                                          | 2         | 3.08%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 3.08%   |
 | IMC Networks Realtek Bluetooth 4.0 + High Speed Chip                                | 2         | 3.08%   |
 | IMC Networks Asus Integrated Bluetooth module [AR3011]                              | 2         | 3.08%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 2         | 3.08%   |
-| Apple Bluetooth Host Controller                                                     | 2         | 3.08%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 1.54%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 1.54%   |
 | Intel AX201 Bluetooth                                                               | 1         | 1.54%   |
@@ -2608,7 +2609,7 @@ Camera device vendors
 | Chicony Electronics                    | 21        | 34.43%  |
 | IMC Networks                           | 9         | 14.75%  |
 | Realtek Semiconductor                  | 5         | 8.2%    |
-| Acer                                   | 5         | 8.2%    |
+| Bison Electronics                      | 5         | 8.2%    |
 | Logitech                               | 4         | 6.56%   |
 | Lite-On Technology                     | 4         | 6.56%   |
 | Sunplus Innovation Technology          | 2         | 3.28%   |
@@ -2638,8 +2639,8 @@ Camera device models
 | IMC Networks USB2.0 VGA UVC WebCam                            | 2         | 3.28%   |
 | Chicony Lenovo Integrated Camera (0.3MP)                      | 2         | 3.28%   |
 | Chicony Integrated Camera [ThinkPad]                          | 2         | 3.28%   |
-| Acer Lenovo EasyCamera                                        | 2         | 3.28%   |
-| Acer Integrated Camera                                        | 2         | 3.28%   |
+| Bison Lenovo EasyCamera                                       | 2         | 3.28%   |
+| Bison Integrated Camera                                       | 2         | 3.28%   |
 | Syntek EasyCamera                                             | 1         | 1.64%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)   | 1         | 1.64%   |
 | Sunplus Integrated_Webcam_FHD                                 | 1         | 1.64%   |
@@ -2667,10 +2668,10 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)                       | 1         | 1.64%   |
 | Chicony 2.0M UVC Webcam / CNF7129                             | 1         | 1.64%   |
 | Cheng Uei Precision Industry (Foxlink) USB2.0 UVC 1.3M WebCam | 1         | 1.64%   |
+| Bison SunplusIT Integrated Camera                             | 1         | 1.64%   |
 | Apple FaceTime HD Camera (Built-in)                           | 1         | 1.64%   |
 | Apple FaceTime HD camera                                      | 1         | 1.64%   |
 | Alcor Micro Asus Integrated Webcam                            | 1         | 1.64%   |
-| Acer SunplusIT Integrated Camera                              | 1         | 1.64%   |
 
 Security
 --------

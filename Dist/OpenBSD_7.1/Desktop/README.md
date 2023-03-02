@@ -1350,7 +1350,7 @@ Graphics card models
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                  | 1        | 2.27%   |
 | ASPEED Technology ASPEED Graphics Family                                      | 1        | 2.27%   |
 | AMD RV770 [Radeon HD 4850]                                                    | 1        | 2.27%   |
-| AMD RV710/M92 [Mobility Radeon HD 4350/4550]                                  | 1        | 2.27%   |
+| AMD RV711/M93 [Mobility Radeon HD 4350/4550/530v/540v/545v / FirePro RG220]   | 1        | 2.27%   |
 | AMD RV530/M56-P [Mobility Radeon X1600]                                       | 1        | 2.27%   |
 | AMD RV515/M54 [Mobility Radeon X1400]                                         | 1        | 2.27%   |
 | AMD RS880 [Radeon HD 4250]                                                    | 1        | 2.27%   |

@@ -732,7 +732,7 @@ Hard drive vendors
 | LITEONIT            | 1        | 1      | 0.99%   |
 | KingSpec            | 1        | 2      | 0.99%   |
 | Hewlett-Packard     | 1        | 1      | 0.99%   |
-| Goodram             | 1        | 1      | 0.99%   |
+| GOODRAM             | 1        | 1      | 0.99%   |
 | Gigabyte Technology | 1        | 1      | 0.99%   |
 | Corsair             | 1        | 1      | 0.99%   |
 | Apacer              | 1        | 1      | 0.99%   |
@@ -828,7 +828,7 @@ Solid state drive vendors
 | LITEONIT            | 1        | 1      | 2.94%   |
 | KingSpec            | 1        | 2      | 2.94%   |
 | Intel               | 1        | 1      | 2.94%   |
-| Goodram             | 1        | 1      | 2.94%   |
+| GOODRAM             | 1        | 1      | 2.94%   |
 | Apacer              | 1        | 1      | 2.94%   |
 | A-DATA Technology   | 1        | 2      | 2.94%   |
 
@@ -1861,12 +1861,12 @@ Controller models
 |-----------------------------------------------------|----------|---------|
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 20%     |
 | Intel Wireless-AC 3168 Bluetooth                    | 2        | 13.33%  |
-| Apple Apple Broadcom Built-in Bluetooth             | 2        | 13.33%  |
+| Apple Bluetooth Host Controller                     | 2        | 13.33%  |
 | Realtek  Bluetooth Adapter                          | 1        | 6.67%   |
 | Realtek  Bluetooth 4.0 Adapter                      | 1        | 6.67%   |
 | Intel Bluetooth wireless interface                  | 1        | 6.67%   |
 | Intel AX200 Bluetooth                               | 1        | 6.67%   |
-| Foxconn / Hon Hai Broadcom Bluetooth 4.0 USB        | 1        | 6.67%   |
+| Foxconn / Hon Hai Broadcom BCM20702A1 Bluetooth     | 1        | 6.67%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter    | 1        | 6.67%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1        | 6.67%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1        | 6.67%   |
@@ -1987,7 +1987,7 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown                                                 | 3        | 4.17%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2        | 2.78%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.78%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.78%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |

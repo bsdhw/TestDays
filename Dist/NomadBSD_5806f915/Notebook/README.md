@@ -1156,7 +1156,7 @@ Graphics card models
 | AMD Topaz PRO [Radeon R5 M255]                                                | 1         | 2.56%   |
 | AMD Sumo [Radeon HD 6520G]                                                    | 1         | 2.56%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                      | 1         | 2.56%   |
-| AMD RV710/M92 [Mobility Radeon HD 4530/4570/545v]                             | 1         | 2.56%   |
+| AMD RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]              | 1         | 2.56%   |
 | AMD RV710/M92 [Mobility Radeon HD 4330/4350/4550]                             | 1         | 2.56%   |
 | AMD RV610/M72-S [Mobility Radeon HD 2400]                                     | 1         | 2.56%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 1         | 2.56%   |
@@ -1782,7 +1782,7 @@ Memory module models
 | Samsung RAM Module 16GB SODIMM DDR4 2133MT/s              | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s     | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s  | 1         | 2.38%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s    | 1         | 2.38%   |
@@ -1913,7 +1913,7 @@ Camera device vendors
 | Vendor                                 | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 6         | 24%     |
-| Acer                                   | 4         | 16%     |
+| Bison Electronics                      | 4         | 16%     |
 | IMC Networks                           | 3         | 12%     |
 | Quanta                                 | 2         | 8%      |
 | Microdia                               | 2         | 8%      |
@@ -1935,7 +1935,7 @@ Camera device models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Acer Integrated Camera                                         | 3         | 12%     |
+| Bison Integrated Camera                                        | 3         | 12%     |
 | Chicony Integrated Camera                                      | 2         | 8%      |
 | Chicony Chicony USB2.0 Camera                                  | 2         | 8%      |
 | Suyin USB 2.0 UVC 1.3M WebCam                                  | 1         | 4%      |
@@ -1951,11 +1951,11 @@ Camera device models
 | IMC Networks USB2.0 UVC HD Webcam                              | 1         | 4%      |
 | IMC Networks USB2.0 HD UVC WebCam                              | 1         | 4%      |
 | IMC Networks EasyCamera                                        | 1         | 4%      |
+| Chicony Integrated IR Camera                                   | 1         | 4%      |
 | Chicony HP HD Webcam [Fixed]                                   | 1         | 4%      |
-| Chicony HD Webcam                                              | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 4%      |
+| Bison Lenovo EasyCamera                                        | 1         | 4%      |
 | Alcor Micro HP WebCam-101                                      | 1         | 4%      |
-| Acer Lenovo EasyCamera                                         | 1         | 4%      |
 
 Security
 --------

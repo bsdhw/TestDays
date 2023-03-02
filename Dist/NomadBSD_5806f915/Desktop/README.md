@@ -1469,7 +1469,7 @@ Controller models
 | Broadcom BCM43142A0 Bluetooth Device                | 1        | 11.11%  |
 | Broadcom BCM2045 Bluetooth                          | 1        | 11.11%  |
 | ASUS Bluetooth Controller                           | 1        | 11.11%  |
-| Apple Apple Broadcom Built-in Bluetooth             | 1        | 11.11%  |
+| Apple Bluetooth Host Controller                     | 1        | 11.11%  |
 
 Sound
 -----

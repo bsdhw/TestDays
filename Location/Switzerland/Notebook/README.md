@@ -147,10 +147,13 @@ Contents
 Test Cases
 ----------
 
-Total: 49
+Total: 52
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| Deciso    | Netboard A20                | [7c91a0f01b](https://bsd-hardware.info/?probe=7c91a0f01b) | Feb 14, 2023 |
+| Lenovo    | IdeaPad Y700-15ISK 80NV     | [0c9cf4e002](https://bsd-hardware.info/?probe=0c9cf4e002) | Feb 09, 2023 |
+| Lenovo    | IdeaPad Y700-15ISK 80NV     | [ca1e51a042](https://bsd-hardware.info/?probe=ca1e51a042) | Feb 09, 2023 |
 | Deciso    | NetBoard-A10                | [5b226a942e](https://bsd-hardware.info/?probe=5b226a942e) | Jan 27, 2023 |
 | Unknown   | Unknown                     | [8511097117](https://bsd-hardware.info/?probe=8511097117) | Jan 22, 2023 |
 | Unknown   | Unknown                     | [d5d2ce1b39](https://bsd-hardware.info/?probe=d5d2ce1b39) | Jan 22, 2023 |
@@ -214,37 +217,38 @@ Installed operating systems
 
 | Name                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| helloSystem 0.5.0        | 3         | 7.89%   |
-| FreeBSD 13.0             | 3         | 7.89%   |
-| FreeBSD 13.0-STABLE      | 2         | 5.26%   |
-| FreeBSD 13.0-p7          | 2         | 5.26%   |
-| FreeBSD 12.1-p8          | 2         | 5.26%   |
-| OPNsense 23.1            | 1         | 2.63%   |
-| OPNsense 22.7.4          | 1         | 2.63%   |
-| OPNsense 22.7.11         | 1         | 2.63%   |
-| OPNsense 22.10           | 1         | 2.63%   |
-| OPNsense 22.1.9          | 1         | 2.63%   |
-| OPNsense 22.1.4          | 1         | 2.63%   |
-| OPNsense 22.1.1          | 1         | 2.63%   |
-| OPNsense 21.1.5          | 1         | 2.63%   |
-| OpenBSD 7.0              | 1         | 2.63%   |
-| OpenBSD 6.8              | 1         | 2.63%   |
-| OpenBSD 6.7              | 1         | 2.63%   |
-| helloSystem 0.7.0        | 1         | 2.63%   |
-| GhostBSD 21.08.27        | 1         | 2.63%   |
-| GhostBSD 20.04.02        | 1         | 2.63%   |
-| FreeBSD 14.0-CURRENT     | 1         | 2.63%   |
-| FreeBSD 13.1-STABLE-HBSD | 1         | 2.63%   |
-| FreeBSD 13.1-STABLE      | 1         | 2.63%   |
-| FreeBSD 13.1-PRERELEASE  | 1         | 2.63%   |
-| FreeBSD 13.0-p6          | 1         | 2.63%   |
-| FreeBSD 13.0-p5          | 1         | 2.63%   |
-| FreeBSD 13.0-p1          | 1         | 2.63%   |
-| FreeBSD 12.2-STABLE      | 1         | 2.63%   |
-| FreeBSD 12.2-p4          | 1         | 2.63%   |
-| FreeBSD 12.2             | 1         | 2.63%   |
-| FreeBSD 12.1-p22-HBSD    | 1         | 2.63%   |
-| FreeBSD 12.1             | 1         | 2.63%   |
+| helloSystem 0.5.0        | 3         | 7.5%    |
+| FreeBSD 13.0             | 3         | 7.5%    |
+| OPNsense 23.1            | 2         | 5%      |
+| FreeBSD 13.0-STABLE      | 2         | 5%      |
+| FreeBSD 13.0-p7          | 2         | 5%      |
+| FreeBSD 12.1-p8          | 2         | 5%      |
+| OPNsense 22.7.4          | 1         | 2.5%    |
+| OPNsense 22.7.11         | 1         | 2.5%    |
+| OPNsense 22.10           | 1         | 2.5%    |
+| OPNsense 22.1.9          | 1         | 2.5%    |
+| OPNsense 22.1.4          | 1         | 2.5%    |
+| OPNsense 22.1.1          | 1         | 2.5%    |
+| OPNsense 21.1.5          | 1         | 2.5%    |
+| OpenBSD 7.0              | 1         | 2.5%    |
+| OpenBSD 6.8              | 1         | 2.5%    |
+| OpenBSD 6.7              | 1         | 2.5%    |
+| helloSystem 0.7.0        | 1         | 2.5%    |
+| GhostBSD 21.08.27        | 1         | 2.5%    |
+| GhostBSD 20.04.02        | 1         | 2.5%    |
+| FreeBSD 14.0-CURRENT     | 1         | 2.5%    |
+| FreeBSD 13.2-PRERELEASE  | 1         | 2.5%    |
+| FreeBSD 13.1-STABLE-HBSD | 1         | 2.5%    |
+| FreeBSD 13.1-STABLE      | 1         | 2.5%    |
+| FreeBSD 13.1-PRERELEASE  | 1         | 2.5%    |
+| FreeBSD 13.0-p6          | 1         | 2.5%    |
+| FreeBSD 13.0-p5          | 1         | 2.5%    |
+| FreeBSD 13.0-p1          | 1         | 2.5%    |
+| FreeBSD 12.2-STABLE      | 1         | 2.5%    |
+| FreeBSD 12.2-p4          | 1         | 2.5%    |
+| FreeBSD 12.2             | 1         | 2.5%    |
+| FreeBSD 12.1-p22-HBSD    | 1         | 2.5%    |
+| FreeBSD 12.1             | 1         | 2.5%    |
 
 OS Family
 ---------
@@ -646,27 +650,28 @@ Geographic location (city)
 ![City](./images/pie_chart_bsd/node_city.svg)
 
 
-| City                   | Notebooks | Percent |
-|------------------------|-----------|---------|
-| Zurich                 | 15        | 40.54%  |
-| Therwil                | 2         | 5.41%   |
-| Munchenstein           | 2         | 5.41%   |
-| Glattbrugg             | 2         | 5.41%   |
-| Corcelles-pres-Payerne | 2         | 5.41%   |
-| St. Moritz             | 1         | 2.7%    |
-| Onex                   | 1         | 2.7%    |
-| Moosseedorf            | 1         | 2.7%    |
-| Lutry                  | 1         | 2.7%    |
-| Lenzburg               | 1         | 2.7%    |
-| Langnau am Albis       | 1         | 2.7%    |
-| Kiesen                 | 1         | 2.7%    |
-| Huttwil                | 1         | 2.7%    |
-| Hildisrieden           | 1         | 2.7%    |
-| Dinhard                | 1         | 2.7%    |
-| Broc                   | 1         | 2.7%    |
-| Bern                   | 1         | 2.7%    |
-| Basel                  | 1         | 2.7%    |
-| Adliswil               | 1         | 2.7%    |
+| City                     | Notebooks | Percent |
+|--------------------------|-----------|---------|
+| Zurich                   | 16        | 41.03%  |
+| Therwil                  | 2         | 5.13%   |
+| Munchenstein             | 2         | 5.13%   |
+| Glattbrugg               | 2         | 5.13%   |
+| Corcelles-pres-Payerne   | 2         | 5.13%   |
+| St. Moritz               | 1         | 2.56%   |
+| Onex                     | 1         | 2.56%   |
+| Moosseedorf              | 1         | 2.56%   |
+| Lutry                    | 1         | 2.56%   |
+| Lenzburg                 | 1         | 2.56%   |
+| Langnau am Albis         | 1         | 2.56%   |
+| Kiesen                   | 1         | 2.56%   |
+| Huttwil                  | 1         | 2.56%   |
+| Hittnau / Hittnau (Dorf) | 1         | 2.56%   |
+| Hildisrieden             | 1         | 2.56%   |
+| Dinhard                  | 1         | 2.56%   |
+| Broc                     | 1         | 2.56%   |
+| Bern                     | 1         | 2.56%   |
+| Basel                    | 1         | 2.56%   |
+| Adliswil                 | 1         | 2.56%   |
 
 Drives
 ------
@@ -683,7 +688,7 @@ Hard drive vendors
 |---------------------|-----------|--------|---------|
 | Samsung Electronics | 13        | 15     | 36.11%  |
 | WDC                 | 4         | 4      | 11.11%  |
-| Transcend           | 4         | 5      | 11.11%  |
+| Transcend           | 4         | 6      | 11.11%  |
 | Toshiba             | 2         | 2      | 5.56%   |
 | SanDisk             | 2         | 2      | 5.56%   |
 | NVMe                | 2         | 2      | 5.56%   |
@@ -692,7 +697,7 @@ Hard drive vendors
 | Crucial             | 2         | 2      | 5.56%   |
 | Seagate             | 1         | 1      | 2.78%   |
 | OCZ                 | 1         | 1      | 2.78%   |
-| LITEON              | 1         | 5      | 2.78%   |
+| LITEON              | 1         | 6      | 2.78%   |
 
 Drive Model
 -----------
@@ -769,9 +774,9 @@ Solid state drive vendors
 | SanDisk             | 2         | 2      | 10%     |
 | Kingston            | 2         | 2      | 10%     |
 | WDC                 | 1         | 1      | 5%      |
-| Transcend           | 1         | 2      | 5%      |
+| Transcend           | 1         | 3      | 5%      |
 | OCZ                 | 1         | 1      | 5%      |
-| LITEON              | 1         | 5      | 5%      |
+| LITEON              | 1         | 6      | 5%      |
 | Intel               | 1         | 2      | 5%      |
 | Crucial             | 1         | 1      | 5%      |
 
@@ -785,7 +790,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 19        | 28     | 54.29%  |
+| SSD  | 19        | 30     | 54.29%  |
 | NVMe | 12        | 12     | 34.29%  |
 | HDD  | 4         | 4      | 11.43%  |
 
@@ -799,7 +804,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 22        | 32     | 64.71%  |
+| SATA | 22        | 34     | 64.71%  |
 | NVMe | 12        | 12     | 35.29%  |
 
 Drive Size
@@ -812,8 +817,8 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 20     | 65.22%  |
-| 0.51-1.0   | 7         | 11     | 30.43%  |
+| 0.01-0.5   | 15        | 21     | 65.22%  |
+| 0.51-1.0   | 7         | 12     | 30.43%  |
 | 1.01-2.0   | 1         | 1      | 4.35%   |
 
 Space Total
@@ -841,10 +846,10 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 1-20    | 29        | 85.29%  |
-| 21-50   | 2         | 5.88%   |
-| 51-100  | 2         | 5.88%   |
-| 101-250 | 1         | 2.94%   |
+| 1-20    | 29        | 82.86%  |
+| 21-50   | 2         | 5.71%   |
+| 101-250 | 2         | 5.71%   |
+| 51-100  | 2         | 5.71%   |
 
 Malfunc. Drives
 ---------------
@@ -915,7 +920,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 30        | 39     | 88.24%  |
+| Works    | 30        | 41     | 88.24%  |
 | Detected | 2         | 2      | 5.88%   |
 | Malfunc  | 2         | 3      | 5.88%   |
 
@@ -1624,8 +1629,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 27        | 81.82%  |
-| Yes  | 6         | 18.18%  |
+| No   | 28        | 82.35%  |
+| Yes  | 6         | 17.65%  |
 
 Bluetooth
 ---------
@@ -1906,7 +1911,7 @@ Camera device vendors
 | Chicony Electronics                    | 9         | 45%     |
 | IMC Networks                           | 4         | 20%     |
 | Sunplus Innovation Technology          | 2         | 10%     |
-| Acer                                   | 2         | 10%     |
+| Bison Electronics                      | 2         | 10%     |
 | Suyin                                  | 1         | 5%      |
 | Cheng Uei Precision Industry (Foxlink) | 1         | 5%      |
 | Apple                                  | 1         | 5%      |
@@ -1923,7 +1928,7 @@ Camera device models
 |--------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                        | 4         | 20%     |
 | IMC Networks Integrated Camera                   | 3         | 15%     |
-| Acer Integrated Camera                           | 2         | 10%     |
+| Bison Integrated Camera                          | 2         | 10%     |
 | Suyin HD WebCam                                  | 1         | 5%      |
 | Sunplus Laptop Integrated WebCam HD              | 1         | 5%      |
 | Sunplus Laptop Integrated Webcam FHD             | 1         | 5%      |

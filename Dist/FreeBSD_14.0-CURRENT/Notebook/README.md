@@ -145,10 +145,13 @@ Contents
 Test Cases
 ----------
 
-Total: 117
+Total: 120
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | EliteBook 8570p             | [1a4897cb53](https://bsd-hardware.info/?probe=1a4897cb53) | Feb 26, 2023 |
+| HP            | EliteBook 8570p             | [1e548fa114](https://bsd-hardware.info/?probe=1e548fa114) | Feb 24, 2023 |
+| HP            | EliteBook 8570p             | [1ba2a827d9](https://bsd-hardware.info/?probe=1ba2a827d9) | Feb 18, 2023 |
 | F-Plus Mob... | FLAPTOP r                   | [165d435f30](https://bsd-hardware.info/?probe=165d435f30) | Jan 31, 2023 |
 | F-Plus Mob... | FLAPTOP r                   | [448f9265f2](https://bsd-hardware.info/?probe=448f9265f2) | Jan 27, 2023 |
 | Dell          | Precision 5540              | [683769b797](https://bsd-hardware.info/?probe=683769b797) | Jan 19, 2023 |
@@ -786,7 +789,7 @@ Hard drive vendors
 | WDC                 | 13        | 20     | 16.25%  |
 | Toshiba             | 7         | 15     | 8.75%   |
 | KIOXIA              | 5         | 5      | 6.25%   |
-| HGST                | 5         | 21     | 6.25%   |
+| HGST                | 5         | 22     | 6.25%   |
 | SK hynix            | 3         | 3      | 3.75%   |
 | Seagate             | 3         | 3      | 3.75%   |
 | Kingston            | 3         | 5      | 3.75%   |
@@ -866,7 +869,7 @@ Hard disk drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | Toshiba             | 6         | 14     | 31.58%  |
-| HGST                | 5         | 21     | 26.32%  |
+| HGST                | 5         | 22     | 26.32%  |
 | Seagate             | 3         | 3      | 15.79%  |
 | Samsung Electronics | 3         | 3      | 15.79%  |
 | WDC                 | 1         | 1      | 5.26%   |
@@ -903,7 +906,7 @@ HDD or SSD
 |------|-----------|--------|---------|
 | NVMe | 44        | 63     | 62.86%  |
 | SSD  | 13        | 16     | 18.57%  |
-| HDD  | 13        | 44     | 18.57%  |
+| HDD  | 13        | 45     | 18.57%  |
 
 Drive Connector
 ---------------
@@ -916,7 +919,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | NVMe | 44        | 63     | 62.86%  |
-| SATA | 26        | 60     | 37.14%  |
+| SATA | 26        | 61     | 37.14%  |
 
 Drive Size
 ----------
@@ -929,7 +932,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 20        | 41     | 74.07%  |
-| 0.51-1.0   | 7         | 19     | 25.93%  |
+| 0.51-1.0   | 7         | 20     | 25.93%  |
 
 Space Total
 -----------
@@ -980,7 +983,7 @@ Drive models with a malfunction
 | WDC WD10SPZX-60Z10T0 1TB                  | 1         | 1      | 11.11%  |
 | Samsung Electronics SSD PM851 mSATA 256GB | 1         | 1      | 11.11%  |
 | Samsung Electronics HM251JX 250GB         | 1         | 1      | 11.11%  |
-| HGST HTS721010A9E630 1TB                  | 1         | 12     | 11.11%  |
+| HGST HTS721010A9E630 1TB                  | 1         | 13     | 11.11%  |
 | Fujitsu MHS2040AT D 40GB                  | 1         | 2      | 11.11%  |
 
 Malfunc. Drive Vendor
@@ -993,7 +996,7 @@ Vendors of faulty drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 19     | 50%     |
+| HGST                | 4         | 20     | 50%     |
 | Samsung Electronics | 2         | 2      | 25%     |
 | WDC                 | 1         | 1      | 12.5%   |
 | Fujitsu             | 1         | 2      | 12.5%   |
@@ -1008,7 +1011,7 @@ Vendors of faulty HDD drives
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| HGST                | 4         | 19     | 57.14%  |
+| HGST                | 4         | 20     | 57.14%  |
 | WDC                 | 1         | 1      | 14.29%  |
 | Samsung Electronics | 1         | 1      | 14.29%  |
 | Fujitsu             | 1         | 2      | 14.29%  |
@@ -1023,7 +1026,7 @@ Kinds of faulty drives
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 6         | 23     | 85.71%  |
+| HDD  | 6         | 24     | 85.71%  |
 | SSD  | 1         | 1      | 14.29%  |
 
 Failed Drives
@@ -1051,7 +1054,7 @@ Number of failed and malfunc. drives
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
 | Works    | 58        | 96     | 85.29%  |
-| Malfunc  | 7         | 24     | 10.29%  |
+| Malfunc  | 7         | 25     | 10.29%  |
 | Detected | 3         | 3      | 4.41%   |
 
 Storage controller
@@ -1921,7 +1924,7 @@ Controller models
 | Intel Wireless-AC 9260 Bluetooth Adapter       | 5         | 10.2%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 3         | 6.12%   |
 | Intel AX210 Bluetooth                          | 3         | 6.12%   |
-| Apple Bluetooth Host Controller                | 2         | 4.08%   |
+| Apple Bluetooth Host Controller                | 3         | 6.12%   |
 | Realtek  Bluetooth Adapter                     | 1         | 2.04%   |
 | Realtek Bluetooth Radio                        | 1         | 2.04%   |
 | Realtek Bluetooth Radio                        | 1         | 2.04%   |
@@ -1932,7 +1935,6 @@ Controller models
 | IMC Networks Bluetooth module                  | 1         | 2.04%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 2.04%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI           | 1         | 2.04%   |
-| Apple Apple Broadcom Built-in Bluetooth        | 1         | 2.04%   |
 
 Sound
 -----
@@ -1945,15 +1947,16 @@ Sound card vendors
 ![Sound Vendor](./images/pie_chart_bsd/snd_vendor.svg)
 
 
-| Vendor            | Notebooks | Percent |
-|-------------------|-----------|---------|
-| Intel             | 44        | 51.16%  |
-| AMD               | 23        | 26.74%  |
-| Nvidia            | 13        | 15.12%  |
-| Lenovo            | 3         | 3.49%   |
-| Texas Instruments | 1         | 1.16%   |
-| SteelSeries ApS   | 1         | 1.16%   |
-| CMX Systems       | 1         | 1.16%   |
+| Vendor              | Notebooks | Percent |
+|---------------------|-----------|---------|
+| Intel               | 44        | 50.57%  |
+| AMD                 | 23        | 26.44%  |
+| Nvidia              | 13        | 14.94%  |
+| Lenovo              | 3         | 3.45%   |
+| Texas Instruments   | 1         | 1.15%   |
+| SteelSeries ApS     | 1         | 1.15%   |
+| CMX Systems         | 1         | 1.15%   |
+| C-Media Electronics | 1         | 1.15%   |
 
 Sound Model
 -----------
@@ -1965,46 +1968,46 @@ Sound card models
 
 | Model                                                               | Notebooks | Percent |
 |---------------------------------------------------------------------|-----------|---------|
-| AMD Family 17h/19h HD Audio Controller                              | 17        | 15.74%  |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller | 8         | 7.41%   |
-| Intel Comet Lake PCH cAVS                                           | 7         | 6.48%   |
-| AMD Renoir Radeon High Definition Audio Controller                  | 7         | 6.48%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                 | 7         | 6.48%   |
-| Intel Comet Lake PCH-LP cAVS                                        | 6         | 5.56%   |
-| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller      | 5         | 4.63%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller         | 5         | 4.63%   |
-| Intel Sunrise Point-LP HD Audio                                     | 3         | 2.78%   |
-| Intel Cannon Lake PCH cAVS                                          | 3         | 2.78%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]           | 3         | 2.78%   |
-| Nvidia TU116 High Definition Audio Controller                       | 2         | 1.85%   |
-| Nvidia GK107 HDMI Audio Controller                                  | 2         | 1.85%   |
-| Intel Wildcat Point-LP High Definition Audio Controller             | 2         | 1.85%   |
-| Intel Tiger Lake-H HD Audio Controller                              | 2         | 1.85%   |
-| Intel Broadwell-U Audio Controller                                  | 2         | 1.85%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 2         | 1.85%   |
-| AMD Rembrandt Radeon High Definition Audio Controller               | 2         | 1.85%   |
-| AMD Navi 10 HDMI Audio                                              | 2         | 1.85%   |
-| Texas Instruments PCM2706 stereo audio DAC                          | 1         | 0.93%   |
-| SteelSeries ApS SteelSeries Siberia 350                             | 1         | 0.93%   |
-| Nvidia TU104 HD Audio Controller                                    | 1         | 0.93%   |
-| Nvidia GP107GL High Definition Audio Controller                     | 1         | 0.93%   |
-| Nvidia GA104 High Definition Audio Controller                       | 1         | 0.93%   |
-| Lenovo ThinkPad Thunderbolt 3 Dock Audio                            | 1         | 0.93%   |
-| Lenovo ThinkPad Dock Audio                                          | 1         | 0.93%   |
-| Lenovo Realtek USB Audio                                            | 1         | 0.93%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1         | 0.93%   |
-| Intel Jasper Lake HD Audio                                          | 1         | 0.93%   |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller           | 1         | 0.93%   |
-| Intel Haswell-ULT HD Audio Controller                               | 1         | 0.93%   |
-| Intel CM238 HD Audio Controller                                     | 1         | 0.93%   |
-| Intel Cannon Point-LP High Definition Audio Controller              | 1         | 0.93%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller   | 1         | 0.93%   |
-| Intel 8 Series HD Audio Controller                                  | 1         | 0.93%   |
-| CMX Systems USB PnP Audio Device                                    | 1         | 0.93%   |
-| AMD Wrestler HDMI Audio                                             | 1         | 0.93%   |
-| AMD SBx00 Azalia (Intel HDA)                                        | 1         | 0.93%   |
-| AMD Navi 21/23 HDMI/DP Audio Controller                             | 1         | 0.93%   |
-| Unknown                                                             | 1         | 0.93%   |
+| AMD Family 17h/19h HD Audio Controller                              | 17        | 15.6%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller | 8         | 7.34%   |
+| Intel Comet Lake PCH cAVS                                           | 7         | 6.42%   |
+| AMD Renoir Radeon High Definition Audio Controller                  | 7         | 6.42%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                 | 7         | 6.42%   |
+| Intel Comet Lake PCH-LP cAVS                                        | 6         | 5.5%    |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller      | 5         | 4.59%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller         | 5         | 4.59%   |
+| Intel Sunrise Point-LP HD Audio                                     | 3         | 2.75%   |
+| Intel Cannon Lake PCH cAVS                                          | 3         | 2.75%   |
+| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]           | 3         | 2.75%   |
+| Nvidia TU116 High Definition Audio Controller                       | 2         | 1.83%   |
+| Nvidia GK107 HDMI Audio Controller                                  | 2         | 1.83%   |
+| Intel Wildcat Point-LP High Definition Audio Controller             | 2         | 1.83%   |
+| Intel Tiger Lake-H HD Audio Controller                              | 2         | 1.83%   |
+| Intel Broadwell-U Audio Controller                                  | 2         | 1.83%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller | 2         | 1.83%   |
+| AMD Rembrandt Radeon High Definition Audio Controller               | 2         | 1.83%   |
+| AMD Navi 10 HDMI Audio                                              | 2         | 1.83%   |
+| Texas Instruments PCM2706 stereo audio DAC                          | 1         | 0.92%   |
+| SteelSeries ApS SteelSeries Siberia 350                             | 1         | 0.92%   |
+| Nvidia TU104 HD Audio Controller                                    | 1         | 0.92%   |
+| Nvidia GP107GL High Definition Audio Controller                     | 1         | 0.92%   |
+| Nvidia GA104 High Definition Audio Controller                       | 1         | 0.92%   |
+| Lenovo ThinkPad Thunderbolt 3 Dock Audio                            | 1         | 0.92%   |
+| Lenovo ThinkPad Dock Audio                                          | 1         | 0.92%   |
+| Lenovo Realtek USB Audio                                            | 1         | 0.92%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller    | 1         | 0.92%   |
+| Intel Jasper Lake HD Audio                                          | 1         | 0.92%   |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller           | 1         | 0.92%   |
+| Intel Haswell-ULT HD Audio Controller                               | 1         | 0.92%   |
+| Intel CM238 HD Audio Controller                                     | 1         | 0.92%   |
+| Intel Cannon Point-LP High Definition Audio Controller              | 1         | 0.92%   |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller   | 1         | 0.92%   |
+| Intel 8 Series HD Audio Controller                                  | 1         | 0.92%   |
+| CMX Systems USB PnP Audio Device                                    | 1         | 0.92%   |
+| C-Media Electronics USB Audio Class 1.0 and 2.0 Device              | 1         | 0.92%   |
+| AMD Wrestler HDMI Audio                                             | 1         | 0.92%   |
+| AMD SBx00 Azalia (Intel HDA)                                        | 1         | 0.92%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                             | 1         | 0.92%   |
 
 Memory
 ------
@@ -2208,7 +2211,7 @@ Camera device vendors
 | IMC Networks                           | 10        | 16.95%  |
 | Realtek Semiconductor                  | 6         | 10.17%  |
 | Lite-On Technology                     | 5         | 8.47%   |
-| Acer                                   | 5         | 8.47%   |
+| Bison Electronics                      | 5         | 8.47%   |
 | Microdia                               | 4         | 6.78%   |
 | Sunplus Innovation Technology          | 3         | 5.08%   |
 | Logitech                               | 3         | 5.08%   |
@@ -2232,15 +2235,15 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                                               | 3         | 5%      |
 | Lite-On Integrated Camera                                                  | 3         | 5%      |
 | Chicony Integrated HP HD Webcam                                            | 3         | 5%      |
-| Acer Integrated Camera                                                     | 3         | 5%      |
+| Bison Integrated Camera                                                    | 3         | 5%      |
 | Realtek Laptop Camera                                                      | 2         | 3.33%   |
 | Realtek Integrated_Webcam_HD                                               | 2         | 3.33%   |
 | Microdia Integrated Webcam                                                 | 2         | 3.33%   |
 | Logitech Webcam C270                                                       | 2         | 3.33%   |
 | Lite-On HP HD Camera                                                       | 2         | 3.33%   |
 | Chicony ThinkPad T490 Webcam                                               | 2         | 3.33%   |
+| Bison HD Webcam                                                            | 2         | 3.33%   |
 | Apple FaceTime HD Camera (Built-in)                                        | 2         | 3.33%   |
-| Acer HD Webcam                                                             | 2         | 3.33%   |
 | Syntek Lenovo EasyCamera                                                   | 1         | 1.67%   |
 | Syntek Integrated Camera                                                   | 1         | 1.67%   |
 | SunplusIT XiaoMi USB 2.0 Webcam                                            | 1         | 1.67%   |

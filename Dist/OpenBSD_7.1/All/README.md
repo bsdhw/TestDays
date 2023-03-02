@@ -179,7 +179,7 @@ Total: 101
 | Dell          | XPS 13 9360                 | Notebook    | [1d342196fb](https://bsd-hardware.info/?probe=1d342196fb) | Aug 08, 2022 |
 | Biostar       | TA880GU3+                   | Desktop     | [8b0c8541b3](https://bsd-hardware.info/?probe=8b0c8541b3) | Aug 06, 2022 |
 | ASRock        | A320M-DVS R4.0              | Desktop     | [77f61a8711](https://bsd-hardware.info/?probe=77f61a8711) | Aug 01, 2022 |
-| Intel         | NUC5PPYB                    | Mini pc     | [d9a4a9745d](https://bsd-hardware.info/?probe=d9a4a9745d) | Jul 28, 2022 |
+| Intel         | NUC5PPYB H76558-102         | Mini pc     | [d9a4a9745d](https://bsd-hardware.info/?probe=d9a4a9745d) | Jul 28, 2022 |
 | Gigabyte      | H87-HD3                     | Desktop     | [e6a9b0dd8b](https://bsd-hardware.info/?probe=e6a9b0dd8b) | Jul 25, 2022 |
 | Lenovo        | ThinkPad X200 7458NP9       | Notebook    | [4192abf903](https://bsd-hardware.info/?probe=4192abf903) | Jul 20, 2022 |
 | ASUSTek       | M4A785TD-M EVO              | Desktop     | [def87ec245](https://bsd-hardware.info/?probe=def87ec245) | Jul 18, 2022 |
@@ -2284,7 +2284,7 @@ Camera device vendors
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
 | Chicony Electronics                    | 12        | 42.86%  |
-| Acer                                   | 4         | 14.29%  |
+| Bison Electronics                      | 4         | 14.29%  |
 | Ricoh                                  | 2         | 7.14%   |
 | Realtek Semiconductor                  | 2         | 7.14%   |
 | Tripath Technology                     | 1         | 3.57%   |
@@ -2320,15 +2320,15 @@ Camera device models
 | Denron Corp., 2M Front Camera                                              | 1         | 3.57%   |
 | Chicony Lenovo Integrated Camera UVC                                       | 1         | 3.57%   |
 | Chicony Lenovo Integrated Camera (0.3MP)                                   | 1         | 3.57%   |
-| Chicony HD Webcam                                                          | 1         | 3.57%   |
+| Chicony Integrated IR Camera                                               | 1         | 3.57%   |
 | Chicony FJ Camera                                                          | 1         | 3.57%   |
 | Chicony 2.0M UVC Webcam / CNF7129                                          | 1         | 3.57%   |
 | Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 3.57%   |
+| Bison Integrated Camera                                                    | 1         | 3.57%   |
+| Bison HD Webcam                                                            | 1         | 3.57%   |
+| Bison EasyCamera                                                           | 1         | 3.57%   |
+| Bison BisonCam, NB Pro                                                     | 1         | 3.57%   |
 | Alcor Micro ASUS USB2.0 WebCam                                             | 1         | 3.57%   |
-| Acer Integrated Camera                                                     | 1         | 3.57%   |
-| Acer HD Webcam                                                             | 1         | 3.57%   |
-| Acer EasyCamera                                                            | 1         | 3.57%   |
-| Acer BisonCam, NB Pro                                                      | 1         | 3.57%   |
 
 Security
 --------

@@ -2292,7 +2292,7 @@ Camera device vendors
 | Vendor                | Computers | Percent |
 |-----------------------|-----------|---------|
 | Chicony Electronics   | 11        | 32.35%  |
-| Acer                  | 6         | 17.65%  |
+| Bison Electronics     | 6         | 17.65%  |
 | IMC Networks          | 3         | 8.82%   |
 | Suyin                 | 2         | 5.88%   |
 | Quanta                | 2         | 5.88%   |
@@ -2318,8 +2318,8 @@ Camera device models
 | Chicony Integrated Camera                | 4         | 11.76%  |
 | Lite-On Integrated Camera                | 2         | 5.88%   |
 | Chicony VGA Webcam                       | 2         | 5.88%   |
-| Acer Integrated Camera                   | 2         | 5.88%   |
-| Acer EasyCamera                          | 2         | 5.88%   |
+| Bison Integrated Camera                  | 2         | 5.88%   |
+| Bison EasyCamera                         | 2         | 5.88%   |
 | Syntek Lenovo EasyCamera                 | 1         | 2.94%   |
 | Suyin Asus Integrated Webcam             | 1         | 2.94%   |
 | Suyin Acer/Lenovo Webcam [CN0316]        | 1         | 2.94%   |
@@ -2340,8 +2340,8 @@ Camera device models
 | Chicony Integrated Camera [ThinkPad]     | 1         | 2.94%   |
 | Chicony HD Webcam                        | 1         | 2.94%   |
 | Chicony 2.0M UVC Webcam / CNF7129        | 1         | 2.94%   |
-| Acer SunplusIT Integrated Camera         | 1         | 2.94%   |
-| Acer Lenovo Integrated Webcam            | 1         | 2.94%   |
+| Bison SunplusIT Integrated Camera        | 1         | 2.94%   |
+| Bison Lenovo Integrated Webcam           | 1         | 2.94%   |
 
 Security
 --------

@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 16GB                         | 2         | 3.39%   |
+| SanDisk pSSD 32GB                         | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |
@@ -1966,7 +1966,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s        | 3         | 4.92%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s        | 2         | 3.28%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s                 | 2         | 3.28%   |
-| Micron RAM ITC 4096MB DIMM DDR3 1066MT/s                      | 2         | 3.28%   |
+| Micron RAM ITC 4GB DIMM DDR3 1066MT/s                         | 2         | 3.28%   |
 | Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                     | 1         | 1.64%   |
 | Unknown SODIMM 1024MB SODIMM DDR2 667MT/s                     | 1         | 1.64%   |
 | Unknown RAM Module 512MB SODIMM SDRAM                         | 1         | 1.64%   |
@@ -1974,7 +1974,7 @@ Memory module models
 | Unknown RAM Module 128MB SODIMM SDRAM                         | 1         | 1.64%   |
 | Unknown RAM Module 1024MB SODIMM RAM                          | 1         | 1.64%   |
 | Unknown RAM Module 1024MB DIMM DDR2 533MT/s                   | 1         | 1.64%   |
-| SK hynix RAM HMT125U6AFP8C-G7 2048MB DIMM DDR3 1066MT/s       | 1         | 1.64%   |
+| SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s          | 1         | 1.64%   |
 | SK hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.64%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.64%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
@@ -1986,7 +1986,7 @@ Memory module models
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5173DB0-YK0 4096MB SODIMM DDR3 1600MT/s      | 1         | 1.64%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
@@ -2146,8 +2146,8 @@ Camera device vendors
 | Novatek Microelectronics               | 1         | 3.13%   |
 | Microdia                               | 1         | 3.13%   |
 | Lite-On Technology                     | 1         | 3.13%   |
+| Bison Electronics                      | 1         | 3.13%   |
 | Apple                                  | 1         | 3.13%   |
-| Acer                                   | 1         | 3.13%   |
 
 Camera Model
 ------------
@@ -2184,8 +2184,8 @@ Camera device models
 | Chicony Integrated Camera [ThinkPad]                | 1         | 3.03%   |
 | Chicony Integrated Camera (1280x720@30)             | 1         | 3.03%   |
 | Chicony HD WebCam                                   | 1         | 3.03%   |
+| Bison NEC HD WebCam                                 | 1         | 3.03%   |
 | Apple FaceTime HD Camera                            | 1         | 3.03%   |
-| Acer NEC HD WebCam                                  | 1         | 3.03%   |
 
 Security
 --------

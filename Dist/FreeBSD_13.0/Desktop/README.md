@@ -2137,7 +2137,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2        | 2.47%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2        | 2.47%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2        | 2.47%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2        | 2.47%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.47%   |
 | Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s | 2        | 2.47%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 2        | 2.47%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.23%   |

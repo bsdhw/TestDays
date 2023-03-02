@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 2        | 1%      |
 | Seagate ST1000DM003-1ER162 1TB      | 2        | 1%      |
 | SanDisk SDSSDA240G 240GB            | 2        | 1%      |
-| SanDisk pSSD 16GB                   | 2        | 1%      |
+| SanDisk pSSD 32GB                   | 2        | 1%      |
 | Samsung SSD 960 EVO 500GB           | 2        | 1%      |
 | Samsung SSD 960 EVO 250GB           | 2        | 1%      |
 | Samsung SSD 840 EVO 1TB             | 2        | 1%      |
@@ -2073,48 +2073,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 1.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 4GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s       | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s                 | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                            | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1        | 0.84%   |
-| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                     | 1        | 0.84%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1        | 0.84%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s           | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s   | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s              | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                     | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 3        | 2.52%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2        | 1.68%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 1.68%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s               | 2        | 1.68%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2        | 1.68%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2        | 1.68%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2        | 1.68%   |
+| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2        | 1.68%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2        | 1.68%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s                    | 2        | 1.68%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR2                               | 1        | 0.84%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                     | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
+| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s             | 1        | 0.84%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1        | 0.84%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s      | 1        | 0.84%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s                 | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                        | 1        | 0.84%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s               | 1        | 0.84%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 0.84%   |
 
 Memory Kind
 -----------

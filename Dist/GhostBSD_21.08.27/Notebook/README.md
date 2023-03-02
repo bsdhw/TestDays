@@ -1827,7 +1827,7 @@ Camera device vendors
 | Quanta                | 3         | 17.65%  |
 | IMC Networks          | 3         | 17.65%  |
 | Microdia              | 2         | 11.76%  |
-| Acer                  | 2         | 11.76%  |
+| Bison Electronics     | 2         | 11.76%  |
 
 Camera Model
 ------------
@@ -1853,8 +1853,8 @@ Camera device models
 | Chicony Integrated Camera            | 1         | 5.88%   |
 | Chicony HP HD Camera                 | 1         | 5.88%   |
 | Chicony HD WebCam                    | 1         | 5.88%   |
-| Acer Lenovo EasyCamera               | 1         | 5.88%   |
-| Acer Integrated Camera               | 1         | 5.88%   |
+| Bison Lenovo EasyCamera              | 1         | 5.88%   |
+| Bison Integrated Camera              | 1         | 5.88%   |
 
 Security
 --------
