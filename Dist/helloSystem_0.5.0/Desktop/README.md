@@ -546,13 +546,13 @@ Motherboard manufacture year
 | 2018 | 13       | 11.3%   |
 | 2013 | 13       | 11.3%   |
 | 2010 | 8        | 6.96%   |
-| 2014 | 6        | 5.22%   |
+| 2014 | 7        | 6.09%   |
 | 2011 | 6        | 5.22%   |
 | 2021 | 5        | 4.35%   |
 | 2017 | 4        | 3.48%   |
-| 2015 | 4        | 3.48%   |
 | 2008 | 4        | 3.48%   |
 | 2016 | 3        | 2.61%   |
+| 2015 | 3        | 2.61%   |
 | 2009 | 2        | 1.74%   |
 | 2007 | 1        | 0.87%   |
 
@@ -894,14 +894,15 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 37       | 54     | 36.63%  |
-| Seagate             | 34       | 56     | 33.66%  |
-| Samsung Electronics | 10       | 12     | 9.9%    |
-| Hitachi             | 7        | 8      | 6.93%   |
-| Toshiba             | 5        | 5      | 4.95%   |
-| HGST                | 5        | 5      | 4.95%   |
-| Fujitsu             | 2        | 3      | 1.98%   |
-| CLOVER              | 1        | 1      | 0.99%   |
+| WDC                 | 37       | 54     | 36.27%  |
+| Seagate             | 34       | 56     | 33.33%  |
+| Samsung Electronics | 10       | 12     | 9.8%    |
+| Hitachi             | 7        | 8      | 6.86%   |
+| Toshiba             | 5        | 5      | 4.9%    |
+| HGST                | 5        | 5      | 4.9%    |
+| Fujitsu             | 2        | 3      | 1.96%   |
+| LSI                 | 1        | 1      | 0.98%   |
+| CLOVER              | 1        | 1      | 0.98%   |
 
 SSD Vendor
 ----------
@@ -913,26 +914,25 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 14       | 19     | 23.73%  |
-| Kingston            | 7        | 7      | 11.86%  |
-| SanDisk             | 6        | 7      | 10.17%  |
-| WDC                 | 4        | 5      | 6.78%   |
-| Intel               | 3        | 3      | 5.08%   |
-| Crucial             | 3        | 5      | 5.08%   |
-| Apple               | 3        | 3      | 5.08%   |
-| A-DATA Technology   | 3        | 3      | 5.08%   |
-| Toshiba             | 2        | 3      | 3.39%   |
-| SPCC                | 2        | 3      | 3.39%   |
-| PNY                 | 2        | 8      | 3.39%   |
-| Apacer              | 2        | 2      | 3.39%   |
-| Transcend           | 1        | 1      | 1.69%   |
-| Patriot             | 1        | 1      | 1.69%   |
-| ORICO               | 1        | 2      | 1.69%   |
-| LSI                 | 1        | 1      | 1.69%   |
-| LITEON              | 1        | 1      | 1.69%   |
-| Lenovo              | 1        | 1      | 1.69%   |
-| KingSpec            | 1        | 1      | 1.69%   |
-| Emtec               | 1        | 1      | 1.69%   |
+| Samsung Electronics | 14       | 19     | 24.14%  |
+| Kingston            | 7        | 7      | 12.07%  |
+| SanDisk             | 6        | 7      | 10.34%  |
+| WDC                 | 4        | 5      | 6.9%    |
+| Intel               | 3        | 3      | 5.17%   |
+| Crucial             | 3        | 5      | 5.17%   |
+| Apple               | 3        | 3      | 5.17%   |
+| A-DATA Technology   | 3        | 3      | 5.17%   |
+| Toshiba             | 2        | 3      | 3.45%   |
+| SPCC                | 2        | 3      | 3.45%   |
+| PNY                 | 2        | 8      | 3.45%   |
+| Apacer              | 2        | 2      | 3.45%   |
+| Transcend           | 1        | 1      | 1.72%   |
+| Patriot             | 1        | 1      | 1.72%   |
+| ORICO               | 1        | 2      | 1.72%   |
+| LITEON              | 1        | 1      | 1.72%   |
+| Lenovo              | 1        | 1      | 1.72%   |
+| KingSpec            | 1        | 1      | 1.72%   |
+| Emtec               | 1        | 1      | 1.72%   |
 
 Drive Kind
 ----------
@@ -944,8 +944,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 81       | 144    | 51.92%  |
-| SSD  | 49       | 77     | 31.41%  |
+| HDD  | 81       | 145    | 51.92%  |
+| SSD  | 49       | 76     | 31.41%  |
 | NVMe | 26       | 33     | 16.67%  |
 
 Drive Connector
@@ -971,12 +971,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 88       | 145    | 61.97%  |
-| 0.51-1.0   | 33       | 45     | 23.24%  |
-| 1.01-2.0   | 10       | 14     | 7.04%   |
-| 3.01-4.0   | 5        | 6      | 3.52%   |
-| 2.01-3.0   | 3        | 6      | 2.11%   |
-| 4.01-10.0  | 3        | 5      | 2.11%   |
+| 0.01-0.5   | 88       | 144    | 61.54%  |
+| 0.51-1.0   | 34       | 46     | 23.78%  |
+| 1.01-2.0   | 10       | 14     | 6.99%   |
+| 3.01-4.0   | 5        | 6      | 3.5%    |
+| 2.01-3.0   | 3        | 6      | 2.1%    |
+| 4.01-10.0  | 3        | 5      | 2.1%    |
 
 Space Total
 -----------
@@ -1238,12 +1238,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 89       | 54.6%   |
-| IDE  | 31       | 19.02%  |
-| NVMe | 26       | 15.95%  |
-| RAID | 10       | 6.13%   |
-| SAS  | 4        | 2.45%   |
-| SCSI | 3        | 1.84%   |
+| SATA | 89       | 54.94%  |
+| IDE  | 31       | 19.14%  |
+| NVMe | 26       | 16.05%  |
+| RAID | 9        | 5.56%   |
+| SAS  | 4        | 2.47%   |
+| SCSI | 3        | 1.85%   |
 
 Processor
 ---------
@@ -2089,7 +2089,7 @@ Controller models
 | Intel AX200 Bluetooth                                   | 3        | 10.71%  |
 | Realtek  Bluetooth 4.2 Adapter                          | 2        | 7.14%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                      | 2        | 7.14%   |
-| Realtek  Bluetooth Adapter                              | 1        | 3.57%   |
+| Realtek Bluetooth Adapter                               | 1        | 3.57%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0                   | 1        | 3.57%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                | 1        | 3.57%   |
 | Intel Wireless-AC 3168 Bluetooth                        | 1        | 3.57%   |
@@ -2423,11 +2423,11 @@ Camera device models
 
 | Model                                             | Desktops | Percent |
 |---------------------------------------------------|----------|---------|
-| Microdia ASUS USB2.0 Webcam                       | 1        | 14.29%  |
+| Microdia ASUS USB 2.0 Webcam                      | 1        | 14.29%  |
 | Logitech Webcam C270                              | 1        | 14.29%  |
 | HP Premium Starter Webcam                         | 1        | 14.29%  |
 | HD WEBCAM HD WEBCAM                               | 1        | 14.29%  |
-| Generalplus GENERAL WEBCAM                        | 1        | 14.29%  |
+| Generalplus HD Webcam                             | 1        | 14.29%  |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311] | 1        | 14.29%  |
 | A4Tech A4tech FHD 1080P PC Camera                 | 1        | 14.29%  |
 

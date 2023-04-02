@@ -1796,9 +1796,9 @@ Controller models
 | Intel AX200 Bluetooth                            | 2         | 6.25%   |
 | Broadcom BCM2045B (BDC-2.1)                      | 2         | 6.25%   |
 | Alps Electric UGTZ4 Bluetooth                    | 2         | 6.25%   |
-| Realtek  Bluetooth 4.2 Adapter                   | 1         | 3.13%   |
-| Realtek  Bluetooth 4.0 Adapter                   | 1         | 3.13%   |
-| Qualcomm Atheros  QCA9377 Bluetooth 4.1          | 1         | 3.13%   |
+| Realtek Bluetooth 4.2 Adapter                    | 1         | 3.13%   |
+| Realtek Bluetooth 4.0 Adapter                    | 1         | 3.13%   |
+| Qualcomm Atheros QCA9377 Bluetooth 4.1           | 1         | 3.13%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0            | 1         | 3.13%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter         | 1         | 3.13%   |
 | Intel Wireless-AC 3168 Bluetooth                 | 1         | 3.13%   |
@@ -1807,8 +1807,8 @@ Controller models
 | Creative Creative Bluetooth Audio W2             | 1         | 3.13%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]       | 1         | 3.13%   |
 | ASUS Broadcom Bluetooth 2.1                      | 1         | 3.13%   |
+| Apple Broadcom Built-in Bluetooth                | 1         | 3.13%   |
 | Apple Bluetooth Host Controller                  | 1         | 3.13%   |
-| Apple Apple Broadcom Built-in Bluetooth          | 1         | 3.13%   |
 | Alps Electric BCM2046 Bluetooth Device           | 1         | 3.13%   |
 
 Sound
@@ -2044,7 +2044,7 @@ Camera device models
 | Syntek Lenovo EasyCamera                 | 1         | 3.03%   |
 | Suyin Asus Integrated Webcam             | 1         | 3.03%   |
 | Suyin Acer/Lenovo Webcam [CN0316]        | 1         | 3.03%   |
-| Silicon Motion Realtek USB2.0 PC Camera  | 1         | 3.03%   |
+| Silicon Motion Realtek USB 2.0 PC Camera | 1         | 3.03%   |
 | Ricoh Sony Visual Communication Camera   | 1         | 3.03%   |
 | Realtek Integrated_Webcam_HD             | 1         | 3.03%   |
 | Quanta HP Webcam-50                      | 1         | 3.03%   |
@@ -2096,10 +2096,10 @@ Fingerprint sensor models
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 2         | 20%     |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 2         | 20%     |
 | Validity Sensors VFS 5011 fingerprint sensor           | 1         | 10%     |
-| Synaptics product 0x00be                               | 1         | 10%     |
+| Synaptics WBDI                                         | 1         | 10%     |
 | Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 10%     |
 | STMicroelectronics Fingerprint Reader                  | 1         | 10%     |
-| Elan ELAN WBF Fingerprint Sensor                       | 1         | 10%     |
+| Elan Fingerprint Sensor                                | 1         | 10%     |
 | AuthenTec AES2810                                      | 1         | 10%     |
 
 Chipcard Vendor

@@ -729,7 +729,7 @@ Hard drive models
 | NVMe WDS500G3X0C-00SJ 500GB                          | 1        | 1.96%   |
 | NVMe WDC WDS100T2B0C- 1TB                            | 1        | 1.96%   |
 | NVMe TOSHIBA-RC100 240GB                             | 1        | 1.96%   |
-| NVMe Samsung SSD 980 1TB                             | 1        | 1.96%   |
+| NVMe Samsung SSD 980 500GB                           | 1        | 1.96%   |
 | NVMe Samsung SSD 970 250GB                           | 1        | 1.96%   |
 | NVMe PCIe SSD 512GB                                  | 1        | 1.96%   |
 | Maxtor 6Y160P0 160GB                                 | 1        | 1.96%   |
@@ -821,10 +821,10 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 27       | 39     | 69.23%  |
-| 0.51-1.0   | 8        | 10     | 20.51%  |
-| 1.01-2.0   | 3        | 8      | 7.69%   |
-| 4.01-10.0  | 1        | 1      | 2.56%   |
+| 0.01-0.5   | 27       | 40     | 71.05%  |
+| 0.51-1.0   | 7        | 9      | 18.42%  |
+| 1.01-2.0   | 3        | 8      | 7.89%   |
+| 4.01-10.0  | 1        | 1      | 2.63%   |
 
 Space Total
 -----------

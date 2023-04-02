@@ -1038,12 +1038,12 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                           | 9         | 11.11%  |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 5         | 6.17%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]              | 4         | 4.94%   |
-| Unknown                                                                       | 4         | 4.94%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 3         | 3.7%    |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 3         | 3.7%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                  | 3         | 3.7%    |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                    | 2         | 2.47%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 2         | 2.47%   |
+| Micron/Crucial NVMe Storage Controller                                        | 2         | 2.47%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]         | 2         | 2.47%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                 | 2         | 2.47%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                              | 2         | 2.47%   |
@@ -1051,6 +1051,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                              | 2         | 2.47%   |
 | ASMedia ASM1062 Serial ATA Controller                                         | 2         | 2.47%   |
 | AMD 500 Series Chipset SATA Controller                                        | 2         | 2.47%   |
+| Unknown                                                                       | 2         | 2.47%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 1.23%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 1.23%   |
 | Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
@@ -1062,7 +1063,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 1.23%   |
 | Samsung Apple PCIe SSD                                                        | 1         | 1.23%   |
 | Micron/Crucial P1 NVMe PCIe SSD                                               | 1         | 1.23%   |
-| Micron/Crucial NVMe Controller                                                | 1         | 1.23%   |
+| Micron NVMe Storage Controller                                                | 1         | 1.23%   |
 | Kingston Company A2000 NVMe SSD                                               | 1         | 1.23%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 1.23%   |
 | Intel SSD 660P Series                                                         | 1         | 1.23%   |
@@ -1074,7 +1075,6 @@ Storage controller models
 | Intel C602 chipset 4-Port SATA Storage Control Unit                           | 1         | 1.23%   |
 | Intel C600/X79 series chipset SATA RAID Controller                            | 1         | 1.23%   |
 | Intel C600/X79 series chipset IDE-r Controller                                | 1         | 1.23%   |
-| Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                    | 1         | 1.23%   |
 
 Storage Kind
 ------------
@@ -1902,12 +1902,13 @@ Controller models
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
 | Intel Bluetooth wireless interface                  | 7         | 20.59%  |
-| Realtek  Bluetooth 4.2 Adapter                      | 2         | 5.88%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 5.88%   |
 | Intel AX201 Bluetooth                               | 2         | 5.88%   |
 | Intel AX200 Bluetooth                               | 2         | 5.88%   |
-| Realtek  Bluetooth 4.0 Adapter                      | 1         | 2.94%   |
-| Realtek  Bluetooth 4.0 + High Speed Chip            | 1         | 2.94%   |
+| Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.94%   |
+| Realtek Bluetooth 4.2 Adapter                       | 1         | 2.94%   |
+| Realtek Bluetooth 4.0 Adapter                       | 1         | 2.94%   |
+| Realtek Bluetooth 4.0 + High Speed Chip             | 1         | 2.94%   |
 | Qualcomm Atheros Dell Wireless 1820 Bluetooth 4.1LE | 1         | 2.94%   |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.94%   |
 | Lite-On Atheros Bluetooth                           | 1         | 2.94%   |
@@ -1916,15 +1917,15 @@ Controller models
 | IMC Networks Realtek Bluetooth Adapter              | 1         | 2.94%   |
 | Foxconn / Hon Hai Bluetooth USB Module              | 1         | 2.94%   |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 2.94%   |
-| Broadcom Broadcom Bluetooth 4.0                     | 1         | 2.94%   |
+| Broadcom Bluetooth 4.0                              | 1         | 2.94%   |
 | Broadcom BCM43142A0 Bluetooth Device                | 1         | 2.94%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 2.94%   |
 | Broadcom BCM2045 Bluetooth                          | 1         | 2.94%   |
+| ASUS USB-BT500                                      | 1         | 2.94%   |
 | ASUS BT-183 Bluetooth 2.0+EDR adapter               | 1         | 2.94%   |
 | ASUS Bluetooth Controller                           | 1         | 2.94%   |
-| ASUS ASUS USB-BT500                                 | 1         | 2.94%   |
+| Apple Broadcom Built-in Bluetooth                   | 1         | 2.94%   |
 | Apple Bluetooth Host Controller                     | 1         | 2.94%   |
-| Apple Apple Broadcom Built-in Bluetooth             | 1         | 2.94%   |
 
 Sound
 -----
@@ -1978,13 +1979,13 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                      | 2         | 2.13%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                      | 2         | 2.13%   |
 | Intel 200 Series PCH HD Audio                                       | 2         | 2.13%   |
-| Corsair Corsair VOID PRO Wireless Gaming Headset                    | 2         | 2.13%   |
+| Corsair VOID PRO Wireless Gaming Headset                            | 2         | 2.13%   |
 | AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                    | 2         | 2.13%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                             | 2         | 2.13%   |
 | XMOS Shanling UA2                                                   | 1         | 1.06%   |
 | VIA Technologies VX900/VT8xxx High Definition Audio Controller      | 1         | 1.06%   |
-| Sony Sony Audio                                                     | 1         | 1.06%   |
 | Sony DualShock 4 [CUH-ZCT2x]                                        | 1         | 1.06%   |
+| Sony Audio                                                          | 1         | 1.06%   |
 | Quanta USB Audio Realtek USB2.0 Audio Microphone                    | 1         | 1.06%   |
 | Nvidia TU116 High Definition Audio Controller                       | 1         | 1.06%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller      | 1         | 1.06%   |
@@ -2238,8 +2239,7 @@ Camera device models
 |----------------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                                      | 3         | 10.71%  |
 | Bison Integrated Camera                                        | 3         | 10.71%  |
-| Quanta Realtek DMFT - RGB                                      | 2         | 7.14%   |
-| Chicony Chicony USB2.0 Camera                                  | 2         | 7.14%   |
+| Quanta Realtek DMFT RGB                                        | 2         | 7.14%   |
 | Suyin USB 2.0 UVC 1.3M WebCam                                  | 1         | 3.57%   |
 | Sunplus Integrated Webcam                                      | 1         | 3.57%   |
 | Realtek USB2.0 VGA UVC WebCam                                  | 1         | 3.57%   |
@@ -2249,11 +2249,13 @@ Camera device models
 | Lite-On Realtek PC Camera                                      | 1         | 3.57%   |
 | Lite-On HP Universal Camera                                    | 1         | 3.57%   |
 | Intel WiMAX Connection 2400m                                   | 1         | 3.57%   |
-| IMC Networks USB2.0 UVC HD Webcam                              | 1         | 3.57%   |
-| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 3.57%   |
+| IMC Networks USB 2.0 UVC HD Webcam                             | 1         | 3.57%   |
+| IMC Networks Realtek PC Camera                                 | 1         | 3.57%   |
 | IMC Networks EasyCamera                                        | 1         | 3.57%   |
+| Chicony Realtek DMFT RGB                                       | 1         | 3.57%   |
 | Chicony Integrated IR Camera                                   | 1         | 3.57%   |
 | Chicony HP HD Webcam [Fixed]                                   | 1         | 3.57%   |
+| Chicony Chicony USB2.0 Camera                                  | 1         | 3.57%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 3.57%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Camera            | 1         | 3.57%   |
 | Bison Lenovo EasyCamera                                        | 1         | 3.57%   |

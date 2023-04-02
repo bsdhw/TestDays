@@ -919,6 +919,7 @@ Storage controller models
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 2         | 5.71%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1         | 2.86%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                  | 1         | 2.86%   |
+| Kingston Company NVMe Controller                                                 | 1         | 2.86%   |
 | JMicron JMB368 IDE controller                                                    | 1         | 2.86%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1         | 2.86%   |
 | Intel SATA Controller [RAID mode]                                                | 1         | 2.86%   |
@@ -936,7 +937,6 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 1         | 2.86%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 1         | 2.86%   |
 | AMD AMD-8111 IDE                                                                 | 1         | 2.86%   |
-| Unknown                                                                          | 1         | 2.86%   |
 
 Storage Kind
 ------------
@@ -1538,32 +1538,32 @@ Memory module models
 ![Memory Model](./All/images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM SDRAM                              | 2         | 7.41%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 2         | 7.41%   |
-| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s          | 2         | 7.41%   |
-| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s                | 1         | 3.7%    |
-| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s               | 1         | 3.7%    |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                       | 1         | 3.7%    |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                         | 1         | 3.7%    |
-| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                     | 1         | 3.7%    |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 1         | 3.7%    |
-| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s             | 1         | 3.7%    |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s                 | 1         | 3.7%    |
-| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                        | 1         | 3.7%    |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1         | 3.7%    |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s             | 1         | 3.7%    |
-| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s               | 1         | 3.7%    |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1         | 3.7%    |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1         | 3.7%    |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s                | 1         | 3.7%    |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s               | 1         | 3.7%    |
-| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s             | 1         | 3.7%    |
-| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s            | 1         | 3.7%    |
-| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s             | 1         | 3.7%    |
-| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s             | 1         | 3.7%    |
-| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s             | 1         | 3.7%    |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 2         | 7.41%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2         | 7.41%   |
+| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s       | 2         | 7.41%   |
+| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s             | 1         | 3.7%    |
+| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s            | 1         | 3.7%    |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 3.7%    |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                      | 1         | 3.7%    |
+| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                  | 1         | 3.7%    |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1         | 3.7%    |
+| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s          | 1         | 3.7%    |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s              | 1         | 3.7%    |
+| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                     | 1         | 3.7%    |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1         | 3.7%    |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 3.7%    |
+| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.7%    |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1         | 3.7%    |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.7%    |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s             | 1         | 3.7%    |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s            | 1         | 3.7%    |
+| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s          | 1         | 3.7%    |
+| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s         | 1         | 3.7%    |
+| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s          | 1         | 3.7%    |
+| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s          | 1         | 3.7%    |
+| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s          | 1         | 3.7%    |
 
 Memory Kind
 -----------

@@ -238,7 +238,7 @@ Desktop Environment
 |--------------|-----------|---------|
 | Console      | 6         | 30%     |
 | XFCE         | 4         | 20%     |
-| ctwm         | 3         | 15%     |
+| CTWM         | 3         | 15%     |
 | Fluxbox      | 2         | 10%     |
 | MATE         | 1         | 5%      |
 | LXQt         | 1         | 5%      |
@@ -1302,7 +1302,7 @@ Controller models
 | Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Modem Controller                     | 1         | 2.56%   |
 | Intel 82801DB PRO/100 VE (MOB) Ethernet Controller                                    | 1         | 2.56%   |
 | Intel 82577LM Gigabit Network Connection                                              | 1         | 2.56%   |
-| Huawei USB Composite Device                                                           | 1         | 2.56%   |
+| Huawei USB Device                                                                     | 1         | 2.56%   |
 | D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]                  | 1         | 2.56%   |
 | Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                                       | 1         | 2.56%   |
 | Broadcom BCM43142 802.11b/g/n                                                         | 1         | 2.56%   |
@@ -1391,7 +1391,7 @@ Ethernet models
 | Intel Ethernet Connection I218-LM                                 | 1         | 5.56%   |
 | Intel 82801DB PRO/100 VE (MOB) Ethernet Controller                | 1         | 5.56%   |
 | Intel 82577LM Gigabit Network Connection                          | 1         | 5.56%   |
-| Huawei USB Composite Device                                       | 1         | 5.56%   |
+| Huawei USB Device                                                 | 1         | 5.56%   |
 | Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1         | 5.56%   |
 
 Net Controller Kind

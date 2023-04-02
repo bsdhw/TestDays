@@ -472,15 +472,15 @@ Motherboard manufacture year
 | 2019 | 8        | 13.33%  |
 | 2010 | 7        | 11.67%  |
 | 2021 | 6        | 10%     |
-| 2015 | 6        | 10%     |
+| 2013 | 6        | 10%     |
 | 2016 | 5        | 8.33%   |
-| 2013 | 5        | 8.33%   |
 | 2012 | 5        | 8.33%   |
 | 2020 | 4        | 6.67%   |
 | 2018 | 4        | 6.67%   |
+| 2015 | 4        | 6.67%   |
 | 2017 | 3        | 5%      |
+| 2014 | 3        | 5%      |
 | 2011 | 3        | 5%      |
-| 2014 | 2        | 3.33%   |
 | 2009 | 1        | 1.67%   |
 | 2007 | 1        | 1.67%   |
 
@@ -1862,8 +1862,8 @@ Controller models
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 3        | 20%     |
 | Intel Wireless-AC 3168 Bluetooth                    | 2        | 13.33%  |
 | Apple Bluetooth Host Controller                     | 2        | 13.33%  |
-| Realtek  Bluetooth Adapter                          | 1        | 6.67%   |
-| Realtek  Bluetooth 4.0 Adapter                      | 1        | 6.67%   |
+| Realtek Bluetooth Adapter                           | 1        | 6.67%   |
+| Realtek Bluetooth 4.0 Adapter                       | 1        | 6.67%   |
 | Intel Bluetooth wireless interface                  | 1        | 6.67%   |
 | Intel AX200 Bluetooth                               | 1        | 6.67%   |
 | Foxconn / Hon Hai Broadcom BCM20702A1 Bluetooth     | 1        | 6.67%   |
@@ -1987,7 +1987,7 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown                                                 | 3        | 4.17%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.78%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s     | 2        | 2.78%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.78%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.78%   |
@@ -2003,7 +2003,7 @@ Memory module models
 | Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s       | 1        | 1.39%   |
 | Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s     | 1        | 1.39%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3             | 1        | 1.39%   |
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.39%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.39%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.39%   |
@@ -2070,9 +2070,9 @@ Memory module size
 |-------|----------|---------|
 | 4096  | 23       | 35.38%  |
 | 8192  | 20       | 30.77%  |
-| 16384 | 10       | 15.38%  |
 | 2048  | 10       | 15.38%  |
-| 32768 | 1        | 1.54%   |
+| 16384 | 8        | 12.31%  |
+| 32768 | 3        | 4.62%   |
 | 1024  | 1        | 1.54%   |
 
 Memory Speed

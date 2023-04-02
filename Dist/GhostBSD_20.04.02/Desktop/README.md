@@ -847,11 +847,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 35       | 49     | 53.85%  |
-| 0.51-1.0   | 17       | 28     | 26.15%  |
-| 1.01-2.0   | 8        | 10     | 12.31%  |
-| 3.01-4.0   | 3        | 3      | 4.62%   |
-| 4.01-10.0  | 2        | 6      | 3.08%   |
+| 0.01-0.5   | 35       | 49     | 53.03%  |
+| 0.51-1.0   | 17       | 27     | 25.76%  |
+| 1.01-2.0   | 8        | 10     | 12.12%  |
+| 3.01-4.0   | 4        | 4      | 6.06%   |
+| 4.01-10.0  | 2        | 6      | 3.03%   |
 
 Space Total
 -----------
@@ -1038,7 +1038,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.28%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.28%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.28%   |
-| Micron/Crucial NVMe Controller                                                          | 1        | 1.28%   |
+| Micron/Crucial NVMe Storage Controller                                                  | 1        | 1.28%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.28%   |
 | Kingston Company A2000 NVMe SSD                                                         | 1        | 1.28%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.28%   |
@@ -1618,7 +1618,7 @@ Controller models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                  | 2        | 3.13%   |
 | Intel Ethernet Connection (2) I219-V                              | 2        | 3.13%   |
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 3.13%   |
-| TP-Link TP-LINK Wireless USB Adapter                              | 1        | 1.56%   |
+| TP-Link Wireless USB Adapter                                      | 1        | 1.56%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 1        | 1.56%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 1        | 1.56%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 1.56%   |
@@ -1627,7 +1627,7 @@ Controller models
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.56%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 1.56%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 1.56%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 1.56%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 1.56%   |
 | Microchip HTC Hub Controller                                      | 1        | 1.56%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.56%   |
@@ -1674,7 +1674,7 @@ Wireless models
 |----------------------------------------------------------------|----------|---------|
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 3        | 21.43%  |
 | Qualcomm Atheros AR93xx Wireless Network Adapter               | 2        | 14.29%  |
-| TP-Link TP-LINK Wireless USB Adapter                           | 1        | 7.14%   |
+| TP-Link Wireless USB Adapter                                   | 1        | 7.14%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1        | 7.14%   |
 | Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter       | 1        | 7.14%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1        | 7.14%   |
@@ -1719,7 +1719,7 @@ Ethernet models
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 4.08%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 2.04%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2.04%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 2.04%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 2.04%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 2.04%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 2.04%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.04%   |
@@ -1951,7 +1951,7 @@ Memory module models
 | Samsung RAM M391B5273DH0-CH9 4GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
 | Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s    | 1        | 1.89%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3             | 1        | 1.89%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 1        | 1.89%   |
 | Samsung RAM M378A2K43CB1-CTD 16GB DIMM DDR4 2667MT/s   | 1        | 1.89%   |
 | S RAM Module 4GB DIMM DDR3 1600MT/s                    | 1        | 1.89%   |
 | Nanya RAM NT2GT72U8PD0BY-3C 2GB DIMM DDR2 667MT/s      | 1        | 1.89%   |
@@ -2067,9 +2067,9 @@ Printer device models
 ![Printer Model](./images/pie_chart_bsd/printer_model.svg)
 
 
-| Model            | Desktops | Percent |
-|------------------|----------|---------|
-| HP HP Laser 107w | 1        | 100%    |
+| Model                 | Desktops | Percent |
+|-----------------------|----------|---------|
+| HP Laser 107a Printer | 1        | 100%    |
 
 Scanner Vendor
 --------------

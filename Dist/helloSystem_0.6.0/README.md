@@ -581,19 +581,19 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2019 | 16        | 11.68%  |
-| 2013 | 15        | 10.95%  |
+| 2013 | 16        | 11.68%  |
 | 2012 | 14        | 10.22%  |
-| 2011 | 14        | 10.22%  |
-| 2015 | 13        | 9.49%   |
-| 2010 | 13        | 9.49%   |
+| 2010 | 14        | 10.22%  |
+| 2011 | 12        | 8.76%   |
+| 2015 | 11        | 8.03%   |
+| 2014 | 10        | 7.3%    |
 | 2020 | 9         | 6.57%   |
-| 2014 | 9         | 6.57%   |
 | 2021 | 8         | 5.84%   |
 | 2016 | 8         | 5.84%   |
 | 2018 | 6         | 4.38%   |
 | 2009 | 5         | 3.65%   |
 | 2017 | 4         | 2.92%   |
-| 2008 | 2         | 1.46%   |
+| 2008 | 3         | 2.19%   |
 | 2007 | 1         | 0.73%   |
 
 Form Factor
@@ -1275,10 +1275,10 @@ Storage controller models
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.56%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.56%   |
+| Realtek NVMe Controller                                                        | 1         | 0.56%   |
 | Phison PS5013 E13 NVMe Controller                                              | 1         | 0.56%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 1         | 0.56%   |
 | Phison E12 NVMe Controller                                                     | 1         | 0.56%   |
-| Nvidia MCP79 AHCI Controller                                                   | 1         | 0.56%   |
 
 Storage Kind
 ------------
@@ -1977,7 +1977,7 @@ Wireless models
 | Broadcom BCM43142 802.11b/g/n                                           | 2         | 1.9%    |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 1.9%    |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                     | 1         | 0.95%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                           | 1         | 0.95%   |
+| Sierra Wireless EM7345 4G LTE                                           | 1         | 0.95%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                | 1         | 0.95%   |
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 0.95%   |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 0.95%   |
@@ -2064,7 +2064,7 @@ Ethernet models
 | Intel 82567LM-3 Gigabit Network Connection                                     | 1         | 0.76%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 0.76%   |
 | Intel 82566MM Gigabit Network Connection                                       | 1         | 0.76%   |
-| Huawei USB Composite Device                                                    | 1         | 0.76%   |
+| Huawei USB Device                                                              | 1         | 0.76%   |
 
 Net Controller Kind
 -------------------
@@ -2160,16 +2160,16 @@ Controller models
 | Intel Bluetooth wireless interface                          | 13        | 23.21%  |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 4         | 7.14%   |
 | Apple Bluetooth Host Controller                             | 4         | 7.14%   |
-| Realtek  Bluetooth Adapter                                  | 2         | 3.57%   |
-| Realtek  Bluetooth 4.0 Adapter                              | 2         | 3.57%   |
+| Realtek Bluetooth Adapter                                   | 2         | 3.57%   |
+| Realtek Bluetooth 4.0 Adapter                               | 2         | 3.57%   |
 | Intel Wireless-AC 3168 Bluetooth                            | 2         | 3.57%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 3.57%   |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 2         | 3.57%   |
 | Broadcom BCM43142 Bluetooth 4.0                             | 2         | 3.57%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                  | 2         | 3.57%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                        | 2         | 3.57%   |
+| Realtek Wireless Bluetooth Adapter                          | 1         | 1.79%   |
 | Realtek RTL8723B Bluetooth                                  | 1         | 1.79%   |
-| Realtek Bluetooth Radio                                     | 1         | 1.79%   |
 | Ralink RT3290 Bluetooth                                     | 1         | 1.79%   |
 | Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 1         | 1.79%   |
 | Qualcomm Atheros AR9462 Bluetooth                           | 1         | 1.79%   |
@@ -2180,13 +2180,13 @@ Controller models
 | Foxconn / Hon Hai Broadcom BCM20702A1 Bluetooth             | 1         | 1.79%   |
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth               | 1         | 1.79%   |
 | Foxconn / Hon Hai Atheros AR3012 Bluetooth                  | 1         | 1.79%   |
-| Broadcom Broadcom Bluetooth 4.0                             | 1         | 1.79%   |
+| Broadcom Bluetooth 4.0                                      | 1         | 1.79%   |
 | Broadcom BCM92046DG-CL1ROM Bluetooth 2.1 Adapter            | 1         | 1.79%   |
 | Broadcom BCM2046 Bluetooth Device                           | 1         | 1.79%   |
 | Broadcom BCM2045B (BDC-2.1)                                 | 1         | 1.79%   |
 | ASUS Broadcom BCM20702A0 Bluetooth                          | 1         | 1.79%   |
+| Apple Broadcom Built-in Bluetooth                           | 1         | 1.79%   |
 | Apple Bluetooth HCI                                         | 1         | 1.79%   |
-| Apple Apple Broadcom Built-in Bluetooth                     | 1         | 1.79%   |
 
 Sound
 -----
@@ -2262,7 +2262,7 @@ Sound card models
 | AMD High Definition Audio Controller                                       | 2         | 0.91%   |
 | AMD FCH Azalia Controller                                                  | 2         | 0.91%   |
 | AMD Family 15h (Models 60h-6fh) Audio Controller                           | 2         | 0.91%   |
-| XMOS retrieving string failed                                              | 1         | 0.46%   |
+| XMOS USB Audio                                                             | 1         | 0.46%   |
 
 Memory
 ------
@@ -2315,7 +2315,7 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown                                                         | 5         | 2.91%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 1.74%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
@@ -2402,8 +2402,8 @@ Memory module size
 | 4096  | 64        | 42.11%  |
 | 8192  | 38        | 25%     |
 | 2048  | 37        | 24.34%  |
-| 16384 | 11        | 7.24%   |
-| 32768 | 1         | 0.66%   |
+| 16384 | 9         | 5.92%   |
+| 32768 | 3         | 1.97%   |
 | 1024  | 1         | 0.66%   |
 
 Memory Speed
@@ -2525,8 +2525,7 @@ Camera device models
 | Chicony Integrated Camera                                   | 8         | 13.11%  |
 | Bison Lenovo EasyCamera                                     | 3         | 4.92%   |
 | Bison Integrated Camera                                     | 3         | 4.92%   |
-| Realtek Realtek USB2.0 PC Camera                            | 2         | 3.28%   |
-| Realtek Integrated_Webcam_HD                                | 2         | 3.28%   |
+| Realtek USB 2.0 PC Camera                                   | 2         | 3.28%   |
 | IMC Networks XHC Camera                                     | 2         | 3.28%   |
 | Z-Star Integrated Camera                                    | 1         | 1.64%   |
 | Z-Star A4 TECH USB2.0 PC Camera J                           | 1         | 1.64%   |
@@ -2538,6 +2537,8 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD                        | 1         | 1.64%   |
 | Sunplus Integrated Camera                                   | 1         | 1.64%   |
 | Sunplus HP Universal Camera                                 | 1         | 1.64%   |
+| Realtek Integrated_Webcam_HD                                | 1         | 1.64%   |
+| Realtek Dell EasyCamera                                     | 1         | 1.64%   |
 | Microdia Webcam                                             | 1         | 1.64%   |
 | Microdia Laptop_Integrated_Webcam_2M                        | 1         | 1.64%   |
 | Microdia Integrated Webcam HD                               | 1         | 1.64%   |
@@ -2546,14 +2547,14 @@ Camera device models
 | Lite-On Integrated Camera                                   | 1         | 1.64%   |
 | Lenovo Integrated Webcam                                    | 1         | 1.64%   |
 | Importek HP Webcam                                          | 1         | 1.64%   |
-| IMC Networks USB2.0 UVC HD Webcam                           | 1         | 1.64%   |
 | IMC Networks USB2.0 HD UVC WebCam                           | 1         | 1.64%   |
+| IMC Networks USB 2.0 UVC HD Webcam                          | 1         | 1.64%   |
 | IMC Networks 2M Integrated Webcam                           | 1         | 1.64%   |
 | HP Premium Starter Webcam                                   | 1         | 1.64%   |
 | Foxconn / Hon Hai USB2.0 Camera                             | 1         | 1.64%   |
 | Chicony WebCam                                              | 1         | 1.64%   |
 | Chicony USB2.0 HD UVC WebCam                                | 1         | 1.64%   |
-| Chicony TOSHIBA Web Camera - HD                             | 1         | 1.64%   |
+| Chicony USB Video Device                                    | 1         | 1.64%   |
 | Chicony Sony Visual Communication Camera                    | 1         | 1.64%   |
 | Chicony Lenovo Integrated Camera (0.3MP)                    | 1         | 1.64%   |
 | Chicony Lenovo EasyCamera                                   | 1         | 1.64%   |
@@ -2561,7 +2562,6 @@ Camera device models
 | Chicony Asus 720p CMOS webcam                               | 1         | 1.64%   |
 | Chicony 1.3M Webcam                                         | 1         | 1.64%   |
 | Cheng Uei Precision Industry (Foxlink) HP Webcam-101        | 1         | 1.64%   |
-| Cheng Uei Precision Industry (Foxlink) HP Universal Camera  | 1         | 1.64%   |
 
 Security
 --------
@@ -2598,9 +2598,9 @@ Fingerprint sensor models
 | Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 6.67%   |
 | Validity Sensors Fingerprint scanner                                       | 1         | 6.67%   |
 | STMicroelectronics Fingerprint Reader                                      | 1         | 6.67%   |
-| Elan ELAN WBF Fingerprint Sensor                                           | 1         | 6.67%   |
-| AuthenTec AuthenTec Inc. AES1660                                           | 1         | 6.67%   |
+| Elan Fingerprint Sensor                                                    | 1         | 6.67%   |
 | AuthenTec AES2810                                                          | 1         | 6.67%   |
+| AuthenTec AES1660                                                          | 1         | 6.67%   |
 | AuthenTec AES1600                                                          | 1         | 6.67%   |
 
 Chipcard Vendor

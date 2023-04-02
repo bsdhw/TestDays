@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 255
+Total: 256
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Apple         | PowerMac10,1                | Desktop     | [13ac9d6b7e](https://bsd-hardware.info/?probe=13ac9d6b7e) | Mar 01, 2023 |
 | Apple         | PowerMac10,1                | Desktop     | [0760ed34c3](https://bsd-hardware.info/?probe=0760ed34c3) | Nov 21, 2022 |
 | Apple         | iMac13,1                    | All in one  | [3da0012112](https://bsd-hardware.info/?probe=3da0012112) | Nov 06, 2021 |
 | ASRock        | X99 WS                      | Desktop     | [201a7417a5](https://bsd-hardware.info/?probe=201a7417a5) | Jun 11, 2021 |
@@ -983,7 +984,7 @@ Hard drive vendors
 | Crucial             | 13        | 22     | 4.68%   |
 | Phison              | 11        | 11     | 3.96%   |
 | Transcend           | 9         | 12     | 3.24%   |
-| Hitachi             | 9         | 10     | 3.24%   |
+| Hitachi             | 9         | 11     | 3.24%   |
 | Intel               | 8         | 8      | 2.88%   |
 | HGST                | 7         | 8      | 2.52%   |
 | OPENBSD             | 6         | 6      | 2.16%   |
@@ -1037,7 +1038,7 @@ Hard drive models
 | WDC WDS240G2G0A-00JH30 240GB        | 2         | 0.68%   |
 | WDC WD10JPLX-00MBPT0 1TB            | 2         | 0.68%   |
 | WDC WD Elements 25A1 4TB            | 2         | 0.68%   |
-| USB SanDisk 3.2Gen1 64GB            | 2         | 0.68%   |
+| USB SanDisk 3.2Gen1 16GB            | 2         | 0.68%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 2         | 0.68%   |
 | Seagate ST1000LM035-1RK172 1TB      | 2         | 0.68%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB  | 2         | 0.68%   |
@@ -1076,29 +1077,29 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 35        | 42     | 25.55%  |
-| Seagate             | 28        | 37     | 20.44%  |
-| NVMe                | 20        | 24     | 14.6%   |
-| Hitachi             | 9         | 10     | 6.57%   |
-| HGST                | 7         | 8      | 5.11%   |
-| OPENBSD             | 6         | 6      | 4.38%   |
-| Dell                | 6         | 10     | 4.38%   |
-| Toshiba             | 4         | 5      | 2.92%   |
-| Samsung Electronics | 4         | 6      | 2.92%   |
-| Apple               | 3         | 3      | 2.19%   |
-| USB                 | 2         | 2      | 1.46%   |
-| Generic             | 2         | 2      | 1.46%   |
-| UFD 2.0             | 1         | 1      | 0.73%   |
-| SABRENT             | 1         | 1      | 0.73%   |
-| Multiple            | 1         | 1      | 0.73%   |
-| Maxtor              | 1         | 1      | 0.73%   |
-| MaxDigital          | 1         | 1      | 0.73%   |
-| LSI                 | 1         | 1      | 0.73%   |
-| Lexar               | 1         | 1      | 0.73%   |
-| JetFlash            | 1         | 1      | 0.73%   |
-| IBM                 | 1         | 1      | 0.73%   |
-| General             | 1         | 1      | 0.73%   |
-| ASMT                | 1         | 1      | 0.73%   |
+| WDC                 | 35        | 42     | 25.36%  |
+| Seagate             | 28        | 37     | 20.29%  |
+| NVMe                | 20        | 24     | 14.49%  |
+| Hitachi             | 9         | 11     | 6.52%   |
+| HGST                | 7         | 8      | 5.07%   |
+| OPENBSD             | 6         | 6      | 4.35%   |
+| Dell                | 6         | 10     | 4.35%   |
+| Toshiba             | 4         | 5      | 2.9%    |
+| Samsung Electronics | 4         | 6      | 2.9%    |
+| Apple               | 3         | 3      | 2.17%   |
+| USB                 | 2         | 2      | 1.45%   |
+| LSI                 | 2         | 2      | 1.45%   |
+| Generic             | 2         | 2      | 1.45%   |
+| UFD 2.0             | 1         | 1      | 0.72%   |
+| SABRENT             | 1         | 1      | 0.72%   |
+| Multiple            | 1         | 1      | 0.72%   |
+| Maxtor              | 1         | 1      | 0.72%   |
+| MaxDigital          | 1         | 1      | 0.72%   |
+| Lexar               | 1         | 1      | 0.72%   |
+| JetFlash            | 1         | 1      | 0.72%   |
+| IBM                 | 1         | 1      | 0.72%   |
+| General             | 1         | 1      | 0.72%   |
+| ASMT                | 1         | 1      | 0.72%   |
 
 SSD Vendor
 ----------
@@ -1110,20 +1111,20 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 24        | 31     | 17.02%  |
-| Kingston            | 19        | 20     | 13.48%  |
-| SanDisk             | 13        | 15     | 9.22%   |
-| Crucial             | 13        | 22     | 9.22%   |
-| Phison              | 11        | 11     | 7.8%    |
-| NVMe                | 10        | 10     | 7.09%   |
-| Transcend           | 9         | 12     | 6.38%   |
-| Intel               | 8         | 8      | 5.67%   |
-| WDC                 | 6         | 6      | 4.26%   |
-| PNY                 | 5         | 5      | 3.55%   |
-| A-DATA Technology   | 4         | 5      | 2.84%   |
-| LITEONIT            | 2         | 2      | 1.42%   |
-| Hewlett-Packard     | 2         | 3      | 1.42%   |
-| Apple               | 2         | 2      | 1.42%   |
+| Samsung Electronics | 24        | 31     | 17.14%  |
+| Kingston            | 19        | 20     | 13.57%  |
+| SanDisk             | 13        | 15     | 9.29%   |
+| Crucial             | 13        | 22     | 9.29%   |
+| Phison              | 11        | 11     | 7.86%   |
+| NVMe                | 10        | 10     | 7.14%   |
+| Transcend           | 9         | 12     | 6.43%   |
+| Intel               | 8         | 8      | 5.71%   |
+| WDC                 | 6         | 6      | 4.29%   |
+| PNY                 | 5         | 5      | 3.57%   |
+| A-DATA Technology   | 4         | 5      | 2.86%   |
+| LITEONIT            | 2         | 2      | 1.43%   |
+| Hewlett-Packard     | 2         | 3      | 1.43%   |
+| Apple               | 2         | 2      | 1.43%   |
 | Zheino              | 1         | 1      | 0.71%   |
 | Toshiba             | 1         | 1      | 0.71%   |
 | SPCC                | 1         | 1      | 0.71%   |
@@ -1131,7 +1132,6 @@ Solid state drive vendors
 | Qumo                | 1         | 1      | 0.71%   |
 | OCZ                 | 1         | 1      | 0.71%   |
 | MidasForce          | 1         | 1      | 0.71%   |
-| LSI                 | 1         | 1      | 0.71%   |
 | LITEON              | 1         | 1      | 0.71%   |
 | KingSpec            | 1         | 1      | 0.71%   |
 | Hoodisk             | 1         | 2      | 0.71%   |
@@ -1148,8 +1148,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 123       | 166    | 52.56%  |
-| HDD  | 109       | 166    | 46.58%  |
+| SSD  | 122       | 165    | 52.14%  |
+| HDD  | 110       | 168    | 47.01%  |
 | NVMe | 2         | 2      | 0.85%   |
 
 Drive Connector
@@ -1162,7 +1162,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 202       | 332    | 99.02%  |
+| SATA | 202       | 333    | 99.02%  |
 | NVMe | 2         | 2      | 0.98%   |
 
 Drive Size
@@ -1175,8 +1175,8 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 165       | 227    | 67.9%   |
-| 0.51-1.0        | 50        | 58     | 20.58%  |
+| 0.01-0.5        | 164       | 227    | 67.49%  |
+| 0.51-1.0        | 51        | 59     | 20.99%  |
 | 1.01-2.0        | 16        | 30     | 6.58%   |
 | 3.01-4.0        | 5         | 6      | 2.06%   |
 | 4.01-10.0       | 3         | 5      | 1.23%   |
@@ -1343,7 +1343,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 154       | 231    | 66.38%  |
+| Works    | 154       | 232    | 66.38%  |
 | Detected | 54        | 75     | 23.28%  |
 | Malfunc  | 23        | 26     | 9.91%   |
 | Failed   | 1         | 2      | 0.43%   |
@@ -2161,7 +2161,7 @@ Wireless models
 | Intel Centrino Wireless-N 2230                                          | 2         | 1.56%   |
 | Intel Centrino Wireless-N 2200                                          | 2         | 1.56%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                                | 2         | 1.56%   |
-| TP-Link TP-LINK Wireless USB Adapter                                    | 1         | 0.78%   |
+| TP-Link Wireless USB Adapter                                            | 1         | 0.78%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                            | 1         | 0.78%   |
 | Sierra Wireless EM7455                                                  | 1         | 0.78%   |
 | Realtek RTL8192EU 802.11b/g/n WLAN Adapter                              | 1         | 0.78%   |
@@ -2347,10 +2347,10 @@ Controller models
 | Intel AX200 Bluetooth                                                               | 4         | 6.15%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                                          | 4         | 6.15%   |
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 3         | 4.62%   |
+| Apple Broadcom Built-in Bluetooth                                                   | 3         | 4.62%   |
 | Apple Bluetooth Host Controller                                                     | 3         | 4.62%   |
-| Apple Apple Broadcom Built-in Bluetooth                                             | 3         | 4.62%   |
 | Alps Electric UGTZ4 Bluetooth                                                       | 3         | 4.62%   |
-| Realtek  Bluetooth Adapter                                                          | 2         | 3.08%   |
+| Realtek Bluetooth Adapter                                                           | 2         | 3.08%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 2         | 3.08%   |
 | IMC Networks Realtek Bluetooth 4.0 + High Speed Chip                                | 2         | 3.08%   |
 | IMC Networks Asus Integrated Bluetooth module [AR3011]                              | 2         | 3.08%   |
@@ -2381,14 +2381,14 @@ Sound card vendors
 
 | Vendor                           | Computers | Percent |
 |----------------------------------|-----------|---------|
-| Intel                            | 116       | 68.24%  |
-| AMD                              | 36        | 21.18%  |
-| Nvidia                           | 10        | 5.88%   |
-| ULi Electronics                  | 2         | 1.18%   |
-| ESS Technology                   | 2         | 1.18%   |
-| C-Media Electronics              | 2         | 1.18%   |
-| Silicon Integrated Systems [SiS] | 1         | 0.59%   |
-| Lenovo                           | 1         | 0.59%   |
+| Intel                            | 116       | 67.44%  |
+| AMD                              | 36        | 20.93%  |
+| Nvidia                           | 10        | 5.81%   |
+| C-Media Electronics              | 4         | 2.33%   |
+| ULi Electronics                  | 2         | 1.16%   |
+| ESS Technology                   | 2         | 1.16%   |
+| Silicon Integrated Systems [SiS] | 1         | 0.58%   |
+| Lenovo                           | 1         | 0.58%   |
 
 Sound Model
 -----------
@@ -2400,42 +2400,42 @@ Sound card models
 
 | Model                                                                                             | Computers | Percent |
 |---------------------------------------------------------------------------------------------------|-----------|---------|
-| Intel Sunrise Point-LP HD Audio                                                                   | 17        | 7.98%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 12        | 5.63%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                                           | 11        | 5.16%   |
-| Intel Broadwell-U Audio Controller                                                                | 11        | 5.16%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 9         | 4.23%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 8         | 3.76%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 8         | 3.76%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 8         | 3.76%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 7         | 3.29%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7         | 3.29%   |
-| Intel Haswell-ULT HD Audio Controller                                                             | 6         | 2.82%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 6         | 2.82%   |
-| Intel 8 Series HD Audio Controller                                                                | 6         | 2.82%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 6         | 2.82%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 6         | 2.82%   |
-| AMD SBx00 Azalia (Intel HDA)                                                                      | 5         | 2.35%   |
-| Intel Cannon Lake PCH cAVS                                                                        | 4         | 1.88%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 4         | 1.88%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3         | 1.41%   |
-| AMD Starship/Matisse HD Audio Controller                                                          | 3         | 1.41%   |
-| AMD Kabini HDMI/DP Audio                                                                          | 3         | 1.41%   |
-| AMD FCH Azalia Controller                                                                         | 3         | 1.41%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3         | 1.41%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3         | 1.41%   |
-| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2         | 0.94%   |
-| Nvidia MCP61 High Definition Audio                                                                | 2         | 0.94%   |
-| Nvidia High Definition Audio Controller                                                           | 2         | 0.94%   |
-| Intel Comet Lake PCH-LP cAVS                                                                      | 2         | 0.94%   |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 2         | 0.94%   |
-| Intel Cannon Point-LP High Definition Audio Controller                                            | 2         | 0.94%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 2         | 0.94%   |
-| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2         | 0.94%   |
-| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                                 | 2         | 0.94%   |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 2         | 0.94%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2         | 0.94%   |
-| AMD Navi 10 HDMI Audio                                                                            | 2         | 0.94%   |
+| Intel Sunrise Point-LP HD Audio                                                                   | 17        | 7.91%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 12        | 5.58%   |
+| Intel Wildcat Point-LP High Definition Audio Controller                                           | 11        | 5.12%   |
+| Intel Broadwell-U Audio Controller                                                                | 11        | 5.12%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 9         | 4.19%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 8         | 3.72%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 8         | 3.72%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 8         | 3.72%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 7         | 3.26%   |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7         | 3.26%   |
+| Intel Haswell-ULT HD Audio Controller                                                             | 6         | 2.79%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 6         | 2.79%   |
+| Intel 8 Series HD Audio Controller                                                                | 6         | 2.79%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 6         | 2.79%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 6         | 2.79%   |
+| AMD SBx00 Azalia (Intel HDA)                                                                      | 5         | 2.33%   |
+| Intel Cannon Lake PCH cAVS                                                                        | 4         | 1.86%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 4         | 1.86%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3         | 1.4%    |
+| AMD Starship/Matisse HD Audio Controller                                                          | 3         | 1.4%    |
+| AMD Kabini HDMI/DP Audio                                                                          | 3         | 1.4%    |
+| AMD FCH Azalia Controller                                                                         | 3         | 1.4%    |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3         | 1.4%    |
+| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3         | 1.4%    |
+| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2         | 0.93%   |
+| Nvidia MCP61 High Definition Audio                                                                | 2         | 0.93%   |
+| Nvidia High Definition Audio Controller                                                           | 2         | 0.93%   |
+| Intel Comet Lake PCH-LP cAVS                                                                      | 2         | 0.93%   |
+| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 2         | 0.93%   |
+| Intel Cannon Point-LP High Definition Audio Controller                                            | 2         | 0.93%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 2         | 0.93%   |
+| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2         | 0.93%   |
+| Intel 82801DB/DBL/DBM (ICH4/ICH4-L/ICH4-M) AC'97 Audio Controller                                 | 2         | 0.93%   |
+| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 2         | 0.93%   |
+| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2         | 0.93%   |
+| AMD Navi 10 HDMI Audio                                                                            | 2         | 0.93%   |
 | Silicon Integrated Systems [SiS] SiS7012 AC'97 Sound Controller                                   | 1         | 0.47%   |
 | Nvidia TU116 High Definition Audio Controller                                                     | 1         | 0.47%   |
 | Nvidia MCP79 High Definition Audio                                                                | 1         | 0.47%   |
@@ -2630,48 +2630,48 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                                                         | Computers | Percent |
-|---------------------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                                     | 11        | 18.03%  |
-| Lite-On Integrated Camera                                     | 4         | 6.56%   |
-| IMC Networks Integrated Camera                                | 3         | 4.92%   |
-| Lenovo Integrated Webcam                                      | 2         | 3.28%   |
-| IMC Networks USB2.0 VGA UVC WebCam                            | 2         | 3.28%   |
-| Chicony Lenovo Integrated Camera (0.3MP)                      | 2         | 3.28%   |
-| Chicony Integrated Camera [ThinkPad]                          | 2         | 3.28%   |
-| Bison Lenovo EasyCamera                                       | 2         | 3.28%   |
-| Bison Integrated Camera                                       | 2         | 3.28%   |
-| Syntek EasyCamera                                             | 1         | 1.64%   |
-| Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)   | 1         | 1.64%   |
-| Sunplus Integrated_Webcam_FHD                                 | 1         | 1.64%   |
-| Sunplus Dell E5570 integrated webcam                          | 1         | 1.64%   |
-| Realtek USB2.0 HD UVC WebCam                                  | 1         | 1.64%   |
-| Realtek USB 2 Webcam                                          | 1         | 1.64%   |
-| Realtek Integrated_Webcam_HD                                  | 1         | 1.64%   |
-| Realtek EasyCamera                                            | 1         | 1.64%   |
-| Realtek Acer 640 x 480 laptop camera                          | 1         | 1.64%   |
-| Microdia PC Camera (SN9C201 + OV9650)                         | 1         | 1.64%   |
-| Microdia Integrated Webcam                                    | 1         | 1.64%   |
-| Luxvisions Innotech Limited HP Wide Vision HD Camera          | 1         | 1.64%   |
-| Logitech Webcam C310                                          | 1         | 1.64%   |
-| Logitech Webcam C270                                          | 1         | 1.64%   |
-| Logitech C920 HD Pro Webcam                                   | 1         | 1.64%   |
-| Logitech BRIO Ultra HD Webcam                                 | 1         | 1.64%   |
-| IMC Networks VGA UVC WebCam                                   | 1         | 1.64%   |
-| IMC Networks USB2.0 UVC HD Webcam                             | 1         | 1.64%   |
-| IMC Networks USB2.0 HD UVC WebCam                             | 1         | 1.64%   |
-| IMC Networks EasyCamera                                       | 1         | 1.64%   |
-| Chicony USB2.0 0.3M UVC WebCam                                | 1         | 1.64%   |
-| Chicony ThinkPad T490 Webcam                                  | 1         | 1.64%   |
-| Chicony Ltd., USB2.0 HD UVC WebCam                            | 1         | 1.64%   |
-| Chicony Ltd., HP 0.3MP Webcam                                 | 1         | 1.64%   |
-| Chicony Integrated Camera (1280x720@30)                       | 1         | 1.64%   |
-| Chicony 2.0M UVC Webcam / CNF7129                             | 1         | 1.64%   |
-| Cheng Uei Precision Industry (Foxlink) USB2.0 UVC 1.3M WebCam | 1         | 1.64%   |
-| Bison SunplusIT Integrated Camera                             | 1         | 1.64%   |
-| Apple FaceTime HD Camera (Built-in)                           | 1         | 1.64%   |
-| Apple FaceTime HD camera                                      | 1         | 1.64%   |
-| Alcor Micro Asus Integrated Webcam                            | 1         | 1.64%   |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                                      | 11        | 18.03%  |
+| Lite-On Integrated Camera                                      | 4         | 6.56%   |
+| IMC Networks Integrated Camera                                 | 3         | 4.92%   |
+| Lenovo Integrated Webcam                                       | 2         | 3.28%   |
+| IMC Networks Realtek DMFT RGB                                  | 2         | 3.28%   |
+| Chicony Lenovo Integrated Camera (0.3MP)                       | 2         | 3.28%   |
+| Chicony Integrated Camera [ThinkPad]                           | 2         | 3.28%   |
+| Bison Lenovo EasyCamera                                        | 2         | 3.28%   |
+| Bison Integrated Camera                                        | 2         | 3.28%   |
+| Syntek EasyCamera                                              | 1         | 1.64%   |
+| Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)    | 1         | 1.64%   |
+| Sunplus Integrated_Webcam_FHD                                  | 1         | 1.64%   |
+| Sunplus Dell E5570 integrated webcam                           | 1         | 1.64%   |
+| Realtek USB2.0 HD UVC WebCam                                   | 1         | 1.64%   |
+| Realtek USB 2.0 Webcam                                         | 1         | 1.64%   |
+| Realtek Integrated_Webcam_HD                                   | 1         | 1.64%   |
+| Realtek EasyCamera                                             | 1         | 1.64%   |
+| Realtek Acer 640 x 480 laptop camera                           | 1         | 1.64%   |
+| Microdia PC Camera (SN9C201 + OV9650)                          | 1         | 1.64%   |
+| Microdia Integrated Webcam                                     | 1         | 1.64%   |
+| Luxvisions Innotech Limited HP Wide Vision HD Camera           | 1         | 1.64%   |
+| Logitech Webcam C310                                           | 1         | 1.64%   |
+| Logitech Webcam C270                                           | 1         | 1.64%   |
+| Logitech C920 HD Pro Webcam                                    | 1         | 1.64%   |
+| Logitech BRIO Ultra HD Webcam                                  | 1         | 1.64%   |
+| IMC Networks VGA UVC WebCam                                    | 1         | 1.64%   |
+| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 1.64%   |
+| IMC Networks USB 2.0 UVC HD Webcam                             | 1         | 1.64%   |
+| IMC Networks EasyCamera                                        | 1         | 1.64%   |
+| Chicony USB2.0 0.3M UVC WebCam                                 | 1         | 1.64%   |
+| Chicony ThinkPad T490 Webcam                                   | 1         | 1.64%   |
+| Chicony Ltd., USB2.0 HD UVC WebCam                             | 1         | 1.64%   |
+| Chicony Ltd., HP 0.3MP Webcam                                  | 1         | 1.64%   |
+| Chicony Integrated Camera (1280x720@30)                        | 1         | 1.64%   |
+| Chicony 2.0M UVC Webcam / CNF7129                              | 1         | 1.64%   |
+| Cheng Uei Precision Industry (Foxlink) USB 2.0 UVC 1.3M WebCam | 1         | 1.64%   |
+| Bison SunplusIT Integrated Camera                              | 1         | 1.64%   |
+| Apple FaceTime HD Camera (Built-in)                            | 1         | 1.64%   |
+| Apple FaceTime HD camera                                       | 1         | 1.64%   |
+| Alcor Micro Asus Integrated Webcam                             | 1         | 1.64%   |
 
 Security
 --------
@@ -2710,11 +2710,11 @@ Fingerprint sensor models
 | Validity Sensors Synaptics WBDI                        | 2         | 8%      |
 | AuthenTec AES2501 Fingerprint Sensor                   | 2         | 8%      |
 | Validity Sensors VFS5011 Fingerprint Reader            | 1         | 4%      |
-| Synaptics  WBDI                                        | 1         | 4%      |
+| Synaptics WBDI                                         | 1         | 4%      |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 4%      |
-| Shenzhen Goodix  FingerPrint Device                    | 1         | 4%      |
+| Shenzhen Goodix Fingerprint Reader SGX                 | 1         | 4%      |
 | Shenzhen Goodix Fingerprint Reader                     | 1         | 4%      |
-| Elan ELAN WBF Fingerprint Sensor                       | 1         | 4%      |
+| Elan Fingerprint Sensor                                | 1         | 4%      |
 | AuthenTec AES2810                                      | 1         | 4%      |
 
 Chipcard Vendor

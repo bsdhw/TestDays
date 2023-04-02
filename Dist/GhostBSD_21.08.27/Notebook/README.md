@@ -402,15 +402,15 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2021 | 6         | 20.69%  |
 | 2020 | 6         | 20.69%  |
-| 2013 | 4         | 13.79%  |
 | 2018 | 3         | 10.34%  |
+| 2013 | 3         | 10.34%  |
 | 2012 | 2         | 6.9%    |
+| 2011 | 2         | 6.9%    |
 | 2019 | 1         | 3.45%   |
 | 2017 | 1         | 3.45%   |
 | 2016 | 1         | 3.45%   |
 | 2015 | 1         | 3.45%   |
 | 2014 | 1         | 3.45%   |
-| 2011 | 1         | 3.45%   |
 | 2009 | 1         | 3.45%   |
 | 2008 | 1         | 3.45%   |
 
@@ -898,6 +898,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 1         | 2.86%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 2.86%   |
+| Micron/Crucial NVMe Storage Controller                                           | 1         | 2.86%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 1         | 2.86%   |
 | Intel SSD 660P Series                                                            | 1         | 2.86%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                    | 1         | 2.86%   |
@@ -911,7 +912,6 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 1         | 2.86%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                             | 1         | 2.86%   |
 | AMD FCH SATA Controller [AHCI mode]                                              | 1         | 2.86%   |
-| Unknown                                                                          | 1         | 2.86%   |
 
 Storage Kind
 ------------
@@ -1390,8 +1390,8 @@ Controller models
 | Intel Wireless 7260                                                         | 1         | 1.79%   |
 | Intel Wi-Fi 6 AX200                                                         | 1         | 1.79%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                     | 1         | 1.79%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller                         | 1         | 1.79%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                             | 1         | 1.79%   |
-| Intel I225-K2                                                               | 1         | 1.79%   |
 | Intel Ethernet Connection I219-LM                                           | 1         | 1.79%   |
 | Intel Ethernet Connection I217-LM                                           | 1         | 1.79%   |
 | Intel Ethernet Connection (7) I219-LM                                       | 1         | 1.79%   |
@@ -1489,7 +1489,7 @@ Ethernet models
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 9.52%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 4.76%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 4.76%   |
-| Intel I225-K2                                                     | 1         | 4.76%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 4.76%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 4.76%   |
 | Intel Ethernet Connection I217-LM                                 | 1         | 4.76%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1         | 4.76%   |
@@ -1587,7 +1587,7 @@ Controller models
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter | 2         | 8.7%    |
 | Toshiba Realtek Bluetooth 4.0 + High Speed Chip   | 1         | 4.35%   |
 | Realtek RTL8723B Bluetooth                        | 1         | 4.35%   |
-| Realtek Bluetooth Radio                           | 1         | 4.35%   |
+| Realtek Bluetooth Adapter                         | 1         | 4.35%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth        | 1         | 4.35%   |
 | Intel AX200 Bluetooth                             | 1         | 4.35%   |
 | IMC Networks Qualcomm Atheros Bluetooth 4.1       | 1         | 4.35%   |
@@ -1685,7 +1685,7 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
@@ -1842,12 +1842,12 @@ Camera device models
 | Realtek Integrated_Webcam_HD         | 2         | 11.76%  |
 | Realtek Front Camera                 | 1         | 5.88%   |
 | Quanta VGA WebCam                    | 1         | 5.88%   |
-| Quanta USB2.0 HD UVC WebCam          | 1         | 5.88%   |
+| Quanta Realtek PC Camera             | 1         | 5.88%   |
 | Quanta HP TrueVision HD Camera       | 1         | 5.88%   |
 | Microdia Laptop_Integrated_Webcam_HD | 1         | 5.88%   |
 | Microdia Integrated Webcam           | 1         | 5.88%   |
-| IMC Networks USB2.0 VGA UVC WebCam   | 1         | 5.88%   |
-| IMC Networks USB2.0 UVC HD Webcam    | 1         | 5.88%   |
+| IMC Networks USB 2.0 UVC HD Webcam   | 1         | 5.88%   |
+| IMC Networks Realtek DMFT RGB        | 1         | 5.88%   |
 | IMC Networks Integrated Camera       | 1         | 5.88%   |
 | Chicony Integrated HP HD Webcam      | 1         | 5.88%   |
 | Chicony Integrated Camera            | 1         | 5.88%   |

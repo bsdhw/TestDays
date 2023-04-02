@@ -1296,7 +1296,7 @@ Sound card models
 | Nvidia GP106 High Definition Audio Controller                              | 1        | 5.56%   |
 | Nvidia GP104 High Definition Audio Controller                              | 1        | 5.56%   |
 | Nvidia GF116 High Definition Audio Controller                              | 1        | 5.56%   |
-| Logitech G935 Gaming Headset G935 Gaming Headset G935 Gaming Headset       | 1        | 5.56%   |
+| Logitech G935/G933s Gaming Headset                                         | 1        | 5.56%   |
 | Intel Cannon Lake PCH cAVS                                                 | 1        | 5.56%   |
 | Intel 82801JI (ICH10 Family) HD Audio Controller                           | 1        | 5.56%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1        | 5.56%   |

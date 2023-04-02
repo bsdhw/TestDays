@@ -897,6 +897,7 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2        | 6.25%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 3.13%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                  | 1        | 3.13%   |
+| Kingston Company NVMe Controller                                                 | 1        | 3.13%   |
 | JMicron JMB368 IDE controller                                                    | 1        | 3.13%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1        | 3.13%   |
 | Intel SATA Controller [RAID mode]                                                | 1        | 3.13%   |
@@ -914,7 +915,6 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 1        | 3.13%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 1        | 3.13%   |
 | AMD AMD-8111 IDE                                                                 | 1        | 3.13%   |
-| Unknown                                                                          | 1        | 3.13%   |
 
 Storage Kind
 ------------

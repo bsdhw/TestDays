@@ -707,7 +707,7 @@ Hard drive models
 | WDC PC SN520 NVMe 256GB              | 1         | 2.94%   |
 | Transcend TS256GMTE652T2 256GB       | 1         | 2.94%   |
 | Toshiba KSG60ZMV256G 256GB           | 1         | 2.94%   |
-| Star Drive PCIe SSD 1TB              | 1         | 2.94%   |
+| Star Drive PCIe SSD 960GB            | 1         | 2.94%   |
 | SK hynix HFS128G32TNF-N3A0A 128GB    | 1         | 2.94%   |
 | Seagate ST9640320AS 640GB            | 1         | 2.94%   |
 | Seagate ST9500420AS 500GB            | 1         | 2.94%   |
@@ -961,14 +961,15 @@ Storage controller models
 |------------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 5         | 13.16%  |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 3         | 7.89%   |
-| Unknown                                                                      | 3         | 7.89%   |
 | Intel SSD 660P Series                                                        | 2         | 5.26%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                            | 2         | 5.26%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 2         | 5.26%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                               | 2         | 5.26%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                 | 2         | 5.26%   |
+| Unknown                                                                      | 2         | 5.26%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 2.63%   |
 | SanDisk PC SN520 NVMe SSD                                                    | 1         | 2.63%   |
+| Realtek NVMe Controller                                                      | 1         | 2.63%   |
 | Phison E18 PCIe4 NVMe Controller                                             | 1         | 2.63%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                   | 1         | 2.63%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                           | 1         | 2.63%   |
@@ -1473,7 +1474,7 @@ Controller models
 | Intel Centrino Advanced-N 6200                                                       | 2         | 3.33%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                                | 2         | 3.33%   |
 | Intel 82577LM Gigabit Network Connection                                             | 2         | 3.33%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                                        | 1         | 1.67%   |
+| Sierra Wireless EM7345 4G LTE                                                        | 1         | 1.67%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                                               | 1         | 1.67%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                | 1         | 1.67%   |
 | Ralink RT5370 Wireless Adapter                                                       | 1         | 1.67%   |
@@ -1535,7 +1536,7 @@ Wireless models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 2         | 5.88%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 2         | 5.88%   |
 | Intel Centrino Advanced-N 6200                                 | 2         | 5.88%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                  | 1         | 2.94%   |
+| Sierra Wireless EM7345 4G LTE                                  | 1         | 2.94%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                         | 1         | 2.94%   |
 | Ralink RT5370 Wireless Adapter                                 | 1         | 2.94%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 1         | 2.94%   |
@@ -1677,7 +1678,7 @@ Controller models
 | Intel Bluetooth wireless interface                      | 6         | 30%     |
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)          | 2         | 10%     |
 | Broadcom BCM2045B (BDC-2.1)                             | 2         | 10%     |
-| Realtek  Bluetooth Adapter                              | 1         | 5%      |
+| Realtek Bluetooth Adapter                               | 1         | 5%      |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth              | 1         | 5%      |
 | Intel Wireless-AC 9260 Bluetooth Adapter                | 1         | 5%      |
 | Intel Wireless-AC 3168 Bluetooth                        | 1         | 5%      |
@@ -1686,7 +1687,7 @@ Controller models
 | HP Broadcom 2070 Bluetooth Combo                        | 1         | 5%      |
 | HP Atheros AR9285 Malbec Bluetooth Adapter              | 1         | 5%      |
 | Dell Dell Wireless 380 Bluetooth 4.0 Module             | 1         | 5%      |
-| Apple Apple Broadcom Built-in Bluetooth                 | 1         | 5%      |
+| Apple Broadcom Built-in Bluetooth                       | 1         | 5%      |
 
 Sound
 -----
@@ -1937,7 +1938,7 @@ Camera device models
 
 | Model                                    | Notebooks | Percent |
 |------------------------------------------|-----------|---------|
-| Bison Integrated Camera                  | 2         | 8.33%   |
+| Bison Integrated Camera                  | 3         | 12.5%   |
 | Syntek EasyCamera                        | 1         | 4.17%   |
 | Suyin Asus Integrated Webcam             | 1         | 4.17%   |
 | Realtek Integrated_Webcam_HD             | 1         | 4.17%   |
@@ -1953,13 +1954,12 @@ Camera device models
 | Chicony USB 2.0 VGA UVC WebCam           | 1         | 4.17%   |
 | Chicony TOSHIBA Web Camera - FHD         | 1         | 4.17%   |
 | Chicony ThinkPad T490 Webcam             | 1         | 4.17%   |
-| Chicony Realtek DMFT - RGB               | 1         | 4.17%   |
+| Chicony Realtek DMFT RGB                 | 1         | 4.17%   |
 | Chicony Lenovo Integrated Camera (0.3MP) | 1         | 4.17%   |
 | Chicony Integrated HP HD Webcam          | 1         | 4.17%   |
 | Chicony Integrated Camera                | 1         | 4.17%   |
 | Chicony Camera                           | 1         | 4.17%   |
 | Bison ThinkPad P50 Integrated Camera     | 1         | 4.17%   |
-| Bison EasyCamera                         | 1         | 4.17%   |
 
 Security
 --------

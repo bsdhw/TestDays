@@ -359,12 +359,11 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2017 | 2        | 14.29%  |
+| 2013 | 2        | 14.29%  |
 | 2009 | 2        | 14.29%  |
 | 2020 | 1        | 7.14%   |
 | 2019 | 1        | 7.14%   |
 | 2016 | 1        | 7.14%   |
-| 2015 | 1        | 7.14%   |
-| 2013 | 1        | 7.14%   |
 | 2012 | 1        | 7.14%   |
 | 2011 | 1        | 7.14%   |
 | 2008 | 1        | 7.14%   |
@@ -1236,7 +1235,7 @@ Controller models
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 10.53%  |
 | Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1        | 5.26%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 5.26%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 5.26%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 5.26%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 5.26%   |
 | Mellanox MT27500 Family [ConnectX-3]                              | 1        | 5.26%   |
 | Intel Wi-Fi 6 AX200                                               | 1        | 5.26%   |
@@ -1302,7 +1301,7 @@ Ethernet models
 | Intel I211 Gigabit Network Connection                             | 2        | 12.5%   |
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 12.5%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 6.25%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 6.25%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 6.25%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 6.25%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 6.25%   |
 | Intel Ethernet Connection (2) I219-V                              | 1        | 6.25%   |

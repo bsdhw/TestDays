@@ -759,7 +759,7 @@ Hard drive models
 | NVMe LENSE30512GMSP34 512GB      | 1         | 1.64%   |
 | NVMe INTEL SSDPEKNW51 512GB      | 1         | 1.64%   |
 | Micron 1100_MTFDDAK256TBN 256GB  | 1         | 1.64%   |
-| LSI Logical Volume 128GB         | 1         | 1.64%   |
+| LSI Logical Volume 898GB         | 1         | 1.64%   |
 | Leven JAJS600M512C 512GB         | 1         | 1.64%   |
 
 HDD Vendor
@@ -772,15 +772,16 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 10        | 13     | 33.33%  |
-| Hitachi             | 6         | 6      | 20%     |
-| NVMe                | 5         | 6      | 16.67%  |
-| WDC                 | 4         | 4      | 13.33%  |
-| Toshiba             | 1         | 1      | 3.33%   |
-| Samsung Electronics | 1         | 1      | 3.33%   |
-| OPENBSD             | 1         | 1      | 3.33%   |
-| HGST                | 1         | 1      | 3.33%   |
-| China               | 1         | 1      | 3.33%   |
+| Seagate             | 10        | 13     | 32.26%  |
+| Hitachi             | 6         | 6      | 19.35%  |
+| NVMe                | 5         | 6      | 16.13%  |
+| WDC                 | 4         | 4      | 12.9%   |
+| Toshiba             | 1         | 1      | 3.23%   |
+| Samsung Electronics | 1         | 1      | 3.23%   |
+| OPENBSD             | 1         | 1      | 3.23%   |
+| LSI                 | 1         | 1      | 3.23%   |
+| HGST                | 1         | 1      | 3.23%   |
+| China               | 1         | 1      | 3.23%   |
 
 SSD Vendor
 ----------
@@ -792,19 +793,18 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 10        | 11     | 34.48%  |
-| SanDisk             | 3         | 4      | 10.34%  |
-| Phison              | 3         | 3      | 10.34%  |
-| Kingston            | 3         | 3      | 10.34%  |
-| WDC                 | 2         | 2      | 6.9%    |
-| Transcend           | 1         | 1      | 3.45%   |
-| NVMe                | 1         | 1      | 3.45%   |
-| Micron Technology   | 1         | 1      | 3.45%   |
-| LSI                 | 1         | 1      | 3.45%   |
-| Leven               | 1         | 1      | 3.45%   |
-| Intel               | 1         | 1      | 3.45%   |
-| Gigabyte Technology | 1         | 1      | 3.45%   |
-| Crucial             | 1         | 1      | 3.45%   |
+| Samsung Electronics | 10        | 11     | 35.71%  |
+| SanDisk             | 3         | 4      | 10.71%  |
+| Phison              | 3         | 3      | 10.71%  |
+| Kingston            | 3         | 3      | 10.71%  |
+| WDC                 | 2         | 2      | 7.14%   |
+| Transcend           | 1         | 1      | 3.57%   |
+| NVMe                | 1         | 1      | 3.57%   |
+| Micron Technology   | 1         | 1      | 3.57%   |
+| Leven               | 1         | 1      | 3.57%   |
+| Intel               | 1         | 1      | 3.57%   |
+| Gigabyte Technology | 1         | 1      | 3.57%   |
+| Crucial             | 1         | 1      | 3.57%   |
 
 Drive Kind
 ----------
@@ -816,8 +816,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 27        | 31     | 51.92%  |
-| HDD  | 25        | 34     | 48.08%  |
+| SSD  | 26        | 30     | 50.98%  |
+| HDD  | 25        | 35     | 49.02%  |
 
 Drive Connector
 ---------------
@@ -841,8 +841,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 37        | 40     | 63.79%  |
-| 0.51-1.0   | 16        | 16     | 27.59%  |
+| 0.01-0.5   | 36        | 39     | 62.07%  |
+| 0.51-1.0   | 17        | 17     | 29.31%  |
 | 1.01-2.0   | 4         | 8      | 6.9%    |
 | 2.01-3.0   | 1         | 1      | 1.72%   |
 
@@ -1544,7 +1544,7 @@ Controller models
 | Intel Ethernet Connection I217-LM                                                     | 2         | 2.3%    |
 | Intel Ethernet Connection (2) I219-LM                                                 | 2         | 2.3%    |
 | VIA VT6105M [Rhine-III]                                                               | 1         | 1.15%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                                         | 1         | 1.15%   |
+| Sierra Wireless EM7345 4G LTE                                                         | 1         | 1.15%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 1.15%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 1.15%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 1         | 1.15%   |
@@ -1605,7 +1605,7 @@ Wireless models
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 2         | 6.9%    |
 | Intel Wireless 8265 / 8275                                                            | 2         | 6.9%    |
 | Intel Wireless 7265                                                                   | 2         | 6.9%    |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                                         | 1         | 3.45%   |
+| Sierra Wireless EM7345 4G LTE                                                         | 1         | 3.45%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 3.45%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 3.45%   |
 | Realtek 802.11n WLAN Adapter                                                          | 1         | 3.45%   |

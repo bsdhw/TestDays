@@ -747,7 +747,7 @@ Hard drive models
 | HPT DISK 0_11 1TB               | 2        | 1.28%   |
 | HPT DISK 0_10 1TB               | 2        | 1.28%   |
 | HPT DISK 0_1 1TB                | 2        | 1.28%   |
-| HPT DISK 0_0 1TB                | 2        | 1.28%   |
+| HPT DISK 0_0 4TB                | 2        | 1.28%   |
 | Hitachi HDS723020BLA642 2TB     | 2        | 1.28%   |
 | Hitachi HDS722020ALA330 2TB     | 2        | 1.28%   |
 | Crucial M4-CT064M4SSD2 64GB     | 2        | 1.28%   |
@@ -845,13 +845,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 26       | 62     | 37.68%  |
-| 1.01-2.0   | 13       | 40     | 18.84%  |
-| 2.01-3.0   | 12       | 65     | 17.39%  |
-| 0.51-1.0   | 7        | 48     | 10.14%  |
-| 3.01-4.0   | 5        | 22     | 7.25%   |
-| 4.01-10.0  | 5        | 13     | 7.25%   |
-| 10.01-20.0 | 1        | 2      | 1.45%   |
+| 0.01-0.5   | 26       | 62     | 36.62%  |
+| 1.01-2.0   | 13       | 40     | 18.31%  |
+| 2.01-3.0   | 12       | 65     | 16.9%   |
+| 3.01-4.0   | 7        | 24     | 9.86%   |
+| 0.51-1.0   | 7        | 46     | 9.86%   |
+| 4.01-10.0  | 5        | 13     | 7.04%   |
+| 10.01-20.0 | 1        | 2      | 1.41%   |
 
 Space Total
 -----------
@@ -1081,11 +1081,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | Kind | Desktops | Percent |
 |------|----------|---------|
 | SATA | 33       | 48.53%  |
-| RAID | 13       | 19.12%  |
+| RAID | 12       | 17.65%  |
 | IDE  | 8        | 11.76%  |
 | SAS  | 7        | 10.29%  |
 | NVMe | 6        | 8.82%   |
-| SCSI | 1        | 1.47%   |
+| SCSI | 2        | 2.94%   |
 
 Processor
 ---------
@@ -1651,6 +1651,7 @@ Sound card models
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                  | 2        | 10.53%  |
 | AMD Starship/Matisse HD Audio Controller                                          | 2        | 10.53%  |
 | AMD SBx00 Azalia (Intel HDA)                                                      | 2        | 10.53%  |
+| Intel Smart Sound Technology (SST) Audio Controller                               | 1        | 5.26%   |
 | Intel 9 Series Chipset Family HD Audio Controller                                 | 1        | 5.26%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 1        | 5.26%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 1        | 5.26%   |
@@ -1658,7 +1659,6 @@ Sound card models
 | AMD FCH Azalia Controller                                                         | 1        | 5.26%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                               | 1        | 5.26%   |
 | AMD BeaverCreek HDMI Audio [Radeon HD 6500D and 6400G-6600G series]               | 1        | 5.26%   |
-| Unknown                                                                           | 1        | 5.26%   |
 
 Memory
 ------

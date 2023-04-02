@@ -836,15 +836,16 @@ Storage controller models
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
 | AMD FCH SATA Controller [AHCI mode]                                            | 3        | 8.57%   |
-| Unknown                                                                        | 3        | 8.57%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2        | 5.71%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 2        | 5.71%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 2        | 5.71%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 5.71%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 2        | 5.71%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 5.71%   |
+| Unknown                                                                        | 2        | 5.71%   |
 | SanDisk PC SN520 NVMe SSD                                                      | 1        | 2.86%   |
 | Micron/Crucial P1 NVMe PCIe SSD                                                | 1        | 2.86%   |
+| Micron/Crucial NVMe Storage Controller                                         | 1        | 2.86%   |
 | Kingston Company A2000 NVMe SSD                                                | 1        | 2.86%   |
 | Intel SSD 660P Series                                                          | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.86%   |
@@ -1511,8 +1512,8 @@ Sound card models
 | Intel 200 Series PCH HD Audio                                              | 2        | 4.76%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 2        | 4.76%   |
 | XMOS Shanling UA2                                                          | 1        | 2.38%   |
-| Sony Sony Audio                                                            | 1        | 2.38%   |
 | Sony DualShock 4 [CUH-ZCT2x]                                               | 1        | 2.38%   |
+| Sony Audio                                                                 | 1        | 2.38%   |
 | Quanta USB Audio Realtek USB2.0 Audio Microphone                           | 1        | 2.38%   |
 | Nvidia High Definition Audio Controller                                    | 1        | 2.38%   |
 | Nvidia GP108 High Definition Audio Controller                              | 1        | 2.38%   |
@@ -1531,10 +1532,10 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1        | 2.38%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 2.38%   |
 | Creative Technology Sound Blaster Omni Surround 5.1                        | 1        | 2.38%   |
-| Corsair Corsair VOID PRO Wireless Gaming Headset                           | 1        | 2.38%   |
-| Corsair Corsair ST100 Headset Output                                       | 1        | 2.38%   |
+| Corsair VOID PRO Wireless Gaming Headset                                   | 1        | 2.38%   |
+| Corsair ST100 Headset Output                                               | 1        | 2.38%   |
 | C-Media Electronics Audio Device                                           | 1        | 2.38%   |
-| Audio-Technica AT2020USB+                                                  | 1        | 2.38%   |
+| Audio-Technica AT2020USB+ Audio Control                                    | 1        | 2.38%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1        | 2.38%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 2.38%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 2.38%   |
@@ -1724,9 +1725,9 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Quanta Realtek DMFT - RGB | 1        | 100%    |
+| Model                   | Desktops | Percent |
+|-------------------------|----------|---------|
+| Quanta Realtek DMFT RGB | 1        | 100%    |
 
 Security
 --------

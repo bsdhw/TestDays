@@ -443,10 +443,10 @@ Motherboard manufacture year
 | 2020 | 8         | 20%     |
 | 2021 | 7         | 17.5%   |
 | 2018 | 4         | 10%     |
-| 2013 | 4         | 10%     |
+| 2011 | 4         | 10%     |
 | 2019 | 3         | 7.5%    |
+| 2013 | 3         | 7.5%    |
 | 2012 | 3         | 7.5%    |
-| 2011 | 3         | 7.5%    |
 | 2009 | 2         | 5%      |
 | 2008 | 2         | 5%      |
 | 2017 | 1         | 2.5%    |
@@ -979,6 +979,7 @@ Storage controller models
 | Samsung SM951 AHCI                                                               | 1         | 1.89%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 1.89%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 1.89%   |
+| Micron/Crucial NVMe Storage Controller                                           | 1         | 1.89%   |
 | Marvell Group 88SE91A3 SATA-600 Controller                                       | 1         | 1.89%   |
 | JMicron JMB362 SATA Controller                                                   | 1         | 1.89%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 1         | 1.89%   |
@@ -1002,7 +1003,6 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                             | 1         | 1.89%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 1         | 1.89%   |
 | Broadcom / LSI MegaRAID SAS-3 3108 [Invader]                                     | 1         | 1.89%   |
-| Unknown                                                                          | 1         | 1.89%   |
 
 Storage Kind
 ------------
@@ -1551,9 +1551,9 @@ Controller models
 | Intel Wireless 7260                                               | 1         | 1.37%   |
 | Intel Wireless 3165                                               | 1         | 1.37%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection           | 1         | 1.37%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.37%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                   | 1         | 1.37%   |
 | Intel I350 Gigabit Network Connection                             | 1         | 1.37%   |
-| Intel I225-K2                                                     | 1         | 1.37%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 1.37%   |
 | Intel Ethernet Controller I225-V                                  | 1         | 1.37%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.37%   |
@@ -1655,8 +1655,8 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 3.03%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.03%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 3.03%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 3.03%   |
 | Intel I350 Gigabit Network Connection                             | 1         | 3.03%   |
-| Intel I225-K2                                                     | 1         | 3.03%   |
 | Intel I211 Gigabit Network Connection                             | 1         | 3.03%   |
 | Intel Ethernet Controller I225-V                                  | 1         | 3.03%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 3.03%   |
@@ -1762,7 +1762,7 @@ Controller models
 | Apple Bluetooth Host Controller                   | 2         | 7.14%   |
 | Toshiba Realtek Bluetooth 4.0 + High Speed Chip   | 1         | 3.57%   |
 | Realtek RTL8723B Bluetooth                        | 1         | 3.57%   |
-| Realtek Bluetooth Radio                           | 1         | 3.57%   |
+| Realtek Bluetooth Adapter                         | 1         | 3.57%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth        | 1         | 3.57%   |
 | IMC Networks Qualcomm Atheros Bluetooth 4.1       | 1         | 3.57%   |
 | Apple Bluetooth USB Host Controller               | 1         | 3.57%   |
@@ -1823,7 +1823,7 @@ Sound card models
 | Nvidia GF116 High Definition Audio Controller                                                     | 1         | 1.52%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 1.52%   |
 | Nvidia GA104 High Definition Audio Controller                                                     | 1         | 1.52%   |
-| Logitech G935 Gaming Headset G935 Gaming Headset G935 Gaming Headset                              | 1         | 1.52%   |
+| Logitech G935/G933s Gaming Headset                                                                | 1         | 1.52%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 1         | 1.52%   |
 | Intel Sunrise Point-LP HD Audio                                                                   | 1         | 1.52%   |
 | Intel Crystal Well HD Audio Controller                                                            | 1         | 1.52%   |
@@ -1884,7 +1884,7 @@ Memory module models
 | Unknown                                                          | 2         | 4%      |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
@@ -2056,14 +2056,14 @@ Camera device models
 | Realtek Integrated_Webcam_HD         | 2         | 10.53%  |
 | Realtek Front Camera                 | 1         | 5.26%   |
 | Quanta VGA WebCam                    | 1         | 5.26%   |
-| Quanta USB2.0 HD UVC WebCam          | 1         | 5.26%   |
+| Quanta Realtek PC Camera             | 1         | 5.26%   |
 | Quanta HP TrueVision HD Camera       | 1         | 5.26%   |
 | Microdia Laptop_Integrated_Webcam_HD | 1         | 5.26%   |
 | Microdia Integrated Webcam           | 1         | 5.26%   |
 | Logitech HD Pro Webcam C920          | 1         | 5.26%   |
 | Logitech C920 HD Pro Webcam          | 1         | 5.26%   |
-| IMC Networks USB2.0 VGA UVC WebCam   | 1         | 5.26%   |
-| IMC Networks USB2.0 UVC HD Webcam    | 1         | 5.26%   |
+| IMC Networks USB 2.0 UVC HD Webcam   | 1         | 5.26%   |
+| IMC Networks Realtek DMFT RGB        | 1         | 5.26%   |
 | IMC Networks Integrated Camera       | 1         | 5.26%   |
 | Chicony Integrated HP HD Webcam      | 1         | 5.26%   |
 | Chicony Integrated Camera            | 1         | 5.26%   |

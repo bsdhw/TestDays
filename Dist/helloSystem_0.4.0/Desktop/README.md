@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 2        | 1%      |
 | Seagate ST1000DM003-1ER162 1TB      | 2        | 1%      |
 | SanDisk SDSSDA240G 240GB            | 2        | 1%      |
-| SanDisk pSSD 32GB                   | 2        | 1%      |
+| SanDisk pSSD 128GB                  | 2        | 1%      |
 | Samsung SSD 960 EVO 500GB           | 2        | 1%      |
 | Samsung SSD 960 EVO 250GB           | 2        | 1%      |
 | Samsung SSD 840 EVO 1TB             | 2        | 1%      |
@@ -1133,7 +1133,6 @@ Storage controller models
 | Intel C600/X79 series chipset IDE-r Controller                                 | 2        | 1.43%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2        | 1.43%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 1.43%   |
-| Unknown                                                                        | 2        | 1.43%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1        | 0.71%   |
 | Samsung SM951 AHCI                                                             | 1        | 0.71%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 0.71%   |
@@ -1143,6 +1142,7 @@ Storage controller models
 | JMicron JMB368 IDE controller                                                  | 1        | 0.71%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1        | 0.71%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1        | 0.71%   |
+| Intel SSD 665p Series                                                          | 1        | 0.71%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 0.71%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 1        | 0.71%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                           | 1        | 0.71%   |
@@ -1796,7 +1796,7 @@ Wireless models
 | Intel Centrino Advanced-N 6230 [Rainbow Peak]                                         | 1        | 3.85%   |
 | Broadcom BCM43224 802.11a/b/g/n                                                       | 1        | 3.85%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                                | 1        | 3.85%   |
-| Broadcom 802.11ac Network Adapter                                                     | 1        | 3.85%   |
+| Broadcom 802.11ac Wireless Network Adapter                                            | 1        | 3.85%   |
 
 Ethernet Vendor
 ---------------
@@ -1946,15 +1946,15 @@ Controller models
 | Intel Bluetooth wireless interface                      | 3        | 10.71%  |
 | Intel AX200 Bluetooth                                   | 3        | 10.71%  |
 | Broadcom BCM20702A0 Bluetooth 4.0                       | 2        | 7.14%   |
-| ASUS ASUS USB-BT500                                     | 2        | 7.14%   |
-| Realtek  Bluetooth Adapter                              | 1        | 3.57%   |
-| Realtek  Bluetooth 4.0 Adapter                          | 1        | 3.57%   |
-| Realtek Bluetooth Radio                                 | 1        | 3.57%   |
+| ASUS USB-BT500                                          | 2        | 7.14%   |
+| Realtek Bluetooth Adapter                               | 1        | 3.57%   |
+| Realtek Bluetooth 5.1 Adapter                           | 1        | 3.57%   |
+| Realtek Bluetooth 4.0 Adapter                           | 1        | 3.57%   |
 | Intel Wireless-AC 3168 Bluetooth                        | 1        | 3.57%   |
 | Intel Centrino Bluetooth Wireless Transceiver           | 1        | 3.57%   |
 | Integrated System Solution Bluetooth Device             | 1        | 3.57%   |
 | IMC Networks Qualcomm Atheros AR9462 Bluetooth 4.0 + HS | 1        | 3.57%   |
-| Broadcom Broadcom 4371 Bluetooth 4.1 Adapter            | 1        | 3.57%   |
+| Broadcom 4371 Bluetooth 4.1 Adapter                     | 1        | 3.57%   |
 | Apple Built-in Bluetooth 2.0+EDR HCI                    | 1        | 3.57%   |
 
 Sound
@@ -2073,48 +2073,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                       | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                           | 2        | 1.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s              | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s               | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                      | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s              | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4096MB DIMM DDR3 1866MT/s          | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s             | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s             | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM 1600MT/s                    | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                           | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                    | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                     | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                           | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s                  | 1        | 0.84%   |
-| Team RAM Elite-1600 4GB DIMM DDR3 1600MT/s                        | 1        | 0.84%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                   | 1        | 0.84%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s             | 1        | 0.84%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s              | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s      | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s                 | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s               | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3                        | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s               | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s               | 1        | 0.84%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3        | 2.52%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 1.68%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 1.68%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2        | 1.68%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2        | 1.68%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2        | 1.68%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
+| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s          | 2        | 1.68%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1        | 0.84%   |
+| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                     | 1        | 0.84%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1        | 0.84%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s           | 1        | 0.84%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s   | 1        | 0.84%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s              | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
 
 Memory Kind
 -----------
@@ -2173,23 +2173,23 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 28       | 29.79%  |
-| 1333    | 20       | 21.28%  |
-| 2400    | 13       | 13.83%  |
-| 800     | 7        | 7.45%   |
-| 3200    | 5        | 5.32%   |
-| 2133    | 4        | 4.26%   |
-| 2666    | 3        | 3.19%   |
-| 1867    | 2        | 2.13%   |
-| 1866    | 2        | 2.13%   |
-| 1067    | 2        | 2.13%   |
-| 1066    | 2        | 2.13%   |
-| 3600    | 1        | 1.06%   |
-| 3000    | 1        | 1.06%   |
-| 2933    | 1        | 1.06%   |
-| 2667    | 1        | 1.06%   |
-| 667     | 1        | 1.06%   |
-| Unknown | 1        | 1.06%   |
+| 1600    | 28       | 29.47%  |
+| 1333    | 20       | 21.05%  |
+| 2400    | 13       | 13.68%  |
+| 800     | 7        | 7.37%   |
+| 3200    | 6        | 6.32%   |
+| 2133    | 4        | 4.21%   |
+| 2666    | 3        | 3.16%   |
+| 1867    | 2        | 2.11%   |
+| 1866    | 2        | 2.11%   |
+| 1067    | 2        | 2.11%   |
+| 1066    | 2        | 2.11%   |
+| 3600    | 1        | 1.05%   |
+| 3000    | 1        | 1.05%   |
+| 2933    | 1        | 1.05%   |
+| 2667    | 1        | 1.05%   |
+| 667     | 1        | 1.05%   |
+| Unknown | 1        | 1.05%   |
 
 Printers & scanners
 -------------------
@@ -2267,8 +2267,8 @@ Camera device vendors
 | Microdia                      | 2        | 14.29%  |
 | Logitech                      | 2        | 14.29%  |
 | ARC International             | 2        | 14.29%  |
+| ValueHD                       | 1        | 7.14%   |
 | Sunplus Innovation Technology | 1        | 7.14%   |
-| Linux Foundation              | 1        | 7.14%   |
 | KYE Systems (Mouse Systems)   | 1        | 7.14%   |
 | Generalplus Technology        | 1        | 7.14%   |
 | Chicony Electronics           | 1        | 7.14%   |
@@ -2287,14 +2287,14 @@ Camera device models
 | ARC International Camera                         | 2        | 14.29%  |
 | Z-Star Venus USB2.0 Camera                       | 1        | 7.14%   |
 | Z-Star Vega USB 2.0 Camera                       | 1        | 7.14%   |
+| ValueHD HD Camera                                | 1        | 7.14%   |
 | Sunplus Aukey-PC-LM1E Camera                     | 1        | 7.14%   |
 | Microdia Webcam Vitade AF                        | 1        | 7.14%   |
-| Microdia ASUS USB2.0 Webcam                      | 1        | 7.14%   |
+| Microdia ASUS USB 2.0 Webcam                     | 1        | 7.14%   |
 | Logitech Webcam C310                             | 1        | 7.14%   |
 | Logitech C922 Pro Stream Webcam                  | 1        | 7.14%   |
-| Linux Foundation HD Camera                       | 1        | 7.14%   |
 | KYE Systems (Mouse Systems) AUKEY PC-LM1E Camera | 1        | 7.14%   |
-| Generalplus GENERAL WEBCAM                       | 1        | 7.14%   |
+| Generalplus HD Webcam                            | 1        | 7.14%   |
 | Chicony HP Integrated Webcam                     | 1        | 7.14%   |
 | Alcor Micro PC Camera                            | 1        | 7.14%   |
 

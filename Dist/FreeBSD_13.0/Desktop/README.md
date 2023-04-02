@@ -1169,10 +1169,10 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 2        | 1.46%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 2        | 1.46%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 2        | 1.46%   |
+| ASMedia 1064 SATA Controller                                                   | 2        | 1.46%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 2        | 1.46%   |
 | AMD FCH IDE Controller                                                         | 2        | 1.46%   |
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 2        | 1.46%   |
-| Unknown                                                                        | 2        | 1.46%   |
 | Silicon Integrated Systems [SiS] RAID bus controller 180 SATA/PATA  [SiS]      | 1        | 0.73%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1        | 0.73%   |
 | Seagate FireCuda 530 SSD                                                       | 1        | 0.73%   |
@@ -1791,8 +1791,8 @@ Controller models
 | Realtek RTL8192EE PCIe Wireless Network Adapter                               | 1        | 0.83%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                    | 1        | 0.83%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 0.83%   |
-| Realtek Realtek Bluetooth Adapter                                             | 1        | 0.83%   |
-| Realtek Realtek 8811CU Wireless LAN 802.11ac USB NIC                          | 1        | 0.83%   |
+| Realtek Bluetooth Adapter                                                     | 1        | 0.83%   |
+| Realtek 8811CU Wireless LAN 802.11ac USB NIC                                  | 1        | 0.83%   |
 | Ralink RT5370 Wireless Adapter                                                | 1        | 0.83%   |
 | Ralink RT2500 Wireless 802.11bg                                               | 1        | 0.83%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 0.83%   |
@@ -1801,7 +1801,7 @@ Controller models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                | 1        | 0.83%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                              | 1        | 0.83%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 0.83%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                                    | 1        | 0.83%   |
+| Qualcomm ALCATEL RNDIS Interface                                              | 1        | 0.83%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 0.83%   |
 | Intel Wireless 7265                                                           | 1        | 0.83%   |
 | Intel Wireless 3160                                                           | 1        | 0.83%   |
@@ -1845,8 +1845,8 @@ Wireless models
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 1        | 3.7%    |
 | Realtek RTL8192EE PCIe Wireless Network Adapter                | 1        | 3.7%    |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                     | 1        | 3.7%    |
-| Realtek Realtek Bluetooth Adapter                              | 1        | 3.7%    |
-| Realtek Realtek 8811CU Wireless LAN 802.11ac USB NIC           | 1        | 3.7%    |
+| Realtek Bluetooth Adapter                                      | 1        | 3.7%    |
+| Realtek 8811CU Wireless LAN 802.11ac USB NIC                   | 1        | 3.7%    |
 | Ralink RT5370 Wireless Adapter                                 | 1        | 3.7%    |
 | Ralink RT2500 Wireless 802.11bg                                | 1        | 3.7%    |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 1        | 3.7%    |
@@ -1908,7 +1908,7 @@ Ethernet models
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 1.11%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.11%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.11%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                                    | 1        | 1.11%   |
+| Qualcomm ALCATEL RNDIS Interface                                              | 1        | 1.11%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 1.11%   |
 | Intel I350 Gigabit Network Connection                                         | 1        | 1.11%   |
 | Intel Ethernet Controller I225-V                                              | 1        | 1.11%   |
@@ -2137,7 +2137,6 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2        | 2.47%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2        | 2.47%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2        | 2.47%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.47%   |
 | Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s | 2        | 2.47%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 2        | 2.47%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.23%   |
@@ -2152,6 +2151,8 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 400MT/s                     | 1        | 1.23%   |
 | Unknown RAM Module 16GB DIMM DDR4 2133MT/s              | 1        | 1.23%   |
 | Unknown RAM 2G-08-10-12-1333 2GB DIMM DDR3 1333MT/s     | 1        | 1.23%   |
+| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s     | 1        | 1.23%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 1        | 1.23%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.23%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.23%   |
 | SK hynix RAM HMA82GU6AFR8N-UH 16GB DIMM DDR4 2400MT/s   | 1        | 1.23%   |
@@ -2172,7 +2173,6 @@ Memory module models
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.23%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s     | 1        | 1.23%   |
 | Kingston RAM KHX16LC9/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.23%   |
-| Kingston RAM KHX1600C9D3/8GX 8GB DIMM DDR3 1333MT/s     | 1        | 1.23%   |
 
 Memory Kind
 -----------
@@ -2215,10 +2215,10 @@ Memory module size
 | Size  | Desktops | Percent |
 |-------|----------|---------|
 | 8192  | 29       | 37.66%  |
-| 16384 | 16       | 20.78%  |
+| 16384 | 15       | 19.48%  |
 | 4096  | 11       | 14.29%  |
 | 2048  | 11       | 14.29%  |
-| 32768 | 5        | 6.49%   |
+| 32768 | 6        | 7.79%   |
 | 1024  | 5        | 6.49%   |
 
 Memory Speed

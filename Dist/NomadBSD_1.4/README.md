@@ -1539,7 +1539,7 @@ Controller models
 | Intel Bluetooth wireless interface            | 5         | 38.46%  |
 | Realtek RTL8821A Bluetooth                    | 1         | 7.69%   |
 | Realtek  Bluetooth 4.2 Adapter                | 1         | 7.69%   |
-| Qualcomm Atheros  QCA9377 Bluetooth 4.1       | 1         | 7.69%   |
+| Qualcomm Atheros QCA9377 Bluetooth 4.1        | 1         | 7.69%   |
 | Lite-On Atheros AR3012 Bluetooth              | 1         | 7.69%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter      | 1         | 7.69%   |
 | Intel AX201 Bluetooth                         | 1         | 7.69%   |
@@ -1647,9 +1647,9 @@ Memory module models
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 3.23%   |
 | Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 3.23%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 3.23%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 4GB SODIMM DDR3 1600MT/s                     | 1         | 3.23%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 3.23%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s                    | 1         | 3.23%   |
-| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s                    | 1         | 3.23%   |
+| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1333MT/s                    | 1         | 3.23%   |
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 3.23%   |
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s                            | 1         | 3.23%   |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s                   | 1         | 3.23%   |
@@ -1720,7 +1720,7 @@ Memory module speed
 | 3200    | 1         | 3.85%   |
 | 1867    | 1         | 3.85%   |
 | 1866    | 1         | 3.85%   |
-| 1067    | 1         | 3.85%   |
+| 1333    | 1         | 3.85%   |
 | 1066    | 1         | 3.85%   |
 | 800     | 1         | 3.85%   |
 | Unknown | 1         | 3.85%   |
@@ -1805,7 +1805,7 @@ Camera device models
 | Realtek Lenovo EasyCamera                           | 1         | 5.88%   |
 | Microdia Sonix USB 2.0 Camera                       | 1         | 5.88%   |
 | Logitech C505 HD Webcam                             | 1         | 5.88%   |
-| IMC Networks USB2.0 VGA UVC WebCam                  | 1         | 5.88%   |
+| IMC Networks Realtek DMFT RGB                       | 1         | 5.88%   |
 | Chicony Webcam                                      | 1         | 5.88%   |
 | Chicony USB2.0 HD UVC WebCam                        | 1         | 5.88%   |
 | Chicony HP TrueVision HD Camera                     | 1         | 5.88%   |

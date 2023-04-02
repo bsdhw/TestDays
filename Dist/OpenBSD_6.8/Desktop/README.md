@@ -145,10 +145,11 @@ Contents
 Test Cases
 ----------
 
-Total: 133
+Total: 134
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Apple         | PowerMac10,1                | [13ac9d6b7e](https://bsd-hardware.info/?probe=13ac9d6b7e) | Mar 01, 2023 |
 | Apple         | PowerMac10,1                | [0760ed34c3](https://bsd-hardware.info/?probe=0760ed34c3) | Nov 21, 2022 |
 | ASRock        | X99 WS                      | [201a7417a5](https://bsd-hardware.info/?probe=201a7417a5) | Jun 11, 2021 |
 | Apple         | PowerMac10,1                | [d098ba539d](https://bsd-hardware.info/?probe=d098ba539d) | May 27, 2021 |
@@ -825,7 +826,7 @@ Hard drive vendors
 | Samsung Electronics | 11       | 19     | 6.92%   |
 | Phison              | 11       | 11     | 6.92%   |
 | NVMe                | 9        | 10     | 5.66%   |
-| Hitachi             | 8        | 9      | 5.03%   |
+| Hitachi             | 8        | 10     | 5.03%   |
 | Crucial             | 8        | 17     | 5.03%   |
 | HGST                | 6        | 7      | 3.77%   |
 | Dell                | 6        | 10     | 3.77%   |
@@ -871,7 +872,7 @@ Hard drive models
 | HGST HUS724020ALA640 2TB           | 3        | 1.74%   |
 | Crucial CT120BX500SSD1 120GB       | 3        | 1.74%   |
 | WDC WD Elements 25A1 4TB           | 2        | 1.16%   |
-| USB SanDisk 3.2Gen1 64GB           | 2        | 1.16%   |
+| USB SanDisk 3.2Gen1 16GB           | 2        | 1.16%   |
 | Seagate ST1000LM024 HN-M101MBB 1TB | 2        | 1.16%   |
 | Samsung SSD 860 EVO mSATA 500GB    | 2        | 1.16%   |
 | Samsung SSD 850 EVO M.2 250GB      | 2        | 1.16%   |
@@ -916,26 +917,26 @@ Hard disk drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 20       | 27     | 23.53%  |
-| Seagate             | 19       | 28     | 22.35%  |
-| Hitachi             | 8        | 9      | 9.41%   |
-| HGST                | 6        | 7      | 7.06%   |
-| Dell                | 6        | 10     | 7.06%   |
-| OPENBSD             | 5        | 5      | 5.88%   |
-| NVMe                | 5        | 6      | 5.88%   |
-| Samsung Electronics | 3        | 4      | 3.53%   |
-| USB                 | 2        | 2      | 2.35%   |
-| SABRENT             | 1        | 1      | 1.18%   |
-| Multiple            | 1        | 1      | 1.18%   |
-| Maxtor              | 1        | 1      | 1.18%   |
-| MaxDigital          | 1        | 1      | 1.18%   |
-| LSI                 | 1        | 1      | 1.18%   |
-| Lexar               | 1        | 1      | 1.18%   |
-| JetFlash            | 1        | 1      | 1.18%   |
-| IBM                 | 1        | 1      | 1.18%   |
-| General             | 1        | 1      | 1.18%   |
-| ASMT                | 1        | 1      | 1.18%   |
-| Apple               | 1        | 1      | 1.18%   |
+| WDC                 | 20       | 27     | 23.26%  |
+| Seagate             | 19       | 28     | 22.09%  |
+| Hitachi             | 8        | 10     | 9.3%    |
+| HGST                | 6        | 7      | 6.98%   |
+| Dell                | 6        | 10     | 6.98%   |
+| OPENBSD             | 5        | 5      | 5.81%   |
+| NVMe                | 5        | 6      | 5.81%   |
+| Samsung Electronics | 3        | 4      | 3.49%   |
+| USB                 | 2        | 2      | 2.33%   |
+| LSI                 | 2        | 2      | 2.33%   |
+| SABRENT             | 1        | 1      | 1.16%   |
+| Multiple            | 1        | 1      | 1.16%   |
+| Maxtor              | 1        | 1      | 1.16%   |
+| MaxDigital          | 1        | 1      | 1.16%   |
+| Lexar               | 1        | 1      | 1.16%   |
+| JetFlash            | 1        | 1      | 1.16%   |
+| IBM                 | 1        | 1      | 1.16%   |
+| General             | 1        | 1      | 1.16%   |
+| ASMT                | 1        | 1      | 1.16%   |
+| Apple               | 1        | 1      | 1.16%   |
 
 SSD Vendor
 ----------
@@ -947,25 +948,24 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 16       | 17     | 21.62%  |
-| Phison              | 11       | 11     | 14.86%  |
-| Samsung Electronics | 8        | 15     | 10.81%  |
-| Crucial             | 8        | 17     | 10.81%  |
-| Transcend           | 5        | 8      | 6.76%   |
-| Intel               | 5        | 5      | 6.76%   |
-| NVMe                | 4        | 4      | 5.41%   |
-| A-DATA Technology   | 4        | 5      | 5.41%   |
-| WDC                 | 2        | 2      | 2.7%    |
-| SanDisk             | 2        | 3      | 2.7%    |
-| SK hynix            | 1        | 1      | 1.35%   |
-| Qumo                | 1        | 1      | 1.35%   |
-| PNY                 | 1        | 1      | 1.35%   |
-| OCZ                 | 1        | 1      | 1.35%   |
-| MidasForce          | 1        | 1      | 1.35%   |
-| LSI                 | 1        | 1      | 1.35%   |
-| LITEONIT            | 1        | 1      | 1.35%   |
-| Hoodisk             | 1        | 2      | 1.35%   |
-| Hewlett-Packard     | 1        | 2      | 1.35%   |
+| Kingston            | 16       | 17     | 21.92%  |
+| Phison              | 11       | 11     | 15.07%  |
+| Samsung Electronics | 8        | 15     | 10.96%  |
+| Crucial             | 8        | 17     | 10.96%  |
+| Transcend           | 5        | 8      | 6.85%   |
+| Intel               | 5        | 5      | 6.85%   |
+| NVMe                | 4        | 4      | 5.48%   |
+| A-DATA Technology   | 4        | 5      | 5.48%   |
+| WDC                 | 2        | 2      | 2.74%   |
+| SanDisk             | 2        | 3      | 2.74%   |
+| SK hynix            | 1        | 1      | 1.37%   |
+| Qumo                | 1        | 1      | 1.37%   |
+| PNY                 | 1        | 1      | 1.37%   |
+| OCZ                 | 1        | 1      | 1.37%   |
+| MidasForce          | 1        | 1      | 1.37%   |
+| LITEONIT            | 1        | 1      | 1.37%   |
+| Hoodisk             | 1        | 2      | 1.37%   |
+| Hewlett-Packard     | 1        | 2      | 1.37%   |
 
 Drive Kind
 ----------
@@ -977,8 +977,8 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 65       | 98     | 52%     |
-| HDD  | 60       | 109    | 48%     |
+| SSD  | 64       | 97     | 51.2%   |
+| HDD  | 61       | 111    | 48.8%   |
 
 Drive Connector
 ---------------
@@ -990,7 +990,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 107      | 207    | 100%    |
+| SATA | 107      | 208    | 100%    |
 
 Drive Size
 ----------
@@ -1002,8 +1002,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 90       | 134    | 65.69%  |
-| 0.51-1.0   | 24       | 32     | 17.52%  |
+| 0.01-0.5   | 89       | 134    | 64.96%  |
+| 0.51-1.0   | 25       | 33     | 18.25%  |
 | 1.01-2.0   | 13       | 26     | 9.49%   |
 | 3.01-4.0   | 5        | 6      | 3.65%   |
 | 4.01-10.0  | 3        | 5      | 2.19%   |
@@ -1155,7 +1155,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 82       | 143    | 64.57%  |
+| Works    | 82       | 144    | 64.57%  |
 | Detected | 30       | 46     | 23.62%  |
 | Malfunc  | 14       | 16     | 11.02%  |
 | Failed   | 1        | 2      | 0.79%   |
@@ -1820,7 +1820,7 @@ Controller models
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 1.38%   |
 | Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 2        | 1.38%   |
 | VIA VT6105M [Rhine-III]                                           | 1        | 0.69%   |
-| TP-Link TP-LINK Wireless USB Adapter                              | 1        | 0.69%   |
+| TP-Link Wireless USB Adapter                                      | 1        | 0.69%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.69%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 1        | 0.69%   |
 | Realtek RTL8191SU 802.11n WLAN Adapter                            | 1        | 0.69%   |
@@ -1878,7 +1878,7 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 4        | 16%     |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                | 2        | 8%      |
 | Qualcomm Atheros AR5212/5213/2414 Wireless Network Adapter     | 2        | 8%      |
-| TP-Link TP-LINK Wireless USB Adapter                           | 1        | 4%      |
+| TP-Link Wireless USB Adapter                                   | 1        | 4%      |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1        | 4%      |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 1        | 4%      |
 | Realtek RTL8191SU 802.11n WLAN Adapter                         | 1        | 4%      |
@@ -2053,7 +2053,7 @@ Controller models
 | Model                                                | Desktops | Percent |
 |------------------------------------------------------|----------|---------|
 | IMC Networks Realtek Bluetooth 4.0 + High Speed Chip | 2        | 33.33%  |
-| Realtek  Bluetooth Adapter                           | 1        | 16.67%  |
+| Realtek Bluetooth Adapter                            | 1        | 16.67%  |
 | Intel Centrino Bluetooth Wireless Transceiver        | 1        | 16.67%  |
 | Intel Bluetooth wireless interface                   | 1        | 16.67%  |
 | Apple Bluetooth Host Controller                      | 1        | 16.67%  |
@@ -2071,13 +2071,13 @@ Sound card vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Intel               | 33       | 48.53%  |
-| AMD                 | 25       | 36.76%  |
-| Nvidia              | 5        | 7.35%   |
-| ULi Electronics     | 2        | 2.94%   |
-| Lenovo              | 1        | 1.47%   |
-| ESS Technology      | 1        | 1.47%   |
-| C-Media Electronics | 1        | 1.47%   |
+| Intel               | 33       | 47.14%  |
+| AMD                 | 25       | 35.71%  |
+| Nvidia              | 5        | 7.14%   |
+| C-Media Electronics | 3        | 4.29%   |
+| ULi Electronics     | 2        | 2.86%   |
+| Lenovo              | 1        | 1.43%   |
+| ESS Technology      | 1        | 1.43%   |
 
 Sound Model
 -----------
@@ -2089,46 +2089,46 @@ Sound card models
 
 | Model                                                                                             | Desktops | Percent |
 |---------------------------------------------------------------------------------------------------|----------|---------|
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7        | 8.43%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 5        | 6.02%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 4        | 4.82%   |
-| AMD SBx00 Azalia (Intel HDA)                                                                      | 4        | 4.82%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3        | 3.61%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3        | 3.61%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3        | 3.61%   |
-| AMD Starship/Matisse HD Audio Controller                                                          | 3        | 3.61%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3        | 3.61%   |
-| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3        | 3.61%   |
-| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2        | 2.41%   |
-| Nvidia MCP61 High Definition Audio                                                                | 2        | 2.41%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 2        | 2.41%   |
-| Intel Cannon Lake PCH cAVS                                                                        | 2        | 2.41%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 2        | 2.41%   |
-| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2        | 2.41%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2        | 2.41%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2        | 2.41%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2        | 2.41%   |
-| AMD Navi 10 HDMI Audio                                                                            | 2        | 2.41%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 2        | 2.41%   |
-| Nvidia High Definition Audio Controller                                                           | 1        | 1.2%    |
-| Nvidia GP106 High Definition Audio Controller                                                     | 1        | 1.2%    |
-| Nvidia GF110 High Definition Audio Controller                                                     | 1        | 1.2%    |
-| Lenovo Lenovo USB Soundbar                                                                        | 1        | 1.2%    |
-| Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.2%    |
-| Intel Crystal Well HD Audio Controller                                                            | 1        | 1.2%    |
-| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 1        | 1.2%    |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1        | 1.2%    |
-| Intel C610/X99 series chipset HD Audio Controller                                                 | 1        | 1.2%    |
-| Intel Broadwell-U Audio Controller                                                                | 1        | 1.2%    |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1        | 1.2%    |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1        | 1.2%    |
-| Intel 200 Series PCH HD Audio                                                                     | 1        | 1.2%    |
-| ESS Technology ES1968 Maestro 2                                                                   | 1        | 1.2%    |
-| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                     | 1        | 1.2%    |
-| AMD Wrestler HDMI Audio                                                                           | 1        | 1.2%    |
-| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1        | 1.2%    |
-| AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 1        | 1.2%    |
-| AMD FCH Azalia Controller                                                                         | 1        | 1.2%    |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 7        | 8.24%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller                                  | 5        | 5.88%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 4        | 4.71%   |
+| AMD SBx00 Azalia (Intel HDA)                                                                      | 4        | 4.71%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 3        | 3.53%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3        | 3.53%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3        | 3.53%   |
+| AMD Starship/Matisse HD Audio Controller                                                          | 3        | 3.53%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                                               | 3        | 3.53%   |
+| AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM]                 | 3        | 3.53%   |
+| ULi Electronics M5451 PCI AC-Link Controller Audio Device                                         | 2        | 2.35%   |
+| Nvidia MCP61 High Definition Audio                                                                | 2        | 2.35%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                                           | 2        | 2.35%   |
+| Intel Cannon Lake PCH cAVS                                                                        | 2        | 2.35%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 2        | 2.35%   |
+| Intel 82801EB/ER (ICH5/ICH5R) AC'97 Audio Controller                                              | 2        | 2.35%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 2        | 2.35%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2        | 2.35%   |
+| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 2        | 2.35%   |
+| AMD Navi 10 HDMI Audio                                                                            | 2        | 2.35%   |
+| AMD Family 17h/19h HD Audio Controller                                                            | 2        | 2.35%   |
+| Nvidia High Definition Audio Controller                                                           | 1        | 1.18%   |
+| Nvidia GP106 High Definition Audio Controller                                                     | 1        | 1.18%   |
+| Nvidia GF110 High Definition Audio Controller                                                     | 1        | 1.18%   |
+| Lenovo Lenovo USB Soundbar                                                                        | 1        | 1.18%   |
+| Intel Wildcat Point-LP High Definition Audio Controller                                           | 1        | 1.18%   |
+| Intel Crystal Well HD Audio Controller                                                            | 1        | 1.18%   |
+| Intel Celeron/Pentium Silver Processor High Definition Audio                                      | 1        | 1.18%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1        | 1.18%   |
+| Intel C610/X99 series chipset HD Audio Controller                                                 | 1        | 1.18%   |
+| Intel Broadwell-U Audio Controller                                                                | 1        | 1.18%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1        | 1.18%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1        | 1.18%   |
+| Intel 200 Series PCH HD Audio                                                                     | 1        | 1.18%   |
+| ESS Technology ES1968 Maestro 2                                                                   | 1        | 1.18%   |
+| C-Media Electronics CMI8788 [Oxygen HD Audio]                                                     | 1        | 1.18%   |
+| C-Media Electronics C-Media USB Audio Device                                                      | 1        | 1.18%   |
+| C-Media Electronics Blue Snowball                                                                 | 1        | 1.18%   |
+| AMD Wrestler HDMI Audio                                                                           | 1        | 1.18%   |
+| AMD Tobago HDMI Audio [Radeon R7 360 / R9 360 OEM]                                                | 1        | 1.18%   |
 
 Memory
 ------

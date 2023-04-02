@@ -678,7 +678,7 @@ Hard drive models
 | WDC WD10SPCX-24HWST1 1TB          | 1        | 1.59%   |
 | WDC WD1005FBYZ-01YCBB3 1TB        | 1        | 1.59%   |
 | WDC WD Elements 25A3 4TB          | 1        | 1.59%   |
-| USB SanDisk 3.2Gen1 64GB          | 1        | 1.59%   |
+| USB SanDisk 3.2Gen1 16GB          | 1        | 1.59%   |
 | Transcend 3E128-TS2-550B01 100GB  | 1        | 1.59%   |
 | Toshiba DT01ACA100 1TB            | 1        | 1.59%   |
 | SK hynix HFS128G39TND-N210A 128GB | 1        | 1.59%   |

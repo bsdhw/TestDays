@@ -972,10 +972,10 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 66        | 86     | 72.53%  |
-| 0.51-1.0   | 17        | 20     | 18.68%  |
-| 1.01-2.0   | 7         | 14     | 7.69%   |
-| 4.01-10.0  | 1         | 1      | 1.1%    |
+| 0.01-0.5   | 66        | 87     | 73.33%  |
+| 0.51-1.0   | 16        | 19     | 17.78%  |
+| 1.01-2.0   | 7         | 14     | 7.78%   |
+| 4.01-10.0  | 1         | 1      | 1.11%   |
 
 Space Total
 -----------
@@ -1891,7 +1891,7 @@ Wireless models
 | Intel Comet Lake PCH CNVi WiFi                                                    | 1         | 1.54%   |
 | Intel Centrino Wireless-N 1030 [Rainbow Peak]                                     | 1         | 1.54%   |
 | Intel Centrino Ultimate-N 6300                                                    | 1         | 1.54%   |
-| Dell Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                           | 1         | 1.54%   |
+| Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                                | 1         | 1.54%   |
 | D-Link System DWA-131 802.11n Wireless N Nano Adapter(rev.A1) [Realtek RTL8192SU] | 1         | 1.54%   |
 | D-Link DWA-131 Wireless N Nano Adapter (Rev. E1) [Realtek RTL8192EU]              | 1         | 1.54%   |
 
@@ -2063,7 +2063,7 @@ Controller models
 | Intel AX200 Bluetooth                               | 2         | 5.41%   |
 | Broadcom BCM2045B (BDC-2.1)                         | 2         | 5.41%   |
 | Alps Electric UGTZ4 Bluetooth                       | 2         | 5.41%   |
-| Realtek  Bluetooth Adapter                          | 1         | 2.7%    |
+| Realtek Bluetooth Adapter                           | 1         | 2.7%    |
 | Qualcomm Atheros Dell Wireless 1820 Bluetooth 4.1LE | 1         | 2.7%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.7%    |
 | Lite-On Atheros AR3012 Bluetooth                    | 1         | 2.7%    |
@@ -2073,8 +2073,8 @@ Controller models
 | Broadcom BCM43142A0 Bluetooth Module                | 1         | 2.7%    |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]  | 1         | 2.7%    |
 | ASUS Broadcom Bluetooth 2.1                         | 1         | 2.7%    |
+| Apple Broadcom Built-in Bluetooth                   | 1         | 2.7%    |
 | Apple Bluetooth Host Controller                     | 1         | 2.7%    |
-| Apple Apple Broadcom Built-in Bluetooth             | 1         | 2.7%    |
 
 Sound
 -----
@@ -2329,16 +2329,16 @@ Camera device models
 
 | Model                                         | Computers | Percent |
 |-----------------------------------------------|-----------|---------|
+| Bison Integrated Camera                       | 4         | 12.12%  |
 | Chicony Integrated Camera                     | 3         | 9.09%   |
-| Bison Integrated Camera                       | 3         | 9.09%   |
 | Microdia Integrated_Webcam_HD                 | 2         | 6.06%   |
 | IMC Networks Integrated Camera                | 2         | 6.06%   |
 | Z-Star Integrated Camera                      | 1         | 3.03%   |
 | Syntek Lenovo EasyCamera                      | 1         | 3.03%   |
 | Sunplus Integrated_Webcam_FHD                 | 1         | 3.03%   |
-| Silicon Motion Web Camera                     | 1         | 3.03%   |
+| Silicon Motion Realtek DMFT RGB               | 1         | 3.03%   |
 | Ricoh Integrated Webcam                       | 1         | 3.03%   |
-| Realtek USB 2 Webcam                          | 1         | 3.03%   |
+| Realtek USB 2.0 Webcam                        | 1         | 3.03%   |
 | Realtek Integrated Webcam                     | 1         | 3.03%   |
 | Microdia Ltd., USB  Live camera               | 1         | 3.03%   |
 | Luxvisions Innotech Limited Integrated Camera | 1         | 3.03%   |
@@ -2352,7 +2352,6 @@ Camera device models
 | Bison ThinkPad P50 Integrated Camera          | 1         | 3.03%   |
 | Bison ThinkPad Integrated Camera              | 1         | 3.03%   |
 | Bison SunplusIT Integrated Camera             | 1         | 3.03%   |
-| Bison EasyCamera                              | 1         | 3.03%   |
 | Apple FaceTime HD Camera                      | 1         | 3.03%   |
 | ALi WebCam                                    | 1         | 3.03%   |
 | Alcor Micro USB 2.0 Camera                    | 1         | 3.03%   |
@@ -2392,11 +2391,11 @@ Fingerprint sensor models
 | Validity Sensors VFS5011 Fingerprint Reader            | 1         | 9.09%   |
 | Validity Sensors VFS451 Fingerprint Reader             | 1         | 9.09%   |
 | Validity Sensors VFS 5011 fingerprint sensor           | 1         | 9.09%   |
-| Synaptics product 0x00be                               | 1         | 9.09%   |
+| Synaptics WBDI                                         | 1         | 9.09%   |
 | Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 9.09%   |
 | STMicroelectronics Fingerprint Reader                  | 1         | 9.09%   |
 | Shenzhen Goodix Fingerprint Reader                     | 1         | 9.09%   |
-| Samsung Fingerprint Device                             | 1         | 9.09%   |
+| Samsung CanvasBio Fingerprint Reader                   | 1         | 9.09%   |
 | AuthenTec AES2810                                      | 1         | 9.09%   |
 
 Chipcard Vendor

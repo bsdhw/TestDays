@@ -1134,7 +1134,7 @@ Storage controller models
 | Union Memory (Shenzhen) Memory unknown                                         | 1         | 1%      |
 | Toshiba XG5 NVMe SSD Controller                                                | 1         | 1%      |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 1%      |
-| Silicon Integrated Systems [SiS] 5518 UDMA IDE Controller                      | 1         | 1%      |
+| Silicon Integrated Systems [SiS] 5518 UDMA PATA Controller                     | 1         | 1%      |
 | SanDisk WD Black NVMe SSD                                                      | 1         | 1%      |
 | Nvidia MCP79 AHCI Controller                                                   | 1         | 1%      |
 | Marvell Group 88SS9183 PCIe SSD Controller                                     | 1         | 1%      |
@@ -1979,8 +1979,8 @@ Controller models
 | Intel Centrino Bluetooth Wireless Transceiver                                       | 2         | 3.92%   |
 | IMC Networks Asus Integrated Bluetooth module [AR3011]                              | 2         | 3.92%   |
 | Broadcom BCM2045B (BDC-2.1)                                                         | 2         | 3.92%   |
-| Apple Apple Broadcom Built-in Bluetooth                                             | 2         | 3.92%   |
-| Realtek  Bluetooth Adapter                                                          | 1         | 1.96%   |
+| Apple Broadcom Built-in Bluetooth                                                   | 2         | 3.92%   |
+| Realtek Bluetooth Adapter                                                           | 1         | 1.96%   |
 | Ralink RT3290 Bluetooth                                                             | 1         | 1.96%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                                            | 1         | 1.96%   |
 | Intel Wireless-AC 3168 Bluetooth                                                    | 1         | 1.96%   |
@@ -2228,42 +2228,42 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                                                         | Notebooks | Percent |
-|---------------------------------------------------------------|-----------|---------|
-| Chicony Integrated Camera                                     | 10        | 18.52%  |
-| Lite-On Integrated Camera                                     | 4         | 7.41%   |
-| IMC Networks Integrated Camera                                | 3         | 5.56%   |
-| Lenovo Integrated Webcam                                      | 2         | 3.7%    |
-| IMC Networks USB2.0 VGA UVC WebCam                            | 2         | 3.7%    |
-| Chicony Lenovo Integrated Camera (0.3MP)                      | 2         | 3.7%    |
-| Chicony Integrated Camera [ThinkPad]                          | 2         | 3.7%    |
-| Bison Lenovo EasyCamera                                       | 2         | 3.7%    |
-| Bison Integrated Camera                                       | 2         | 3.7%    |
-| Syntek EasyCamera                                             | 1         | 1.85%   |
-| Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)   | 1         | 1.85%   |
-| Sunplus Integrated_Webcam_FHD                                 | 1         | 1.85%   |
-| Sunplus Dell E5570 integrated webcam                          | 1         | 1.85%   |
-| Realtek USB2.0 HD UVC WebCam                                  | 1         | 1.85%   |
-| Realtek USB 2 Webcam                                          | 1         | 1.85%   |
-| Realtek Integrated_Webcam_HD                                  | 1         | 1.85%   |
-| Realtek EasyCamera                                            | 1         | 1.85%   |
-| Realtek Acer 640 x 480 laptop camera                          | 1         | 1.85%   |
-| Microdia PC Camera (SN9C201 + OV9650)                         | 1         | 1.85%   |
-| Microdia Integrated Webcam                                    | 1         | 1.85%   |
-| Luxvisions Innotech Limited HP Wide Vision HD Camera          | 1         | 1.85%   |
-| Logitech BRIO Ultra HD Webcam                                 | 1         | 1.85%   |
-| IMC Networks VGA UVC WebCam                                   | 1         | 1.85%   |
-| IMC Networks USB2.0 UVC HD Webcam                             | 1         | 1.85%   |
-| IMC Networks USB2.0 HD UVC WebCam                             | 1         | 1.85%   |
-| IMC Networks EasyCamera                                       | 1         | 1.85%   |
-| Chicony USB2.0 0.3M UVC WebCam                                | 1         | 1.85%   |
-| Chicony ThinkPad T490 Webcam                                  | 1         | 1.85%   |
-| Chicony Ltd., USB2.0 HD UVC WebCam                            | 1         | 1.85%   |
-| Chicony Integrated Camera (1280x720@30)                       | 1         | 1.85%   |
-| Chicony 2.0M UVC Webcam / CNF7129                             | 1         | 1.85%   |
-| Cheng Uei Precision Industry (Foxlink) USB2.0 UVC 1.3M WebCam | 1         | 1.85%   |
-| Bison SunplusIT Integrated Camera                             | 1         | 1.85%   |
-| Alcor Micro Asus Integrated Webcam                            | 1         | 1.85%   |
+| Model                                                          | Notebooks | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Chicony Integrated Camera                                      | 10        | 18.52%  |
+| Lite-On Integrated Camera                                      | 4         | 7.41%   |
+| IMC Networks Integrated Camera                                 | 3         | 5.56%   |
+| Lenovo Integrated Webcam                                       | 2         | 3.7%    |
+| IMC Networks Realtek DMFT RGB                                  | 2         | 3.7%    |
+| Chicony Lenovo Integrated Camera (0.3MP)                       | 2         | 3.7%    |
+| Chicony Integrated Camera [ThinkPad]                           | 2         | 3.7%    |
+| Bison Lenovo EasyCamera                                        | 2         | 3.7%    |
+| Bison Integrated Camera                                        | 2         | 3.7%    |
+| Syntek EasyCamera                                              | 1         | 1.85%   |
+| Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)    | 1         | 1.85%   |
+| Sunplus Integrated_Webcam_FHD                                  | 1         | 1.85%   |
+| Sunplus Dell E5570 integrated webcam                           | 1         | 1.85%   |
+| Realtek USB2.0 HD UVC WebCam                                   | 1         | 1.85%   |
+| Realtek USB 2.0 Webcam                                         | 1         | 1.85%   |
+| Realtek Integrated_Webcam_HD                                   | 1         | 1.85%   |
+| Realtek EasyCamera                                             | 1         | 1.85%   |
+| Realtek Acer 640 x 480 laptop camera                           | 1         | 1.85%   |
+| Microdia PC Camera (SN9C201 + OV9650)                          | 1         | 1.85%   |
+| Microdia Integrated Webcam                                     | 1         | 1.85%   |
+| Luxvisions Innotech Limited HP Wide Vision HD Camera           | 1         | 1.85%   |
+| Logitech BRIO Ultra HD Webcam                                  | 1         | 1.85%   |
+| IMC Networks VGA UVC WebCam                                    | 1         | 1.85%   |
+| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 1.85%   |
+| IMC Networks USB 2.0 UVC HD Webcam                             | 1         | 1.85%   |
+| IMC Networks EasyCamera                                        | 1         | 1.85%   |
+| Chicony USB2.0 0.3M UVC WebCam                                 | 1         | 1.85%   |
+| Chicony ThinkPad T490 Webcam                                   | 1         | 1.85%   |
+| Chicony Ltd., USB2.0 HD UVC WebCam                             | 1         | 1.85%   |
+| Chicony Integrated Camera (1280x720@30)                        | 1         | 1.85%   |
+| Chicony 2.0M UVC Webcam / CNF7129                              | 1         | 1.85%   |
+| Cheng Uei Precision Industry (Foxlink) USB 2.0 UVC 1.3M WebCam | 1         | 1.85%   |
+| Bison SunplusIT Integrated Camera                              | 1         | 1.85%   |
+| Alcor Micro Asus Integrated Webcam                             | 1         | 1.85%   |
 
 Security
 --------
@@ -2302,11 +2302,11 @@ Fingerprint sensor models
 | Validity Sensors Synaptics WBDI                        | 2         | 8%      |
 | AuthenTec AES2501 Fingerprint Sensor                   | 2         | 8%      |
 | Validity Sensors VFS5011 Fingerprint Reader            | 1         | 4%      |
-| Synaptics  WBDI                                        | 1         | 4%      |
+| Synaptics WBDI                                         | 1         | 4%      |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 4%      |
-| Shenzhen Goodix  FingerPrint Device                    | 1         | 4%      |
+| Shenzhen Goodix Fingerprint Reader SGX                 | 1         | 4%      |
 | Shenzhen Goodix Fingerprint Reader                     | 1         | 4%      |
-| Elan ELAN WBF Fingerprint Sensor                       | 1         | 4%      |
+| Elan Fingerprint Sensor                                | 1         | 4%      |
 | AuthenTec AES2810                                      | 1         | 4%      |
 
 Chipcard Vendor

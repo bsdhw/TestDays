@@ -849,7 +849,7 @@ Hard drive models
 | WDC WD10JPLX-00MBPT0 1TB          | 1         | 0.8%    |
 | WDC WD1005FBYZ-01YCBB3 1TB        | 1         | 0.8%    |
 | WDC WD Elements 25A3 4TB          | 1         | 0.8%    |
-| USB SanDisk 3.2Gen1 64GB          | 1         | 0.8%    |
+| USB SanDisk 3.2Gen1 16GB          | 1         | 0.8%    |
 | UDinfo M2S 120GB                  | 1         | 0.8%    |
 | Transcend 3E128-TS2-550B01 100GB  | 1         | 0.8%    |
 | Toshiba MK8025GAS 80GB            | 1         | 0.8%    |
@@ -2044,9 +2044,9 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 5%      |
 | Broadcom BCM2045B (BDC-2.1)                         | 2         | 5%      |
 | Alps Electric UGTZ4 Bluetooth                       | 2         | 5%      |
-| Realtek  Bluetooth 4.2 Adapter                      | 1         | 2.5%    |
-| Realtek  Bluetooth 4.0 Adapter                      | 1         | 2.5%    |
-| Qualcomm Atheros  QCA9377 Bluetooth 4.1             | 1         | 2.5%    |
+| Realtek Bluetooth 4.2 Adapter                       | 1         | 2.5%    |
+| Realtek Bluetooth 4.0 Adapter                       | 1         | 2.5%    |
+| Qualcomm Atheros QCA9377 Bluetooth 4.1              | 1         | 2.5%    |
 | Qualcomm Atheros AR3012 Bluetooth 4.0               | 1         | 2.5%    |
 | Intel Wireless-AC 9260 Bluetooth Adapter            | 1         | 2.5%    |
 | Intel Wireless-AC 3168 Bluetooth                    | 1         | 2.5%    |
@@ -2056,8 +2056,8 @@ Controller models
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 1         | 2.5%    |
 | ASUS Broadcom Bluetooth 2.1                         | 1         | 2.5%    |
 | ASUS Broadcom BCM20702A0 Bluetooth                  | 1         | 2.5%    |
+| Apple Broadcom Built-in Bluetooth                   | 1         | 2.5%    |
 | Apple Bluetooth Host Controller                     | 1         | 2.5%    |
-| Apple Apple Broadcom Built-in Bluetooth             | 1         | 2.5%    |
 | Alps Electric BCM2046 Bluetooth Device              | 1         | 2.5%    |
 
 Sound
@@ -2323,7 +2323,7 @@ Camera device models
 | Syntek Lenovo EasyCamera                 | 1         | 2.94%   |
 | Suyin Asus Integrated Webcam             | 1         | 2.94%   |
 | Suyin Acer/Lenovo Webcam [CN0316]        | 1         | 2.94%   |
-| Silicon Motion Realtek USB2.0 PC Camera  | 1         | 2.94%   |
+| Silicon Motion Realtek USB 2.0 PC Camera | 1         | 2.94%   |
 | Ricoh Sony Visual Communication Camera   | 1         | 2.94%   |
 | Realtek Integrated_Webcam_HD             | 1         | 2.94%   |
 | Quanta HP Webcam-50                      | 1         | 2.94%   |
@@ -2376,10 +2376,10 @@ Fingerprint sensor models
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 2         | 20%     |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 2         | 20%     |
 | Validity Sensors VFS 5011 fingerprint sensor           | 1         | 10%     |
-| Synaptics product 0x00be                               | 1         | 10%     |
+| Synaptics WBDI                                         | 1         | 10%     |
 | Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 10%     |
 | STMicroelectronics Fingerprint Reader                  | 1         | 10%     |
-| Elan ELAN WBF Fingerprint Sensor                       | 1         | 10%     |
+| Elan Fingerprint Sensor                                | 1         | 10%     |
 | AuthenTec AES2810                                      | 1         | 10%     |
 
 Chipcard Vendor

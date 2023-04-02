@@ -1546,18 +1546,19 @@ Controller vendors
 
 | Vendor                            | Notebooks | Percent |
 |-----------------------------------|-----------|---------|
-| Intel                             | 32        | 33.33%  |
-| Realtek Semiconductor             | 24        | 25%     |
-| Qualcomm Atheros                  | 16        | 16.67%  |
-| Broadcom                          | 8         | 8.33%   |
-| TP-Link                           | 5         | 5.21%   |
-| Nvidia                            | 3         | 3.13%   |
-| Ericsson Business Mobile Networks | 3         | 3.13%   |
-| Ralink                            | 1         | 1.04%   |
-| Qualcomm                          | 1         | 1.04%   |
-| Marvell Technology Group          | 1         | 1.04%   |
-| Edimax Technology                 | 1         | 1.04%   |
-| ASUSTek Computer                  | 1         | 1.04%   |
+| Intel                             | 32        | 32.99%  |
+| Realtek Semiconductor             | 24        | 24.74%  |
+| Qualcomm Atheros                  | 16        | 16.49%  |
+| Broadcom                          | 8         | 8.25%   |
+| TP-Link                           | 5         | 5.15%   |
+| Nvidia                            | 3         | 3.09%   |
+| Ericsson Business Mobile Networks | 3         | 3.09%   |
+| Ralink                            | 1         | 1.03%   |
+| Qualcomm                          | 1         | 1.03%   |
+| Marvell Technology Group          | 1         | 1.03%   |
+| Edimax Technology                 | 1         | 1.03%   |
+| Dell                              | 1         | 1.03%   |
+| ASUSTek Computer                  | 1         | 1.03%   |
 
 Net Controller Model
 --------------------
@@ -1569,46 +1570,46 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 15        | 12.3%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 10        | 8.2%    |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 6         | 4.92%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 5         | 4.1%    |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 4         | 3.28%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 4         | 3.28%   |
-| Intel Wireless 8265 / 8275                                        | 4         | 3.28%   |
-| Intel Wireless 7260                                               | 4         | 3.28%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 3.28%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 3         | 2.46%   |
-| Nvidia MCP79 Ethernet                                             | 3         | 2.46%   |
-| Intel Wireless 7265                                               | 3         | 2.46%   |
-| Intel Ethernet Connection (4) I219-LM                             | 3         | 2.46%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2         | 1.64%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 2         | 1.64%   |
-| Intel Wireless 8260                                               | 2         | 1.64%   |
-| Intel Ethernet Connection I218-LM                                 | 2         | 1.64%   |
-| Intel Ethernet Connection (3) I218-LM                             | 2         | 1.64%   |
-| Intel Centrino Ultimate-N 6300                                    | 2         | 1.64%   |
-| Intel Centrino Advanced-N 6235                                    | 2         | 1.64%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller            | 2         | 1.64%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.64%   |
-| TP-Link TP-Link High Power Wireless USB Adapter                   | 1         | 0.82%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1         | 0.82%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.82%   |
-| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 0.82%   |
-| Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 0.82%   |
-| Realtek Realtek Bluetooth 4.2 Adapter                             | 1         | 0.82%   |
-| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                         | 1         | 0.82%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 0.82%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 0.82%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 0.82%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.82%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.82%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1         | 0.82%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 0.82%   |
-| Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 0.82%   |
-| Intel Wireless 3165                                               | 1         | 0.82%   |
-| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection           | 1         | 0.82%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 0.82%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 15        | 12.2%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 10        | 8.13%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 6         | 4.88%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 5         | 4.07%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 4         | 3.25%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 4         | 3.25%   |
+| Intel Wireless 8265 / 8275                                        | 4         | 3.25%   |
+| Intel Wireless 7260                                               | 4         | 3.25%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 3.25%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 3         | 2.44%   |
+| Nvidia MCP79 Ethernet                                             | 3         | 2.44%   |
+| Intel Wireless 7265                                               | 3         | 2.44%   |
+| Intel Ethernet Connection (4) I219-LM                             | 3         | 2.44%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]        | 2         | 1.63%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 2         | 1.63%   |
+| Intel Wireless 8260                                               | 2         | 1.63%   |
+| Intel Ethernet Connection I218-LM                                 | 2         | 1.63%   |
+| Intel Ethernet Connection (3) I218-LM                             | 2         | 1.63%   |
+| Intel Centrino Ultimate-N 6300                                    | 2         | 1.63%   |
+| Intel Centrino Advanced-N 6235                                    | 2         | 1.63%   |
+| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller            | 2         | 1.63%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 2         | 1.63%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                       | 1         | 0.81%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1         | 0.81%   |
+| TP-Link High Power Wireless USB Adapter                           | 1         | 0.81%   |
+| Realtek RTL8723DE Wireless Network Adapter                        | 1         | 0.81%   |
+| Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 0.81%   |
+| Realtek Realtek Bluetooth 4.2 Adapter                             | 1         | 0.81%   |
+| Ralink RT5390 Wireless 802.11n 1T/1R PCIe                         | 1         | 0.81%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 0.81%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 0.81%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 0.81%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.81%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.81%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 0.81%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 0.81%   |
+| Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 0.81%   |
+| Intel Wireless 3165                                               | 1         | 0.81%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection           | 1         | 0.81%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 0.81%   |
 
 Wireless Vendor
 ---------------
@@ -1654,9 +1655,9 @@ Wireless models
 | Intel Centrino Advanced-N 6235                                 | 2         | 3.03%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller         | 2         | 3.03%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter            | 2         | 3.03%   |
-| TP-Link TP-Link High Power Wireless USB Adapter                | 1         | 1.52%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                    | 1         | 1.52%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 1.52%   |
+| TP-Link High Power Wireless USB Adapter                        | 1         | 1.52%   |
 | Realtek RTL8723DE Wireless Network Adapter                     | 1         | 1.52%   |
 | Realtek RTL8191SEvB Wireless LAN Controller                    | 1         | 1.52%   |
 | Realtek Realtek Bluetooth 4.2 Adapter                          | 1         | 1.52%   |
@@ -1673,7 +1674,7 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                | 1         | 1.52%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS] | 1         | 1.52%   |
 | Broadcom BCM43224 802.11a/b/g/n                                | 1         | 1.52%   |
-| ASUS ASUS Wireless USB adapter                                 | 1         | 1.52%   |
+| ASUS Wireless USB Adapter                                      | 1         | 1.52%   |
 
 Ethernet Vendor
 ---------------
@@ -1713,7 +1714,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.89%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.89%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1         | 1.89%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 1.89%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 1.89%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.89%   |
@@ -1734,10 +1735,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 59        | 51.75%  |
-| Ethernet | 52        | 45.61%  |
-| Modem    | 2         | 1.75%   |
-| Unknown  | 1         | 0.88%   |
+| WiFi     | 59        | 51.3%   |
+| Ethernet | 52        | 45.22%  |
+| Modem    | 2         | 1.74%   |
+| Unknown  | 2         | 1.74%   |
 
 Used Controller
 ---------------
@@ -1817,11 +1818,11 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 3         | 7.32%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]                  | 3         | 7.32%   |
 | Apple Bluetooth Host Controller                             | 3         | 7.32%   |
-| Qualcomm Atheros  QCA9377 Bluetooth 4.1                     | 2         | 4.88%   |
+| Qualcomm Atheros QCA9377 Bluetooth 4.1                      | 2         | 4.88%   |
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 2         | 4.88%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 2         | 4.88%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 4.88%   |
-| Realtek  Bluetooth Adapter                                  | 1         | 2.44%   |
+| Realtek Bluetooth Adapter                                   | 1         | 2.44%   |
 | Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 1         | 2.44%   |
 | Dell Dell Wireless 380 Bluetooth 4.0 Module                 | 1         | 2.44%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]          | 1         | 2.44%   |
@@ -1941,7 +1942,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 800MT/s                       | 1         | 1.28%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 1.28%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 1.28%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2133MT/s | 1         | 1.28%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 1.28%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 1.28%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 1.28%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 1.28%   |
@@ -2111,17 +2112,16 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)                        | 2         | 4.08%   |
 | Chicony Integrated Camera                                      | 2         | 4.08%   |
 | Chicony HD WebCam                                              | 2         | 4.08%   |
-| Chicony Chicony USB2.0 Camera                                  | 2         | 4.08%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 2.04%   |
 | Suyin HD WebCam                                                | 1         | 2.04%   |
 | Sunplus MTD camera                                             | 1         | 2.04%   |
 | Sunplus Integrated_Webcam_HD                                   | 1         | 2.04%   |
 | Silicon Motion WebCam SC-13HDL11939N                           | 1         | 2.04%   |
-| Silicon Motion Realtek USB2.0 PC Camera                        | 1         | 2.04%   |
-| Realtek Realtek USB2.0 PC Camera                               | 1         | 2.04%   |
+| Silicon Motion Realtek USB 2.0 PC Camera                       | 1         | 2.04%   |
+| Realtek USB 2.0 PC Camera                                      | 1         | 2.04%   |
 | Realtek Lenovo EasyCamera                                      | 1         | 2.04%   |
-| Realtek Integrated_Webcam_HD                                   | 1         | 2.04%   |
 | Realtek Front Camera                                           | 1         | 2.04%   |
+| Realtek Dell EasyCamera                                        | 1         | 2.04%   |
 | Quanta VGA WebCam                                              | 1         | 2.04%   |
 | Quanta HP TrueVision HD Camera                                 | 1         | 2.04%   |
 | Lite-On Integrated Camera                                      | 1         | 2.04%   |
@@ -2131,12 +2131,14 @@ Camera device models
 | IMC Networks UVC VGA Webcam                                    | 1         | 2.04%   |
 | Chicony USB2.0 HD UVC WebCam                                   | 1         | 2.04%   |
 | Chicony Thinkpad T430 camera                                   | 1         | 2.04%   |
+| Chicony Realtek DMFT RGB                                       | 1         | 2.04%   |
 | Chicony Lenovo Integrated Camera (0.3MP)                       | 1         | 2.04%   |
 | Chicony Lenovo EasyCamera                                      | 1         | 2.04%   |
+| Chicony Chicony USB2.0 Camera                                  | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.04%   |
 | Bison ThinkPad Integrated Camera                               | 1         | 2.04%   |
-| Alcor Micro USB 2.0 Web Camera                                 | 1         | 2.04%   |
 | Alcor Micro USB 2.0 Camera                                     | 1         | 2.04%   |
+| Alcor Micro Lenovo EasyCamera                                  | 1         | 2.04%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 2.04%   |
 | Alcor Micro Acer Integrated Webcam                             | 1         | 2.04%   |
 
@@ -2157,7 +2159,7 @@ Fingerprint sensor vendors
 | Upek               | 2         | 20%     |
 | Synaptics          | 2         | 20%     |
 | STMicroelectronics | 1         | 10%     |
-| Focal-systems.Corp | 1         | 10%     |
+| FocalTech Systems  | 1         | 10%     |
 
 Fingerprint Model
 -----------------
@@ -2174,10 +2176,10 @@ Fingerprint sensor models
 | Validity Sensors Synaptics WBDI                        | 1         | 10%     |
 | Upek TCS5B Fingerprint sensor                          | 1         | 10%     |
 | Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 1         | 10%     |
-| Synaptics  WBDI                                        | 1         | 10%     |
+| Synaptics WBDI                                         | 1         | 10%     |
 | Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 10%     |
 | STMicroelectronics Fingerprint Reader                  | 1         | 10%     |
-| Focal-systems.Corp FocalTech Fingerprint reader        | 1         | 10%     |
+| FocalTech Systems Fingerprint Reader                   | 1         | 10%     |
 
 Chipcard Vendor
 ---------------
@@ -2208,10 +2210,10 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 2     | 20        | 32.79%  |
 | 3     | 18        | 29.51%  |
-| 4     | 9         | 14.75%  |
 | 1     | 9         | 14.75%  |
+| 4     | 8         | 13.11%  |
 | 0     | 4         | 6.56%   |
-| 5     | 1         | 1.64%   |
+| 5     | 2         | 3.28%   |
 
 Unsupported Device Types
 ------------------------
@@ -2223,12 +2225,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 44        | 31.88%  |
-| Bluetooth                | 35        | 25.36%  |
-| Card reader              | 20        | 14.49%  |
-| Net/wireless             | 17        | 12.32%  |
-| Fingerprint reader       | 10        | 7.25%   |
-| Storage                  | 4         | 2.9%    |
-| Network                  | 4         | 2.9%    |
-| Firewire controller      | 4         | 2.9%    |
+| Communication controller | 44        | 31.65%  |
+| Bluetooth                | 35        | 25.18%  |
+| Card reader              | 20        | 14.39%  |
+| Net/wireless             | 17        | 12.23%  |
+| Fingerprint reader       | 10        | 7.19%   |
+| Network                  | 5         | 3.6%    |
+| Storage                  | 4         | 2.88%   |
+| Firewire controller      | 4         | 2.88%   |
 

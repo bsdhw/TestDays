@@ -1278,7 +1278,7 @@ Controller models
 | Intel Wireless 7265                                                                   | 2         | 4%      |
 | Intel Ethernet Connection I217-LM                                                     | 2         | 4%      |
 | Intel Ethernet Connection (2) I219-LM                                                 | 2         | 4%      |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                                         | 1         | 2%      |
+| Sierra Wireless EM7345 4G LTE                                                         | 1         | 2%      |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 2%      |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 2%      |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 1         | 2%      |
@@ -1333,7 +1333,7 @@ Wireless models
 | Intel Wireless 7260                                                                   | 4         | 16.67%  |
 | Intel Wireless 8265 / 8275                                                            | 2         | 8.33%   |
 | Intel Wireless 7265                                                                   | 2         | 8.33%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                                         | 1         | 4.17%   |
+| Sierra Wireless EM7345 4G LTE                                                         | 1         | 4.17%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 1         | 4.17%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                   | 1         | 4.17%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                                            | 1         | 4.17%   |

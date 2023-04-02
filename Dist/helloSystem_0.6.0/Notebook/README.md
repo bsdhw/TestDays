@@ -482,17 +482,17 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2011 | 11        | 15.49%  |
 | 2013 | 10        | 14.08%  |
 | 2012 | 9         | 12.68%  |
+| 2011 | 9         | 12.68%  |
 | 2015 | 7         | 9.86%   |
 | 2014 | 7         | 9.86%   |
+| 2010 | 7         | 9.86%   |
 | 2019 | 6         | 8.45%   |
-| 2010 | 6         | 8.45%   |
 | 2020 | 4         | 5.63%   |
 | 2009 | 4         | 5.63%   |
 | 2016 | 3         | 4.23%   |
-| 2008 | 2         | 2.82%   |
+| 2008 | 3         | 4.23%   |
 | 2021 | 1         | 1.41%   |
 | 2018 | 1         | 1.41%   |
 
@@ -1087,6 +1087,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                      | 2         | 2.53%   |
 | AMD FCH SATA Controller [AHCI mode]                                                    | 2         | 2.53%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 1         | 1.27%   |
+| Realtek NVMe Controller                                                                | 1         | 1.27%   |
 | Nvidia MCP79 AHCI Controller                                                           | 1         | 1.27%   |
 | Intel 8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]          | 1         | 1.27%   |
 | Intel 8 Series Chipset Family 4-port SATA Controller 1 [IDE mode] - Mobile             | 1         | 1.27%   |
@@ -1094,7 +1095,6 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Mobile SATA Controller (IDE mode, ports 0-3) | 1         | 1.27%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                          | 1         | 1.27%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                          | 1         | 1.27%   |
-| Unknown                                                                                | 1         | 1.27%   |
 
 Storage Kind
 ------------
@@ -1646,7 +1646,7 @@ Controller models
 | Broadcom BCM43142 802.11b/g/n                                               | 2         | 1.39%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                         | 2         | 1.39%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                              | 1         | 0.69%   |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                               | 1         | 0.69%   |
+| Sierra Wireless EM7345 4G LTE                                               | 1         | 0.69%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                    | 1         | 0.69%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                    | 1         | 0.69%   |
 | Realtek RTL8723DE Wireless Network Adapter                                  | 1         | 0.69%   |
@@ -1700,7 +1700,7 @@ Wireless models
 | Broadcom BCM4321 802.11a/b/g/n                                          | 2         | 2.7%    |
 | Broadcom BCM43142 802.11b/g/n                                           | 2         | 2.7%    |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 2.7%    |
-| Sierra Wireless Sierra Wireless EM7345 4G LTE                           | 1         | 1.35%   |
+| Sierra Wireless EM7345 4G LTE                                           | 1         | 1.35%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                | 1         | 1.35%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                | 1         | 1.35%   |
 | Realtek RTL8723DE Wireless Network Adapter                              | 1         | 1.35%   |
@@ -1783,7 +1783,7 @@ Ethernet models
 | Intel Ethernet Connection (3) I218-LM                                          | 1         | 1.52%   |
 | Intel 82567LM Gigabit Network Connection                                       | 1         | 1.52%   |
 | Intel 82566MM Gigabit Network Connection                                       | 1         | 1.52%   |
-| Huawei USB Composite Device                                                    | 1         | 1.52%   |
+| Huawei USB Device                                                              | 1         | 1.52%   |
 | Google Nexus/Pixel Device (tether)                                             | 1         | 1.52%   |
 | Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                              | 1         | 1.52%   |
 | Broadcom NetLink BCM5906M Fast Ethernet PCI Express                            | 1         | 1.52%   |
@@ -1883,9 +1883,9 @@ Controller models
 | Broadcom BCM43142 Bluetooth 4.0                     | 2         | 5.41%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]          | 2         | 5.41%   |
 | Apple Bluetooth Host Controller                     | 2         | 5.41%   |
+| Realtek Wireless Bluetooth Adapter                  | 1         | 2.7%    |
 | Realtek RTL8723B Bluetooth                          | 1         | 2.7%    |
-| Realtek  Bluetooth Adapter                          | 1         | 2.7%    |
-| Realtek Bluetooth Radio                             | 1         | 2.7%    |
+| Realtek Bluetooth Adapter                           | 1         | 2.7%    |
 | Ralink RT3290 Bluetooth                             | 1         | 2.7%    |
 | Qualcomm Atheros AR9462 Bluetooth                   | 1         | 2.7%    |
 | Intel Centrino Advanced-N 6230 Bluetooth adapter    | 1         | 2.7%    |
@@ -1895,12 +1895,12 @@ Controller models
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth       | 1         | 2.7%    |
 | Foxconn / Hon Hai Atheros AR3012 Bluetooth          | 1         | 2.7%    |
 | Cambridge Silicon Radio Bluetooth Dongle (HCI mode) | 1         | 2.7%    |
-| Broadcom Broadcom Bluetooth 4.0                     | 1         | 2.7%    |
+| Broadcom Bluetooth 4.0                              | 1         | 2.7%    |
 | Broadcom BCM2046 Bluetooth Device                   | 1         | 2.7%    |
 | Broadcom BCM2045B (BDC-2.1)                         | 1         | 2.7%    |
 | Apple Built-in Bluetooth 2.0+EDR HCI                | 1         | 2.7%    |
+| Apple Broadcom Built-in Bluetooth                   | 1         | 2.7%    |
 | Apple Bluetooth HCI                                 | 1         | 2.7%    |
-| Apple Apple Broadcom Built-in Bluetooth             | 1         | 2.7%    |
 
 Sound
 -----
@@ -1948,7 +1948,7 @@ Sound card models
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 2         | 2.2%    |
 | Intel Cannon Point-LP High Definition Audio Controller                     | 2         | 2.2%    |
 | AMD SBx00 Azalia (Intel HDA)                                               | 2         | 2.2%    |
-| XMOS retrieving string failed                                              | 1         | 1.1%    |
+| XMOS USB Audio                                                             | 1         | 1.1%    |
 | Nvidia MCP79 High Definition Audio                                         | 1         | 1.1%    |
 | Nvidia High Definition Audio Controller                                    | 1         | 1.1%    |
 | Nvidia GF106 High Definition Audio Controller                              | 1         | 1.1%    |
@@ -2186,7 +2186,7 @@ Camera device models
 | Chicony Integrated Camera                                      | 8         | 15.69%  |
 | Bison Lenovo EasyCamera                                        | 3         | 5.88%   |
 | Bison Integrated Camera                                        | 3         | 5.88%   |
-| Realtek Realtek USB2.0 PC Camera                               | 2         | 3.92%   |
+| Realtek USB 2.0 PC Camera                                      | 2         | 3.92%   |
 | Tripath 2M Front Camera                                        | 1         | 1.96%   |
 | Syntek EasyCamera                                              | 1         | 1.96%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 1.96%   |
@@ -2195,7 +2195,7 @@ Camera device models
 | Sunplus Laptop_Integrated_Webcam_FHD                           | 1         | 1.96%   |
 | Sunplus Integrated Camera                                      | 1         | 1.96%   |
 | Sunplus HP Universal Camera                                    | 1         | 1.96%   |
-| Realtek Integrated_Webcam_HD                                   | 1         | 1.96%   |
+| Realtek Dell EasyCamera                                        | 1         | 1.96%   |
 | Microdia Webcam                                                | 1         | 1.96%   |
 | Microdia Laptop_Integrated_Webcam_2M                           | 1         | 1.96%   |
 | Microdia Integrated Webcam HD                                  | 1         | 1.96%   |
@@ -2203,12 +2203,12 @@ Camera device models
 | Lite-On Integrated Camera                                      | 1         | 1.96%   |
 | Lenovo Integrated Webcam                                       | 1         | 1.96%   |
 | Importek HP Webcam                                             | 1         | 1.96%   |
-| IMC Networks USB2.0 UVC HD Webcam                              | 1         | 1.96%   |
+| IMC Networks USB 2.0 UVC HD Webcam                             | 1         | 1.96%   |
 | IMC Networks 2M Integrated Webcam                              | 1         | 1.96%   |
 | Foxconn / Hon Hai USB2.0 Camera                                | 1         | 1.96%   |
 | Chicony WebCam                                                 | 1         | 1.96%   |
 | Chicony USB2.0 HD UVC WebCam                                   | 1         | 1.96%   |
-| Chicony TOSHIBA Web Camera - HD                                | 1         | 1.96%   |
+| Chicony USB Video Device                                       | 1         | 1.96%   |
 | Chicony Sony Visual Communication Camera                       | 1         | 1.96%   |
 | Chicony Lenovo Integrated Camera (0.3MP)                       | 1         | 1.96%   |
 | Chicony Lenovo EasyCamera                                      | 1         | 1.96%   |
@@ -2257,8 +2257,8 @@ Fingerprint sensor models
 | Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 7.14%   |
 | Validity Sensors Fingerprint scanner                                       | 1         | 7.14%   |
 | STMicroelectronics Fingerprint Reader                                      | 1         | 7.14%   |
-| AuthenTec AuthenTec Inc. AES1660                                           | 1         | 7.14%   |
 | AuthenTec AES2810                                                          | 1         | 7.14%   |
+| AuthenTec AES1660                                                          | 1         | 7.14%   |
 | AuthenTec AES1600                                                          | 1         | 7.14%   |
 
 Chipcard Vendor

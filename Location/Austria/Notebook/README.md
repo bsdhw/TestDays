@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 40
+Total: 42
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo        | ThinkPad E14 Gen 3 20Y70... | [278a2a11cd](https://bsd-hardware.info/?probe=278a2a11cd) | Mar 09, 2023 |
+| Lenovo        | ThinkPad E14 Gen 3 20Y70... | [ef85735453](https://bsd-hardware.info/?probe=ef85735453) | Mar 09, 2023 |
 | TUXEDO        | InfinityBook Pro 14 Gen6    | [0f4dd9a9bc](https://bsd-hardware.info/?probe=0f4dd9a9bc) | Feb 15, 2023 |
 | Lenovo        | ThinkPad X220 4291WF5       | [24544f4a94](https://bsd-hardware.info/?probe=24544f4a94) | Jan 24, 2023 |
 | Lenovo        | IdeaPad 5 14ALC05 82LM      | [78327c664e](https://bsd-hardware.info/?probe=78327c664e) | Jan 16, 2023 |
@@ -625,17 +627,17 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Vienna           | 19        | 63.33%  |
-| Graz             | 2         | 6.67%   |
-| Wels             | 1         | 3.33%   |
-| Weidlingbach     | 1         | 3.33%   |
-| Vorchdorf        | 1         | 3.33%   |
-| Parndorf         | 1         | 3.33%   |
-| Maria Enzersdorf | 1         | 3.33%   |
-| Linz             | 1         | 3.33%   |
-| Innsbruck        | 1         | 3.33%   |
-| Grosspertholz    | 1         | 3.33%   |
-| Bruck an der Mur | 1         | 3.33%   |
+| Vienna           | 20        | 64.52%  |
+| Graz             | 2         | 6.45%   |
+| Wels             | 1         | 3.23%   |
+| Weidlingbach     | 1         | 3.23%   |
+| Vorchdorf        | 1         | 3.23%   |
+| Parndorf         | 1         | 3.23%   |
+| Maria Enzersdorf | 1         | 3.23%   |
+| Linz             | 1         | 3.23%   |
+| Innsbruck        | 1         | 3.23%   |
+| Grosspertholz    | 1         | 3.23%   |
+| Bruck an der Mur | 1         | 3.23%   |
 
 Drives
 ------
@@ -650,7 +652,7 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 11        | 12     | 34.38%  |
+| Samsung Electronics | 11        | 13     | 34.38%  |
 | Intel               | 4         | 5      | 12.5%   |
 | WDC                 | 3         | 3      | 9.38%   |
 | Transcend           | 2         | 3      | 6.25%   |
@@ -750,7 +752,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 12        | 15     | 41.38%  |
+| NVMe | 12        | 16     | 41.38%  |
 | SSD  | 11        | 17     | 37.93%  |
 | HDD  | 6         | 7      | 20.69%  |
 
@@ -765,7 +767,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 14        | 24     | 53.85%  |
-| NVMe | 12        | 15     | 46.15%  |
+| NVMe | 12        | 16     | 46.15%  |
 
 Drive Size
 ----------
@@ -894,7 +896,7 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 24        | 34     | 85.71%  |
+| Works   | 24        | 35     | 85.71%  |
 | Malfunc | 4         | 5      | 14.29%  |
 
 Storage controller
@@ -1433,7 +1435,7 @@ Controller models
 | Intel 82573L Gigabit Ethernet Controller                          | 1         | 1.85%   |
 | Intel 82567LM Gigabit Network Connection                          | 1         | 1.85%   |
 | HP hs2350 HSPA+ Mobile Broadband Module Network Adapter           | 1         | 1.85%   |
-| Dell Dell Wireless 5550 HSPA+ Mini-Card Network Adapter           | 1         | 1.85%   |
+| Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                | 1         | 1.85%   |
 | AMD Family 17h Processor 10 Gb Ethernet Controller Port 0         | 1         | 1.85%   |
 
 Wireless Vendor
@@ -1478,7 +1480,7 @@ Wireless models
 | Intel Centrino Wireless-N 1000 [Condor Peak]             | 1         | 3.45%   |
 | Intel Centrino Advanced-N 6235                           | 1         | 3.45%   |
 | Intel Centrino Advanced-N 6200                           | 1         | 3.45%   |
-| Dell Dell Wireless 5550 HSPA+ Mini-Card Network Adapter  | 1         | 3.45%   |
+| Dell Wireless 5550 HSPA+ Mini-Card Network Adapter       | 1         | 3.45%   |
 
 Ethernet Vendor
 ---------------
@@ -1589,10 +1591,10 @@ Controller vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 16        | 69.57%  |
-| Realtek Semiconductor | 3         | 13.04%  |
-| Broadcom              | 3         | 13.04%  |
-| Alps Electric         | 1         | 4.35%   |
+| Intel                 | 16        | 66.67%  |
+| Broadcom              | 4         | 16.67%  |
+| Realtek Semiconductor | 3         | 12.5%   |
+| Alps Electric         | 1         | 4.17%   |
 
 Bluetooth Model
 ---------------
@@ -1604,16 +1606,16 @@ Controller models
 
 | Model                                            | Notebooks | Percent |
 |--------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface               | 7         | 30.43%  |
-| Intel AX201 Bluetooth                            | 3         | 13.04%  |
-| Broadcom BCM2045B (BDC-2.1)                      | 3         | 13.04%  |
-| Realtek Bluetooth Radio                          | 2         | 8.7%    |
-| Intel Wireless-AC 9260 Bluetooth Adapter         | 2         | 8.7%    |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)   | 2         | 8.7%    |
-| Realtek  Bluetooth Adapter                       | 1         | 4.35%   |
-| Intel Centrino Bluetooth Wireless Transceiver    | 1         | 4.35%   |
-| Intel Centrino Advanced-N 6230 Bluetooth adapter | 1         | 4.35%   |
-| Alps Electric UGTZ4 Bluetooth                    | 1         | 4.35%   |
+| Intel Bluetooth wireless interface               | 7         | 29.17%  |
+| Realtek Bluetooth Adapter                        | 3         | 12.5%   |
+| Intel AX201 Bluetooth                            | 3         | 12.5%   |
+| Broadcom BCM2045B (BDC-2.1)                      | 3         | 12.5%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter         | 2         | 8.33%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)   | 2         | 8.33%   |
+| Intel Centrino Bluetooth Wireless Transceiver    | 1         | 4.17%   |
+| Intel Centrino Advanced-N 6230 Bluetooth adapter | 1         | 4.17%   |
+| Broadcom BCM2035 Bluetooth dongle                | 1         | 4.17%   |
+| Alps Electric UGTZ4 Bluetooth                    | 1         | 4.17%   |
 
 Sound
 -----
@@ -1860,7 +1862,7 @@ Camera device models
 
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
-| Realtek Realtek USB2.0 PC Camera                            | 2         | 10.53%  |
+| Realtek USB 2.0 PC Camera                                   | 2         | 10.53%  |
 | Chicony ThinkPad T490 Webcam                                | 2         | 10.53%  |
 | Chicony Integrated Camera                                   | 2         | 10.53%  |
 | Chicony HP HD Camera                                        | 2         | 10.53%  |
@@ -1903,16 +1905,16 @@ Fingerprint sensor models
 ![Fingerprint Model](./images/pie_chart_bsd/fingerprint_model.svg)
 
 
-| Model                                                     | Notebooks | Percent |
-|-----------------------------------------------------------|-----------|---------|
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor    | 3         | 23.08%  |
-| Validity Sensors VFS495 Fingerprint Reader                | 2         | 15.38%  |
-| Synaptics  FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 15.38%  |
-| Shenzhen Goodix  FingerPrint Device                       | 2         | 15.38%  |
-| Validity Sensors VFS5011 Fingerprint Reader               | 1         | 7.69%   |
-| Validity Sensors VFS491                                   | 1         | 7.69%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader         | 1         | 7.69%   |
-| STMicroelectronics Fingerprint Reader                     | 1         | 7.69%   |
+| Model                                                    | Notebooks | Percent |
+|----------------------------------------------------------|-----------|---------|
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor   | 3         | 23.08%  |
+| Validity Sensors VFS495 Fingerprint Reader               | 2         | 15.38%  |
+| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 15.38%  |
+| Shenzhen Goodix Fingerprint Reader                       | 2         | 15.38%  |
+| Validity Sensors VFS5011 Fingerprint Reader              | 1         | 7.69%   |
+| Validity Sensors VFS491                                  | 1         | 7.69%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader        | 1         | 7.69%   |
+| STMicroelectronics Fingerprint Reader                    | 1         | 7.69%   |
 
 Chipcard Vendor
 ---------------
@@ -1941,11 +1943,11 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 12        | 38.71%  |
-| 3     | 8         | 25.81%  |
-| 1     | 7         | 22.58%  |
-| 4     | 2         | 6.45%   |
-| 0     | 2         | 6.45%   |
+| 2     | 12        | 37.5%   |
+| 3     | 8         | 25%     |
+| 1     | 8         | 25%     |
+| 4     | 2         | 6.25%   |
+| 0     | 2         | 6.25%   |
 
 Unsupported Device Types
 ------------------------

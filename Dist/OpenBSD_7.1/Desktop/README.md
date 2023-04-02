@@ -744,7 +744,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB  | 2        | 2.41%   |
 | Samsung SSD 860 EVO 500GB       | 2        | 2.41%   |
 | OCZ VERTEX3 120GB               | 2        | 2.41%   |
-| NVMe Samsung SSD 980 1TB        | 2        | 2.41%   |
+| NVMe Samsung SSD 980 500GB      | 2        | 2.41%   |
 | XPG SX950U 240GB                | 1        | 1.2%    |
 | WDC WD800JD-60LSA5 80GB         | 1        | 1.2%    |
 | WDC WD6400AARS-00Y5B1 640GB     | 1        | 1.2%    |
@@ -867,8 +867,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 38       | 50     | 57.58%  |
-| 0.51-1.0   | 17       | 22     | 25.76%  |
+| 0.01-0.5   | 40       | 52     | 60.61%  |
+| 0.51-1.0   | 15       | 20     | 22.73%  |
 | 3.01-4.0   | 5        | 9      | 7.58%   |
 | 1.01-2.0   | 5        | 12     | 7.58%   |
 | 4.01-10.0  | 1        | 3      | 1.52%   |

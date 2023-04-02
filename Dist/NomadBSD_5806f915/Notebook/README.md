@@ -928,13 +928,13 @@ Storage controller models
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 2.44%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 2.44%   |
 | Samsung Apple PCIe SSD                                                        | 1         | 2.44%   |
-| Micron/Crucial NVMe Controller                                                | 1         | 2.44%   |
+| Micron/Crucial NVMe Storage Controller                                        | 1         | 2.44%   |
+| Micron NVMe Storage Controller                                                | 1         | 2.44%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 2.44%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                             | 1         | 2.44%   |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                 | 1         | 2.44%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                | 1         | 2.44%   |
 | AMD FCH SATA Controller [IDE mode]                                            | 1         | 2.44%   |
-| Unknown                                                                       | 1         | 2.44%   |
 
 Storage Kind
 ------------
@@ -1659,18 +1659,18 @@ Controller models
 | Intel Bluetooth 9460/9560 Jefferson Peak (JfP)      | 2         | 8.7%    |
 | Intel AX201 Bluetooth                               | 2         | 8.7%    |
 | Intel AX200 Bluetooth                               | 2         | 8.7%    |
-| Realtek  Bluetooth 4.2 Adapter                      | 1         | 4.35%   |
-| Realtek  Bluetooth 4.0 Adapter                      | 1         | 4.35%   |
-| Realtek  Bluetooth 4.0 + High Speed Chip            | 1         | 4.35%   |
+| Realtek Bluetooth 4.2 Adapter                       | 1         | 4.35%   |
+| Realtek Bluetooth 4.0 Adapter                       | 1         | 4.35%   |
+| Realtek Bluetooth 4.0 + High Speed Chip             | 1         | 4.35%   |
 | Qualcomm Atheros Dell Wireless 1820 Bluetooth 4.1LE | 1         | 4.35%   |
 | Lite-On Atheros Bluetooth                           | 1         | 4.35%   |
 | IMC Networks Realtek Bluetooth Adapter              | 1         | 4.35%   |
 | Foxconn / Hon Hai Bluetooth USB Module              | 1         | 4.35%   |
-| Broadcom Broadcom Bluetooth 4.0                     | 1         | 4.35%   |
+| Broadcom Bluetooth 4.0                              | 1         | 4.35%   |
 | Broadcom BCM43142A0 Bluetooth 4.0                   | 1         | 4.35%   |
+| ASUS USB-BT500                                      | 1         | 4.35%   |
 | ASUS BT-183 Bluetooth 2.0+EDR adapter               | 1         | 4.35%   |
-| ASUS ASUS USB-BT500                                 | 1         | 4.35%   |
-| Apple Apple Broadcom Built-in Bluetooth             | 1         | 4.35%   |
+| Apple Broadcom Built-in Bluetooth                   | 1         | 4.35%   |
 
 Sound
 -----
@@ -1937,22 +1937,23 @@ Camera device models
 |----------------------------------------------------------------|-----------|---------|
 | Bison Integrated Camera                                        | 3         | 12%     |
 | Chicony Integrated Camera                                      | 2         | 8%      |
-| Chicony Chicony USB2.0 Camera                                  | 2         | 8%      |
 | Suyin USB 2.0 UVC 1.3M WebCam                                  | 1         | 4%      |
 | Sunplus Integrated Webcam                                      | 1         | 4%      |
 | Realtek USB2.0 VGA UVC WebCam                                  | 1         | 4%      |
-| Quanta Realtek DMFT - RGB                                      | 1         | 4%      |
+| Quanta Realtek DMFT RGB                                        | 1         | 4%      |
 | Quanta Front camera                                            | 1         | 4%      |
 | Microdia Integrated_Webcam_HD                                  | 1         | 4%      |
 | Microdia Integrated Webcam                                     | 1         | 4%      |
 | Lite-On Realtek PC Camera                                      | 1         | 4%      |
 | Lite-On HP Universal Camera                                    | 1         | 4%      |
 | Intel WiMAX Connection 2400m                                   | 1         | 4%      |
-| IMC Networks USB2.0 UVC HD Webcam                              | 1         | 4%      |
-| IMC Networks USB2.0 HD UVC WebCam                              | 1         | 4%      |
+| IMC Networks USB 2.0 UVC HD Webcam                             | 1         | 4%      |
+| IMC Networks Realtek PC Camera                                 | 1         | 4%      |
 | IMC Networks EasyCamera                                        | 1         | 4%      |
+| Chicony Realtek DMFT RGB                                       | 1         | 4%      |
 | Chicony Integrated IR Camera                                   | 1         | 4%      |
 | Chicony HP HD Webcam [Fixed]                                   | 1         | 4%      |
+| Chicony Chicony USB2.0 Camera                                  | 1         | 4%      |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 4%      |
 | Bison Lenovo EasyCamera                                        | 1         | 4%      |
 | Alcor Micro HP WebCam-101                                      | 1         | 4%      |

@@ -497,12 +497,12 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2009 | 6        | 12.77%  |
 | 2019 | 5        | 10.64%  |
+| 2013 | 5        | 10.64%  |
 | 2021 | 4        | 8.51%   |
 | 2020 | 4        | 8.51%   |
-| 2015 | 4        | 8.51%   |
-| 2013 | 4        | 8.51%   |
 | 2018 | 3        | 6.38%   |
 | 2017 | 3        | 6.38%   |
+| 2015 | 3        | 6.38%   |
 | 2010 | 3        | 6.38%   |
 | 2016 | 2        | 4.26%   |
 | 2012 | 2        | 4.26%   |
@@ -1048,12 +1048,12 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 5        | 5.21%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 5        | 5.21%   |
 | AMD 500 Series Chipset SATA Controller                                         | 4        | 4.17%   |
-| Unknown                                                                        | 4        | 4.17%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 3        | 3.13%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                            | 3        | 3.13%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 3        | 3.13%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 3        | 3.13%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 3        | 3.13%   |
+| Unknown                                                                        | 3        | 3.13%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2        | 2.08%   |
 | Nvidia MCP61 SATA Controller                                                   | 2        | 2.08%   |
 | Nvidia MCP61 IDE                                                               | 2        | 2.08%   |
@@ -1076,6 +1076,7 @@ Storage controller models
 | Nvidia MCP73 IDE Controller                                                    | 1        | 1.04%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 1.04%   |
 | Micron/Crucial P1 NVMe PCIe SSD                                                | 1        | 1.04%   |
+| Micron/Crucial NVMe Storage Controller                                         | 1        | 1.04%   |
 | Kingston Company A2000 NVMe SSD                                                | 1        | 1.04%   |
 | Intel SSD 660P Series                                                          | 1        | 1.04%   |
 | Intel NVMe Optane Memory Series                                                | 1        | 1.04%   |
@@ -1083,7 +1084,6 @@ Storage controller models
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 1        | 1.04%   |
 | Intel C600/X79 series chipset SATA RAID Controller                             | 1        | 1.04%   |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 1        | 1.04%   |
-| Intel 82Q35 Express PT IDER Controller                                         | 1        | 1.04%   |
 
 Storage Kind
 ------------
@@ -1327,7 +1327,7 @@ Graphics card models
 | AMD Renoir                                                                  | 1        | 2.04%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 2.04%   |
 | AMD Pitcairn XT GL [FirePro W7000]                                          | 1        | 2.04%   |
-| AMD Navi 23 [Radeon RX 6650 XT]                                             | 1        | 2.04%   |
+| AMD Navi 23 [Radeon RX 6650 XT / 6700S / 6800S]                             | 1        | 2.04%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                     | 1        | 2.04%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                         | 1        | 2.04%   |
 | AMD Juniper XT [Radeon HD 5770]                                             | 1        | 2.04%   |
@@ -1649,7 +1649,7 @@ Controller models
 | Qualcomm Atheros AR9485 Wireless Network Adapter                                      | 1        | 1.35%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 1        | 1.35%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1        | 1.35%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                                            | 1        | 1.35%   |
+| Qualcomm ALCATEL RNDIS Interface                                                      | 1        | 1.35%   |
 | Nvidia MCP73 Ethernet                                                                 | 1        | 1.35%   |
 | Microchip MCP2200 USB-to-Serial Port                                                  | 1        | 1.35%   |
 | Intel Wireless 8265 / 8275                                                            | 1        | 1.35%   |
@@ -1756,7 +1756,7 @@ Ethernet models
 | Intel 82567LM-3 Gigabit Network Connection                        | 2        | 4.17%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 2.08%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1        | 2.08%   |
-| Qualcomm ALCATEL Composite RNDIS Interface                        | 1        | 2.08%   |
+| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 2.08%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 2.08%   |
 | Intel NM10/ICH7 Family LAN Controller                             | 1        | 2.08%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.08%   |
@@ -1929,11 +1929,11 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 2        | 2.13%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 2        | 2.13%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 2        | 2.13%   |
-| XMOS XMOS XS1-U8 MFA (ST)                                                  | 1        | 1.06%   |
+| XMOS XS1-U8 MFA (ST)                                                       | 1        | 1.06%   |
 | XMOS Shanling UA2                                                          | 1        | 1.06%   |
 | Tenx Technology USB  AUDIO                                                 | 1        | 1.06%   |
-| Sony Sony Audio                                                            | 1        | 1.06%   |
 | Sony DualShock 4 [CUH-ZCT2x]                                               | 1        | 1.06%   |
+| Sony Audio                                                                 | 1        | 1.06%   |
 | Quanta USB Audio Realtek USB2.0 Audio Microphone                           | 1        | 1.06%   |
 | Nvidia MCP73 High Definition Audio                                         | 1        | 1.06%   |
 | Nvidia High Definition Audio Controller                                    | 1        | 1.06%   |
@@ -2013,9 +2013,9 @@ Memory module models
 | Kingston RAM KY996D-ELD 2GB DIMM 1066MT/s              | 1        | 1.79%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s      | 1        | 1.79%   |
 | Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s | 1        | 1.79%   |
-| Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 2400MT/s    | 1        | 1.79%   |
+| Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 3600MT/s    | 1        | 1.79%   |
 | Kingston RAM K531R8-ETB 4GB DIMM DDR3 1600MT/s         | 1        | 1.79%   |
-| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1067MT/s | 1        | 1.79%   |
+| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1333MT/s | 1        | 1.79%   |
 | Kingston RAM 99U5704-001.A00G 4GB SODIMM DDR4 2400MT/s | 1        | 1.79%   |
 | Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s  | 1        | 1.79%   |
 | Kingston RAM 9905711-015.A00G 4GB SODIMM DDR4 2400MT/s | 1        | 1.79%   |
@@ -2082,16 +2082,15 @@ Memory module speed
 |---------|----------|---------|
 | 1600    | 9        | 18%     |
 | 3200    | 7        | 14%     |
-| 2400    | 7        | 14%     |
-| 1333    | 6        | 12%     |
+| 1333    | 7        | 14%     |
+| 2400    | 6        | 12%     |
 | 800     | 6        | 12%     |
 | 1066    | 4        | 8%      |
-| 3600    | 2        | 4%      |
+| 3600    | 3        | 6%      |
 | 2667    | 2        | 4%      |
 | 533     | 2        | 4%      |
 | 3000    | 1        | 2%      |
 | 2933    | 1        | 2%      |
-| 1067    | 1        | 2%      |
 | 667     | 1        | 2%      |
 | Unknown | 1        | 2%      |
 
@@ -2166,7 +2165,7 @@ Camera device models
 
 | Model                                 | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Quanta Realtek DMFT - RGB             | 1        | 20%     |
+| Quanta Realtek DMFT RGB               | 1        | 20%     |
 | Novatek HP High Definition 2MP Webcam | 1        | 20%     |
 | Logitech Webcam C310                  | 1        | 20%     |
 | Logitech Webcam C270                  | 1        | 20%     |

@@ -1446,7 +1446,7 @@ Controller models
 | Intel Bluetooth wireless interface            | 5         | 41.67%  |
 | Realtek RTL8821A Bluetooth                    | 1         | 8.33%   |
 | Realtek  Bluetooth 4.2 Adapter                | 1         | 8.33%   |
-| Qualcomm Atheros  QCA9377 Bluetooth 4.1       | 1         | 8.33%   |
+| Qualcomm Atheros QCA9377 Bluetooth 4.1        | 1         | 8.33%   |
 | Lite-On Atheros AR3012 Bluetooth              | 1         | 8.33%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter      | 1         | 8.33%   |
 | IMC Networks Realtek Bluetooth Adapter        | 1         | 8.33%   |
@@ -1544,7 +1544,7 @@ Memory module models
 | Nanya RAM NT2GC64B88B0NS-CG 2GB SODIMM DDR3 1334MT/s                      | 1         | 4.35%   |
 | Micron RAM 4KTF51264HZ-1G6A1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.35%   |
-| Micron RAM 16KTF1G64HZ-1G6E1 4GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
+| Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
 | Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.35%   |
 | 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.35%   |
@@ -1678,7 +1678,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                        | 1         | 7.14%   |
 | Silicon Motion WebCam SCX Series                    | 1         | 7.14%   |
 | Microdia Sonix USB 2.0 Camera                       | 1         | 7.14%   |
-| IMC Networks USB2.0 VGA UVC WebCam                  | 1         | 7.14%   |
+| IMC Networks Realtek DMFT RGB                       | 1         | 7.14%   |
 | Chicony Webcam                                      | 1         | 7.14%   |
 | Chicony USB2.0 HD UVC WebCam                        | 1         | 7.14%   |
 | Chicony HP TrueVision HD Camera                     | 1         | 7.14%   |
