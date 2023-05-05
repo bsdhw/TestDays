@@ -1986,10 +1986,11 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR4    | 23       | 51.11%  |
-| DDR3    | 18       | 40%     |
-| DDR2    | 2        | 4.44%   |
-| Unknown | 2        | 4.44%   |
+| DDR4    | 23       | 50%     |
+| DDR3    | 18       | 39.13%  |
+| DDR2    | 2        | 4.35%   |
+| Unknown | 2        | 4.35%   |
+| SDRAM   | 1        | 2.17%   |
 
 Memory Form Factor
 ------------------

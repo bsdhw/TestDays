@@ -2238,10 +2238,10 @@ Camera device models
 | Model                                                | Notebooks | Percent |
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 6         | 8%      |
-| Sunplus Integrated_Webcam_HD                         | 3         | 4%      |
 | Microdia Integrated_Webcam_HD                        | 3         | 4%      |
 | Lite-On Integrated Camera                            | 3         | 4%      |
 | Suyin Integrated_Webcam_HD                           | 2         | 2.67%   |
+| Sunplus Integrated_Webcam_HD                         | 2         | 2.67%   |
 | Realtek USB Camera                                   | 2         | 2.67%   |
 | Realtek USB 2.0 PC Camera                            | 2         | 2.67%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.67%   |
@@ -2254,6 +2254,7 @@ Camera device models
 | Suyin HP webcam [dv6-1190en]                         | 1         | 1.33%   |
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.33%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.33%   |
+| Sunplus SPCA2650 AV Camera                           | 1         | 1.33%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.33%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.33%   |
 | Silicon Motion Realtek USB 2.0 PC Camera             | 1         | 1.33%   |
@@ -2276,7 +2277,6 @@ Camera device models
 | IMC Networks EasyCamera                              | 1         | 1.33%   |
 | IMC Networks ASUS EasyCamera                         | 1         | 1.33%   |
 | Creative Webcam Live! Motion                         | 1         | 1.33%   |
-| Chicony USB 2.0 Camera                               | 1         | 1.33%   |
 
 Security
 --------

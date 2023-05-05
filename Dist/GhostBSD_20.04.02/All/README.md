@@ -847,7 +847,7 @@ Hard drive vendors
 | KingSpec            | 1         | 1      | 0.61%   |
 | Intel               | 1         | 1      | 0.61%   |
 | HPT                 | 1         | 4      | 0.61%   |
-| Goodram             | 1         | 1      | 0.61%   |
+| GOODRAM             | 1         | 1      | 0.61%   |
 | Fujitsu             | 1         | 1      | 0.61%   |
 | AMD                 | 1         | 1      | 0.61%   |
 
@@ -950,7 +950,7 @@ Solid state drive vendors
 | Netac               | 1         | 1      | 1.27%   |
 | LITEONIT            | 1         | 1      | 1.27%   |
 | KingSpec            | 1         | 1      | 1.27%   |
-| Goodram             | 1         | 1      | 1.27%   |
+| GOODRAM             | 1         | 1      | 1.27%   |
 | AMD                 | 1         | 1      | 1.27%   |
 
 Drive Kind
@@ -2243,7 +2243,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 2.19%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s              | 3         | 2.19%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |
@@ -2289,13 +2289,14 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 55        | 50%     |
-| DDR4    | 46        | 41.82%  |
-| DDR2    | 3         | 2.73%   |
-| Unknown | 3         | 2.73%   |
-| LPDDR4  | 1         | 0.91%   |
-| LPDDR3  | 1         | 0.91%   |
-| DDR     | 1         | 0.91%   |
+| DDR3    | 55        | 49.55%  |
+| DDR4    | 46        | 41.44%  |
+| DDR2    | 3         | 2.7%    |
+| Unknown | 3         | 2.7%    |
+| SDRAM   | 1         | 0.9%    |
+| LPDDR4  | 1         | 0.9%    |
+| LPDDR3  | 1         | 0.9%    |
+| DDR     | 1         | 0.9%    |
 
 Memory Form Factor
 ------------------
@@ -2321,12 +2322,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 49        | 41.53%  |
-| 4096  | 45        | 38.14%  |
-| 16384 | 12        | 10.17%  |
-| 2048  | 10        | 8.47%   |
-| 32768 | 1         | 0.85%   |
-| 1024  | 1         | 0.85%   |
+| 8192  | 51        | 42.86%  |
+| 4096  | 44        | 36.97%  |
+| 16384 | 12        | 10.08%  |
+| 2048  | 10        | 8.4%    |
+| 32768 | 1         | 0.84%   |
+| 1024  | 1         | 0.84%   |
 
 Memory Speed
 ------------

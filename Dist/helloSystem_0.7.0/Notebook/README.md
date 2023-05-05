@@ -1358,7 +1358,6 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 3         | 1.11%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 3         | 1.11%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 3         | 1.11%   |
-| Unknown                                                                          | 3         | 1.11%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 0.74%   |
 | Samsung NVMe SSD Controller SM951/PM951                                          | 2         | 0.74%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 2         | 0.74%   |
@@ -1369,11 +1368,12 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 0.74%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                        | 2         | 0.74%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                             | 2         | 0.74%   |
+| Unknown                                                                          | 2         | 0.74%   |
+| Solid State Storage CL1                                                          | 1         | 0.37%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 0.37%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                    | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 0.37%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 0.37%   |
 
 Storage Kind
 ------------
@@ -2532,9 +2532,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 90        | 36.59%  |
+| 4096  | 89        | 36.18%  |
 | 2048  | 65        | 26.42%  |
-| 8192  | 62        | 25.2%   |
+| 8192  | 63        | 25.61%  |
 | 16384 | 16        | 6.5%    |
 | 1024  | 11        | 4.47%   |
 | 32768 | 2         | 0.81%   |
@@ -2549,10 +2549,10 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 74        | 30.45%  |
+| 1600    | 75        | 30.86%  |
 | 667     | 25        | 10.29%  |
-| 1333    | 24        | 9.88%   |
 | 2667    | 23        | 9.47%   |
+| 1333    | 23        | 9.47%   |
 | 1334    | 18        | 7.41%   |
 | 1067    | 14        | 5.76%   |
 | 2400    | 13        | 5.35%   |

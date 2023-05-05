@@ -2003,11 +2003,11 @@ Memory module models
 | Transcend RAM JM1333KSN-4G 4GB DIMM DDR3 1333MT/s       | 1        | 1.39%   |
 | Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s     | 1        | 1.39%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3             | 1        | 1.39%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.39%   |
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.39%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.39%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.39%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.39%   |
 | Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.39%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.39%   |
@@ -2068,12 +2068,12 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 4096  | 23       | 35.38%  |
-| 8192  | 20       | 30.77%  |
-| 2048  | 10       | 15.38%  |
-| 16384 | 8        | 12.31%  |
-| 32768 | 3        | 4.62%   |
-| 1024  | 1        | 1.54%   |
+| 4096  | 23       | 34.85%  |
+| 8192  | 21       | 31.82%  |
+| 2048  | 10       | 15.15%  |
+| 16384 | 8        | 12.12%  |
+| 32768 | 3        | 4.55%   |
+| 1024  | 1        | 1.52%   |
 
 Memory Speed
 ------------

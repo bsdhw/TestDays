@@ -2322,7 +2322,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.16%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.16%   |
@@ -2399,12 +2399,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 64        | 42.11%  |
-| 8192  | 38        | 25%     |
-| 2048  | 37        | 24.34%  |
-| 16384 | 9         | 5.92%   |
-| 32768 | 3         | 1.97%   |
-| 1024  | 1         | 0.66%   |
+| 4096  | 64        | 41.56%  |
+| 8192  | 40        | 25.97%  |
+| 2048  | 37        | 24.03%  |
+| 16384 | 9         | 5.84%   |
+| 32768 | 3         | 1.95%   |
+| 1024  | 1         | 0.65%   |
 
 Memory Speed
 ------------

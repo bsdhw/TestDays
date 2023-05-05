@@ -723,7 +723,7 @@ Hard drive vendors
 | LITEONIT            | 1         | 1      | 1.47%   |
 | KingSpec            | 1         | 1      | 1.47%   |
 | HGST                | 1         | 1      | 1.47%   |
-| Goodram             | 1         | 1      | 1.47%   |
+| GOODRAM             | 1         | 1      | 1.47%   |
 | Gigabyte Technology | 1         | 1      | 1.47%   |
 | Fujitsu             | 1         | 1      | 1.47%   |
 
@@ -819,7 +819,7 @@ Solid state drive vendors
 | Netac               | 1         | 1      | 2.56%   |
 | LITEONIT            | 1         | 1      | 2.56%   |
 | KingSpec            | 1         | 1      | 2.56%   |
-| Goodram             | 1         | 1      | 2.56%   |
+| GOODRAM             | 1         | 1      | 2.56%   |
 
 Drive Kind
 ----------
@@ -1932,7 +1932,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 4         | 5.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 4         | 5.13%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 3.85%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
@@ -2009,11 +2009,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 33        | 50%     |
-| 8192  | 24        | 36.36%  |
-| 16384 | 4         | 6.06%   |
-| 2048  | 4         | 6.06%   |
-| 1024  | 1         | 1.52%   |
+| 4096  | 32        | 47.76%  |
+| 8192  | 26        | 38.81%  |
+| 16384 | 4         | 5.97%   |
+| 2048  | 4         | 5.97%   |
+| 1024  | 1         | 1.49%   |
 
 Memory Speed
 ------------

@@ -655,12 +655,12 @@ Motherboard manufacture year
 | 2013 | 26        | 13.68%  |
 | 2018 | 24        | 12.63%  |
 | 2020 | 18        | 9.47%   |
-| 2014 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
+| 2014 | 17        | 8.95%   |
 | 2016 | 16        | 8.42%   |
 | 2009 | 14        | 7.37%   |
+| 2012 | 13        | 6.84%   |
 | 2017 | 12        | 6.32%   |
-| 2012 | 12        | 6.32%   |
 | 2010 | 8         | 4.21%   |
 | 2015 | 7         | 3.68%   |
 | 2011 | 7         | 3.68%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| Goodram             | 2         | 2      | 0.71%   |
+| GOODRAM             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -2448,13 +2448,13 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 105       | 55.26%  |
-| DDR4    | 57        | 30%     |
-| DDR2    | 19        | 10%     |
-| Unknown | 4         | 2.11%   |
-| LPDDR3  | 3         | 1.58%   |
-| SDRAM   | 1         | 0.53%   |
-| LPDDR4  | 1         | 0.53%   |
+| DDR3    | 105       | 54.97%  |
+| DDR4    | 57        | 29.84%  |
+| DDR2    | 19        | 9.95%   |
+| Unknown | 4         | 2.09%   |
+| LPDDR3  | 3         | 1.57%   |
+| SDRAM   | 2         | 1.05%   |
+| LPDDR4  | 1         | 0.52%   |
 
 Memory Form Factor
 ------------------
@@ -2626,11 +2626,11 @@ Camera device models
 | Model                                                | Computers | Percent |
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 6         | 6.67%   |
-| Sunplus Integrated_Webcam_HD                         | 3         | 3.33%   |
 | Realtek USB 2.0 PC Camera                            | 3         | 3.33%   |
 | Microdia Integrated_Webcam_HD                        | 3         | 3.33%   |
 | Lite-On Integrated Camera                            | 3         | 3.33%   |
 | Suyin Integrated_Webcam_HD                           | 2         | 2.22%   |
+| Sunplus Integrated_Webcam_HD                         | 2         | 2.22%   |
 | Realtek USB Camera                                   | 2         | 2.22%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.22%   |
 | Chicony UVC 1.00 device HD UVC WebCam                | 2         | 2.22%   |
@@ -2646,6 +2646,7 @@ Camera device models
 | Suyin HP webcam [dv6-1190en]                         | 1         | 1.11%   |
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.11%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.11%   |
+| Sunplus SPCA2650 AV Camera                           | 1         | 1.11%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.11%   |
 | Sunplus Aukey-PC-LM1E Camera                         | 1         | 1.11%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.11%   |
@@ -2664,7 +2665,6 @@ Camera device models
 | Microdia Dell Integrated HD Webcam                   | 1         | 1.11%   |
 | Microdia ASUS USB 2.0 Webcam                         | 1         | 1.11%   |
 | Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.11%   |
-| Logitech Webcam C310                                 | 1         | 1.11%   |
 
 Security
 --------

@@ -1233,8 +1233,8 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 11        | 6.92%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 7         | 4.4%    |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 7         | 4.4%    |
-| Unknown                                                                        | 7         | 4.4%    |
 | AMD FCH SATA Controller [AHCI mode]                                            | 6         | 3.77%   |
+| Unknown                                                                        | 5         | 3.14%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 4         | 2.52%   |
 | Nvidia MCP79 AHCI Controller                                                   | 4         | 2.52%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 4         | 2.52%   |
@@ -1244,6 +1244,7 @@ Storage controller models
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 3         | 1.89%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3         | 1.89%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 3         | 1.89%   |
+| Solid State Storage CL1                                                        | 2         | 1.26%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 1.26%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.26%   |
 | Realtek NVMe Controller                                                        | 2         | 1.26%   |
@@ -1267,7 +1268,6 @@ Storage controller models
 | Phison E18 PCIe4 NVMe Controller                                               | 1         | 0.63%   |
 | Nvidia MCP79 SATA Controller                                                   | 1         | 0.63%   |
 | Micron NVMe Storage Controller                                                 | 1         | 0.63%   |
-| Lenovo unknown                                                                 | 1         | 0.63%   |
 
 Storage Kind
 ------------
@@ -2362,8 +2362,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 58        | 40.56%  |
-| 8192  | 32        | 22.38%  |
+| 4096  | 57        | 39.86%  |
+| 8192  | 33        | 23.08%  |
 | 2048  | 31        | 21.68%  |
 | 16384 | 16        | 11.19%  |
 | 1024  | 5         | 3.5%    |
@@ -2508,7 +2508,7 @@ Camera device models
 | Realtek EasyCamera                                          | 1         | 0.99%   |
 | Realtek Acer 640 x 480 laptop camera                        | 1         | 0.99%   |
 | Microdia Webcam                                             | 1         | 0.99%   |
-| Microdia REDRAGON  Live Camera                              | 1         | 0.99%   |
+| Microdia REDRAGON Live Camera Audio                         | 1         | 0.99%   |
 
 Security
 --------

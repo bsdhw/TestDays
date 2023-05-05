@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 56
+Total: 57
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [692b42afcd](https://bsd-hardware.info/?probe=692b42afcd) | Apr 08, 2023 |
 | Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [0af5cebe20](https://bsd-hardware.info/?probe=0af5cebe20) | Mar 29, 2023 |
 | Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [f4e450fed1](https://bsd-hardware.info/?probe=f4e450fed1) | Mar 29, 2023 |
 | Lenovo    | Yoga Slim 7 Pro 14ACH5 8... | [136a6641be](https://bsd-hardware.info/?probe=136a6641be) | Mar 21, 2023 |
@@ -221,40 +222,41 @@ Installed operating systems
 
 | Name                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| helloSystem 0.5.0        | 3         | 7.14%   |
-| FreeBSD 13.0             | 3         | 7.14%   |
-| OPNsense 23.1            | 2         | 4.76%   |
-| FreeBSD 13.0-STABLE      | 2         | 4.76%   |
-| FreeBSD 13.0-p7          | 2         | 4.76%   |
-| FreeBSD 12.1-p8          | 2         | 4.76%   |
-| OPNsense 22.7.4          | 1         | 2.38%   |
-| OPNsense 22.7.11         | 1         | 2.38%   |
-| OPNsense 22.10           | 1         | 2.38%   |
-| OPNsense 22.1.9          | 1         | 2.38%   |
-| OPNsense 22.1.4          | 1         | 2.38%   |
-| OPNsense 22.1.1          | 1         | 2.38%   |
-| OPNsense 21.1.5          | 1         | 2.38%   |
-| OpenBSD 7.0              | 1         | 2.38%   |
-| OpenBSD 6.8              | 1         | 2.38%   |
-| OpenBSD 6.7              | 1         | 2.38%   |
-| helloSystem 0.8.2        | 1         | 2.38%   |
-| helloSystem 0.8.1        | 1         | 2.38%   |
-| helloSystem 0.7.0        | 1         | 2.38%   |
-| GhostBSD 21.08.27        | 1         | 2.38%   |
-| GhostBSD 20.04.02        | 1         | 2.38%   |
-| FreeBSD 14.0-CURRENT     | 1         | 2.38%   |
-| FreeBSD 13.2-PRERELEASE  | 1         | 2.38%   |
-| FreeBSD 13.1-STABLE-HBSD | 1         | 2.38%   |
-| FreeBSD 13.1-STABLE      | 1         | 2.38%   |
-| FreeBSD 13.1-PRERELEASE  | 1         | 2.38%   |
-| FreeBSD 13.0-p6          | 1         | 2.38%   |
-| FreeBSD 13.0-p5          | 1         | 2.38%   |
-| FreeBSD 13.0-p1          | 1         | 2.38%   |
-| FreeBSD 12.2-STABLE      | 1         | 2.38%   |
-| FreeBSD 12.2-p4          | 1         | 2.38%   |
-| FreeBSD 12.2             | 1         | 2.38%   |
-| FreeBSD 12.1-p22-HBSD    | 1         | 2.38%   |
-| FreeBSD 12.1             | 1         | 2.38%   |
+| helloSystem 0.5.0        | 3         | 6.98%   |
+| FreeBSD 13.0             | 3         | 6.98%   |
+| OPNsense 23.1            | 2         | 4.65%   |
+| FreeBSD 13.0-STABLE      | 2         | 4.65%   |
+| FreeBSD 13.0-p7          | 2         | 4.65%   |
+| FreeBSD 12.1-p8          | 2         | 4.65%   |
+| OPNsense 22.7.4          | 1         | 2.33%   |
+| OPNsense 22.7.11         | 1         | 2.33%   |
+| OPNsense 22.10           | 1         | 2.33%   |
+| OPNsense 22.1.9          | 1         | 2.33%   |
+| OPNsense 22.1.4          | 1         | 2.33%   |
+| OPNsense 22.1.1          | 1         | 2.33%   |
+| OPNsense 21.1.5          | 1         | 2.33%   |
+| OpenBSD 7.0              | 1         | 2.33%   |
+| OpenBSD 6.8              | 1         | 2.33%   |
+| OpenBSD 6.7              | 1         | 2.33%   |
+| helloSystem 0.8.2        | 1         | 2.33%   |
+| helloSystem 0.8.1        | 1         | 2.33%   |
+| helloSystem 0.7.0        | 1         | 2.33%   |
+| GhostBSD 23.04.02        | 1         | 2.33%   |
+| GhostBSD 21.08.27        | 1         | 2.33%   |
+| GhostBSD 20.04.02        | 1         | 2.33%   |
+| FreeBSD 14.0-CURRENT     | 1         | 2.33%   |
+| FreeBSD 13.2-PRERELEASE  | 1         | 2.33%   |
+| FreeBSD 13.1-STABLE-HBSD | 1         | 2.33%   |
+| FreeBSD 13.1-STABLE      | 1         | 2.33%   |
+| FreeBSD 13.1-PRERELEASE  | 1         | 2.33%   |
+| FreeBSD 13.0-p6          | 1         | 2.33%   |
+| FreeBSD 13.0-p5          | 1         | 2.33%   |
+| FreeBSD 13.0-p1          | 1         | 2.33%   |
+| FreeBSD 12.2-STABLE      | 1         | 2.33%   |
+| FreeBSD 12.2-p4          | 1         | 2.33%   |
+| FreeBSD 12.2             | 1         | 2.33%   |
+| FreeBSD 12.1-p22-HBSD    | 1         | 2.33%   |
+| FreeBSD 12.1             | 1         | 2.33%   |
 
 OS Family
 ---------
@@ -345,12 +347,12 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| Unknown | 14        | 42.42%  |
-| C       | 8         | 24.24%  |
-| en_US   | 7         | 21.21%  |
-| de_CH   | 2         | 6.06%   |
-| fr_FR   | 1         | 3.03%   |
-| de_DE   | 1         | 3.03%   |
+| Unknown | 14        | 41.18%  |
+| C       | 9         | 26.47%  |
+| en_US   | 7         | 20.59%  |
+| de_CH   | 2         | 5.88%   |
+| fr_FR   | 1         | 2.94%   |
+| de_DE   | 1         | 2.94%   |
 
 Boot Mode
 ---------
@@ -702,7 +704,7 @@ Hard drive vendors
 | NVMe                | 2         | 2      | 5.13%   |
 | Intel               | 2         | 3      | 5.13%   |
 | Crucial             | 2         | 2      | 5.13%   |
-| SK hynix            | 1         | 1      | 2.56%   |
+| SK hynix            | 1         | 2      | 2.56%   |
 | Seagate             | 1         | 1      | 2.56%   |
 | OCZ                 | 1         | 1      | 2.56%   |
 | LITEON              | 1         | 6      | 2.56%   |
@@ -803,7 +805,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 19        | 31     | 52.78%  |
-| NVMe | 12        | 13     | 33.33%  |
+| NVMe | 12        | 14     | 33.33%  |
 | HDD  | 5         | 5      | 13.89%  |
 
 Drive Connector
@@ -817,7 +819,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 22        | 36     | 64.71%  |
-| NVMe | 12        | 13     | 35.29%  |
+| NVMe | 12        | 14     | 35.29%  |
 
 Drive Size
 ----------
@@ -843,10 +845,10 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 14        | 41.18%  |
-| 251-500    | 9         | 26.47%  |
-| 501-1000   | 7         | 20.59%  |
-| 1-20       | 4         | 11.76%  |
+| 101-250    | 14        | 40%     |
+| 251-500    | 10        | 28.57%  |
+| 501-1000   | 7         | 20%     |
+| 1-20       | 4         | 11.43%  |
 
 Space Used
 ----------
@@ -934,7 +936,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 30        | 43     | 85.71%  |
+| Works    | 30        | 44     | 85.71%  |
 | Malfunc  | 3         | 4      | 8.57%   |
 | Detected | 2         | 2      | 5.71%   |
 
@@ -1712,10 +1714,11 @@ Sound card vendors
 
 | Vendor    | Notebooks | Percent |
 |-----------|-----------|---------|
-| Intel     | 27        | 75%     |
-| AMD       | 6         | 16.67%  |
-| Nvidia    | 2         | 5.56%   |
-| GN Netcom | 1         | 2.78%   |
+| Intel     | 27        | 72.97%  |
+| AMD       | 6         | 16.22%  |
+| Nvidia    | 2         | 5.41%   |
+| Lenovo    | 1         | 2.7%    |
+| GN Netcom | 1         | 2.7%    |
 
 Sound Model
 -----------
@@ -1727,26 +1730,27 @@ Sound card models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Intel Sunrise Point-LP HD Audio                                            | 6         | 14.29%  |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4         | 9.52%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 4         | 9.52%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 4         | 9.52%   |
-| Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 7.14%   |
-| Intel Broadwell-U Audio Controller                                         | 3         | 7.14%   |
-| Intel Comet Lake PCH-LP cAVS                                               | 2         | 4.76%   |
-| Intel Cannon Point-LP High Definition Audio Controller                     | 2         | 4.76%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2         | 4.76%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 2         | 4.76%   |
-| Nvidia MCP79 High Definition Audio                                         | 1         | 2.38%   |
-| Nvidia GA106 High Definition Audio Controller                              | 1         | 2.38%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 1         | 2.38%   |
-| Intel Tiger Lake-H HD Audio Controller                                     | 1         | 2.38%   |
-| Intel Haswell-ULT HD Audio Controller                                      | 1         | 2.38%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1         | 2.38%   |
-| Intel 8 Series HD Audio Controller                                         | 1         | 2.38%   |
-| GN Netcom Jabra UC VOICE 550 MS mono USB                                   | 1         | 2.38%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1         | 2.38%   |
-| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                 | 1         | 2.38%   |
+| Intel Sunrise Point-LP HD Audio                                            | 6         | 13.95%  |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4         | 9.3%    |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 4         | 9.3%    |
+| AMD Family 17h/19h HD Audio Controller                                     | 4         | 9.3%    |
+| Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 6.98%   |
+| Intel Broadwell-U Audio Controller                                         | 3         | 6.98%   |
+| Intel Comet Lake PCH-LP cAVS                                               | 2         | 4.65%   |
+| Intel Cannon Point-LP High Definition Audio Controller                     | 2         | 4.65%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2         | 4.65%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 2         | 4.65%   |
+| Nvidia MCP79 High Definition Audio                                         | 1         | 2.33%   |
+| Nvidia GA106 High Definition Audio Controller                              | 1         | 2.33%   |
+| Lenovo Lenovo USB-C Mini Dock                                              | 1         | 2.33%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 1         | 2.33%   |
+| Intel Tiger Lake-H HD Audio Controller                                     | 1         | 2.33%   |
+| Intel Haswell-ULT HD Audio Controller                                      | 1         | 2.33%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 1         | 2.33%   |
+| Intel 8 Series HD Audio Controller                                         | 1         | 2.33%   |
+| GN Netcom Jabra UC VOICE 550 MS mono USB                                   | 1         | 2.33%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 1         | 2.33%   |
+| AMD Barts HDMI Audio [Radeon HD 6790/6850/6870 / 7720 OEM]                 | 1         | 2.33%   |
 
 Memory
 ------
@@ -1799,7 +1803,7 @@ Memory module models
 | Samsung RAM Module 2GB SODIMM DDR3 1067MT/s                    | 1         | 2.94%   |
 | Samsung RAM M471B5674-M0-YK0 4GB Chip DDR3 1600MT/s            | 1         | 2.94%   |
 | Samsung RAM M471B5273QH0-YKO 8GB SODIMM DDR3 1600MT/s          | 1         | 2.94%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s          | 1         | 2.94%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s          | 1         | 2.94%   |
 | Samsung RAM M471A2G44AM0-CTD 16GB SODIMM DDR4 2667MT/s         | 1         | 2.94%   |
 | Micron RAM 8KTF25664HZ-1G6M1 2GB SODIMM DDR3 1600MT/s          | 1         | 2.94%   |
 | Micron RAM 53E2G32D4NQ-046 4GB Row Of Chips LPDDR4 4267MT/s    | 1         | 2.94%   |
@@ -1855,8 +1859,8 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 12        | 38.71%  |
-| 4096  | 10        | 32.26%  |
+| 8192  | 13        | 41.94%  |
+| 4096  | 9         | 29.03%  |
 | 16384 | 5         | 16.13%  |
 | 2048  | 4         | 12.9%   |
 

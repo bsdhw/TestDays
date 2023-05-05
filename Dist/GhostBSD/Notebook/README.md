@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 193
+Total: 194
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo        | Yoga Slim 7 Pro 14ACH5 8... | [692b42afcd](https://bsd-hardware.info/?probe=692b42afcd) | Apr 08, 2023 |
 | Dell          | Inspiron 5547               | [4f4f6e06d7](https://bsd-hardware.info/?probe=4f4f6e06d7) | Mar 29, 2023 |
 | Unknown       | Unknown                     | [2a50573c9f](https://bsd-hardware.info/?probe=2a50573c9f) | Mar 29, 2023 |
 | MouseCompu... | X5-aR5CEZAR-WA              | [b960dc3bde](https://bsd-hardware.info/?probe=b960dc3bde) | Mar 25, 2023 |
@@ -358,18 +359,19 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| GhostBSD 20.04.02    | 58        | 38.93%  |
-| GhostBSD 21.08.27    | 29        | 19.46%  |
-| GhostBSD 22.01.12    | 13        | 8.72%   |
-| GhostBSD 22.06.18    | 9         | 6.04%   |
-| GhostBSD 23.02.02    | 6         | 4.03%   |
-| GhostBSD 22.06.26    | 3         | 2.01%   |
-| GhostBSD 23.03.17    | 2         | 1.34%   |
-| GhostBSD 22.11.22    | 2         | 1.34%   |
-| GhostBSD 22.11.02    | 2         | 1.34%   |
-| GhostBSD 22.08.23    | 2         | 1.34%   |
-| GhostBSD 22.08.06    | 2         | 1.34%   |
-| GhostBSD 22.07.16    | 2         | 1.34%   |
+| GhostBSD 20.04.02    | 58        | 38.67%  |
+| GhostBSD 21.08.27    | 29        | 19.33%  |
+| GhostBSD 22.01.12    | 13        | 8.67%   |
+| GhostBSD 22.06.18    | 9         | 6%      |
+| GhostBSD 23.02.02    | 6         | 4%      |
+| GhostBSD 22.06.26    | 3         | 2%      |
+| GhostBSD 23.03.17    | 2         | 1.33%   |
+| GhostBSD 22.11.22    | 2         | 1.33%   |
+| GhostBSD 22.11.02    | 2         | 1.33%   |
+| GhostBSD 22.08.23    | 2         | 1.33%   |
+| GhostBSD 22.08.06    | 2         | 1.33%   |
+| GhostBSD 22.07.16    | 2         | 1.33%   |
+| GhostBSD 23.04.02    | 1         | 0.67%   |
 | GhostBSD 23.01.13    | 1         | 0.67%   |
 | GhostBSD 22.10.30    | 1         | 0.67%   |
 | GhostBSD 22.09.16    | 1         | 0.67%   |
@@ -470,21 +472,21 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| en_US   | 56        | 38.62%  |
-| C       | 47        | 32.41%  |
-| Unknown | 16        | 11.03%  |
-| de_DE   | 7         | 4.83%   |
-| en_GB   | 4         | 2.76%   |
-| pt_BR   | 3         | 2.07%   |
-| pl_PL   | 2         | 1.38%   |
-| it_IT   | 2         | 1.38%   |
-| es_ES   | 2         | 1.38%   |
-| zh_CN   | 1         | 0.69%   |
-| sv_SE   | 1         | 0.69%   |
-| sk_SK   | 1         | 0.69%   |
-| ru_RU   | 1         | 0.69%   |
-| en_NZ   | 1         | 0.69%   |
-| el_GR   | 1         | 0.69%   |
+| en_US   | 56        | 38.36%  |
+| C       | 48        | 32.88%  |
+| Unknown | 16        | 10.96%  |
+| de_DE   | 7         | 4.79%   |
+| en_GB   | 4         | 2.74%   |
+| pt_BR   | 3         | 2.05%   |
+| pl_PL   | 2         | 1.37%   |
+| it_IT   | 2         | 1.37%   |
+| es_ES   | 2         | 1.37%   |
+| zh_CN   | 1         | 0.68%   |
+| sv_SE   | 1         | 0.68%   |
+| sk_SK   | 1         | 0.68%   |
+| ru_RU   | 1         | 0.68%   |
+| en_NZ   | 1         | 0.68%   |
+| el_GR   | 1         | 0.68%   |
 
 Boot Mode
 ---------
@@ -933,26 +935,26 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 41        | 53     | 25.79%  |
-| WDC                 | 21        | 23     | 13.21%  |
-| Kingston            | 18        | 18     | 11.32%  |
-| Seagate             | 14        | 17     | 8.81%   |
-| Toshiba             | 8         | 11     | 5.03%   |
-| Crucial             | 8         | 9      | 5.03%   |
-| SanDisk             | 7         | 7      | 4.4%    |
-| SK hynix            | 5         | 7      | 3.14%   |
-| Phison              | 3         | 4      | 1.89%   |
-| Intel               | 3         | 3      | 1.89%   |
-| Hitachi             | 3         | 3      | 1.89%   |
-| A-DATA Technology   | 3         | 3      | 1.89%   |
-| Star Drive          | 2         | 2      | 1.26%   |
-| PNY                 | 2         | 2      | 1.26%   |
-| Patriot             | 2         | 2      | 1.26%   |
-| Micron Technology   | 2         | 2      | 1.26%   |
-| KingSpec            | 2         | 2      | 1.26%   |
-| HGST                | 2         | 2      | 1.26%   |
-| Goodram             | 2         | 2      | 1.26%   |
-| Fujitsu             | 2         | 2      | 1.26%   |
+| Samsung Electronics | 41        | 53     | 25.63%  |
+| WDC                 | 21        | 23     | 13.13%  |
+| Kingston            | 18        | 18     | 11.25%  |
+| Seagate             | 14        | 17     | 8.75%   |
+| Toshiba             | 8         | 11     | 5%      |
+| Crucial             | 8         | 9      | 5%      |
+| SanDisk             | 7         | 7      | 4.38%   |
+| SK hynix            | 6         | 8      | 3.75%   |
+| Phison              | 3         | 4      | 1.88%   |
+| Intel               | 3         | 3      | 1.88%   |
+| Hitachi             | 3         | 3      | 1.88%   |
+| A-DATA Technology   | 3         | 3      | 1.88%   |
+| Star Drive          | 2         | 2      | 1.25%   |
+| PNY                 | 2         | 2      | 1.25%   |
+| Patriot             | 2         | 2      | 1.25%   |
+| Micron Technology   | 2         | 2      | 1.25%   |
+| KingSpec            | 2         | 2      | 1.25%   |
+| HGST                | 2         | 2      | 1.25%   |
+| GOODRAM             | 2         | 2      | 1.25%   |
+| Fujitsu             | 2         | 2      | 1.25%   |
 | XUM                 | 1         | 1      | 0.63%   |
 | SSSTC               | 1         | 1      | 0.63%   |
 | Silicon Motion      | 1         | 1      | 0.63%   |
@@ -973,21 +975,21 @@ Hard drive models
 
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| Kingston SA400S37240G 240GB          | 4         | 2.44%   |
-| Seagate ST1000LM035-1RK172 1TB       | 3         | 1.83%   |
-| Samsung SSD 860 EVO 500GB            | 3         | 1.83%   |
-| Samsung SSD 850 EVO 250GB            | 3         | 1.83%   |
-| WDC WDS500G2B0A-00SM50 500GB         | 2         | 1.22%   |
-| Star Drive PCIe SSD 960GB            | 2         | 1.22%   |
-| SK hynix HFM512GD3JX013N 512GB       | 2         | 1.22%   |
-| Seagate ST1000LM049-2GH172 1TB       | 2         | 1.22%   |
-| Samsung SSD 860 QVO 1TB              | 2         | 1.22%   |
-| Samsung PM981 NVMe 256GB             | 2         | 1.22%   |
-| Samsung MZNTE128HMGR-000SO 128GB     | 2         | 1.22%   |
-| Kingston SV300S37A240G 240GB         | 2         | 1.22%   |
-| Kingston SA400S37120G 120GB          | 2         | 1.22%   |
-| Kingston RBUSNS8154P3512GJ 512GB     | 2         | 1.22%   |
-| KingSpec Q-720 720GB                 | 2         | 1.22%   |
+| Kingston SA400S37240G 240GB          | 4         | 2.42%   |
+| Seagate ST1000LM035-1RK172 1TB       | 3         | 1.82%   |
+| Samsung SSD 860 EVO 500GB            | 3         | 1.82%   |
+| Samsung SSD 850 EVO 250GB            | 3         | 1.82%   |
+| WDC WDS500G2B0A-00SM50 500GB         | 2         | 1.21%   |
+| Star Drive PCIe SSD 960GB            | 2         | 1.21%   |
+| SK hynix HFM512GD3JX013N 512GB       | 2         | 1.21%   |
+| Seagate ST1000LM049-2GH172 1TB       | 2         | 1.21%   |
+| Samsung SSD 860 QVO 1TB              | 2         | 1.21%   |
+| Samsung PM981 NVMe 256GB             | 2         | 1.21%   |
+| Samsung MZNTE128HMGR-000SO 128GB     | 2         | 1.21%   |
+| Kingston SV300S37A240G 240GB         | 2         | 1.21%   |
+| Kingston SA400S37120G 120GB          | 2         | 1.21%   |
+| Kingston RBUSNS8154P3512GJ 512GB     | 2         | 1.21%   |
+| KingSpec Q-720 720GB                 | 2         | 1.21%   |
 | XUM HX256GSSDSATA3 256GB             | 1         | 0.61%   |
 | WDC WDS240G2G0A-00JH30 240GB         | 1         | 0.61%   |
 | WDC WDS120G2G0A-00JH30 120GB         | 1         | 0.61%   |
@@ -1074,7 +1076,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SSD  | 75        | 94     | 50.34%  |
-| NVMe | 40        | 49     | 26.85%  |
+| NVMe | 40        | 50     | 26.85%  |
 | HDD  | 34        | 40     | 22.82%  |
 
 Drive Connector
@@ -1088,7 +1090,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 104       | 134    | 72.22%  |
-| NVMe | 40        | 49     | 27.78%  |
+| NVMe | 40        | 50     | 27.78%  |
 
 Drive Size
 ----------
@@ -1114,14 +1116,14 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 1-20       | 47        | 32.19%  |
-| 101-250    | 36        | 24.66%  |
-| 251-500    | 20        | 13.7%   |
-| 501-1000   | 14        | 9.59%   |
-| 51-100     | 14        | 9.59%   |
-| Unknown    | 11        | 7.53%   |
-| 21-50      | 2         | 1.37%   |
-| 1001-2000  | 2         | 1.37%   |
+| 1-20       | 47        | 31.97%  |
+| 101-250    | 36        | 24.49%  |
+| 251-500    | 21        | 14.29%  |
+| 501-1000   | 14        | 9.52%   |
+| 51-100     | 14        | 9.52%   |
+| Unknown    | 11        | 7.48%   |
+| 21-50      | 2         | 1.36%   |
+| 1001-2000  | 2         | 1.36%   |
 
 Space Used
 ----------
@@ -1241,7 +1243,7 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 121       | 164    | 87.68%  |
+| Works   | 121       | 165    | 87.68%  |
 | Malfunc | 17        | 19     | 12.32%  |
 
 Storage controller
@@ -1257,21 +1259,21 @@ Storage controller vendors
 
 | Vendor                         | Notebooks | Percent |
 |--------------------------------|-----------|---------|
-| Intel                          | 103       | 65.61%  |
-| Samsung Electronics            | 16        | 10.19%  |
-| AMD                            | 11        | 7.01%   |
-| SanDisk                        | 5         | 3.18%   |
-| Phison Electronics             | 5         | 3.18%   |
-| SK hynix                       | 3         | 1.91%   |
-| Nvidia                         | 3         | 1.91%   |
-| Kingston Technology Company    | 3         | 1.91%   |
+| Intel                          | 103       | 65.19%  |
+| Samsung Electronics            | 16        | 10.13%  |
+| AMD                            | 11        | 6.96%   |
+| SanDisk                        | 5         | 3.16%   |
+| Phison Electronics             | 5         | 3.16%   |
+| SK hynix                       | 4         | 2.53%   |
+| Nvidia                         | 3         | 1.9%    |
+| Kingston Technology Company    | 3         | 1.9%    |
 | Toshiba                        | 2         | 1.27%   |
-| Solid State Storage Technology | 1         | 0.64%   |
-| Silicon Motion                 | 1         | 0.64%   |
-| Micron/Crucial Technology      | 1         | 0.64%   |
-| KIOXIA                         | 1         | 0.64%   |
-| Biwin Storage Technology       | 1         | 0.64%   |
-| ADATA Technology               | 1         | 0.64%   |
+| Solid State Storage Technology | 1         | 0.63%   |
+| Silicon Motion                 | 1         | 0.63%   |
+| Micron/Crucial Technology      | 1         | 0.63%   |
+| KIOXIA                         | 1         | 0.63%   |
+| Biwin Storage Technology       | 1         | 0.63%   |
+| ADATA Technology               | 1         | 0.63%   |
 
 Storage Model
 -------------
@@ -1283,23 +1285,22 @@ Storage controller models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 18        | 11.11%  |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 13        | 8.02%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 11        | 6.79%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 11        | 6.79%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 11        | 6.79%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 9         | 5.56%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 8         | 4.94%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 6         | 3.7%    |
-| Samsung NVMe SSD Controller 980                                                | 4         | 2.47%   |
-| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 4         | 2.47%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 4         | 2.47%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 4         | 2.47%   |
-| Nvidia MCP79 AHCI Controller                                                   | 3         | 1.85%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 3         | 1.85%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 3         | 1.85%   |
-| Unknown                                                                        | 3         | 1.85%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 2         | 1.23%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 18        | 11.04%  |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 13        | 7.98%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                 | 11        | 6.75%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 11        | 6.75%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 11        | 6.75%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 9         | 5.52%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 8         | 4.91%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 6         | 3.68%   |
+| Samsung NVMe SSD Controller 980                                                | 4         | 2.45%   |
+| Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 4         | 2.45%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 4         | 2.45%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 4         | 2.45%   |
+| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 3         | 1.84%   |
+| Nvidia MCP79 AHCI Controller                                                   | 3         | 1.84%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                  | 3         | 1.84%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                               | 3         | 1.84%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 2         | 1.23%   |
 | Phison PS5013 E13 NVMe Controller                                              | 2         | 1.23%   |
 | Phison E12 NVMe Controller                                                     | 2         | 1.23%   |
@@ -1310,19 +1311,20 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 1.23%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 1.23%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 2         | 1.23%   |
-| Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.62%   |
-| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.62%   |
-| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.62%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.62%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.62%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 0.62%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.62%   |
-| SanDisk unknown                                                                | 1         | 0.62%   |
-| SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.62%   |
-| Samsung SM951 AHCI                                                             | 1         | 0.62%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.62%   |
-| Phison E16 PCIe4 NVMe Controller                                               | 1         | 0.62%   |
-| Micron/Crucial NVMe Storage Controller                                         | 1         | 0.62%   |
+| Unknown                                                                        | 2         | 1.23%   |
+| Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.61%   |
+| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.61%   |
+| Solid State Storage CL1                                                        | 1         | 0.61%   |
+| SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.61%   |
+| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.61%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.61%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                      | 1         | 0.61%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.61%   |
+| SanDisk unknown                                                                | 1         | 0.61%   |
+| SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.61%   |
+| Samsung SM951 AHCI                                                             | 1         | 0.61%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.61%   |
+| Phison E16 PCIe4 NVMe Controller                                               | 1         | 0.61%   |
 
 Storage Kind
 ------------
@@ -1622,11 +1624,11 @@ Total video memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 122       | 86.52%  |
-| 0.01-0.5   | 7         | 4.96%   |
-| 1.01-2.0   | 6         | 4.26%   |
-| 0.51-1.0   | 4         | 2.84%   |
-| 3.01-4.0   | 2         | 1.42%   |
+| Unknown    | 122       | 85.92%  |
+| 1.01-2.0   | 7         | 4.93%   |
+| 0.01-0.5   | 7         | 4.93%   |
+| 0.51-1.0   | 4         | 2.82%   |
+| 3.01-4.0   | 2         | 1.41%   |
 
 Monitor
 -------
@@ -1854,9 +1856,9 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 107       | 75.35%  |
-| 0     | 21        | 14.79%  |
-| 2     | 14        | 9.86%   |
+| 1     | 108       | 75.52%  |
+| 0     | 21        | 14.69%  |
+| 2     | 14        | 9.79%   |
 
 Network
 -------
@@ -2225,12 +2227,13 @@ Sound card vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 116       | 75.82%  |
-| AMD                   | 22        | 14.38%  |
-| Nvidia                | 10        | 6.54%   |
+| Intel                 | 116       | 75.32%  |
+| AMD                   | 22        | 14.29%  |
+| Nvidia                | 10        | 6.49%   |
 | RODE Microphones      | 1         | 0.65%   |
 | Realtek Semiconductor | 1         | 0.65%   |
 | Logitech              | 1         | 0.65%   |
+| Lenovo                | 1         | 0.65%   |
 | DSEA A/S              | 1         | 0.65%   |
 | Cambridge Audio       | 1         | 0.65%   |
 
@@ -2244,34 +2247,34 @@ Sound card models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 20        | 10.26%  |
-| Intel Sunrise Point-LP HD Audio                                            | 18        | 9.23%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 15        | 7.69%   |
-| Intel Haswell-ULT HD Audio Controller                                      | 12        | 6.15%   |
-| Intel 8 Series HD Audio Controller                                         | 12        | 6.15%   |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 11        | 5.64%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 8         | 4.1%    |
-| Intel Wildcat Point-LP High Definition Audio Controller                    | 7         | 3.59%   |
-| Intel Comet Lake PCH-LP cAVS                                               | 7         | 3.59%   |
-| Intel Broadwell-U Audio Controller                                         | 7         | 3.59%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 7         | 3.59%   |
-| Intel Cannon Lake PCH cAVS                                                 | 6         | 3.08%   |
-| Intel 82801I (ICH9 Family) HD Audio Controller                             | 5         | 2.56%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 4         | 2.05%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 4         | 2.05%   |
-| Nvidia MCP79 High Definition Audio                                         | 3         | 1.54%   |
-| Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 3         | 1.54%   |
-| Intel Comet Lake PCH cAVS                                                  | 3         | 1.54%   |
-| Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 1.54%   |
-| Intel 82801H (ICH8 Family) HD Audio Controller                             | 3         | 1.54%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 3         | 1.54%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 2         | 1.03%   |
-| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 1.03%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 2         | 1.03%   |
-| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 2         | 1.03%   |
-| AMD High Definition Audio Controller                                       | 2         | 1.03%   |
-| AMD FCH Azalia Controller                                                  | 2         | 1.03%   |
-| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 2         | 1.03%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 20        | 10.2%   |
+| Intel Sunrise Point-LP HD Audio                                            | 18        | 9.18%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 15        | 7.65%   |
+| Intel Haswell-ULT HD Audio Controller                                      | 12        | 6.12%   |
+| Intel 8 Series HD Audio Controller                                         | 12        | 6.12%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 11        | 5.61%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 8         | 4.08%   |
+| Intel Wildcat Point-LP High Definition Audio Controller                    | 7         | 3.57%   |
+| Intel Comet Lake PCH-LP cAVS                                               | 7         | 3.57%   |
+| Intel Broadwell-U Audio Controller                                         | 7         | 3.57%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 7         | 3.57%   |
+| Intel Cannon Lake PCH cAVS                                                 | 6         | 3.06%   |
+| Intel 82801I (ICH9 Family) HD Audio Controller                             | 5         | 2.55%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 4         | 2.04%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 4         | 2.04%   |
+| Nvidia MCP79 High Definition Audio                                         | 3         | 1.53%   |
+| Intel Ice Lake-LP Smart Sound Technology Audio Controller                  | 3         | 1.53%   |
+| Intel Comet Lake PCH cAVS                                                  | 3         | 1.53%   |
+| Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 1.53%   |
+| Intel 82801H (ICH8 Family) HD Audio Controller                             | 3         | 1.53%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 3         | 1.53%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 2         | 1.02%   |
+| Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 1.02%   |
+| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster          | 2         | 1.02%   |
+| AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                  | 2         | 1.02%   |
+| AMD High Definition Audio Controller                                       | 2         | 1.02%   |
+| AMD FCH Azalia Controller                                                  | 2         | 1.02%   |
+| AMD Family 15h (Models 60h-6fh) Audio Controller                           | 2         | 1.02%   |
 | RODE Microphones RDE NT-USB Mini                                           | 1         | 0.51%   |
 | Realtek Semiconductor USB Audio                                            | 1         | 0.51%   |
 | Nvidia TU104 HD Audio Controller                                           | 1         | 0.51%   |
@@ -2282,8 +2285,8 @@ Sound card models
 | Nvidia GF108 High Definition Audio Controller                              | 1         | 0.51%   |
 | Nvidia GA104 High Definition Audio Controller                              | 1         | 0.51%   |
 | Logitech H600 [Wireless Headset]                                           | 1         | 0.51%   |
+| Lenovo Lenovo USB-C Mini Dock                                              | 1         | 0.51%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 1         | 0.51%   |
-| Intel Crystal Well HD Audio Controller                                     | 1         | 0.51%   |
 
 Memory
 ------
@@ -2337,7 +2340,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 5         | 2.72%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 5         | 2.72%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 4         | 2.17%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 4         | 2.17%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 4         | 2.17%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 4         | 2.17%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 4         | 2.17%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 1.63%   |
@@ -2413,12 +2416,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 67        | 42.68%  |
-| 8192  | 63        | 40.13%  |
-| 16384 | 12        | 7.64%   |
-| 2048  | 12        | 7.64%   |
+| 8192  | 67        | 42.41%  |
+| 4096  | 64        | 40.51%  |
+| 16384 | 12        | 7.59%   |
+| 2048  | 12        | 7.59%   |
 | 32768 | 2         | 1.27%   |
-| 1024  | 1         | 0.64%   |
+| 1024  | 1         | 0.63%   |
 
 Memory Speed
 ------------

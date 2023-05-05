@@ -1721,9 +1721,9 @@ Storage controller models
 | Phison E12 NVMe Controller                                                       | 5         | 0.81%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 5         | 0.81%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 5         | 0.81%   |
-| Unknown                                                                          | 5         | 0.81%   |
 | Micron NVMe Storage Controller                                                   | 4         | 0.65%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 4         | 0.65%   |
+| Intel Comet Lake SATA AHCI Controller                                            | 4         | 0.65%   |
 
 Storage Kind
 ------------
@@ -2867,7 +2867,7 @@ Memory module vendors
 | Patriot                      | 3         | 0.59%   |
 | Avant                        | 3         | 0.59%   |
 | Silicon Power                | 2         | 0.39%   |
-| GOODRAM                      | 2         | 0.39%   |
+| Goodram                      | 2         | 0.39%   |
 | Atermiter                    | 2         | 0.39%   |
 | ASint Technology             | 2         | 0.39%   |
 | AMD                          | 2         | 0.39%   |
@@ -2950,11 +2950,11 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 208       | 47.49%  |
-| DDR4    | 148       | 33.79%  |
-| DDR2    | 49        | 11.19%  |
-| Unknown | 16        | 3.65%   |
-| SDRAM   | 7         | 1.6%    |
+| DDR3    | 208       | 47.38%  |
+| DDR4    | 148       | 33.71%  |
+| DDR2    | 49        | 11.16%  |
+| Unknown | 16        | 3.64%   |
+| SDRAM   | 8         | 1.82%   |
 | LPDDR4  | 3         | 0.68%   |
 | LPDDR3  | 3         | 0.68%   |
 | DDR     | 3         | 0.68%   |
@@ -2986,8 +2986,8 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 162       | 33.33%  |
-| 8192  | 141       | 29.01%  |
+| 4096  | 161       | 33.13%  |
+| 8192  | 142       | 29.22%  |
 | 2048  | 106       | 21.81%  |
 | 16384 | 44        | 9.05%   |
 | 1024  | 24        | 4.94%   |
@@ -3004,8 +3004,8 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 119       | 25.11%  |
-| 1333    | 56        | 11.81%  |
+| 1600    | 120       | 25.32%  |
+| 1333    | 55        | 11.6%   |
 | 3200    | 39        | 8.23%   |
 | 2667    | 38        | 8.02%   |
 | 2133    | 36        | 7.59%   |

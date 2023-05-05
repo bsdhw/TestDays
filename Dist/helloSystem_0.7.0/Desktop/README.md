@@ -2479,12 +2479,12 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR4    | 82       | 42.93%  |
-| DDR3    | 70       | 36.65%  |
-| DDR2    | 19       | 9.95%   |
-| Unknown | 13       | 6.81%   |
-| SDRAM   | 5        | 2.62%   |
-| DDR     | 2        | 1.05%   |
+| DDR4    | 82       | 42.71%  |
+| DDR3    | 70       | 36.46%  |
+| DDR2    | 19       | 9.9%    |
+| Unknown | 13       | 6.77%   |
+| SDRAM   | 6        | 3.13%   |
+| DDR     | 2        | 1.04%   |
 
 Memory Form Factor
 ------------------
@@ -2636,26 +2636,26 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                            | Desktops | Percent |
-|----------------------------------|----------|---------|
-| Logitech Webcam C270             | 3        | 14.29%  |
-| Arkmicro USB 2.0 PC CAMERA       | 2        | 9.52%   |
-| Z-Star Lenovo USB 2.0 UVC Camera | 1        | 4.76%   |
-| Microdia REDRAGON  Live Camera   | 1        | 4.76%   |
-| Microdia ASUS USB 2.0 Webcam     | 1        | 4.76%   |
-| Logitech Webcam C930e            | 1        | 4.76%   |
-| Logitech Webcam C310             | 1        | 4.76%   |
-| Logitech Webcam C170             | 1        | 4.76%   |
-| Logitech HD Pro Webcam C920      | 1        | 4.76%   |
-| Logitech C922 Pro Stream Webcam  | 1        | 4.76%   |
-| Logitech C670i FHD Webcam        | 1        | 4.76%   |
-| Logitech BRIO Ultra HD Webcam    | 1        | 4.76%   |
-| IMC Networks XHC Camera          | 1        | 4.76%   |
-| HP Realtek PC Camera             | 1        | 4.76%   |
-| Genesys Logic Digital Microscope | 1        | 4.76%   |
-| Creative Webcam Instant          | 1        | 4.76%   |
-| Chicony HP 0.3MP Webcam          | 1        | 4.76%   |
-| Aveo Camera                      | 1        | 4.76%   |
+| Model                               | Desktops | Percent |
+|-------------------------------------|----------|---------|
+| Logitech Webcam C270                | 3        | 14.29%  |
+| Arkmicro USB 2.0 PC CAMERA          | 2        | 9.52%   |
+| Z-Star Lenovo USB 2.0 UVC Camera    | 1        | 4.76%   |
+| Microdia REDRAGON Live Camera Audio | 1        | 4.76%   |
+| Microdia ASUS USB 2.0 Webcam        | 1        | 4.76%   |
+| Logitech Webcam C930e               | 1        | 4.76%   |
+| Logitech Webcam C310                | 1        | 4.76%   |
+| Logitech Webcam C170                | 1        | 4.76%   |
+| Logitech HD Pro Webcam C920         | 1        | 4.76%   |
+| Logitech C922 Pro Stream Webcam     | 1        | 4.76%   |
+| Logitech C670i FHD Webcam           | 1        | 4.76%   |
+| Logitech BRIO Ultra HD Webcam       | 1        | 4.76%   |
+| IMC Networks XHC Camera             | 1        | 4.76%   |
+| HP Realtek PC Camera                | 1        | 4.76%   |
+| Genesys Logic Digital Microscope    | 1        | 4.76%   |
+| Creative Webcam Instant             | 1        | 4.76%   |
+| Chicony HP 0.3MP Webcam             | 1        | 4.76%   |
+| Aveo Camera                         | 1        | 4.76%   |
 
 Security
 --------

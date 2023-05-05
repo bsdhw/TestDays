@@ -1982,7 +1982,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2048,14 +2048,14 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 20        | 33.9%   |
-| 8192  | 17        | 28.81%  |
-| 2048  | 9         | 15.25%  |
-| 1024  | 6         | 10.17%  |
-| 16384 | 4         | 6.78%   |
-| 32768 | 1         | 1.69%   |
-| 512   | 1         | 1.69%   |
-| 128   | 1         | 1.69%   |
+| 4096  | 19        | 32.76%  |
+| 8192  | 17        | 29.31%  |
+| 2048  | 9         | 15.52%  |
+| 1024  | 6         | 10.34%  |
+| 16384 | 4         | 6.9%    |
+| 32768 | 1         | 1.72%   |
+| 512   | 1         | 1.72%   |
+| 128   | 1         | 1.72%   |
 
 Memory Speed
 ------------
@@ -2160,7 +2160,7 @@ Camera device models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Sunplus Integrated_Webcam_HD                        | 3         | 9.09%   |
+| Sunplus Integrated_Webcam_HD                        | 2         | 6.06%   |
 | Realtek USB 2.0 PC Camera                           | 2         | 6.06%   |
 | Realtek Lenovo EasyCamera                           | 2         | 6.06%   |
 | Chicony Integrated Camera                           | 2         | 6.06%   |
@@ -2168,6 +2168,7 @@ Camera device models
 | Suyin HD WebCam                                     | 1         | 3.03%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 3.03%   |
 | Suyin Acer Crystal Eye webcam                       | 1         | 3.03%   |
+| Sunplus SPCA2650 AV Camera                          | 1         | 3.03%   |
 | Sunplus Asus Webcam                                 | 1         | 3.03%   |
 | Silicon Motion Realtek USB 2.0 PC Camera            | 1         | 3.03%   |
 | Realtek USB Video Composite                         | 1         | 3.03%   |
