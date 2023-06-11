@@ -2699,13 +2699,14 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 19        | 40.43%  |
-| Upek                       | 11        | 23.4%   |
-| AuthenTec                  | 8         | 17.02%  |
-| STMicroelectronics         | 4         | 8.51%   |
-| Shenzhen Goodix Technology | 2         | 4.26%   |
-| LighTuning Technology      | 2         | 4.26%   |
-| Synaptics                  | 1         | 2.13%   |
+| Validity Sensors           | 19        | 38.78%  |
+| Upek                       | 11        | 22.45%  |
+| AuthenTec                  | 8         | 16.33%  |
+| STMicroelectronics         | 4         | 8.16%   |
+| Shenzhen Goodix Technology | 2         | 4.08%   |
+| LighTuning Technology      | 2         | 4.08%   |
+| Elan Microelectronics      | 2         | 4.08%   |
+| Synaptics                  | 1         | 2.04%   |
 
 Fingerprint Model
 -----------------
@@ -2717,27 +2718,28 @@ Fingerprint sensor models
 
 | Model                                                  | Notebooks | Percent |
 |--------------------------------------------------------|-----------|---------|
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 9         | 19.15%  |
-| STMicroelectronics Fingerprint Reader                  | 4         | 8.51%   |
-| Validity Sensors VFS5011 Fingerprint Reader            | 3         | 6.38%   |
-| Validity Sensors VFS491                                | 3         | 6.38%   |
-| Validity Sensors VFS 5011 fingerprint sensor           | 3         | 6.38%   |
-| AuthenTec AES1600                                      | 3         | 6.38%   |
-| Validity Sensors VFS495 Fingerprint Reader             | 2         | 4.26%   |
-| Validity Sensors VFS471 Fingerprint Reader             | 2         | 4.26%   |
-| Validity Sensors Synaptics WBDI                        | 2         | 4.26%   |
-| Validity Sensors Fingerprint scanner                   | 2         | 4.26%   |
-| Upek TCS5B Fingerprint sensor                          | 2         | 4.26%   |
-| Shenzhen Goodix Fingerprint Reader                     | 2         | 4.26%   |
-| AuthenTec AES2501 Fingerprint Sensor                   | 2         | 4.26%   |
-| Validity Sensors VFS101 Fingerprint Reader             | 1         | 2.13%   |
-| Validity Sensors Swipe Fingerprint Sensor              | 1         | 2.13%   |
-| Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 2.13%   |
-| LighTuning ES603 Swipe Fingerprint Sensor              | 1         | 2.13%   |
-| LighTuning EgisTec Touch Fingerprint Sensor            | 1         | 2.13%   |
-| AuthenTec AES2810                                      | 1         | 2.13%   |
-| AuthenTec AES1660 Fingerprint Sensor                   | 1         | 2.13%   |
-| AuthenTec AES1660                                      | 1         | 2.13%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 9         | 18.37%  |
+| STMicroelectronics Fingerprint Reader                  | 4         | 8.16%   |
+| Validity Sensors VFS5011 Fingerprint Reader            | 3         | 6.12%   |
+| Validity Sensors VFS491                                | 3         | 6.12%   |
+| Validity Sensors VFS 5011 fingerprint sensor           | 3         | 6.12%   |
+| AuthenTec AES1600                                      | 3         | 6.12%   |
+| Validity Sensors VFS495 Fingerprint Reader             | 2         | 4.08%   |
+| Validity Sensors VFS471 Fingerprint Reader             | 2         | 4.08%   |
+| Validity Sensors Synaptics WBDI                        | 2         | 4.08%   |
+| Validity Sensors Fingerprint scanner                   | 2         | 4.08%   |
+| Upek TCS5B Fingerprint sensor                          | 2         | 4.08%   |
+| Shenzhen Goodix Fingerprint Reader                     | 2         | 4.08%   |
+| Elan Fingerprint Sensor                                | 2         | 4.08%   |
+| AuthenTec AES2501 Fingerprint Sensor                   | 2         | 4.08%   |
+| Validity Sensors VFS101 Fingerprint Reader             | 1         | 2.04%   |
+| Validity Sensors Swipe Fingerprint Sensor              | 1         | 2.04%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 2.04%   |
+| LighTuning ES603 Swipe Fingerprint Sensor              | 1         | 2.04%   |
+| LighTuning EgisTec Touch Fingerprint Sensor            | 1         | 2.04%   |
+| AuthenTec AES2810                                      | 1         | 2.04%   |
+| AuthenTec AES1660 Fingerprint Sensor                   | 1         | 2.04%   |
+| AuthenTec AES1660                                      | 1         | 2.04%   |
 
 Chipcard Vendor
 ---------------
@@ -2767,9 +2769,9 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 1     | 76        | 33.93%  |
-| 2     | 65        | 29.02%  |
+| 2     | 63        | 28.13%  |
 | 0     | 41        | 18.3%   |
-| 3     | 32        | 14.29%  |
+| 3     | 34        | 15.18%  |
 | 4     | 9         | 4.02%   |
 | 5     | 1         | 0.45%   |
 
@@ -2783,12 +2785,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 137       | 42.28%  |
-| Net/wireless             | 59        | 18.21%  |
-| Fingerprint reader       | 45        | 13.89%  |
-| Bluetooth                | 39        | 12.04%  |
-| Card reader              | 36        | 11.11%  |
+| Communication controller | 137       | 42.02%  |
+| Net/wireless             | 59        | 18.1%   |
+| Fingerprint reader       | 47        | 14.42%  |
+| Bluetooth                | 39        | 11.96%  |
+| Card reader              | 36        | 11.04%  |
 | Storage                  | 4         | 1.23%   |
-| Network                  | 3         | 0.93%   |
+| Network                  | 3         | 0.92%   |
 | Sound                    | 1         | 0.31%   |
 

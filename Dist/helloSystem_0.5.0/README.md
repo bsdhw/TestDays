@@ -524,8 +524,8 @@ EFI or BIOS
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
-| EFI  | 198       | 80.82%  |
-| BIOS | 47        | 19.18%  |
+| EFI  | 197       | 80.41%  |
+| BIOS | 48        | 19.59%  |
 
 Filesystem
 ----------
@@ -1086,15 +1086,14 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 55        | 78     | 34.59%  |
-| WDC                 | 49        | 66     | 30.82%  |
-| Toshiba             | 13        | 13     | 8.18%   |
-| Samsung Electronics | 13        | 15     | 8.18%   |
-| Hitachi             | 13        | 15     | 8.18%   |
-| HGST                | 7         | 7      | 4.4%    |
-| Fujitsu             | 3         | 4      | 1.89%   |
-| Apple               | 3         | 3      | 1.89%   |
-| LSI                 | 1         | 1      | 0.63%   |
+| Seagate             | 55        | 78     | 34.81%  |
+| WDC                 | 49        | 66     | 31.01%  |
+| Toshiba             | 13        | 13     | 8.23%   |
+| Samsung Electronics | 13        | 15     | 8.23%   |
+| Hitachi             | 13        | 15     | 8.23%   |
+| HGST                | 7         | 7      | 4.43%   |
+| Fujitsu             | 3         | 4      | 1.9%    |
+| Apple               | 3         | 3      | 1.9%    |
 | Hewlett-Packard     | 1         | 1      | 0.63%   |
 | CLOVER              | 1         | 1      | 0.63%   |
 
@@ -1108,33 +1107,34 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 30        | 38     | 23.26%  |
-| Crucial             | 14        | 16     | 10.85%  |
-| SanDisk             | 13        | 14     | 10.08%  |
-| Kingston            | 13        | 14     | 10.08%  |
-| WDC                 | 8         | 9      | 6.2%    |
-| Intel               | 7         | 7      | 5.43%   |
-| A-DATA Technology   | 6         | 7      | 4.65%   |
-| Toshiba             | 4         | 5      | 3.1%    |
-| SPCC                | 4         | 5      | 3.1%    |
-| Apple               | 4         | 4      | 3.1%    |
-| PNY                 | 3         | 9      | 2.33%   |
-| OCZ                 | 3         | 3      | 2.33%   |
-| Transcend           | 2         | 3      | 1.55%   |
-| Patriot             | 2         | 2      | 1.55%   |
-| LITEON              | 2         | 2      | 1.55%   |
-| KingSpec            | 2         | 2      | 1.55%   |
-| Apacer              | 2         | 2      | 1.55%   |
-| SSSTC               | 1         | 1      | 0.78%   |
-| Smart               | 1         | 1      | 0.78%   |
-| ORICO               | 1         | 2      | 0.78%   |
-| MyDigitalSSD        | 1         | 1      | 0.78%   |
-| Micron Technology   | 1         | 1      | 0.78%   |
-| LITEONIT            | 1         | 1      | 0.78%   |
-| Lenovo              | 1         | 1      | 0.78%   |
-| HPE                 | 1         | 1      | 0.78%   |
-| Hewlett-Packard     | 1         | 2      | 0.78%   |
-| Emtec               | 1         | 1      | 0.78%   |
+| Samsung Electronics | 30        | 38     | 23.08%  |
+| Crucial             | 14        | 16     | 10.77%  |
+| SanDisk             | 13        | 14     | 10%     |
+| Kingston            | 13        | 14     | 10%     |
+| WDC                 | 8         | 9      | 6.15%   |
+| Intel               | 7         | 7      | 5.38%   |
+| A-DATA Technology   | 6         | 7      | 4.62%   |
+| Toshiba             | 4         | 5      | 3.08%   |
+| SPCC                | 4         | 5      | 3.08%   |
+| Apple               | 4         | 4      | 3.08%   |
+| PNY                 | 3         | 9      | 2.31%   |
+| OCZ                 | 3         | 3      | 2.31%   |
+| Transcend           | 2         | 3      | 1.54%   |
+| Patriot             | 2         | 2      | 1.54%   |
+| LITEON              | 2         | 2      | 1.54%   |
+| KingSpec            | 2         | 2      | 1.54%   |
+| Apacer              | 2         | 2      | 1.54%   |
+| SSSTC               | 1         | 1      | 0.77%   |
+| Smart               | 1         | 1      | 0.77%   |
+| ORICO               | 1         | 2      | 0.77%   |
+| MyDigitalSSD        | 1         | 1      | 0.77%   |
+| Micron Technology   | 1         | 1      | 0.77%   |
+| LSI                 | 1         | 1      | 0.77%   |
+| LITEONIT            | 1         | 1      | 0.77%   |
+| Lenovo              | 1         | 1      | 0.77%   |
+| HPE                 | 1         | 1      | 0.77%   |
+| Hewlett-Packard     | 1         | 2      | 0.77%   |
+| Emtec               | 1         | 1      | 0.77%   |
 
 Drive Kind
 ----------
@@ -1146,8 +1146,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 137       | 204    | 46.6%   |
-| SSD  | 114       | 154    | 38.78%  |
+| HDD  | 137       | 203    | 46.6%   |
+| SSD  | 114       | 155    | 38.78%  |
 | NVMe | 43        | 51     | 14.63%  |
 
 Drive Connector
@@ -1173,9 +1173,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 176       | 248    | 67.43%  |
-| 0.51-1.0   | 60        | 75     | 22.99%  |
-| 1.01-2.0   | 14        | 18     | 5.36%   |
+| 0.01-0.5   | 176       | 249    | 67.69%  |
+| 0.51-1.0   | 59        | 74     | 22.69%  |
+| 1.01-2.0   | 14        | 18     | 5.38%   |
 | 3.01-4.0   | 5         | 6      | 1.92%   |
 | 2.01-3.0   | 3         | 6      | 1.15%   |
 | 4.01-10.0  | 3         | 5      | 1.15%   |
@@ -1190,9 +1190,9 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 1-20       | 156       | 62.9%   |
+| 1-20       | 155       | 62.5%   |
 | 101-250    | 37        | 14.92%  |
-| 251-500    | 24        | 9.68%   |
+| 251-500    | 25        | 10.08%  |
 | 501-1000   | 18        | 7.26%   |
 | 51-100     | 7         | 2.82%   |
 | 21-50      | 4         | 1.61%   |
@@ -2841,13 +2841,14 @@ Fingerprint sensor vendors
 ![Fingerprint Vendor](./All/images/pie_chart_bsd/fingerprint_vendor.svg)
 
 
-| Vendor             | Computers | Percent |
-|--------------------|-----------|---------|
-| Validity Sensors   | 9         | 69.23%  |
-| Synaptics          | 1         | 7.69%   |
-| STMicroelectronics | 1         | 7.69%   |
-| Broadcom           | 1         | 7.69%   |
-| AuthenTec          | 1         | 7.69%   |
+| Vendor                | Computers | Percent |
+|-----------------------|-----------|---------|
+| Validity Sensors      | 9         | 64.29%  |
+| Synaptics             | 1         | 7.14%   |
+| STMicroelectronics    | 1         | 7.14%   |
+| Elan Microelectronics | 1         | 7.14%   |
+| Broadcom              | 1         | 7.14%   |
+| AuthenTec             | 1         | 7.14%   |
 
 Fingerprint Model
 -----------------
@@ -2859,15 +2860,16 @@ Fingerprint sensor models
 
 | Model                                                                        | Computers | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Validity Sensors VFS5011 Fingerprint Reader                                  | 3         | 23.08%  |
-| Validity Sensors VFS495 Fingerprint Reader                                   | 3         | 23.08%  |
-| Validity Sensors VFS451 Fingerprint Reader                                   | 1         | 7.69%   |
-| Validity Sensors VFS 5011 fingerprint sensor                                 | 1         | 7.69%   |
-| Validity Sensors Synaptics WBDI                                              | 1         | 7.69%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 7.69%   |
-| STMicroelectronics Fingerprint Reader                                        | 1         | 7.69%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 7.69%   |
-| AuthenTec AES2810                                                            | 1         | 7.69%   |
+| Validity Sensors VFS5011 Fingerprint Reader                                  | 3         | 21.43%  |
+| Validity Sensors VFS495 Fingerprint Reader                                   | 3         | 21.43%  |
+| Validity Sensors VFS451 Fingerprint Reader                                   | 1         | 7.14%   |
+| Validity Sensors VFS 5011 fingerprint sensor                                 | 1         | 7.14%   |
+| Validity Sensors Synaptics WBDI                                              | 1         | 7.14%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 7.14%   |
+| STMicroelectronics Fingerprint Reader                                        | 1         | 7.14%   |
+| Elan Fingerprint Sensor                                                      | 1         | 7.14%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 7.14%   |
+| AuthenTec AES2810                                                            | 1         | 7.14%   |
 
 Chipcard Vendor
 ---------------
@@ -2899,8 +2901,8 @@ Total unsupported devices on board
 | 1     | 97        | 39.11%  |
 | 2     | 61        | 24.6%   |
 | 0     | 55        | 22.18%  |
-| 3     | 26        | 10.48%  |
-| 4     | 6         | 2.42%   |
+| 3     | 25        | 10.08%  |
+| 4     | 7         | 2.82%   |
 | 5     | 2         | 0.81%   |
 | 6     | 1         | 0.4%    |
 
@@ -2914,15 +2916,15 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 161       | 50.31%  |
-| Card reader              | 58        | 18.13%  |
-| Net/wireless             | 39        | 12.19%  |
-| Bluetooth                | 24        | 7.5%    |
-| Firewire controller      | 13        | 4.06%   |
-| Fingerprint reader       | 13        | 4.06%   |
+| Communication controller | 161       | 50.16%  |
+| Card reader              | 58        | 18.07%  |
+| Net/wireless             | 39        | 12.15%  |
+| Bluetooth                | 24        | 7.48%   |
+| Fingerprint reader       | 14        | 4.36%   |
+| Firewire controller      | 13        | 4.05%   |
 | Sound                    | 5         | 1.56%   |
-| Storage                  | 3         | 0.94%   |
-| Network                  | 2         | 0.63%   |
+| Storage                  | 3         | 0.93%   |
+| Network                  | 2         | 0.62%   |
 | Storage/raid             | 1         | 0.31%   |
 | Dvb card                 | 1         | 0.31%   |
 

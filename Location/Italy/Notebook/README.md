@@ -1530,7 +1530,7 @@ Monitor models
 | Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch              | 1         | 2.27%   |
 | Lenovo LCD Monitor LEN40A3 1920x1080 310x170mm 13.9-inch             | 1         | 2.27%   |
 | Hewlett-Packard 24fw HPN3605 1920x1080 530x300mm 24.0-inch           | 1         | 2.27%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch            | 1         | 2.27%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch             | 1         | 2.27%   |
 | Fujitsu Siemens B23T-6 LED FUS07FB 1920x1080 510x290mm 23.1-inch     | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 340x190mm 15.3-inch      | 1         | 2.27%   |
 | Chimei Innolux LCD Monitor CMN15BF 1366x768 340x190mm 15.3-inch      | 1         | 2.27%   |
@@ -2115,7 +2115,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 2.53%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.53%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 2.53%   |
-| Nanya RAM NT4GC64B8HB0NS-CG 4GB SODIMM DDR3 1067MT/s             | 2         | 2.53%   |
+| Nanya RAM NT4GC64B8HB0NS-CG 4GB SODIMM DDR3 1333MT/s             | 2         | 2.53%   |
 | Kingston RAM Module 2GB SODIMM DDR2 667MT/s                      | 2         | 2.53%   |
 | Unknown SODIMM 4GB SODIMM 800MT/s                                | 1         | 1.27%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 1         | 1.27%   |
@@ -2208,21 +2208,21 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 18        | 27.69%  |
-| 667     | 7         | 10.77%  |
-| 2667    | 6         | 9.23%   |
-| 2133    | 5         | 7.69%   |
-| 1067    | 5         | 7.69%   |
-| 3200    | 4         | 6.15%   |
-| 2400    | 4         | 6.15%   |
-| 1333    | 4         | 6.15%   |
-| 1334    | 3         | 4.62%   |
-| Unknown | 3         | 4.62%   |
-| 800     | 2         | 3.08%   |
-| 2048    | 1         | 1.54%   |
-| 1867    | 1         | 1.54%   |
-| 1066    | 1         | 1.54%   |
-| 333     | 1         | 1.54%   |
+| 1600    | 18        | 28.13%  |
+| 667     | 7         | 10.94%  |
+| 2667    | 6         | 9.38%   |
+| 2133    | 5         | 7.81%   |
+| 1333    | 5         | 7.81%   |
+| 3200    | 4         | 6.25%   |
+| 2400    | 4         | 6.25%   |
+| 1334    | 3         | 4.69%   |
+| 1067    | 3         | 4.69%   |
+| Unknown | 3         | 4.69%   |
+| 800     | 2         | 3.13%   |
+| 2048    | 1         | 1.56%   |
+| 1867    | 1         | 1.56%   |
+| 1066    | 1         | 1.56%   |
+| 333     | 1         | 1.56%   |
 
 Printers & scanners
 -------------------

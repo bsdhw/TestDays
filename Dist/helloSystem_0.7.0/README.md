@@ -1375,7 +1375,7 @@ Solid state drive vendors
 | Patriot             | 7         | 7      | 2.61%   |
 | KingSpec            | 6         | 6      | 2.24%   |
 | PNY                 | 5         | 5      | 1.87%   |
-| Goodram             | 5         | 6      | 1.87%   |
+| GOODRAM             | 5         | 6      | 1.87%   |
 | SPCC                | 4         | 5      | 1.49%   |
 | Intenso             | 4         | 4      | 1.49%   |
 | Corsair             | 4         | 4      | 1.49%   |
@@ -1735,9 +1735,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 375       | 67.45%  |
-| NVMe | 89        | 16.01%  |
-| IDE  | 67        | 12.05%  |
+| SATA | 375       | 67.57%  |
+| NVMe | 89        | 16.04%  |
+| IDE  | 66        | 11.89%  |
 | RAID | 22        | 3.96%   |
 | SAS  | 2         | 0.36%   |
 | SCSI | 1         | 0.18%   |
@@ -2867,7 +2867,7 @@ Memory module vendors
 | Patriot                      | 3         | 0.59%   |
 | Avant                        | 3         | 0.59%   |
 | Silicon Power                | 2         | 0.39%   |
-| Goodram                      | 2         | 0.39%   |
+| GOODRAM                      | 2         | 0.39%   |
 | Atermiter                    | 2         | 0.39%   |
 | ASint Technology             | 2         | 0.39%   |
 | AMD                          | 2         | 0.39%   |
@@ -3194,13 +3194,14 @@ Fingerprint sensor vendors
 
 | Vendor                     | Computers | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 19        | 40.43%  |
-| Upek                       | 11        | 23.4%   |
-| AuthenTec                  | 8         | 17.02%  |
-| STMicroelectronics         | 4         | 8.51%   |
-| Shenzhen Goodix Technology | 2         | 4.26%   |
-| LighTuning Technology      | 2         | 4.26%   |
-| Synaptics                  | 1         | 2.13%   |
+| Validity Sensors           | 19        | 38.78%  |
+| Upek                       | 11        | 22.45%  |
+| AuthenTec                  | 8         | 16.33%  |
+| STMicroelectronics         | 4         | 8.16%   |
+| Shenzhen Goodix Technology | 2         | 4.08%   |
+| LighTuning Technology      | 2         | 4.08%   |
+| Elan Microelectronics      | 2         | 4.08%   |
+| Synaptics                  | 1         | 2.04%   |
 
 Fingerprint Model
 -----------------
@@ -3212,27 +3213,28 @@ Fingerprint sensor models
 
 | Model                                                  | Computers | Percent |
 |--------------------------------------------------------|-----------|---------|
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 9         | 19.15%  |
-| STMicroelectronics Fingerprint Reader                  | 4         | 8.51%   |
-| Validity Sensors VFS5011 Fingerprint Reader            | 3         | 6.38%   |
-| Validity Sensors VFS491                                | 3         | 6.38%   |
-| Validity Sensors VFS 5011 fingerprint sensor           | 3         | 6.38%   |
-| AuthenTec AES1600                                      | 3         | 6.38%   |
-| Validity Sensors VFS495 Fingerprint Reader             | 2         | 4.26%   |
-| Validity Sensors VFS471 Fingerprint Reader             | 2         | 4.26%   |
-| Validity Sensors Synaptics WBDI                        | 2         | 4.26%   |
-| Validity Sensors Fingerprint scanner                   | 2         | 4.26%   |
-| Upek TCS5B Fingerprint sensor                          | 2         | 4.26%   |
-| Shenzhen Goodix Fingerprint Reader                     | 2         | 4.26%   |
-| AuthenTec AES2501 Fingerprint Sensor                   | 2         | 4.26%   |
-| Validity Sensors VFS101 Fingerprint Reader             | 1         | 2.13%   |
-| Validity Sensors Swipe Fingerprint Sensor              | 1         | 2.13%   |
-| Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 2.13%   |
-| LighTuning ES603 Swipe Fingerprint Sensor              | 1         | 2.13%   |
-| LighTuning EgisTec Touch Fingerprint Sensor            | 1         | 2.13%   |
-| AuthenTec AES2810                                      | 1         | 2.13%   |
-| AuthenTec AES1660 Fingerprint Sensor                   | 1         | 2.13%   |
-| AuthenTec AES1660                                      | 1         | 2.13%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 9         | 18.37%  |
+| STMicroelectronics Fingerprint Reader                  | 4         | 8.16%   |
+| Validity Sensors VFS5011 Fingerprint Reader            | 3         | 6.12%   |
+| Validity Sensors VFS491                                | 3         | 6.12%   |
+| Validity Sensors VFS 5011 fingerprint sensor           | 3         | 6.12%   |
+| AuthenTec AES1600                                      | 3         | 6.12%   |
+| Validity Sensors VFS495 Fingerprint Reader             | 2         | 4.08%   |
+| Validity Sensors VFS471 Fingerprint Reader             | 2         | 4.08%   |
+| Validity Sensors Synaptics WBDI                        | 2         | 4.08%   |
+| Validity Sensors Fingerprint scanner                   | 2         | 4.08%   |
+| Upek TCS5B Fingerprint sensor                          | 2         | 4.08%   |
+| Shenzhen Goodix Fingerprint Reader                     | 2         | 4.08%   |
+| Elan Fingerprint Sensor                                | 2         | 4.08%   |
+| AuthenTec AES2501 Fingerprint Sensor                   | 2         | 4.08%   |
+| Validity Sensors VFS101 Fingerprint Reader             | 1         | 2.04%   |
+| Validity Sensors Swipe Fingerprint Sensor              | 1         | 2.04%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader       | 1         | 2.04%   |
+| LighTuning ES603 Swipe Fingerprint Sensor              | 1         | 2.04%   |
+| LighTuning EgisTec Touch Fingerprint Sensor            | 1         | 2.04%   |
+| AuthenTec AES2810                                      | 1         | 2.04%   |
+| AuthenTec AES1660 Fingerprint Sensor                   | 1         | 2.04%   |
+| AuthenTec AES1660                                      | 1         | 2.04%   |
 
 Chipcard Vendor
 ---------------
@@ -3263,8 +3265,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 1     | 169       | 37.72%  |
 | 0     | 130       | 29.02%  |
-| 2     | 99        | 22.1%   |
-| 3     | 37        | 8.26%   |
+| 2     | 97        | 21.65%  |
+| 3     | 39        | 8.71%   |
 | 4     | 12        | 2.68%   |
 | 5     | 1         | 0.22%   |
 
@@ -3278,13 +3280,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 251       | 50.81%  |
-| Net/wireless             | 87        | 17.61%  |
-| Bluetooth                | 50        | 10.12%  |
-| Fingerprint reader       | 45        | 9.11%   |
-| Card reader              | 39        | 7.89%   |
-| Sound                    | 8         | 1.62%   |
-| Network                  | 7         | 1.42%   |
+| Communication controller | 251       | 50.6%   |
+| Net/wireless             | 87        | 17.54%  |
+| Bluetooth                | 50        | 10.08%  |
+| Fingerprint reader       | 47        | 9.48%   |
+| Card reader              | 39        | 7.86%   |
+| Sound                    | 8         | 1.61%   |
+| Network                  | 7         | 1.41%   |
 | Storage                  | 4         | 0.81%   |
 | Storage/nvme             | 1         | 0.2%    |
 | Net/ethernet             | 1         | 0.2%    |

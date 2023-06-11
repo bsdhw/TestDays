@@ -150,7 +150,7 @@ Total: 45
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
 | HP            | Pavilion g6                 | [eeffda8d57](https://bsd-hardware.info/?probe=eeffda8d57) | Apr 09, 2023 |
-| Gigabyte      | B250M-Gaming 3              | [ffbe23b7d8](https://bsd-hardware.info/?probe=ffbe23b7d8) | Apr 09, 2023 |
+| Gigabyte      | B250M-Gaming 3-CF           | [ffbe23b7d8](https://bsd-hardware.info/?probe=ffbe23b7d8) | Apr 09, 2023 |
 | Sun           | SUNW,T5140                  | [a285e4f43a](https://bsd-hardware.info/?probe=a285e4f43a) | Apr 02, 2023 |
 | Lenovo        | ThinkCentre M910q 10MVCT... | [5459ed9c31](https://bsd-hardware.info/?probe=5459ed9c31) | Mar 22, 2023 |
 | ASUSTek       | PRIME H410M-A               | [cbbeb5c41c](https://bsd-hardware.info/?probe=cbbeb5c41c) | Mar 22, 2023 |
@@ -572,8 +572,8 @@ Has Bluetooth module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 31       | 86.11%  |
-| Yes       | 5        | 13.89%  |
+| No        | 30       | 83.33%  |
+| Yes       | 6        | 16.67%  |
 
 Location
 --------
@@ -691,7 +691,7 @@ Hard drive models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | OPENBSD SR RAID 1 2TB           | 4        | 5.13%   |
-| NVMe Samsung SSD 980 1TB        | 4        | 5.13%   |
+| NVMe Samsung SSD 980 500GB      | 4        | 5.13%   |
 | Kingston SEDC500M480G 480GB     | 2        | 2.56%   |
 | WDC WD7500AACS-00ZJB0 752GB     | 1        | 1.28%   |
 | WDC WD4003FFBX-68MU3N0 4TB      | 1        | 1.28%   |
@@ -722,7 +722,7 @@ Hard drive models
 | Seagate BUP Portable 5TB        | 1        | 1.28%   |
 | SanDisk Ultra Fit 128GB         | 1        | 1.28%   |
 | SanDisk Gaming Xbox 360 8GB     | 1        | 1.28%   |
-| SanDisk Cruzer Blade 16GB       | 1        | 1.28%   |
+| SanDisk Cruzer Blade 64GB       | 1        | 1.28%   |
 | Samsung SSD 870 QVO 2TB         | 1        | 1.28%   |
 | Samsung SSD 860 EVO M.2 1TB     | 1        | 1.28%   |
 | Samsung SSD 860 EVO 1TB         | 1        | 1.28%   |
@@ -811,11 +811,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 23       | 32     | 41.07%  |
-| 0.51-1.0   | 16       | 22     | 28.57%  |
-| 1.01-2.0   | 8        | 28     | 14.29%  |
-| 4.01-10.0  | 5        | 13     | 8.93%   |
-| 3.01-4.0   | 4        | 6      | 7.14%   |
+| 0.01-0.5   | 26       | 37     | 47.27%  |
+| 0.51-1.0   | 12       | 17     | 21.82%  |
+| 1.01-2.0   | 8        | 28     | 14.55%  |
+| 4.01-10.0  | 5        | 13     | 9.09%   |
+| 3.01-4.0   | 4        | 6      | 7.27%   |
 
 Space Total
 -----------
@@ -1710,10 +1710,11 @@ Controller vendors
 
 | Vendor                          | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Intel                           | 3        | 50%     |
-| Realtek Semiconductor           | 1        | 16.67%  |
-| Qualcomm Atheros Communications | 1        | 16.67%  |
-| Broadcom                        | 1        | 16.67%  |
+| Intel                           | 3        | 42.86%  |
+| Realtek Semiconductor           | 1        | 14.29%  |
+| Qualcomm Atheros Communications | 1        | 14.29%  |
+| Foxconn / Hon Hai               | 1        | 14.29%  |
+| Broadcom                        | 1        | 14.29%  |
 
 Bluetooth Model
 ---------------
@@ -1723,13 +1724,14 @@ Controller models
 ![Bluetooth Model](./images/pie_chart_bsd/bt_model.svg)
 
 
-| Model                                 | Desktops | Percent |
-|---------------------------------------|----------|---------|
-| Intel Bluetooth wireless interface    | 2        | 33.33%  |
-| Realtek Bluetooth Adapter             | 1        | 16.67%  |
-| Qualcomm Atheros AR3012 Bluetooth 4.0 | 1        | 16.67%  |
-| Intel AX201 Bluetooth                 | 1        | 16.67%  |
-| Broadcom BCM20702A0 Bluetooth 4.0     | 1        | 16.67%  |
+| Model                                     | Desktops | Percent |
+|-------------------------------------------|----------|---------|
+| Intel Bluetooth wireless interface        | 2        | 28.57%  |
+| Realtek Bluetooth Adapter                 | 1        | 14.29%  |
+| Qualcomm Atheros AR3012 Bluetooth 4.0     | 1        | 14.29%  |
+| Intel AX201 Bluetooth                     | 1        | 14.29%  |
+| Foxconn / Hon Hai RZ616 Bluetooth Adapter | 1        | 14.29%  |
+| Broadcom BCM20702A0 Bluetooth 4.0         | 1        | 14.29%  |
 
 Sound
 -----

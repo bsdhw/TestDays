@@ -1506,7 +1506,7 @@ Monitor models
 | Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 1.32%   |
-| InfoVision LCD Monitor IVO0533 1366x768 290x160mm 13.0-inch           | 1         | 1.32%   |
+| InfoVision LCD Monitor IVO0533 1366x768 290x170mm 13.2-inch           | 1         | 1.32%   |
 | Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch             | 1         | 1.32%   |
 | Eizo EV2436W ENC2385 1920x1200 520x330mm 24.2-inch                    | 1         | 1.32%   |
 | Dell S2419HGF DELD0E1 1920x1080 530x300mm 24.0-inch                   | 1         | 1.32%   |
@@ -2079,7 +2079,7 @@ Memory module models
 | Unknown RAM Module 4096MB SODIMM DDR2                       | 1         | 0.8%    |
 | Unknown RAM Module 4096MB SODIMM 1066MT/s                   | 1         | 0.8%    |
 | Unknown (08B5) RAM IM416GU8N24 16384MB SODIMM DDR4 2400MT/s | 1         | 0.8%    |
-| Transcend RAM TS512MSH64V6H 4096MB SODIMM DDR4 2667MT/s     | 1         | 0.8%    |
+| Transcend RAM TS512MSH64V6H 4GB SODIMM DDR4 2667MT/s        | 1         | 0.8%    |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s       | 1         | 0.8%    |
 | Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s       | 1         | 0.8%    |
 | Smart RAM SH564128FJ8NZRNSDG 4GB SODIMM DDR3 1600MT/s       | 1         | 0.8%    |

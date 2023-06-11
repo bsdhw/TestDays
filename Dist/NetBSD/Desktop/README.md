@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 55
+Total: 56
 
 | Vendor   | Model                   | Probe                                                     | Date         |
 |----------|-------------------------|-----------------------------------------------------------|--------------|
+| Acer     | Revo RN86               | [2e52c2b9b2](https://bsd-hardware.info/?probe=2e52c2b9b2) | May 13, 2023 |
 | Unknown  | Unknown                 | [d6f92a5ecc](https://bsd-hardware.info/?probe=d6f92a5ecc) | Apr 28, 2023 |
 | Gigabyte | B360M D2V               | [f73cb94828](https://bsd-hardware.info/?probe=f73cb94828) | Apr 17, 2023 |
 | Unknown  | Unknown                 | [8c93a7e552](https://bsd-hardware.info/?probe=8c93a7e552) | Mar 04, 2023 |
@@ -220,25 +221,25 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| NetBSD 9.2        | 8        | 18.18%  |
-| NetBSD 9.1        | 7        | 15.91%  |
-| NetBSD 9.0_STABLE | 5        | 11.36%  |
-| NetBSD 9.3        | 3        | 6.82%   |
-| NetBSD 9.1_STABLE | 3        | 6.82%   |
-| NetBSD 9.99.94    | 2        | 4.55%   |
-| NetBSD 9.99.93    | 2        | 4.55%   |
-| NetBSD 9.99.77    | 2        | 4.55%   |
-| NetBSD 9.0        | 2        | 4.55%   |
-| NetBSD 9.99.85    | 1        | 2.27%   |
-| NetBSD 9.99.81    | 1        | 2.27%   |
-| NetBSD 9.99.74    | 1        | 2.27%   |
-| NetBSD 9.99.71    | 1        | 2.27%   |
-| NetBSD 9.99.61    | 1        | 2.27%   |
-| NetBSD 9.99.23    | 1        | 2.27%   |
-| NetBSD 9.99.107   | 1        | 2.27%   |
-| NetBSD 9.3_STABLE | 1        | 2.27%   |
-| NetBSD 9.2_STABLE | 1        | 2.27%   |
-| NetBSD 10.0_BETA  | 1        | 2.27%   |
+| NetBSD 9.2        | 8        | 17.78%  |
+| NetBSD 9.1        | 7        | 15.56%  |
+| NetBSD 9.0_STABLE | 5        | 11.11%  |
+| NetBSD 9.3        | 3        | 6.67%   |
+| NetBSD 9.1_STABLE | 3        | 6.67%   |
+| NetBSD 9.99.94    | 2        | 4.44%   |
+| NetBSD 9.99.93    | 2        | 4.44%   |
+| NetBSD 9.99.77    | 2        | 4.44%   |
+| NetBSD 9.0        | 2        | 4.44%   |
+| NetBSD 10.0_BETA  | 2        | 4.44%   |
+| NetBSD 9.99.85    | 1        | 2.22%   |
+| NetBSD 9.99.81    | 1        | 2.22%   |
+| NetBSD 9.99.74    | 1        | 2.22%   |
+| NetBSD 9.99.71    | 1        | 2.22%   |
+| NetBSD 9.99.61    | 1        | 2.22%   |
+| NetBSD 9.99.23    | 1        | 2.22%   |
+| NetBSD 9.99.107   | 1        | 2.22%   |
+| NetBSD 9.3_STABLE | 1        | 2.22%   |
+| NetBSD 9.2_STABLE | 1        | 2.22%   |
 
 OS Family
 ---------
@@ -325,13 +326,13 @@ Language
 
 | Lang    | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 30       | 73.17%  |
-| en_US   | 4        | 9.76%   |
-| ru_RU   | 2        | 4.88%   |
-| fi_FI   | 2        | 4.88%   |
-| hu_HU   | 1        | 2.44%   |
-| en_GB   | 1        | 2.44%   |
-| C       | 1        | 2.44%   |
+| Unknown | 30       | 71.43%  |
+| en_US   | 5        | 11.9%   |
+| ru_RU   | 2        | 4.76%   |
+| fi_FI   | 2        | 4.76%   |
+| hu_HU   | 1        | 2.38%   |
+| en_GB   | 1        | 2.38%   |
+| C       | 1        | 2.38%   |
 
 Boot Mode
 ---------
@@ -717,7 +718,7 @@ Hard drive models
 | Model                             | Desktops | Percent |
 |-----------------------------------|----------|---------|
 | Toshiba DT01ACA100 1TB            | 3        | 8.33%   |
-| SanDisk Extreme SSD 250GB         | 2        | 5.56%   |
+| SanDisk Extreme SSD 500GB         | 2        | 5.56%   |
 | Samsung SSD 860 EVO 500GB         | 2        | 5.56%   |
 | Samsung HD103UJ 1TB               | 2        | 5.56%   |
 | Maxtor STM3250310AS 250GB         | 2        | 5.56%   |
@@ -1315,7 +1316,7 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Samsung Electronics LCD Monitor SAM0C39 1920x1080 890x500mm 40.2-inch | 2        | 14.29%  |
-| ViewSonic LCD Monitor VSCD22B 1920x1080 520x290mm 23.4-inch           | 1        | 7.14%   |
+| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch         | 1        | 7.14%   |
 | Unknown (CDD) VGA CDD0030 1920x1080 1150x650mm 52.0-inch              | 1        | 7.14%   |
 | Samsung Electronics SyncMaster SAM01AE 1600x1200 410x310mm 20.2-inch  | 1        | 7.14%   |
 | Samsung Electronics SMS27A350H SAM07CE 1920x1080 600x340mm 27.2-inch  | 1        | 7.14%   |

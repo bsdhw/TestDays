@@ -149,10 +149,11 @@ Contents
 Test Cases
 ----------
 
-Total: 88
+Total: 89
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Acer          | Revo RN86                   | Desktop     | [2e52c2b9b2](https://bsd-hardware.info/?probe=2e52c2b9b2) | May 13, 2023 |
 | Unknown       | Unknown                     | Desktop     | [d6f92a5ecc](https://bsd-hardware.info/?probe=d6f92a5ecc) | Apr 28, 2023 |
 | Samsung       | DP700A3D-A05UK SEC_SW_RE... | All in one  | [5718d8d05e](https://bsd-hardware.info/?probe=5718d8d05e) | Apr 24, 2023 |
 | HP            | Pavilion 17                 | Notebook    | [0f891b4377](https://bsd-hardware.info/?probe=0f891b4377) | Apr 21, 2023 |
@@ -255,28 +256,28 @@ Installed operating systems
 
 | Name              | Computers | Percent |
 |-------------------|-----------|---------|
-| NetBSD 9.2        | 13        | 18.57%  |
-| NetBSD 9.1        | 11        | 15.71%  |
-| NetBSD 9.0_STABLE | 8         | 11.43%  |
-| NetBSD 9.0        | 6         | 8.57%   |
-| NetBSD 9.3        | 5         | 7.14%   |
-| NetBSD 9.99.94    | 3         | 4.29%   |
-| NetBSD 9.99.93    | 3         | 4.29%   |
-| NetBSD 9.1_STABLE | 3         | 4.29%   |
-| NetBSD 10.0_BETA  | 3         | 4.29%   |
-| NetBSD 9.99.77    | 2         | 2.86%   |
-| NetBSD 9.2_STABLE | 2         | 2.86%   |
-| NetBSD 9.99.85    | 1         | 1.43%   |
-| NetBSD 9.99.81    | 1         | 1.43%   |
-| NetBSD 9.99.74    | 1         | 1.43%   |
-| NetBSD 9.99.71    | 1         | 1.43%   |
-| NetBSD 9.99.61    | 1         | 1.43%   |
-| NetBSD 9.99.23    | 1         | 1.43%   |
-| NetBSD 9.99.107   | 1         | 1.43%   |
-| NetBSD 9.3_STABLE | 1         | 1.43%   |
-| NetBSD 8.99.51    | 1         | 1.43%   |
-| NetBSD 7.2        | 1         | 1.43%   |
-| NetBSD 10.99.1    | 1         | 1.43%   |
+| NetBSD 9.2        | 13        | 18.31%  |
+| NetBSD 9.1        | 11        | 15.49%  |
+| NetBSD 9.0_STABLE | 8         | 11.27%  |
+| NetBSD 9.0        | 6         | 8.45%   |
+| NetBSD 9.3        | 5         | 7.04%   |
+| NetBSD 10.0_BETA  | 4         | 5.63%   |
+| NetBSD 9.99.94    | 3         | 4.23%   |
+| NetBSD 9.99.93    | 3         | 4.23%   |
+| NetBSD 9.1_STABLE | 3         | 4.23%   |
+| NetBSD 9.99.77    | 2         | 2.82%   |
+| NetBSD 9.2_STABLE | 2         | 2.82%   |
+| NetBSD 9.99.85    | 1         | 1.41%   |
+| NetBSD 9.99.81    | 1         | 1.41%   |
+| NetBSD 9.99.74    | 1         | 1.41%   |
+| NetBSD 9.99.71    | 1         | 1.41%   |
+| NetBSD 9.99.61    | 1         | 1.41%   |
+| NetBSD 9.99.23    | 1         | 1.41%   |
+| NetBSD 9.99.107   | 1         | 1.41%   |
+| NetBSD 9.3_STABLE | 1         | 1.41%   |
+| NetBSD 8.99.51    | 1         | 1.41%   |
+| NetBSD 7.2        | 1         | 1.41%   |
+| NetBSD 10.99.1    | 1         | 1.41%   |
 
 OS Family
 ---------
@@ -367,13 +368,13 @@ Language
 
 | Lang    | Computers | Percent |
 |---------|-----------|---------|
-| Unknown | 47        | 72.31%  |
-| en_US   | 10        | 15.38%  |
-| ru_RU   | 3         | 4.62%   |
-| fi_FI   | 2         | 3.08%   |
-| hu_HU   | 1         | 1.54%   |
-| en_GB   | 1         | 1.54%   |
-| C       | 1         | 1.54%   |
+| Unknown | 47        | 71.21%  |
+| en_US   | 11        | 16.67%  |
+| ru_RU   | 3         | 4.55%   |
+| fi_FI   | 2         | 3.03%   |
+| hu_HU   | 1         | 1.52%   |
+| en_GB   | 1         | 1.52%   |
+| C       | 1         | 1.52%   |
 
 Boot Mode
 ---------
@@ -839,7 +840,7 @@ Hard drive models
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
 | Toshiba DT01ACA100 1TB              | 3         | 6%      |
-| SanDisk Extreme SSD 250GB           | 2         | 4%      |
+| SanDisk Extreme SSD 500GB           | 2         | 4%      |
 | Samsung SSD 860 EVO 500GB           | 2         | 4%      |
 | Samsung HD103UJ 1TB                 | 2         | 4%      |
 | Maxtor STM3250310AS 250GB           | 2         | 4%      |
@@ -1523,7 +1524,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SAM0C39 1920x1080 890x500mm 40.2-inch | 2         | 7.69%   |
-| ViewSonic LCD Monitor VSCD22B 1920x1080 520x290mm 23.4-inch           | 1         | 3.85%   |
+| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch         | 1         | 3.85%   |
 | Unknown (CDD) VGA CDD0030 1920x1080 1150x650mm 52.0-inch              | 1         | 3.85%   |
 | Samsung Electronics SyncMaster SAM01AE 1600x1200 410x310mm 20.2-inch  | 1         | 3.85%   |
 | Samsung Electronics SMS27A350H SAM07CE 1920x1080 600x340mm 27.2-inch  | 1         | 3.85%   |

@@ -935,7 +935,7 @@ Hard drive vendors
 | Hitachi             | 7        | 9      | 2.2%    |
 | Phison              | 6        | 7      | 1.89%   |
 | Intel               | 6        | 6      | 1.89%   |
-| Goodram             | 5        | 6      | 1.57%   |
+| GOODRAM             | 5        | 6      | 1.57%   |
 | SK hynix            | 4        | 6      | 1.26%   |
 | PNY                 | 4        | 4      | 1.26%   |
 | Patriot             | 4        | 4      | 1.26%   |
@@ -1050,7 +1050,7 @@ Solid state drive vendors
 | A-DATA Technology   | 7        | 7      | 5.43%   |
 | WDC                 | 6        | 10     | 4.65%   |
 | Intel               | 5        | 5      | 3.88%   |
-| Goodram             | 5        | 6      | 3.88%   |
+| GOODRAM             | 5        | 6      | 3.88%   |
 | PNY                 | 4        | 4      | 3.1%    |
 | Patriot             | 4        | 4      | 3.1%    |
 | OCZ                 | 3        | 3      | 2.33%   |
@@ -1388,11 +1388,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 149      | 58.43%  |
-| NVMe | 45       | 17.65%  |
-| IDE  | 43       | 16.86%  |
-| RAID | 15       | 5.88%   |
-| SAS  | 2        | 0.78%   |
+| SATA | 149      | 58.66%  |
+| NVMe | 45       | 17.72%  |
+| IDE  | 42       | 16.54%  |
+| RAID | 15       | 5.91%   |
+| SAS  | 2        | 0.79%   |
 | SCSI | 1        | 0.39%   |
 
 Processor

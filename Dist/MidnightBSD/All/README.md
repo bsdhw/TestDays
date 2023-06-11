@@ -149,10 +149,11 @@ Contents
 Test Cases
 ----------
 
-Total: 56
+Total: 57
 
 | Vendor     | Model                       | Form-Factor | Probe                                                     | Date         |
 |------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Supermicro | X9SCL/X9SCMA                | Desktop     | [cb87f3725f](https://bsd-hardware.info/?probe=cb87f3725f) | May 14, 2023 |
 | ASUSTek    | TUF Gaming B560M-PLUS WI... | Desktop     | [50ff0c14dd](https://bsd-hardware.info/?probe=50ff0c14dd) | Apr 22, 2023 |
 | ASUSTek    | A7VI-VM                     | Desktop     | [083714b968](https://bsd-hardware.info/?probe=083714b968) | Apr 07, 2023 |
 | Supermicro | X9SCL/X9SCMA                | Desktop     | [31ed779fdc](https://bsd-hardware.info/?probe=31ed779fdc) | Mar 31, 2023 |
@@ -223,28 +224,28 @@ Installed operating systems
 
 | Name              | Computers | Percent |
 |-------------------|-----------|---------|
-| MidnightBSD 2.0.2 | 4         | 10%     |
-| MidnightBSD 1.2   | 4         | 10%     |
-| MidnightBSD 3.0.0 | 3         | 7.5%    |
-| MidnightBSD 2.2.6 | 3         | 7.5%    |
-| MidnightBSD 2.2.0 | 3         | 7.5%    |
-| MidnightBSD 2.0.1 | 3         | 7.5%    |
-| MidnightBSD 2.1.8 | 2         | 5%      |
-| MidnightBSD 2.1.5 | 2         | 5%      |
-| MidnightBSD 2.1.1 | 2         | 5%      |
-| MidnightBSD 2.0.7 | 2         | 5%      |
-| MidnightBSD 3.1.0 | 1         | 2.5%    |
-| MidnightBSD 3.0.1 | 1         | 2.5%    |
-| MidnightBSD 2.2.8 | 1         | 2.5%    |
-| MidnightBSD 2.2.5 | 1         | 2.5%    |
-| MidnightBSD 2.2.2 | 1         | 2.5%    |
-| MidnightBSD 2.1.6 | 1         | 2.5%    |
-| MidnightBSD 2.1.3 | 1         | 2.5%    |
-| MidnightBSD 2.1.2 | 1         | 2.5%    |
-| MidnightBSD 2.1.0 | 1         | 2.5%    |
-| MidnightBSD 2.0   | 1         | 2.5%    |
-| MidnightBSD 1.2.9 | 1         | 2.5%    |
-| MidnightBSD 1.2.7 | 1         | 2.5%    |
+| MidnightBSD 2.0.2 | 4         | 9.76%   |
+| MidnightBSD 1.2   | 4         | 9.76%   |
+| MidnightBSD 3.0.0 | 3         | 7.32%   |
+| MidnightBSD 2.2.6 | 3         | 7.32%   |
+| MidnightBSD 2.2.0 | 3         | 7.32%   |
+| MidnightBSD 2.0.1 | 3         | 7.32%   |
+| MidnightBSD 3.0.1 | 2         | 4.88%   |
+| MidnightBSD 2.1.8 | 2         | 4.88%   |
+| MidnightBSD 2.1.5 | 2         | 4.88%   |
+| MidnightBSD 2.1.1 | 2         | 4.88%   |
+| MidnightBSD 2.0.7 | 2         | 4.88%   |
+| MidnightBSD 3.1.0 | 1         | 2.44%   |
+| MidnightBSD 2.2.8 | 1         | 2.44%   |
+| MidnightBSD 2.2.5 | 1         | 2.44%   |
+| MidnightBSD 2.2.2 | 1         | 2.44%   |
+| MidnightBSD 2.1.6 | 1         | 2.44%   |
+| MidnightBSD 2.1.3 | 1         | 2.44%   |
+| MidnightBSD 2.1.2 | 1         | 2.44%   |
+| MidnightBSD 2.1.0 | 1         | 2.44%   |
+| MidnightBSD 2.0   | 1         | 2.44%   |
+| MidnightBSD 1.2.9 | 1         | 2.44%   |
+| MidnightBSD 1.2.7 | 1         | 2.44%   |
 
 OS Family
 ---------
@@ -506,16 +507,16 @@ Used RAM memory
 
 | Used GB    | Computers | Percent |
 |------------|-----------|---------|
-| 1.01-2.0   | 11        | 40.74%  |
-| 32.01-64.0 | 3         | 11.11%  |
-| 16.01-24.0 | 3         | 11.11%  |
-| 24.01-32.0 | 2         | 7.41%   |
-| 2.01-3.0   | 2         | 7.41%   |
-| 0.51-1.0   | 2         | 7.41%   |
-| 4.01-8.0   | 1         | 3.7%    |
-| 0.01-0.5   | 1         | 3.7%    |
-| 0          | 1         | 3.7%    |
-| Unknown    | 1         | 3.7%    |
+| 1.01-2.0   | 11        | 39.29%  |
+| 32.01-64.0 | 3         | 10.71%  |
+| 16.01-24.0 | 3         | 10.71%  |
+| 0.51-1.0   | 3         | 10.71%  |
+| 24.01-32.0 | 2         | 7.14%   |
+| 2.01-3.0   | 2         | 7.14%   |
+| 4.01-8.0   | 1         | 3.57%   |
+| 0.01-0.5   | 1         | 3.57%   |
+| 0          | 1         | 3.57%   |
+| Unknown    | 1         | 3.57%   |
 
 Total Drives
 ------------
@@ -636,7 +637,7 @@ Hard drive vendors
 |---------------------|-----------|--------|---------|
 | Seagate             | 7         | 39     | 18.42%  |
 | Samsung Electronics | 7         | 47     | 18.42%  |
-| WDC                 | 5         | 22     | 13.16%  |
+| WDC                 | 5         | 23     | 13.16%  |
 | Intel               | 5         | 37     | 13.16%  |
 | Toshiba             | 3         | 6      | 7.89%   |
 | SanDisk             | 2         | 8      | 5.26%   |
@@ -708,7 +709,7 @@ Hard disk drive vendors
 
 | Vendor  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| WDC     | 5         | 18     | 50%     |
+| WDC     | 5         | 19     | 50%     |
 | Seagate | 4         | 33     | 40%     |
 | Maxtor  | 1         | 1      | 10%     |
 
@@ -741,7 +742,7 @@ HDD or SSD
 |------|-----------|--------|---------|
 | SSD  | 12        | 80     | 41.38%  |
 | NVMe | 10        | 39     | 34.48%  |
-| HDD  | 7         | 52     | 24.14%  |
+| HDD  | 7         | 53     | 24.14%  |
 
 Drive Connector
 ---------------
@@ -753,7 +754,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 15        | 132    | 60%     |
+| SATA | 15        | 133    | 60%     |
 | NVMe | 10        | 39     | 40%     |
 
 Drive Size
@@ -767,7 +768,7 @@ Size of hard drive
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 14        | 63     | 53.85%  |
-| 0.51-1.0   | 5         | 17     | 19.23%  |
+| 0.51-1.0   | 5         | 18     | 19.23%  |
 | 1.01-2.0   | 3         | 6      | 11.54%  |
 | 4.01-10.0  | 2         | 41     | 7.69%   |
 | 2.01-3.0   | 1         | 1      | 3.85%   |
@@ -783,11 +784,11 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 251-500    | 10        | 55.56%  |
-| 101-250    | 3         | 16.67%  |
-| 501-1000   | 3         | 16.67%  |
-| 21-50      | 1         | 5.56%   |
-| 51-100     | 1         | 5.56%   |
+| 251-500    | 11        | 57.89%  |
+| 101-250    | 3         | 15.79%  |
+| 501-1000   | 3         | 15.79%  |
+| 21-50      | 1         | 5.26%   |
+| 51-100     | 1         | 5.26%   |
 
 Space Used
 ----------
@@ -880,7 +881,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 17        | 167    | 85%     |
+| Works    | 17        | 168    | 85%     |
 | Malfunc  | 2         | 3      | 10%     |
 | Detected | 1         | 1      | 5%      |
 

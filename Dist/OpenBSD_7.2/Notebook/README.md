@@ -736,7 +736,7 @@ Hard drive models
 
 | Model                            | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| NVMe Samsung SSD 980 1TB         | 4         | 6.56%   |
+| NVMe Samsung SSD 980 500GB       | 4         | 6.56%   |
 | Apple SSD SM0128G 121GB          | 2         | 3.28%   |
 | WDC WD7500BPKX-00HPJT0 752GB     | 1         | 1.64%   |
 | WDC WD7500BPKT-75PK4T0 752GB     | 1         | 1.64%   |
@@ -856,9 +856,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 28        | 30     | 47.46%  |
-| 0.51-1.0   | 26        | 27     | 44.07%  |
-| 1.01-2.0   | 5         | 7      | 8.47%   |
+| 0.01-0.5   | 31        | 35     | 53.45%  |
+| 0.51-1.0   | 22        | 22     | 37.93%  |
+| 1.01-2.0   | 5         | 7      | 8.62%   |
 
 Space Total
 -----------
@@ -1932,7 +1932,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4.76%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4.76%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 4.76%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4.76%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 4.76%   |

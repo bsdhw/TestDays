@@ -1594,7 +1594,7 @@ Monitor models
 | Chimei Innolux LCD Monitor CMN14D4 1920x1080 310x170mm 13.9-inch      | 2         | 2.35%   |
 | BenQ BL2480 BNQ802C 1920x1080 530x300mm 24.0-inch                     | 2         | 2.35%   |
 | YTH HS133PC YTH1330 1920x1080 250x220mm 13.1-inch                     | 1         | 1.18%   |
-| ViewSonic LCD Monitor VSCD22B 1920x1080 520x290mm 23.4-inch           | 1         | 1.18%   |
+| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch         | 1         | 1.18%   |
 | USR LCD Monitor USR0100 1920x1080 510x290mm 23.1-inch                 | 1         | 1.18%   |
 | Unknown (XXX) SMART TV XXX2851 3840x2160                              | 1         | 1.18%   |
 | Toshiba TV TSB0200 1920x1080 530x300mm 24.0-inch                      | 1         | 1.18%   |
@@ -1615,7 +1615,7 @@ Monitor models
 | LG Display LCD Monitor LGD060A 1920x1080 290x170mm 13.2-inch          | 1         | 1.18%   |
 | LG Display LCD Monitor LGD05F8 2560x1600 370x230mm 17.2-inch          | 1         | 1.18%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch          | 1         | 1.18%   |
-| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 1         | 1.18%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 1         | 1.18%   |
 | LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch          | 1         | 1.18%   |
 | LG Display LCD Monitor LGD03DD 1366x768 340x190mm 15.3-inch           | 1         | 1.18%   |
 | LG Display LCD Monitor LGD0395 1366x768 340x190mm 15.3-inch           | 1         | 1.18%   |
@@ -1626,7 +1626,7 @@ Monitor models
 | Lenovo LEN T32h-20 LEN61F1 2560x1440 700x390mm 31.5-inch              | 1         | 1.18%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch              | 1         | 1.18%   |
 | JDI LCD Monitor JDI385A 3840x2160 290x170mm 13.2-inch                 | 1         | 1.18%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch             | 1         | 1.18%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch              | 1         | 1.18%   |
 | CSO LCD Monitor CSO1400 3840x2160 310x170mm 13.9-inch                 | 1         | 1.18%   |
 
 Monitor Resolution
@@ -2481,11 +2481,12 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Synaptics                  | 6         | 50%     |
-| Validity Sensors           | 3         | 25%     |
-| Upek                       | 1         | 8.33%   |
-| Shenzhen Goodix Technology | 1         | 8.33%   |
-| LighTuning Technology      | 1         | 8.33%   |
+| Synaptics                  | 6         | 46.15%  |
+| Validity Sensors           | 3         | 23.08%  |
+| Upek                       | 1         | 7.69%   |
+| Shenzhen Goodix Technology | 1         | 7.69%   |
+| LighTuning Technology      | 1         | 7.69%   |
+| Elan Microelectronics      | 1         | 7.69%   |
 
 Fingerprint Model
 -----------------
@@ -2497,16 +2498,17 @@ Fingerprint sensor models
 
 | Model                                                    | Notebooks | Percent |
 |----------------------------------------------------------|-----------|---------|
-| Synaptics Prometheus MIS Touch Fingerprint Reader        | 2         | 16.67%  |
-| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 16.67%  |
-| Validity Sensors VFS5011 Fingerprint Reader              | 1         | 8.33%   |
-| Validity Sensors VFS 5011 fingerprint sensor             | 1         | 8.33%   |
-| Validity Sensors Synaptics WBDI                          | 1         | 8.33%   |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor   | 1         | 8.33%   |
-| Synaptics UWP WBDI                                       | 1         | 8.33%   |
-| Synaptics Metallica MIS Touch Fingerprint Reader         | 1         | 8.33%   |
-| Shenzhen Goodix Fingerprint Reader                       | 1         | 8.33%   |
-| LighTuning EgisTec Touch Fingerprint Sensor              | 1         | 8.33%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader        | 2         | 15.38%  |
+| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 15.38%  |
+| Validity Sensors VFS5011 Fingerprint Reader              | 1         | 7.69%   |
+| Validity Sensors VFS 5011 fingerprint sensor             | 1         | 7.69%   |
+| Validity Sensors Synaptics WBDI                          | 1         | 7.69%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor   | 1         | 7.69%   |
+| Synaptics UWP WBDI                                       | 1         | 7.69%   |
+| Synaptics Metallica MIS Touch Fingerprint Reader         | 1         | 7.69%   |
+| Shenzhen Goodix Fingerprint Reader                       | 1         | 7.69%   |
+| LighTuning EgisTec Touch Fingerprint Sensor              | 1         | 7.69%   |
+| Elan Fingerprint Sensor                                  | 1         | 7.69%   |
 
 Chipcard Vendor
 ---------------
@@ -2535,9 +2537,9 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 40        | 35.09%  |
+| 2     | 39        | 34.21%  |
 | 1     | 37        | 32.46%  |
-| 3     | 23        | 20.18%  |
+| 3     | 24        | 21.05%  |
 | 4     | 7         | 6.14%   |
 | 0     | 6         | 5.26%   |
 | 5     | 1         | 0.88%   |
@@ -2552,14 +2554,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 83        | 42.56%  |
-| Bluetooth                | 47        | 24.1%   |
-| Net/wireless             | 21        | 10.77%  |
-| Card reader              | 15        | 7.69%   |
-| Fingerprint reader       | 11        | 5.64%   |
-| Firewire controller      | 10        | 5.13%   |
-| Storage                  | 3         | 1.54%   |
-| Network                  | 2         | 1.03%   |
-| Net/ethernet             | 2         | 1.03%   |
+| Communication controller | 83        | 42.35%  |
+| Bluetooth                | 47        | 23.98%  |
+| Net/wireless             | 21        | 10.71%  |
+| Card reader              | 15        | 7.65%   |
+| Fingerprint reader       | 12        | 6.12%   |
+| Firewire controller      | 10        | 5.1%    |
+| Storage                  | 3         | 1.53%   |
+| Network                  | 2         | 1.02%   |
+| Net/ethernet             | 2         | 1.02%   |
 | Sound                    | 1         | 0.51%   |
 

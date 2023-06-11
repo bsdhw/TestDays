@@ -2428,13 +2428,14 @@ Fingerprint sensor vendors
 ![Fingerprint Vendor](./images/pie_chart_bsd/fingerprint_vendor.svg)
 
 
-| Vendor             | Notebooks | Percent |
-|--------------------|-----------|---------|
-| Validity Sensors   | 9         | 69.23%  |
-| Synaptics          | 1         | 7.69%   |
-| STMicroelectronics | 1         | 7.69%   |
-| Broadcom           | 1         | 7.69%   |
-| AuthenTec          | 1         | 7.69%   |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Validity Sensors      | 9         | 64.29%  |
+| Synaptics             | 1         | 7.14%   |
+| STMicroelectronics    | 1         | 7.14%   |
+| Elan Microelectronics | 1         | 7.14%   |
+| Broadcom              | 1         | 7.14%   |
+| AuthenTec             | 1         | 7.14%   |
 
 Fingerprint Model
 -----------------
@@ -2446,15 +2447,16 @@ Fingerprint sensor models
 
 | Model                                                                        | Notebooks | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Validity Sensors VFS5011 Fingerprint Reader                                  | 3         | 23.08%  |
-| Validity Sensors VFS495 Fingerprint Reader                                   | 3         | 23.08%  |
-| Validity Sensors VFS451 Fingerprint Reader                                   | 1         | 7.69%   |
-| Validity Sensors VFS 5011 fingerprint sensor                                 | 1         | 7.69%   |
-| Validity Sensors Synaptics WBDI                                              | 1         | 7.69%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 7.69%   |
-| STMicroelectronics Fingerprint Reader                                        | 1         | 7.69%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 7.69%   |
-| AuthenTec AES2810                                                            | 1         | 7.69%   |
+| Validity Sensors VFS5011 Fingerprint Reader                                  | 3         | 21.43%  |
+| Validity Sensors VFS495 Fingerprint Reader                                   | 3         | 21.43%  |
+| Validity Sensors VFS451 Fingerprint Reader                                   | 1         | 7.14%   |
+| Validity Sensors VFS 5011 fingerprint sensor                                 | 1         | 7.14%   |
+| Validity Sensors Synaptics WBDI                                              | 1         | 7.14%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 7.14%   |
+| STMicroelectronics Fingerprint Reader                                        | 1         | 7.14%   |
+| Elan Fingerprint Sensor                                                      | 1         | 7.14%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 7.14%   |
+| AuthenTec AES2810                                                            | 1         | 7.14%   |
 
 Chipcard Vendor
 ---------------
@@ -2485,9 +2487,9 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 2     | 42        | 35.59%  |
 | 1     | 35        | 29.66%  |
-| 3     | 22        | 18.64%  |
+| 3     | 21        | 17.8%   |
 | 0     | 11        | 9.32%   |
-| 4     | 5         | 4.24%   |
+| 4     | 6         | 5.08%   |
 | 5     | 2         | 1.69%   |
 | 6     | 1         | 0.85%   |
 
@@ -2501,12 +2503,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 89        | 42.79%  |
-| Card reader              | 52        | 25%     |
-| Bluetooth                | 20        | 9.62%   |
-| Net/wireless             | 19        | 9.13%   |
-| Fingerprint reader       | 13        | 6.25%   |
-| Firewire controller      | 8         | 3.85%   |
+| Communication controller | 89        | 42.58%  |
+| Card reader              | 52        | 24.88%  |
+| Bluetooth                | 20        | 9.57%   |
+| Net/wireless             | 19        | 9.09%   |
+| Fingerprint reader       | 14        | 6.7%    |
+| Firewire controller      | 8         | 3.83%   |
 | Storage                  | 3         | 1.44%   |
 | Sound                    | 2         | 0.96%   |
 | Network                  | 1         | 0.48%   |

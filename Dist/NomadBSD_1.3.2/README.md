@@ -1413,8 +1413,8 @@ Monitor models
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
 | Hewlett-Packard HPQ 8300 AiO HWP4212 1920x1080 510x290mm 23.1-inch        | 1         | 2.08%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 2.08%   |
 | HannStar LCD Monitor HSD0013 1280x1024 380x300mm 19.1-inch                | 1         | 2.08%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                  | 1         | 2.08%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 480x270mm 21.7-inch                     | 1         | 2.08%   |
 | Dell U2414H DELA0A4 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |
 | Dell U2414H DELA0A2 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |

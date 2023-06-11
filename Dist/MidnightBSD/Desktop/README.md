@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 39
+Total: 40
 
 | Vendor     | Model                       | Probe                                                     | Date         |
 |------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Supermicro | X9SCL/X9SCMA                | [cb87f3725f](https://bsd-hardware.info/?probe=cb87f3725f) | May 14, 2023 |
 | ASUSTek    | TUF Gaming B560M-PLUS WI... | [50ff0c14dd](https://bsd-hardware.info/?probe=50ff0c14dd) | Apr 22, 2023 |
 | ASUSTek    | A7VI-VM                     | [083714b968](https://bsd-hardware.info/?probe=083714b968) | Apr 07, 2023 |
 | Supermicro | X9SCL/X9SCMA                | [31ed779fdc](https://bsd-hardware.info/?probe=31ed779fdc) | Mar 31, 2023 |
@@ -204,25 +205,25 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| MidnightBSD 2.0.2 | 4        | 12.9%   |
-| MidnightBSD 2.0.1 | 3        | 9.68%   |
-| MidnightBSD 1.2   | 3        | 9.68%   |
-| MidnightBSD 3.0.0 | 2        | 6.45%   |
-| MidnightBSD 2.2.6 | 2        | 6.45%   |
-| MidnightBSD 2.2.0 | 2        | 6.45%   |
-| MidnightBSD 2.1.8 | 2        | 6.45%   |
-| MidnightBSD 2.0.7 | 2        | 6.45%   |
-| MidnightBSD 3.0.1 | 1        | 3.23%   |
-| MidnightBSD 2.2.8 | 1        | 3.23%   |
-| MidnightBSD 2.2.5 | 1        | 3.23%   |
-| MidnightBSD 2.1.6 | 1        | 3.23%   |
-| MidnightBSD 2.1.5 | 1        | 3.23%   |
-| MidnightBSD 2.1.3 | 1        | 3.23%   |
-| MidnightBSD 2.1.2 | 1        | 3.23%   |
-| MidnightBSD 2.1.1 | 1        | 3.23%   |
-| MidnightBSD 2.1.0 | 1        | 3.23%   |
-| MidnightBSD 1.2.9 | 1        | 3.23%   |
-| MidnightBSD 1.2.7 | 1        | 3.23%   |
+| MidnightBSD 2.0.2 | 4        | 12.5%   |
+| MidnightBSD 2.0.1 | 3        | 9.38%   |
+| MidnightBSD 1.2   | 3        | 9.38%   |
+| MidnightBSD 3.0.1 | 2        | 6.25%   |
+| MidnightBSD 3.0.0 | 2        | 6.25%   |
+| MidnightBSD 2.2.6 | 2        | 6.25%   |
+| MidnightBSD 2.2.0 | 2        | 6.25%   |
+| MidnightBSD 2.1.8 | 2        | 6.25%   |
+| MidnightBSD 2.0.7 | 2        | 6.25%   |
+| MidnightBSD 2.2.8 | 1        | 3.13%   |
+| MidnightBSD 2.2.5 | 1        | 3.13%   |
+| MidnightBSD 2.1.6 | 1        | 3.13%   |
+| MidnightBSD 2.1.5 | 1        | 3.13%   |
+| MidnightBSD 2.1.3 | 1        | 3.13%   |
+| MidnightBSD 2.1.2 | 1        | 3.13%   |
+| MidnightBSD 2.1.1 | 1        | 3.13%   |
+| MidnightBSD 2.1.0 | 1        | 3.13%   |
+| MidnightBSD 1.2.9 | 1        | 3.13%   |
+| MidnightBSD 1.2.7 | 1        | 3.13%   |
 
 OS Family
 ---------
@@ -470,15 +471,15 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 8        | 38.1%   |
-| 32.01-64.0 | 3        | 14.29%  |
-| 16.01-24.0 | 3        | 14.29%  |
-| 24.01-32.0 | 2        | 9.52%   |
-| 4.01-8.0   | 1        | 4.76%   |
-| 2.01-3.0   | 1        | 4.76%   |
-| 0.51-1.0   | 1        | 4.76%   |
-| 0          | 1        | 4.76%   |
-| Unknown    | 1        | 4.76%   |
+| 1.01-2.0   | 8        | 36.36%  |
+| 32.01-64.0 | 3        | 13.64%  |
+| 16.01-24.0 | 3        | 13.64%  |
+| 24.01-32.0 | 2        | 9.09%   |
+| 0.51-1.0   | 2        | 9.09%   |
+| 4.01-8.0   | 1        | 4.55%   |
+| 2.01-3.0   | 1        | 4.55%   |
+| 0          | 1        | 4.55%   |
+| Unknown    | 1        | 4.55%   |
 
 Total Drives
 ------------
@@ -596,7 +597,7 @@ Hard drive vendors
 | Samsung Electronics | 7        | 47     | 21.88%  |
 | Seagate             | 6        | 38     | 18.75%  |
 | Intel               | 5        | 37     | 15.63%  |
-| WDC                 | 4        | 21     | 12.5%   |
+| WDC                 | 4        | 22     | 12.5%   |
 | Toshiba             | 3        | 6      | 9.38%   |
 | KIOXIA              | 2        | 3      | 6.25%   |
 | SK hynix            | 1        | 1      | 3.13%   |
@@ -658,7 +659,7 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 4        | 17     | 50%     |
+| WDC     | 4        | 18     | 50%     |
 | Seagate | 3        | 32     | 37.5%   |
 | Maxtor  | 1        | 1      | 12.5%   |
 
@@ -689,7 +690,7 @@ HDD or SSD
 |------|----------|--------|---------|
 | SSD  | 10       | 75     | 43.48%  |
 | NVMe | 8        | 36     | 34.78%  |
-| HDD  | 5        | 50     | 21.74%  |
+| HDD  | 5        | 51     | 21.74%  |
 
 Drive Connector
 ---------------
@@ -701,7 +702,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 12       | 125    | 60%     |
+| SATA | 12       | 126    | 60%     |
 | NVMe | 8        | 36     | 40%     |
 
 Drive Size
@@ -715,7 +716,7 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 11       | 56     | 47.83%  |
-| 0.51-1.0   | 5        | 17     | 21.74%  |
+| 0.51-1.0   | 5        | 18     | 21.74%  |
 | 1.01-2.0   | 3        | 6      | 13.04%  |
 | 4.01-10.0  | 2        | 41     | 8.7%    |
 | 2.01-3.0   | 1        | 1      | 4.35%   |
@@ -731,10 +732,10 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 251-500    | 7        | 53.85%  |
-| 501-1000   | 3        | 23.08%  |
-| 101-250    | 2        | 15.38%  |
-| 21-50      | 1        | 7.69%   |
+| 251-500    | 8        | 57.14%  |
+| 501-1000   | 3        | 21.43%  |
+| 101-250    | 2        | 14.29%  |
+| 21-50      | 1        | 7.14%   |
 
 Space Used
 ----------
@@ -827,7 +828,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 12       | 157    | 80%     |
+| Works    | 12       | 158    | 80%     |
 | Malfunc  | 2        | 3      | 13.33%  |
 | Detected | 1        | 1      | 6.67%   |
 

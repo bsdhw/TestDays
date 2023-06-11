@@ -742,10 +742,10 @@ Motherboard manufacture year
 | 2011    | 18        | 8.11%   |
 | 2015    | 15        | 6.76%   |
 | 2010    | 12        | 5.41%   |
-| 2012    | 11        | 4.95%   |
 | Unknown | 11        | 4.95%   |
 | 2017    | 10        | 4.5%    |
-| 2008    | 9         | 4.05%   |
+| 2012    | 10        | 4.5%    |
+| 2008    | 10        | 4.5%    |
 | 2013    | 8         | 3.6%    |
 | 2016    | 7         | 3.15%   |
 | 2014    | 7         | 3.15%   |
@@ -1512,9 +1512,9 @@ Processor vendors
 
 | Vendor  | Computers | Percent |
 |---------|-----------|---------|
-| Intel   | 168       | 75.68%  |
-| AMD     | 41        | 18.47%  |
-| ARM     | 10        | 4.5%    |
+| Intel   | 168       | 75.34%  |
+| AMD     | 41        | 18.39%  |
+| ARM     | 11        | 4.93%   |
 | Unknown | 3         | 1.35%   |
 
 CPU Model
@@ -1527,11 +1527,11 @@ Processor models
 
 | Model                                        | Computers | Percent |
 |----------------------------------------------|-----------|---------|
-| ARM Cortex-A72 r0p3                          | 6         | 2.7%    |
-| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.25%   |
-| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.8%    |
-| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.8%    |
-| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.8%    |
+| ARM Cortex-A72 r0p3                          | 6         | 2.69%   |
+| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.24%   |
+| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.79%   |
+| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.79%   |
+| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.79%   |
 | Intel CPU Version                            | 3         | 1.35%   |
 | Intel Core i7-7500U CPU @ 2.70GHz            | 3         | 1.35%   |
 | Intel Core i7-6700 CPU @ 3.40GHz             | 3         | 1.35%   |
@@ -1578,20 +1578,20 @@ Processor model prefix
 
 | Model                  | Computers | Percent |
 |------------------------|-----------|---------|
-| Intel Core i5          | 50        | 22.52%  |
-| Intel Core i7          | 39        | 17.57%  |
-| Other                  | 12        | 5.41%   |
-| Intel Core i3          | 12        | 5.41%   |
-| Intel Xeon             | 11        | 4.95%   |
-| AMD Ryzen 7            | 11        | 4.95%   |
-| Intel Celeron          | 10        | 4.5%    |
-| ARM Cortex             | 10        | 4.5%    |
-| Intel Pentium          | 9         | 4.05%   |
-| AMD Ryzen 9            | 8         | 3.6%    |
-| Intel Core 2 Duo       | 7         | 3.15%   |
-| Intel Atom             | 6         | 2.7%    |
-| Intel Pentium 4        | 4         | 1.8%    |
-| AMD Ryzen 5            | 4         | 1.8%    |
+| Intel Core i5          | 50        | 22.42%  |
+| Intel Core i7          | 39        | 17.49%  |
+| Other                  | 12        | 5.38%   |
+| Intel Core i3          | 12        | 5.38%   |
+| Intel Xeon             | 11        | 4.93%   |
+| ARM Cortex             | 11        | 4.93%   |
+| AMD Ryzen 7            | 11        | 4.93%   |
+| Intel Celeron          | 10        | 4.48%   |
+| Intel Pentium          | 9         | 4.04%   |
+| AMD Ryzen 9            | 8         | 3.59%   |
+| Intel Core 2 Duo       | 7         | 3.14%   |
+| Intel Atom             | 6         | 2.69%   |
+| Intel Pentium 4        | 4         | 1.79%   |
+| AMD Ryzen 5            | 4         | 1.79%   |
 | AMD Ryzen 3            | 3         | 1.35%   |
 | Intel Xeon Silver      | 2         | 0.9%    |
 | Intel Pentium Silver   | 2         | 0.9%    |
@@ -1649,9 +1649,9 @@ Number of sockets
 
 | Number  | Computers | Percent |
 |---------|-----------|---------|
-| 1       | 202       | 90.99%  |
-| 2       | 10        | 4.5%    |
-| Unknown | 10        | 4.5%    |
+| 1       | 202       | 90.58%  |
+| Unknown | 11        | 4.93%   |
+| 2       | 10        | 4.48%   |
 
 CPU Threads
 -----------
@@ -2697,7 +2697,7 @@ Memory module speed
 | 2667    | 26        | 11.3%   |
 | 2133    | 22        | 9.57%   |
 | 3200    | 21        | 9.13%   |
-| 1333    | 20        | 8.7%    |
+| 1333    | 19        | 8.26%   |
 | 1067    | 9         | 3.91%   |
 | 800     | 9         | 3.91%   |
 | 667     | 7         | 3.04%   |
@@ -2705,10 +2705,10 @@ Memory module speed
 | 1334    | 5         | 2.17%   |
 | 533     | 4         | 1.74%   |
 | Unknown | 4         | 1.74%   |
+| 1867    | 3         | 1.3%    |
 | 4267    | 2         | 0.87%   |
 | 2933    | 2         | 0.87%   |
 | 2666    | 2         | 0.87%   |
-| 1867    | 2         | 0.87%   |
 | 975     | 2         | 0.87%   |
 | 400     | 2         | 0.87%   |
 | 4800    | 1         | 0.43%   |
@@ -2867,13 +2867,14 @@ Fingerprint sensor vendors
 
 | Vendor                     | Computers | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 6         | 30%     |
-| Synaptics                  | 6         | 30%     |
-| Shenzhen Goodix Technology | 4         | 20%     |
-| Upek                       | 1         | 5%      |
-| LighTuning Technology      | 1         | 5%      |
-| Broadcom                   | 1         | 5%      |
-| AuthenTec                  | 1         | 5%      |
+| Validity Sensors           | 6         | 28.57%  |
+| Synaptics                  | 6         | 28.57%  |
+| Shenzhen Goodix Technology | 4         | 19.05%  |
+| Upek                       | 1         | 4.76%   |
+| LighTuning Technology      | 1         | 4.76%   |
+| Elan Microelectronics      | 1         | 4.76%   |
+| Broadcom                   | 1         | 4.76%   |
+| AuthenTec                  | 1         | 4.76%   |
 
 Fingerprint Model
 -----------------
@@ -2885,18 +2886,19 @@ Fingerprint sensor models
 
 | Model                                                                        | Computers | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Validity Sensors Synaptics WBDI                                              | 4         | 20%     |
-| Synaptics Metallica MIS Touch Fingerprint Reader                             | 3         | 15%     |
-| Shenzhen Goodix Fingerprint Reader                                           | 3         | 15%     |
-| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 10%     |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 5%      |
-| Synaptics WBDI                                                               | 1         | 5%      |
-| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 5%      |
-| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 5%      |
-| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 5%      |
-| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 5%      |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 5%      |
-| AuthenTec AES1660                                                            | 1         | 5%      |
+| Validity Sensors Synaptics WBDI                                              | 4         | 19.05%  |
+| Synaptics Metallica MIS Touch Fingerprint Reader                             | 3         | 14.29%  |
+| Shenzhen Goodix Fingerprint Reader                                           | 3         | 14.29%  |
+| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 9.52%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 4.76%   |
+| Synaptics WBDI                                                               | 1         | 4.76%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 4.76%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 4.76%   |
+| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 4.76%   |
+| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 4.76%   |
+| Elan Fingerprint Sensor                                                      | 1         | 4.76%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 4.76%   |
+| AuthenTec AES1660                                                            | 1         | 4.76%   |
 
 Chipcard Vendor
 ---------------
@@ -2927,8 +2929,8 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 1     | 76        | 34.08%  |
 | 0     | 62        | 27.8%   |
-| 2     | 49        | 21.97%  |
-| 3     | 24        | 10.76%  |
+| 2     | 48        | 21.52%  |
+| 3     | 25        | 11.21%  |
 | 4     | 9         | 4.04%   |
 | 5     | 2         | 0.9%    |
 | 6     | 1         | 0.45%   |
@@ -2943,14 +2945,14 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 121       | 43.84%  |
-| Net/wireless             | 56        | 20.29%  |
-| Bluetooth                | 31        | 11.23%  |
-| Fingerprint reader       | 20        | 7.25%   |
-| Card reader              | 18        | 6.52%   |
-| Firewire controller      | 17        | 6.16%   |
+| Communication controller | 121       | 43.68%  |
+| Net/wireless             | 56        | 20.22%  |
+| Bluetooth                | 31        | 11.19%  |
+| Fingerprint reader       | 21        | 7.58%   |
+| Card reader              | 18        | 6.5%    |
+| Firewire controller      | 17        | 6.14%   |
 | Net/ethernet             | 5         | 1.81%   |
-| Sound                    | 3         | 1.09%   |
+| Sound                    | 3         | 1.08%   |
 | Network                  | 2         | 0.72%   |
 | Storage/nvme             | 1         | 0.36%   |
 | Storage/ide              | 1         | 0.36%   |

@@ -1447,7 +1447,7 @@ Monitor models
 | LG Display LCD Monitor LGD034D 1366x768 340x190mm 15.3-inch              | 1         | 2.17%   |
 | LG Display LCD Monitor LGD01F7 1366x768 290x160mm 13.0-inch              | 1         | 2.17%   |
 | Hewlett-Packard 24fw HPN3545 1920x1080 530x300mm 24.0-inch               | 1         | 2.17%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                | 1         | 2.17%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 2.17%   |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                     | 1         | 2.17%   |
 | Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                      | 1         | 2.17%   |
 | Goldstar LG UltraFine GSM5B10 3840x2160 480x270mm 21.7-inch              | 1         | 2.17%   |
@@ -2272,12 +2272,13 @@ Fingerprint sensor vendors
 ![Fingerprint Vendor](./images/pie_chart_bsd/fingerprint_vendor.svg)
 
 
-| Vendor           | Computers | Percent |
-|------------------|-----------|---------|
-| Validity Sensors | 4         | 44.44%  |
-| Synaptics        | 3         | 33.33%  |
-| Upek             | 1         | 11.11%  |
-| AuthenTec        | 1         | 11.11%  |
+| Vendor                | Computers | Percent |
+|-----------------------|-----------|---------|
+| Validity Sensors      | 4         | 40%     |
+| Synaptics             | 3         | 30%     |
+| Upek                  | 1         | 10%     |
+| Elan Microelectronics | 1         | 10%     |
+| AuthenTec             | 1         | 10%     |
 
 Fingerprint Model
 -----------------
@@ -2289,13 +2290,14 @@ Fingerprint sensor models
 
 | Model                                                  | Computers | Percent |
 |--------------------------------------------------------|-----------|---------|
-| Validity Sensors Synaptics WBDI                        | 2         | 22.22%  |
-| Synaptics Metallica MIS Touch Fingerprint Reader       | 2         | 22.22%  |
-| Validity Sensors VFS495 Fingerprint Reader             | 1         | 11.11%  |
-| Validity Sensors VFS 5011 fingerprint sensor           | 1         | 11.11%  |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 1         | 11.11%  |
-| Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 11.11%  |
-| AuthenTec AES1600                                      | 1         | 11.11%  |
+| Validity Sensors Synaptics WBDI                        | 2         | 20%     |
+| Synaptics Metallica MIS Touch Fingerprint Reader       | 2         | 20%     |
+| Validity Sensors VFS495 Fingerprint Reader             | 1         | 10%     |
+| Validity Sensors VFS 5011 fingerprint sensor           | 1         | 10%     |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor | 1         | 10%     |
+| Synaptics Prometheus MIS Touch Fingerprint Reader      | 1         | 10%     |
+| Elan Fingerprint Sensor                                | 1         | 10%     |
+| AuthenTec AES1600                                      | 1         | 10%     |
 
 Chipcard Vendor
 ---------------
@@ -2325,10 +2327,10 @@ Total unsupported devices on board
 | Total | Computers | Percent |
 |-------|-----------|---------|
 | 1     | 20        | 37.04%  |
-| 2     | 16        | 29.63%  |
+| 2     | 15        | 27.78%  |
 | 0     | 9         | 16.67%  |
 | 4     | 5         | 9.26%   |
-| 3     | 4         | 7.41%   |
+| 3     | 5         | 9.26%   |
 
 Unsupported Device Types
 ------------------------
@@ -2340,12 +2342,12 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 31        | 38.27%  |
-| Net/wireless             | 20        | 24.69%  |
-| Fingerprint reader       | 9         | 11.11%  |
-| Bluetooth                | 9         | 11.11%  |
-| Firewire controller      | 5         | 6.17%   |
-| Network                  | 3         | 3.7%    |
-| Card reader              | 3         | 3.7%    |
-| Sound                    | 1         | 1.23%   |
+| Communication controller | 31        | 37.8%   |
+| Net/wireless             | 20        | 24.39%  |
+| Fingerprint reader       | 10        | 12.2%   |
+| Bluetooth                | 9         | 10.98%  |
+| Firewire controller      | 5         | 6.1%    |
+| Network                  | 3         | 3.66%   |
+| Card reader              | 3         | 3.66%   |
+| Sound                    | 1         | 1.22%   |
 

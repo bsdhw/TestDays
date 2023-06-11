@@ -152,7 +152,7 @@ Total: 112
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
 | HP            | Pavilion g6                 | Desktop     | [eeffda8d57](https://bsd-hardware.info/?probe=eeffda8d57) | Apr 09, 2023 |
-| Gigabyte      | B250M-Gaming 3              | Desktop     | [ffbe23b7d8](https://bsd-hardware.info/?probe=ffbe23b7d8) | Apr 09, 2023 |
+| Gigabyte      | B250M-Gaming 3-CF           | Desktop     | [ffbe23b7d8](https://bsd-hardware.info/?probe=ffbe23b7d8) | Apr 09, 2023 |
 | Fujitsu       | LIFEBOOK U810               | Notebook    | [3073cd605c](https://bsd-hardware.info/?probe=3073cd605c) | Apr 06, 2023 |
 | Fujitsu       | LIFEBOOK U810               | Notebook    | [c7718b4aa3](https://bsd-hardware.info/?probe=c7718b4aa3) | Apr 03, 2023 |
 | Apple         | MacBookPro12,1              | Notebook    | [640aad419a](https://bsd-hardware.info/?probe=640aad419a) | Apr 02, 2023 |
@@ -693,8 +693,8 @@ Has Bluetooth module
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 49        | 51.58%  |
-| No        | 46        | 48.42%  |
+| Yes       | 50        | 52.63%  |
+| No        | 45        | 47.37%  |
 
 Location
 --------
@@ -838,7 +838,7 @@ Hard drive models
 
 | Model                           | Computers | Percent |
 |---------------------------------|-----------|---------|
-| NVMe Samsung SSD 980 1TB        | 8         | 5.63%   |
+| NVMe Samsung SSD 980 500GB      | 8         | 5.63%   |
 | OPENBSD SR RAID 1 2TB           | 4         | 2.82%   |
 | Samsung SSD 860 EVO M.2 1TB     | 2         | 1.41%   |
 | Samsung SSD 860 EVO 1TB         | 2         | 1.41%   |
@@ -972,11 +972,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 52        | 64     | 44.44%  |
-| 0.51-1.0   | 43        | 50     | 36.75%  |
-| 1.01-2.0   | 13        | 35     | 11.11%  |
-| 4.01-10.0  | 5         | 13     | 4.27%   |
-| 3.01-4.0   | 4         | 6      | 3.42%   |
+| 0.01-0.5   | 58        | 74     | 50.43%  |
+| 0.51-1.0   | 35        | 40     | 30.43%  |
+| 1.01-2.0   | 13        | 35     | 11.3%   |
+| 4.01-10.0  | 5         | 13     | 4.35%   |
+| 3.01-4.0   | 4         | 6      | 3.48%   |
 
 Space Total
 -----------
@@ -1131,7 +1131,7 @@ Storage controller vendors
 | Intel                     | 56        | 47.06%  |
 | Samsung Electronics       | 18        | 15.13%  |
 | AMD                       | 15        | 12.61%  |
-| Sandisk                   | 7         | 5.88%   |
+| SanDisk                   | 7         | 5.88%   |
 | Broadcom / LSI            | 5         | 4.2%    |
 | Micron/Crucial Technology | 3         | 2.52%   |
 | Marvell Technology Group  | 3         | 2.52%   |
@@ -1567,7 +1567,7 @@ Monitor models
 | Model                                                                 | Computers | Percent |
 |-----------------------------------------------------------------------|-----------|---------|
 | Philips 227E4LH PHLC0AC 1920x1080 480x270mm 21.7-inch                 | 2         | 3.51%   |
-| ViewSonic LCD Monitor VSCD22B 1920x1080 520x290mm 23.4-inch           | 1         | 1.75%   |
+| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch         | 1         | 1.75%   |
 | TRU LCD Monitor TRU235C 1366x768 260x140mm 11.6-inch                  | 1         | 1.75%   |
 | Sceptre Tech Sceptre C35 SPT0DB7 3440x1440 820x350mm 35.1-inch        | 1         | 1.75%   |
 | Samsung Electronics SyncMaster SAM0226 1440x900 410x260mm 19.1-inch   | 1         | 1.75%   |
@@ -2043,17 +2043,17 @@ Controller vendors
 
 | Vendor                          | Computers | Percent |
 |---------------------------------|-----------|---------|
-| Intel                           | 26        | 52%     |
-| Broadcom                        | 7         | 14%     |
-| Apple                           | 5         | 10%     |
-| Foxconn / Hon Hai               | 4         | 8%      |
-| Alps Electric                   | 2         | 4%      |
-| Taiyo Yuden                     | 1         | 2%      |
-| Skylight Digital                | 1         | 2%      |
-| Realtek Semiconductor           | 1         | 2%      |
-| Qualcomm Atheros Communications | 1         | 2%      |
-| IMC Networks                    | 1         | 2%      |
-| ASUSTek Computer                | 1         | 2%      |
+| Intel                           | 26        | 50.98%  |
+| Broadcom                        | 7         | 13.73%  |
+| Foxconn / Hon Hai               | 5         | 9.8%    |
+| Apple                           | 5         | 9.8%    |
+| Alps Electric                   | 2         | 3.92%   |
+| Taiyo Yuden                     | 1         | 1.96%   |
+| Skylight Digital                | 1         | 1.96%   |
+| Realtek Semiconductor           | 1         | 1.96%   |
+| Qualcomm Atheros Communications | 1         | 1.96%   |
+| IMC Networks                    | 1         | 1.96%   |
+| ASUSTek Computer                | 1         | 1.96%   |
 
 Bluetooth Model
 ---------------
@@ -2065,29 +2065,29 @@ Controller models
 
 | Model                                                    | Computers | Percent |
 |----------------------------------------------------------|-----------|---------|
-| Intel Bluetooth wireless interface                       | 11        | 22%     |
-| Intel AX201 Bluetooth                                    | 6         | 12%     |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)           | 3         | 6%      |
-| Intel AX200 Bluetooth                                    | 3         | 6%      |
-| Broadcom BCM2045B (BDC-2.1)                              | 3         | 6%      |
-| Apple Broadcom Built-in Bluetooth                        | 3         | 6%      |
-| Intel AX210 Bluetooth                                    | 2         | 4%      |
-| Foxconn / Hon Hai Broadcom BCM20702 Bluetooth USB Device | 2         | 4%      |
-| Apple Bluetooth Host Controller                          | 2         | 4%      |
-| Alps Electric UGTZ4 Bluetooth                            | 2         | 4%      |
-| Taiyo Yuden Bluetooth Device (V2.0+EDR)                  | 1         | 2%      |
-| Skylight Digital Realtek Bluetooth Adapter               | 1         | 2%      |
-| Realtek Bluetooth Adapter                                | 1         | 2%      |
-| Qualcomm Atheros AR3012 Bluetooth 4.0                    | 1         | 2%      |
-| Intel Wireless-AC 9260 Bluetooth Adapter                 | 1         | 2%      |
-| IMC Networks Realtek Bluetooth Adapter                   | 1         | 2%      |
-| Foxconn / Hon Hai RZ616 Bluetooth Adapter                | 1         | 2%      |
-| Foxconn / Hon Hai MediaTek Bluetooth Adapter             | 1         | 2%      |
-| Broadcom BCM20702A0 Bluetooth 4.0                        | 1         | 2%      |
-| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]               | 1         | 2%      |
-| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]       | 1         | 2%      |
-| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]         | 1         | 2%      |
-| ASUS Broadcom Bluetooth 2.1                              | 1         | 2%      |
+| Intel Bluetooth wireless interface                       | 11        | 21.57%  |
+| Intel AX201 Bluetooth                                    | 6         | 11.76%  |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)           | 3         | 5.88%   |
+| Intel AX200 Bluetooth                                    | 3         | 5.88%   |
+| Broadcom BCM2045B (BDC-2.1)                              | 3         | 5.88%   |
+| Apple Broadcom Built-in Bluetooth                        | 3         | 5.88%   |
+| Intel AX210 Bluetooth                                    | 2         | 3.92%   |
+| Foxconn / Hon Hai RZ616 Bluetooth Adapter                | 2         | 3.92%   |
+| Foxconn / Hon Hai Broadcom BCM20702 Bluetooth USB Device | 2         | 3.92%   |
+| Apple Bluetooth Host Controller                          | 2         | 3.92%   |
+| Alps Electric UGTZ4 Bluetooth                            | 2         | 3.92%   |
+| Taiyo Yuden Bluetooth Device (V2.0+EDR)                  | 1         | 1.96%   |
+| Skylight Digital Realtek Bluetooth Adapter               | 1         | 1.96%   |
+| Realtek Bluetooth Adapter                                | 1         | 1.96%   |
+| Qualcomm Atheros AR3012 Bluetooth 4.0                    | 1         | 1.96%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                 | 1         | 1.96%   |
+| IMC Networks Realtek Bluetooth Adapter                   | 1         | 1.96%   |
+| Foxconn / Hon Hai MediaTek Bluetooth Adapter             | 1         | 1.96%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                        | 1         | 1.96%   |
+| Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]               | 1         | 1.96%   |
+| Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]       | 1         | 1.96%   |
+| Broadcom BCM2045B (BDC-2) [Bluetooth Controller]         | 1         | 1.96%   |
+| ASUS Broadcom Bluetooth 2.1                              | 1         | 1.96%   |
 
 Sound
 -----
@@ -2208,7 +2208,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4%      |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 4%      |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 4%      |

@@ -1592,12 +1592,12 @@ Monitor models
 | Lenovo LCD Monitor LEN40C1 1280x720 220x130mm 10.1-inch                | 1         | 1.11%   |
 | Lenovo LCD Monitor LEN4040 1024x768 300x230mm 14.9-inch                | 1         | 1.11%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch                | 1         | 1.11%   |
-| InfoVision LCD Monitor IVO0533 1366x768 290x160mm 13.0-inch            | 1         | 1.11%   |
+| InfoVision LCD Monitor IVO0533 1366x768 290x170mm 13.2-inch            | 1         | 1.11%   |
 | InfoVision LCD Monitor IVO04E5 1366x768 280x160mm 12.7-inch            | 1         | 1.11%   |
 | Iiyama PL2474H IVM6146 1920x1080 520x290mm 23.4-inch                   | 1         | 1.11%   |
 | Hewlett-Packard 24xw HWP3256 1920x1080 530x300mm 24.0-inch             | 1         | 1.11%   |
 | Hewlett-Packard 24ea HPN3393 1920x1080 530x300mm 24.0-inch             | 1         | 1.11%   |
-| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch              | 1         | 1.11%   |
+| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch               | 1         | 1.11%   |
 | Goldstar LG ULTRAWIDE GSM5AFB 2560x1080 800x340mm 34.2-inch            | 1         | 1.11%   |
 | CPT LCD Monitor CPT04C4 1024x600 230x140mm 10.6-inch                   | 1         | 1.11%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 340x190mm 15.3-inch        | 1         | 1.11%   |
@@ -2298,7 +2298,7 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 31        | 23.66%  |
+| 1600    | 30        | 22.9%   |
 | 2667    | 21        | 16.03%  |
 | 2400    | 17        | 12.98%  |
 | 2133    | 12        | 9.16%   |
@@ -2307,9 +2307,9 @@ Memory module speed
 | 1067    | 6         | 4.58%   |
 | 667     | 6         | 4.58%   |
 | 1334    | 5         | 3.82%   |
+| 1867    | 3         | 2.29%   |
 | 533     | 3         | 2.29%   |
 | Unknown | 3         | 2.29%   |
-| 1867    | 2         | 1.53%   |
 | 975     | 2         | 1.53%   |
 | 800     | 2         | 1.53%   |
 | 4800    | 1         | 0.76%   |
@@ -2441,13 +2441,14 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 4         | 25%     |
-| Synaptics                  | 4         | 25%     |
-| Shenzhen Goodix Technology | 4         | 25%     |
-| Upek                       | 1         | 6.25%   |
-| LighTuning Technology      | 1         | 6.25%   |
-| Broadcom                   | 1         | 6.25%   |
-| AuthenTec                  | 1         | 6.25%   |
+| Validity Sensors           | 4         | 23.53%  |
+| Synaptics                  | 4         | 23.53%  |
+| Shenzhen Goodix Technology | 4         | 23.53%  |
+| Upek                       | 1         | 5.88%   |
+| LighTuning Technology      | 1         | 5.88%   |
+| Elan Microelectronics      | 1         | 5.88%   |
+| Broadcom                   | 1         | 5.88%   |
+| AuthenTec                  | 1         | 5.88%   |
 
 Fingerprint Model
 -----------------
@@ -2459,17 +2460,18 @@ Fingerprint sensor models
 
 | Model                                                                        | Notebooks | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Shenzhen Goodix Fingerprint Reader                                           | 3         | 18.75%  |
-| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 12.5%   |
-| Validity Sensors Synaptics WBDI                                              | 2         | 12.5%   |
-| Synaptics Metallica MIS Touch Fingerprint Reader                             | 2         | 12.5%   |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 6.25%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 6.25%   |
-| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 6.25%   |
-| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 6.25%   |
-| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 6.25%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 6.25%   |
-| AuthenTec AES1660                                                            | 1         | 6.25%   |
+| Shenzhen Goodix Fingerprint Reader                                           | 3         | 17.65%  |
+| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 11.76%  |
+| Validity Sensors Synaptics WBDI                                              | 2         | 11.76%  |
+| Synaptics Metallica MIS Touch Fingerprint Reader                             | 2         | 11.76%  |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 5.88%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 5.88%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 5.88%   |
+| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 5.88%   |
+| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 5.88%   |
+| Elan Fingerprint Sensor                                                      | 1         | 5.88%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 5.88%   |
+| AuthenTec AES1660                                                            | 1         | 5.88%   |
 
 Chipcard Vendor
 ---------------
@@ -2499,8 +2501,8 @@ Total unsupported devices on board
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
 | 1     | 37        | 33.33%  |
-| 2     | 32        | 28.83%  |
-| 3     | 18        | 16.22%  |
+| 2     | 31        | 27.93%  |
+| 3     | 19        | 17.12%  |
 | 0     | 16        | 14.41%  |
 | 4     | 6         | 5.41%   |
 | 6     | 1         | 0.9%    |
@@ -2516,12 +2518,12 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 74        | 40.88%  |
-| Net/wireless             | 43        | 23.76%  |
-| Bluetooth                | 20        | 11.05%  |
-| Fingerprint reader       | 16        | 8.84%   |
-| Card reader              | 15        | 8.29%   |
-| Firewire controller      | 10        | 5.52%   |
+| Communication controller | 74        | 40.66%  |
+| Net/wireless             | 43        | 23.63%  |
+| Bluetooth                | 20        | 10.99%  |
+| Fingerprint reader       | 17        | 9.34%   |
+| Card reader              | 15        | 8.24%   |
+| Firewire controller      | 10        | 5.49%   |
 | Storage/nvme             | 1         | 0.55%   |
 | Storage                  | 1         | 0.55%   |
 | Net/ethernet             | 1         | 0.55%   |
