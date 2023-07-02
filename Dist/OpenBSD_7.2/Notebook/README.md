@@ -1020,7 +1020,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller           | 3         | 4.41%   |
 | Samsung SM951 AHCI                                                                     | 2         | 2.94%   |
 | Samsung NVMe SSD Controller 980                                                        | 2         | 2.94%   |
-| Micron NVMe Storage Controller                                                         | 2         | 2.94%   |
+| Micron 2450 NVMe SSD (DRAM-less)                                                       | 2         | 2.94%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 2         | 2.94%   |
 | Intel Comet Lake SATA AHCI Controller                                                  | 2         | 2.94%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                      | 2         | 2.94%   |
@@ -1935,7 +1935,7 @@ Memory module models
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4.76%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 4.76%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 4.76%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s  | 1         | 4.76%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s | 1         | 4.76%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s       | 1         | 4.76%   |
@@ -1999,13 +1999,12 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
+| 2667    | 3         | 16.67%  |
 | 1334    | 3         | 16.67%  |
 | 1067    | 3         | 16.67%  |
 | Unknown | 3         | 16.67%  |
-| 2667    | 2         | 11.11%  |
 | 1600    | 2         | 11.11%  |
 | 1333    | 2         | 11.11%  |
-| 2400    | 1         | 5.56%   |
 | 2133    | 1         | 5.56%   |
 | 1867    | 1         | 5.56%   |
 

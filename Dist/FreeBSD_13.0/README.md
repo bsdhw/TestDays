@@ -740,13 +740,13 @@ Motherboard manufacture year
 | 2019    | 24        | 10.81%  |
 | 2021    | 23        | 10.36%  |
 | 2011    | 18        | 8.11%   |
-| 2015    | 15        | 6.76%   |
+| 2015    | 13        | 5.86%   |
 | 2010    | 12        | 5.41%   |
 | Unknown | 11        | 4.95%   |
 | 2017    | 10        | 4.5%    |
+| 2013    | 10        | 4.5%    |
 | 2012    | 10        | 4.5%    |
 | 2008    | 10        | 4.5%    |
-| 2013    | 8         | 3.6%    |
 | 2016    | 7         | 3.15%   |
 | 2014    | 7         | 3.15%   |
 | 2009    | 5         | 2.25%   |
@@ -1473,7 +1473,6 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                                 | 2         | 0.66%   |
 | Phison E12 NVMe Controller                                                       | 2         | 0.66%   |
 | Nvidia MCP79 AHCI Controller                                                     | 2         | 0.66%   |
-| Micron NVMe Storage Controller                                                   | 2         | 0.66%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                            | 2         | 0.66%   |
 | JMicron JMB363 SATA/IDE Controller                                               | 2         | 0.66%   |
 | Intel SATA Controller [RAID mode]                                                | 2         | 0.66%   |
@@ -1481,6 +1480,7 @@ Storage controller models
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 0.66%   |
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                    | 2         | 0.66%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 2         | 0.66%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                           | 2         | 0.66%   |
 
 Storage Kind
 ------------
@@ -2694,9 +2694,9 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 52        | 22.61%  |
 | 2400    | 30        | 13.04%  |
-| 2667    | 26        | 11.3%   |
-| 2133    | 22        | 9.57%   |
+| 2667    | 27        | 11.74%  |
 | 3200    | 21        | 9.13%   |
+| 2133    | 21        | 9.13%   |
 | 1333    | 19        | 8.26%   |
 | 1067    | 9         | 3.91%   |
 | 800     | 9         | 3.91%   |

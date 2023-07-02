@@ -1254,7 +1254,7 @@ Monitor models
 | LG Display LCD Monitor LGD034D 1366x768 340x190mm 15.3-inch              | 1         | 3.57%   |
 | LG Display LCD Monitor LGD01F7 1366x768 290x160mm 13.0-inch              | 1         | 3.57%   |
 | Hewlett-Packard 24fw HPN3545 1920x1080 530x300mm 24.0-inch               | 1         | 3.57%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 340x190mm 15.3-inch          | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN15BE 1366x768 340x190mm 15.3-inch          | 1         | 3.57%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 350x190mm 15.7-inch | 1         | 3.57%   |
@@ -1786,7 +1786,7 @@ Memory module models
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s     | 1         | 2.38%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s    | 1         | 2.38%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s     | 1         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s     | 1         | 2.38%   |
 | Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Micron RAM 8ATF1G64HZ-3G2R1 8GB SODIMM DDR4 3200MT/s      | 1         | 2.38%   |
 | Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s      | 1         | 2.38%   |
@@ -1855,18 +1855,18 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 9         | 24.32%  |
-| 2400    | 6         | 16.22%  |
-| 2133    | 5         | 13.51%  |
-| 3200    | 4         | 10.81%  |
-| 2667    | 4         | 10.81%  |
-| 1334    | 2         | 5.41%   |
-| 667     | 2         | 5.41%   |
-| 1333    | 1         | 2.7%    |
-| 975     | 1         | 2.7%    |
-| 800     | 1         | 2.7%    |
-| 533     | 1         | 2.7%    |
-| Unknown | 1         | 2.7%    |
+| 1600    | 9         | 25%     |
+| 2400    | 5         | 13.89%  |
+| 2133    | 5         | 13.89%  |
+| 3200    | 4         | 11.11%  |
+| 2667    | 4         | 11.11%  |
+| 1334    | 2         | 5.56%   |
+| 667     | 2         | 5.56%   |
+| 1333    | 1         | 2.78%   |
+| 975     | 1         | 2.78%   |
+| 800     | 1         | 2.78%   |
+| 533     | 1         | 2.78%   |
+| Unknown | 1         | 2.78%   |
 
 Printers & scanners
 -------------------

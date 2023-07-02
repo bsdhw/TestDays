@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 281
+Total: 282
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Gigabyte      | B360M D2V                   | Desktop     | [bf5f6fd6dd](https://bsd-hardware.info/?probe=bf5f6fd6dd) | Jun 30, 2023 |
 | ASRockRack    | GENOAD8UD-2T/X550           | Desktop     | [c6b62c6b5b](https://bsd-hardware.info/?probe=c6b62c6b5b) | May 26, 2023 |
 | Dell          | 0H634K A00                  | Desktop     | [5e783a1c2e](https://bsd-hardware.info/?probe=5e783a1c2e) | Apr 30, 2023 |
 | HP            | 81C6 MVB 0C                 | Server      | [65d2113596](https://bsd-hardware.info/?probe=65d2113596) | Apr 03, 2023 |
@@ -461,14 +462,14 @@ Desktop Environment
 
 | Name          | Computers | Percent |
 |---------------|-----------|---------|
-| Console       | 70        | 30.43%  |
-| XFCE          | 40        | 17.39%  |
-| KDE5          | 37        | 16.09%  |
-| GNOME         | 20        | 8.7%    |
-| TWM           | 15        | 6.52%   |
-| MATE          | 13        | 5.65%   |
-| i3            | 8         | 3.48%   |
-| Openbox       | 7         | 3.04%   |
+| Console       | 70        | 30.3%   |
+| XFCE          | 40        | 17.32%  |
+| KDE5          | 37        | 16.02%  |
+| GNOME         | 20        | 8.66%   |
+| TWM           | 15        | 6.49%   |
+| MATE          | 13        | 5.63%   |
+| i3            | 8         | 3.46%   |
+| Openbox       | 7         | 3.03%   |
 | LXDE          | 3         | 1.3%    |
 | Cinnamon      | 3         | 1.3%    |
 | LXQt          | 2         | 0.87%   |
@@ -481,6 +482,7 @@ Desktop Environment
 | IceWM         | 1         | 0.43%   |
 | dwm           | 1         | 0.43%   |
 | Compton       | 1         | 0.43%   |
+| Budgie        | 1         | 0.43%   |
 | bspwm         | 1         | 0.43%   |
 
 Display Server
@@ -754,12 +756,12 @@ Motherboard manufacture year
 | 2019    | 15        | 6.52%   |
 | 2016    | 13        | 5.65%   |
 | 2014    | 13        | 5.65%   |
-| 2013    | 12        | 5.22%   |
+| 2013    | 13        | 5.65%   |
 | 2012    | 12        | 5.22%   |
 | 2011    | 12        | 5.22%   |
 | 2017    | 8         | 3.48%   |
-| 2015    | 7         | 3.04%   |
 | Unknown | 7         | 3.04%   |
+| 2015    | 6         | 2.61%   |
 | 2010    | 6         | 2.61%   |
 | 2008    | 6         | 2.61%   |
 | 2009    | 4         | 1.74%   |
@@ -901,8 +903,8 @@ Has WiFi module
 
 | Presented | Computers | Percent |
 |-----------|-----------|---------|
-| Yes       | 154       | 66.96%  |
-| No        | 76        | 33.04%  |
+| Yes       | 154       | 66.67%  |
+| No        | 77        | 33.33%  |
 
 Has Bluetooth
 -------------
@@ -1035,7 +1037,7 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 69        | 117    | 22.26%  |
+| WDC                 | 69        | 118    | 22.26%  |
 | Samsung Electronics | 52        | 68     | 16.77%  |
 | Seagate             | 38        | 94     | 12.26%  |
 | Kingston            | 19        | 20     | 6.13%   |
@@ -1068,7 +1070,7 @@ Hard drive vendors
 | SPCC                | 1         | 1      | 0.32%   |
 | ORICO               | 1         | 1      | 0.32%   |
 | OCZ                 | 1         | 1      | 0.32%   |
-| MSI                 | 1         | 1      | 0.32%   |
+| MSI                 | 1         | 2      | 0.32%   |
 | LITEONIT            | 1         | 1      | 0.32%   |
 | LITEON              | 1         | 1      | 0.32%   |
 | Lexar               | 1         | 2      | 0.32%   |
@@ -1137,7 +1139,7 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 48        | 94     | 45.28%  |
+| WDC                 | 48        | 95     | 45.28%  |
 | Seagate             | 36        | 92     | 33.96%  |
 | Toshiba             | 10        | 17     | 9.43%   |
 | Hitachi             | 6         | 7      | 5.66%   |
@@ -1177,7 +1179,7 @@ Solid state drive vendors
 | Phison              | 1         | 1      | 0.82%   |
 | ORICO               | 1         | 1      | 0.82%   |
 | OCZ                 | 1         | 1      | 0.82%   |
-| MSI                 | 1         | 1      | 0.82%   |
+| MSI                 | 1         | 2      | 0.82%   |
 | Micron Technology   | 1         | 2      | 0.82%   |
 | LITEONIT            | 1         | 1      | 0.82%   |
 | LITEON              | 1         | 1      | 0.82%   |
@@ -1204,8 +1206,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 109       | 151    | 39.07%  |
-| HDD  | 88        | 226    | 31.54%  |
+| SSD  | 109       | 152    | 39.07%  |
+| HDD  | 88        | 227    | 31.54%  |
 | NVMe | 82        | 95     | 29.39%  |
 
 Drive Connector
@@ -1218,7 +1220,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 165       | 377    | 66.8%   |
+| SATA | 165       | 379    | 66.8%   |
 | NVMe | 82        | 95     | 33.2%   |
 
 Drive Size
@@ -1231,8 +1233,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 106       | 142    | 50%     |
-| 0.51-1.0   | 64        | 92     | 30.19%  |
+| 0.01-0.5   | 106       | 143    | 50%     |
+| 0.51-1.0   | 64        | 93     | 30.19%  |
 | 1.01-2.0   | 19        | 38     | 8.96%   |
 | 3.01-4.0   | 8         | 13     | 3.77%   |
 | 4.01-10.0  | 6         | 46     | 2.83%   |
@@ -1249,15 +1251,15 @@ Amount of disk space available on the file system
 
 | Size in GB     | Computers | Percent |
 |----------------|-----------|---------|
-| 101-250        | 79        | 34.2%   |
-| 251-500        | 54        | 23.38%  |
-| 501-1000       | 39        | 16.88%  |
-| 51-100         | 20        | 8.66%   |
-| 21-50          | 14        | 6.06%   |
-| 1001-2000      | 12        | 5.19%   |
+| 101-250        | 79        | 34.05%  |
+| 251-500        | 54        | 23.28%  |
+| 501-1000       | 40        | 17.24%  |
+| 51-100         | 20        | 8.62%   |
+| 21-50          | 14        | 6.03%   |
+| 1001-2000      | 12        | 5.17%   |
 | 1-20           | 5         | 2.16%   |
-| More than 3000 | 4         | 1.73%   |
-| 2001-3000      | 3         | 1.3%    |
+| More than 3000 | 4         | 1.72%   |
+| 2001-3000      | 3         | 1.29%   |
 | Unknown        | 1         | 0.43%   |
 
 Space Used
@@ -1296,7 +1298,7 @@ Drive models with a malfunction
 | WDC WD30EFRX-68EUZN0 3TB                     | 1         | 3      | 2.63%   |
 | WDC WD2500BEVT-24A23T0 250GB                 | 1         | 1      | 2.63%   |
 | WDC WD1600AAJS-60M0A0 160GB                  | 1         | 1      | 2.63%   |
-| WDC WD10EZRZ-00HTKB0 1TB                     | 1         | 1      | 2.63%   |
+| WDC WD10EZRZ-00HTKB0 1TB                     | 1         | 2      | 2.63%   |
 | Toshiba MQ01ABF050 500GB                     | 1         | 1      | 2.63%   |
 | Toshiba MQ01ABD100 1TB                       | 1         | 1      | 2.63%   |
 | SPCC M.2 SSD 256GB                           | 1         | 1      | 2.63%   |
@@ -1337,7 +1339,7 @@ Vendors of faulty drives
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 8         | 11     | 22.22%  |
+| WDC                 | 8         | 12     | 22.22%  |
 | Seagate             | 7         | 8      | 19.44%  |
 | Hitachi             | 4         | 4      | 11.11%  |
 | Kingston            | 3         | 4      | 8.33%   |
@@ -1364,7 +1366,7 @@ Vendors of faulty HDD drives
 
 | Vendor          | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| WDC             | 8         | 11     | 34.78%  |
+| WDC             | 8         | 12     | 34.78%  |
 | Seagate         | 7         | 8      | 30.43%  |
 | Hitachi         | 4         | 4      | 17.39%  |
 | Toshiba         | 2         | 2      | 8.7%    |
@@ -1381,7 +1383,7 @@ Kinds of faulty drives
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 22        | 27     | 62.86%  |
+| HDD  | 22        | 28     | 62.86%  |
 | SSD  | 13        | 16     | 37.14%  |
 
 Failed Drives
@@ -1408,8 +1410,8 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 197       | 411    | 83.47%  |
-| Malfunc  | 33        | 43     | 13.98%  |
+| Works    | 197       | 412    | 83.47%  |
+| Malfunc  | 33        | 44     | 13.98%  |
 | Detected | 6         | 18     | 2.54%   |
 
 Storage controller
@@ -1471,11 +1473,11 @@ Storage controller models
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 9         | 2.83%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 9         | 2.83%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 8         | 2.52%   |
-| Unknown                                                                        | 8         | 2.52%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 6         | 1.89%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 6         | 1.89%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 6         | 1.89%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 6         | 1.89%   |
+| Unknown                                                                        | 6         | 1.89%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 5         | 1.57%   |
 | Samsung NVMe SSD Controller 980                                                | 5         | 1.57%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 5         | 1.57%   |
@@ -1490,8 +1492,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 4         | 1.26%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 4         | 1.26%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 4         | 1.26%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 3         | 0.94%   |
-| SanDisk unknown                                                                | 3         | 0.94%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 3         | 0.94%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 3         | 0.94%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 3         | 0.94%   |
 | KIOXIA NVMe SSD Controller BG4                                                 | 3         | 0.94%   |
@@ -1502,7 +1503,8 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 3         | 0.94%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 3         | 0.94%   |
 | AMD 400 Series Chipset SATA Controller                                         | 3         | 0.94%   |
-| Solid State Storage CL1                                                        | 2         | 0.63%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 0.63%   |
+| SK hynix BC511 NVMe SSD                                                        | 2         | 0.63%   |
 
 Storage Kind
 ------------
@@ -1912,46 +1914,46 @@ Monitor models
 
 | Model                                                                  | Computers | Percent |
 |------------------------------------------------------------------------|-----------|---------|
-| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch          | 2         | 1.38%   |
-| Toshiba TV TSB0200 1920x1080 530x300mm 24.0-inch                       | 2         | 1.38%   |
-| Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x290mm 29.5-inch         | 2         | 1.38%   |
-| Samsung Electronics SyncMaster SAM021E 1680x1050 430x270mm 20.0-inch   | 2         | 1.38%   |
-| Mi 27 NFGL XMIB004 1920x1080 600x330mm 27.0-inch                       | 2         | 1.38%   |
-| LGD LCD Monitor 1600x900                                               | 2         | 1.38%   |
-| LG Display LCD Monitor LGD064C 1920x1080 340x190mm 15.3-inch           | 2         | 1.38%   |
-| LG Display LCD Monitor LGD02EB 1366x768 310x170mm 13.9-inch            | 2         | 1.38%   |
-| Chimei Innolux LCD Monitor CMN14D4 1920x1080 310x170mm 13.9-inch       | 2         | 1.38%   |
-| BenQ BL2480 BNQ802C 1920x1080 530x300mm 24.0-inch                      | 2         | 1.38%   |
-| AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                      | 2         | 1.38%   |
-| YTH HS133PC YTH1330 1920x1080 250x220mm 13.1-inch                      | 1         | 0.69%   |
-| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch     | 1         | 0.69%   |
-| USR LCD Monitor USR0100 1920x1080 510x290mm 23.1-inch                  | 1         | 0.69%   |
-| Unknown (XXX) SMART TV XXX2851 3840x2160                               | 1         | 0.69%   |
-| Toshiba ScreenXpert- TSB8888 1080x2160 60x130mm 5.6-inch               | 1         | 0.69%   |
-| Sharp LCD Monitor SHP143E 3840x2160 350x190mm 15.7-inch                | 1         | 0.69%   |
-| Sharp LCD Monitor SHP1421 3200x1800 290x170mm 13.2-inch                | 1         | 0.69%   |
-| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1         | 0.69%   |
-| Samsung Electronics SME1920NR SAM06A4 1280x1024 380x300mm 19.1-inch    | 1         | 0.69%   |
-| Samsung Electronics S22B300 SAM08AC 1920x1080 480x270mm 21.7-inch      | 1         | 0.69%   |
-| Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch    | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor T27C370 1920x1080                      | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SyncMaster 1920x1200                   | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SEC3741 1280x800 330x210mm 15.4-inch   | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch   | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch  | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SDC4158 1920x1080 290x170mm 13.2-inch  | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SAM7004 3840x2160 1210x680mm 54.6-inch | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1420x800mm 64.2-inch | 1         | 0.69%   |
-| Samsung Electronics LCD Monitor S24R35x 1920x1080                      | 1         | 0.69%   |
-| Pioneer Electronic LCD Monitor SC-1223 1920x1080                       | 1         | 0.69%   |
-| Philips PHL 276E7 PHLC108 1920x1080 600x340mm 27.2-inch                | 1         | 0.69%   |
-| Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1         | 0.69%   |
-| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch                | 1         | 0.69%   |
-| Panasonic TV MEIA296 1920x1080 1280x720mm 57.8-inch                    | 1         | 0.69%   |
-| LG Philips LCD Monitor LPL0120 1280x800 330x210mm 15.4-inch            | 1         | 0.69%   |
-| LG Electronics LCD Monitor LG HDR QHD 2560x1440                        | 1         | 0.69%   |
+| ViewSonic VG2439 Series VSCD22B 1920x1080 520x290mm 23.4-inch          | 2         | 1.37%   |
+| Toshiba TV TSB0200 1920x1080 530x300mm 24.0-inch                       | 2         | 1.37%   |
+| Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x290mm 29.5-inch         | 2         | 1.37%   |
+| Samsung Electronics SyncMaster SAM021E 1680x1050 430x270mm 20.0-inch   | 2         | 1.37%   |
+| Mi 27 NFGL XMIB004 1920x1080 600x330mm 27.0-inch                       | 2         | 1.37%   |
+| LGD LCD Monitor 1600x900                                               | 2         | 1.37%   |
+| LG Display LCD Monitor LGD064C 1920x1080 340x190mm 15.3-inch           | 2         | 1.37%   |
+| LG Display LCD Monitor LGD02EB 1366x768 310x170mm 13.9-inch            | 2         | 1.37%   |
+| Chimei Innolux LCD Monitor CMN14D4 1920x1080 310x170mm 13.9-inch       | 2         | 1.37%   |
+| BenQ BL2480 BNQ802C 1920x1080 530x300mm 24.0-inch                      | 2         | 1.37%   |
+| AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                      | 2         | 1.37%   |
+| YTH HS133PC YTH1330 1920x1080 250x220mm 13.1-inch                      | 1         | 0.68%   |
+| Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch     | 1         | 0.68%   |
+| USR LCD Monitor USR0100 1920x1080 510x290mm 23.1-inch                  | 1         | 0.68%   |
+| Unknown (XXX) SMART TV XXX2851 3840x2160                               | 1         | 0.68%   |
+| Toshiba ScreenXpert- TSB8888 1080x2160 60x130mm 5.6-inch               | 1         | 0.68%   |
+| Sharp LCD Monitor SHP143E 3840x2160 350x190mm 15.7-inch                | 1         | 0.68%   |
+| Sharp LCD Monitor SHP1421 3200x1800 290x170mm 13.2-inch                | 1         | 0.68%   |
+| Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch      | 1         | 0.68%   |
+| Samsung Electronics SME1920NR SAM06A4 1280x1024 380x300mm 19.1-inch    | 1         | 0.68%   |
+| Samsung Electronics S22B300 SAM08AC 1920x1080 480x270mm 21.7-inch      | 1         | 0.68%   |
+| Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch    | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor T27C370 1920x1080                      | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SyncMaster 1920x1200                   | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SEC3741 1280x800 330x210mm 15.4-inch   | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch   | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch  | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SDC4158 1920x1080 290x170mm 13.2-inch  | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SAM7004 3840x2160 1210x680mm 54.6-inch | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor SAM0F13 3840x2160 1420x800mm 64.2-inch | 1         | 0.68%   |
+| Samsung Electronics LCD Monitor S24R35x 1920x1080                      | 1         | 0.68%   |
+| Pioneer Electronic LCD Monitor SC-1223 1920x1080                       | 1         | 0.68%   |
+| Philips PHL 276E7 PHLC108 1920x1080 600x340mm 27.2-inch                | 1         | 0.68%   |
+| Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1         | 0.68%   |
+| Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch                | 1         | 0.68%   |
+| Panasonic TV MEIA296 1920x1080 1280x720mm 57.8-inch                    | 1         | 0.68%   |
+| LG Philips LCD Monitor LPL0120 1280x800 330x210mm 15.4-inch            | 1         | 0.68%   |
+| LG Electronics LCD Monitor LG HDR QHD 2560x1440                        | 1         | 0.68%   |
 
 Monitor Resolution
 ------------------
@@ -1995,30 +1997,30 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 31        | 21.68%  |
-| 13      | 29        | 20.28%  |
-| Unknown | 17        | 11.89%  |
-| 27      | 14        | 9.79%   |
-| 24      | 13        | 9.09%   |
-| 21      | 6         | 4.2%    |
-| 12      | 5         | 3.5%    |
-| 23      | 4         | 2.8%    |
-| 31      | 3         | 2.1%    |
-| 19      | 3         | 2.1%    |
-| 29      | 2         | 1.4%    |
-| 20      | 2         | 1.4%    |
-| 18      | 2         | 1.4%    |
-| 17      | 2         | 1.4%    |
-| 64      | 1         | 0.7%    |
-| 57      | 1         | 0.7%    |
-| 54      | 1         | 0.7%    |
-| 42      | 1         | 0.7%    |
-| 34      | 1         | 0.7%    |
-| 22      | 1         | 0.7%    |
-| 14      | 1         | 0.7%    |
-| 11      | 1         | 0.7%    |
-| 10      | 1         | 0.7%    |
-| 5       | 1         | 0.7%    |
+| 15      | 31        | 21.53%  |
+| 13      | 29        | 20.14%  |
+| Unknown | 17        | 11.81%  |
+| 27      | 14        | 9.72%   |
+| 24      | 14        | 9.72%   |
+| 21      | 6         | 4.17%   |
+| 12      | 5         | 3.47%   |
+| 23      | 4         | 2.78%   |
+| 31      | 3         | 2.08%   |
+| 19      | 3         | 2.08%   |
+| 29      | 2         | 1.39%   |
+| 20      | 2         | 1.39%   |
+| 18      | 2         | 1.39%   |
+| 17      | 2         | 1.39%   |
+| 64      | 1         | 0.69%   |
+| 57      | 1         | 0.69%   |
+| 54      | 1         | 0.69%   |
+| 42      | 1         | 0.69%   |
+| 34      | 1         | 0.69%   |
+| 22      | 1         | 0.69%   |
+| 14      | 1         | 0.69%   |
+| 11      | 1         | 0.69%   |
+| 10      | 1         | 0.69%   |
+| 5       | 1         | 0.69%   |
 
 Monitor Width
 -------------
@@ -2030,14 +2032,14 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 52        | 36.62%  |
-| 501-600     | 29        | 20.42%  |
-| Unknown     | 17        | 11.97%  |
-| 201-300     | 15        | 10.56%  |
-| 401-500     | 10        | 7.04%   |
-| 601-700     | 7         | 4.93%   |
-| 351-400     | 6         | 4.23%   |
-| 1001-1500   | 3         | 2.11%   |
+| 301-350     | 52        | 36.36%  |
+| 501-600     | 30        | 20.98%  |
+| Unknown     | 17        | 11.89%  |
+| 201-300     | 15        | 10.49%  |
+| 401-500     | 10        | 6.99%   |
+| 601-700     | 7         | 4.9%    |
+| 351-400     | 6         | 4.2%    |
+| 1001-1500   | 3         | 2.1%    |
 | 701-800     | 1         | 0.7%    |
 | 901-1000    | 1         | 0.7%    |
 | 1-100       | 1         | 0.7%    |
@@ -2052,15 +2054,15 @@ Proportional relationship between the width and the height
 
 | Ratio   | Computers | Percent |
 |---------|-----------|---------|
-| 16/9    | 94        | 72.87%  |
-| Unknown | 16        | 12.4%   |
-| 16/10   | 10        | 7.75%   |
-| 21/9    | 3         | 2.33%   |
-| 5/4     | 2         | 1.55%   |
-| 6/5     | 1         | 0.78%   |
-| 4/3     | 1         | 0.78%   |
-| 11/10   | 1         | 0.78%   |
-| 0.46    | 1         | 0.78%   |
+| 16/9    | 94        | 72.31%  |
+| Unknown | 16        | 12.31%  |
+| 16/10   | 11        | 8.46%   |
+| 21/9    | 3         | 2.31%   |
+| 5/4     | 2         | 1.54%   |
+| 6/5     | 1         | 0.77%   |
+| 4/3     | 1         | 0.77%   |
+| 11/10   | 1         | 0.77%   |
+| 0.46    | 1         | 0.77%   |
 
 Monitor Area
 ------------
@@ -2072,25 +2074,25 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 81-90          | 23        | 16.08%  |
-| 201-250        | 23        | 16.08%  |
-| 91-100         | 23        | 16.08%  |
-| Unknown        | 17        | 11.89%  |
-| 301-350        | 16        | 11.19%  |
-| 101-110        | 9         | 6.29%   |
-| 71-80          | 6         | 4.2%    |
-| 151-200        | 6         | 4.2%    |
-| 61-70          | 5         | 3.5%    |
-| 351-500        | 4         | 2.8%    |
-| More than 1000 | 3         | 2.1%    |
-| 51-60          | 1         | 0.7%    |
-| 41-50          | 1         | 0.7%    |
-| 1-40           | 1         | 0.7%    |
-| 251-300        | 1         | 0.7%    |
-| 141-150        | 1         | 0.7%    |
-| 131-140        | 1         | 0.7%    |
-| 121-130        | 1         | 0.7%    |
-| 501-1000       | 1         | 0.7%    |
+| 81-90          | 23        | 15.97%  |
+| 201-250        | 23        | 15.97%  |
+| 91-100         | 23        | 15.97%  |
+| Unknown        | 17        | 11.81%  |
+| 301-350        | 16        | 11.11%  |
+| 101-110        | 9         | 6.25%   |
+| 71-80          | 6         | 4.17%   |
+| 151-200        | 6         | 4.17%   |
+| 61-70          | 5         | 3.47%   |
+| 351-500        | 4         | 2.78%   |
+| More than 1000 | 3         | 2.08%   |
+| 251-300        | 2         | 1.39%   |
+| 51-60          | 1         | 0.69%   |
+| 41-50          | 1         | 0.69%   |
+| 1-40           | 1         | 0.69%   |
+| 141-150        | 1         | 0.69%   |
+| 131-140        | 1         | 0.69%   |
+| 121-130        | 1         | 0.69%   |
+| 501-1000       | 1         | 0.69%   |
 
 Pixel Density
 -------------
@@ -2102,12 +2104,12 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 51-100        | 43        | 30.71%  |
-| 121-160       | 36        | 25.71%  |
-| 101-120       | 27        | 19.29%  |
-| Unknown       | 17        | 12.14%  |
-| 161-240       | 11        | 7.86%   |
-| More than 240 | 5         | 3.57%   |
+| 51-100        | 44        | 31.21%  |
+| 121-160       | 36        | 25.53%  |
+| 101-120       | 27        | 19.15%  |
+| Unknown       | 17        | 12.06%  |
+| 161-240       | 11        | 7.8%    |
+| More than 240 | 5         | 3.55%   |
 | 1-50          | 1         | 0.71%   |
 
 Multiple Monitors
@@ -2391,8 +2393,8 @@ Currently used network controller
 
 | Kind     | Computers | Percent |
 |----------|-----------|---------|
-| Ethernet | 137       | 65.24%  |
-| WiFi     | 73        | 34.76%  |
+| Ethernet | 138       | 65.4%   |
+| WiFi     | 73        | 34.6%   |
 
 NICs
 ----
@@ -2651,7 +2653,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 0.73%   |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 0.73%   |
 | Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 2         | 0.73%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 2         | 0.73%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s     | 2         | 0.73%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 0.73%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 0.73%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 0.73%   |

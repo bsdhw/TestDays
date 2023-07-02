@@ -1337,7 +1337,7 @@ Memory module models
 | SK hynix RAM Module 8GB SODIMM DDR3 1600MT/s           | 1         | 12.5%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s | 1         | 12.5%   |
 | Samsung RAM M474A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s | 1         | 12.5%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 12.5%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 12.5%   |
 | Micron RAM 18ASF2G72HZ-2G6E1 16GB SODIMM DDR4 2667MT/s | 1         | 12.5%   |
 | Kingston RAM HP16D3LS1KFG/8G 8GB SODIMM DDR3 1600MT/s  | 1         | 12.5%   |
 | G.Skill RAM F3-10666CL9-4GBSQ 4GB SODIMM DDR3 1334MT/s | 1         | 12.5%   |
@@ -1392,11 +1392,11 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 2667    | 2         | 28.57%  |
-| 1600    | 2         | 28.57%  |
-| 2400    | 1         | 14.29%  |
-| 1334    | 1         | 14.29%  |
-| Unknown | 1         | 14.29%  |
+| 2667    | 3         | 37.5%   |
+| 1600    | 2         | 25%     |
+| 2400    | 1         | 12.5%   |
+| 1334    | 1         | 12.5%   |
+| Unknown | 1         | 12.5%   |
 
 Printers & scanners
 -------------------

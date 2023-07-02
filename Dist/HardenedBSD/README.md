@@ -1643,7 +1643,7 @@ Memory module models
 | SK hynix RAM HMA81GR7MFR8N-UH 8GB DIMM DDR4 2400MT/s   | 1         | 5%      |
 | SK hynix RAM HMA41GR7BJR4N-VK 8GB DIMM DDR4 2666MT/s   | 1         | 5%      |
 | Samsung RAM M474A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s | 1         | 5%      |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 5%      |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 5%      |
 | Samsung RAM M393A2K43CB2-CTD 16GB DIMM DDR4 2666MT/s   | 1         | 5%      |
 | Samsung RAM M391A2K43BB1-CPB 16GB DIMM DDR4 2133MT/s   | 1         | 5%      |
 | Micron RAM 18ASF2G72HZ-2G6E1 16GB SODIMM DDR4 2667MT/s | 1         | 5%      |
@@ -1707,14 +1707,14 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 2133    | 4         | 22.22%  |
-| 2667    | 3         | 16.67%  |
-| 2400    | 3         | 16.67%  |
-| 1600    | 3         | 16.67%  |
-| 2666    | 2         | 11.11%  |
-| 1334    | 1         | 5.56%   |
-| 1333    | 1         | 5.56%   |
-| Unknown | 1         | 5.56%   |
+| 2667    | 4         | 21.05%  |
+| 2133    | 4         | 21.05%  |
+| 2400    | 3         | 15.79%  |
+| 1600    | 3         | 15.79%  |
+| 2666    | 2         | 10.53%  |
+| 1334    | 1         | 5.26%   |
+| 1333    | 1         | 5.26%   |
+| Unknown | 1         | 5.26%   |
 
 Printers & scanners
 -------------------

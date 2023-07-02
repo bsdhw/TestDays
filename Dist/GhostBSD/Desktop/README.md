@@ -1213,7 +1213,7 @@ Storage controller models
 | Phison E12 NVMe Controller                                                              | 1        | 0.7%    |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 0.7%    |
 | Micron/Crucial NVMe Storage Controller                                                  | 1        | 0.7%    |
-| Micron NVMe Storage Controller                                                          | 1        | 0.7%    |
+| Micron 2200S NVMe SSD                                                                   | 1        | 0.7%    |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 0.7%    |
 
 Storage Kind
@@ -2211,7 +2211,7 @@ Memory module models
 | S RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 1.02%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s | 1        | 1.02%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 1        | 1.02%   |
-| Patriot RAM 2666 C16 Series 4GB DIMM DDR4 3000MT/s      | 1        | 1.02%   |
+| Patriot RAM 2666 C16 Series 16GB DIMM DDR4 3000MT/s     | 1        | 1.02%   |
 | Nanya RAM NT2GT72U8PD0BY-3C 2GB DIMM DDR2 667MT/s       | 1        | 1.02%   |
 | Nanya RAM M2F4G64CB8HB5N-CG 4GB DIMM DDR3 1333MT/s      | 1        | 1.02%   |
 | Micron RAM 16ATF1G64AZ-2G1B1 8GB DIMM DDR4 2133MT/s     | 1        | 1.02%   |

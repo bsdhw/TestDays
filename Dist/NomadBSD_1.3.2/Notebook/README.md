@@ -930,7 +930,7 @@ Storage controller models
 | Samsung Apple PCIe SSD                                                           | 1         | 2.63%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1         | 2.63%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 1         | 2.63%   |
-| Intel Comet Lake PCH-LP SATA RAID Premium Controller                             | 1         | 2.63%   |
+| Intel Comet Lake RAID Controller                                                 | 1         | 2.63%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 1         | 2.63%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1         | 2.63%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 2 port SATA Controller [IDE mode]             | 1         | 2.63%   |
@@ -1254,7 +1254,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 3.57%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                  | 1         | 3.57%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN14C9 1920x1080 310x170mm 13.9-inch          | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1490 1366x768 310x170mm 13.9-inch           | 1         | 3.57%   |

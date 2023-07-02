@@ -1245,7 +1245,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3         | 1.86%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 3         | 1.86%   |
 | Unknown                                                                        | 3         | 1.86%   |
-| Solid State Storage CL1                                                        | 2         | 1.24%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 1.24%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 1.24%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.24%   |
 | Realtek NVMe Controller                                                        | 2         | 1.24%   |
@@ -1260,8 +1260,8 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 1.24%   |
 | Toshiba XG6 NVMe SSD Controller                                                | 1         | 0.62%   |
 | SK hynix hynix unknown                                                         | 1         | 0.62%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 1         | 0.62%   |
-| SK hynix BC511                                                                 | 1         | 0.62%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 1         | 0.62%   |
+| SK hynix BC511 NVMe SSD                                                        | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1         | 0.62%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.62%   |
@@ -1657,7 +1657,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch           | 1         | 1.22%   |
 | LG Display LCD Monitor LGD021D 1600x900 380x210mm 17.1-inch           | 1         | 1.22%   |
 | Hewlett-Packard LCD Monitor HWP26A4 1440x900 410x260mm 19.1-inch      | 1         | 1.22%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch              | 1         | 1.22%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch             | 1         | 1.22%   |
 | Fujitsu Siemens XE17-4 FUS0674 1280x1024 340x270mm 17.1-inch          | 1         | 1.22%   |
 | Dell P2412H DELA07D 1920x1080 530x300mm 24.0-inch                     | 1         | 1.22%   |
 | CPT LCD Monitor COR17DB 1600x900 290x160mm 13.0-inch                  | 1         | 1.22%   |
@@ -2282,7 +2282,7 @@ Memory module models
 |--------------------------------------------------------------------|-----------|---------|
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s              | 7         | 4.17%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s             | 4         | 2.38%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s              | 4         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s              | 4         | 2.38%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s             | 4         | 2.38%   |
 | Unknown RAM Module 2GB SODIMM DDR3                                 | 3         | 1.79%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                       | 3         | 1.79%   |
@@ -2383,22 +2383,22 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 42        | 28.77%  |
-| 2400    | 19        | 13.01%  |
-| 2667    | 16        | 10.96%  |
-| 1333    | 15        | 10.27%  |
-| 3200    | 13        | 8.9%    |
-| 2133    | 11        | 7.53%   |
-| 1334    | 6         | 4.11%   |
-| 667     | 5         | 3.42%   |
-| Unknown | 5         | 3.42%   |
-| 1867    | 3         | 2.05%   |
-| 1067    | 3         | 2.05%   |
-| 800     | 3         | 2.05%   |
-| 2048    | 2         | 1.37%   |
-| 4800    | 1         | 0.68%   |
-| 1066    | 1         | 0.68%   |
-| 333     | 1         | 0.68%   |
+| 1600    | 42        | 28.97%  |
+| 2667    | 19        | 13.1%   |
+| 2400    | 15        | 10.34%  |
+| 1333    | 15        | 10.34%  |
+| 3200    | 13        | 8.97%   |
+| 2133    | 11        | 7.59%   |
+| 1334    | 6         | 4.14%   |
+| 667     | 5         | 3.45%   |
+| Unknown | 5         | 3.45%   |
+| 1867    | 3         | 2.07%   |
+| 1067    | 3         | 2.07%   |
+| 800     | 3         | 2.07%   |
+| 2048    | 2         | 1.38%   |
+| 4800    | 1         | 0.69%   |
+| 1066    | 1         | 0.69%   |
+| 333     | 1         | 0.69%   |
 
 Printers & scanners
 -------------------

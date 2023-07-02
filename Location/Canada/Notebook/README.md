@@ -1216,7 +1216,7 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                          | 2         | 2.47%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                         | 2         | 2.47%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                         | 1         | 1.23%   |
-| SanDisk unknown                                                                        | 1         | 1.23%   |
+| SanDisk PC SN530 NVMe SSD (DRAM-less)                                                  | 1         | 1.23%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                          | 1         | 1.23%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                          | 1         | 1.23%   |
 | Realtek NVMe Controller                                                                | 1         | 1.23%   |
@@ -2271,10 +2271,10 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 20        | 27.78%  |
 | 1333    | 9         | 12.5%   |
-| 2667    | 6         | 8.33%   |
-| 2400    | 6         | 8.33%   |
+| 2667    | 7         | 9.72%   |
 | 1067    | 6         | 8.33%   |
 | Unknown | 6         | 8.33%   |
+| 2400    | 5         | 6.94%   |
 | 1334    | 5         | 6.94%   |
 | 3200    | 4         | 5.56%   |
 | 2133    | 4         | 5.56%   |

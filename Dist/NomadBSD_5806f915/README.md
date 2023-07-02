@@ -1056,7 +1056,7 @@ Storage controller models
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 1.23%   |
 | Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
 | SK hynix hynix unknown                                                        | 1         | 1.23%   |
-| SK hynix BC511                                                                | 1         | 1.23%   |
+| SK hynix BC511 NVMe SSD                                                       | 1         | 1.23%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 1.23%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 1.23%   |
 | SanDisk PC SN520 NVMe SSD                                                     | 1         | 1.23%   |
@@ -1447,7 +1447,7 @@ Monitor models
 | LG Display LCD Monitor LGD034D 1366x768 340x190mm 15.3-inch              | 1         | 2.17%   |
 | LG Display LCD Monitor LGD01F7 1366x768 290x160mm 13.0-inch              | 1         | 2.17%   |
 | Hewlett-Packard 24fw HPN3545 1920x1080 530x300mm 24.0-inch               | 1         | 2.17%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 2.17%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                | 1         | 2.17%   |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                     | 1         | 2.17%   |
 | Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                      | 1         | 2.17%   |
 | Goldstar LG UltraFine GSM5B10 3840x2160 480x270mm 21.7-inch              | 1         | 2.17%   |
@@ -2077,7 +2077,7 @@ Memory module models
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s   | 1         | 1.47%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s   | 1         | 1.47%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s  | 1         | 1.47%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s   | 1         | 1.47%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 1.47%   |
 | Samsung RAM M393B5170FHD-CF8 4GB DIMM DDR3 1066MT/s     | 1         | 1.47%   |
 | Samsung RAM M378B1G73EB0-YK0 8GB DIMM DDR3 1600MT/s     | 1         | 1.47%   |
 | Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s | 1         | 1.47%   |
@@ -2143,21 +2143,21 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 14        | 23.33%  |
-| 3200    | 9         | 15%     |
-| 2400    | 8         | 13.33%  |
-| 2133    | 7         | 11.67%  |
-| 2667    | 5         | 8.33%   |
-| 1333    | 5         | 8.33%   |
-| 1334    | 2         | 3.33%   |
-| 667     | 2         | 3.33%   |
-| Unknown | 2         | 3.33%   |
-| 3600    | 1         | 1.67%   |
-| 2933    | 1         | 1.67%   |
-| 1066    | 1         | 1.67%   |
-| 975     | 1         | 1.67%   |
-| 800     | 1         | 1.67%   |
-| 533     | 1         | 1.67%   |
+| 1600    | 14        | 23.73%  |
+| 3200    | 9         | 15.25%  |
+| 2400    | 7         | 11.86%  |
+| 2133    | 7         | 11.86%  |
+| 2667    | 5         | 8.47%   |
+| 1333    | 5         | 8.47%   |
+| 1334    | 2         | 3.39%   |
+| 667     | 2         | 3.39%   |
+| Unknown | 2         | 3.39%   |
+| 3600    | 1         | 1.69%   |
+| 2933    | 1         | 1.69%   |
+| 1066    | 1         | 1.69%   |
+| 975     | 1         | 1.69%   |
+| 800     | 1         | 1.69%   |
+| 533     | 1         | 1.69%   |
 
 Printers & scanners
 -------------------

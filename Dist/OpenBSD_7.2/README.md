@@ -1131,7 +1131,7 @@ Storage controller vendors
 | Intel                     | 56        | 47.06%  |
 | Samsung Electronics       | 18        | 15.13%  |
 | AMD                       | 15        | 12.61%  |
-| SanDisk                   | 7         | 5.88%   |
+| Sandisk                   | 7         | 5.88%   |
 | Broadcom / LSI            | 5         | 4.2%    |
 | Micron/Crucial Technology | 3         | 2.52%   |
 | Marvell Technology Group  | 3         | 2.52%   |
@@ -1169,7 +1169,7 @@ Storage controller models
 | Samsung SM951 AHCI                                                             | 2         | 1.64%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.64%   |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 2         | 1.64%   |
-| Micron NVMe Storage Controller                                                 | 2         | 1.64%   |
+| Micron 2450 NVMe SSD (DRAM-less)                                               | 2         | 1.64%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 2         | 1.64%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.64%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 2         | 1.64%   |
@@ -2211,7 +2211,7 @@ Memory module models
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s  | 1         | 4%      |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 4%      |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s  | 1         | 4%      |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s | 1         | 4%      |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
@@ -2282,11 +2282,11 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 2400    | 3         | 14.29%  |
+| 2667    | 3         | 14.29%  |
 | 1334    | 3         | 14.29%  |
 | 1067    | 3         | 14.29%  |
 | Unknown | 3         | 14.29%  |
-| 2667    | 2         | 9.52%   |
+| 2400    | 2         | 9.52%   |
 | 1600    | 2         | 9.52%   |
 | 1333    | 2         | 9.52%   |
 | 4800    | 1         | 4.76%   |

@@ -876,7 +876,7 @@ Storage controller models
 | AMD 500 Series Chipset SATA Controller                                        | 2        | 5.56%   |
 | AMD 300 Series Chipset SATA Controller                                        | 2        | 5.56%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1        | 2.78%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                | 1        | 2.78%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1        | 2.78%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1        | 2.78%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                | 1        | 2.78%   |
 | Sandisk WD Black SN770 NVMe SSD                                               | 1        | 2.78%   |

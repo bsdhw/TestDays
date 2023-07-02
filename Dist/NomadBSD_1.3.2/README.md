@@ -1029,7 +1029,7 @@ Storage controller models
 | Intel SATA Controller [RAID mode]                                                | 1         | 1.45%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 1.45%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 1         | 1.45%   |
-| Intel Comet Lake PCH-LP SATA RAID Premium Controller                             | 1         | 1.45%   |
+| Intel Comet Lake RAID Controller                                                 | 1         | 1.45%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 1         | 1.45%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1         | 1.45%   |
 | Intel 82Q35 Express PT IDER Controller                                           | 1         | 1.45%   |
@@ -1413,8 +1413,8 @@ Monitor models
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
 | Hewlett-Packard HPQ 8300 AiO HWP4212 1920x1080 510x290mm 23.1-inch        | 1         | 2.08%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 2.08%   |
 | HannStar LCD Monitor HSD0013 1280x1024 380x300mm 19.1-inch                | 1         | 2.08%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                  | 1         | 2.08%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 480x270mm 21.7-inch                     | 1         | 2.08%   |
 | Dell U2414H DELA0A4 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |
 | Dell U2414H DELA0A2 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |

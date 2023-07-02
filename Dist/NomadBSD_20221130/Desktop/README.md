@@ -719,6 +719,7 @@ Storage controller models
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1        | 8.33%   |
+| Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                            | 1        | 8.33%   |
 | Nvidia MCP61 SATA Controller                                                   | 1        | 8.33%   |
 | Nvidia MCP61 IDE                                                               | 1        | 8.33%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                            | 1        | 8.33%   |
@@ -729,7 +730,6 @@ Storage controller models
 | Intel 7 Series/C210 Series Chipset Family 2-port SATA Controller [IDE mode]    | 1        | 8.33%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 1        | 8.33%   |
 | AMD 500 Series Chipset SATA Controller                                         | 1        | 8.33%   |
-| Unknown                                                                        | 1        | 8.33%   |
 
 Storage Kind
 ------------

@@ -519,7 +519,7 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 18        | 19.57%  |
+| 2013 | 19        | 20.65%  |
 | 2009 | 10        | 10.87%  |
 | 2018 | 8         | 8.7%    |
 | 2017 | 8         | 8.7%    |
@@ -527,8 +527,8 @@ Motherboard manufacture year
 | 2019 | 7         | 7.61%   |
 | 2016 | 7         | 7.61%   |
 | 2014 | 6         | 6.52%   |
-| 2015 | 5         | 5.43%   |
 | 2010 | 5         | 5.43%   |
+| 2015 | 4         | 4.35%   |
 | 2012 | 4         | 4.35%   |
 | 2008 | 3         | 3.26%   |
 | 2011 | 2         | 2.17%   |
@@ -1124,7 +1124,7 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 3         | 2.73%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                               | 2         | 1.82%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 1.82%   |
-| Intel Comet Lake PCH-LP SATA RAID Premium Controller                           | 2         | 1.82%   |
+| Intel Comet Lake RAID Controller                                               | 2         | 1.82%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2         | 1.82%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 1.82%   |
 | Toshiba XG6 NVMe SSD Controller                                                | 1         | 0.91%   |

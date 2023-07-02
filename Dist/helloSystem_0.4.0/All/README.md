@@ -652,7 +652,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2013 | 26        | 13.68%  |
+| 2013 | 27        | 14.21%  |
 | 2018 | 24        | 12.63%  |
 | 2020 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
@@ -662,8 +662,8 @@ Motherboard manufacture year
 | 2012 | 13        | 6.84%   |
 | 2017 | 12        | 6.32%   |
 | 2010 | 8         | 4.21%   |
-| 2015 | 7         | 3.68%   |
 | 2011 | 7         | 3.68%   |
+| 2015 | 6         | 3.16%   |
 | 2008 | 6         | 3.16%   |
 | 2021 | 2         | 1.05%   |
 | 2007 | 2         | 1.05%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| GOODRAM             | 2         | 2      | 0.71%   |
+| Goodram             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -1353,7 +1353,7 @@ Storage controller models
 | Kingston Company A2000 NVMe SSD                                                | 2         | 0.76%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                               | 2         | 0.76%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 0.76%   |
-| Intel Comet Lake PCH-LP SATA RAID Premium Controller                           | 2         | 0.76%   |
+| Intel Comet Lake RAID Controller                                               | 2         | 0.76%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 0.76%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 2         | 0.76%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                            | 2         | 0.76%   |

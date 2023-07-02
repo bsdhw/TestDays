@@ -965,7 +965,7 @@ Storage controller vendors
 | AMD                       | 12       | 24%     |
 | Samsung Electronics       | 6        | 12%     |
 | Broadcom / LSI            | 5        | 10%     |
-| SanDisk                   | 2        | 4%      |
+| Sandisk                   | 2        | 4%      |
 | Toshiba                   | 1        | 2%      |
 | Silicon Motion            | 1        | 2%      |
 | Seagate Technology        | 1        | 2%      |

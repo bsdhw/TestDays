@@ -570,13 +570,13 @@ Motherboard manufacture year
 | 2018 | 12        | 10.81%  |
 | 2010 | 10        | 9.01%   |
 | 2021 | 8         | 7.21%   |
-| 2015 | 8         | 7.21%   |
 | 2017 | 6         | 5.41%   |
+| 2015 | 6         | 5.41%   |
 | 2012 | 6         | 5.41%   |
 | 2008 | 5         | 4.5%    |
 | 2014 | 4         | 3.6%    |
+| 2013 | 4         | 3.6%    |
 | 2016 | 3         | 2.7%    |
-| 2013 | 2         | 1.8%    |
 | 2009 | 2         | 1.8%    |
 | 2022 | 1         | 0.9%    |
 | 2006 | 1         | 0.9%    |
@@ -1177,7 +1177,6 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 3         | 2.31%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 3         | 2.31%   |
 | Phison E12 NVMe Controller                                                       | 2         | 1.54%   |
-| Micron NVMe Storage Controller                                                   | 2         | 1.54%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 2         | 1.54%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 1.54%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 1.54%   |
@@ -1190,6 +1189,8 @@ Storage controller models
 | SanDisk PC SN520 NVMe SSD                                                        | 1         | 0.77%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 0.77%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 0.77%   |
+| Micron NVMe Storage Controller                                                   | 1         | 0.77%   |
+| Micron 2450 NVMe SSD (DRAM-less)                                                 | 1         | 0.77%   |
 | Kingston Company U-SNS8154P3 NVMe SSD                                            | 1         | 0.77%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 0.77%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 1         | 0.77%   |
@@ -1197,7 +1198,6 @@ Storage controller models
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 2 port SATA Controller [IDE mode]             | 1         | 0.77%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 1         | 0.77%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 1         | 0.77%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 1         | 0.77%   |
 
 Storage Kind
 ------------
@@ -1588,7 +1588,7 @@ Monitor models
 | LG Display LCD Monitor LGD0314 1366x768 290x160mm 13.0-inch            | 1         | 1.11%   |
 | LG Display LCD Monitor LGD02D9 1920x1080 340x190mm 15.3-inch           | 1         | 1.11%   |
 | LG Display LCD Monitor LGD0250 1366x768 350x190mm 15.7-inch            | 1         | 1.11%   |
-| LG Display LCD Monitor LGD0214 1600x900 350x190mm 15.7-inch            | 1         | 1.11%   |
+| LG Display LCD Monitor LGD0214 1600x900 340x190mm 15.3-inch            | 1         | 1.11%   |
 | Lenovo LCD Monitor LEN40C1 1280x720 220x130mm 10.1-inch                | 1         | 1.11%   |
 | Lenovo LCD Monitor LEN4040 1024x768 300x230mm 14.9-inch                | 1         | 1.11%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch                | 1         | 1.11%   |
@@ -1597,7 +1597,7 @@ Monitor models
 | Iiyama PL2474H IVM6146 1920x1080 520x290mm 23.4-inch                   | 1         | 1.11%   |
 | Hewlett-Packard 24xw HWP3256 1920x1080 530x300mm 24.0-inch             | 1         | 1.11%   |
 | Hewlett-Packard 24ea HPN3393 1920x1080 530x300mm 24.0-inch             | 1         | 1.11%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch               | 1         | 1.11%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch              | 1         | 1.11%   |
 | Goldstar LG ULTRAWIDE GSM5AFB 2560x1080 800x340mm 34.2-inch            | 1         | 1.11%   |
 | CPT LCD Monitor CPT04C4 1024x600 230x140mm 10.6-inch                   | 1         | 1.11%   |
 | Chimei Innolux LCD Monitor CMN15DB 1366x768 340x190mm 15.3-inch        | 1         | 1.11%   |
@@ -2234,7 +2234,7 @@ Memory module models
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s  | 1         | 0.67%   |
 | SK hynix RAM HMT112S6BFR6C-G7 1GB SODIMM DDR3 533MT/s   | 1         | 0.67%   |
 | SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2667MT/s  | 1         | 0.67%   |
-| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2133MT/s  | 1         | 0.67%   |
+| SK hynix RAM HMA851S6CJR6N-VK 4GB SODIMM DDR4 2400MT/s  | 1         | 0.67%   |
 
 Memory Kind
 -----------
@@ -2299,9 +2299,9 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 30        | 22.9%   |
-| 2667    | 21        | 16.03%  |
+| 2667    | 22        | 16.79%  |
 | 2400    | 17        | 12.98%  |
-| 2133    | 12        | 9.16%   |
+| 2133    | 11        | 8.4%    |
 | 3200    | 9         | 6.87%   |
 | 1333    | 9         | 6.87%   |
 | 1067    | 6         | 4.58%   |

@@ -1064,7 +1064,6 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 3        | 3%      |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 3        | 3%      |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 3        | 3%      |
-| Unknown                                                                        | 3        | 3%      |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2        | 2%      |
 | Nvidia MCP61 SATA Controller                                                   | 2        | 2%      |
 | Nvidia MCP61 IDE                                                               | 2        | 2%      |
@@ -1077,11 +1076,13 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 2        | 2%      |
 | Intel 4 Series Chipset PT IDER Controller                                      | 2        | 2%      |
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 2%      |
+| Unknown                                                                        | 2        | 2%      |
 | VIA VT6421 IDE/SATA Controller                                                 | 1        | 1%      |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1        | 1%      |
 | SanDisk PC SN520 NVMe SSD                                                      | 1        | 1%      |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 1%      |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 1%      |
+| Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                            | 1        | 1%      |
 | Nvidia MCP73 SATA Controller (IDE mode)                                        | 1        | 1%      |
 | Nvidia MCP73 IDE Controller                                                    | 1        | 1%      |
 | Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 1%      |
@@ -1093,7 +1094,6 @@ Storage controller models
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 1%      |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 1        | 1%      |
 | Intel C600/X79 series chipset SATA RAID Controller                             | 1        | 1%      |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 1        | 1%      |
 
 Storage Kind
 ------------

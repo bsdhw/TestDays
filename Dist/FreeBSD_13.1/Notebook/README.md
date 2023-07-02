@@ -580,11 +580,11 @@ Motherboard manufacture year
 | 2011 | 8         | 7.08%   |
 | 2012 | 7         | 6.19%   |
 | 2016 | 6         | 5.31%   |
-| 2015 | 5         | 4.42%   |
 | 2017 | 4         | 3.54%   |
+| 2015 | 4         | 3.54%   |
+| 2013 | 4         | 3.54%   |
 | 2010 | 4         | 3.54%   |
 | 2014 | 3         | 2.65%   |
-| 2013 | 3         | 2.65%   |
 | 2009 | 3         | 2.65%   |
 | 2008 | 2         | 1.77%   |
 | 2023 | 1         | 0.88%   |
@@ -1200,16 +1200,15 @@ Storage controller models
 | Unknown                                                                        | 5         | 3.52%   |
 | Samsung NVMe SSD Controller 980                                                | 4         | 2.82%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 4         | 2.82%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                 | 3         | 2.11%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 3         | 2.11%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 3         | 2.11%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 3         | 2.11%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 2.11%   |
 | KIOXIA NVMe SSD Controller BG4                                                 | 3         | 2.11%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 3         | 2.11%   |
-| Solid State Storage CL1                                                        | 2         | 1.41%   |
-| SK hynix BC511                                                                 | 2         | 1.41%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 1.41%   |
+| SK hynix BC511 NVMe SSD                                                        | 2         | 1.41%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 2         | 1.41%   |
-| SanDisk unknown                                                                | 2         | 1.41%   |
 | Intel Tiger Lake-LP SATA Controller                                            | 2         | 1.41%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.41%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.41%   |
@@ -1219,6 +1218,8 @@ Storage controller models
 | Toshiba XG5 NVMe SSD Controller                                                | 1         | 0.7%    |
 | Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.7%    |
 | SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1         | 0.7%    |
+| SanDisk unknown                                                                | 1         | 0.7%    |
+| SanDisk PC SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.7%    |
 | Samsung SM951 AHCI                                                             | 1         | 0.7%    |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.7%    |
 | Realtek NVMe Controller                                                        | 1         | 0.7%    |
@@ -1228,7 +1229,6 @@ Storage controller models
 | Micron/Crucial NVMe Storage Controller                                         | 1         | 0.7%    |
 | Micron NVMe Storage Controller                                                 | 1         | 0.7%    |
 | Kingston Company SNVS2000G [NV1 NVMe PCIe SSD 2TB]                             | 1         | 0.7%    |
-| Kingston Company OM3PDP3 NVMe SSD                                              | 1         | 0.7%    |
 
 Storage Kind
 ------------
@@ -1626,7 +1626,7 @@ Monitor models
 | Lenovo LEN T32h-20 LEN61F1 2560x1440 700x390mm 31.5-inch              | 1         | 1.18%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch              | 1         | 1.18%   |
 | JDI LCD Monitor JDI385A 3840x2160 290x170mm 13.2-inch                 | 1         | 1.18%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch              | 1         | 1.18%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch             | 1         | 1.18%   |
 | CSO LCD Monitor CSO1400 3840x2160 310x170mm 13.9-inch                 | 1         | 1.18%   |
 
 Monitor Resolution

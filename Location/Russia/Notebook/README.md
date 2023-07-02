@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 265
+Total: 266
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | 250 G6 Notebook PC          | [f7df283c94](https://bsd-hardware.info/?probe=f7df283c94) | Jun 24, 2023 |
 | Lenovo        | ThinkBook 14 G4+ ARA 21D... | [27ba75252a](https://bsd-hardware.info/?probe=27ba75252a) | Jun 09, 2023 |
 | ASUSTek       | 1015BX                      | [ad05aaf9fe](https://bsd-hardware.info/?probe=ad05aaf9fe) | Jun 07, 2023 |
 | HP            | Pavilion Notebook           | [1bb0436fe5](https://bsd-hardware.info/?probe=1bb0436fe5) | May 30, 2023 |
@@ -430,36 +431,36 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 15        | 8.15%   |
-| helloSystem 0.8.1    | 12        | 6.52%   |
-| OpenBSD 6.8          | 10        | 5.43%   |
-| helloSystem 0.8.0    | 10        | 5.43%   |
-| FreeBSD 13.1         | 10        | 5.43%   |
-| FreeBSD 14.0-CURRENT | 8         | 4.35%   |
-| NomadBSD 1.3.2       | 7         | 3.8%    |
-| FreeBSD 13.1-p5      | 7         | 3.8%    |
-| FreeBSD 13.0         | 6         | 3.26%   |
-| OpenBSD 7.1          | 5         | 2.72%   |
-| FreeBSD 13.0-CURRENT | 5         | 2.72%   |
-| NomadBSD 5806f915    | 4         | 2.17%   |
-| helloSystem 0.8.2    | 4         | 2.17%   |
-| helloSystem 0.6.0    | 4         | 2.17%   |
-| FreeBSD 13.2         | 4         | 2.17%   |
-| FreeBSD 12.1-STABLE  | 4         | 2.17%   |
-| OpenBSD 6.9          | 3         | 1.63%   |
-| GhostBSD 20.04.02    | 3         | 1.63%   |
-| FreeBSD 13.2-RC3     | 3         | 1.63%   |
-| FreeBSD 13.1-p1      | 3         | 1.63%   |
-| FreeBSD 12.2-p4      | 3         | 1.63%   |
-| OpenBSD 7.2          | 2         | 1.09%   |
-| OpenBSD 6.7          | 2         | 1.09%   |
-| FreeBSD 13.0-p3      | 2         | 1.09%   |
-| FreeBSD 12.3-STABLE  | 2         | 1.09%   |
-| FreeBSD 12.2-STABLE  | 2         | 1.09%   |
-| FreeBSD 12.2-p3      | 2         | 1.09%   |
-| FreeBSD 12.1-p8      | 2         | 1.09%   |
-| FreeBSD 12.1-p7      | 2         | 1.09%   |
-| FreeBSD 12.1-p5      | 2         | 1.09%   |
+| helloSystem 0.7.0    | 15        | 8.11%   |
+| helloSystem 0.8.1    | 12        | 6.49%   |
+| OpenBSD 6.8          | 10        | 5.41%   |
+| helloSystem 0.8.0    | 10        | 5.41%   |
+| FreeBSD 13.1         | 10        | 5.41%   |
+| FreeBSD 14.0-CURRENT | 8         | 4.32%   |
+| NomadBSD 1.3.2       | 7         | 3.78%   |
+| FreeBSD 13.1-p5      | 7         | 3.78%   |
+| FreeBSD 13.0         | 6         | 3.24%   |
+| OpenBSD 7.1          | 5         | 2.7%    |
+| helloSystem 0.8.2    | 5         | 2.7%    |
+| FreeBSD 13.0-CURRENT | 5         | 2.7%    |
+| NomadBSD 5806f915    | 4         | 2.16%   |
+| helloSystem 0.6.0    | 4         | 2.16%   |
+| FreeBSD 13.2         | 4         | 2.16%   |
+| FreeBSD 12.1-STABLE  | 4         | 2.16%   |
+| OpenBSD 6.9          | 3         | 1.62%   |
+| GhostBSD 20.04.02    | 3         | 1.62%   |
+| FreeBSD 13.2-RC3     | 3         | 1.62%   |
+| FreeBSD 13.1-p1      | 3         | 1.62%   |
+| FreeBSD 12.2-p4      | 3         | 1.62%   |
+| OpenBSD 7.2          | 2         | 1.08%   |
+| OpenBSD 6.7          | 2         | 1.08%   |
+| FreeBSD 13.0-p3      | 2         | 1.08%   |
+| FreeBSD 12.3-STABLE  | 2         | 1.08%   |
+| FreeBSD 12.2-STABLE  | 2         | 1.08%   |
+| FreeBSD 12.2-p3      | 2         | 1.08%   |
+| FreeBSD 12.1-p8      | 2         | 1.08%   |
+| FreeBSD 12.1-p7      | 2         | 1.08%   |
+| FreeBSD 12.1-p5      | 2         | 1.08%   |
 | OS108 9.0            | 1         | 0.54%   |
 | OpenBSD 7.3          | 1         | 0.54%   |
 | OpenBSD 7.0          | 1         | 0.54%   |
@@ -513,17 +514,17 @@ Desktop Environment
 
 | Name          | Notebooks | Percent |
 |---------------|-----------|---------|
-| helloDesktop  | 50        | 29.07%  |
-| KDE5          | 23        | 13.37%  |
-| Console       | 17        | 9.88%   |
-| XFCE          | 16        | 9.3%    |
-| Openbox       | 13        | 7.56%   |
-| fvwm          | 13        | 7.56%   |
-| GNOME         | 9         | 5.23%   |
-| MATE          | 8         | 4.65%   |
-| TWM           | 6         | 3.49%   |
-| IceWM         | 3         | 1.74%   |
-| i3            | 3         | 1.74%   |
+| helloDesktop  | 51        | 29.48%  |
+| KDE5          | 23        | 13.29%  |
+| Console       | 17        | 9.83%   |
+| XFCE          | 16        | 9.25%   |
+| Openbox       | 13        | 7.51%   |
+| fvwm          | 13        | 7.51%   |
+| GNOME         | 9         | 5.2%    |
+| MATE          | 8         | 4.62%   |
+| TWM           | 6         | 3.47%   |
+| IceWM         | 3         | 1.73%   |
+| i3            | 3         | 1.73%   |
 | LXQt          | 2         | 1.16%   |
 | LXDE          | 2         | 1.16%   |
 | AwesomeWM     | 2         | 1.16%   |
@@ -576,11 +577,11 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| ru_RU   | 57        | 33.33%  |
-| en_US   | 42        | 24.56%  |
-| C       | 33        | 19.3%   |
-| Unknown | 31        | 18.13%  |
-| ru      | 4         | 2.34%   |
+| ru_RU   | 58        | 33.72%  |
+| en_US   | 42        | 24.42%  |
+| C       | 33        | 19.19%  |
+| Unknown | 31        | 18.02%  |
+| ru      | 4         | 2.33%   |
 | en_GB   | 1         | 0.58%   |
 | en_EN   | 1         | 0.58%   |
 | en      | 1         | 0.58%   |
@@ -879,10 +880,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 121       | 71.6%   |
-| 2      | 37        | 21.89%  |
-| 0      | 6         | 3.55%   |
-| 4      | 3         | 1.78%   |
+| 1      | 122       | 71.76%  |
+| 2      | 37        | 21.76%  |
+| 0      | 6         | 3.53%   |
+| 4      | 3         | 1.76%   |
 | 3      | 2         | 1.18%   |
 
 Has CD-ROM
@@ -962,18 +963,18 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Moscow           | 61        | 36.75%  |
-| St Petersburg    | 19        | 11.45%  |
-| Vladivostok      | 6         | 3.61%   |
-| Yekaterinburg    | 5         | 3.01%   |
-| Novosibirsk      | 5         | 3.01%   |
-| Ulyanovsk        | 4         | 2.41%   |
-| Ufa              | 3         | 1.81%   |
-| Tyumen           | 3         | 1.81%   |
-| Tolyatti         | 3         | 1.81%   |
-| Perm             | 3         | 1.81%   |
-| Krasnoyarsk      | 3         | 1.81%   |
-| Chelyabinsk      | 3         | 1.81%   |
+| Moscow           | 61        | 36.53%  |
+| St Petersburg    | 19        | 11.38%  |
+| Vladivostok      | 6         | 3.59%   |
+| Yekaterinburg    | 5         | 2.99%   |
+| Novosibirsk      | 5         | 2.99%   |
+| Ulyanovsk        | 4         | 2.4%    |
+| Ufa              | 3         | 1.8%    |
+| Tyumen           | 3         | 1.8%    |
+| Tolyatti         | 3         | 1.8%    |
+| Perm             | 3         | 1.8%    |
+| Krasnoyarsk      | 3         | 1.8%    |
+| Chelyabinsk      | 3         | 1.8%    |
 | Tsarskoye Selo   | 2         | 1.2%    |
 | Krasnodar        | 2         | 1.2%    |
 | Kirov            | 2         | 1.2%    |
@@ -1017,7 +1018,7 @@ Hard drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | WDC                 | 35        | 43     | 18.04%  |
-| Seagate             | 21        | 24     | 10.82%  |
+| Seagate             | 21        | 25     | 10.82%  |
 | Samsung Electronics | 21        | 25     | 10.82%  |
 | Toshiba             | 14        | 15     | 7.22%   |
 | SanDisk             | 11        | 13     | 5.67%   |
@@ -1119,7 +1120,7 @@ Hard disk drive vendors
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
 | WDC                 | 21        | 23     | 27.27%  |
-| Seagate             | 21        | 24     | 27.27%  |
+| Seagate             | 21        | 25     | 27.27%  |
 | Toshiba             | 13        | 14     | 16.88%  |
 | Hitachi             | 11        | 13     | 14.29%  |
 | HGST                | 5         | 7      | 6.49%   |
@@ -1174,7 +1175,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 70        | 87     | 38.67%  |
+| HDD  | 70        | 88     | 38.67%  |
 | SSD  | 63        | 84     | 34.81%  |
 | NVMe | 48        | 56     | 26.52%  |
 
@@ -1188,7 +1189,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 119       | 171    | 71.26%  |
+| SATA | 119       | 172    | 71.26%  |
 | NVMe | 48        | 56     | 28.74%  |
 
 Drive Size
@@ -1202,7 +1203,7 @@ Size of hard drive
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
 | 0.01-0.5        | 98        | 134    | 74.81%  |
-| 0.51-1.0        | 29        | 33     | 22.14%  |
+| 0.51-1.0        | 29        | 34     | 22.14%  |
 | 1.01-2.0        | 3         | 3      | 2.29%   |
 | More than 100.0 | 1         | 1      | 0.76%   |
 
@@ -1373,7 +1374,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 132       | 184    | 75.86%  |
+| Works    | 132       | 185    | 75.86%  |
 | Malfunc  | 35        | 36     | 20.11%  |
 | Detected | 5         | 5      | 2.87%   |
 | Failed   | 2         | 2      | 1.15%   |
@@ -1442,12 +1443,12 @@ Storage controller models
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 4         | 2.04%   |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                           | 4         | 2.04%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 4         | 2.04%   |
-| SanDisk NVMe Controller                                                          | 3         | 1.53%   |
+| SanDisk PC SN530 NVMe SSD                                                        | 3         | 1.53%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 3         | 1.53%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 3         | 1.53%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 3         | 1.53%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 3         | 1.53%   |
-| SK hynix BC511                                                                   | 2         | 1.02%   |
+| SK hynix BC511 NVMe SSD                                                          | 2         | 1.02%   |
 | Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 2         | 1.02%   |
 | Realtek NVMe Controller                                                          | 2         | 1.02%   |
 | Phison PS5013 E13 NVMe Controller                                                | 2         | 1.02%   |
@@ -1461,9 +1462,9 @@ Storage controller models
 | Intel 82801DBM (ICH4-M) IDE Controller                                           | 2         | 1.02%   |
 | Intel 82801CAM IDE U100 Controller                                               | 2         | 1.02%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.51%   |
-| Solid State Storage CL1                                                          | 1         | 0.51%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                   | 1         | 0.51%   |
 | SK hynix hynix unknown                                                           | 1         | 0.51%   |
-| SK hynix Gold P31/PC711 NVMe Solid State Drive                                   | 1         | 0.51%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                             | 1         | 0.51%   |
 
 Storage Kind
 ------------
@@ -1844,7 +1845,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch     | 2         | 1.71%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 220x130mm 10.1-inch     | 2         | 1.71%   |
 | HKC LCD Monitor HKC3D05 1920x1080 340x190mm 15.3-inch                    | 2         | 1.71%   |
-| HannStar HSD101PFW2 HSD03E9 1024x600 220x130mm 10.1-inch                 | 2         | 1.71%   |
+| HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                | 2         | 1.71%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch         | 2         | 1.71%   |
 | Chi Mei Optoelectronics LCD Monitor CMO1457 1366x768 310x170mm 13.9-inch | 2         | 1.71%   |
 | BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                    | 2         | 1.71%   |
@@ -2323,8 +2324,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 162       | 98.18%  |
-| Yes  | 3         | 1.82%   |
+| No   | 162       | 97.59%  |
+| Yes  | 4         | 2.41%   |
 
 Bluetooth
 ---------
@@ -2534,7 +2535,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 3         | 1.63%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 3         | 1.63%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s                     | 3         | 1.63%   |
-| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2400MT/s                     | 3         | 1.63%   |
+| Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s                     | 3         | 1.63%   |
 | Micron RAM 4ATF1G64HZ-3G2E1 8GB Row Of Chips DDR4 3200MT/s                | 3         | 1.63%   |
 | 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 3         | 1.63%   |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 2         | 1.09%   |
@@ -2636,25 +2637,25 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 3200    | 25        | 16.34%  |
-| 1600    | 23        | 15.03%  |
-| 2667    | 22        | 14.38%  |
-| 2400    | 14        | 9.15%   |
-| 1333    | 12        | 7.84%   |
-| 667     | 12        | 7.84%   |
-| Unknown | 11        | 7.19%   |
-| 2133    | 7         | 4.58%   |
-| 1867    | 7         | 4.58%   |
-| 800     | 6         | 3.92%   |
-| 1067    | 4         | 2.61%   |
-| 6400    | 2         | 1.31%   |
-| 1334    | 2         | 1.31%   |
-| 4800    | 1         | 0.65%   |
-| 2933    | 1         | 0.65%   |
-| 2048    | 1         | 0.65%   |
-| 975     | 1         | 0.65%   |
-| 266     | 1         | 0.65%   |
-| 100     | 1         | 0.65%   |
+| 3200    | 25        | 16.03%  |
+| 2667    | 25        | 16.03%  |
+| 1600    | 23        | 14.74%  |
+| 2400    | 14        | 8.97%   |
+| 1333    | 12        | 7.69%   |
+| 667     | 12        | 7.69%   |
+| Unknown | 11        | 7.05%   |
+| 2133    | 7         | 4.49%   |
+| 1867    | 7         | 4.49%   |
+| 800     | 6         | 3.85%   |
+| 1067    | 4         | 2.56%   |
+| 6400    | 2         | 1.28%   |
+| 1334    | 2         | 1.28%   |
+| 4800    | 1         | 0.64%   |
+| 2933    | 1         | 0.64%   |
+| 2048    | 1         | 0.64%   |
+| 975     | 1         | 0.64%   |
+| 266     | 1         | 0.64%   |
+| 100     | 1         | 0.64%   |
 
 Printers & scanners
 -------------------
@@ -2853,16 +2854,16 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 1     | 63        | 35.8%   |
-| 2     | 43        | 24.43%  |
-| 0     | 25        | 14.2%   |
-| 3     | 21        | 11.93%  |
-| 4     | 18        | 10.23%  |
-| 5     | 2         | 1.14%   |
-| 9     | 1         | 0.57%   |
-| 8     | 1         | 0.57%   |
-| 7     | 1         | 0.57%   |
-| 6     | 1         | 0.57%   |
+| 1     | 64        | 36.16%  |
+| 2     | 43        | 24.29%  |
+| 0     | 25        | 14.12%  |
+| 3     | 21        | 11.86%  |
+| 4     | 18        | 10.17%  |
+| 5     | 2         | 1.13%   |
+| 9     | 1         | 0.56%   |
+| 8     | 1         | 0.56%   |
+| 7     | 1         | 0.56%   |
+| 6     | 1         | 0.56%   |
 
 Unsupported Device Types
 ------------------------

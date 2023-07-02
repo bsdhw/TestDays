@@ -1468,45 +1468,45 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                             | Notebooks | Percent |
-|-----------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                 | 9         | 14.52%  |
-| Intel Wireless 8260                                                               | 4         | 6.45%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                               | 3         | 4.84%   |
-| Intel Wireless 7260                                                               | 3         | 4.84%   |
-| Intel Ethernet Connection I219-LM                                                 | 3         | 4.84%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                          | 2         | 3.23%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                    | 2         | 3.23%   |
-| Intel Wireless 7265                                                               | 2         | 3.23%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                   | 2         | 3.23%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                                      | 2         | 3.23%   |
-| Intel Centrino Advanced-N 6200                                                    | 2         | 3.23%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                             | 2         | 3.23%   |
-| Intel 82577LM Gigabit Network Connection                                          | 2         | 3.23%   |
-| Sierra Wireless EM7345 4G LTE                                                     | 1         | 1.61%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                                            | 1         | 1.61%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                             | 1         | 1.61%   |
-| Ralink RT5370 Wireless Adapter                                                    | 1         | 1.61%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                        | 1         | 1.61%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                                  | 1         | 1.61%   |
-| JMicron JMC250 PCI Express Gigabit Ethernet Controller                            | 1         | 1.61%   |
-| Intel Wireless-AC 9260                                                            | 1         | 1.61%   |
-| Intel WiFi Link 5100                                                              | 1         | 1.61%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                            | 1         | 1.61%   |
-| Intel I211 Gigabit Network Connection                                             | 1         | 1.61%   |
-| Intel Ethernet Connection I219-V                                                  | 1         | 1.61%   |
-| Intel Ethernet Connection I218-LM                                                 | 1         | 1.61%   |
-| Intel Ethernet Connection (6) I219-LM                                             | 1         | 1.61%   |
-| Intel Ethernet Connection (3) I218-LM                                             | 1         | 1.61%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                  | 1         | 1.61%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                                 | 1         | 1.61%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                                          | 1         | 1.61%   |
-| Intel 82567LM Gigabit Network Connection                                          | 1         | 1.61%   |
-| Intel 82566MM Gigabit Network Connection                                          | 1         | 1.61%   |
-| Google Pixel 6a CDC Network Control Model (NCM) CDC Network Data CDC Network Data | 1         | 1.61%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                    | 1         | 1.61%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                                | 1         | 1.61%   |
-| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0                         | 1         | 1.61%   |
+| Model                                                                                | Notebooks | Percent |
+|--------------------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                    | 9         | 14.52%  |
+| Intel Wireless 8260                                                                  | 4         | 6.45%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                                  | 3         | 4.84%   |
+| Intel Wireless 7260                                                                  | 3         | 4.84%   |
+| Intel Ethernet Connection I219-LM                                                    | 3         | 4.84%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                             | 2         | 3.23%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                       | 2         | 3.23%   |
+| Intel Wireless 7265                                                                  | 2         | 3.23%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                                      | 2         | 3.23%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                                         | 2         | 3.23%   |
+| Intel Centrino Advanced-N 6200                                                       | 2         | 3.23%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                                | 2         | 3.23%   |
+| Intel 82577LM Gigabit Network Connection                                             | 2         | 3.23%   |
+| Sierra Wireless EM7345 4G LTE                                                        | 1         | 1.61%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                                               | 1         | 1.61%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                                | 1         | 1.61%   |
+| Ralink RT5370 Wireless Adapter                                                       | 1         | 1.61%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                           | 1         | 1.61%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                                     | 1         | 1.61%   |
+| JMicron JMC250 PCI Express Gigabit Ethernet Controller                               | 1         | 1.61%   |
+| Intel Wireless-AC 9260                                                               | 1         | 1.61%   |
+| Intel WiFi Link 5100                                                                 | 1         | 1.61%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                               | 1         | 1.61%   |
+| Intel I211 Gigabit Network Connection                                                | 1         | 1.61%   |
+| Intel Ethernet Connection I219-V                                                     | 1         | 1.61%   |
+| Intel Ethernet Connection I218-LM                                                    | 1         | 1.61%   |
+| Intel Ethernet Connection (6) I219-LM                                                | 1         | 1.61%   |
+| Intel Ethernet Connection (3) I218-LM                                                | 1         | 1.61%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                     | 1         | 1.61%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                                    | 1         | 1.61%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                                             | 1         | 1.61%   |
+| Intel 82567LM Gigabit Network Connection                                             | 1         | 1.61%   |
+| Intel 82566MM Gigabit Network Connection                                             | 1         | 1.61%   |
+| Google Pixel 6 Pro CDC Network Control Model (NCM) CDC Network Data CDC Network Data | 1         | 1.61%   |
+| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]                       | 1         | 1.61%   |
+| Broadcom BCM4360 802.11ac Wireless Network Adapter                                   | 1         | 1.61%   |
+| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0                            | 1         | 1.61%   |
 
 Wireless Vendor
 ---------------
