@@ -725,7 +725,7 @@ Storage controller models
 | Model                                                                        | Notebooks | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
 | Toshiba XG6 NVMe SSD Controller                                              | 1         | 12.5%   |
-| SK hynix hynix unknown                                                       | 1         | 12.5%   |
+| SK hynix PC601 NVMe Solid State Drive                                        | 1         | 12.5%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 1         | 12.5%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 1         | 12.5%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                 | 1         | 12.5%   |

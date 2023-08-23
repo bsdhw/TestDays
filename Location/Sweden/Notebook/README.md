@@ -973,10 +973,11 @@ Storage controller models
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 2         | 5.13%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                               | 2         | 5.13%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                 | 2         | 5.13%   |
+| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                | 1         | 2.56%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                   | 1         | 2.56%   |
 | SanDisk PC SN520 NVMe SSD                                                    | 1         | 2.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                | 1         | 2.56%   |
-| Realtek NVMe Controller                                                      | 1         | 2.56%   |
+| Realtek RTS5763DL x2 NVMe SSD Controller                                     | 1         | 2.56%   |
 | Phison E18 PCIe4 NVMe Controller                                             | 1         | 2.56%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                   | 1         | 2.56%   |
 | Kingston Company unknown                                                     | 1         | 2.56%   |
@@ -993,7 +994,6 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                | 1         | 2.56%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller               | 1         | 2.56%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                | 1         | 2.56%   |
-| Unknown                                                                      | 1         | 2.56%   |
 
 Storage Kind
 ------------

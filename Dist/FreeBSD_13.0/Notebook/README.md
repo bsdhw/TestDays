@@ -1189,15 +1189,15 @@ Storage controller models
 | SanDisk PC SN520 NVMe SSD                                                        | 1         | 0.77%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 0.77%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 0.77%   |
-| Micron NVMe Storage Controller                                                   | 1         | 0.77%   |
-| Micron 2450 NVMe SSD (DRAM-less)                                                 | 1         | 0.77%   |
+| Micron 3400 NVMe SSD [Hendrix]                                                   | 1         | 0.77%   |
+| Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                      | 1         | 0.77%   |
 | Kingston Company U-SNS8154P3 NVMe SSD                                            | 1         | 0.77%   |
+| Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                    | 1         | 0.77%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 0.77%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 1         | 0.77%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1         | 0.77%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 2 port SATA Controller [IDE mode]             | 1         | 0.77%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                    | 1         | 0.77%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                 | 1         | 0.77%   |
 
 Storage Kind
 ------------
@@ -2200,7 +2200,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s   | 4         | 2.68%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 3         | 2.01%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s  | 3         | 2.01%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s   | 3         | 2.01%   |
+| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s  | 3         | 2.01%   |
 | Unknown                                                 | 3         | 2.01%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s              | 2         | 1.34%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 1.34%   |

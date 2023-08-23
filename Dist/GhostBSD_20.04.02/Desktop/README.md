@@ -455,9 +455,9 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 11       | 24.44%  |
-| 2019 | 6        | 13.33%  |
+| 2019 | 7        | 15.56%  |
 | 2012 | 6        | 13.33%  |
-| 2020 | 4        | 8.89%   |
+| 2020 | 3        | 6.67%   |
 | 2014 | 3        | 6.67%   |
 | 2013 | 3        | 6.67%   |
 | 2008 | 3        | 6.67%   |
@@ -729,7 +729,7 @@ Hard drive models
 | WDC WD10EZEX-21M2NA0 1TB           | 2        | 2.04%   |
 | Toshiba Q300 480GB                 | 2        | 2.04%   |
 | Toshiba HDWD120 2TB                | 2        | 2.04%   |
-| Seagate ST500DM002-1BD142 500GB    | 2        | 2.04%   |
+| Seagate ST500DM002-1BD142 496GB    | 2        | 2.04%   |
 | Samsung SSD 860 QVO 1TB            | 2        | 2.04%   |
 | Maxtor STM3320613AS 320GB          | 2        | 2.04%   |
 | Crucial CT250MX500SSD1 250GB       | 2        | 2.04%   |
@@ -898,7 +898,7 @@ Drive models with a malfunction
 | Maxtor STM3320613AS 320GB       | 2        | 2      | 20%     |
 | WDC WD5000AAKS-60WWPA0 500GB    | 1        | 1      | 10%     |
 | WDC WD10EZEX-21M2NA0 1TB        | 1        | 1      | 10%     |
-| Seagate ST500DM002-1BD142 500GB | 1        | 1      | 10%     |
+| Seagate ST500DM002-1BD142 496GB | 1        | 1      | 10%     |
 | Seagate ST31500541AS 1.5TB      | 1        | 1      | 10%     |
 | Samsung Electronics HD103SJ 1TB | 1        | 2      | 10%     |
 | OCZ AGILITY3 240GB              | 1        | 1      | 10%     |
@@ -1032,13 +1032,13 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                                   | 2        | 2.56%   |
 | AMD FCH SATA Controller [IDE mode]                                                      | 2        | 2.56%   |
 | AMD FCH SATA Controller D                                                               | 2        | 2.56%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1        | 1.28%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 1.28%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.28%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.28%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.28%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.28%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.28%   |
-| Micron/Crucial NVMe Storage Controller                                                  | 1        | 1.28%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 1.28%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.28%   |
 | Kingston Company A2000 NVMe SSD                                                         | 1        | 1.28%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.28%   |
@@ -1424,7 +1424,7 @@ Monitor models
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                   | 1        | 2.04%   |
 | Goldstar W1934 GSM4B7A 1440x900 410x260mm 19.1-inch                    | 1        | 2.04%   |
 | Goldstar LG ULTRAWIDE GSM76FA 2560x1080 800x340mm 34.2-inch            | 1        | 2.04%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch            | 1        | 2.04%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 1        | 2.04%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 2.04%   |
 | Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch              | 1        | 2.04%   |
 | Goldstar E2241 GSM5818 1920x1080 480x270mm 21.7-inch                   | 1        | 2.04%   |

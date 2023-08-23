@@ -773,7 +773,7 @@ Hard drive models
 | WDC WD40PURX-64GVNY0 4TB                  | 2        | 2.04%   |
 | WDC WD1600AAJS-22L7A0 160GB               | 2        | 2.04%   |
 | Toshiba HDWD120 2TB                       | 2        | 2.04%   |
-| Seagate ST500DM002-1BD142 500GB           | 2        | 2.04%   |
+| Seagate ST500DM002-1BD142 496GB           | 2        | 2.04%   |
 | Samsung SSD 970 EVO Plus 1TB              | 2        | 2.04%   |
 | Samsung SSD 970 EVO 500GB                 | 2        | 2.04%   |
 | Samsung SSD 870 QVO 2TB                   | 2        | 2.04%   |
@@ -937,7 +937,7 @@ Drive models with a malfunction
 | Toshiba HDWD120 2TB               | 1        | 1      | 9.09%   |
 | Toshiba DT01ABA300 3TB            | 1        | 1      | 9.09%   |
 | Seagate ST9250315AS 250GB         | 1        | 1      | 9.09%   |
-| Seagate ST500DM002-1BD142 500GB   | 1        | 1      | 9.09%   |
+| Seagate ST500DM002-1BD142 496GB   | 1        | 1      | 9.09%   |
 | Seagate ST3250823AS 250GB         | 1        | 1      | 9.09%   |
 | Seagate ST310212A 10GB            | 1        | 1      | 9.09%   |
 | Samsung Electronics HM160HI 160GB | 1        | 1      | 9.09%   |
@@ -1075,19 +1075,19 @@ Storage controller models
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                           | 2        | 2%      |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 2        | 2%      |
 | Intel 4 Series Chipset PT IDER Controller                                      | 2        | 2%      |
+| Biwin Storage EX950 NVMe SSD                                                   | 2        | 2%      |
 | AMD 400 Series Chipset SATA Controller                                         | 2        | 2%      |
-| Unknown                                                                        | 2        | 2%      |
 | VIA VT6421 IDE/SATA Controller                                                 | 1        | 1%      |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1        | 1%      |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 1%      |
 | SanDisk PC SN520 NVMe SSD                                                      | 1        | 1%      |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 1%      |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 1%      |
 | Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                            | 1        | 1%      |
 | Nvidia MCP73 SATA Controller (IDE mode)                                        | 1        | 1%      |
 | Nvidia MCP73 IDE Controller                                                    | 1        | 1%      |
-| Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 1%      |
-| Micron/Crucial P1 NVMe PCIe SSD                                                | 1        | 1%      |
-| Micron/Crucial NVMe Storage Controller                                         | 1        | 1%      |
+| Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1        | 1%      |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1        | 1%      |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 1%      |
 | Kingston Company A2000 NVMe SSD                                                | 1        | 1%      |
 | Intel SSD 660P Series                                                          | 1        | 1%      |
 | Intel NVMe Optane Memory Series                                                | 1        | 1%      |

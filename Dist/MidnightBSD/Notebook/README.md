@@ -720,8 +720,8 @@ Storage controller models
 
 | Model                                  | Notebooks | Percent |
 |----------------------------------------|-----------|---------|
-| Micron NVMe Storage Controller         | 1         | 25%     |
-| Lenovo unknown                         | 1         | 25%     |
+| Micron 3400 NVMe SSD [Hendrix]         | 1         | 25%     |
+| Lenovo LENSE30512GMSP34MEAT3TA         | 1         | 25%     |
 | Intel 82801FBM (ICH6M) SATA Controller | 1         | 25%     |
 | AMD FCH SATA Controller [AHCI mode]    | 1         | 25%     |
 

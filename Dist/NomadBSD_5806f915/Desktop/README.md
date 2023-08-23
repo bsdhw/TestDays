@@ -595,7 +595,7 @@ Hard drive models
 | SK hynix SKHynix_HFS256GD9TNI-L2B0B 256GB | 1        | 2.5%    |
 | SK hynix SHGS31-500GS-2 500GB             | 1        | 2.5%    |
 | Seagate ST9500325AS 500GB                 | 1        | 2.5%    |
-| Seagate ST500DM002-1BD142 500GB           | 1        | 2.5%    |
+| Seagate ST500DM002-1BD142 496GB           | 1        | 2.5%    |
 | Seagate ST4000DM000-2AE166 4TB            | 1        | 2.5%    |
 | Seagate ST3000DM008-2DM166 3TB            | 1        | 2.5%    |
 | Samsung SSD 970 EVO 500GB                 | 1        | 2.5%    |
@@ -840,12 +840,12 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 2        | 5.71%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 2        | 5.71%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 5.71%   |
+| Biwin Storage EX950 NVMe SSD                                                   | 2        | 5.71%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 2        | 5.71%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 5.71%   |
-| Unknown                                                                        | 2        | 5.71%   |
 | SanDisk PC SN520 NVMe SSD                                                      | 1        | 2.86%   |
-| Micron/Crucial P1 NVMe PCIe SSD                                                | 1        | 2.86%   |
-| Micron/Crucial NVMe Storage Controller                                         | 1        | 2.86%   |
+| Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1        | 2.86%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 2.86%   |
 | Kingston Company A2000 NVMe SSD                                                | 1        | 2.86%   |
 | Intel SSD 660P Series                                                          | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.86%   |

@@ -736,7 +736,7 @@ Hard drive models
 | WDC WD30EFRX-68AX9N0 3TB        | 2        | 1.28%   |
 | WDC WD20EFRX-68EUZN0 2TB        | 2        | 1.28%   |
 | WDC WD20EFRX-68AX9N0 2TB        | 2        | 1.28%   |
-| Seagate ST500DM002-1BD142 500GB | 2        | 1.28%   |
+| Seagate ST500DM002-1BD142 496GB | 2        | 1.28%   |
 | Kingston SA400S37120G 120GB     | 2        | 1.28%   |
 | HPT DISK 0_9 3TB                | 2        | 1.28%   |
 | HPT DISK 0_8 3TB                | 2        | 1.28%   |
@@ -850,11 +850,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 26       | 62     | 36.62%  |
+| 0.01-0.5   | 26       | 57     | 36.62%  |
 | 1.01-2.0   | 13       | 40     | 18.31%  |
 | 2.01-3.0   | 12       | 65     | 16.9%   |
 | 3.01-4.0   | 7        | 24     | 9.86%   |
-| 0.51-1.0   | 7        | 46     | 9.86%   |
+| 0.51-1.0   | 7        | 51     | 9.86%   |
 | 4.01-10.0  | 5        | 13     | 7.04%   |
 | 10.01-20.0 | 1        | 2      | 1.41%   |
 
@@ -1053,13 +1053,13 @@ Storage controller models
 | HighPoint RocketRAID 2760 SAS Controller                                         | 2        | 2.3%    |
 | Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                              | 2        | 2.3%    |
 | ASMedia ASM1062 Serial ATA Controller                                            | 2        | 2.3%    |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1        | 1.15%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1        | 1.15%   |
 | Silicon Image SiI 3132 Serial ATA Raid II Controller                             | 1        | 1.15%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 1.15%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1        | 1.15%   |
 | QLogic QLA2100 64-bit Fibre Channel Adapter                                      | 1        | 1.15%   |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                             | 1        | 1.15%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                  | 1        | 1.15%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1        | 1.15%   |
 | Marvell Group MV64460/64461/64462 System Controller, Revision B                  | 1        | 1.15%   |
 | Intel Volume Management Device NVMe RAID Controller                              | 1        | 1.15%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1        | 1.15%   |

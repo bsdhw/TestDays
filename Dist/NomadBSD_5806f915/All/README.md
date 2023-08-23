@@ -784,7 +784,7 @@ Hard drive models
 | SK hynix BC511 HFM256GDJTNI-82A0A 256GB   | 1         | 1.22%   |
 | Seagate ST500LT012-9WS142 500GB           | 1         | 1.22%   |
 | Seagate ST500LM030-2E717D 500GB           | 1         | 1.22%   |
-| Seagate ST500DM002-1BD142 500GB           | 1         | 1.22%   |
+| Seagate ST500DM002-1BD142 496GB           | 1         | 1.22%   |
 | Seagate ST4000DM000-2AE166 4TB            | 1         | 1.22%   |
 | Seagate ST3000DM008-2DM166 3TB            | 1         | 1.22%   |
 | Seagate ST2000LM007-1R8174 2TB            | 1         | 1.22%   |
@@ -1043,27 +1043,28 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                  | 3         | 3.7%    |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                    | 2         | 2.47%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 2         | 2.47%   |
-| Micron/Crucial NVMe Storage Controller                                        | 2         | 2.47%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]         | 2         | 2.47%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                 | 2         | 2.47%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                              | 2         | 2.47%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]  | 2         | 2.47%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                              | 2         | 2.47%   |
+| Biwin Storage EX950 NVMe SSD                                                  | 2         | 2.47%   |
 | ASMedia ASM1062 Serial ATA Controller                                         | 2         | 2.47%   |
 | AMD 500 Series Chipset SATA Controller                                        | 2         | 2.47%   |
-| Unknown                                                                       | 2         | 2.47%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 1.23%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 1.23%   |
 | Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
-| SK hynix hynix unknown                                                        | 1         | 1.23%   |
+| SK hynix PC601 NVMe Solid State Drive                                         | 1         | 1.23%   |
 | SK hynix BC511 NVMe SSD                                                       | 1         | 1.23%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 1.23%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 1.23%   |
 | SanDisk PC SN520 NVMe SSD                                                     | 1         | 1.23%   |
+| Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                            | 1         | 1.23%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 1.23%   |
-| Samsung Apple PCIe SSD                                                        | 1         | 1.23%   |
-| Micron/Crucial P1 NVMe PCIe SSD                                               | 1         | 1.23%   |
-| Micron NVMe Storage Controller                                                | 1         | 1.23%   |
+| Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                      | 1         | 1.23%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1         | 1.23%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                    | 1         | 1.23%   |
+| Micron 2210 NVMe SSD [Cobain]                                                 | 1         | 1.23%   |
 | Kingston Company A2000 NVMe SSD                                               | 1         | 1.23%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 1.23%   |
 | Intel SSD 660P Series                                                         | 1         | 1.23%   |
@@ -1074,7 +1075,6 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                             | 1         | 1.23%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                           | 1         | 1.23%   |
 | Intel C600/X79 series chipset SATA RAID Controller                            | 1         | 1.23%   |
-| Intel C600/X79 series chipset IDE-r Controller                                | 1         | 1.23%   |
 
 Storage Kind
 ------------
@@ -2054,7 +2054,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DRAM 533MT/s              | 1         | 1.47%   |
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s             | 1         | 1.47%   |
 | Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s          | 1         | 1.47%   |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s        | 1         | 1.47%   |
+| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s       | 1         | 1.47%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s    | 1         | 1.47%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 1         | 1.47%   |
@@ -2092,14 +2092,14 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR4    | 25        | 45.45%  |
-| DDR3    | 19        | 34.55%  |
-| DDR2    | 3         | 5.45%   |
-| SDRAM   | 2         | 3.64%   |
-| LPDDR3  | 2         | 3.64%   |
-| DDR     | 2         | 3.64%   |
-| DRAM    | 1         | 1.82%   |
-| Unknown | 1         | 1.82%   |
+| DDR4    | 25        | 46.3%   |
+| DDR3    | 19        | 35.19%  |
+| DDR2    | 3         | 5.56%   |
+| SDRAM   | 2         | 3.7%    |
+| LPDDR3  | 2         | 3.7%    |
+| DRAM    | 1         | 1.85%   |
+| DDR     | 1         | 1.85%   |
+| Unknown | 1         | 1.85%   |
 
 Memory Form Factor
 ------------------

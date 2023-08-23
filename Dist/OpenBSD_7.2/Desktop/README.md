@@ -708,7 +708,7 @@ Hard drive models
 | Toshiba DT01ACA100 1TB          | 1        | 1.28%   |
 | SPCC Solid State Disk 128GB     | 1        | 1.28%   |
 | Seagate ST9146852SS 146GB       | 1        | 1.28%   |
-| Seagate ST500DM002-1BD142 500GB | 1        | 1.28%   |
+| Seagate ST500DM002-1BD142 496GB | 1        | 1.28%   |
 | Seagate ST4000LM024-2AN17V 4TB  | 1        | 1.28%   |
 | Seagate ST3750640NS 752GB       | 1        | 1.28%   |
 | Seagate ST3000DM001 137GB       | 1        | 1.28%   |
@@ -965,7 +965,7 @@ Storage controller vendors
 | AMD                       | 12       | 24%     |
 | Samsung Electronics       | 6        | 12%     |
 | Broadcom / LSI            | 5        | 10%     |
-| Sandisk                   | 2        | 4%      |
+| SanDisk                   | 2        | 4%      |
 | Toshiba                   | 1        | 2%      |
 | Silicon Motion            | 1        | 2%      |
 | Seagate Technology        | 1        | 2%      |
@@ -992,13 +992,13 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 2        | 4%      |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 4%      |
 | Toshiba BG3 NVMe SSD Controller                                                | 1        | 2%      |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1        | 2%      |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 2%      |
 | Seagate FireCuda 520 SSD                                                       | 1        | 2%      |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1        | 2%      |
-| Sandisk unknown                                                                | 1        | 2%      |
+| Sandisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 2%      |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 2%      |
 | Samsung NVMe SSD Controller 980                                                | 1        | 2%      |
-| Micron/Crucial P2 NVMe PCIe SSD                                                | 1        | 2%      |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1        | 2%      |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller               | 1        | 2%      |
 | Intel Tiger Lake-LP SATA Controller                                            | 1        | 2%      |
 | Intel Jasper Lake SATA AHCI Controller                                         | 1        | 2%      |

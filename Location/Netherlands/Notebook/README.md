@@ -147,10 +147,15 @@ Contents
 Test Cases
 ----------
 
-Total: 84
+Total: 89
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| SLIMBOOK      | PROX-AMD5                   | [d4265533e2](https://bsd-hardware.info/?probe=d4265533e2) | Jul 15, 2023 |
+| Lenovo        | ThinkPad W520 4284GZ1       | [7119cd7ae3](https://bsd-hardware.info/?probe=7119cd7ae3) | Jul 08, 2023 |
+| Lenovo        | ThinkPad W520 4284GZ1       | [f74b33bc25](https://bsd-hardware.info/?probe=f74b33bc25) | Jul 03, 2023 |
+| Lenovo        | ThinkPad W520 4284GZ1       | [f9f815c60e](https://bsd-hardware.info/?probe=f9f815c60e) | Jul 02, 2023 |
+| Lenovo        | ThinkPad W520 4284GZ1       | [39e46fd477](https://bsd-hardware.info/?probe=39e46fd477) | Jul 02, 2023 |
 | HP            | EliteBook 840 G3            | [17834256ca](https://bsd-hardware.info/?probe=17834256ca) | Jun 28, 2023 |
 | Deciso        | OPNsense Appliance          | [be0008eb2a](https://bsd-hardware.info/?probe=be0008eb2a) | Jun 26, 2023 |
 | Lenovo        | ThinkPad W520 4284GZ1       | [d194e8bc0d](https://bsd-hardware.info/?probe=d194e8bc0d) | Jun 22, 2023 |
@@ -249,44 +254,44 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 8         | 11.27%  |
-| helloSystem 0.5.0    | 6         | 8.45%   |
-| FreeBSD 13.0-STABLE  | 5         | 7.04%   |
-| helloSystem 0.8.0    | 4         | 5.63%   |
-| helloSystem 0.6.0    | 3         | 4.23%   |
-| helloSystem 0.3.0    | 3         | 4.23%   |
-| OPNsense 22.10       | 2         | 2.82%   |
-| OpenBSD 7.1          | 2         | 2.82%   |
-| OpenBSD 6.9          | 2         | 2.82%   |
-| OpenBSD 6.8          | 2         | 2.82%   |
-| helloSystem 0.8.1    | 2         | 2.82%   |
-| helloSystem 0.4.0    | 2         | 2.82%   |
-| GhostBSD 22.06.18    | 2         | 2.82%   |
-| FreeBSD 13.1-p4      | 2         | 2.82%   |
-| FreeBSD 13.1         | 2         | 2.82%   |
-| FreeBSD 13.0-p5      | 2         | 2.82%   |
-| OPNsense 23.4.1      | 1         | 1.41%   |
-| OPNsense 23.4        | 1         | 1.41%   |
-| OPNsense 22.7.4      | 1         | 1.41%   |
-| OPNsense 22.7.2      | 1         | 1.41%   |
-| OPNsense 22.7.10     | 1         | 1.41%   |
-| OPNsense 22.10.1     | 1         | 1.41%   |
-| OPNsense 22.1.7      | 1         | 1.41%   |
-| OPNsense 22.1.6      | 1         | 1.41%   |
-| OPNsense 22.1        | 1         | 1.41%   |
-| OPNsense 21.7.7      | 1         | 1.41%   |
-| OPNsense 21.1.9      | 1         | 1.41%   |
-| OpenBSD 7.2          | 1         | 1.41%   |
-| OpenBSD 7.0          | 1         | 1.41%   |
-| helloSystem 0.8.2    | 1         | 1.41%   |
-| FreeBSD 14.0-CURRENT | 1         | 1.41%   |
-| FreeBSD 13.2-p1      | 1         | 1.41%   |
-| FreeBSD 13.2         | 1         | 1.41%   |
-| FreeBSD 13.0-p2      | 1         | 1.41%   |
-| FreeBSD 13.0-BETA1   | 1         | 1.41%   |
-| FreeBSD 13.0         | 1         | 1.41%   |
-| FreeBSD 12.2-p2      | 1         | 1.41%   |
-| FreeBSD 12.2         | 1         | 1.41%   |
+| helloSystem 0.7.0    | 8         | 11.11%  |
+| helloSystem 0.5.0    | 6         | 8.33%   |
+| FreeBSD 13.0-STABLE  | 5         | 6.94%   |
+| helloSystem 0.8.0    | 4         | 5.56%   |
+| helloSystem 0.6.0    | 3         | 4.17%   |
+| helloSystem 0.3.0    | 3         | 4.17%   |
+| OPNsense 22.10       | 2         | 2.78%   |
+| OpenBSD 7.1          | 2         | 2.78%   |
+| OpenBSD 6.9          | 2         | 2.78%   |
+| OpenBSD 6.8          | 2         | 2.78%   |
+| helloSystem 0.8.2    | 2         | 2.78%   |
+| helloSystem 0.8.1    | 2         | 2.78%   |
+| helloSystem 0.4.0    | 2         | 2.78%   |
+| GhostBSD 22.06.18    | 2         | 2.78%   |
+| FreeBSD 13.1-p4      | 2         | 2.78%   |
+| FreeBSD 13.1         | 2         | 2.78%   |
+| FreeBSD 13.0-p5      | 2         | 2.78%   |
+| OPNsense 23.4.1      | 1         | 1.39%   |
+| OPNsense 23.4        | 1         | 1.39%   |
+| OPNsense 22.7.4      | 1         | 1.39%   |
+| OPNsense 22.7.2      | 1         | 1.39%   |
+| OPNsense 22.7.10     | 1         | 1.39%   |
+| OPNsense 22.10.1     | 1         | 1.39%   |
+| OPNsense 22.1.7      | 1         | 1.39%   |
+| OPNsense 22.1.6      | 1         | 1.39%   |
+| OPNsense 22.1        | 1         | 1.39%   |
+| OPNsense 21.7.7      | 1         | 1.39%   |
+| OPNsense 21.1.9      | 1         | 1.39%   |
+| OpenBSD 7.2          | 1         | 1.39%   |
+| OpenBSD 7.0          | 1         | 1.39%   |
+| FreeBSD 14.0-CURRENT | 1         | 1.39%   |
+| FreeBSD 13.2-p1      | 1         | 1.39%   |
+| FreeBSD 13.2         | 1         | 1.39%   |
+| FreeBSD 13.0-p2      | 1         | 1.39%   |
+| FreeBSD 13.0-BETA1   | 1         | 1.39%   |
+| FreeBSD 13.0         | 1         | 1.39%   |
+| FreeBSD 12.2-p2      | 1         | 1.39%   |
+| FreeBSD 12.2         | 1         | 1.39%   |
 
 OS Family
 ---------
@@ -326,18 +331,18 @@ Desktop Environment
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| helloDesktop | 30        | 46.88%  |
-| Console      | 11        | 17.19%  |
-| fvwm         | 5         | 7.81%   |
-| MATE         | 4         | 6.25%   |
-| TWM          | 3         | 4.69%   |
-| GNOME        | 3         | 4.69%   |
-| KDE5         | 2         | 3.13%   |
-| i3           | 2         | 3.13%   |
-| XFCE         | 1         | 1.56%   |
-| LXQt         | 1         | 1.56%   |
-| GNUstep      | 1         | 1.56%   |
-| AwesomeWM    | 1         | 1.56%   |
+| helloDesktop | 30        | 46.15%  |
+| Console      | 11        | 16.92%  |
+| fvwm         | 5         | 7.69%   |
+| MATE         | 4         | 6.15%   |
+| TWM          | 3         | 4.62%   |
+| KDE5         | 3         | 4.62%   |
+| GNOME        | 3         | 4.62%   |
+| i3           | 2         | 3.08%   |
+| XFCE         | 1         | 1.54%   |
+| LXQt         | 1         | 1.54%   |
+| GNUstep      | 1         | 1.54%   |
+| AwesomeWM    | 1         | 1.54%   |
 
 Display Server
 --------------
@@ -380,13 +385,13 @@ Language
 
 | Lang    | Notebooks | Percent |
 |---------|-----------|---------|
-| en_US   | 27        | 42.19%  |
-| C       | 15        | 23.44%  |
-| Unknown | 14        | 21.88%  |
-| nl_NL   | 3         | 4.69%   |
-| en      | 3         | 4.69%   |
-| nl      | 1         | 1.56%   |
-| fr_FR   | 1         | 1.56%   |
+| en_US   | 27        | 41.54%  |
+| C       | 15        | 23.08%  |
+| Unknown | 14        | 21.54%  |
+| nl_NL   | 4         | 6.15%   |
+| en      | 3         | 4.62%   |
+| nl      | 1         | 1.54%   |
+| fr_FR   | 1         | 1.54%   |
 
 Boot Mode
 ---------
@@ -652,10 +657,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 41        | 64.06%  |
-| 2      | 17        | 26.56%  |
-| 3      | 3         | 4.69%   |
-| 0      | 3         | 4.69%   |
+| 1      | 41        | 63.08%  |
+| 2      | 17        | 26.15%  |
+| 3      | 4         | 6.15%   |
+| 0      | 3         | 4.62%   |
 
 Has CD-ROM
 ----------
@@ -734,46 +739,46 @@ Geographic location (city)
 
 | City                    | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| Amsterdam               | 15        | 22.39%  |
-| Utrecht                 | 5         | 7.46%   |
-| The Hague               | 3         | 4.48%   |
-| Eindhoven               | 3         | 4.48%   |
-| Papendrecht             | 2         | 2.99%   |
-| Oegstgeest              | 2         | 2.99%   |
-| Hoogeveen               | 2         | 2.99%   |
-| Groningen               | 2         | 2.99%   |
-| 's-Hertogenbosch        | 2         | 2.99%   |
-| Zwolle                  | 1         | 1.49%   |
-| Woerdense Verlaat       | 1         | 1.49%   |
-| Warmond                 | 1         | 1.49%   |
-| Veendam                 | 1         | 1.49%   |
-| Tilburg                 | 1         | 1.49%   |
-| Rozenburg               | 1         | 1.49%   |
-| Roosendaal              | 1         | 1.49%   |
-| Rhoon                   | 1         | 1.49%   |
-| Ouderkerk aan de Amstel | 1         | 1.49%   |
-| Oosterhout              | 1         | 1.49%   |
-| Norg                    | 1         | 1.49%   |
-| Munnikens-Vinkel        | 1         | 1.49%   |
-| Lent                    | 1         | 1.49%   |
-| Leiden                  | 1         | 1.49%   |
-| Leeuwarden              | 1         | 1.49%   |
-| Hoek van Holland        | 1         | 1.49%   |
-| Hilversum               | 1         | 1.49%   |
-| Elim                    | 1         | 1.49%   |
-| Ede                     | 1         | 1.49%   |
-| Dronten                 | 1         | 1.49%   |
-| Dordrecht               | 1         | 1.49%   |
-| Diemen                  | 1         | 1.49%   |
-| Deventer                | 1         | 1.49%   |
-| Den Dolder              | 1         | 1.49%   |
-| De Lutte                | 1         | 1.49%   |
-| Cuijk                   | 1         | 1.49%   |
-| Capelle aan den IJssel  | 1         | 1.49%   |
-| Berghem                 | 1         | 1.49%   |
-| Bergambacht             | 1         | 1.49%   |
-| Apeldoorn               | 1         | 1.49%   |
-| Alphen aan den Rijn     | 1         | 1.49%   |
+| Amsterdam               | 15        | 22.06%  |
+| Utrecht                 | 5         | 7.35%   |
+| The Hague               | 3         | 4.41%   |
+| Eindhoven               | 3         | 4.41%   |
+| Papendrecht             | 2         | 2.94%   |
+| Oegstgeest              | 2         | 2.94%   |
+| Hoogeveen               | 2         | 2.94%   |
+| Groningen               | 2         | 2.94%   |
+| 's-Hertogenbosch        | 2         | 2.94%   |
+| Zwolle                  | 1         | 1.47%   |
+| Woerdense Verlaat       | 1         | 1.47%   |
+| Warmond                 | 1         | 1.47%   |
+| Veendam                 | 1         | 1.47%   |
+| Tilburg                 | 1         | 1.47%   |
+| Rozenburg               | 1         | 1.47%   |
+| Roosendaal              | 1         | 1.47%   |
+| Rhoon                   | 1         | 1.47%   |
+| Ouderkerk aan de Amstel | 1         | 1.47%   |
+| Oosterhout              | 1         | 1.47%   |
+| Norg                    | 1         | 1.47%   |
+| Munnikens-Vinkel        | 1         | 1.47%   |
+| Lent                    | 1         | 1.47%   |
+| Leiden                  | 1         | 1.47%   |
+| Leeuwarden              | 1         | 1.47%   |
+| Hoek van Holland        | 1         | 1.47%   |
+| Hilversum               | 1         | 1.47%   |
+| Elim                    | 1         | 1.47%   |
+| Ede                     | 1         | 1.47%   |
+| Dronten                 | 1         | 1.47%   |
+| Dordrecht               | 1         | 1.47%   |
+| Diemen                  | 1         | 1.47%   |
+| Deventer                | 1         | 1.47%   |
+| Den Dolder              | 1         | 1.47%   |
+| De Lutte                | 1         | 1.47%   |
+| Cuijk                   | 1         | 1.47%   |
+| Capelle aan den IJssel  | 1         | 1.47%   |
+| Berghem                 | 1         | 1.47%   |
+| Bergambacht             | 1         | 1.47%   |
+| Apeldoorn               | 1         | 1.47%   |
+| Alphen aan den Rijn     | 1         | 1.47%   |
 
 Drives
 ------
@@ -788,29 +793,29 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 17        | 23     | 23.61%  |
-| WDC                 | 8         | 8      | 11.11%  |
-| Seagate             | 6         | 7      | 8.33%   |
-| Crucial             | 6         | 7      | 8.33%   |
-| Transcend           | 5         | 8      | 6.94%   |
-| SanDisk             | 4         | 4      | 5.56%   |
-| Toshiba             | 3         | 3      | 4.17%   |
-| NVMe                | 3         | 4      | 4.17%   |
-| Kingston            | 2         | 2      | 2.78%   |
-| Intel               | 2         | 2      | 2.78%   |
-| Hitachi             | 2         | 2      | 2.78%   |
-| Gigabyte Technology | 2         | 2      | 2.78%   |
-| Apple               | 2         | 3      | 2.78%   |
-| Star Drive          | 1         | 1      | 1.39%   |
-| SK hynix            | 1         | 1      | 1.39%   |
-| Phison              | 1         | 1      | 1.39%   |
-| OCZ                 | 1         | 1      | 1.39%   |
-| LITEON              | 1         | 1      | 1.39%   |
-| Leven               | 1         | 1      | 1.39%   |
-| HPE                 | 1         | 1      | 1.39%   |
-| Hoodisk             | 1         | 2      | 1.39%   |
-| HGST                | 1         | 1      | 1.39%   |
-| China               | 1         | 1      | 1.39%   |
+| Samsung Electronics | 18        | 25     | 24.66%  |
+| WDC                 | 8         | 8      | 10.96%  |
+| Seagate             | 6         | 7      | 8.22%   |
+| Crucial             | 6         | 8      | 8.22%   |
+| Transcend           | 5         | 8      | 6.85%   |
+| SanDisk             | 4         | 4      | 5.48%   |
+| Toshiba             | 3         | 3      | 4.11%   |
+| NVMe                | 3         | 4      | 4.11%   |
+| Kingston            | 2         | 2      | 2.74%   |
+| Intel               | 2         | 2      | 2.74%   |
+| Hitachi             | 2         | 2      | 2.74%   |
+| Gigabyte Technology | 2         | 3      | 2.74%   |
+| Apple               | 2         | 3      | 2.74%   |
+| Star Drive          | 1         | 1      | 1.37%   |
+| SK hynix            | 1         | 1      | 1.37%   |
+| Phison              | 1         | 1      | 1.37%   |
+| OCZ                 | 1         | 1      | 1.37%   |
+| LITEON              | 1         | 1      | 1.37%   |
+| Leven               | 1         | 1      | 1.37%   |
+| HPE                 | 1         | 1      | 1.37%   |
+| Hoodisk             | 1         | 2      | 1.37%   |
+| HGST                | 1         | 1      | 1.37%   |
+| China               | 1         | 1      | 1.37%   |
 
 Drive Model
 -----------
@@ -822,46 +827,46 @@ Hard drive models
 
 | Model                            | Notebooks | Percent |
 |----------------------------------|-----------|---------|
-| WDC WD5000LPVX-22V0TT0 500GB     | 2         | 2.74%   |
-| Transcend TS256GMTE652T2 256GB   | 2         | 2.74%   |
-| Seagate ST500LM000-SSHD-8GB      | 2         | 2.74%   |
-| WDC WDS500G2B0C-00PXH0 500GB     | 1         | 1.37%   |
-| WDC WDS500G2B0A 500GB            | 1         | 1.37%   |
-| WDC WDS100T2B0B-00YS70 1TB       | 1         | 1.37%   |
-| WDC WD15EARS-00Z5B1 1.5TB        | 1         | 1.37%   |
-| WDC WD10SPZX-24Z10 1TB           | 1         | 1.37%   |
-| WDC WD10SPZX-00Z10T0 1TB         | 1         | 1.37%   |
-| Transcend TS512GMTS430S 512GB    | 1         | 1.37%   |
-| Transcend TS256GMTS952T2 256GB   | 1         | 1.37%   |
-| Transcend TS128GMTE110S 128GB    | 1         | 1.37%   |
-| Toshiba THNSN5512GPUK NVMe 512GB | 1         | 1.37%   |
-| Toshiba THNSFJ256GCSU 256GB      | 1         | 1.37%   |
-| Toshiba MQ04ABF100 1TB           | 1         | 1.37%   |
-| Star Drive PCIe SSD 960GB        | 1         | 1.37%   |
-| SK hynix SC311 SATA 256GB        | 1         | 1.37%   |
-| Seagate ST9250410AS 250GB        | 1         | 1.37%   |
-| Seagate ST9160412ASG 160GB       | 1         | 1.37%   |
-| Seagate ST500VT000-1DK142 500GB  | 1         | 1.37%   |
-| Seagate ST1000LM049-2GH172 1TB   | 1         | 1.37%   |
-| SanDisk SD8SN8U-128G-1006 128GB  | 1         | 1.37%   |
-| SanDisk SD8SBAT256G1002 256GB    | 1         | 1.37%   |
-| SanDisk SD7UB3Q256G1001 256GB    | 1         | 1.37%   |
-| SanDisk SD6SB1M064G 64GB         | 1         | 1.37%   |
-| Samsung SSD PM851 mSATA 512GB    | 1         | 1.37%   |
-| Samsung SSD PM841 mSATA 256GB    | 1         | 1.37%   |
-| Samsung SSD 980 PRO 1TB          | 1         | 1.37%   |
-| Samsung SSD 970 PRO 512GB        | 1         | 1.37%   |
-| Samsung SSD 970 EVO 500GB        | 1         | 1.37%   |
-| Samsung SSD 870 QVO 1TB          | 1         | 1.37%   |
-| Samsung SSD 860 EVO 1TB          | 1         | 1.37%   |
-| Samsung SSD 850 EVO 500GB        | 1         | 1.37%   |
-| Samsung SSD 850 EVO 250GB        | 1         | 1.37%   |
-| Samsung SSD 840 PRO Series 256GB | 1         | 1.37%   |
-| Samsung SSD 840 EVO 250GB        | 1         | 1.37%   |
-| Samsung SSD 840 EVO 120GB        | 1         | 1.37%   |
-| Samsung SSD 830 Series 64GB      | 1         | 1.37%   |
-| Samsung MZVLB1T0HBLR-000L7 1TB   | 1         | 1.37%   |
-| Samsung MZRPC256HADR-000SO 128GB | 1         | 1.37%   |
+| WDC WD5000LPVX-22V0TT0 500GB     | 2         | 2.7%    |
+| Transcend TS256GMTE652T2 256GB   | 2         | 2.7%    |
+| Seagate ST500LM000-SSHD-8GB      | 2         | 2.7%    |
+| Samsung SSD 840 EVO 250GB        | 2         | 2.7%    |
+| WDC WDS500G2B0C-00PXH0 500GB     | 1         | 1.35%   |
+| WDC WDS500G2B0A 500GB            | 1         | 1.35%   |
+| WDC WDS100T2B0B-00YS70 1TB       | 1         | 1.35%   |
+| WDC WD15EARS-00Z5B1 1.5TB        | 1         | 1.35%   |
+| WDC WD10SPZX-24Z10 1TB           | 1         | 1.35%   |
+| WDC WD10SPZX-00Z10T0 1TB         | 1         | 1.35%   |
+| Transcend TS512GMTS430S 512GB    | 1         | 1.35%   |
+| Transcend TS256GMTS952T2 256GB   | 1         | 1.35%   |
+| Transcend TS128GMTE110S 128GB    | 1         | 1.35%   |
+| Toshiba THNSN5512GPUK NVMe 512GB | 1         | 1.35%   |
+| Toshiba THNSFJ256GCSU 256GB      | 1         | 1.35%   |
+| Toshiba MQ04ABF100 1TB           | 1         | 1.35%   |
+| Star Drive PCIe SSD 960GB        | 1         | 1.35%   |
+| SK hynix SC311 SATA 256GB        | 1         | 1.35%   |
+| Seagate ST9250410AS 250GB        | 1         | 1.35%   |
+| Seagate ST9160412ASG 160GB       | 1         | 1.35%   |
+| Seagate ST500VT000-1DK142 500GB  | 1         | 1.35%   |
+| Seagate ST1000LM049-2GH172 1TB   | 1         | 1.35%   |
+| SanDisk SD8SN8U-128G-1006 128GB  | 1         | 1.35%   |
+| SanDisk SD8SBAT256G1002 256GB    | 1         | 1.35%   |
+| SanDisk SD7UB3Q256G1001 256GB    | 1         | 1.35%   |
+| SanDisk SD6SB1M064G 64GB         | 1         | 1.35%   |
+| Samsung SSD PM851 mSATA 512GB    | 1         | 1.35%   |
+| Samsung SSD PM841 mSATA 256GB    | 1         | 1.35%   |
+| Samsung SSD 980 PRO 1TB          | 1         | 1.35%   |
+| Samsung SSD 970 PRO 512GB        | 1         | 1.35%   |
+| Samsung SSD 970 EVO 500GB        | 1         | 1.35%   |
+| Samsung SSD 870 QVO 1TB          | 1         | 1.35%   |
+| Samsung SSD 860 EVO 1TB          | 1         | 1.35%   |
+| Samsung SSD 850 EVO 500GB        | 1         | 1.35%   |
+| Samsung SSD 850 EVO 250GB        | 1         | 1.35%   |
+| Samsung SSD 840 PRO Series 256GB | 1         | 1.35%   |
+| Samsung SSD 840 EVO 120GB        | 1         | 1.35%   |
+| Samsung SSD 830 Series 64GB      | 1         | 1.35%   |
+| Samsung MZVLB1T0HBLR-000L7 1TB   | 1         | 1.35%   |
+| Samsung MZRPC256HADR-000SO 128GB | 1         | 1.35%   |
 
 HDD Vendor
 ----------
@@ -890,23 +895,23 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 12        | 17     | 30%     |
-| Crucial             | 5         | 6      | 12.5%   |
-| SanDisk             | 4         | 4      | 10%     |
-| NVMe                | 3         | 4      | 7.5%    |
-| WDC                 | 2         | 2      | 5%      |
-| Transcend           | 2         | 5      | 5%      |
-| Apple               | 2         | 3      | 5%      |
-| Toshiba             | 1         | 1      | 2.5%    |
-| SK hynix            | 1         | 1      | 2.5%    |
-| OCZ                 | 1         | 1      | 2.5%    |
-| LITEON              | 1         | 1      | 2.5%    |
-| Leven               | 1         | 1      | 2.5%    |
-| Intel               | 1         | 1      | 2.5%    |
-| HPE                 | 1         | 1      | 2.5%    |
-| Hoodisk             | 1         | 2      | 2.5%    |
-| Gigabyte Technology | 1         | 1      | 2.5%    |
-| China               | 1         | 1      | 2.5%    |
+| Samsung Electronics | 13        | 19     | 31.71%  |
+| Crucial             | 5         | 6      | 12.2%   |
+| SanDisk             | 4         | 4      | 9.76%   |
+| NVMe                | 3         | 4      | 7.32%   |
+| WDC                 | 2         | 2      | 4.88%   |
+| Transcend           | 2         | 5      | 4.88%   |
+| Apple               | 2         | 3      | 4.88%   |
+| Toshiba             | 1         | 1      | 2.44%   |
+| SK hynix            | 1         | 1      | 2.44%   |
+| OCZ                 | 1         | 1      | 2.44%   |
+| LITEON              | 1         | 1      | 2.44%   |
+| Leven               | 1         | 1      | 2.44%   |
+| Intel               | 1         | 1      | 2.44%   |
+| HPE                 | 1         | 1      | 2.44%   |
+| Hoodisk             | 1         | 2      | 2.44%   |
+| Gigabyte Technology | 1         | 1      | 2.44%   |
+| China               | 1         | 1      | 2.44%   |
 
 Drive Kind
 ----------
@@ -918,9 +923,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 36        | 52     | 54.55%  |
-| HDD  | 16        | 17     | 24.24%  |
-| NVMe | 14        | 17     | 21.21%  |
+| SSD  | 37        | 54     | 55.22%  |
+| HDD  | 16        | 17     | 23.88%  |
+| NVMe | 14        | 19     | 20.9%   |
 
 Drive Connector
 ---------------
@@ -932,8 +937,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 49        | 69     | 77.78%  |
-| NVMe | 14        | 17     | 22.22%  |
+| SATA | 50        | 71     | 78.13%  |
+| NVMe | 14        | 19     | 21.88%  |
 
 Drive Size
 ----------
@@ -945,9 +950,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 40        | 54     | 75.47%  |
-| 0.51-1.0   | 12        | 14     | 22.64%  |
-| 1.01-2.0   | 1         | 1      | 1.89%   |
+| 0.01-0.5   | 41        | 56     | 75.93%  |
+| 0.51-1.0   | 12        | 14     | 22.22%  |
+| 1.01-2.0   | 1         | 1      | 1.85%   |
 
 Space Total
 -----------
@@ -959,14 +964,14 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 19        | 29.23%  |
-| 1-20       | 15        | 23.08%  |
-| 251-500    | 14        | 21.54%  |
-| 501-1000   | 7         | 10.77%  |
-| 51-100     | 6         | 9.23%   |
-| 21-50      | 2         | 3.08%   |
-| 1001-2000  | 1         | 1.54%   |
-| Unknown    | 1         | 1.54%   |
+| 101-250    | 20        | 30.3%   |
+| 1-20       | 15        | 22.73%  |
+| 251-500    | 14        | 21.21%  |
+| 501-1000   | 7         | 10.61%  |
+| 51-100     | 6         | 9.09%   |
+| 21-50      | 2         | 3.03%   |
+| 1001-2000  | 1         | 1.52%   |
+| Unknown    | 1         | 1.52%   |
 
 Space Used
 ----------
@@ -1079,7 +1084,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 53        | 74     | 84.13%  |
+| Works    | 53        | 78     | 84.13%  |
 | Malfunc  | 5         | 5      | 7.94%   |
 | Detected | 4         | 6      | 6.35%   |
 | Failed   | 1         | 1      | 1.59%   |
@@ -1125,10 +1130,10 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                | 4         | 5.33%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 4         | 5.33%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 4         | 5.33%   |
+| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                | 3         | 4%      |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 3         | 4%      |
-| Unknown                                                                      | 3         | 4%      |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                               | 2         | 2.67%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                      | 2         | 2.67%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                             | 2         | 2.67%   |
 | Intel Comet Lake SATA AHCI Controller                                        | 2         | 2.67%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                | 2         | 2.67%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                             | 2         | 2.67%   |
@@ -1138,7 +1143,7 @@ Storage controller models
 | Phison PS5013 E13 NVMe Controller                                            | 1         | 1.33%   |
 | Phison E18 PCIe4 NVMe Controller                                             | 1         | 1.33%   |
 | Phison E12 NVMe Controller                                                   | 1         | 1.33%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                              | 1         | 1.33%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)         | 1         | 1.33%   |
 | Kingston Company unknown                                                     | 1         | 1.33%   |
 | Kingston Company A2000 NVMe SSD                                              | 1         | 1.33%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                             | 1         | 1.33%   |
@@ -1414,13 +1419,13 @@ Combinations of graphics cards
 
 | Name           | Notebooks | Percent |
 |----------------|-----------|---------|
-| 1 x Intel      | 34        | 53.13%  |
-| 1 x AMD        | 10        | 15.63%  |
-| 2 x Intel      | 7         | 10.94%  |
-| Intel + Nvidia | 6         | 9.38%   |
-| Other          | 4         | 6.25%   |
-| 2 x AMD        | 2         | 3.13%   |
-| 1 x Nvidia     | 1         | 1.56%   |
+| 1 x Intel      | 35        | 53.85%  |
+| 1 x AMD        | 10        | 15.38%  |
+| 2 x Intel      | 7         | 10.77%  |
+| Intel + Nvidia | 6         | 9.23%   |
+| Other          | 4         | 6.15%   |
+| 2 x AMD        | 2         | 3.08%   |
+| 1 x Nvidia     | 1         | 1.54%   |
 
 GPU Driver
 ----------
@@ -1432,9 +1437,9 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 57        | 89.06%  |
-| Unknown     | 5         | 7.81%   |
-| Proprietary | 2         | 3.13%   |
+| Free        | 57        | 87.69%  |
+| Unknown     | 5         | 7.69%   |
+| Proprietary | 3         | 4.62%   |
 
 GPU Memory
 ----------
@@ -1464,19 +1469,19 @@ Monitor vendors
 
 | Vendor                  | Notebooks | Percent |
 |-------------------------|-----------|---------|
-| LG Display              | 11        | 23.91%  |
-| Chimei Innolux          | 7         | 15.22%  |
-| AU Optronics            | 6         | 13.04%  |
-| BOE                     | 5         | 10.87%  |
-| Samsung Electronics     | 4         | 8.7%    |
-| Apple                   | 4         | 8.7%    |
-| Sharp                   | 2         | 4.35%   |
-| Lenovo                  | 2         | 4.35%   |
-| Sony                    | 1         | 2.17%   |
-| Philips                 | 1         | 2.17%   |
-| PANDA                   | 1         | 2.17%   |
-| Chi Mei Optoelectronics | 1         | 2.17%   |
-| AOC                     | 1         | 2.17%   |
+| LG Display              | 11        | 23.4%   |
+| Chimei Innolux          | 8         | 17.02%  |
+| AU Optronics            | 6         | 12.77%  |
+| BOE                     | 5         | 10.64%  |
+| Samsung Electronics     | 4         | 8.51%   |
+| Apple                   | 4         | 8.51%   |
+| Sharp                   | 2         | 4.26%   |
+| Lenovo                  | 2         | 4.26%   |
+| Sony                    | 1         | 2.13%   |
+| Philips                 | 1         | 2.13%   |
+| PANDA                   | 1         | 2.13%   |
+| Chi Mei Optoelectronics | 1         | 2.13%   |
+| AOC                     | 1         | 2.13%   |
 
 Monitor Model
 -------------
@@ -1488,46 +1493,46 @@ Monitor models
 
 | Model                                                                    | Notebooks | Percent |
 |--------------------------------------------------------------------------|-----------|---------|
-| LG Display LCD Monitor LGD11F9 1280x800 290x180mm 13.4-inch              | 2         | 4.35%   |
-| Sony LCD SNY06FA 1600x900 290x160mm 13.0-inch                            | 1         | 2.17%   |
-| Sharp LCD Monitor SHP1461 3200x1800 290x170mm 13.2-inch                  | 1         | 2.17%   |
-| Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch                  | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC4541 1280x800 260x160mm 12.0-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch     | 1         | 2.17%   |
-| Samsung Electronics LCD Monitor SDC4347 1366x768 340x190mm 15.3-inch     | 1         | 2.17%   |
-| Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch                  | 1         | 2.17%   |
-| PANDA LC133LF1L02 NCP0019 1920x1080 290x170mm 13.2-inch                  | 1         | 2.17%   |
-| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 2.17%   |
-| LG Display LCD Monitor LGD058B 2560x1440 310x170mm 13.9-inch             | 1         | 2.17%   |
-| LG Display LCD Monitor LGD0450 1366x768 280x160mm 12.7-inch              | 1         | 2.17%   |
-| LG Display LCD Monitor LGD0437 1920x1080 280x160mm 12.7-inch             | 1         | 2.17%   |
-| LG Display LCD Monitor LGD0414 1920x1080 280x160mm 12.7-inch             | 1         | 2.17%   |
-| LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch             | 1         | 2.17%   |
-| LG Display LCD Monitor LGD03ED 1366x768 280x160mm 12.7-inch              | 1         | 2.17%   |
-| LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch              | 1         | 2.17%   |
-| LG Display LCD Monitor LGD02AD 1366x768 340x190mm 15.3-inch              | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch                  | 1         | 2.17%   |
-| Lenovo LCD Monitor LEN4000 1024x768 250x180mm 12.1-inch                  | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15C9 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15BF 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN15B5 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN1490 1366x768 310x170mm 13.9-inch          | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN1404 1920x1080 310x170mm 13.9-inch         | 1         | 2.17%   |
-| Chimei Innolux LCD Monitor CMN1239 1920x1080 280x160mm 12.7-inch         | 1         | 2.17%   |
-| Chi Mei Optoelectronics LCD Monitor CMO15A7 1366x768 350x190mm 15.7-inch | 1         | 2.17%   |
-| BOE LCD Monitor BOE07F7 1920x1080 310x170mm 13.9-inch                    | 1         | 2.17%   |
-| BOE LCD Monitor BOE07D8 1920x1080 340x190mm 15.3-inch                    | 1         | 2.17%   |
-| BOE LCD Monitor BOE07C8 3840x2160 310x170mm 13.9-inch                    | 1         | 2.17%   |
-| BOE LCD Monitor BOE06BF 1920x1080 280x160mm 12.7-inch                    | 1         | 2.17%   |
-| BOE LCD Monitor BOE0675 1366x768 340x190mm 15.3-inch                     | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO38ED 1920x1080 340x190mm 15.3-inch           | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO313E 1600x900 310x170mm 13.9-inch            | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO226D 1920x1080 280x160mm 12.7-inch           | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO2036 2560x1440 310x170mm 13.9-inch           | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO123D 1920x1080 310x170mm 13.9-inch           | 1         | 2.17%   |
-| AU Optronics LCD Monitor AUO106C 1366x768 280x160mm 12.7-inch            | 1         | 2.17%   |
+| LG Display LCD Monitor LGD11F9 1280x800 290x180mm 13.4-inch              | 2         | 4.26%   |
+| Sony LCD SNY06FA 1600x900 290x160mm 13.0-inch                            | 1         | 2.13%   |
+| Sharp LCD Monitor SHP1461 3200x1800 290x170mm 13.2-inch                  | 1         | 2.13%   |
+| Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch                  | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SEC4541 1280x800 260x160mm 12.0-inch     | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SEC324C 1600x900 310x170mm 13.9-inch     | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch     | 1         | 2.13%   |
+| Samsung Electronics LCD Monitor SDC4347 1366x768 340x190mm 15.3-inch     | 1         | 2.13%   |
+| Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch                  | 1         | 2.13%   |
+| PANDA LC133LF1L02 NCP0019 1920x1080 290x170mm 13.2-inch                  | 1         | 2.13%   |
+| LG Display LCD Monitor LGD05C0 1920x1080 344x194mm 15.5-inch             | 1         | 2.13%   |
+| LG Display LCD Monitor LGD058B 2560x1440 310x170mm 13.9-inch             | 1         | 2.13%   |
+| LG Display LCD Monitor LGD0450 1366x768 280x160mm 12.7-inch              | 1         | 2.13%   |
+| LG Display LCD Monitor LGD0437 1920x1080 280x160mm 12.7-inch             | 1         | 2.13%   |
+| LG Display LCD Monitor LGD0414 1920x1080 280x160mm 12.7-inch             | 1         | 2.13%   |
+| LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch             | 1         | 2.13%   |
+| LG Display LCD Monitor LGD03ED 1366x768 280x160mm 12.7-inch              | 1         | 2.13%   |
+| LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch              | 1         | 2.13%   |
+| LG Display LCD Monitor LGD02AD 1366x768 340x190mm 15.3-inch              | 1         | 2.13%   |
+| Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch                  | 1         | 2.13%   |
+| Lenovo LCD Monitor LEN4000 1024x768 250x180mm 12.1-inch                  | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch          | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN15C9 1366x768 340x190mm 15.3-inch          | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN15BF 1366x768 340x190mm 15.3-inch          | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN15B5 1366x768 340x190mm 15.3-inch          | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN152D 1920x1080 340x190mm 15.3-inch         | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN1490 1366x768 310x170mm 13.9-inch          | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN1404 1920x1080 310x170mm 13.9-inch         | 1         | 2.13%   |
+| Chimei Innolux LCD Monitor CMN1239 1920x1080 280x160mm 12.7-inch         | 1         | 2.13%   |
+| Chi Mei Optoelectronics LCD Monitor CMO15A7 1366x768 350x190mm 15.7-inch | 1         | 2.13%   |
+| BOE LCD Monitor BOE07F7 1920x1080 310x170mm 13.9-inch                    | 1         | 2.13%   |
+| BOE LCD Monitor BOE07D8 1920x1080 340x190mm 15.3-inch                    | 1         | 2.13%   |
+| BOE LCD Monitor BOE07C8 3840x2160 310x170mm 13.9-inch                    | 1         | 2.13%   |
+| BOE LCD Monitor BOE06BF 1920x1080 280x160mm 12.7-inch                    | 1         | 2.13%   |
+| BOE LCD Monitor BOE0675 1366x768 340x190mm 15.3-inch                     | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO38ED 1920x1080 340x190mm 15.3-inch           | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO313E 1600x900 310x170mm 13.9-inch            | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO226D 1920x1080 280x160mm 12.7-inch           | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO2036 2560x1440 310x170mm 13.9-inch           | 1         | 2.13%   |
+| AU Optronics LCD Monitor AUO123D 1920x1080 310x170mm 13.9-inch           | 1         | 2.13%   |
 
 Monitor Resolution
 ------------------
@@ -1539,14 +1544,14 @@ Monitor screen resolution
 
 | Resolution       | Notebooks | Percent |
 |------------------|-----------|---------|
-| 1920x1080 (FHD)  | 15        | 32.61%  |
-| 1366x768 (WXGA)  | 13        | 28.26%  |
-| 1280x800 (WXGA)  | 7         | 15.22%  |
-| 1600x900 (HD+)   | 4         | 8.7%    |
-| 3840x2160 (4K)   | 3         | 6.52%   |
-| 2560x1440 (QHD)  | 2         | 4.35%   |
-| 3200x1800 (QHD+) | 1         | 2.17%   |
-| 2880x1800        | 1         | 2.17%   |
+| 1920x1080 (FHD)  | 16        | 34.04%  |
+| 1366x768 (WXGA)  | 13        | 27.66%  |
+| 1280x800 (WXGA)  | 7         | 14.89%  |
+| 1600x900 (HD+)   | 4         | 8.51%   |
+| 3840x2160 (4K)   | 3         | 6.38%   |
+| 2560x1440 (QHD)  | 2         | 4.26%   |
+| 3200x1800 (QHD+) | 1         | 2.13%   |
+| 2880x1800        | 1         | 2.13%   |
 
 Monitor Diagonal
 ----------------
@@ -1558,13 +1563,13 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 13     | 17        | 36.96%  |
-| 12     | 13        | 28.26%  |
-| 15     | 12        | 26.09%  |
-| 31     | 1         | 2.17%   |
-| 27     | 1         | 2.17%   |
-| 23     | 1         | 2.17%   |
-| 17     | 1         | 2.17%   |
+| 13     | 17        | 36.17%  |
+| 15     | 13        | 27.66%  |
+| 12     | 13        | 27.66%  |
+| 31     | 1         | 2.13%   |
+| 27     | 1         | 2.13%   |
+| 23     | 1         | 2.13%   |
+| 17     | 1         | 2.13%   |
 
 Monitor Width
 -------------
@@ -1576,11 +1581,11 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 21        | 45.65%  |
-| 201-300     | 21        | 45.65%  |
-| 601-700     | 2         | 4.35%   |
-| 501-600     | 1         | 2.17%   |
-| 351-400     | 1         | 2.17%   |
+| 301-350     | 22        | 46.81%  |
+| 201-300     | 21        | 44.68%  |
+| 601-700     | 2         | 4.26%   |
+| 501-600     | 1         | 2.13%   |
+| 351-400     | 1         | 2.13%   |
 
 Aspect Ratio
 ------------
@@ -1592,9 +1597,9 @@ Proportional relationship between the width and the height
 
 | Ratio | Notebooks | Percent |
 |-------|-----------|---------|
-| 16/9  | 37        | 82.22%  |
-| 16/10 | 7         | 15.56%  |
-| 3/2   | 1         | 2.22%   |
+| 16/9  | 38        | 82.61%  |
+| 16/10 | 7         | 15.22%  |
+| 3/2   | 1         | 2.17%   |
 
 Monitor Area
 ------------
@@ -1606,15 +1611,15 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 81-90          | 14        | 30.43%  |
-| 61-70          | 13        | 28.26%  |
-| 91-100         | 8         | 17.39%  |
-| 101-110        | 4         | 8.7%    |
-| 71-80          | 3         | 6.52%   |
-| 351-500        | 1         | 2.17%   |
-| 301-350        | 1         | 2.17%   |
-| 201-250        | 1         | 2.17%   |
-| 121-130        | 1         | 2.17%   |
+| 81-90          | 14        | 29.79%  |
+| 61-70          | 13        | 27.66%  |
+| 91-100         | 9         | 19.15%  |
+| 101-110        | 4         | 8.51%   |
+| 71-80          | 3         | 6.38%   |
+| 351-500        | 1         | 2.13%   |
+| 301-350        | 1         | 2.13%   |
+| 201-250        | 1         | 2.13%   |
+| 121-130        | 1         | 2.13%   |
 
 Pixel Density
 -------------
@@ -1626,11 +1631,11 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 121-160       | 18        | 40%     |
-| 101-120       | 13        | 28.89%  |
-| 161-240       | 10        | 22.22%  |
-| More than 240 | 2         | 4.44%   |
-| 51-100        | 2         | 4.44%   |
+| 121-160       | 19        | 41.3%   |
+| 101-120       | 13        | 28.26%  |
+| 161-240       | 10        | 21.74%  |
+| More than 240 | 2         | 4.35%   |
+| 51-100        | 2         | 4.35%   |
 
 Multiple Monitors
 -----------------
@@ -1861,8 +1866,8 @@ Currently used network controller
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 40        | 50%     |
-| Ethernet | 40        | 50%     |
+| Ethernet | 41        | 50.62%  |
+| WiFi     | 40        | 49.38%  |
 
 NICs
 ----
@@ -1889,8 +1894,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 52        | 80%     |
-| Yes  | 13        | 20%     |
+| No   | 53        | 80.3%   |
+| Yes  | 13        | 19.7%   |
 
 Bluetooth
 ---------

@@ -894,11 +894,11 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 5.71%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 5.71%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 2.86%   |
-| Samsung SM951 AHCI                                                               | 1         | 2.86%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 1         | 2.86%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 1         | 2.86%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 2.86%   |
-| Micron/Crucial NVMe Storage Controller                                           | 1         | 2.86%   |
+| Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                         | 1         | 2.86%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 1         | 2.86%   |
 | Intel SSD 660P Series                                                            | 1         | 2.86%   |
 | Intel Ice Lake-LP SATA Controller [AHCI mode]                                    | 1         | 2.86%   |
@@ -1686,7 +1686,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
 | Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2.63%   |
+| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
@@ -1724,11 +1724,10 @@ Memory module kinds
 
 | Kind   | Notebooks | Percent |
 |--------|-----------|---------|
-| DDR3   | 15        | 48.39%  |
-| DDR4   | 13        | 41.94%  |
-| LPDDR4 | 1         | 3.23%   |
-| DDR2   | 1         | 3.23%   |
-| DDR    | 1         | 3.23%   |
+| DDR3   | 15        | 50%     |
+| DDR4   | 13        | 43.33%  |
+| LPDDR4 | 1         | 3.33%   |
+| DDR2   | 1         | 3.33%   |
 
 Memory Form Factor
 ------------------

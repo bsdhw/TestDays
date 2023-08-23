@@ -1087,7 +1087,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                      | 2         | 2.53%   |
 | AMD FCH SATA Controller [AHCI mode]                                                    | 2         | 2.53%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 1         | 1.27%   |
-| Realtek NVMe Controller                                                                | 1         | 1.27%   |
+| Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                                      | 1         | 1.27%   |
 | Nvidia MCP79 AHCI Controller                                                           | 1         | 1.27%   |
 | Intel 8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]          | 1         | 1.27%   |
 | Intel 8 Series Chipset Family 4-port SATA Controller 1 [IDE mode] - Mobile             | 1         | 1.27%   |
@@ -1426,6 +1426,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC3143 1366x768 310x180mm 14.1-inch     | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC4445 1366x768 340x190mm 15.3-inch     | 1         | 1.67%   |
 | Samsung Electronics LCD Monitor SDC434A 3200x1800 290x170mm 13.2-inch    | 1         | 1.67%   |
+| LG Display LP156WH2-TLAA LGD0230 1366x768 340x190mm 15.3-inch            | 1         | 1.67%   |
 | LG Display LCD Monitor LGD11F9 1280x800 290x180mm 13.4-inch              | 1         | 1.67%   |
 | LG Display LCD Monitor LGD048C 1920x1080 290x170mm 13.2-inch             | 1         | 1.67%   |
 | LG Display LCD Monitor LGD0470 1920x1080 350x190mm 15.7-inch             | 1         | 1.67%   |
@@ -1434,7 +1435,6 @@ Monitor models
 | LG Display LCD Monitor LGD03AB 1366x768 340x190mm 15.3-inch              | 1         | 1.67%   |
 | LG Display LCD Monitor LGD0323 1920x1080 350x190mm 15.7-inch             | 1         | 1.67%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch              | 1         | 1.67%   |
-| LG Display LCD Monitor LGD0230 1366x768 340x190mm 15.3-inch              | 1         | 1.67%   |
 | LG Display LCD Monitor LGD021D 1600x900 380x210mm 17.1-inch              | 1         | 1.67%   |
 | Lenovo LEN X24A LEN60CF 1920x1080 530x300mm 24.0-inch                    | 1         | 1.67%   |
 | Lenovo LCD Monitor LEN40B2 1920x1080 340x190mm 15.3-inch                 | 1         | 1.67%   |

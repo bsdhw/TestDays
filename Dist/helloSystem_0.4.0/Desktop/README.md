@@ -770,7 +770,7 @@ Hard drive vendors
 | Micron Technology   | 3        | 3      | 1.82%   |
 | PNY                 | 2        | 2      | 1.21%   |
 | Intel               | 2        | 2      | 1.21%   |
-| Goodram             | 2        | 2      | 1.21%   |
+| GOODRAM             | 2        | 2      | 1.21%   |
 | Gigabyte Technology | 2        | 3      | 1.21%   |
 | Corsair             | 2        | 2      | 1.21%   |
 | Transcend           | 1        | 1      | 0.61%   |
@@ -801,7 +801,7 @@ Hard drive models
 | Kingston SA400S37240G 240GB         | 4        | 2%      |
 | Crucial CT500MX500SSD1 500GB        | 4        | 2%      |
 | Toshiba DT01ACA100 1TB              | 3        | 1.5%    |
-| Seagate ST500DM002-1BD142 500GB     | 3        | 1.5%    |
+| Seagate ST500DM002-1BD142 496GB     | 3        | 1.5%    |
 | Samsung SSD 850 EVO 250GB           | 3        | 1.5%    |
 | Kingston SV300S37A120G 120GB        | 3        | 1.5%    |
 | WDC WDS100T2B0A-00SM50 1TB          | 2        | 1%      |
@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 2        | 1%      |
 | Seagate ST1000DM003-1ER162 1TB      | 2        | 1%      |
 | SanDisk SDSSDA240G 240GB            | 2        | 1%      |
-| SanDisk pSSD 128GB                  | 2        | 1%      |
+| SanDisk pSSD 16GB                   | 2        | 1%      |
 | Samsung SSD 960 EVO 500GB           | 2        | 1%      |
 | Samsung SSD 960 EVO 250GB           | 2        | 1%      |
 | Samsung SSD 840 EVO 1TB             | 2        | 1%      |
@@ -874,7 +874,7 @@ Solid state drive vendors
 | Micron Technology   | 3        | 3      | 4%      |
 | SPCC                | 2        | 2      | 2.67%   |
 | PNY                 | 2        | 2      | 2.67%   |
-| GOODRAM             | 2        | 2      | 2.67%   |
+| Goodram             | 2        | 2      | 2.67%   |
 | Transcend           | 1        | 1      | 1.33%   |
 | OCZ                 | 1        | 2      | 1.33%   |
 | Leven               | 1        | 2      | 1.33%   |
@@ -966,7 +966,7 @@ Drive models with a malfunction
 
 | Model                                        | Desktops | Drives | Percent |
 |----------------------------------------------|----------|--------|---------|
-| Seagate ST500DM002-1BD142 500GB              | 2        | 3      | 6.67%   |
+| Seagate ST500DM002-1BD142 496GB              | 2        | 3      | 6.67%   |
 | WDC WDS240G2G0A-00JH30 240GB                 | 1        | 1      | 3.33%   |
 | WDC WD5000AVCS-632DY1 500GB                  | 1        | 1      | 3.33%   |
 | WDC WD5000AAKS-00E4A0 500GB                  | 1        | 1      | 3.33%   |
@@ -1134,7 +1134,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2        | 1.43%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 1.43%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1        | 0.71%   |
-| Samsung SM951 AHCI                                                             | 1        | 0.71%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1        | 0.71%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 0.71%   |
 | Nvidia MCP73 IDE Controller                                                    | 1        | 0.71%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                           | 1        | 0.71%   |
@@ -1142,7 +1142,7 @@ Storage controller models
 | JMicron JMB368 IDE controller                                                  | 1        | 0.71%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1        | 0.71%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1        | 0.71%   |
-| Intel SSD 665p Series                                                          | 1        | 0.71%   |
+| Intel SSD 665p Series [Neptune Harbor Refresh]                                 | 1        | 0.71%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 0.71%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 1        | 0.71%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                           | 1        | 0.71%   |
@@ -1528,7 +1528,7 @@ Monitor models
 | HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch           | 1        | 1.49%   |
 | Goldstar W2242 GSM4B6F 1680x1050 490x320mm 23.0-inch                 | 1        | 1.49%   |
 | Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                 | 1        | 1.49%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 800x340mm 34.2-inch          | 1        | 1.49%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch          | 1        | 1.49%   |
 | Goldstar LG HDR WFHD GSM7714 2560x1080 800x340mm 34.2-inch           | 1        | 1.49%   |
 | Goldstar LG FULL HD GSM5ABB 1920x1080 480x270mm 21.7-inch            | 1        | 1.49%   |
 | Goldstar L1953TR GSM4B44 1280x1024 340x270mm 17.1-inch               | 1        | 1.49%   |
@@ -2073,48 +2073,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 3        | 2.52%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                      | 2        | 1.68%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s         | 2        | 1.68%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                 | 2        | 1.68%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2        | 1.68%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
-| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s        | 2        | 1.68%   |
-| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s        | 2        | 1.68%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s        | 2        | 1.68%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                      | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 4096MB DIMM DDR2                          | 1        | 0.84%   |
-| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s               | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                 | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM DDR2                          | 1        | 0.84%   |
-| Unknown RAM Module 2048MB DIMM 1333MT/s                      | 1        | 0.84%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 0.84%   |
-| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s             | 1        | 0.84%   |
-| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                   | 1        | 0.84%   |
-| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s              | 1        | 0.84%   |
-| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1        | 0.84%   |
-| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s        | 1        | 0.84%   |
-| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s         | 1        | 0.84%   |
-| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s         | 1        | 0.84%   |
-| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s | 1        | 0.84%   |
-| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s          | 1        | 0.84%   |
-| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s          | 1        | 0.84%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 3        | 2.52%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                        | 2        | 1.68%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s           | 2        | 1.68%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s            | 2        | 1.68%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s                   | 2        | 1.68%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s           | 2        | 1.68%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
+| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s          | 2        | 1.68%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s          | 2        | 1.68%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s          | 2        | 1.68%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s            | 2        | 1.68%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                        | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 4096MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB SODIMM DDR3 1600MT/s                 | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM SDRAM 1066MT/s                  | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR3 1066MT/s                   | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM DDR2                            | 1        | 0.84%   |
+| Unknown RAM Module 2048MB DIMM 1333MT/s                        | 1        | 0.84%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.84%   |
+| Transcend RAM TS1GLH64V1H 8GB DIMM DDR4 2133MT/s               | 1        | 0.84%   |
+| Team RAM Elite-1600 8GB DIMM DDR3 1600MT/s                     | 1        | 0.84%   |
+| SK hynix RAM Module 4096MB FB-DIMM DDR2 667MT/s                | 1        | 0.84%   |
+| SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1        | 0.84%   |
+| SK hynix RAM HMT42GR7MFR4A 16384MB DIMM DDR3 1333MT/s          | 1        | 0.84%   |
+| SK hynix RAM HMT351U6EFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT351U6CFR8C-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMT31GR7CFR4A 8192MB DIMM DDR3 1333MT/s           | 1        | 0.84%   |
+| SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s           | 1        | 0.84%   |
+| Silicon Power RAM SP008GXLZU266BSA 8192MB DIMM DDR4 2666MT/s   | 1        | 0.84%   |
+| Samsung RAM M471B1G73EB0-YK0 8192MB DDR3 1600MT/s              | 1        | 0.84%   |
+| Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
+| Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
 
 Memory Kind
 -----------

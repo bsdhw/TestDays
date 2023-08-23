@@ -696,7 +696,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB          | 1         | 3.13%   |
 | SPCC Solid State Disk 120GB       | 1         | 3.13%   |
 | Silicon Motion NVME SSD 128GB     | 1         | 3.13%   |
-| Seagate ST500DM002-1BD142 500GB   | 1         | 3.13%   |
+| Seagate ST500DM002-1BD142 496GB   | 1         | 3.13%   |
 | Seagate ST380815AS 80GB           | 1         | 3.13%   |
 | Seagate ST3160023A 160GB          | 1         | 3.13%   |
 | Seagate ST240HM000-1G5152 240GB   | 1         | 3.13%   |
@@ -937,9 +937,9 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 5.26%   |
 | Intel SATA Controller [RAID mode]                                                | 2         | 5.26%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 2         | 5.26%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 2.63%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1         | 2.63%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1         | 2.63%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                  | 1         | 2.63%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1         | 2.63%   |
 | Kingston Company NVMe Controller                                                 | 1         | 2.63%   |
 | JMicron JMB368 IDE controller                                                    | 1         | 2.63%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1         | 2.63%   |
@@ -1582,37 +1582,37 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Computers | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM SDRAM                         | 2         | 6.25%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 2         | 6.25%   |
-| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s     | 2         | 6.25%   |
-| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s           | 1         | 3.13%   |
-| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 1         | 3.13%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                    | 1         | 3.13%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                | 1         | 3.13%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 1         | 3.13%   |
-| Unknown (0x1636) RAM 5.6.5 4GB SODIMM DDR4 2667MT/s          | 1         | 3.13%   |
-| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s        | 1         | 3.13%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s            | 1         | 3.13%   |
-| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                   | 1         | 3.13%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1         | 3.13%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.13%   |
-| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1         | 3.13%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s          | 1         | 3.13%   |
-| Ramaxel RAM RML1320KE48D8F-800 2GB DIMM DDR2 800MT/s         | 1         | 3.13%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s           | 1         | 3.13%   |
-| Micron RAM MTA8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s      | 1         | 3.13%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
-| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s        | 1         | 3.13%   |
-| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s       | 1         | 3.13%   |
-| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s        | 1         | 3.13%   |
-| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s        | 1         | 3.13%   |
-| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s        | 1         | 3.13%   |
-| Corsair RAM CM2X1024-6400 1GB DIMM DDR2 800MT/s              | 1         | 3.13%   |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 2         | 6.25%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2         | 6.25%   |
+| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s       | 2         | 6.25%   |
+| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s             | 1         | 3.13%   |
+| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 3.13%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                      | 1         | 3.13%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                  | 1         | 3.13%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1         | 3.13%   |
+| Unknown (0x1636) RAM 5.6.5 4GB SODIMM DDR4 2667MT/s            | 1         | 3.13%   |
+| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s          | 1         | 3.13%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s              | 1         | 3.13%   |
+| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                     | 1         | 3.13%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1         | 3.13%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 3.13%   |
+| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1         | 3.13%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s            | 1         | 3.13%   |
+| Ramaxel RAM RML1320KE48D8F-800 2GB DIMM DDR2 800MT/s           | 1         | 3.13%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s             | 1         | 3.13%   |
+| Micron RAM MTA8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s        | 1         | 3.13%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s            | 1         | 3.13%   |
+| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s          | 1         | 3.13%   |
+| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s         | 1         | 3.13%   |
+| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
+| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s          | 1         | 3.13%   |
+| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s          | 1         | 3.13%   |
+| Corsair RAM CM2X1024-6400 1GB DIMM DDR2 800MT/s                | 1         | 3.13%   |
 
 Memory Kind
 -----------

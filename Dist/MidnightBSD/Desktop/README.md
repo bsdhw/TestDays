@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 40
+Total: 41
 
 | Vendor     | Model                       | Probe                                                     | Date         |
 |------------|-----------------------------|-----------------------------------------------------------|--------------|
+| ASRock     | B550M Steel Legend          | [ffc50e224c](https://bsd-hardware.info/?probe=ffc50e224c) | Aug 01, 2023 |
 | Supermicro | X9SCL/X9SCMA                | [cb87f3725f](https://bsd-hardware.info/?probe=cb87f3725f) | May 14, 2023 |
 | ASUSTek    | TUF Gaming B560M-PLUS WI... | [50ff0c14dd](https://bsd-hardware.info/?probe=50ff0c14dd) | Apr 22, 2023 |
 | ASUSTek    | A7VI-VM                     | [083714b968](https://bsd-hardware.info/?probe=083714b968) | Apr 07, 2023 |
@@ -160,36 +161,36 @@ Total: 40
 | ASUSTek    | TUF Gaming B450M-PLUS II    | [e4af143188](https://bsd-hardware.info/?probe=e4af143188) | Jan 10, 2023 |
 | Supermicro | X9SCL/X9SCMA                | [0b16265d11](https://bsd-hardware.info/?probe=0b16265d11) | Jan 10, 2023 |
 | ASUSTek    | TUF Gaming B450M-PLUS II    | [4d9a4bfc40](https://bsd-hardware.info/?probe=4d9a4bfc40) | Dec 30, 2022 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [48d5feacf2](https://bsd-hardware.info/?probe=48d5feacf2) | Dec 08, 2022 |
+| ASRock     | B550M Steel Legend          | [48d5feacf2](https://bsd-hardware.info/?probe=48d5feacf2) | Dec 08, 2022 |
 | ASRock     | B550M Steel Legend          | [c6824c4f4a](https://bsd-hardware.info/?probe=c6824c4f4a) | Jun 11, 2022 |
 | ASUSTek    | PRIME Z590-P                | [3ef083287f](https://bsd-hardware.info/?probe=3ef083287f) | May 28, 2022 |
 | ASUSTek    | PRIME Z590-P                | [53cb90d2b7](https://bsd-hardware.info/?probe=53cb90d2b7) | May 28, 2022 |
 | HP         | 8767 A                      | [ac8a395a20](https://bsd-hardware.info/?probe=ac8a395a20) | May 20, 2022 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [50d12f98fc](https://bsd-hardware.info/?probe=50d12f98fc) | Apr 08, 2022 |
+| ASRock     | B550M Steel Legend          | [50d12f98fc](https://bsd-hardware.info/?probe=50d12f98fc) | Apr 08, 2022 |
 | ASRock     | B550M Steel Legend          | [ad0ab01ca8](https://bsd-hardware.info/?probe=ad0ab01ca8) | Apr 08, 2022 |
 | ASRock     | B550M Steel Legend          | [a752b8b4d6](https://bsd-hardware.info/?probe=a752b8b4d6) | Mar 22, 2022 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [ab838523ad](https://bsd-hardware.info/?probe=ab838523ad) | Jan 15, 2022 |
+| ASRock     | B550M Steel Legend          | [ab838523ad](https://bsd-hardware.info/?probe=ab838523ad) | Jan 15, 2022 |
 | ASRock     | X570 Steel Legend WiFi a... | [c13b78e6d5](https://bsd-hardware.info/?probe=c13b78e6d5) | Dec 23, 2021 |
 | ASRock     | X570 Steel Legend WiFi a... | [7bf6ec598f](https://bsd-hardware.info/?probe=7bf6ec598f) | Dec 18, 2021 |
 | HP         | 8767 A                      | [8bbd431806](https://bsd-hardware.info/?probe=8bbd431806) | Oct 14, 2021 |
 | HP         | 8767 A                      | [6bc45054bb](https://bsd-hardware.info/?probe=6bc45054bb) | Oct 14, 2021 |
 | ASRock     | X570 Steel Legend WiFi a... | [9614fd11d7](https://bsd-hardware.info/?probe=9614fd11d7) | Aug 21, 2021 |
 | ASUSTek    | TUF B350M-PLUS GAMING       | [bd63de17b0](https://bsd-hardware.info/?probe=bd63de17b0) | Jun 07, 2021 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [308573e703](https://bsd-hardware.info/?probe=308573e703) | Jun 02, 2021 |
+| ASRock     | B550M Steel Legend          | [308573e703](https://bsd-hardware.info/?probe=308573e703) | Jun 02, 2021 |
 | ASUSTek    | TUF B350M-PLUS GAMING       | [ba938810b9](https://bsd-hardware.info/?probe=ba938810b9) | May 25, 2021 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [29a31a7a93](https://bsd-hardware.info/?probe=29a31a7a93) | May 25, 2021 |
+| ASRock     | B550M Steel Legend          | [29a31a7a93](https://bsd-hardware.info/?probe=29a31a7a93) | May 25, 2021 |
 | HP         | 1589                        | [f97fc0533b](https://bsd-hardware.info/?probe=f97fc0533b) | Jan 02, 2021 |
 | ASUSTek    | TUF B350M-PLUS GAMING       | [778268ad6f](https://bsd-hardware.info/?probe=778268ad6f) | Dec 30, 2020 |
 | ASRock     | X570 Steel Legend WiFi a... | [a27f63a72c](https://bsd-hardware.info/?probe=a27f63a72c) | Dec 30, 2020 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [78b6751c3f](https://bsd-hardware.info/?probe=78b6751c3f) | Dec 24, 2020 |
+| ASRock     | B550M Steel Legend          | [78b6751c3f](https://bsd-hardware.info/?probe=78b6751c3f) | Dec 24, 2020 |
 | ASUSTek    | TUF GAMING B450M-PLUS II    | [99fca48a73](https://bsd-hardware.info/?probe=99fca48a73) | Dec 06, 2020 |
 | ASRock     | X570 Steel Legend WiFi a... | [86ba25be24](https://bsd-hardware.info/?probe=86ba25be24) | Nov 16, 2020 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [50ad3ee5fb](https://bsd-hardware.info/?probe=50ad3ee5fb) | Nov 16, 2020 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [164670d170](https://bsd-hardware.info/?probe=164670d170) | Oct 29, 2020 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [b4663b7249](https://bsd-hardware.info/?probe=b4663b7249) | Aug 28, 2020 |
+| ASRock     | B550M Steel Legend          | [50ad3ee5fb](https://bsd-hardware.info/?probe=50ad3ee5fb) | Nov 16, 2020 |
+| ASRock     | B550M Steel Legend          | [164670d170](https://bsd-hardware.info/?probe=164670d170) | Oct 29, 2020 |
+| ASRock     | B550M Steel Legend          | [b4663b7249](https://bsd-hardware.info/?probe=b4663b7249) | Aug 28, 2020 |
 | ASUSTek    | TUF B350M-PLUS GAMING       | [53aa996eaa](https://bsd-hardware.info/?probe=53aa996eaa) | Jul 31, 2020 |
 | ASUSTek    | TUF B350M-PLUS GAMING       | [20fac3b208](https://bsd-hardware.info/?probe=20fac3b208) | May 22, 2020 |
-| ASUSTek    | TUF Gaming B450M-PLUS II    | [44681211ff](https://bsd-hardware.info/?probe=44681211ff) | May 22, 2020 |
+| ASRock     | B550M Steel Legend          | [44681211ff](https://bsd-hardware.info/?probe=44681211ff) | May 22, 2020 |
 | ASUSTek    | PRIME X370-PRO              | [7c311ee004](https://bsd-hardware.info/?probe=7c311ee004) | May 22, 2020 |
 
 System
@@ -205,25 +206,26 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| MidnightBSD 2.0.2 | 4        | 12.5%   |
-| MidnightBSD 2.0.1 | 3        | 9.38%   |
-| MidnightBSD 1.2   | 3        | 9.38%   |
-| MidnightBSD 3.0.1 | 2        | 6.25%   |
-| MidnightBSD 3.0.0 | 2        | 6.25%   |
-| MidnightBSD 2.2.6 | 2        | 6.25%   |
-| MidnightBSD 2.2.0 | 2        | 6.25%   |
-| MidnightBSD 2.1.8 | 2        | 6.25%   |
-| MidnightBSD 2.0.7 | 2        | 6.25%   |
-| MidnightBSD 2.2.8 | 1        | 3.13%   |
-| MidnightBSD 2.2.5 | 1        | 3.13%   |
-| MidnightBSD 2.1.6 | 1        | 3.13%   |
-| MidnightBSD 2.1.5 | 1        | 3.13%   |
-| MidnightBSD 2.1.3 | 1        | 3.13%   |
-| MidnightBSD 2.1.2 | 1        | 3.13%   |
-| MidnightBSD 2.1.1 | 1        | 3.13%   |
-| MidnightBSD 2.1.0 | 1        | 3.13%   |
-| MidnightBSD 1.2.9 | 1        | 3.13%   |
-| MidnightBSD 1.2.7 | 1        | 3.13%   |
+| MidnightBSD 2.0.2 | 4        | 12.12%  |
+| MidnightBSD 2.0.1 | 3        | 9.09%   |
+| MidnightBSD 1.2   | 3        | 9.09%   |
+| MidnightBSD 3.0.1 | 2        | 6.06%   |
+| MidnightBSD 3.0.0 | 2        | 6.06%   |
+| MidnightBSD 2.2.6 | 2        | 6.06%   |
+| MidnightBSD 2.2.0 | 2        | 6.06%   |
+| MidnightBSD 2.1.8 | 2        | 6.06%   |
+| MidnightBSD 2.0.7 | 2        | 6.06%   |
+| MidnightBSD 3.1.0 | 1        | 3.03%   |
+| MidnightBSD 2.2.8 | 1        | 3.03%   |
+| MidnightBSD 2.2.5 | 1        | 3.03%   |
+| MidnightBSD 2.1.6 | 1        | 3.03%   |
+| MidnightBSD 2.1.5 | 1        | 3.03%   |
+| MidnightBSD 2.1.3 | 1        | 3.03%   |
+| MidnightBSD 2.1.2 | 1        | 3.03%   |
+| MidnightBSD 2.1.1 | 1        | 3.03%   |
+| MidnightBSD 2.1.0 | 1        | 3.03%   |
+| MidnightBSD 1.2.9 | 1        | 3.03%   |
+| MidnightBSD 1.2.7 | 1        | 3.03%   |
 
 OS Family
 ---------
@@ -355,9 +357,9 @@ Motherboard manufacturer
 
 | Name             | Desktops | Percent |
 |------------------|----------|---------|
-| ASUSTek Computer | 8        | 61.54%  |
+| ASUSTek Computer | 7        | 53.85%  |
+| ASRock           | 3        | 23.08%  |
 | Hewlett-Packard  | 2        | 15.38%  |
-| ASRock           | 2        | 15.38%  |
 | Supermicro       | 1        | 7.69%   |
 
 Model
@@ -370,7 +372,8 @@ Motherboard model
 
 | Name                             | Desktops | Percent |
 |----------------------------------|----------|---------|
-| ASUS TUF Gaming B450M-PLUS II    | 3        | 23.08%  |
+| ASUS TUF Gaming B450M-PLUS II    | 2        | 15.38%  |
+| ASRock B550M Steel Legend        | 2        | 15.38%  |
 | Supermicro X9SCL/X9SCM           | 1        | 7.69%   |
 | HP Z420 Workstation              | 1        | 7.69%   |
 | HP ENVY TE01-1xxx                | 1        | 7.69%   |
@@ -380,7 +383,6 @@ Motherboard model
 | ASUS PRIME X370-PRO              | 1        | 7.69%   |
 | ASUS A7VI-VM                     | 1        | 7.69%   |
 | ASRock X570 Steel Legend WiFi ax | 1        | 7.69%   |
-| ASRock B550M Steel Legend        | 1        | 7.69%   |
 
 Model Family
 ------------
@@ -392,14 +394,14 @@ Motherboard model prefix
 
 | Name             | Desktops | Percent |
 |------------------|----------|---------|
-| ASUS TUF         | 5        | 38.46%  |
+| ASUS TUF         | 4        | 30.77%  |
 | ASUS PRIME       | 2        | 15.38%  |
+| ASRock B550M     | 2        | 15.38%  |
 | Supermicro X9SCL | 1        | 7.69%   |
 | HP Z420          | 1        | 7.69%   |
 | HP ENVY          | 1        | 7.69%   |
 | ASUS A7VI-VM     | 1        | 7.69%   |
 | ASRock X570      | 1        | 7.69%   |
-| ASRock B550M     | 1        | 7.69%   |
 
 MFG Year
 --------
@@ -411,9 +413,9 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 3        | 23.08%  |
+| 2018 | 3        | 23.08%  |
 | 2021 | 2        | 15.38%  |
-| 2018 | 2        | 15.38%  |
+| 2019 | 2        | 15.38%  |
 | 2023 | 1        | 7.69%   |
 | 2020 | 1        | 7.69%   |
 | 2017 | 1        | 7.69%   |
@@ -471,15 +473,15 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 1.01-2.0   | 8        | 36.36%  |
-| 32.01-64.0 | 3        | 13.64%  |
-| 16.01-24.0 | 3        | 13.64%  |
-| 24.01-32.0 | 2        | 9.09%   |
-| 0.51-1.0   | 2        | 9.09%   |
-| 4.01-8.0   | 1        | 4.55%   |
-| 2.01-3.0   | 1        | 4.55%   |
-| 0          | 1        | 4.55%   |
-| Unknown    | 1        | 4.55%   |
+| 1.01-2.0   | 8        | 34.78%  |
+| 32.01-64.0 | 3        | 13.04%  |
+| 16.01-24.0 | 3        | 13.04%  |
+| 24.01-32.0 | 2        | 8.7%    |
+| 0.51-1.0   | 2        | 8.7%    |
+| Unknown    | 2        | 8.7%    |
+| 4.01-8.0   | 1        | 4.35%   |
+| 2.01-3.0   | 1        | 4.35%   |
+| 0          | 1        | 4.35%   |
 
 Total Drives
 ------------
@@ -491,14 +493,14 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 5      | 4        | 22.22%  |
-| 3      | 3        | 16.67%  |
-| 1      | 3        | 16.67%  |
-| 7      | 2        | 11.11%  |
-| 6      | 2        | 11.11%  |
-| 2      | 2        | 11.11%  |
-| 8      | 1        | 5.56%   |
-| 4      | 1        | 5.56%   |
+| 5      | 4        | 21.05%  |
+| 3      | 3        | 15.79%  |
+| 1      | 3        | 15.79%  |
+| 8      | 2        | 10.53%  |
+| 7      | 2        | 10.53%  |
+| 6      | 2        | 10.53%  |
+| 2      | 2        | 10.53%  |
+| 4      | 1        | 5.26%   |
 
 Has CD-ROM
 ----------
@@ -594,17 +596,17 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 7        | 47     | 21.88%  |
-| Seagate             | 6        | 38     | 18.75%  |
-| Intel               | 5        | 37     | 15.63%  |
-| WDC                 | 4        | 22     | 12.5%   |
-| Toshiba             | 3        | 6      | 9.38%   |
-| KIOXIA              | 2        | 3      | 6.25%   |
-| SK hynix            | 1        | 1      | 3.13%   |
-| SanDisk             | 1        | 4      | 3.13%   |
-| Maxtor              | 1        | 1      | 3.13%   |
-| Crucial             | 1        | 1      | 3.13%   |
-| A-DATA Technology   | 1        | 2      | 3.13%   |
+| Seagate             | 7        | 43     | 20.59%  |
+| Samsung Electronics | 7        | 48     | 20.59%  |
+| WDC                 | 5        | 23     | 14.71%  |
+| Intel               | 5        | 38     | 14.71%  |
+| Toshiba             | 3        | 6      | 8.82%   |
+| KIOXIA              | 2        | 3      | 5.88%   |
+| SK hynix            | 1        | 1      | 2.94%   |
+| SanDisk             | 1        | 4      | 2.94%   |
+| Maxtor              | 1        | 1      | 2.94%   |
+| Crucial             | 1        | 1      | 2.94%   |
+| A-DATA Technology   | 1        | 2      | 2.94%   |
 
 Drive Model
 -----------
@@ -616,38 +618,38 @@ Hard drive models
 
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
-| Samsung SSD 860 EVO 500GB                   | 4        | 8%      |
-| Samsung SSD 970 PRO 512GB                   | 3        | 6%      |
-| Intel SSDSC2KG480G8 480GB                   | 3        | 6%      |
-| WDC WD60EFAX-68SHWN0 6TB                    | 2        | 4%      |
-| Toshiba THNSNJ128GCSU 128GB                 | 2        | 4%      |
-| Seagate ST8000VN0022-2EL112 8TB             | 2        | 4%      |
-| Seagate ST8000VN0002-1Z8112 8TB             | 2        | 4%      |
-| Seagate FireCuda 120 SSD ZA500GM10001 500GB | 2        | 4%      |
-| Samsung SSD 870 EVO 1TB                     | 2        | 4%      |
-| Samsung SSD 860 QVO 2TB                     | 2        | 4%      |
-| Samsung SSD 860 EVO 1TB                     | 2        | 4%      |
-| Samsung SSD 750 EVO 250GB                   | 2        | 4%      |
-| KIOXIA KBG40ZNV1T02 1TB                     | 2        | 4%      |
-| Intel SSDPED1D480GA 480GB                   | 2        | 4%      |
-| WDC WDS100T3X0C-00SJG0 1TB                  | 1        | 2%      |
-| WDC WD30EZRX-00MMMB0 3TB                    | 1        | 2%      |
-| WDC WD1003FZEX-00K3CA0 1TB                  | 1        | 2%      |
-| Toshiba TL100 120GB                         | 1        | 2%      |
-| SK hynix SHGP31-1000GM 1TB                  | 1        | 2%      |
-| Seagate ST5000DM000-1FK178 5TB              | 1        | 2%      |
-| Seagate ST2000DM001-1CH164 2TB              | 1        | 2%      |
-| Seagate ST16000NM001G-2KK103 16TB           | 1        | 2%      |
-| Seagate ST10000VN0008-2PJ103 10TB           | 1        | 2%      |
-| Seagate ST10000NE0008-2PL103 10TB           | 1        | 2%      |
-| Seagate IronWolf ZA1000NM10002-2ZG102 1TB   | 1        | 2%      |
-| SanDisk Ultra 3D NVMe 1TB                   | 1        | 2%      |
-| Maxtor STM3250310AS 250GB                   | 1        | 2%      |
-| Intel SSDSC2KW480H6 480GB                   | 1        | 2%      |
-| Intel SSDSC2BW240H6 240GB                   | 1        | 2%      |
-| Intel SSDSA2CT040G3 40GB                    | 1        | 2%      |
-| Crucial CT500P2SSD8 500GB                   | 1        | 2%      |
-| A-DATA SX6000NP 128GB                       | 1        | 2%      |
+| Samsung SSD 860 EVO 500GB                   | 5        | 8.62%   |
+| Seagate ST8000VN0022-2EL112 8TB             | 3        | 5.17%   |
+| Seagate ST8000VN0002-1Z8112 8TB             | 3        | 5.17%   |
+| Samsung SSD 970 PRO 512GB                   | 3        | 5.17%   |
+| Intel SSDSC2KG480G8 480GB                   | 3        | 5.17%   |
+| Intel SSDPED1D480GA 480GB                   | 3        | 5.17%   |
+| WDC WDS100T3X0C-00SJG0 1TB                  | 2        | 3.45%   |
+| WDC WD60EFAX-68SHWN0 6TB                    | 2        | 3.45%   |
+| Toshiba THNSNJ128GCSU 128GB                 | 2        | 3.45%   |
+| Seagate ST16000NM001G-2KK103 16TB           | 2        | 3.45%   |
+| Seagate ST10000VN0008-2PJ103 10TB           | 2        | 3.45%   |
+| Seagate ST10000NE0008-2PL103 10TB           | 2        | 3.45%   |
+| Seagate FireCuda 120 SSD ZA500GM10001 500GB | 2        | 3.45%   |
+| Samsung SSD 870 EVO 1TB                     | 2        | 3.45%   |
+| Samsung SSD 860 QVO 2TB                     | 2        | 3.45%   |
+| Samsung SSD 860 EVO 1TB                     | 2        | 3.45%   |
+| Samsung SSD 750 EVO 250GB                   | 2        | 3.45%   |
+| KIOXIA KBG40ZNV1T02 1TB                     | 2        | 3.45%   |
+| WDC WD30EZRX-00MMMB0 3TB                    | 1        | 1.72%   |
+| WDC WD1003FZEX-00K3CA0 1TB                  | 1        | 1.72%   |
+| Toshiba TL100 120GB                         | 1        | 1.72%   |
+| SK hynix SHGP31-1000GM 1TB                  | 1        | 1.72%   |
+| Seagate ST5000DM000-1FK178 5TB              | 1        | 1.72%   |
+| Seagate ST2000DM001-1CH164 2TB              | 1        | 1.72%   |
+| Seagate IronWolf ZA1000NM10002-2ZG102 1TB   | 1        | 1.72%   |
+| SanDisk Ultra 3D NVMe 1TB                   | 1        | 1.72%   |
+| Maxtor STM3250310AS 250GB                   | 1        | 1.72%   |
+| Intel SSDSC2KW480H6 480GB                   | 1        | 1.72%   |
+| Intel SSDSC2BW240H6 240GB                   | 1        | 1.72%   |
+| Intel SSDSA2CT040G3 40GB                    | 1        | 1.72%   |
+| Crucial CT500P2SSD8 500GB                   | 1        | 1.72%   |
+| A-DATA SX6000NP 128GB                       | 1        | 1.72%   |
 
 HDD Vendor
 ----------
@@ -659,9 +661,9 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 4        | 18     | 50%     |
-| Seagate | 3        | 32     | 37.5%   |
-| Maxtor  | 1        | 1      | 12.5%   |
+| WDC     | 4        | 18     | 44.44%  |
+| Seagate | 4        | 37     | 44.44%  |
+| Maxtor  | 1        | 1      | 11.11%  |
 
 SSD Vendor
 ----------
@@ -673,7 +675,7 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 6        | 34     | 40%     |
+| Samsung Electronics | 6        | 35     | 40%     |
 | Toshiba             | 3        | 6      | 20%     |
 | Seagate             | 3        | 6      | 20%     |
 | Intel               | 3        | 29     | 20%     |
@@ -688,9 +690,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 10       | 75     | 43.48%  |
-| NVMe | 8        | 36     | 34.78%  |
-| HDD  | 5        | 51     | 21.74%  |
+| SSD  | 10       | 76     | 41.67%  |
+| NVMe | 8        | 38     | 33.33%  |
+| HDD  | 6        | 56     | 25%     |
 
 Drive Connector
 ---------------
@@ -702,8 +704,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 12       | 126    | 60%     |
-| NVMe | 8        | 36     | 40%     |
+| SATA | 12       | 132    | 60%     |
+| NVMe | 8        | 38     | 40%     |
 
 Drive Size
 ----------
@@ -715,12 +717,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 11       | 56     | 47.83%  |
-| 0.51-1.0   | 5        | 18     | 21.74%  |
-| 1.01-2.0   | 3        | 6      | 13.04%  |
-| 4.01-10.0  | 2        | 41     | 8.7%    |
-| 2.01-3.0   | 1        | 1      | 4.35%   |
-| 10.01-20.0 | 1        | 4      | 4.35%   |
+| 0.01-0.5   | 11       | 57     | 44%     |
+| 0.51-1.0   | 5        | 18     | 20%     |
+| 1.01-2.0   | 3        | 6      | 12%     |
+| 4.01-10.0  | 3        | 45     | 12%     |
+| 10.01-20.0 | 2        | 5      | 8%      |
+| 2.01-3.0   | 1        | 1      | 4%      |
 
 Space Total
 -----------
@@ -732,10 +734,10 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 251-500    | 8        | 57.14%  |
-| 501-1000   | 3        | 21.43%  |
-| 101-250    | 2        | 14.29%  |
-| 21-50      | 1        | 7.14%   |
+| 251-500    | 8        | 53.33%  |
+| 501-1000   | 4        | 26.67%  |
+| 101-250    | 2        | 13.33%  |
+| 21-50      | 1        | 6.67%   |
 
 Space Used
 ----------
@@ -747,11 +749,11 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 1-20    | 7        | 41.18%  |
-| 21-50   | 4        | 23.53%  |
-| 51-100  | 3        | 17.65%  |
-| 251-500 | 2        | 11.76%  |
-| 101-250 | 1        | 5.88%   |
+| 1-20    | 8        | 44.44%  |
+| 21-50   | 4        | 22.22%  |
+| 51-100  | 3        | 16.67%  |
+| 251-500 | 2        | 11.11%  |
+| 101-250 | 1        | 5.56%   |
 
 Malfunc. Drives
 ---------------
@@ -828,7 +830,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 12       | 158    | 80%     |
+| Works    | 12       | 166    | 80%     |
 | Malfunc  | 2        | 3      | 13.33%  |
 | Detected | 1        | 1      | 6.67%   |
 
@@ -845,16 +847,16 @@ Storage controller vendors
 
 | Vendor                    | Desktops | Percent |
 |---------------------------|----------|---------|
-| Intel                     | 7        | 25%     |
-| AMD                       | 7        | 25%     |
-| SanDisk                   | 3        | 10.71%  |
-| Samsung Electronics       | 3        | 10.71%  |
-| Realtek Semiconductor     | 2        | 7.14%   |
-| KIOXIA                    | 2        | 7.14%   |
-| VIA Technologies          | 1        | 3.57%   |
-| SK hynix                  | 1        | 3.57%   |
-| Silicon Image             | 1        | 3.57%   |
-| Micron/Crucial Technology | 1        | 3.57%   |
+| Intel                     | 8        | 26.67%  |
+| AMD                       | 7        | 23.33%  |
+| SanDisk                   | 4        | 13.33%  |
+| Samsung Electronics       | 3        | 10%     |
+| Realtek Semiconductor     | 2        | 6.67%   |
+| KIOXIA                    | 2        | 6.67%   |
+| VIA Technologies          | 1        | 3.33%   |
+| SK hynix                  | 1        | 3.33%   |
+| Silicon Image             | 1        | 3.33%   |
+| Micron/Crucial Technology | 1        | 3.33%   |
 
 Storage Model
 -------------
@@ -866,28 +868,28 @@ Storage controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                           | 5        | 13.89%  |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 3        | 8.33%   |
-| AMD 400 Series Chipset SATA Controller                                        | 3        | 8.33%   |
-| Realtek NVMe Controller                                                       | 2        | 5.56%   |
-| KIOXIA NVMe SSD Controller BG4                                                | 2        | 5.56%   |
-| Intel Optane SSD 900P Series                                                  | 2        | 5.56%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                          | 2        | 5.56%   |
-| AMD 500 Series Chipset SATA Controller                                        | 2        | 5.56%   |
-| AMD 300 Series Chipset SATA Controller                                        | 2        | 5.56%   |
-| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1        | 2.78%   |
-| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1        | 2.78%   |
-| Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1        | 2.78%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                | 1        | 2.78%   |
-| Sandisk WD Black SN770 NVMe SSD                                               | 1        | 2.78%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 1        | 2.78%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                               | 1        | 2.78%   |
-| Intel SATA Controller [RAID mode]                                             | 1        | 2.78%   |
-| Intel C602 chipset 4-Port SATA Storage Control Unit                           | 1        | 2.78%   |
-| Intel C600/X79 series chipset IDE-r Controller                                | 1        | 2.78%   |
-| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                     | 1        | 2.78%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller | 1        | 2.78%   |
-| AMD X370 Series Chipset SATA Controller                                       | 1        | 2.78%   |
+| AMD FCH SATA Controller [AHCI mode]                                           | 5        | 12.82%  |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 3        | 7.69%   |
+| Intel Optane SSD 900P Series                                                  | 3        | 7.69%   |
+| AMD 500 Series Chipset SATA Controller                                        | 3        | 7.69%   |
+| AMD 400 Series Chipset SATA Controller                                        | 3        | 7.69%   |
+| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 2        | 5.13%   |
+| Realtek RTS5763DL x2 NVMe SSD Controller                                      | 2        | 5.13%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                    | 2        | 5.13%   |
+| Intel 500 Series Chipset Family SATA AHCI Controller                          | 2        | 5.13%   |
+| AMD 300 Series Chipset SATA Controller                                        | 2        | 5.13%   |
+| VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1        | 2.56%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1        | 2.56%   |
+| Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1        | 2.56%   |
+| SanDisk WD Blue SN550 NVMe SSD                                                | 1        | 2.56%   |
+| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD       | 1        | 2.56%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1        | 2.56%   |
+| Intel SATA Controller [RAID mode]                                             | 1        | 2.56%   |
+| Intel C602 chipset 4-Port SATA Storage Control Unit                           | 1        | 2.56%   |
+| Intel C600/X79 series chipset IDE-r Controller                                | 1        | 2.56%   |
+| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                     | 1        | 2.56%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller | 1        | 2.56%   |
+| AMD X370 Series Chipset SATA Controller                                       | 1        | 2.56%   |
 
 Storage Kind
 ------------
@@ -931,18 +933,18 @@ Processor models
 
 | Model                                   | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| AMD Ryzen 7 2700 Eight-Core Processor   | 3        | 18.75%  |
-| AMD Ryzen 7 5800X 8-Core Processor      | 2        | 12.5%   |
-| AMD Ryzen 7 1700 Eight-Core Processor   | 2        | 12.5%   |
-| Intel Xeon CPU E5-2670 @ 2.60GHz        | 1        | 6.25%   |
-| Intel Xeon CPU E3-1230 V2 @ 3.30GHz     | 1        | 6.25%   |
-| Intel Core i7-10700 CPU @ 2.90GHz       | 1        | 6.25%   |
-| Intel 11th Gen Core i9-11900K @ 3.50GHz | 1        | 6.25%   |
-| Intel 11th Gen Core i7-11700 @ 2.50GHz  | 1        | 6.25%   |
-| AMD Ryzen 9 3950X 16-Core Processor     | 1        | 6.25%   |
-| AMD Ryzen 7 5700X 8-Core Processor      | 1        | 6.25%   |
-| AMD Ryzen 7 2700X Eight-Core Processor  | 1        | 6.25%   |
-| AMD Duron Processor                     | 1        | 6.25%   |
+| AMD Ryzen 7 5800X 8-Core Processor      | 3        | 17.65%  |
+| AMD Ryzen 7 2700 Eight-Core Processor   | 3        | 17.65%  |
+| AMD Ryzen 7 1700 Eight-Core Processor   | 2        | 11.76%  |
+| Intel Xeon CPU E5-2670 @ 2.60GHz        | 1        | 5.88%   |
+| Intel Xeon CPU E3-1230 V2 @ 3.30GHz     | 1        | 5.88%   |
+| Intel Core i7-10700 CPU @ 2.90GHz       | 1        | 5.88%   |
+| Intel 11th Gen Core i9-11900K @ 3.50GHz | 1        | 5.88%   |
+| Intel 11th Gen Core i7-11700 @ 2.50GHz  | 1        | 5.88%   |
+| AMD Ryzen 9 3950X 16-Core Processor     | 1        | 5.88%   |
+| AMD Ryzen 7 5700X 8-Core Processor      | 1        | 5.88%   |
+| AMD Ryzen 7 2700X Eight-Core Processor  | 1        | 5.88%   |
+| AMD Duron Processor                     | 1        | 5.88%   |
 
 CPU Model Family
 ----------------
@@ -1012,15 +1014,15 @@ Microarchitecture
 
 | Name        | Desktops | Percent |
 |-------------|----------|---------|
-| Zen+        | 4        | 25%     |
-| Zen 3       | 3        | 18.75%  |
-| Zen         | 2        | 12.5%   |
-| Unknown     | 2        | 12.5%   |
-| Zen 2       | 1        | 6.25%   |
-| SandyBridge | 1        | 6.25%   |
-| K6          | 1        | 6.25%   |
-| IvyBridge   | 1        | 6.25%   |
-| CometLake   | 1        | 6.25%   |
+| Zen+        | 4        | 23.53%  |
+| Zen 3       | 4        | 23.53%  |
+| Zen         | 2        | 11.76%  |
+| Unknown     | 2        | 11.76%  |
+| Zen 2       | 1        | 5.88%   |
+| SandyBridge | 1        | 5.88%   |
+| K6          | 1        | 5.88%   |
+| IvyBridge   | 1        | 5.88%   |
+| CometLake   | 1        | 5.88%   |
 
 Graphics
 --------
@@ -1489,15 +1491,15 @@ Memory module vendors
 
 | Vendor              | Desktops | Percent |
 |---------------------|----------|---------|
-| Corsair             | 5        | 26.32%  |
-| G.Skill             | 4        | 21.05%  |
-| Unknown             | 2        | 10.53%  |
-| Samsung Electronics | 2        | 10.53%  |
-| Kingston            | 2        | 10.53%  |
-| Micron Technology   | 1        | 5.26%   |
-| Elpida              | 1        | 5.26%   |
-| Crucial             | 1        | 5.26%   |
-| Unknown             | 1        | 5.26%   |
+| G.Skill             | 5        | 25%     |
+| Corsair             | 5        | 25%     |
+| Unknown             | 2        | 10%     |
+| Samsung Electronics | 2        | 10%     |
+| Kingston            | 2        | 10%     |
+| Micron Technology   | 1        | 5%      |
+| Elpida              | 1        | 5%      |
+| Crucial             | 1        | 5%      |
+| Unknown             | 1        | 5%      |
 
 Memory Model
 ------------
@@ -1509,22 +1511,22 @@ Memory module models
 
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
-| G.Skill RAM F4-3600C18-32GTZN 32GB DIMM DDR4 3600MT/s   | 3        | 15%     |
-| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3200MT/s  | 3        | 15%     |
-| Unknown RAM Module 64MB DIMM DRAM                       | 1        | 5%      |
-| Unknown RAM CL18-22-22 D4-3600 16384MB DIMM 2667MT/s    | 1        | 5%      |
-| Samsung RAM Module 16GB DIMM DDR4 3200MT/s              | 1        | 5%      |
-| Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 5%      |
-| Micron RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 5%      |
-| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3200MT/s   | 1        | 5%      |
-| Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 5%      |
-| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 5%      |
-| G.Skill RAM F4-4400C19-16GTZR 16GB DIMM DDR4 2667MT/s   | 1        | 5%      |
-| Elpida RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 5%      |
-| Crucial RAM CT16G4DFRA32A.M16FR 16GB DIMM DDR4 3200MT/s | 1        | 5%      |
-| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3000MT/s  | 1        | 5%      |
-| Corsair RAM CMK16GX4M2Z2666C16 8GB DIMM DDR4 2666MT/s   | 1        | 5%      |
-| Unknown                                                 | 1        | 5%      |
+| G.Skill RAM F4-3600C18-32GTZN 32GB DIMM DDR4 3600MT/s   | 4        | 19.05%  |
+| Corsair RAM CMK32GX4M2B3200C16 16GB DIMM DDR4 3200MT/s  | 3        | 14.29%  |
+| Unknown RAM Module 64MB DIMM DRAM                       | 1        | 4.76%   |
+| Unknown RAM CL18-22-22 D4-3600 16384MB DIMM 2667MT/s    | 1        | 4.76%   |
+| Samsung RAM Module 16GB DIMM DDR4 3200MT/s              | 1        | 4.76%   |
+| Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 4.76%   |
+| Micron RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 4.76%   |
+| Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3200MT/s   | 1        | 4.76%   |
+| Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
+| Kingston RAM 9965525-116.A00LF 8GB DIMM DDR3 1600MT/s   | 1        | 4.76%   |
+| G.Skill RAM F4-4400C19-16GTZR 16GB DIMM DDR4 2667MT/s   | 1        | 4.76%   |
+| Elpida RAM Module 8GB DIMM DDR3 1600MT/s                | 1        | 4.76%   |
+| Crucial RAM CT16G4DFRA32A.M16FR 16GB DIMM DDR4 3200MT/s | 1        | 4.76%   |
+| Corsair RAM CMK32GX4M2A2666C16 16GB DIMM DDR4 3000MT/s  | 1        | 4.76%   |
+| Corsair RAM CMK16GX4M2Z2666C16 8GB DIMM DDR4 2666MT/s   | 1        | 4.76%   |
+| Unknown                                                 | 1        | 4.76%   |
 
 Memory Kind
 -----------
@@ -1562,11 +1564,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 16384 | 7        | 43.75%  |
-| 32768 | 4        | 25%     |
-| 8192  | 3        | 18.75%  |
-| 256   | 1        | 6.25%   |
-| 64    | 1        | 6.25%   |
+| 16384 | 7        | 41.18%  |
+| 32768 | 5        | 29.41%  |
+| 8192  | 3        | 17.65%  |
+| 256   | 1        | 5.88%   |
+| 64    | 1        | 5.88%   |
 
 Memory Speed
 ------------
@@ -1578,13 +1580,13 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 3200    | 5        | 35.71%  |
-| 3600    | 3        | 21.43%  |
-| 1600    | 2        | 14.29%  |
-| 3000    | 1        | 7.14%   |
-| 2667    | 1        | 7.14%   |
-| 2666    | 1        | 7.14%   |
-| Unknown | 1        | 7.14%   |
+| 3200    | 5        | 33.33%  |
+| 3600    | 4        | 26.67%  |
+| 1600    | 2        | 13.33%  |
+| 3000    | 1        | 6.67%   |
+| 2667    | 1        | 6.67%   |
+| 2666    | 1        | 6.67%   |
+| Unknown | 1        | 6.67%   |
 
 Printers & scanners
 -------------------

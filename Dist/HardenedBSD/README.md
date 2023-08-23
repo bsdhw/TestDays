@@ -914,7 +914,7 @@ Storage controller models
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 2         | 5.88%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 5.88%   |
 | Toshiba XG6 NVMe SSD Controller                                                | 1         | 2.94%   |
-| SK hynix hynix unknown                                                         | 1         | 2.94%   |
+| SK hynix PC601 NVMe Solid State Drive                                          | 1         | 2.94%   |
 | Phison E7 NVMe Controller                                                      | 1         | 2.94%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller               | 1         | 2.94%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 1         | 2.94%   |
@@ -932,8 +932,8 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 1         | 2.94%   |
 | HP Smart Array Gen9 Controllers                                                | 1         | 2.94%   |
 | Broadcom / LSI MegaRAID SAS-3 3108 [Invader]                                   | 1         | 2.94%   |
+| Biwin Storage EX950 NVMe SSD                                                   | 1         | 2.94%   |
 | ASMedia 106x SATA/RAID Controller                                              | 1         | 2.94%   |
-| Unknown                                                                        | 1         | 2.94%   |
 
 Storage Kind
 ------------

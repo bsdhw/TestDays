@@ -830,7 +830,7 @@ Storage controller models
 |-------------------------------------------------------------------------------|----------|---------|
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 3        | 10.71%  |
 | AMD FCH SATA Controller [AHCI mode]                                           | 3        | 10.71%  |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                               | 2        | 7.14%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 2        | 7.14%   |
 | Samsung NVMe SSD Controller 980                                               | 2        | 7.14%   |
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                            | 2        | 7.14%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]  | 2        | 7.14%   |
@@ -1421,23 +1421,23 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s            | 2        | 11.11%  |
-| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s        | 2        | 11.11%  |
-| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s     | 2        | 11.11%  |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 5.56%   |
-| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s         | 1        | 5.56%   |
-| Samsung RAM Module 2GB DIMM DDR3 400MT/s                     | 1        | 5.56%   |
-| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 5.56%   |
-| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 5.56%   |
-| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s          | 1        | 5.56%   |
-| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s       | 1        | 5.56%   |
-| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s      | 1        | 5.56%   |
-| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s        | 1        | 5.56%   |
-| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s      | 1        | 5.56%   |
-| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s      | 1        | 5.56%   |
-| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s      | 1        | 5.56%   |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s              | 2        | 11.11%  |
+| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s          | 2        | 11.11%  |
+| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s       | 2        | 11.11%  |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 5.56%   |
+| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s           | 1        | 5.56%   |
+| Samsung RAM Module 2GB DIMM DDR3 400MT/s                       | 1        | 5.56%   |
+| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s           | 1        | 5.56%   |
+| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s           | 1        | 5.56%   |
+| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s            | 1        | 5.56%   |
+| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s         | 1        | 5.56%   |
+| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s        | 1        | 5.56%   |
+| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s          | 1        | 5.56%   |
+| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s        | 1        | 5.56%   |
+| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s        | 1        | 5.56%   |
+| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s        | 1        | 5.56%   |
 
 Memory Kind
 -----------

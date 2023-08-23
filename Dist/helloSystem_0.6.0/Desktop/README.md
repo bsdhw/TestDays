@@ -785,7 +785,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB           | 1        | 0.83%   |
 | WDC WD1002FAEX-00Y9A0 1TB          | 1        | 0.83%   |
 | WDC WD1001FAES-75W7A0 1TB          | 1        | 0.83%   |
-| Verbatim Vi550 S3 SSD 512GB        | 1        | 0.83%   |
+| Verbatim Vi550 S3 SSD 256GB        | 1        | 0.83%   |
 | Toshiba MQ01UBD100 1TB             | 1        | 0.83%   |
 | Toshiba MQ01ABD032 320GB           | 1        | 0.83%   |
 
@@ -870,8 +870,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 74     | 57.14%  |
-| 0.51-1.0   | 22       | 27     | 26.19%  |
+| 0.01-0.5   | 47       | 74     | 55.95%  |
+| 0.51-1.0   | 23       | 27     | 27.38%  |
 | 1.01-2.0   | 6        | 7      | 7.14%   |
 | 2.01-3.0   | 4        | 6      | 4.76%   |
 | 3.01-4.0   | 3        | 3      | 3.57%   |
@@ -930,7 +930,7 @@ Drive models with a malfunction
 | Seagate ST750LM022 HN-M750MBB 752GB | 1        | 1      | 5%      |
 | Seagate ST500LT012-9WS142 500GB     | 1        | 1      | 5%      |
 | Seagate ST500LT012-1DG142 500GB     | 1        | 1      | 5%      |
-| Seagate ST500DM002-1BD142 500GB     | 1        | 1      | 5%      |
+| Seagate ST500DM002-1BD142 496GB     | 1        | 1      | 5%      |
 | Seagate ST3500413AS 500GB           | 1        | 1      | 5%      |
 | SanDisk SDSSDA240G 240GB            | 1        | 1      | 5%      |
 | Samsung Electronics HD161HJ 160GB   | 1        | 1      | 5%      |
@@ -1061,7 +1061,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.13%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 2.13%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2        | 2.13%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1        | 1.06%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 1.06%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 1.06%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.06%   |
 | Phison PS5013 E13 NVMe Controller                                                       | 1        | 1.06%   |
@@ -1069,7 +1069,7 @@ Storage controller models
 | Phison E12 NVMe Controller                                                              | 1        | 1.06%   |
 | Lite-On IT Corp. / Plextor M6e PCI Express SSD [Marvell 88SS9183]                       | 1        | 1.06%   |
 | JMicron JMB361 AHCI/IDE                                                                 | 1        | 1.06%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                                 | 1        | 1.06%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                        | 1        | 1.06%   |
 | Intel Comet Lake SATA AHCI Controller                                                   | 1        | 1.06%   |
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                              | 1        | 1.06%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                              | 1        | 1.06%   |
@@ -1988,7 +1988,7 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown                                                 | 3        | 4.11%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s     | 2        | 2.74%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.74%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.74%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
@@ -2009,7 +2009,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.37%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.37%   |
-| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.37%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |

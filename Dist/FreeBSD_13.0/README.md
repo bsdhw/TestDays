@@ -1212,13 +1212,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 129       | 181    | 53.53%  |
-| 0.51-1.0   | 62        | 89     | 25.73%  |
-| 1.01-2.0   | 16        | 34     | 6.64%   |
-| 3.01-4.0   | 11        | 27     | 4.56%   |
-| 4.01-10.0  | 11        | 55     | 4.56%   |
-| 2.01-3.0   | 8         | 23     | 3.32%   |
-| 10.01-20.0 | 4         | 19     | 1.66%   |
+| 0.01-0.5   | 128       | 180    | 53.33%  |
+| 0.51-1.0   | 62        | 90     | 25.83%  |
+| 1.01-2.0   | 16        | 34     | 6.67%   |
+| 3.01-4.0   | 11        | 27     | 4.58%   |
+| 4.01-10.0  | 11        | 55     | 4.58%   |
+| 2.01-3.0   | 8         | 23     | 3.33%   |
+| 10.01-20.0 | 4         | 19     | 1.67%   |
 
 Space Total
 -----------
@@ -1468,7 +1468,7 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 3         | 0.99%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 3         | 0.99%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                     | 3         | 0.99%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 2         | 0.66%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 2         | 0.66%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 0.66%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 2         | 0.66%   |
 | Phison E12 NVMe Controller                                                       | 2         | 0.66%   |
@@ -1512,9 +1512,9 @@ Processor vendors
 
 | Vendor  | Computers | Percent |
 |---------|-----------|---------|
-| Intel   | 168       | 75.34%  |
-| AMD     | 41        | 18.39%  |
-| ARM     | 11        | 4.93%   |
+| Intel   | 168       | 75.68%  |
+| AMD     | 41        | 18.47%  |
+| ARM     | 10        | 4.5%    |
 | Unknown | 3         | 1.35%   |
 
 CPU Model
@@ -1527,11 +1527,11 @@ Processor models
 
 | Model                                        | Computers | Percent |
 |----------------------------------------------|-----------|---------|
-| ARM Cortex-A72 r0p3                          | 6         | 2.69%   |
-| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.24%   |
-| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.79%   |
-| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.79%   |
-| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.79%   |
+| ARM Cortex-A72 r0p3                          | 6         | 2.7%    |
+| Intel Core i5-7200U CPU @ 2.50GHz            | 5         | 2.25%   |
+| Intel Core i5-8350U CPU @ 1.70GHz            | 4         | 1.8%    |
+| Intel Core i5-5300U CPU @ 2.30GHz            | 4         | 1.8%    |
+| AMD Ryzen 7 2700 Eight-Core Processor        | 4         | 1.8%    |
 | Intel CPU Version                            | 3         | 1.35%   |
 | Intel Core i7-7500U CPU @ 2.70GHz            | 3         | 1.35%   |
 | Intel Core i7-6700 CPU @ 3.40GHz             | 3         | 1.35%   |
@@ -1578,20 +1578,20 @@ Processor model prefix
 
 | Model                  | Computers | Percent |
 |------------------------|-----------|---------|
-| Intel Core i5          | 50        | 22.42%  |
-| Intel Core i7          | 39        | 17.49%  |
-| Other                  | 12        | 5.38%   |
-| Intel Core i3          | 12        | 5.38%   |
-| Intel Xeon             | 11        | 4.93%   |
-| ARM Cortex             | 11        | 4.93%   |
-| AMD Ryzen 7            | 11        | 4.93%   |
-| Intel Celeron          | 10        | 4.48%   |
-| Intel Pentium          | 9         | 4.04%   |
-| AMD Ryzen 9            | 8         | 3.59%   |
-| Intel Core 2 Duo       | 7         | 3.14%   |
-| Intel Atom             | 6         | 2.69%   |
-| Intel Pentium 4        | 4         | 1.79%   |
-| AMD Ryzen 5            | 4         | 1.79%   |
+| Intel Core i5          | 50        | 22.52%  |
+| Intel Core i7          | 39        | 17.57%  |
+| Other                  | 12        | 5.41%   |
+| Intel Core i3          | 12        | 5.41%   |
+| Intel Xeon             | 11        | 4.95%   |
+| AMD Ryzen 7            | 11        | 4.95%   |
+| Intel Celeron          | 10        | 4.5%    |
+| ARM Cortex             | 10        | 4.5%    |
+| Intel Pentium          | 9         | 4.05%   |
+| AMD Ryzen 9            | 8         | 3.6%    |
+| Intel Core 2 Duo       | 7         | 3.15%   |
+| Intel Atom             | 6         | 2.7%    |
+| Intel Pentium 4        | 4         | 1.8%    |
+| AMD Ryzen 5            | 4         | 1.8%    |
 | AMD Ryzen 3            | 3         | 1.35%   |
 | Intel Xeon Silver      | 2         | 0.9%    |
 | Intel Pentium Silver   | 2         | 0.9%    |
@@ -1649,9 +1649,9 @@ Number of sockets
 
 | Number  | Computers | Percent |
 |---------|-----------|---------|
-| 1       | 202       | 90.58%  |
-| Unknown | 11        | 4.93%   |
-| 2       | 10        | 4.48%   |
+| 1       | 202       | 90.99%  |
+| 2       | 10        | 4.5%    |
+| Unknown | 10        | 4.5%    |
 
 CPU Threads
 -----------
@@ -2597,11 +2597,12 @@ Memory module models
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 3         | 1.17%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s  | 3         | 1.17%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 3         | 1.17%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s   | 3         | 1.17%   |
+| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s  | 3         | 1.17%   |
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2         | 0.78%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2         | 0.78%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 0.78%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2         | 0.78%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2         | 0.78%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
@@ -2627,7 +2628,6 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                    | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM DDR3 667MT/s              | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM 667MT/s                   | 1         | 0.39%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 1         | 0.39%   |
 
 Memory Kind
 -----------

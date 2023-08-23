@@ -561,13 +561,13 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 17        | 15.6%   |
+| 2020 | 16        | 14.68%  |
 | 2018 | 14        | 12.84%  |
 | 2013 | 12        | 11.01%  |
 | 2019 | 10        | 9.17%   |
 | 2014 | 10        | 9.17%   |
 | 2012 | 10        | 9.17%   |
-| 2017 | 7         | 6.42%   |
+| 2017 | 8         | 7.34%   |
 | 2015 | 7         | 6.42%   |
 | 2011 | 6         | 5.5%    |
 | 2009 | 5         | 4.59%   |
@@ -869,7 +869,7 @@ Hard drive models
 | WDC WD10EZEX-21M2NA0 1TB        | 2         | 1.14%   |
 | Toshiba Q300 480GB              | 2         | 1.14%   |
 | Toshiba HDWD120 2TB             | 2         | 1.14%   |
-| Seagate ST500DM002-1BD142 500GB | 2         | 1.14%   |
+| Seagate ST500DM002-1BD142 496GB | 2         | 1.14%   |
 | Seagate ST1000LM049-2GH172 1TB  | 2         | 1.14%   |
 | Seagate ST1000LM035-1RK172 1TB  | 2         | 1.14%   |
 | Samsung SSD 970 EVO 250GB       | 2         | 1.14%   |
@@ -1046,7 +1046,7 @@ Drive models with a malfunction
 | WDC WD10EZEX-21M2NA0 1TB                        | 1         | 1      | 5.88%   |
 | Toshiba MQ01ACF032 320GB                        | 1         | 1      | 5.88%   |
 | Seagate ST500LM021-1KJ152 500GB                 | 1         | 1      | 5.88%   |
-| Seagate ST500DM002-1BD142 500GB                 | 1         | 1      | 5.88%   |
+| Seagate ST500DM002-1BD142 496GB                 | 1         | 1      | 5.88%   |
 | Seagate ST31500541AS 1.5TB                      | 1         | 1      | 5.88%   |
 | Samsung Electronics MZNTE128HMGR-000SO 128GB    | 1         | 1      | 5.88%   |
 | Samsung Electronics HD103SJ 1TB                 | 1         | 2      | 5.88%   |
@@ -1204,7 +1204,7 @@ Storage controller models
 | Toshiba XG5 NVMe SSD Controller                                                         | 1         | 0.66%   |
 | Toshiba XG4 NVMe SSD Controller                                                         | 1         | 0.66%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1         | 0.66%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 1         | 0.66%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1         | 0.66%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.66%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.66%   |
 | SanDisk PC SN520 NVMe SSD                                                               | 1         | 0.66%   |
@@ -1213,7 +1213,7 @@ Storage controller models
 | Phison E12 NVMe Controller                                                              | 1         | 0.66%   |
 | OCZ Group RD400/400A SSD                                                                | 1         | 0.66%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1         | 0.66%   |
-| Micron/Crucial NVMe Storage Controller                                                  | 1         | 0.66%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1         | 0.66%   |
 
 Storage Kind
 ------------
@@ -2243,7 +2243,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 2.19%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s              | 3         | 2.19%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
-| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |

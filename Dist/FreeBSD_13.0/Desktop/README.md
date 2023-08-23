@@ -866,7 +866,7 @@ Hard drive models
 | WDC WD102KRYZ-01A5AB0 10TB        | 1        | 0.57%   |
 | WDC WD100EZAZ-11TDBA0 10TB        | 1        | 0.57%   |
 | WDC WD1001FALS-00J7B0 1TB         | 1        | 0.57%   |
-| Verbatim Vi550 S3 SSD 512GB       | 1        | 0.57%   |
+| Verbatim Vi550 S3 SSD 256GB       | 1        | 0.57%   |
 | Toshiba MQ02ABD100H 1TB           | 1        | 0.57%   |
 
 HDD Vendor
@@ -953,13 +953,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 80     | 41.03%  |
-| 0.51-1.0   | 29       | 44     | 24.79%  |
-| 3.01-4.0   | 11       | 27     | 9.4%    |
-| 1.01-2.0   | 10       | 21     | 8.55%   |
-| 4.01-10.0  | 10       | 49     | 8.55%   |
-| 2.01-3.0   | 5        | 18     | 4.27%   |
-| 10.01-20.0 | 4        | 19     | 3.42%   |
+| 0.01-0.5   | 48       | 81     | 41.38%  |
+| 0.51-1.0   | 28       | 43     | 24.14%  |
+| 3.01-4.0   | 11       | 27     | 9.48%   |
+| 1.01-2.0   | 10       | 21     | 8.62%   |
+| 4.01-10.0  | 10       | 49     | 8.62%   |
+| 2.01-3.0   | 5        | 18     | 4.31%   |
+| 10.01-20.0 | 4        | 19     | 3.45%   |
 
 Space Total
 -----------
@@ -1156,7 +1156,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 4        | 2.92%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 4        | 2.92%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 3        | 2.19%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 2        | 1.46%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 1.46%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2        | 1.46%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 2        | 1.46%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                          | 2        | 1.46%   |
@@ -1218,10 +1218,9 @@ Processor vendors
 
 | Vendor  | Desktops | Percent |
 |---------|----------|---------|
-| Intel   | 51       | 65.38%  |
-| AMD     | 25       | 32.05%  |
-| ARM     | 1        | 1.28%   |
-| Unknown | 1        | 1.28%   |
+| Intel   | 51       | 66.23%  |
+| AMD     | 25       | 32.47%  |
+| Unknown | 1        | 1.3%    |
 
 CPU Model
 ---------
@@ -1233,46 +1232,46 @@ Processor models
 
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
-| Intel Core i7-6700 CPU @ 3.40GHz            | 3        | 3.85%   |
-| AMD Ryzen 7 2700 Eight-Core Processor       | 3        | 3.85%   |
-| Intel Core i5-8350U CPU @ 1.70GHz           | 2        | 2.56%   |
-| Intel Core 2 Quad CPU Q6600 @ 2.40GHz       | 2        | 2.56%   |
-| AMD Ryzen 9 5950X 16-Core Processor         | 2        | 2.56%   |
-| AMD Ryzen 9 5900X 12-Core Processor         | 2        | 2.56%   |
-| AMD Ryzen 9 3900X 12-Core Processor         | 2        | 2.56%   |
-| AMD Ryzen 3 3200G with Radeon Vega Graphics | 2        | 2.56%   |
-| Intel Xeon CPU X3440 @ 2.53GHz              | 1        | 1.28%   |
-| Intel Xeon CPU E5-2680 v4 @ 2.40GHz         | 1        | 1.28%   |
-| Intel Xeon CPU E5-2620 v2 @ 2.10GHz         | 1        | 1.28%   |
-| Intel Xeon CPU E3-1275 v5 @ 3.60GHz         | 1        | 1.28%   |
-| Intel Xeon CPU E3-1230 V2 @ 3.30GHz         | 1        | 1.28%   |
-| Intel Pentium II                            | 1        | 1.28%   |
-| Intel Pentium CPU G630T @ 2.30GHz           | 1        | 1.28%   |
-| Intel Pentium CPU G3420 @ 3.20GHz           | 1        | 1.28%   |
-| Intel Pentium CPU G3220 @ 3.00GHz           | 1        | 1.28%   |
-| Intel Pentium CPU G2030 @ 3.00GHz           | 1        | 1.28%   |
-| Intel Pentium CPU G2020 @ 2.90GHz           | 1        | 1.28%   |
-| Intel Pentium 4 CPU 3.40GHz                 | 1        | 1.28%   |
-| Intel Pentium 4 CPU                         | 1        | 1.28%   |
-| Intel Pentium 4                             | 1        | 1.28%   |
-| Intel Core i9-9900X CPU @ 3.50GHz           | 1        | 1.28%   |
-| Intel Core i7-8700K CPU @ 3.70GHz           | 1        | 1.28%   |
-| Intel Core i7-6700K CPU @ 4.00GHz           | 1        | 1.28%   |
-| Intel Core i7-4790S CPU @ 3.20GHz           | 1        | 1.28%   |
-| Intel Core i7-4770T CPU @ 2.50GHz           | 1        | 1.28%   |
-| Intel Core i7-3770 CPU @ 3.40GHz            | 1        | 1.28%   |
-| Intel Core i7-3610QE CPU @ 2.30GHz          | 1        | 1.28%   |
-| Intel Core i7-2600 CPU                      | 1        | 1.28%   |
-| Intel Core i7-10700K CPU @ 3.80GHz          | 1        | 1.28%   |
-| Intel Core i7 CPU                           | 1        | 1.28%   |
-| Intel Core i5-9600K CPU @ 3.70GHz           | 1        | 1.28%   |
-| Intel Core i5-6500 CPU @ 3.20GHz            | 1        | 1.28%   |
-| Intel Core i5-4690 CPU @ 3.50GHz            | 1        | 1.28%   |
-| Intel Core i5-4460 CPU @ 3.20GHz            | 1        | 1.28%   |
-| Intel Core i5-4440 CPU @ 3.10GHz            | 1        | 1.28%   |
-| Intel Core i5-3570 CPU @ 3.40GHz            | 1        | 1.28%   |
-| Intel Core i5 CPU 650 @ 3.20GHz             | 1        | 1.28%   |
-| Intel Core i3-10100 CPU @ 3.60GHz           | 1        | 1.28%   |
+| Intel Core i7-6700 CPU @ 3.40GHz            | 3        | 3.9%    |
+| AMD Ryzen 7 2700 Eight-Core Processor       | 3        | 3.9%    |
+| Intel Core i5-8350U CPU @ 1.70GHz           | 2        | 2.6%    |
+| Intel Core 2 Quad CPU Q6600 @ 2.40GHz       | 2        | 2.6%    |
+| AMD Ryzen 9 5950X 16-Core Processor         | 2        | 2.6%    |
+| AMD Ryzen 9 5900X 12-Core Processor         | 2        | 2.6%    |
+| AMD Ryzen 9 3900X 12-Core Processor         | 2        | 2.6%    |
+| AMD Ryzen 3 3200G with Radeon Vega Graphics | 2        | 2.6%    |
+| Intel Xeon CPU X3440 @ 2.53GHz              | 1        | 1.3%    |
+| Intel Xeon CPU E5-2680 v4 @ 2.40GHz         | 1        | 1.3%    |
+| Intel Xeon CPU E5-2620 v2 @ 2.10GHz         | 1        | 1.3%    |
+| Intel Xeon CPU E3-1275 v5 @ 3.60GHz         | 1        | 1.3%    |
+| Intel Xeon CPU E3-1230 V2 @ 3.30GHz         | 1        | 1.3%    |
+| Intel Pentium II                            | 1        | 1.3%    |
+| Intel Pentium CPU G630T @ 2.30GHz           | 1        | 1.3%    |
+| Intel Pentium CPU G3420 @ 3.20GHz           | 1        | 1.3%    |
+| Intel Pentium CPU G3220 @ 3.00GHz           | 1        | 1.3%    |
+| Intel Pentium CPU G2030 @ 3.00GHz           | 1        | 1.3%    |
+| Intel Pentium CPU G2020 @ 2.90GHz           | 1        | 1.3%    |
+| Intel Pentium 4 CPU 3.40GHz                 | 1        | 1.3%    |
+| Intel Pentium 4 CPU                         | 1        | 1.3%    |
+| Intel Pentium 4                             | 1        | 1.3%    |
+| Intel Core i9-9900X CPU @ 3.50GHz           | 1        | 1.3%    |
+| Intel Core i7-8700K CPU @ 3.70GHz           | 1        | 1.3%    |
+| Intel Core i7-6700K CPU @ 4.00GHz           | 1        | 1.3%    |
+| Intel Core i7-4790S CPU @ 3.20GHz           | 1        | 1.3%    |
+| Intel Core i7-4770T CPU @ 2.50GHz           | 1        | 1.3%    |
+| Intel Core i7-3770 CPU @ 3.40GHz            | 1        | 1.3%    |
+| Intel Core i7-3610QE CPU @ 2.30GHz          | 1        | 1.3%    |
+| Intel Core i7-2600 CPU                      | 1        | 1.3%    |
+| Intel Core i7-10700K CPU @ 3.80GHz          | 1        | 1.3%    |
+| Intel Core i7 CPU                           | 1        | 1.3%    |
+| Intel Core i5-9600K CPU @ 3.70GHz           | 1        | 1.3%    |
+| Intel Core i5-6500 CPU @ 3.20GHz            | 1        | 1.3%    |
+| Intel Core i5-4690 CPU @ 3.50GHz            | 1        | 1.3%    |
+| Intel Core i5-4460 CPU @ 3.20GHz            | 1        | 1.3%    |
+| Intel Core i5-4440 CPU @ 3.10GHz            | 1        | 1.3%    |
+| Intel Core i5-3570 CPU @ 3.40GHz            | 1        | 1.3%    |
+| Intel Core i5 CPU 650 @ 3.20GHz             | 1        | 1.3%    |
+| Intel Core i3-10100 CPU @ 3.60GHz           | 1        | 1.3%    |
 
 CPU Model Family
 ----------------
@@ -1284,30 +1283,29 @@ Processor model prefix
 
 | Model                  | Desktops | Percent |
 |------------------------|----------|---------|
-| Intel Core i7          | 12       | 15.38%  |
-| Intel Core i5          | 9        | 11.54%  |
-| AMD Ryzen 9            | 7        | 8.97%   |
-| AMD Ryzen 7            | 7        | 8.97%   |
-| Intel Pentium          | 6        | 7.69%   |
-| Intel Xeon             | 5        | 6.41%   |
-| Intel Celeron          | 5        | 6.41%   |
-| Intel Pentium 4        | 3        | 3.85%   |
-| Intel Atom             | 3        | 3.85%   |
-| AMD Ryzen 5            | 3        | 3.85%   |
-| Intel Core i3          | 2        | 2.56%   |
-| Intel Core 2 Quad      | 2        | 2.56%   |
-| Intel Core 2 Duo       | 2        | 2.56%   |
-| AMD Ryzen 3            | 2        | 2.56%   |
-| Other                  | 1        | 1.28%   |
-| Intel Core i9          | 1        | 1.28%   |
-| Intel Core 2           | 1        | 1.28%   |
-| ARM Cortex             | 1        | 1.28%   |
-| AMD Turion II Neo      | 1        | 1.28%   |
-| AMD Ryzen Threadripper | 1        | 1.28%   |
-| AMD FX                 | 1        | 1.28%   |
-| AMD Athlon X4          | 1        | 1.28%   |
-| AMD Athlon             | 1        | 1.28%   |
-| AMD A10                | 1        | 1.28%   |
+| Intel Core i7          | 12       | 15.58%  |
+| Intel Core i5          | 9        | 11.69%  |
+| AMD Ryzen 9            | 7        | 9.09%   |
+| AMD Ryzen 7            | 7        | 9.09%   |
+| Intel Pentium          | 6        | 7.79%   |
+| Intel Xeon             | 5        | 6.49%   |
+| Intel Celeron          | 5        | 6.49%   |
+| Intel Pentium 4        | 3        | 3.9%    |
+| Intel Atom             | 3        | 3.9%    |
+| AMD Ryzen 5            | 3        | 3.9%    |
+| Intel Core i3          | 2        | 2.6%    |
+| Intel Core 2 Quad      | 2        | 2.6%    |
+| Intel Core 2 Duo       | 2        | 2.6%    |
+| AMD Ryzen 3            | 2        | 2.6%    |
+| Other                  | 1        | 1.3%    |
+| Intel Core i9          | 1        | 1.3%    |
+| Intel Core 2           | 1        | 1.3%    |
+| AMD Turion II Neo      | 1        | 1.3%    |
+| AMD Ryzen Threadripper | 1        | 1.3%    |
+| AMD FX                 | 1        | 1.3%    |
+| AMD Athlon X4          | 1        | 1.3%    |
+| AMD Athlon             | 1        | 1.3%    |
+| AMD A10                | 1        | 1.3%    |
 
 CPU Cores
 ---------
@@ -1340,11 +1338,10 @@ Number of sockets
 ![CPU Sockets](./images/pie_chart_bsd/cpu_sockets.svg)
 
 
-| Number  | Desktops | Percent |
-|---------|----------|---------|
-| 1       | 74       | 94.87%  |
-| 2       | 3        | 3.85%   |
-| Unknown | 1        | 1.28%   |
+| Number | Desktops | Percent |
+|--------|----------|---------|
+| 1      | 74       | 96.1%   |
+| 2      | 3        | 3.9%    |
 
 CPU Threads
 -----------
@@ -2121,7 +2118,7 @@ Memory module vendors
 | A-DATA Technology   | 2        | 2.67%   |
 | Silicon Power       | 1        | 1.33%   |
 | Kreton              | 1        | 1.33%   |
-| Goodram             | 1        | 1.33%   |
+| GOODRAM             | 1        | 1.33%   |
 | GeIL                | 1        | 1.33%   |
 | AMD                 | 1        | 1.33%   |
 | Unknown             | 1        | 1.33%   |
@@ -2140,6 +2137,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM DDR3 1600MT/s               | 2        | 2.47%   |
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2        | 2.47%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2        | 2.47%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.47%   |
 | Crucial RAM CT8G4SFS824A.C8BD1 8GB SODIMM DDR4 2400MT/s | 2        | 2.47%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s   | 2        | 2.47%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s               | 1        | 1.23%   |
@@ -2154,8 +2152,6 @@ Memory module models
 | Unknown RAM Module 1GB DIMM 400MT/s                     | 1        | 1.23%   |
 | Unknown RAM Module 16GB DIMM DDR4 2133MT/s              | 1        | 1.23%   |
 | Unknown RAM 2G-08-10-12-1333 2GB DIMM DDR3 1333MT/s     | 1        | 1.23%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s     | 1        | 1.23%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 1        | 1.23%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.23%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1        | 1.23%   |
 | SK hynix RAM HMA82GU6AFR8N-UH 16GB DIMM DDR4 2400MT/s   | 1        | 1.23%   |
@@ -2176,6 +2172,7 @@ Memory module models
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.23%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s     | 1        | 1.23%   |
 | Kingston RAM KHX16LC9/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.23%   |
+| Kingston RAM KHX1600C9D3/8GX 8GB DIMM DDR3 1600MT/s     | 1        | 1.23%   |
 
 Memory Kind
 -----------

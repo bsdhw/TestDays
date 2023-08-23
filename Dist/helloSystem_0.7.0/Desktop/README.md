@@ -656,15 +656,15 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2019 | 25       | 12.82%  |
-| 2021 | 23       | 11.79%  |
-| 2018 | 22       | 11.28%  |
+| 2021 | 22       | 11.28%  |
+| 2018 | 21       | 10.77%  |
 | 2012 | 21       | 10.77%  |
 | 2014 | 15       | 7.69%   |
 | 2010 | 15       | 7.69%   |
 | 2013 | 13       | 6.67%   |
+| 2020 | 11       | 5.64%   |
 | 2017 | 11       | 5.64%   |
-| 2020 | 10       | 5.13%   |
-| 2016 | 9        | 4.62%   |
+| 2016 | 10       | 5.13%   |
 | 2009 | 9        | 4.62%   |
 | 2015 | 6        | 3.08%   |
 | 2007 | 6        | 3.08%   |
@@ -935,7 +935,7 @@ Hard drive vendors
 | Hitachi             | 7        | 9      | 2.2%    |
 | Phison              | 6        | 7      | 1.89%   |
 | Intel               | 6        | 6      | 1.89%   |
-| GOODRAM             | 5        | 6      | 1.57%   |
+| Goodram             | 5        | 6      | 1.57%   |
 | SK hynix            | 4        | 6      | 1.26%   |
 | PNY                 | 4        | 4      | 1.26%   |
 | Patriot             | 4        | 4      | 1.26%   |
@@ -1368,7 +1368,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                          | 3        | 0.97%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 3        | 0.97%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 2        | 0.65%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 2        | 0.65%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 0.65%   |
 | Nvidia MCP61 IDE                                                               | 2        | 0.65%   |
 | JMicron JMB363 SATA/IDE Controller                                             | 2        | 0.65%   |
 | JMicron JMB361 AHCI/IDE                                                        | 2        | 0.65%   |
@@ -2430,9 +2430,9 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Unknown                                                | 14       | 5.69%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s   | 5        | 2.03%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s    | 4        | 1.63%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 3        | 1.22%   |
 | Unknown RAM Module 2GB DIMM DDR2                       | 3        | 1.22%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 3        | 1.22%   |
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 3        | 1.22%   |
@@ -2467,7 +2467,7 @@ Memory module models
 | Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s      | 1        | 0.41%   |
 | Transcend RAM TS128MLQ64V8U 1GB DIMM DDR2 800MT/s      | 1        | 0.41%   |
 | Transcend RAM JM1333KLN-2G 2GB DIMM DDR3 1333MT/s      | 1        | 0.41%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s    | 1        | 0.41%   |
+| Team RAM TEAMGROUP-UD4-2133 8GB DIMM DDR4 2133MT/s     | 1        | 0.41%   |
 
 Memory Kind
 -----------

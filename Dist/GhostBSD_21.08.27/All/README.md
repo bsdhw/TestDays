@@ -976,10 +976,10 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 3.77%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 3.77%   |
 | Toshiba BG3 NVMe SSD Controller                                                  | 1         | 1.89%   |
-| Samsung SM951 AHCI                                                               | 1         | 1.89%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 1         | 1.89%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 1.89%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 1.89%   |
-| Micron/Crucial NVMe Storage Controller                                           | 1         | 1.89%   |
+| Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                         | 1         | 1.89%   |
 | Marvell Group 88SE91A3 SATA-600 Controller                                       | 1         | 1.89%   |
 | JMicron JMB362 SATA Controller                                                   | 1         | 1.89%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 1         | 1.89%   |
@@ -1885,7 +1885,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
 | Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s                 | 1         | 2%      |
+| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2%      |
@@ -1929,12 +1929,11 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR4    | 19        | 45.24%  |
-| DDR3    | 19        | 45.24%  |
-| LPDDR4  | 1         | 2.38%   |
-| DDR2    | 1         | 2.38%   |
-| DDR     | 1         | 2.38%   |
-| Unknown | 1         | 2.38%   |
+| DDR4    | 19        | 46.34%  |
+| DDR3    | 19        | 46.34%  |
+| LPDDR4  | 1         | 2.44%   |
+| DDR2    | 1         | 2.44%   |
+| Unknown | 1         | 2.44%   |
 
 Memory Form Factor
 ------------------

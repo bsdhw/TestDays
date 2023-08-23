@@ -524,8 +524,8 @@ EFI or BIOS
 
 | Mode | Computers | Percent |
 |------|-----------|---------|
-| EFI  | 197       | 80.41%  |
-| BIOS | 48        | 19.59%  |
+| EFI  | 198       | 80.82%  |
+| BIOS | 47        | 19.18%  |
 
 Filesystem
 ----------
@@ -715,8 +715,8 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 32        | 13.06%  |
-| 2019 | 31        | 12.65%  |
+| 2019 | 32        | 13.06%  |
+| 2020 | 31        | 12.65%  |
 | 2013 | 28        | 11.43%  |
 | 2012 | 26        | 10.61%  |
 | 2018 | 21        | 8.57%   |
@@ -1041,7 +1041,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB           | 4         | 1.12%   |
 | Seagate ST9500325AS 500GB           | 3         | 0.84%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 3         | 0.84%   |
-| Seagate ST500DM002-1BD142 500GB     | 3         | 0.84%   |
+| Seagate ST500DM002-1BD142 496GB     | 3         | 0.84%   |
 | Seagate ST3250410AS 250GB           | 3         | 0.84%   |
 | Seagate ST1000DM003-1ER162 1TB      | 3         | 0.84%   |
 | Samsung SSD 860 EVO 1TB             | 3         | 0.84%   |
@@ -1190,9 +1190,9 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 1-20       | 155       | 62.5%   |
+| 1-20       | 156       | 62.9%   |
 | 101-250    | 37        | 14.92%  |
-| 251-500    | 25        | 10.08%  |
+| 251-500    | 24        | 9.68%   |
 | 501-1000   | 18        | 7.26%   |
 | 51-100     | 7         | 2.82%   |
 | 21-50      | 4         | 1.61%   |
@@ -1425,7 +1425,7 @@ Storage controller models
 | Intel SATA Controller [RAID mode]                                                       | 5         | 1.42%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5         | 1.42%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 5         | 1.42%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 4         | 1.14%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 4         | 1.14%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                       | 4         | 1.14%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller        | 4         | 1.14%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 4         | 1.14%   |

@@ -679,7 +679,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB        | 1        | 3.45%   |
 | SPCC Solid State Disk 120GB     | 1        | 3.45%   |
 | Silicon Motion NVME SSD 128GB   | 1        | 3.45%   |
-| Seagate ST500DM002-1BD142 500GB | 1        | 3.45%   |
+| Seagate ST500DM002-1BD142 496GB | 1        | 3.45%   |
 | Seagate ST380815AS 80GB         | 1        | 3.45%   |
 | Seagate ST3160023A 160GB        | 1        | 3.45%   |
 | Seagate ST240HM000-1G5152 240GB | 1        | 3.45%   |
@@ -916,9 +916,9 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                              | 3        | 8.57%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2        | 5.71%   |
 | Intel SATA Controller [RAID mode]                                                | 2        | 5.71%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1        | 2.86%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1        | 2.86%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 2.86%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                  | 1        | 2.86%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1        | 2.86%   |
 | Kingston Company NVMe Controller                                                 | 1        | 2.86%   |
 | JMicron JMB368 IDE controller                                                    | 1        | 2.86%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1        | 2.86%   |

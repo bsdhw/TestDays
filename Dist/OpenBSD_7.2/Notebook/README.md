@@ -1018,9 +1018,9 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                     | 3         | 4.41%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                                 | 3         | 4.41%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller           | 3         | 4.41%   |
-| Samsung SM951 AHCI                                                                     | 2         | 2.94%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                             | 2         | 2.94%   |
 | Samsung NVMe SSD Controller 980                                                        | 2         | 2.94%   |
-| Micron 2450 NVMe SSD (DRAM-less)                                                       | 2         | 2.94%   |
+| Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                            | 2         | 2.94%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                     | 2         | 2.94%   |
 | Intel Comet Lake SATA AHCI Controller                                                  | 2         | 2.94%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                      | 2         | 2.94%   |
@@ -1032,15 +1032,15 @@ Storage controller models
 | SK hynix BC501 NVMe Solid State Drive                                                  | 1         | 1.47%   |
 | Sandisk Western Digital WD Black SN850X NVMe SSD                                       | 1         | 1.47%   |
 | Sandisk WD Blue SN570 NVMe SSD 2TB                                                     | 1         | 1.47%   |
-| Sandisk WD Black SN770 NVMe SSD                                                        | 1         | 1.47%   |
+| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                | 1         | 1.47%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                             | 1         | 1.47%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                        | 1         | 1.47%   |
+| Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                                     | 1         | 1.47%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                          | 1         | 1.47%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                          | 1         | 1.47%   |
-| Samsung Apple PCIe SSD                                                                 | 1         | 1.47%   |
 | Phison PS5013 E13 NVMe Controller                                                      | 1         | 1.47%   |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                                   | 1         | 1.47%   |
-| Micron/Crucial P2 NVMe PCIe SSD                                                        | 1         | 1.47%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                   | 1         | 1.47%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                             | 1         | 1.47%   |
 | Marvell Group 88SE6101/6102 single-port PATA133 interface                              | 1         | 1.47%   |
 | Intel SSD 660P Series                                                                  | 1         | 1.47%   |
@@ -1931,8 +1931,8 @@ Memory module models
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4.76%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4.76%   |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4.76%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s       | 1         | 4.76%   |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 4.76%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4.76%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 4.76%   |

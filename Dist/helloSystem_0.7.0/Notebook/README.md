@@ -1205,7 +1205,7 @@ Drive models with a malfunction
 | Seagate ST9320423AS 320GB          | 1         | 1      | 1.85%   |
 | Seagate ST9320325AS 320GB          | 1         | 1      | 1.85%   |
 | Seagate ST9160412AS 160GB          | 1         | 1      | 1.85%   |
-| Seagate ST9120821AS 118GB          | 1         | 1      | 1.85%   |
+| Seagate ST9120821AS 120GB          | 1         | 1      | 1.85%   |
 | Seagate ST500LT012-9WS142 500GB    | 1         | 1      | 1.85%   |
 | Seagate ST320LT007-9ZV142 320GB    | 1         | 1      | 1.85%   |
 | Seagate ST3160212AS 160GB          | 1         | 1      | 1.85%   |
@@ -1355,7 +1355,7 @@ Storage controller models
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 5         | 1.85%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 4         | 1.48%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 4         | 1.48%   |
-| Micron 2200S NVMe SSD                                                            | 3         | 1.11%   |
+| Micron 2200S NVMe SSD [Cassandra]                                                | 3         | 1.11%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 3         | 1.11%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 3         | 1.11%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 3         | 1.11%   |
@@ -1363,18 +1363,18 @@ Storage controller models
 | Samsung NVMe SSD Controller SM951/PM951                                          | 2         | 0.74%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 2         | 0.74%   |
 | Samsung NVMe SSD Controller 980                                                  | 2         | 0.74%   |
-| KIOXIA NVMe SSD Controller BG4                                                   | 2         | 0.74%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                       | 2         | 0.74%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 2         | 0.74%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]                     | 2         | 0.74%   |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 0.74%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                        | 2         | 0.74%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                             | 2         | 0.74%   |
-| Unknown                                                                          | 2         | 0.74%   |
 | Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                   | 1         | 0.37%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 0.37%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1         | 0.37%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                    | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 0.37%   |
+| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 0.37%   |
 
 Storage Kind
 ------------
@@ -1780,7 +1780,7 @@ Monitor models
 | Samsung Electronics S27C350 SAM0A3E 1920x1080 600x340mm 27.2-inch     | 1         | 0.44%   |
 | Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1         | 0.44%   |
 | Samsung Electronics LCD Monitor SEC5448 1920x1080 410x230mm 18.5-inch | 1         | 0.44%   |
-| Samsung Electronics LCD Monitor SEC4E41 1280x800 260x160mm 12.0-inch  | 1         | 0.44%   |
+| Samsung Electronics LCD Monitor SEC4E41 1366x768 350x200mm 15.9-inch  | 1         | 0.44%   |
 | Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch  | 1         | 0.44%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch  | 1         | 0.44%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 340x190mm 15.3-inch  | 1         | 0.44%   |
@@ -1797,9 +1797,9 @@ Monitor screen resolution
 
 | Resolution         | Notebooks | Percent |
 |--------------------|-----------|---------|
-| 1366x768 (WXGA)    | 106       | 47.75%  |
+| 1366x768 (WXGA)    | 107       | 48.2%   |
 | 1920x1080 (FHD)    | 54        | 24.32%  |
-| 1280x800 (WXGA)    | 28        | 12.61%  |
+| 1280x800 (WXGA)    | 27        | 12.16%  |
 | 1600x900 (HD+)     | 11        | 4.95%   |
 | 3840x2160 (4K)     | 4         | 1.8%    |
 | 1440x900 (WXGA+)   | 4         | 1.8%    |
@@ -1823,9 +1823,9 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 85        | 37.28%  |
+| 15      | 86        | 37.72%  |
 | 13      | 64        | 28.07%  |
-| 12      | 18        | 7.89%   |
+| 12      | 17        | 7.46%   |
 | 14      | 14        | 6.14%   |
 | 17      | 11        | 4.82%   |
 | 11      | 8         | 3.51%   |
@@ -1856,8 +1856,8 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 130       | 57.02%  |
-| 201-300     | 63        | 27.63%  |
+| 301-350     | 131       | 57.46%  |
+| 201-300     | 62        | 27.19%  |
 | 351-400     | 13        | 5.7%    |
 | 501-600     | 9         | 3.95%   |
 | 401-500     | 4         | 1.75%   |
@@ -1878,8 +1878,8 @@ Proportional relationship between the width and the height
 
 | Ratio   | Notebooks | Percent |
 |---------|-----------|---------|
-| 16/9    | 170       | 79.07%  |
-| 16/10   | 32        | 14.88%  |
+| 16/9    | 171       | 79.53%  |
+| 16/10   | 31        | 14.42%  |
 | 3/2     | 5         | 2.33%   |
 | 4/3     | 4         | 1.86%   |
 | Unknown | 2         | 0.93%   |
@@ -1898,8 +1898,8 @@ Area in inch²
 |----------------|-----------|---------|
 | 81-90          | 69        | 30.26%  |
 | 91-100         | 68        | 29.82%  |
-| 61-70          | 19        | 8.33%   |
-| 101-110        | 19        | 8.33%   |
+| 101-110        | 20        | 8.77%   |
+| 61-70          | 18        | 7.89%   |
 | 121-130        | 9         | 3.95%   |
 | 71-80          | 7         | 3.07%   |
 | 51-60          | 7         | 3.07%   |
@@ -1927,8 +1927,8 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 101-120       | 106       | 47.32%  |
-| 121-160       | 79        | 35.27%  |
-| 51-100        | 31        | 13.84%  |
+| 121-160       | 78        | 34.82%  |
+| 51-100        | 32        | 14.29%  |
 | 161-240       | 4         | 1.79%   |
 | More than 240 | 2         | 0.89%   |
 | Unknown       | 2         | 0.89%   |

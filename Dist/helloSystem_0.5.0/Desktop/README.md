@@ -366,8 +366,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| EFI  | 91       | 79.13%  |
-| BIOS | 24       | 20.87%  |
+| EFI  | 92       | 80%     |
+| BIOS | 23       | 20%     |
 
 Filesystem
 ----------
@@ -845,7 +845,7 @@ Hard drive models
 |---------------------------------|----------|---------|
 | Samsung SSD 860 EVO 250GB       | 4        | 1.9%    |
 | Samsung SSD 850 EVO 250GB       | 4        | 1.9%    |
-| Seagate ST500DM002-1BD142 500GB | 3        | 1.43%   |
+| Seagate ST500DM002-1BD142 496GB | 3        | 1.43%   |
 | Seagate ST3250410AS 250GB       | 3        | 1.43%   |
 | A-DATA SU650 120GB              | 3        | 1.43%   |
 | WDC WD20EARS-00MVWB0 2TB        | 2        | 0.95%   |
@@ -988,10 +988,10 @@ Amount of disk space available on the file system
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| 1-20       | 80       | 67.8%   |
+| 1-20       | 81       | 68.64%  |
 | 101-250    | 15       | 12.71%  |
 | 501-1000   | 10       | 8.47%   |
-| 251-500    | 7        | 5.93%   |
+| 251-500    | 6        | 5.08%   |
 | 51-100     | 3        | 2.54%   |
 | 21-50      | 2        | 1.69%   |
 | 1001-2000  | 1        | 0.85%   |
@@ -1201,7 +1201,7 @@ Storage controller models
 | Intel SATA Controller [RAID mode]                                                       | 5        | 2.51%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5        | 2.51%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 5        | 2.51%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                         | 4        | 2.01%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 4        | 2.01%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                            | 4        | 2.01%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 3        | 1.51%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 3        | 1.51%   |

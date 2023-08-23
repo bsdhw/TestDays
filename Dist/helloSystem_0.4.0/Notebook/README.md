@@ -521,10 +521,10 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2013 | 19        | 20.65%  |
 | 2009 | 10        | 10.87%  |
-| 2018 | 8         | 8.7%    |
-| 2017 | 8         | 8.7%    |
+| 2017 | 9         | 9.78%   |
 | 2020 | 7         | 7.61%   |
 | 2019 | 7         | 7.61%   |
+| 2018 | 7         | 7.61%   |
 | 2016 | 7         | 7.61%   |
 | 2014 | 6         | 6.52%   |
 | 2010 | 5         | 5.43%   |
@@ -1129,14 +1129,15 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                 | 2         | 1.82%   |
 | Toshiba XG6 NVMe SSD Controller                                                | 1         | 0.91%   |
 | Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.91%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.91%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.91%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1         | 0.91%   |
 | SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.91%   |
 | SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.91%   |
 | SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.91%   |
-| Micron/Crucial P1 NVMe PCIe SSD                                                | 1         | 0.91%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1         | 0.91%   |
+| Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                  | 1         | 0.91%   |
 | JMicron JMB360 AHCI Controller                                                 | 1         | 0.91%   |
 | Intel SSD 660P Series                                                          | 1         | 0.91%   |
 | Intel SATA Controller [RAID mode]                                              | 1         | 0.91%   |
@@ -1148,7 +1149,6 @@ Storage controller models
 | Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 1         | 0.91%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                  | 1         | 0.91%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                  | 1         | 0.91%   |
-| Unknown                                                                        | 1         | 0.91%   |
 
 Storage Kind
 ------------
@@ -2066,7 +2066,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
+| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s      | 2         | 1.6%    |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s               | 2         | 1.6%    |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s               | 2         | 1.6%    |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s              | 2         | 1.6%    |

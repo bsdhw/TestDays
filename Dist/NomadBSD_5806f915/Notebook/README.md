@@ -688,7 +688,7 @@ Hard drive models
 | Gigabyte GP-GSTFS31480GNTD 480GB          | 1         | 2.78%   |
 | Crucial CT500MX500SSD1 500GB              | 1         | 2.78%   |
 | Crucial CT1000P1SSD8 1TB                  | 1         | 2.78%   |
-| ASUS PHISON SSD 32GB                      | 1         | 2.78%   |
+| ASUS PHISON SSD 16GB                      | 1         | 2.78%   |
 | Apple SSD SM0512F 500GB                   | 1         | 2.78%   |
 | Apple HDD HTS541010A9E662 1TB             | 1         | 2.78%   |
 
@@ -923,13 +923,13 @@ Storage controller models
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                              | 2         | 4.88%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 2.44%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 2.44%   |
-| SK hynix hynix unknown                                                        | 1         | 2.44%   |
+| SK hynix PC601 NVMe Solid State Drive                                         | 1         | 2.44%   |
 | SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 2.44%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 2.44%   |
+| Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                            | 1         | 2.44%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 2.44%   |
-| Samsung Apple PCIe SSD                                                        | 1         | 2.44%   |
-| Micron/Crucial NVMe Storage Controller                                        | 1         | 2.44%   |
-| Micron NVMe Storage Controller                                                | 1         | 2.44%   |
+| Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                    | 1         | 2.44%   |
+| Micron 2210 NVMe SSD [Cobain]                                                 | 1         | 2.44%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 2.44%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                             | 1         | 2.44%   |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                 | 1         | 2.44%   |
@@ -1767,7 +1767,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                | 1         | 2.38%   |
 | Unknown RAM Module 1GB SODIMM DRAM 533MT/s                | 1         | 2.38%   |
 | Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s            | 1         | 2.38%   |
-| Transcend RAM JM800QSU-2G 2GB SODIMM DDR 667MT/s          | 1         | 2.38%   |
+| Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s         | 1         | 2.38%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s              | 1         | 2.38%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s      | 1         | 2.38%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s     | 1         | 2.38%   |
@@ -1806,14 +1806,13 @@ Memory module kinds
 
 | Kind    | Notebooks | Percent |
 |---------|-----------|---------|
-| DDR4    | 14        | 42.42%  |
-| DDR3    | 11        | 33.33%  |
-| DDR2    | 3         | 9.09%   |
-| SDRAM   | 1         | 3.03%   |
-| LPDDR3  | 1         | 3.03%   |
-| DRAM    | 1         | 3.03%   |
-| DDR     | 1         | 3.03%   |
-| Unknown | 1         | 3.03%   |
+| DDR4    | 14        | 43.75%  |
+| DDR3    | 11        | 34.38%  |
+| DDR2    | 3         | 9.38%   |
+| SDRAM   | 1         | 3.13%   |
+| LPDDR3  | 1         | 3.13%   |
+| DRAM    | 1         | 3.13%   |
+| Unknown | 1         | 3.13%   |
 
 Memory Form Factor
 ------------------

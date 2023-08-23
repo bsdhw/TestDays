@@ -574,7 +574,7 @@ Hard drive models
 | WDC WD10EFRX-68PJCN0 1TB        | 1        | 5.26%   |
 | Toshiba DT01ACA100 1TB          | 1        | 5.26%   |
 | Toshiba DT01ABA300 3TB          | 1        | 5.26%   |
-| Seagate ST500DM002-1BD142 500GB | 1        | 5.26%   |
+| Seagate ST500DM002-1BD142 496GB | 1        | 5.26%   |
 | Seagate ST3500418AS 500GB       | 1        | 5.26%   |
 | Seagate ST1000DM003-1CH162 1TB  | 1        | 5.26%   |
 | SanDisk SSD PLUS 120GB          | 1        | 5.26%   |
@@ -699,7 +699,7 @@ Drive models with a malfunction
 |---------------------------------|----------|--------|---------|
 | WDC WD10EFRX-68PJCN0 1TB        | 1        | 2      | 33.33%  |
 | Toshiba DT01ABA300 3TB          | 1        | 1      | 33.33%  |
-| Seagate ST500DM002-1BD142 500GB | 1        | 1      | 33.33%  |
+| Seagate ST500DM002-1BD142 496GB | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -802,7 +802,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 2        | 7.41%   |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                          | 2        | 7.41%   |
 | Intel 4 Series Chipset PT IDER Controller                                     | 2        | 7.41%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                               | 1        | 3.7%    |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 1        | 3.7%    |
 | Nvidia MCP73 SATA Controller (IDE mode)                                       | 1        | 3.7%    |
 | Nvidia MCP73 IDE Controller                                                   | 1        | 3.7%    |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 1        | 3.7%    |

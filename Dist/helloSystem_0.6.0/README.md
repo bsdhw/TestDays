@@ -1028,8 +1028,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 104       | 141    | 65%     |
-| 0.51-1.0   | 40        | 45     | 25%     |
+| 0.01-0.5   | 103       | 141    | 64.38%  |
+| 0.51-1.0   | 41        | 45     | 25.63%  |
 | 1.01-2.0   | 8         | 9      | 5%      |
 | 2.01-3.0   | 4         | 6      | 2.5%    |
 | 3.01-4.0   | 3         | 3      | 1.88%   |
@@ -1097,7 +1097,7 @@ Drive models with a malfunction
 | Seagate ST500LT012-9WS142 500GB                 | 1         | 1      | 2.5%    |
 | Seagate ST500LT012-1DG142 500GB                 | 1         | 1      | 2.5%    |
 | Seagate ST500LM021-1KJ152 500GB                 | 1         | 1      | 2.5%    |
-| Seagate ST500DM002-1BD142 500GB                 | 1         | 1      | 2.5%    |
+| Seagate ST500DM002-1BD142 496GB                 | 1         | 1      | 2.5%    |
 | Seagate ST3500413AS 500GB                       | 1         | 1      | 2.5%    |
 | Seagate ST320LT012-9WS14C 320GB                 | 1         | 1      | 2.5%    |
 | Seagate ST1000LM048-2E7172 1TB                  | 1         | 1      | 2.5%    |
@@ -1272,11 +1272,11 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA IDE Controller                  | 2         | 1.11%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                  | 2         | 1.11%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2         | 1.11%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                | 1         | 0.56%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.56%   |
 | SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.56%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.56%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.56%   |
-| Realtek NVMe Controller                                                        | 1         | 0.56%   |
+| Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 1         | 0.56%   |
 | Phison PS5013 E13 NVMe Controller                                              | 1         | 0.56%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 1         | 0.56%   |
 | Phison E12 NVMe Controller                                                     | 1         | 0.56%   |
@@ -1672,6 +1672,7 @@ Monitor models
 | Philips PHL 243V7 PHLC155 1920x1080 530x300mm 24.0-inch                  | 1         | 0.96%   |
 | Philips PHL 193V5 PHLC0CD 1366x768 410x230mm 18.5-inch                   | 1         | 0.96%   |
 | Medion MD21281 MED3947 1366x768 410x230mm 18.5-inch                      | 1         | 0.96%   |
+| LG Display LP156WH2-TLAA LGD0230 1366x768 340x190mm 15.3-inch            | 1         | 0.96%   |
 | LG Display LCD Monitor LGD11F9 1280x800 290x180mm 13.4-inch              | 1         | 0.96%   |
 | LG Display LCD Monitor LGD048C 1920x1080 290x170mm 13.2-inch             | 1         | 0.96%   |
 | LG Display LCD Monitor LGD0470 1920x1080 350x190mm 15.7-inch             | 1         | 0.96%   |
@@ -1680,7 +1681,6 @@ Monitor models
 | LG Display LCD Monitor LGD03AB 1366x768 340x190mm 15.3-inch              | 1         | 0.96%   |
 | LG Display LCD Monitor LGD0323 1920x1080 350x190mm 15.7-inch             | 1         | 0.96%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch              | 1         | 0.96%   |
-| LG Display LCD Monitor LGD0230 1366x768 340x190mm 15.3-inch              | 1         | 0.96%   |
 | LG Display LCD Monitor LGD021D 1600x900 380x210mm 17.1-inch              | 1         | 0.96%   |
 | Lenovo LEN-M73Z-D LEN00A0 1600x900 440x240mm 19.7-inch                   | 1         | 0.96%   |
 | Lenovo LEN-E73Z-D LEN00A1 1600x900 440x240mm 19.7-inch                   | 1         | 0.96%   |
@@ -2316,14 +2316,14 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown                                                         | 5         | 2.89%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 1.73%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.16%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
-| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.16%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.16%   |

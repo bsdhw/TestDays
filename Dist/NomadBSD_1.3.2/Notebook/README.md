@@ -421,15 +421,16 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2020 | 8         | 23.53%  |
-| 2019 | 4         | 11.76%  |
 | 2014 | 4         | 11.76%  |
 | 2013 | 4         | 11.76%  |
+| 2019 | 3         | 8.82%   |
 | 2018 | 3         | 8.82%   |
 | 2016 | 2         | 5.88%   |
 | 2015 | 2         | 5.88%   |
 | 2011 | 2         | 5.88%   |
 | 2010 | 2         | 5.88%   |
 | 2008 | 2         | 5.88%   |
+| 2017 | 1         | 2.94%   |
 | 2004 | 1         | 2.94%   |
 
 Form Factor
@@ -661,7 +662,7 @@ Hard drive models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 5.71%   |
-| SanDisk pSSD 128GB                        | 2         | 5.71%   |
+| SanDisk pSSD 16GB                         | 2         | 5.71%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 2.86%   |
 | WDC WD10SPZX-00Z10T0 1TB                  | 1         | 2.86%   |
 | WDC WD10JPVX-22JC3T0 1TB                  | 1         | 2.86%   |
@@ -920,14 +921,14 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 3         | 7.89%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 3         | 7.89%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 7.89%   |
-| Samsung SM951 AHCI                                                               | 2         | 5.26%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 2         | 5.26%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 5.26%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 2         | 5.26%   |
 | AMD FCH SATA Controller [AHCI mode]                                              | 2         | 5.26%   |
-| SK hynix hynix unknown                                                           | 1         | 2.63%   |
+| SK hynix PC601 NVMe Solid State Drive                                            | 1         | 2.63%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 2.63%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 2.63%   |
-| Samsung Apple PCIe SSD                                                           | 1         | 2.63%   |
+| Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                               | 1         | 2.63%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1         | 2.63%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 1         | 2.63%   |
 | Intel Comet Lake RAID Controller                                                 | 1         | 2.63%   |
@@ -1765,8 +1766,8 @@ Memory module models
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 2.38%   |
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s              | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
@@ -1780,7 +1781,7 @@ Memory module models
 | Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 2.38%   |
 | Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 2.38%   |
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 2.38%   |
-| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
+| Magnum Tech RAM MAGNUMTECH 2GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 2.38%   |
 | Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
 | Kingston RAM ACR16D3LFS1KBG/2G 2GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |

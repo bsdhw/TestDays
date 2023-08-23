@@ -472,11 +472,11 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 11        | 21.15%  |
-| 2019 | 6         | 11.54%  |
 | 2013 | 6         | 11.54%  |
+| 2019 | 5         | 9.62%   |
+| 2017 | 4         | 7.69%   |
 | 2014 | 4         | 7.69%   |
 | 2018 | 3         | 5.77%   |
-| 2017 | 3         | 5.77%   |
 | 2016 | 3         | 5.77%   |
 | 2011 | 3         | 5.77%   |
 | 2008 | 3         | 5.77%   |
@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 128GB                        | 2         | 3.39%   |
+| SanDisk pSSD 16GB                         | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |
@@ -751,7 +751,7 @@ Hard drive models
 | SK hynix HFS128G39TND-N210A 128GB         | 1         | 1.69%   |
 | Seagate ST9750423AS 752GB                 | 1         | 1.69%   |
 | Seagate ST500LM021-1KJ152 500GB           | 1         | 1.69%   |
-| Seagate ST500DM002-1BD142 500GB           | 1         | 1.69%   |
+| Seagate ST500DM002-1BD142 496GB           | 1         | 1.69%   |
 | Seagate ST3500418AS 500GB                 | 1         | 1.69%   |
 | Seagate ST2000LM015-2E8174 2TB            | 1         | 1.69%   |
 | Seagate ST1000LM049-2GH172 1TB            | 1         | 1.69%   |
@@ -900,7 +900,7 @@ Drive models with a malfunction
 | Toshiba MK7575GSX 752GB                    | 1         | 1      | 11.11%  |
 | Toshiba DT01ABA300 3TB                     | 1         | 1      | 11.11%  |
 | Seagate ST500LM021-1KJ152 500GB            | 1         | 1      | 11.11%  |
-| Seagate ST500DM002-1BD142 500GB            | 1         | 1      | 11.11%  |
+| Seagate ST500DM002-1BD142 496GB            | 1         | 1      | 11.11%  |
 | Micron Technology MTFDDAK256MAM-1K12 256GB | 1         | 1      | 11.11%  |
 | Hitachi HTS545032B9A302 320GB              | 1         | 1      | 11.11%  |
 
@@ -1012,17 +1012,17 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                              | 6         | 8.7%    |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 3         | 4.35%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 4.35%   |
-| Samsung SM951 AHCI                                                               | 2         | 2.9%    |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 2         | 2.9%    |
 | Intel 82801JD/DO (ICH10 Family) SATA AHCI Controller                             | 2         | 2.9%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 2.9%    |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 2         | 2.9%    |
 | Intel 4 Series Chipset PT IDER Controller                                        | 2         | 2.9%    |
-| SK hynix hynix unknown                                                           | 1         | 1.45%   |
-| Silicon Motion SM2263EN/SM2263XT SSD Controller                                  | 1         | 1.45%   |
+| SK hynix PC601 NVMe Solid State Drive                                            | 1         | 1.45%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 1.45%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 1.45%   |
+| Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                               | 1         | 1.45%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 1.45%   |
-| Samsung Apple PCIe SSD                                                           | 1         | 1.45%   |
 | Nvidia MCP73 SATA Controller (IDE mode)                                          | 1         | 1.45%   |
 | Nvidia MCP73 IDE Controller                                                      | 1         | 1.45%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 1         | 1.45%   |
@@ -1981,8 +1981,8 @@ Memory module models
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s              | 1         | 1.64%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2002,7 +2002,7 @@ Memory module models
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.64%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 1.64%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
+| Magnum Tech RAM MAGNUMTECH 2GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 1.64%   |
 
 Memory Kind

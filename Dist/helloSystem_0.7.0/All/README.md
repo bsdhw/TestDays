@@ -969,16 +969,16 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2021    | 47        | 10.54%  |
+| 2021    | 46        | 10.31%  |
 | 2012    | 42        | 9.42%   |
-| 2018    | 40        | 8.97%   |
+| 2018    | 39        | 8.74%   |
 | 2019    | 35        | 7.85%   |
 | 2010    | 34        | 7.62%   |
 | 2013    | 31        | 6.95%   |
-| 2016    | 29        | 6.5%    |
+| 2016    | 30        | 6.73%   |
 | 2014    | 29        | 6.5%    |
 | 2009    | 29        | 6.5%    |
-| 2020    | 26        | 5.83%   |
+| 2020    | 27        | 6.05%   |
 | 2017    | 24        | 5.38%   |
 | 2011    | 22        | 4.93%   |
 | 2015    | 21        | 4.71%   |
@@ -1262,7 +1262,7 @@ Hard drive vendors
 | KingSpec            | 6         | 6      | 0.98%   |
 | PNY                 | 5         | 5      | 0.81%   |
 | Micron Technology   | 5         | 5      | 0.81%   |
-| GOODRAM             | 5         | 6      | 0.81%   |
+| Goodram             | 5         | 6      | 0.81%   |
 | Fujitsu             | 5         | 5      | 0.81%   |
 | XPG                 | 4         | 4      | 0.65%   |
 | Team                | 4         | 4      | 0.65%   |
@@ -1376,7 +1376,7 @@ Solid state drive vendors
 | Patriot             | 7         | 7      | 2.61%   |
 | KingSpec            | 6         | 6      | 2.24%   |
 | PNY                 | 5         | 5      | 1.87%   |
-| GOODRAM             | 5         | 6      | 1.87%   |
+| Goodram             | 5         | 6      | 1.87%   |
 | SPCC                | 4         | 5      | 1.49%   |
 | Intenso             | 4         | 4      | 1.49%   |
 | Corsair             | 4         | 4      | 1.49%   |
@@ -2194,8 +2194,8 @@ Monitor screen resolution
 | Resolution         | Computers | Percent |
 |--------------------|-----------|---------|
 | 1920x1080 (FHD)    | 136       | 32.85%  |
-| 1366x768 (WXGA)    | 114       | 27.54%  |
-| 1280x800 (WXGA)    | 28        | 6.76%   |
+| 1366x768 (WXGA)    | 115       | 27.78%  |
+| 1280x800 (WXGA)    | 27        | 6.52%   |
 | 1600x900 (HD+)     | 23        | 5.56%   |
 | 2560x1440 (QHD)    | 20        | 4.83%   |
 | 1280x1024 (SXGA)   | 17        | 4.11%   |
@@ -2223,7 +2223,7 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 87        | 20.62%  |
+| 15      | 88        | 20.85%  |
 | 13      | 65        | 15.4%   |
 | 24      | 39        | 9.24%   |
 | 27      | 29        | 6.87%   |
@@ -2231,7 +2231,7 @@ Diagonal size in inches
 | 21      | 24        | 5.69%   |
 | 23      | 23        | 5.45%   |
 | 17      | 21        | 4.98%   |
-| 12      | 18        | 4.27%   |
+| 12      | 17        | 4.03%   |
 | 14      | 15        | 3.55%   |
 | 20      | 10        | 2.37%   |
 | 18      | 10        | 2.37%   |
@@ -2263,9 +2263,9 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 141       | 33.81%  |
+| 301-350     | 142       | 34.05%  |
 | 501-600     | 85        | 20.38%  |
-| 201-300     | 66        | 15.83%  |
+| 201-300     | 65        | 15.59%  |
 | 401-500     | 64        | 15.35%  |
 | 351-400     | 24        | 5.76%   |
 | 601-700     | 16        | 3.84%   |
@@ -2285,8 +2285,8 @@ Proportional relationship between the width and the height
 
 | Ratio   | Computers | Percent |
 |---------|-----------|---------|
-| 16/9    | 298       | 74.13%  |
-| 16/10   | 65        | 16.17%  |
+| 16/9    | 299       | 74.38%  |
+| 16/10   | 64        | 15.92%  |
 | 5/4     | 15        | 3.73%   |
 | 4/3     | 8         | 1.99%   |
 | 3/2     | 7         | 1.74%   |
@@ -2308,8 +2308,8 @@ Area in inch²
 | 81-90          | 69        | 16.39%  |
 | 151-200        | 42        | 9.98%   |
 | 301-350        | 30        | 7.13%   |
-| 101-110        | 20        | 4.75%   |
-| 61-70          | 19        | 4.51%   |
+| 101-110        | 21        | 4.99%   |
+| 61-70          | 18        | 4.28%   |
 | 351-500        | 17        | 4.04%   |
 | 141-150        | 15        | 3.56%   |
 | 251-300        | 13        | 3.09%   |
@@ -2333,9 +2333,9 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 51-100        | 161       | 38.61%  |
+| 51-100        | 162       | 38.85%  |
 | 101-120       | 149       | 35.73%  |
-| 121-160       | 86        | 20.62%  |
+| 121-160       | 85        | 20.38%  |
 | 161-240       | 9         | 2.16%   |
 | Unknown       | 8         | 1.92%   |
 | More than 240 | 2         | 0.48%   |
@@ -2868,7 +2868,7 @@ Memory module vendors
 | Patriot                      | 3         | 0.59%   |
 | Avant                        | 3         | 0.59%   |
 | Silicon Power                | 2         | 0.39%   |
-| Goodram                      | 2         | 0.39%   |
+| GOODRAM                      | 2         | 0.39%   |
 | Atermiter                    | 2         | 0.39%   |
 | ASint Technology             | 2         | 0.39%   |
 | AMD                          | 2         | 0.39%   |
@@ -2908,6 +2908,7 @@ Memory module models
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s   | 5         | 0.9%    |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 5         | 0.9%    |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s              | 4         | 0.72%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 4         | 0.72%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s   | 4         | 0.72%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
@@ -2916,7 +2917,6 @@ Memory module models
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s               | 3         | 0.54%   |
 | Unknown RAM Module 2GB DIMM DDR2                        | 3         | 0.54%   |
-| Team RAM TEAMGROUP-UD4-3200 32GB DIMM DDR4 3200MT/s     | 3         | 0.54%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1067MT/s            | 3         | 0.54%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 3         | 0.54%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 3         | 0.54%   |

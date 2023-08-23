@@ -1612,7 +1612,7 @@ Memory module models
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s     | 1         | 4.35%   |
 | SK hynix RAM HMT325S6EFR8A-PB 2GB SODIMM DDR3 1600MT/s     | 1         | 4.35%   |
 | SHARETRONIC RAM Module 2048MB SODIMM DDR3 1600MT/s         | 1         | 4.35%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s      | 1         | 4.35%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s           | 1         | 4.35%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s      | 1         | 4.35%   |
 | Ramaxel RAM RMT3160ED58E9W1600 4GB SODIMM DDR3 1600MT/s    | 1         | 4.35%   |
 | Ramaxel RAM RMSA3230KB78HAF2133 8GB SODIMM DDR4 2133MT/s   | 1         | 4.35%   |

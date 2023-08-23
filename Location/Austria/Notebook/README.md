@@ -956,12 +956,12 @@ Storage controller models
 | Samsung NVMe SSD Controller 980                                                  | 4         | 9.76%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 3         | 7.32%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 3         | 7.32%   |
+| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                    | 2         | 4.88%   |
 | SK hynix BC511 NVMe SSD                                                          | 2         | 4.88%   |
-| Intel SSD Pro 7600p/760p/E 6100p Series                                          | 2         | 4.88%   |
+| Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                 | 2         | 4.88%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 2         | 4.88%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 2         | 4.88%   |
 | AMD FCH SATA Controller [AHCI mode]                                              | 2         | 4.88%   |
-| Unknown                                                                          | 2         | 4.88%   |
 | Toshiba XG4 NVMe SSD Controller                                                  | 1         | 2.44%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                    | 1         | 2.44%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 2.44%   |
