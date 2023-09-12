@@ -2082,7 +2082,7 @@ Memory module models
 | Unknown                                                      | 3         | 2.86%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 2         | 1.9%    |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s        | 2         | 1.9%    |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s       | 2         | 1.9%    |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s        | 2         | 1.9%    |
 | Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                  | 1         | 0.95%   |
 | Unknown RAM Module 4GB SODIMM DDR3                           | 1         | 0.95%   |
 | Unknown RAM Module 2GB SODIMM DDR3                           | 1         | 0.95%   |
@@ -2113,7 +2113,7 @@ Memory module models
 | Samsung RAM Module 4GB Row Of Chips LPDDR3 2133MT/s          | 1         | 0.95%   |
 | Samsung RAM M473B5273DH0-YK0 4GB SODIMM DDR3 1333MT/s        | 1         | 0.95%   |
 | Samsung RAM M471B5773CHS-CK0 2GB SODIMM DDR3 1600MT/s        | 1         | 0.95%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s             | 1         | 0.95%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s        | 1         | 0.95%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s             | 1         | 0.95%   |
 
 Memory Kind

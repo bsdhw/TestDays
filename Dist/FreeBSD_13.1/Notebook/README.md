@@ -2242,7 +2242,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 2.11%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 1.41%   |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 1.41%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 2         | 1.41%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 1.41%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 1.41%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 1.41%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 1.41%   |
@@ -2254,7 +2254,7 @@ Memory module models
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s           | 2         | 1.41%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 2         | 1.41%   |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 1.41%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s           | 2         | 1.41%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s            | 2         | 1.41%   |
 | Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1333MT/s           | 2         | 1.41%   |
 | KomputerBay RAM KB_8G_D3_1333_C9 8GB SODIMM DDR3 1334MT/s        | 2         | 1.41%   |
 | Kingston RAM 99U5469-045.A00LF 4GB SODIMM DDR3 1600MT/s          | 2         | 1.41%   |
@@ -2341,8 +2341,8 @@ Memory module speed
 | 3200    | 26        | 21.31%  |
 | 1600    | 25        | 20.49%  |
 | 2667    | 17        | 13.93%  |
-| 2400    | 14        | 11.48%  |
-| 2133    | 10        | 8.2%    |
+| 2400    | 16        | 13.11%  |
+| 2133    | 8         | 6.56%   |
 | 1334    | 7         | 5.74%   |
 | 1333    | 4         | 3.28%   |
 | 4267    | 2         | 1.64%   |

@@ -1097,7 +1097,7 @@ Drive models with a malfunction
 | Seagate ST500LT012-9WS142 500GB                 | 1         | 1      | 2.5%    |
 | Seagate ST500LT012-1DG142 500GB                 | 1         | 1      | 2.5%    |
 | Seagate ST500LM021-1KJ152 500GB                 | 1         | 1      | 2.5%    |
-| Seagate ST500DM002-1BD142 496GB                 | 1         | 1      | 2.5%    |
+| Seagate ST500DM002-1BD142 500GB                 | 1         | 1      | 2.5%    |
 | Seagate ST3500413AS 500GB                       | 1         | 1      | 2.5%    |
 | Seagate ST320LT012-9WS14C 320GB                 | 1         | 1      | 2.5%    |
 | Seagate ST1000LM048-2E7172 1TB                  | 1         | 1      | 2.5%    |
@@ -2319,7 +2319,6 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.16%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.16%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.16%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 1.16%   |
@@ -2354,6 +2353,7 @@ Memory module models
 | Teikon RAM TMT451S6BFR8A-PBHC 4GB SODIMM DDR3 1333MT/s          | 1         | 0.58%   |
 | Teikon RAM TMT41GS6BFR8A-PBSC 8GB SODIMM DDR3 1600MT/s          | 1         | 0.58%   |
 | Teikon RAM TMT225S6FR8C-H9HC 2GB SODIMM DDR3 1334MT/s           | 1         | 0.58%   |
+| Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s             | 1         | 0.58%   |
 
 Memory Kind
 -----------
@@ -2400,8 +2400,8 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 65        | 41.94%  |
-| 8192  | 40        | 25.81%  |
+| 4096  | 64        | 41.29%  |
+| 8192  | 41        | 26.45%  |
 | 2048  | 37        | 23.87%  |
 | 16384 | 9         | 5.81%   |
 | 32768 | 3         | 1.94%   |

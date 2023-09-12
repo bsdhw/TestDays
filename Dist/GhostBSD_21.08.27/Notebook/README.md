@@ -1685,7 +1685,7 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
@@ -1770,9 +1770,10 @@ Memory module speed
 | 2667    | 9         | 27.27%  |
 | 1600    | 9         | 27.27%  |
 | 3200    | 4         | 12.12%  |
-| 2133    | 3         | 9.09%   |
 | 1334    | 3         | 9.09%   |
+| 2133    | 2         | 6.06%   |
 | 1333    | 2         | 6.06%   |
+| 2400    | 1         | 3.03%   |
 | 1867    | 1         | 3.03%   |
 | 667     | 1         | 3.03%   |
 | Unknown | 1         | 3.03%   |

@@ -877,7 +877,7 @@ Hard drive models
 | SK hynix SC311 SATA 128GB       | 1         | 0.7%    |
 | Seagate ST9160821A 160GB        | 1         | 0.7%    |
 | Seagate ST9146852SS 146GB       | 1         | 0.7%    |
-| Seagate ST500DM002-1BD142 496GB | 1         | 0.7%    |
+| Seagate ST500DM002-1BD142 500GB | 1         | 0.7%    |
 
 HDD Vendor
 ----------
@@ -2203,7 +2203,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 4%      |
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 4%      |
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1         | 4%      |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4%      |
@@ -2264,13 +2264,13 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 8         | 36.36%  |
-| 2048  | 5         | 22.73%  |
-| 8192  | 4         | 18.18%  |
-| 32768 | 2         | 9.09%   |
-| 16384 | 1         | 4.55%   |
-| 1024  | 1         | 4.55%   |
-| 512   | 1         | 4.55%   |
+| 4096  | 8         | 34.78%  |
+| 8192  | 5         | 21.74%  |
+| 2048  | 5         | 21.74%  |
+| 32768 | 2         | 8.7%    |
+| 16384 | 1         | 4.35%   |
+| 1024  | 1         | 4.35%   |
+| 512   | 1         | 4.35%   |
 
 Memory Speed
 ------------

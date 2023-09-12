@@ -1884,7 +1884,7 @@ Memory module models
 | Unknown                                                          | 2         | 4%      |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 2%      |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2%      |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
@@ -1978,12 +1978,12 @@ Memory module speed
 | 1600    | 10        | 22.73%  |
 | 2667    | 9         | 20.45%  |
 | 3200    | 5         | 11.36%  |
-| 2133    | 5         | 11.36%  |
+| 2133    | 4         | 9.09%   |
 | 1333    | 4         | 9.09%   |
 | 1334    | 3         | 6.82%   |
+| 2400    | 2         | 4.55%   |
 | 3600    | 1         | 2.27%   |
 | 3333    | 1         | 2.27%   |
-| 2400    | 1         | 2.27%   |
 | 1867    | 1         | 2.27%   |
 | 1067    | 1         | 2.27%   |
 | 1066    | 1         | 2.27%   |

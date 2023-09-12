@@ -1050,7 +1050,7 @@ Solid state drive vendors
 | A-DATA Technology   | 7        | 7      | 5.43%   |
 | WDC                 | 6        | 10     | 4.65%   |
 | Intel               | 5        | 5      | 3.88%   |
-| GOODRAM             | 5        | 6      | 3.88%   |
+| Goodram             | 5        | 6      | 3.88%   |
 | PNY                 | 4        | 4      | 3.1%    |
 | Patriot             | 4        | 4      | 3.1%    |
 | OCZ                 | 3        | 3      | 2.33%   |
@@ -1388,11 +1388,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 149      | 58.66%  |
-| NVMe | 45       | 17.72%  |
-| IDE  | 42       | 16.54%  |
-| RAID | 15       | 5.91%   |
-| SAS  | 2        | 0.79%   |
+| SATA | 149      | 58.43%  |
+| NVMe | 45       | 17.65%  |
+| IDE  | 43       | 16.86%  |
+| RAID | 15       | 5.88%   |
+| SAS  | 2        | 0.78%   |
 | SCSI | 1        | 0.39%   |
 
 Processor
@@ -1765,7 +1765,7 @@ Monitor models
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
 | Samsung Electronics SyncMaster SAM0601 1600x900                        | 2        | 1.16%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch             | 2        | 1.16%   |
+| Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch           | 2        | 1.16%   |
 | BenQ GW2780 BNQ78E6 1920x1080 600x340mm 27.2-inch                      | 2        | 1.16%   |
 | ASUSTek Computer ROG XG279Q AUS278D 2560x1440 600x340mm 27.2-inch      | 2        | 1.16%   |
 | AOC 24G2W1G4 AOC2402 1920x1080 530x300mm 24.0-inch                     | 2        | 1.16%   |
@@ -2430,9 +2430,9 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Unknown                                                | 14       | 5.69%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s   | 5        | 2.03%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s    | 4        | 1.63%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 3        | 1.22%   |
 | Unknown RAM Module 2GB DIMM DDR2                       | 3        | 1.22%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 3        | 1.22%   |
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 3        | 1.22%   |
@@ -2467,7 +2467,7 @@ Memory module models
 | Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s      | 1        | 0.41%   |
 | Transcend RAM TS128MLQ64V8U 1GB DIMM DDR2 800MT/s      | 1        | 0.41%   |
 | Transcend RAM JM1333KLN-2G 2GB DIMM DDR3 1333MT/s      | 1        | 0.41%   |
-| Team RAM TEAMGROUP-UD4-2133 8GB DIMM DDR4 2133MT/s     | 1        | 0.41%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s     | 1        | 0.41%   |
 
 Memory Kind
 -----------

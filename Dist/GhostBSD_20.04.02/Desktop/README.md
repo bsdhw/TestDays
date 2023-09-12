@@ -729,7 +729,7 @@ Hard drive models
 | WDC WD10EZEX-21M2NA0 1TB           | 2        | 2.04%   |
 | Toshiba Q300 480GB                 | 2        | 2.04%   |
 | Toshiba HDWD120 2TB                | 2        | 2.04%   |
-| Seagate ST500DM002-1BD142 496GB    | 2        | 2.04%   |
+| Seagate ST500DM002-1BD142 500GB    | 2        | 2.04%   |
 | Samsung SSD 860 QVO 1TB            | 2        | 2.04%   |
 | Maxtor STM3320613AS 320GB          | 2        | 2.04%   |
 | Crucial CT250MX500SSD1 250GB       | 2        | 2.04%   |
@@ -898,7 +898,7 @@ Drive models with a malfunction
 | Maxtor STM3320613AS 320GB       | 2        | 2      | 20%     |
 | WDC WD5000AAKS-60WWPA0 500GB    | 1        | 1      | 10%     |
 | WDC WD10EZEX-21M2NA0 1TB        | 1        | 1      | 10%     |
-| Seagate ST500DM002-1BD142 496GB | 1        | 1      | 10%     |
+| Seagate ST500DM002-1BD142 500GB | 1        | 1      | 10%     |
 | Seagate ST31500541AS 1.5TB      | 1        | 1      | 10%     |
 | Samsung Electronics HD103SJ 1TB | 1        | 2      | 10%     |
 | OCZ AGILITY3 240GB              | 1        | 1      | 10%     |

@@ -574,7 +574,7 @@ Hard drive models
 | WDC WD10EFRX-68PJCN0 1TB        | 1        | 5.26%   |
 | Toshiba DT01ACA100 1TB          | 1        | 5.26%   |
 | Toshiba DT01ABA300 3TB          | 1        | 5.26%   |
-| Seagate ST500DM002-1BD142 496GB | 1        | 5.26%   |
+| Seagate ST500DM002-1BD142 500GB | 1        | 5.26%   |
 | Seagate ST3500418AS 500GB       | 1        | 5.26%   |
 | Seagate ST1000DM003-1CH162 1TB  | 1        | 5.26%   |
 | SanDisk SSD PLUS 120GB          | 1        | 5.26%   |
@@ -699,7 +699,7 @@ Drive models with a malfunction
 |---------------------------------|----------|--------|---------|
 | WDC WD10EFRX-68PJCN0 1TB        | 1        | 2      | 33.33%  |
 | Toshiba DT01ABA300 3TB          | 1        | 1      | 33.33%  |
-| Seagate ST500DM002-1BD142 496GB | 1        | 1      | 33.33%  |
+| Seagate ST500DM002-1BD142 500GB | 1        | 1      | 33.33%  |
 
 Malfunc. Drive Vendor
 ---------------------

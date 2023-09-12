@@ -595,7 +595,7 @@ Hard drive models
 | SK hynix SKHynix_HFS256GD9TNI-L2B0B 256GB | 1        | 2.5%    |
 | SK hynix SHGS31-500GS-2 500GB             | 1        | 2.5%    |
 | Seagate ST9500325AS 500GB                 | 1        | 2.5%    |
-| Seagate ST500DM002-1BD142 496GB           | 1        | 2.5%    |
+| Seagate ST500DM002-1BD142 500GB           | 1        | 2.5%    |
 | Seagate ST4000DM000-2AE166 4TB            | 1        | 2.5%    |
 | Seagate ST3000DM008-2DM166 3TB            | 1        | 2.5%    |
 | Samsung SSD 970 EVO 500GB                 | 1        | 2.5%    |

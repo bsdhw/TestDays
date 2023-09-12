@@ -2055,7 +2055,7 @@ Memory module models
 | Model                                                       | Notebooks | Percent |
 |-------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s               | 4         | 3.2%    |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 3         | 2.4%    |
+| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s      | 3         | 2.4%    |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s       | 3         | 2.4%    |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 2         | 1.6%    |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s      | 2         | 1.6%    |
@@ -2066,7 +2066,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s      | 2         | 1.6%    |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s               | 2         | 1.6%    |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s               | 2         | 1.6%    |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s              | 2         | 1.6%    |
@@ -2092,7 +2092,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s      | 1         | 0.8%    |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s      | 1         | 0.8%    |
 | SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s      | 1         | 0.8%    |
-| SK hynix RAM HMT325S6CFR8C-H9 2048MB SODIMM DDR3 1333MT/s   | 1         | 0.8%    |
+| SK hynix RAM HMT325S6CFR8C-H9 2GB SODIMM DDR3 1333MT/s      | 1         | 0.8%    |
 | SK hynix RAM HMT125S6BFR8C-H9 2048MB SODIMM DDR3 1333MT/s   | 1         | 0.8%    |
 
 Memory Kind
@@ -2135,11 +2135,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 52        | 50%     |
-| 2048  | 22        | 21.15%  |
-| 8192  | 21        | 20.19%  |
-| 16384 | 7         | 6.73%   |
-| 1024  | 2         | 1.92%   |
+| 4096  | 50        | 47.62%  |
+| 8192  | 24        | 22.86%  |
+| 2048  | 22        | 20.95%  |
+| 16384 | 7         | 6.67%   |
+| 1024  | 2         | 1.9%    |
 
 Memory Speed
 ------------

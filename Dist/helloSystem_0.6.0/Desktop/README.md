@@ -930,7 +930,7 @@ Drive models with a malfunction
 | Seagate ST750LM022 HN-M750MBB 752GB | 1        | 1      | 5%      |
 | Seagate ST500LT012-9WS142 500GB     | 1        | 1      | 5%      |
 | Seagate ST500LT012-1DG142 500GB     | 1        | 1      | 5%      |
-| Seagate ST500DM002-1BD142 496GB     | 1        | 1      | 5%      |
+| Seagate ST500DM002-1BD142 500GB     | 1        | 1      | 5%      |
 | Seagate ST3500413AS 500GB           | 1        | 1      | 5%      |
 | SanDisk SDSSDA240G 240GB            | 1        | 1      | 5%      |
 | Samsung Electronics HD161HJ 160GB   | 1        | 1      | 5%      |

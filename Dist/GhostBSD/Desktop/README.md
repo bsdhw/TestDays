@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 111
+Total: 112
 
 | Vendor    | Model                       | Probe                                                     | Date         |
 |-----------|-----------------------------|-----------------------------------------------------------|--------------|
+| MSI       | MPG Z390 GAMING PRO CARB... | [9d53e56e92](https://bsd-hardware.info/?probe=9d53e56e92) | Aug 13, 2023 |
 | Gigabyte  | B150N Phoenix-WIFI-CF       | [efe49f9e5d](https://bsd-hardware.info/?probe=efe49f9e5d) | Jul 20, 2023 |
 | Intel     | HM570                       | [4e0fd42418](https://bsd-hardware.info/?probe=4e0fd42418) | Jul 11, 2023 |
 | ASUSTek   | ROG STRIX X570-E GAMING     | [e212a51c70](https://bsd-hardware.info/?probe=e212a51c70) | Jul 03, 2023 |
@@ -820,22 +821,23 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 37       | 55     | 22.7%   |
-| Samsung Electronics | 31       | 42     | 19.02%  |
-| Seagate             | 22       | 33     | 13.5%   |
-| Crucial             | 17       | 23     | 10.43%  |
-| Toshiba             | 7        | 8      | 4.29%   |
-| Hitachi             | 6        | 6      | 3.68%   |
-| SanDisk             | 5        | 10     | 3.07%   |
-| A-DATA Technology   | 5        | 5      | 3.07%   |
-| Kingston            | 4        | 4      | 2.45%   |
-| Micron Technology   | 3        | 3      | 1.84%   |
-| HGST                | 3        | 3      | 1.84%   |
-| PNY                 | 2        | 4      | 1.23%   |
-| OCZ                 | 2        | 2      | 1.23%   |
-| Maxtor              | 2        | 2      | 1.23%   |
-| Intel               | 2        | 2      | 1.23%   |
+| WDC                 | 37       | 55     | 22.56%  |
+| Samsung Electronics | 31       | 42     | 18.9%   |
+| Seagate             | 22       | 33     | 13.41%  |
+| Crucial             | 17       | 23     | 10.37%  |
+| Toshiba             | 7        | 8      | 4.27%   |
+| Hitachi             | 6        | 6      | 3.66%   |
+| SanDisk             | 5        | 10     | 3.05%   |
+| A-DATA Technology   | 5        | 5      | 3.05%   |
+| Kingston            | 4        | 4      | 2.44%   |
+| Micron Technology   | 3        | 3      | 1.83%   |
+| HGST                | 3        | 3      | 1.83%   |
+| PNY                 | 2        | 4      | 1.22%   |
+| OCZ                 | 2        | 2      | 1.22%   |
+| Maxtor              | 2        | 2      | 1.22%   |
+| Intel               | 2        | 2      | 1.22%   |
 | XPG                 | 1        | 1      | 0.61%   |
+| Vaseky              | 1        | 1      | 0.61%   |
 | Transcend           | 1        | 1      | 0.61%   |
 | SPCC                | 1        | 1      | 0.61%   |
 | Plextor             | 1        | 1      | 0.61%   |
@@ -861,10 +863,10 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Crucial CT1000MX500SSD1 1TB     | 5        | 2.6%    |
-| Samsung SSD 850 EVO 500GB       | 4        | 2.08%   |
-| Samsung SSD 850 EVO 250GB       | 4        | 2.08%   |
-| Seagate ST500DM002-1BD142 496GB | 3        | 1.56%   |
+| Crucial CT1000MX500SSD1 1TB     | 5        | 2.59%   |
+| Samsung SSD 850 EVO 500GB       | 4        | 2.07%   |
+| Samsung SSD 850 EVO 250GB       | 4        | 2.07%   |
+| Seagate ST500DM002-1BD142 500GB | 3        | 1.55%   |
 | WDC WDS500G2B0A-00SM50 500GB    | 2        | 1.04%   |
 | WDC WDS100T3X0C-00SJG0 1TB      | 2        | 1.04%   |
 | WDC WD40EFRX-68N32N0 4TB        | 2        | 1.04%   |
@@ -931,27 +933,28 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 22       | 26     | 31.43%  |
-| Crucial             | 14       | 16     | 20%     |
-| WDC                 | 5        | 7      | 7.14%   |
-| SanDisk             | 5        | 10     | 7.14%   |
-| A-DATA Technology   | 3        | 3      | 4.29%   |
-| Toshiba             | 2        | 2      | 2.86%   |
-| PNY                 | 2        | 4      | 2.86%   |
-| OCZ                 | 2        | 2      | 2.86%   |
-| Micron Technology   | 2        | 2      | 2.86%   |
-| Kingston            | 2        | 2      | 2.86%   |
-| Transcend           | 1        | 1      | 1.43%   |
-| SPCC                | 1        | 1      | 1.43%   |
-| Seagate             | 1        | 1      | 1.43%   |
-| Plextor             | 1        | 1      | 1.43%   |
-| Patriot             | 1        | 1      | 1.43%   |
-| Lexar               | 1        | 1      | 1.43%   |
-| Intel               | 1        | 1      | 1.43%   |
-| Hikvision           | 1        | 1      | 1.43%   |
-| China               | 1        | 1      | 1.43%   |
-| Apacer              | 1        | 1      | 1.43%   |
-| AMD                 | 1        | 1      | 1.43%   |
+| Samsung Electronics | 22       | 26     | 30.99%  |
+| Crucial             | 14       | 16     | 19.72%  |
+| WDC                 | 5        | 7      | 7.04%   |
+| SanDisk             | 5        | 10     | 7.04%   |
+| A-DATA Technology   | 3        | 3      | 4.23%   |
+| Toshiba             | 2        | 2      | 2.82%   |
+| PNY                 | 2        | 4      | 2.82%   |
+| OCZ                 | 2        | 2      | 2.82%   |
+| Micron Technology   | 2        | 2      | 2.82%   |
+| Kingston            | 2        | 2      | 2.82%   |
+| Vaseky              | 1        | 1      | 1.41%   |
+| Transcend           | 1        | 1      | 1.41%   |
+| SPCC                | 1        | 1      | 1.41%   |
+| Seagate             | 1        | 1      | 1.41%   |
+| Plextor             | 1        | 1      | 1.41%   |
+| Patriot             | 1        | 1      | 1.41%   |
+| Lexar               | 1        | 1      | 1.41%   |
+| Intel               | 1        | 1      | 1.41%   |
+| Hikvision           | 1        | 1      | 1.41%   |
+| China               | 1        | 1      | 1.41%   |
+| Apacer              | 1        | 1      | 1.41%   |
+| AMD                 | 1        | 1      | 1.41%   |
 
 Drive Kind
 ----------
@@ -963,9 +966,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 52       | 98     | 41.27%  |
-| SSD  | 49       | 85     | 38.89%  |
-| NVMe | 25       | 38     | 19.84%  |
+| HDD  | 52       | 98     | 40.94%  |
+| SSD  | 50       | 86     | 39.37%  |
+| NVMe | 25       | 38     | 19.69%  |
 
 Drive Connector
 ---------------
@@ -977,8 +980,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 77       | 183    | 75.49%  |
-| NVMe | 25       | 38     | 24.51%  |
+| SATA | 78       | 184    | 75.73%  |
+| NVMe | 25       | 38     | 24.27%  |
 
 Drive Size
 ----------
@@ -990,12 +993,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 58       | 86     | 48.74%  |
-| 0.51-1.0   | 30       | 51     | 25.21%  |
-| 1.01-2.0   | 17       | 24     | 14.29%  |
-| 3.01-4.0   | 9        | 11     | 7.56%   |
-| 4.01-10.0  | 4        | 9      | 3.36%   |
-| 10.01-20.0 | 1        | 2      | 0.84%   |
+| 0.01-0.5   | 59       | 87     | 49.17%  |
+| 0.51-1.0   | 30       | 51     | 25%     |
+| 1.01-2.0   | 17       | 24     | 14.17%  |
+| 3.01-4.0   | 9        | 11     | 7.5%    |
+| 4.01-10.0  | 4        | 9      | 3.33%   |
+| 10.01-20.0 | 1        | 2      | 0.83%   |
 
 Space Total
 -----------
@@ -1042,7 +1045,7 @@ Drive models with a malfunction
 
 | Model                           | Desktops | Drives | Percent |
 |---------------------------------|----------|--------|---------|
-| Seagate ST500DM002-1BD142 496GB | 2        | 2      | 9.52%   |
+| Seagate ST500DM002-1BD142 500GB | 2        | 2      | 9.52%   |
 | Maxtor STM3320613AS 320GB       | 2        | 2      | 9.52%   |
 | WDC WDS480G2G0A-00JH30 480GB    | 1        | 2      | 4.76%   |
 | WDC WD800AAJS-00TDA0 80GB       | 1        | 1      | 4.76%   |
@@ -1133,9 +1136,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 79       | 194    | 79.8%   |
-| Malfunc  | 19       | 23     | 19.19%  |
-| Detected | 1        | 4      | 1.01%   |
+| Works    | 80       | 195    | 80%     |
+| Malfunc  | 19       | 23     | 19%     |
+| Detected | 1        | 4      | 1%      |
 
 Storage controller
 ------------------
@@ -2164,7 +2167,7 @@ Memory module vendors
 | Nanya Technology    | 2        | 2.13%   |
 | A-DATA Technology   | 2        | 2.13%   |
 | Undefined-00BA      | 1        | 1.06%   |
-| TIMETEC             | 1        | 1.06%   |
+| Timetec             | 1        | 1.06%   |
 | S                   | 1        | 1.06%   |
 | Patriot             | 1        | 1.06%   |
 | Micron Technology   | 1        | 1.06%   |
@@ -2195,7 +2198,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM 800MT/s                     | 1        | 1.01%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s             | 1        | 1.01%   |
 | Undefined-00BA RAM Module 4GB DIMM DDR3 1333MT/s        | 1        | 1.01%   |
-| TIMETEC RAM SD4-2666 16GB SODIMM DDR4 2666MT/s          | 1        | 1.01%   |
+| Timetec RAM SD4-2666 32GB SODIMM DDR4 2666MT/s          | 1        | 1.01%   |
 | SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1        | 1.01%   |
 | SK hynix RAM HMT41GU6MFR8C-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.01%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s    | 1        | 1.01%   |
@@ -2265,11 +2268,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 39       | 46.43%  |
-| 4096  | 21       | 25%     |
-| 16384 | 13       | 15.48%  |
-| 2048  | 8        | 9.52%   |
-| 32768 | 3        | 3.57%   |
+| 8192  | 39       | 45.88%  |
+| 4096  | 21       | 24.71%  |
+| 16384 | 13       | 15.29%  |
+| 2048  | 8        | 9.41%   |
+| 32768 | 4        | 4.71%   |
 
 Memory Speed
 ------------
@@ -2437,13 +2440,13 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Communication controller | 36       | 43.37%  |
-| Bluetooth                | 15       | 18.07%  |
-| Net/wireless             | 10       | 12.05%  |
-| Firewire controller      | 7        | 8.43%   |
-| Sound                    | 5        | 6.02%   |
-| Network                  | 4        | 4.82%   |
-| Card reader              | 3        | 3.61%   |
-| Net/ethernet             | 2        | 2.41%   |
-| Modem                    | 1        | 1.2%    |
+| Communication controller | 36       | 42.86%  |
+| Bluetooth                | 16       | 19.05%  |
+| Net/wireless             | 10       | 11.9%   |
+| Firewire controller      | 7        | 8.33%   |
+| Sound                    | 5        | 5.95%   |
+| Network                  | 4        | 4.76%   |
+| Card reader              | 3        | 3.57%   |
+| Net/ethernet             | 2        | 2.38%   |
+| Modem                    | 1        | 1.19%   |
 

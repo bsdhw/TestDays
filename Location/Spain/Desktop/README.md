@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 169
+Total: 171
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Intel         | SKYBAY                      | [9d49471591](https://bsd-hardware.info/?probe=9d49471591) | Aug 29, 2023 |
+| YANYU         | R250                        | [69dbe1a014](https://bsd-hardware.info/?probe=69dbe1a014) | Aug 24, 2023 |
 | YANYU         | R250                        | [95a37ee143](https://bsd-hardware.info/?probe=95a37ee143) | Aug 06, 2023 |
 | Techvision    | TVI7309X B0                 | [6bd995374a](https://bsd-hardware.info/?probe=6bd995374a) | Jul 30, 2023 |
 | Gigabyte      | A320M-H-CF                  | [d1a2b99edc](https://bsd-hardware.info/?probe=d1a2b99edc) | Jul 28, 2023 |
@@ -334,46 +336,46 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| helloSystem 0.7.0 | 11       | 8.21%   |
-| helloSystem 0.8.1 | 10       | 7.46%   |
-| OPNsense 22.1     | 7        | 5.22%   |
-| helloSystem 0.4.0 | 7        | 5.22%   |
-| helloSystem 0.8.0 | 6        | 4.48%   |
-| FreeBSD 13.1      | 5        | 3.73%   |
-| OPNsense 21.7.7   | 4        | 2.99%   |
-| OpenBSD 6.8       | 4        | 2.99%   |
-| OPNsense 22.7.10  | 3        | 2.24%   |
-| OPNsense 21.7.1   | 3        | 2.24%   |
-| helloSystem 0.6.0 | 3        | 2.24%   |
-| OPNsense 23.1.7   | 2        | 1.49%   |
-| OPNsense 23.1.11  | 2        | 1.49%   |
-| OPNsense 23.1     | 2        | 1.49%   |
-| OPNsense 22.7.9   | 2        | 1.49%   |
-| OPNsense 22.7.6   | 2        | 1.49%   |
-| OPNsense 22.7.4   | 2        | 1.49%   |
-| OPNsense 22.7.2   | 2        | 1.49%   |
-| OPNsense 22.7.11  | 2        | 1.49%   |
-| OPNsense 22.7.1   | 2        | 1.49%   |
-| OPNsense 22.1.5   | 2        | 1.49%   |
-| OPNsense 22.1.3   | 2        | 1.49%   |
-| OPNsense 22.1.1   | 2        | 1.49%   |
-| OPNsense 21.7.3   | 2        | 1.49%   |
-| OPNsense 21.1.7   | 2        | 1.49%   |
-| OpenBSD 7.2       | 2        | 1.49%   |
-| OpenBSD 7.1       | 2        | 1.49%   |
-| helloSystem 0.5.0 | 2        | 1.49%   |
-| FreeBSD 13.2      | 2        | 1.49%   |
-| FreeBSD 13.0      | 2        | 1.49%   |
-| FreeBSD 12.1-p8   | 2        | 1.49%   |
-| TrueNAS 12.2-p2   | 1        | 0.75%   |
-| OPNsense 23.1.5   | 1        | 0.75%   |
-| OPNsense 23.1.10  | 1        | 0.75%   |
-| OPNsense 22.7.8   | 1        | 0.75%   |
-| OPNsense 22.7.7   | 1        | 0.75%   |
-| OPNsense 22.7     | 1        | 0.75%   |
-| OPNsense 22.1.8   | 1        | 0.75%   |
-| OPNsense 22.1.10  | 1        | 0.75%   |
-| OPNsense 21.7.6   | 1        | 0.75%   |
+| helloSystem 0.7.0 | 11       | 8.15%   |
+| helloSystem 0.8.1 | 10       | 7.41%   |
+| OPNsense 22.1     | 7        | 5.19%   |
+| helloSystem 0.4.0 | 7        | 5.19%   |
+| helloSystem 0.8.0 | 6        | 4.44%   |
+| FreeBSD 13.1      | 5        | 3.7%    |
+| OPNsense 21.7.7   | 4        | 2.96%   |
+| OpenBSD 6.8       | 4        | 2.96%   |
+| OPNsense 22.7.10  | 3        | 2.22%   |
+| OPNsense 21.7.1   | 3        | 2.22%   |
+| helloSystem 0.6.0 | 3        | 2.22%   |
+| OPNsense 23.7.2   | 2        | 1.48%   |
+| OPNsense 23.1.7   | 2        | 1.48%   |
+| OPNsense 23.1     | 2        | 1.48%   |
+| OPNsense 22.7.9   | 2        | 1.48%   |
+| OPNsense 22.7.6   | 2        | 1.48%   |
+| OPNsense 22.7.4   | 2        | 1.48%   |
+| OPNsense 22.7.2   | 2        | 1.48%   |
+| OPNsense 22.7.11  | 2        | 1.48%   |
+| OPNsense 22.7.1   | 2        | 1.48%   |
+| OPNsense 22.1.5   | 2        | 1.48%   |
+| OPNsense 22.1.3   | 2        | 1.48%   |
+| OPNsense 22.1.1   | 2        | 1.48%   |
+| OPNsense 21.7.3   | 2        | 1.48%   |
+| OPNsense 21.1.7   | 2        | 1.48%   |
+| OpenBSD 7.2       | 2        | 1.48%   |
+| OpenBSD 7.1       | 2        | 1.48%   |
+| helloSystem 0.5.0 | 2        | 1.48%   |
+| FreeBSD 13.2      | 2        | 1.48%   |
+| FreeBSD 13.0      | 2        | 1.48%   |
+| FreeBSD 12.1-p8   | 2        | 1.48%   |
+| TrueNAS 12.2-p2   | 1        | 0.74%   |
+| OPNsense 23.1.5   | 1        | 0.74%   |
+| OPNsense 23.1.11  | 1        | 0.74%   |
+| OPNsense 23.1.10  | 1        | 0.74%   |
+| OPNsense 22.7.8   | 1        | 0.74%   |
+| OPNsense 22.7.7   | 1        | 0.74%   |
+| OPNsense 22.7     | 1        | 0.74%   |
+| OPNsense 22.1.8   | 1        | 0.74%   |
+| OPNsense 22.1.10  | 1        | 0.74%   |
 
 OS Family
 ---------
@@ -852,46 +854,46 @@ Geographic location (city)
 
 | City                          | Desktops | Percent |
 |-------------------------------|----------|---------|
-| Madrid                        | 23       | 19.33%  |
-| Valencia                      | 6        | 5.04%   |
-| Málaga                       | 3        | 2.52%   |
-| Ibiza Town                    | 3        | 2.52%   |
-| Barcelona                     | 3        | 2.52%   |
-| Seville                       | 2        | 1.68%   |
-| San SebastiÃ¡n de los Reyes | 2        | 1.68%   |
-| Palma                         | 2        | 1.68%   |
-| Oviedo                        | 2        | 1.68%   |
-| Ourense                       | 2        | 1.68%   |
-| Castilleja de la Cuesta       | 2        | 1.68%   |
-| Bilbao                        | 2        | 1.68%   |
-| Barakaldo                     | 2        | 1.68%   |
-| Zaragoza                      | 1        | 0.84%   |
-| VГ©lez-MГЎlaga            | 1        | 0.84%   |
-| Vitoria-Gasteiz               | 1        | 0.84%   |
-| Villena                       | 1        | 0.84%   |
-| Villanueva de la Canada       | 1        | 0.84%   |
-| Vigo                          | 1        | 0.84%   |
-| Valladolid                    | 1        | 0.84%   |
-| Valderrobres                  | 1        | 0.84%   |
-| Tres Cantos                   | 1        | 0.84%   |
-| Trebujena                     | 1        | 0.84%   |
-| Torre del Mar                 | 1        | 0.84%   |
-| Toledo                        | 1        | 0.84%   |
-| Sedavi                        | 1        | 0.84%   |
-| Santurtzi                     | 1        | 0.84%   |
-| Santiago de Compostela        | 1        | 0.84%   |
-| Sant Cugat del Vallès        | 1        | 0.84%   |
-| Sant Cugat del VallÃ¨s      | 1        | 0.84%   |
-| San Jose de la Rinconada      | 1        | 0.84%   |
-| San Fernando                  | 1        | 0.84%   |
-| Sabadell                      | 1        | 0.84%   |
-| Roses                         | 1        | 0.84%   |
-| Roquetas de Mar               | 1        | 0.84%   |
-| Rivas-Vaciamadrid             | 1        | 0.84%   |
-| Portugalete                   | 1        | 0.84%   |
-| Port de Sagunt                | 1        | 0.84%   |
-| Paterna                       | 1        | 0.84%   |
-| Parla                         | 1        | 0.84%   |
+| Madrid                        | 22       | 18.33%  |
+| Valencia                      | 6        | 5%      |
+| Málaga                       | 3        | 2.5%    |
+| Ibiza Town                    | 3        | 2.5%    |
+| Barcelona                     | 3        | 2.5%    |
+| Seville                       | 2        | 1.67%   |
+| San SebastiÃ¡n de los Reyes | 2        | 1.67%   |
+| Palma                         | 2        | 1.67%   |
+| Oviedo                        | 2        | 1.67%   |
+| Ourense                       | 2        | 1.67%   |
+| Castilleja de la Cuesta       | 2        | 1.67%   |
+| Bilbao                        | 2        | 1.67%   |
+| Barakaldo                     | 2        | 1.67%   |
+| Zaragoza                      | 1        | 0.83%   |
+| VГ©lez-MГЎlaga            | 1        | 0.83%   |
+| Vitoria-Gasteiz               | 1        | 0.83%   |
+| Villena                       | 1        | 0.83%   |
+| Villanueva de la Canada       | 1        | 0.83%   |
+| Vigo                          | 1        | 0.83%   |
+| Valladolid                    | 1        | 0.83%   |
+| Valderrobres                  | 1        | 0.83%   |
+| Tres Cantos                   | 1        | 0.83%   |
+| Trebujena                     | 1        | 0.83%   |
+| Torre del Mar                 | 1        | 0.83%   |
+| Toledo                        | 1        | 0.83%   |
+| Sedavi                        | 1        | 0.83%   |
+| Santurtzi                     | 1        | 0.83%   |
+| Santiago de Compostela        | 1        | 0.83%   |
+| Sant Cugat del Vallès        | 1        | 0.83%   |
+| Sant Cugat del VallÃ¨s      | 1        | 0.83%   |
+| San Jose de la Rinconada      | 1        | 0.83%   |
+| San Fernando                  | 1        | 0.83%   |
+| Sabadell                      | 1        | 0.83%   |
+| Roses                         | 1        | 0.83%   |
+| Roquetas de Mar               | 1        | 0.83%   |
+| Rivas-Vaciamadrid             | 1        | 0.83%   |
+| Portugalete                   | 1        | 0.83%   |
+| Port de Sagunt                | 1        | 0.83%   |
+| Pontevedra                    | 1        | 0.83%   |
+| Paterna                       | 1        | 0.83%   |
 
 Drives
 ------
@@ -934,7 +936,7 @@ Hard drive vendors
 | Innodisk            | 1        | 1      | 0.65%   |
 | Fanxiang            | 1        | 1      | 0.65%   |
 | EMTEC               | 1        | 1      | 0.65%   |
-| BR                  | 1        | 2      | 0.65%   |
+| BR                  | 1        | 3      | 0.65%   |
 | BAITITON            | 1        | 1      | 0.65%   |
 | Apacer              | 1        | 1      | 0.65%   |
 
@@ -949,7 +951,7 @@ Hard drive models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | Kingston SA400S37240G 240GB     | 6        | 3.33%   |
-| Seagate ST500DM002-1BD142 496GB | 4        | 2.22%   |
+| Seagate ST500DM002-1BD142 500GB | 4        | 2.22%   |
 | Seagate ST1000DM010-2EP102 1TB  | 4        | 2.22%   |
 | Kingston SA400S37120G 120GB     | 3        | 1.67%   |
 | Crucial CT240BX500SSD1 240GB    | 3        | 1.67%   |
@@ -1034,7 +1036,7 @@ Solid state drive vendors
 | Intel               | 1        | 3      | 1.28%   |
 | Innodisk            | 1        | 1      | 1.28%   |
 | EMTEC               | 1        | 1      | 1.28%   |
-| BR                  | 1        | 2      | 1.28%   |
+| BR                  | 1        | 3      | 1.28%   |
 | BAITITON            | 1        | 1      | 1.28%   |
 | Apacer              | 1        | 1      | 1.28%   |
 
@@ -1048,7 +1050,7 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 66       | 123    | 52.8%   |
+| SSD  | 66       | 124    | 52.8%   |
 | HDD  | 44       | 96     | 35.2%   |
 | NVMe | 15       | 21     | 12%     |
 
@@ -1062,7 +1064,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 89       | 219    | 85.58%  |
+| SATA | 89       | 220    | 85.58%  |
 | NVMe | 15       | 21     | 14.42%  |
 
 Drive Size
@@ -1075,7 +1077,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 79       | 162    | 69.3%   |
+| 0.01-0.5   | 79       | 163    | 69.3%   |
 | 0.51-1.0   | 23       | 39     | 20.18%  |
 | 1.01-2.0   | 7        | 11     | 6.14%   |
 | 4.01-10.0  | 3        | 5      | 2.63%   |
@@ -1111,11 +1113,11 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 1-20    | 92       | 86.79%  |
-| 21-50   | 9        | 8.49%   |
-| 251-500 | 2        | 1.89%   |
-| 51-100  | 2        | 1.89%   |
-| Unknown | 1        | 0.94%   |
+| 1-20    | 92       | 87.62%  |
+| 21-50   | 8        | 7.62%   |
+| 251-500 | 2        | 1.9%    |
+| 51-100  | 2        | 1.9%    |
+| Unknown | 1        | 0.95%   |
 
 Malfunc. Drives
 ---------------
@@ -1127,7 +1129,7 @@ Drive models with a malfunction
 
 | Model                             | Desktops | Drives | Percent |
 |-----------------------------------|----------|--------|---------|
-| Seagate ST500DM002-1BD142 496GB   | 2        | 2      | 6.67%   |
+| Seagate ST500DM002-1BD142 500GB   | 2        | 2      | 6.67%   |
 | LITEON CV8-8E128-HP 128GB         | 2        | 2      | 6.67%   |
 | WDC WDS240G2G0A-00JH30 240GB      | 1        | 2      | 3.33%   |
 | WDC WD6400AAKS-22A7B0 640GB       | 1        | 1      | 3.33%   |
@@ -1211,9 +1213,9 @@ Failed drive models
 ![Failed Drives](./images/pie_chart_bsd/drive_failed.svg)
 
 
-| Model             | Desktops | Drives | Percent |
-|-------------------|----------|--------|---------|
-| SanDisk pSSD 16GB | 1        | 1      | 100%    |
+| Model              | Desktops | Drives | Percent |
+|--------------------|----------|--------|---------|
+| SanDisk pSSD 256GB | 1        | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1237,7 +1239,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 81       | 202    | 76.42%  |
+| Works    | 81       | 203    | 76.42%  |
 | Malfunc  | 23       | 35     | 21.7%   |
 | Detected | 1        | 2      | 0.94%   |
 | Failed   | 1        | 1      | 0.94%   |
@@ -1262,7 +1264,7 @@ Storage controller vendors
 | Phison Electronics           | 3        | 2.34%   |
 | Silicon Motion               | 2        | 1.56%   |
 | Shenzhen Longsys Electronics | 2        | 1.56%   |
-| Sandisk                      | 2        | 1.56%   |
+| SanDisk                      | 2        | 1.56%   |
 | Nvidia                       | 2        | 1.56%   |
 | VIA Technologies             | 1        | 0.78%   |
 | Seagate Technology           | 1        | 0.78%   |
@@ -2305,7 +2307,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2667MT/s                      | 1        | 0.76%   |
 | Samsung RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1        | 0.76%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 1        | 0.76%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s         | 1        | 0.76%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s          | 1        | 0.76%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB SODIMM DDR4 3200MT/s          | 1        | 0.76%   |
 | Samsung RAM M391B5673FH0-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.76%   |
 | Samsung RAM M391B5673EH1-CH9 2GB DIMM DDR3 1333MT/s            | 1        | 0.76%   |

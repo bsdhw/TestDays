@@ -784,7 +784,7 @@ Hard drive models
 | SK hynix BC511 HFM256GDJTNI-82A0A 256GB   | 1         | 1.22%   |
 | Seagate ST500LT012-9WS142 500GB           | 1         | 1.22%   |
 | Seagate ST500LM030-2E717D 500GB           | 1         | 1.22%   |
-| Seagate ST500DM002-1BD142 496GB           | 1         | 1.22%   |
+| Seagate ST500DM002-1BD142 500GB           | 1         | 1.22%   |
 | Seagate ST4000DM000-2AE166 4TB            | 1         | 1.22%   |
 | Seagate ST3000DM008-2DM166 3TB            | 1         | 1.22%   |
 | Seagate ST2000LM007-1R8174 2TB            | 1         | 1.22%   |

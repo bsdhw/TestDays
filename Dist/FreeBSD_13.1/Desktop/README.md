@@ -1624,7 +1624,7 @@ Monitor models
 | Goldstar MP59G GSM5B35 1920x1080 600x340mm 27.2-inch                   | 1        | 1.92%   |
 | Goldstar MP59G GSM5B34 1920x1080 480x270mm 21.7-inch                   | 1        | 1.92%   |
 | Goldstar LG ULTRAGEAR GSM776E 2560x1440 700x390mm 31.5-inch            | 1        | 1.92%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch             | 1        | 1.92%   |
+| Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch           | 1        | 1.92%   |
 | Goldstar 22MP55 GSM5A26 1920x1080 480x270mm 21.7-inch                  | 1        | 1.92%   |
 | Dell UP2716D DEL40DD 2560x1440 600x340mm 27.2-inch                     | 1        | 1.92%   |
 | Dell U3417W DELA0E0 3440x1440 800x330mm 34.1-inch                      | 1        | 1.92%   |
@@ -2241,7 +2241,7 @@ Memory module models
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s                    | 1        | 1.01%   |
 | Samsung RAM Module 8GB DIMM DDR4 2667MT/s                               | 1        | 1.01%   |
 | Samsung RAM Module 2GB DIMM DDR3 1334MT/s                               | 1        | 1.01%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s                  | 1        | 1.01%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s                   | 1        | 1.01%   |
 | Samsung RAM M393B5273DH0-CK0 4GB DIMM DDR3 1600MT/s                     | 1        | 1.01%   |
 | Samsung RAM M393B5170GB0 4GB DIMM DDR3 1333MT/s                         | 1        | 1.01%   |
 | Samsung RAM M393B2G70DB0 16GB DIMM DDR3 1333MT/s                        | 1        | 1.01%   |

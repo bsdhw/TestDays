@@ -782,7 +782,7 @@ Hard drive models
 | WDC WD30EFRX-68AX9N0 3TB        | 2         | 1.06%   |
 | WDC WD20EZRX-00D8PB0 2TB        | 2         | 1.06%   |
 | WDC WD20EFRX-68AX9N0 2TB        | 2         | 1.06%   |
-| Seagate ST500DM002-1BD142 496GB | 2         | 1.06%   |
+| Seagate ST500DM002-1BD142 500GB | 2         | 1.06%   |
 | Seagate ST4000DM000-1F2168 4TB  | 2         | 1.06%   |
 | Seagate ST2000DM001-1ER164 2TB  | 2         | 1.06%   |
 | Kingston SA400S37120G 120GB     | 2         | 1.06%   |

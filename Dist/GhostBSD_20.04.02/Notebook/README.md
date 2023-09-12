@@ -1942,7 +1942,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 800MT/s                       | 1         | 1.28%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 1.28%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 1.28%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 1.28%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 1.28%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 1.28%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 1.28%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 1.28%   |
@@ -2026,11 +2026,11 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 25        | 39.06%  |
+| 2400    | 10        | 15.63%  |
 | 2667    | 9         | 14.06%  |
-| 2400    | 9         | 14.06%  |
 | 1334    | 6         | 9.38%   |
-| 2133    | 4         | 6.25%   |
 | 1333    | 4         | 6.25%   |
+| 2133    | 3         | 4.69%   |
 | 1067    | 3         | 4.69%   |
 | 800     | 2         | 3.13%   |
 | Unknown | 2         | 3.13%   |
@@ -2112,6 +2112,7 @@ Camera device models
 | Chicony Integrated Camera (1280x720@30)                        | 2         | 4.08%   |
 | Chicony Integrated Camera                                      | 2         | 4.08%   |
 | Chicony HD WebCam                                              | 2         | 4.08%   |
+| Alcor Micro USB 2.0 Camera                                     | 2         | 4.08%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 2.04%   |
 | Suyin HD WebCam                                                | 1         | 2.04%   |
 | Sunplus MTD camera                                             | 1         | 2.04%   |
@@ -2137,8 +2138,6 @@ Camera device models
 | Chicony Chicony USB2.0 Camera                                  | 1         | 2.04%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 2.04%   |
 | Bison ThinkPad Integrated Camera                               | 1         | 2.04%   |
-| Alcor Micro USB 2.0 Camera                                     | 1         | 2.04%   |
-| Alcor Micro Lenovo EasyCamera                                  | 1         | 2.04%   |
 | Alcor Micro HP WebCam-101                                      | 1         | 2.04%   |
 | Alcor Micro Acer Integrated Webcam                             | 1         | 2.04%   |
 

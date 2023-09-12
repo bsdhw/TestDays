@@ -544,9 +544,9 @@ Motherboard manufacture year
 | 2009 | 10        | 8.62%   |
 | 2015 | 9         | 7.76%   |
 | 2011 | 9         | 7.76%   |
-| 2018 | 8         | 6.9%    |
+| 2016 | 8         | 6.9%    |
 | 2014 | 8         | 6.9%    |
-| 2016 | 7         | 6.03%   |
+| 2018 | 7         | 6.03%   |
 | 2021 | 3         | 2.59%   |
 | 2010 | 3         | 2.59%   |
 | 2007 | 3         | 2.59%   |
@@ -2186,7 +2186,7 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 4         | 2.65%   |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s          | 3         | 1.99%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s         | 3         | 1.99%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s               | 3         | 1.99%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s          | 3         | 1.99%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s          | 3         | 1.99%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 3         | 1.99%   |
 | Unknown                                                        | 3         | 1.99%   |

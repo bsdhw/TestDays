@@ -2194,7 +2194,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR2 800MT/s                         | 1         | 0.85%   |
 | Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                        | 1         | 0.85%   |
 | Unknown RAM Module 2GB SODIMM DDR3                                 | 1         | 0.85%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s   | 1         | 0.85%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s   | 1         | 0.85%   |
 | Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s          | 1         | 0.85%   |
 | Teikon RAM TMT451S6BFR8A-PBHC 4GB SODIMM DDR3 1333MT/s             | 1         | 0.85%   |
 | Teikon RAM TMT41GS6BFR8A-PBSC 8GB SODIMM DDR3 1600MT/s             | 1         | 0.85%   |
@@ -2270,11 +2270,11 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 34        | 34%     |
 | 1333    | 15        | 15%     |
+| 2400    | 11        | 11%     |
 | 2667    | 10        | 10%     |
-| 2400    | 10        | 10%     |
 | 1334    | 10        | 10%     |
-| 2133    | 5         | 5%      |
 | 667     | 5         | 5%      |
+| 2133    | 4         | 4%      |
 | 533     | 3         | 3%      |
 | 3200    | 2         | 2%      |
 | 800     | 2         | 2%      |

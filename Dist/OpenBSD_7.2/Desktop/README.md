@@ -708,7 +708,7 @@ Hard drive models
 | Toshiba DT01ACA100 1TB          | 1        | 1.28%   |
 | SPCC Solid State Disk 128GB     | 1        | 1.28%   |
 | Seagate ST9146852SS 146GB       | 1        | 1.28%   |
-| Seagate ST500DM002-1BD142 496GB | 1        | 1.28%   |
+| Seagate ST500DM002-1BD142 500GB | 1        | 1.28%   |
 | Seagate ST4000LM024-2AN17V 4TB  | 1        | 1.28%   |
 | Seagate ST3750640NS 752GB       | 1        | 1.28%   |
 | Seagate ST3000DM001 137GB       | 1        | 1.28%   |
@@ -965,7 +965,7 @@ Storage controller vendors
 | AMD                       | 12       | 24%     |
 | Samsung Electronics       | 6        | 12%     |
 | Broadcom / LSI            | 5        | 10%     |
-| SanDisk                   | 2        | 4%      |
+| Sandisk                   | 2        | 4%      |
 | Toshiba                   | 1        | 2%      |
 | Silicon Motion            | 1        | 2%      |
 | Seagate Technology        | 1        | 2%      |

@@ -869,7 +869,7 @@ Hard drive models
 | WDC WD10EZEX-21M2NA0 1TB        | 2         | 1.14%   |
 | Toshiba Q300 480GB              | 2         | 1.14%   |
 | Toshiba HDWD120 2TB             | 2         | 1.14%   |
-| Seagate ST500DM002-1BD142 496GB | 2         | 1.14%   |
+| Seagate ST500DM002-1BD142 500GB | 2         | 1.14%   |
 | Seagate ST1000LM049-2GH172 1TB  | 2         | 1.14%   |
 | Seagate ST1000LM035-1RK172 1TB  | 2         | 1.14%   |
 | Samsung SSD 970 EVO 250GB       | 2         | 1.14%   |
@@ -1046,7 +1046,7 @@ Drive models with a malfunction
 | WDC WD10EZEX-21M2NA0 1TB                        | 1         | 1      | 5.88%   |
 | Toshiba MQ01ACF032 320GB                        | 1         | 1      | 5.88%   |
 | Seagate ST500LM021-1KJ152 500GB                 | 1         | 1      | 5.88%   |
-| Seagate ST500DM002-1BD142 496GB                 | 1         | 1      | 5.88%   |
+| Seagate ST500DM002-1BD142 500GB                 | 1         | 1      | 5.88%   |
 | Seagate ST31500541AS 1.5TB                      | 1         | 1      | 5.88%   |
 | Samsung Electronics MZNTE128HMGR-000SO 128GB    | 1         | 1      | 5.88%   |
 | Samsung Electronics HD103SJ 1TB                 | 1         | 2      | 5.88%   |
@@ -2259,7 +2259,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 0.73%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 0.73%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 0.73%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2133MT/s | 1         | 0.73%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 0.73%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 0.73%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 0.73%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 0.73%   |
@@ -2340,11 +2340,11 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 40        | 33.61%  |
-| 2400    | 18        | 15.13%  |
+| 2400    | 19        | 15.97%  |
 | 2667    | 14        | 11.76%  |
 | 3200    | 9         | 7.56%   |
 | 1333    | 9         | 7.56%   |
-| 2133    | 8         | 6.72%   |
+| 2133    | 7         | 5.88%   |
 | 1334    | 6         | 5.04%   |
 | 1067    | 4         | 3.36%   |
 | 800     | 4         | 3.36%   |
@@ -2445,6 +2445,7 @@ Camera device models
 | Microdia Integrated_Webcam_HD                                  | 2         | 3.57%   |
 | Microdia Integrated Webcam                                     | 2         | 3.57%   |
 | Chicony HD WebCam                                              | 2         | 3.57%   |
+| Alcor Micro USB 2.0 Camera                                     | 2         | 3.57%   |
 | Xiongmai web camera                                            | 1         | 1.79%   |
 | Trust Trust USB Camera                                         | 1         | 1.79%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 1.79%   |
@@ -2475,8 +2476,7 @@ Camera device models
 | Chicony Chicony USB2.0 Camera                                  | 1         | 1.79%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.79%   |
 | Bison ThinkPad Integrated Camera                               | 1         | 1.79%   |
-| Alcor Micro USB 2.0 Camera                                     | 1         | 1.79%   |
-| Alcor Micro Lenovo EasyCamera                                  | 1         | 1.79%   |
+| Alcor Micro HP WebCam-101                                      | 1         | 1.79%   |
 
 Security
 --------

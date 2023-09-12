@@ -679,7 +679,7 @@ Hard drive models
 | WDC WD10EFRX-68FYTN0 1TB        | 1        | 3.45%   |
 | SPCC Solid State Disk 120GB     | 1        | 3.45%   |
 | Silicon Motion NVME SSD 128GB   | 1        | 3.45%   |
-| Seagate ST500DM002-1BD142 496GB | 1        | 3.45%   |
+| Seagate ST500DM002-1BD142 500GB | 1        | 3.45%   |
 | Seagate ST380815AS 80GB         | 1        | 3.45%   |
 | Seagate ST3160023A 160GB        | 1        | 3.45%   |
 | Seagate ST240HM000-1G5152 240GB | 1        | 3.45%   |

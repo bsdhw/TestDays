@@ -592,15 +592,15 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| 2020    | 13        | 9.7%    |
 | 2019    | 13        | 9.7%    |
 | 2022    | 12        | 8.96%   |
+| 2020    | 12        | 8.96%   |
 | 2018    | 12        | 8.96%   |
 | 2012    | 11        | 8.21%   |
+| 2016    | 9         | 6.72%   |
 | 2013    | 9         | 6.72%   |
 | 2011    | 9         | 6.72%   |
 | 2017    | 8         | 5.97%   |
-| 2016    | 8         | 5.97%   |
 | 2015    | 8         | 5.97%   |
 | 2014    | 7         | 5.22%   |
 | 2010    | 7         | 5.22%   |
@@ -2303,7 +2303,7 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s              | 2         | 1.18%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
 | Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s              | 2         | 1.18%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s             | 2         | 1.18%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s              | 2         | 1.18%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                        | 1         | 0.59%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                        | 1         | 0.59%   |
@@ -2367,12 +2367,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 57        | 39.31%  |
-| 8192  | 35        | 24.14%  |
-| 2048  | 31        | 21.38%  |
-| 16384 | 16        | 11.03%  |
-| 1024  | 5         | 3.45%   |
-| 32768 | 1         | 0.69%   |
+| 4096  | 57        | 39.04%  |
+| 8192  | 36        | 24.66%  |
+| 2048  | 31        | 21.23%  |
+| 16384 | 16        | 10.96%  |
+| 1024  | 5         | 3.42%   |
+| 32768 | 1         | 0.68%   |
 
 Memory Speed
 ------------

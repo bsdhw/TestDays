@@ -719,12 +719,12 @@ Motherboard manufacture year
 | 2020 | 31        | 12.65%  |
 | 2013 | 28        | 11.43%  |
 | 2012 | 26        | 10.61%  |
-| 2018 | 21        | 8.57%   |
+| 2018 | 20        | 8.16%   |
 | 2014 | 15        | 6.12%   |
 | 2011 | 15        | 6.12%   |
 | 2015 | 14        | 5.71%   |
+| 2016 | 13        | 5.31%   |
 | 2010 | 13        | 5.31%   |
-| 2016 | 12        | 4.9%    |
 | 2009 | 12        | 4.9%    |
 | 2021 | 10        | 4.08%   |
 | 2017 | 6         | 2.45%   |
@@ -1041,7 +1041,7 @@ Hard drive models
 | Samsung SSD 860 EVO 250GB           | 4         | 1.12%   |
 | Seagate ST9500325AS 500GB           | 3         | 0.84%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 3         | 0.84%   |
-| Seagate ST500DM002-1BD142 496GB     | 3         | 0.84%   |
+| Seagate ST500DM002-1BD142 500GB     | 3         | 0.84%   |
 | Seagate ST3250410AS 250GB           | 3         | 0.84%   |
 | Seagate ST1000DM003-1ER162 1TB      | 3         | 0.84%   |
 | Samsung SSD 860 EVO 1TB             | 3         | 0.84%   |
@@ -2569,7 +2569,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                         | 3         | 0.94%   |
 | Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 3         | 0.94%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 0.94%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s             | 3         | 0.94%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s        | 3         | 0.94%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s        | 3         | 0.94%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 3         | 0.94%   |
 | Samsung RAM M471A5143EB0-CPB 4GB SODIMM DDR4 2133MT/s        | 3         | 0.94%   |
@@ -2670,13 +2670,13 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 73        | 27.24%  |
 | 1333    | 45        | 16.79%  |
-| 2667    | 28        | 10.45%  |
+| 2667    | 27        | 10.07%  |
 | 2400    | 26        | 9.7%    |
 | 2133    | 18        | 6.72%   |
 | 800     | 13        | 4.85%   |
 | 1334    | 12        | 4.48%   |
+| 3200    | 11        | 4.1%    |
 | 667     | 11        | 4.1%    |
-| 3200    | 10        | 3.73%   |
 | 1867    | 7         | 2.61%   |
 | 2666    | 5         | 1.87%   |
 | 1067    | 4         | 1.49%   |

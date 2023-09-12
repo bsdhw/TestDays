@@ -145,10 +145,11 @@ Contents
 Test Cases
 ----------
 
-Total: 155
+Total: 156
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo        | ThinkPad T495s 20QKS1812... | [0238ea2cab](https://bsd-hardware.info/?probe=0238ea2cab) | Aug 19, 2023 |
 | Dell          | Inspiron 14-3467            | [5db7e9b7a1](https://bsd-hardware.info/?probe=5db7e9b7a1) | Aug 05, 2023 |
 | ASUSTek       | ROG Strix G513QC_G513QC     | [b90e62e27d](https://bsd-hardware.info/?probe=b90e62e27d) | Aug 04, 2023 |
 | HP            | EliteBook 8570p             | [2619fadb11](https://bsd-hardware.info/?probe=2619fadb11) | Jul 29, 2023 |
@@ -428,9 +429,9 @@ Type of filesystem
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| Zfs  | 58        | 77.33%  |
-| Ufs  | 16        | 21.33%  |
-| Nfs  | 1         | 1.33%   |
+| Zfs  | 58        | 76.32%  |
+| Ufs  | 17        | 22.37%  |
+| Nfs  | 1         | 1.32%   |
 
 Part. scheme
 ------------
@@ -672,9 +673,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 55        | 67.9%   |
-| 2      | 23        | 28.4%   |
-| 3      | 3         | 3.7%    |
+| 1      | 55        | 67.07%  |
+| 2      | 23        | 28.05%  |
+| 3      | 3         | 3.66%   |
+| 0      | 1         | 1.22%   |
 
 Has CD-ROM
 ----------
@@ -1720,16 +1722,17 @@ Controller vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Intel                 | 59        | 45.04%  |
-| Realtek Semiconductor | 38        | 29.01%  |
-| TP-Link               | 6         | 4.58%   |
-| Qualcomm Atheros      | 6         | 4.58%   |
-| Broadcom              | 5         | 3.82%   |
-| Hewlett-Packard       | 4         | 3.05%   |
-| D-Link System         | 3         | 2.29%   |
-| Ralink Technology     | 2         | 1.53%   |
-| MediaTek              | 2         | 1.53%   |
-| Edimax Technology     | 2         | 1.53%   |
+| Intel                 | 59        | 44.7%   |
+| Realtek Semiconductor | 38        | 28.79%  |
+| TP-Link               | 6         | 4.55%   |
+| Qualcomm Atheros      | 6         | 4.55%   |
+| Broadcom              | 5         | 3.79%   |
+| Hewlett-Packard       | 4         | 3.03%   |
+| D-Link System         | 3         | 2.27%   |
+| Ralink Technology     | 2         | 1.52%   |
+| MediaTek              | 2         | 1.52%   |
+| Edimax Technology     | 2         | 1.52%   |
+| Xiaomi                | 1         | 0.76%   |
 | Lenovo                | 1         | 0.76%   |
 | Huawei Technologies   | 1         | 0.76%   |
 | Google                | 1         | 0.76%   |
@@ -1745,24 +1748,24 @@ Controller models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 29        | 17.9%   |
-| Intel Wi-Fi 6 AX200                                                        | 7         | 4.32%   |
-| Intel Wireless-AC 9260                                                     | 6         | 3.7%    |
-| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 3.7%    |
-| Intel Comet Lake PCH CNVi WiFi                                             | 6         | 3.7%    |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 3.7%    |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 3.7%    |
-| Intel Wireless 8265 / 8275                                                 | 5         | 3.09%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 5         | 3.09%   |
-| Intel Wi-Fi 6 AX201                                                        | 5         | 3.09%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 2.47%   |
-| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                    | 4         | 2.47%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 3         | 1.85%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                      | 3         | 1.85%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                 | 3         | 1.85%   |
-| Intel Wireless 7265                                                        | 3         | 1.85%   |
-| Intel Ethernet Connection (4) I219-LM                                      | 3         | 1.85%   |
-| D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 3         | 1.85%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 29        | 17.79%  |
+| Intel Wi-Fi 6 AX200                                                        | 7         | 4.29%   |
+| Intel Wireless-AC 9260                                                     | 6         | 3.68%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 3.68%   |
+| Intel Comet Lake PCH CNVi WiFi                                             | 6         | 3.68%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 3.68%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 3.68%   |
+| Intel Wireless 8265 / 8275                                                 | 5         | 3.07%   |
+| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 5         | 3.07%   |
+| Intel Wi-Fi 6 AX201                                                        | 5         | 3.07%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 2.45%   |
+| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                    | 4         | 2.45%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 3         | 1.84%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                      | 3         | 1.84%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter                 | 3         | 1.84%   |
+| Intel Wireless 7265                                                        | 3         | 1.84%   |
+| Intel Ethernet Connection (4) I219-LM                                      | 3         | 1.84%   |
+| D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 3         | 1.84%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                        | 2         | 1.23%   |
 | Ralink MT7601U Wireless Adapter                                            | 2         | 1.23%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                 | 2         | 1.23%   |
@@ -1770,21 +1773,21 @@ Controller models
 | Intel Wireless 7260                                                        | 2         | 1.23%   |
 | Intel Ethernet Connection (10) I219-V                                      | 2         | 1.23%   |
 | Intel Alder Lake-P PCH CNVi WiFi                                           | 2         | 1.23%   |
-| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1         | 0.62%   |
-| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]        | 1         | 0.62%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                                         | 1         | 0.62%   |
-| Realtek RTL8852BE PCIe 802.11ax Wireless Network Controller                | 1         | 0.62%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                   | 1         | 0.62%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1         | 0.62%   |
-| Realtek RTL8188SU 802.11n WLAN Adapter                                     | 1         | 0.62%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 1         | 0.62%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                  | 1         | 0.62%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                 | 1         | 0.62%   |
-| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                           | 1         | 0.62%   |
-| Intel Wireless 8260                                                        | 1         | 0.62%   |
-| Intel Wi-Fi 6 AX201 160MHz                                                 | 1         | 0.62%   |
-| Intel Tiger Lake PCH CNVi WiFi                                             | 1         | 0.62%   |
-| Intel PRO/Wireless 2915ABG [Calexico2] Network Connection                  | 1         | 0.62%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                             | 1         | 0.61%   |
+| TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1         | 0.61%   |
+| TP-Link Archer T1U 802.11a/n/ac Wireless Adapter [MediaTek MT7610U]        | 1         | 0.61%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                                         | 1         | 0.61%   |
+| Realtek RTL8852BE PCIe 802.11ax Wireless Network Controller                | 1         | 0.61%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter                   | 1         | 0.61%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1         | 0.61%   |
+| Realtek RTL8188SU 802.11n WLAN Adapter                                     | 1         | 0.61%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                      | 1         | 0.61%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                  | 1         | 0.61%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                 | 1         | 0.61%   |
+| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                           | 1         | 0.61%   |
+| Intel Wireless 8260                                                        | 1         | 0.61%   |
+| Intel Wi-Fi 6 AX201 160MHz                                                 | 1         | 0.61%   |
+| Intel Tiger Lake PCH CNVi WiFi                                             | 1         | 0.61%   |
 
 Wireless Vendor
 ---------------
@@ -1867,13 +1870,14 @@ Ethernet vendors
 
 | Vendor                | Notebooks | Percent |
 |-----------------------|-----------|---------|
-| Realtek Semiconductor | 33        | 53.23%  |
-| Intel                 | 23        | 37.1%   |
-| Qualcomm Atheros      | 2         | 3.23%   |
-| Lenovo                | 1         | 1.61%   |
-| Huawei Technologies   | 1         | 1.61%   |
-| Google                | 1         | 1.61%   |
-| Broadcom              | 1         | 1.61%   |
+| Realtek Semiconductor | 33        | 52.38%  |
+| Intel                 | 23        | 36.51%  |
+| Qualcomm Atheros      | 2         | 3.17%   |
+| Xiaomi                | 1         | 1.59%   |
+| Lenovo                | 1         | 1.59%   |
+| Huawei Technologies   | 1         | 1.59%   |
+| Google                | 1         | 1.59%   |
+| Broadcom              | 1         | 1.59%   |
 
 Ethernet Model
 --------------
@@ -1885,30 +1889,31 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 29        | 46.77%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6         | 9.68%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.84%   |
-| Intel Ethernet Connection (4) I219-LM                             | 3         | 4.84%   |
-| Intel Ethernet Connection (10) I219-V                             | 2         | 3.23%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 1.61%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.61%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.61%   |
-| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                  | 1         | 1.61%   |
-| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.61%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.61%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.61%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.61%   |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 1.61%   |
-| Intel Ethernet Connection (5) I219-V                              | 1         | 1.61%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.61%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.61%   |
-| Intel Ethernet Connection (16) I219-LM                            | 1         | 1.61%   |
-| Intel Ethernet Connection (14) I219-LM                            | 1         | 1.61%   |
-| Intel Ethernet Connection (13) I219-V                             | 1         | 1.61%   |
-| Intel Ethernet Connection (11) I219-LM                            | 1         | 1.61%   |
-| Huawei USB Device                                                 | 1         | 1.61%   |
-| Google Nexus/Pixel Device (charging + debug)                      | 1         | 1.61%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.61%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 29        | 46.03%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6         | 9.52%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.76%   |
+| Intel Ethernet Connection (4) I219-LM                             | 3         | 4.76%   |
+| Intel Ethernet Connection (10) I219-V                             | 2         | 3.17%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.59%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 1.59%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.59%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.59%   |
+| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                  | 1         | 1.59%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.59%   |
+| Intel Ethernet Connection I219-LM                                 | 1         | 1.59%   |
+| Intel Ethernet Connection I218-LM                                 | 1         | 1.59%   |
+| Intel Ethernet Connection I217-LM                                 | 1         | 1.59%   |
+| Intel Ethernet Connection (7) I219-V                              | 1         | 1.59%   |
+| Intel Ethernet Connection (5) I219-V                              | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-V                              | 1         | 1.59%   |
+| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.59%   |
+| Intel Ethernet Connection (16) I219-LM                            | 1         | 1.59%   |
+| Intel Ethernet Connection (14) I219-LM                            | 1         | 1.59%   |
+| Intel Ethernet Connection (13) I219-V                             | 1         | 1.59%   |
+| Intel Ethernet Connection (11) I219-LM                            | 1         | 1.59%   |
+| Huawei USB Device                                                 | 1         | 1.59%   |
+| Google Nexus/Pixel Device (charging + debug)                      | 1         | 1.59%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.59%   |
 
 Net Controller Kind
 -------------------

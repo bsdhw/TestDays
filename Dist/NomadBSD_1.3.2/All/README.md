@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 16GB                         | 2         | 3.39%   |
+| SanDisk pSSD 256GB                        | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |
@@ -751,7 +751,7 @@ Hard drive models
 | SK hynix HFS128G39TND-N210A 128GB         | 1         | 1.69%   |
 | Seagate ST9750423AS 752GB                 | 1         | 1.69%   |
 | Seagate ST500LM021-1KJ152 500GB           | 1         | 1.69%   |
-| Seagate ST500DM002-1BD142 496GB           | 1         | 1.69%   |
+| Seagate ST500DM002-1BD142 500GB           | 1         | 1.69%   |
 | Seagate ST3500418AS 500GB                 | 1         | 1.69%   |
 | Seagate ST2000LM015-2E8174 2TB            | 1         | 1.69%   |
 | Seagate ST1000LM049-2GH172 1TB            | 1         | 1.69%   |
@@ -900,7 +900,7 @@ Drive models with a malfunction
 | Toshiba MK7575GSX 752GB                    | 1         | 1      | 11.11%  |
 | Toshiba DT01ABA300 3TB                     | 1         | 1      | 11.11%  |
 | Seagate ST500LM021-1KJ152 500GB            | 1         | 1      | 11.11%  |
-| Seagate ST500DM002-1BD142 496GB            | 1         | 1      | 11.11%  |
+| Seagate ST500DM002-1BD142 500GB            | 1         | 1      | 11.11%  |
 | Micron Technology MTFDDAK256MAM-1K12 256GB | 1         | 1      | 11.11%  |
 | Hitachi HTS545032B9A302 320GB              | 1         | 1      | 11.11%  |
 
@@ -1976,7 +1976,7 @@ Memory module models
 | Unknown RAM Module 1024MB SODIMM RAM                          | 1         | 1.64%   |
 | Unknown RAM Module 1024MB DIMM DDR2 533MT/s                   | 1         | 1.64%   |
 | SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s          | 1         | 1.64%   |
-| SK hynix RAM HMAB2GS6AMR6N-XN 16384MB SODIMM DDR4 3200MT/s    | 1         | 1.64%   |
+| SK hynix RAM HMAB2GS6AMR6N-XN 16GB SODIMM DDR4 3200MT/s       | 1         | 1.64%   |
 | SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s        | 1         | 1.64%   |
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 1.64%   |
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |

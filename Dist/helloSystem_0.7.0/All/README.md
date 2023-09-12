@@ -971,18 +971,18 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2021    | 46        | 10.31%  |
 | 2012    | 42        | 9.42%   |
-| 2018    | 39        | 8.74%   |
+| 2018    | 38        | 8.52%   |
 | 2019    | 35        | 7.85%   |
 | 2010    | 34        | 7.62%   |
+| 2016    | 31        | 6.95%   |
 | 2013    | 31        | 6.95%   |
-| 2016    | 30        | 6.73%   |
 | 2014    | 29        | 6.5%    |
 | 2009    | 29        | 6.5%    |
 | 2020    | 27        | 6.05%   |
 | 2017    | 24        | 5.38%   |
-| 2011    | 22        | 4.93%   |
 | 2015    | 21        | 4.71%   |
-| 2008    | 17        | 3.81%   |
+| 2011    | 21        | 4.71%   |
+| 2008    | 18        | 4.04%   |
 | 2007    | 13        | 2.91%   |
 | 2022    | 4         | 0.9%    |
 | 2006    | 2         | 0.45%   |
@@ -1736,10 +1736,10 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 376       | 67.63%  |
-| NVMe | 89        | 16.01%  |
-| IDE  | 66        | 11.87%  |
-| RAID | 22        | 3.96%   |
+| SATA | 376       | 67.5%   |
+| NVMe | 89        | 15.98%  |
+| IDE  | 67        | 12.03%  |
+| RAID | 22        | 3.95%   |
 | SAS  | 2         | 0.36%   |
 | SCSI | 1         | 0.18%   |
 
@@ -2166,7 +2166,7 @@ Monitor models
 | Lenovo LCD Monitor LEN4050 1280x800 330x210mm 15.4-inch               | 2         | 0.47%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 2         | 0.47%   |
 | Lenovo LCD Monitor LEN4000 1024x768 250x180mm 12.1-inch               | 2         | 0.47%   |
-| Goldstar LCD Monitor GSM5AB8 1920x1080 480x270mm 21.7-inch            | 2         | 0.47%   |
+| Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch          | 2         | 0.47%   |
 | Chimei Innolux LCD Monitor CMN1492 1366x768 310x170mm 13.9-inch       | 2         | 0.47%   |
 | Chimei Innolux LCD Monitor CMN1490 1366x768 310x170mm 13.9-inch       | 2         | 0.47%   |
 | AU Optronics LCD Monitor AUO325C 1366x768 260x140mm 11.6-inch         | 2         | 0.47%   |
@@ -2908,7 +2908,6 @@ Memory module models
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s   | 5         | 0.9%    |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 5         | 0.9%    |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s              | 4         | 0.72%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 4         | 0.72%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s   | 4         | 0.72%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
@@ -2917,12 +2916,13 @@ Memory module models
 | Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s   | 4         | 0.72%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s               | 3         | 0.54%   |
 | Unknown RAM Module 2GB DIMM DDR2                        | 3         | 0.54%   |
+| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 3         | 0.54%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1067MT/s            | 3         | 0.54%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 3         | 0.54%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s  | 3         | 0.54%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s  | 3         | 0.54%   |
 | Samsung RAM Module 4GB SODIMM DDR4 2133MT/s             | 3         | 0.54%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM 1333MT/s        | 3         | 0.54%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s   | 3         | 0.54%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 3         | 0.54%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s   | 3         | 0.54%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s   | 3         | 0.54%   |
@@ -2987,8 +2987,8 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 161       | 33.06%  |
-| 8192  | 142       | 29.16%  |
+| 4096  | 160       | 32.85%  |
+| 8192  | 143       | 29.36%  |
 | 2048  | 107       | 21.97%  |
 | 16384 | 44        | 9.03%   |
 | 1024  | 24        | 4.93%   |
@@ -3009,9 +3009,9 @@ Memory module speed
 | 1333    | 55        | 11.6%   |
 | 2667    | 41        | 8.65%   |
 | 3200    | 39        | 8.23%   |
-| 2133    | 36        | 7.59%   |
+| 2133    | 35        | 7.38%   |
 | 667     | 32        | 6.75%   |
-| 2400    | 27        | 5.7%    |
+| 2400    | 28        | 5.91%   |
 | 1067    | 25        | 5.27%   |
 | 1334    | 18        | 3.8%    |
 | 800     | 18        | 3.8%    |

@@ -652,15 +652,15 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2013 | 27        | 14.21%  |
+| 2013 | 26        | 13.68%  |
 | 2018 | 23        | 12.11%  |
 | 2020 | 18        | 9.47%   |
 | 2019 | 17        | 8.95%   |
 | 2014 | 17        | 8.95%   |
 | 2016 | 16        | 8.42%   |
+| 2012 | 14        | 7.37%   |
 | 2009 | 14        | 7.37%   |
 | 2017 | 13        | 6.84%   |
-| 2012 | 13        | 6.84%   |
 | 2010 | 8         | 4.21%   |
 | 2011 | 7         | 3.68%   |
 | 2015 | 6         | 3.16%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| Goodram             | 2         | 2      | 0.71%   |
+| GOODRAM             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -981,8 +981,8 @@ Hard drive models
 | WDC WDS240G2G0A-00JH30 240GB        | 3         | 0.94%   |
 | Toshiba MQ01ABD100 1TB              | 3         | 0.94%   |
 | Toshiba DT01ACA100 1TB              | 3         | 0.94%   |
-| Seagate ST500DM002-1BD142 496GB     | 3         | 0.94%   |
-| SanDisk pSSD 16GB                   | 3         | 0.94%   |
+| Seagate ST500DM002-1BD142 500GB     | 3         | 0.94%   |
+| SanDisk pSSD 256GB                  | 3         | 0.94%   |
 | Samsung SSD 860 EVO 250GB           | 3         | 0.94%   |
 | Samsung SSD 840 EVO 1TB             | 3         | 0.94%   |
 | WDC WDS100T2B0A-00SM50 1TB          | 2         | 0.63%   |
@@ -1154,7 +1154,7 @@ Drive models with a malfunction
 | Model                                        | Computers | Drives | Percent |
 |----------------------------------------------|-----------|--------|---------|
 | Toshiba MQ01ABD100 1TB                       | 2         | 2      | 3.45%   |
-| Seagate ST500DM002-1BD142 496GB              | 2         | 3      | 3.45%   |
+| Seagate ST500DM002-1BD142 500GB              | 2         | 3      | 3.45%   |
 | WDC WDS240G2G0A-00JH30 240GB                 | 1         | 1      | 1.72%   |
 | WDC WDS200T2B0A 2TB                          | 1         | 1      | 1.72%   |
 | WDC WD5000AVCS-632DY1 500GB                  | 1         | 1      | 1.72%   |
@@ -2399,7 +2399,7 @@ Memory module models
 |--------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2048MB SODIMM DDR2 667MT/s          | 4         | 1.57%   |
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 3         | 1.18%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 3         | 1.18%   |
+| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s | 3         | 1.18%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s  | 3         | 1.18%   |
 | Unknown RAM Module 4096MB DIMM 1600MT/s                | 2         | 0.79%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s | 2         | 0.79%   |
@@ -2413,7 +2413,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s  | 2         | 0.79%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s  | 2         | 0.79%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s | 2         | 0.79%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s  | 2         | 0.79%   |
 | Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s    | 2         | 0.79%   |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
 | Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
@@ -2483,11 +2483,11 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 91        | 42.72%  |
-| 8192  | 63        | 29.58%  |
-| 2048  | 40        | 18.78%  |
-| 16384 | 17        | 7.98%   |
-| 1024  | 2         | 0.94%   |
+| 4096  | 89        | 41.59%  |
+| 8192  | 66        | 30.84%  |
+| 2048  | 40        | 18.69%  |
+| 16384 | 17        | 7.94%   |
+| 1024  | 2         | 0.93%   |
 
 Memory Speed
 ------------

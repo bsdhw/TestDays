@@ -992,7 +992,7 @@ Storage controller vendors
 |---------------------------|-----------|---------|
 | Intel                     | 35        | 53.85%  |
 | Samsung Electronics       | 11        | 16.92%  |
-| SanDisk                   | 5         | 7.69%   |
+| Sandisk                   | 5         | 7.69%   |
 | AMD                       | 3         | 4.62%   |
 | Micron/Crucial Technology | 2         | 3.08%   |
 | Micron Technology         | 2         | 3.08%   |
@@ -1927,7 +1927,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 4.76%   |
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 4.76%   |
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 4.76%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |
+| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4.76%   |
@@ -1982,12 +1982,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 7         | 38.89%  |
-| 2048  | 5         | 27.78%  |
-| 8192  | 3         | 16.67%  |
-| 16384 | 1         | 5.56%   |
-| 1024  | 1         | 5.56%   |
-| 512   | 1         | 5.56%   |
+| 4096  | 7         | 36.84%  |
+| 2048  | 5         | 26.32%  |
+| 8192  | 4         | 21.05%  |
+| 16384 | 1         | 5.26%   |
+| 1024  | 1         | 5.26%   |
+| 512   | 1         | 5.26%   |
 
 Memory Speed
 ------------

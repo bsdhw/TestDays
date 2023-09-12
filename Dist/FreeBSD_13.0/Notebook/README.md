@@ -2200,7 +2200,7 @@ Memory module models
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s   | 4         | 2.68%   |
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s  | 3         | 2.01%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s  | 3         | 2.01%   |
-| Samsung RAM M471A1K43BB1-CRC 16GB SODIMM DDR4 2400MT/s  | 3         | 2.01%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s   | 3         | 2.01%   |
 | Unknown                                                 | 3         | 2.01%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s              | 2         | 1.34%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 1.34%   |
@@ -2246,15 +2246,15 @@ Memory module kinds
 
 | Kind    | Notebooks | Percent |
 |---------|-----------|---------|
-| DDR4    | 48        | 41.74%  |
-| DDR3    | 48        | 41.74%  |
-| DDR2    | 9         | 7.83%   |
-| LPDDR3  | 3         | 2.61%   |
-| Unknown | 3         | 2.61%   |
-| SDRAM   | 1         | 0.87%   |
-| LPDDR4  | 1         | 0.87%   |
-| DDR5    | 1         | 0.87%   |
-| DDR     | 1         | 0.87%   |
+| DDR4    | 48        | 42.11%  |
+| DDR3    | 48        | 42.11%  |
+| DDR2    | 9         | 7.89%   |
+| LPDDR3  | 3         | 2.63%   |
+| Unknown | 2         | 1.75%   |
+| SDRAM   | 1         | 0.88%   |
+| LPDDR4  | 1         | 0.88%   |
+| DDR5    | 1         | 0.88%   |
+| DDR     | 1         | 0.88%   |
 
 Memory Form Factor
 ------------------
