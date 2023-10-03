@@ -2242,7 +2242,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 2.11%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 1.41%   |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 1.41%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 1.41%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 1.41%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 1.41%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 1.41%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 1.41%   |

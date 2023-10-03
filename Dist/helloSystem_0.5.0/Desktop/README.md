@@ -540,7 +540,7 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2020 | 16       | 13.91%  |
+| 2020 | 15       | 13.04%  |
 | 2012 | 15       | 13.04%  |
 | 2019 | 14       | 12.17%  |
 | 2013 | 13       | 11.3%   |
@@ -551,8 +551,8 @@ Motherboard manufacture year
 | 2021 | 5        | 4.35%   |
 | 2016 | 5        | 4.35%   |
 | 2017 | 4        | 3.48%   |
+| 2015 | 4        | 3.48%   |
 | 2008 | 4        | 3.48%   |
-| 2015 | 3        | 2.61%   |
 | 2009 | 2        | 1.74%   |
 | 2007 | 1        | 0.87%   |
 
@@ -2258,7 +2258,7 @@ Memory module models
 | Unknown RAM 7TE39AA# 8GB DIMM DDR4 2667MT/s                        | 1        | 0.66%   |
 | Unknown (7F7F7F94FFFFFFFF) RAM 996593PCGH 2048MB DIMM DDR2 800MT/s | 1        | 0.66%   |
 | Unknown (09A4) RAM 08S2400CL170H 8192MB DIMM DDR4 2133MT/s         | 1        | 0.66%   |
-| Team RAM TEAMGROUP-UD4-3000 4GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
+| Team RAM TEAMGROUP-UD4-3000 8GB DIMM DDR4 2400MT/s                 | 1        | 0.66%   |
 | Team RAM TEAMGROUP-UD4-2666 16GB DIMM DDR4 2667MT/s                | 1        | 0.66%   |
 | SK hynix RAM Module 4GB DIMM DDR3 1066MT/s                         | 1        | 0.66%   |
 | SK hynix RAM HYMP525F72CP4N3-Y5 2048MB FB-DIMM DDR2 533MT/s        | 1        | 0.66%   |

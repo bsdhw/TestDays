@@ -1264,7 +1264,7 @@ Storage controller vendors
 | Phison Electronics           | 3        | 2.34%   |
 | Silicon Motion               | 2        | 1.56%   |
 | Shenzhen Longsys Electronics | 2        | 1.56%   |
-| SanDisk                      | 2        | 1.56%   |
+| Sandisk                      | 2        | 1.56%   |
 | Nvidia                       | 2        | 1.56%   |
 | VIA Technologies             | 1        | 0.78%   |
 | Seagate Technology           | 1        | 0.78%   |

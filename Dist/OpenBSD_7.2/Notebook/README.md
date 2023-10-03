@@ -1927,7 +1927,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 4.76%   |
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 4.76%   |
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 4.76%   |
-| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 4.76%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4.76%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4.76%   |
@@ -2081,7 +2081,7 @@ Camera device models
 | Lite-On Integrated Camera                                                  | 2         | 5.56%   |
 | Lenovo Integrated Webcam [R5U877]                                          | 2         | 5.56%   |
 | Bison SunplusIT Integrated Camera                                          | 2         | 5.56%   |
-| Tripath PC Camera                                                          | 1         | 2.78%   |
+| Tripath USB Camera                                                         | 1         | 2.78%   |
 | Sunplus Integrated_Webcam_FHD                                              | 1         | 2.78%   |
 | Sunplus HP TrueVision HD Camera                                            | 1         | 2.78%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                                         | 1         | 2.78%   |

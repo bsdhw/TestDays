@@ -2513,7 +2513,7 @@ Camera device models
 | Realtek EasyCamera                                          | 1         | 0.97%   |
 | Realtek Acer 640 x 480 laptop camera                        | 1         | 0.97%   |
 | Microdia Webcam                                             | 1         | 0.97%   |
-| Microdia REDRAGON Live Camera Audio                         | 1         | 0.97%   |
+| Microdia USB 2.0 Camera                                     | 1         | 0.97%   |
 
 Security
 --------

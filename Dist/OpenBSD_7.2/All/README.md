@@ -1131,7 +1131,7 @@ Storage controller vendors
 | Intel                     | 56        | 47.06%  |
 | Samsung Electronics       | 18        | 15.13%  |
 | AMD                       | 15        | 12.61%  |
-| Sandisk                   | 7         | 5.88%   |
+| SanDisk                   | 7         | 5.88%   |
 | Broadcom / LSI            | 5         | 4.2%    |
 | Micron/Crucial Technology | 3         | 2.52%   |
 | Marvell Technology Group  | 3         | 2.52%   |
@@ -2203,7 +2203,7 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 1         | 4%      |
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 4%      |
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 4%      |
-| SK hynix RAM HMT351S6EFR8A-PB 8GB SODIMM DDR3 1600MT/s | 1         | 4%      |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 4%      |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4%      |
@@ -2363,19 +2363,18 @@ Camera device models
 |----------------------------------------------------------------------------|-----------|---------|
 | Bison Integrated Camera                                                    | 5         | 13.16%  |
 | Chicony Integrated Camera                                                  | 3         | 7.89%   |
+| Microdia USB 2.0 Camera                                                    | 2         | 5.26%   |
 | Microdia Integrated_Webcam_HD                                              | 2         | 5.26%   |
 | Lite-On Integrated Camera                                                  | 2         | 5.26%   |
 | Lenovo Integrated Webcam [R5U877]                                          | 2         | 5.26%   |
 | Bison SunplusIT Integrated Camera                                          | 2         | 5.26%   |
-| Tripath PC Camera                                                          | 1         | 2.63%   |
+| Tripath USB Camera                                                         | 1         | 2.63%   |
 | Sunplus Integrated_Webcam_FHD                                              | 1         | 2.63%   |
 | Sunplus HP TrueVision HD Camera                                            | 1         | 2.63%   |
 | Ricoh Laptop_Integrated_Webcam_FHD                                         | 1         | 2.63%   |
 | Realtek Laptop Camera                                                      | 1         | 2.63%   |
 | Realtek Integrated_Webcam_HD                                               | 1         | 2.63%   |
 | Quanta HP Universal Camera                                                 | 1         | 2.63%   |
-| Microdia USB 2.0 Camera                                                    | 1         | 2.63%   |
-| Microdia REDRAGON Live Camera Audio                                        | 1         | 2.63%   |
 | IMC Networks Realtek PC Camera                                             | 1         | 2.63%   |
 | IMC Networks Realtek DMFT RGB                                              | 1         | 2.63%   |
 | IMC Networks Integrated Camera                                             | 1         | 2.63%   |

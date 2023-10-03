@@ -1769,7 +1769,7 @@ Memory module models
 | Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s            | 1         | 2.38%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s         | 1         | 2.38%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s              | 1         | 2.38%   |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s      | 1         | 2.38%   |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s     | 1         | 2.38%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s     | 1         | 2.38%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s      | 1         | 2.38%   |
 | SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s      | 1         | 2.38%   |

@@ -935,7 +935,7 @@ Hard drive vendors
 | Hitachi             | 7        | 9      | 2.2%    |
 | Phison              | 6        | 7      | 1.89%   |
 | Intel               | 6        | 6      | 1.89%   |
-| Goodram             | 5        | 6      | 1.57%   |
+| GOODRAM             | 5        | 6      | 1.57%   |
 | SK hynix            | 4        | 6      | 1.26%   |
 | PNY                 | 4        | 4      | 1.26%   |
 | Patriot             | 4        | 4      | 1.26%   |
@@ -1050,7 +1050,7 @@ Solid state drive vendors
 | A-DATA Technology   | 7        | 7      | 5.43%   |
 | WDC                 | 6        | 10     | 4.65%   |
 | Intel               | 5        | 5      | 3.88%   |
-| Goodram             | 5        | 6      | 3.88%   |
+| GOODRAM             | 5        | 6      | 3.88%   |
 | PNY                 | 4        | 4      | 3.1%    |
 | Patriot             | 4        | 4      | 3.1%    |
 | OCZ                 | 3        | 3      | 2.33%   |
@@ -2636,26 +2636,26 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                               | Desktops | Percent |
-|-------------------------------------|----------|---------|
-| Logitech Webcam C270                | 3        | 14.29%  |
-| Arkmicro USB 2.0 PC CAMERA          | 2        | 9.52%   |
-| Z-Star Lenovo USB 2.0 UVC Camera    | 1        | 4.76%   |
-| Microdia REDRAGON Live Camera Audio | 1        | 4.76%   |
-| Microdia ASUS USB 2.0 Webcam        | 1        | 4.76%   |
-| Logitech Webcam C930e               | 1        | 4.76%   |
-| Logitech Webcam C310                | 1        | 4.76%   |
-| Logitech Webcam C170                | 1        | 4.76%   |
-| Logitech HD Pro Webcam C920         | 1        | 4.76%   |
-| Logitech C922 Pro Stream Webcam     | 1        | 4.76%   |
-| Logitech C670i FHD Webcam           | 1        | 4.76%   |
-| Logitech BRIO Ultra HD Webcam       | 1        | 4.76%   |
-| IMC Networks XHC Camera             | 1        | 4.76%   |
-| HP Realtek PC Camera                | 1        | 4.76%   |
-| Genesys Logic Digital Microscope    | 1        | 4.76%   |
-| Creative Webcam Instant             | 1        | 4.76%   |
-| Chicony HP 0.3MP Webcam             | 1        | 4.76%   |
-| Aveo Camera                         | 1        | 4.76%   |
+| Model                            | Desktops | Percent |
+|----------------------------------|----------|---------|
+| Logitech Webcam C270             | 3        | 14.29%  |
+| Arkmicro USB 2.0 PC CAMERA       | 2        | 9.52%   |
+| Z-Star Lenovo USB 2.0 UVC Camera | 1        | 4.76%   |
+| Microdia USB 2.0 Camera          | 1        | 4.76%   |
+| Microdia ASUS USB 2.0 Webcam     | 1        | 4.76%   |
+| Logitech Webcam C930e            | 1        | 4.76%   |
+| Logitech Webcam C310             | 1        | 4.76%   |
+| Logitech Webcam C170             | 1        | 4.76%   |
+| Logitech HD Pro Webcam C920      | 1        | 4.76%   |
+| Logitech C922 Pro Stream Webcam  | 1        | 4.76%   |
+| Logitech C670i FHD Webcam        | 1        | 4.76%   |
+| Logitech BRIO Ultra HD Webcam    | 1        | 4.76%   |
+| IMC Networks XHC Camera          | 1        | 4.76%   |
+| HP Realtek PC Camera             | 1        | 4.76%   |
+| Genesys Logic Digital Microscope | 1        | 4.76%   |
+| Creative Webcam Instant          | 1        | 4.76%   |
+| Chicony HP 0.3MP Webcam          | 1        | 4.76%   |
+| Aveo Camera                      | 1        | 4.76%   |
 
 Security
 --------
