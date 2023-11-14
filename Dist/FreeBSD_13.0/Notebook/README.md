@@ -567,10 +567,10 @@ Motherboard manufacture year
 | 2020 | 15        | 13.51%  |
 | 2019 | 15        | 13.51%  |
 | 2011 | 13        | 11.71%  |
-| 2018 | 12        | 10.81%  |
+| 2018 | 11        | 9.91%   |
 | 2010 | 10        | 9.01%   |
 | 2021 | 8         | 7.21%   |
-| 2017 | 6         | 5.41%   |
+| 2017 | 7         | 6.31%   |
 | 2015 | 6         | 5.41%   |
 | 2012 | 6         | 5.41%   |
 | 2008 | 5         | 4.5%    |
@@ -1171,7 +1171,7 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                    | 4         | 3.08%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]   | 4         | 3.08%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 4         | 3.08%   |
-| Samsung NVMe SSD Controller 980                                                  | 3         | 2.31%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 3         | 2.31%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 3         | 2.31%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                           | 3         | 2.31%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 3         | 2.31%   |
@@ -1182,17 +1182,17 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 2         | 1.54%   |
 | Toshiba XG5 NVMe SSD Controller                                                  | 1         | 0.77%   |
 | Toshiba XG4 NVMe SSD Controller                                                  | 1         | 0.77%   |
-| Toshiba BG3 NVMe SSD Controller                                                  | 1         | 0.77%   |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                   | 1         | 0.77%   |
 | SK hynix BC501 NVMe Solid State Drive                                            | 1         | 0.77%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 0.77%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                       | 1         | 0.77%   |
-| SanDisk PC SN520 NVMe SSD                                                        | 1         | 0.77%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 0.77%   |
+| SanDisk PC SN520 x2 M.2 2230 NVMe SSD                                            | 1         | 0.77%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD             | 1         | 0.77%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 0.77%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 0.77%   |
 | Micron 3400 NVMe SSD [Hendrix]                                                   | 1         | 0.77%   |
 | Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                                      | 1         | 0.77%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                            | 1         | 0.77%   |
 | Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                    | 1         | 0.77%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                   | 1         | 0.77%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 1         | 0.77%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 1         | 0.77%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1         | 0.77%   |
@@ -1450,7 +1450,7 @@ Graphics card models
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 2         | 1.41%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 2         | 1.41%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 2         | 1.41%   |
-| AMD Renoir                                                                               | 2         | 1.41%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 2         | 1.41%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 1         | 0.7%    |
 | Nvidia TU117GLM [Quadro T2000 Mobile / Max-Q]                                            | 1         | 0.7%    |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                               | 1         | 0.7%    |

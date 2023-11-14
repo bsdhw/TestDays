@@ -762,9 +762,9 @@ Motherboard manufacture year
 | 2019    | 15        | 6.41%   |
 | 2016    | 13        | 5.56%   |
 | 2014    | 13        | 5.56%   |
-| 2013    | 13        | 5.56%   |
+| 2011    | 13        | 5.56%   |
+| 2013    | 12        | 5.13%   |
 | 2012    | 12        | 5.13%   |
-| 2011    | 12        | 5.13%   |
 | 2017    | 9         | 3.85%   |
 | Unknown | 9         | 3.85%   |
 | 2015    | 6         | 2.56%   |
@@ -1483,8 +1483,8 @@ Storage controller models
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 6         | 1.88%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 6         | 1.88%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 6         | 1.88%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 5         | 1.56%   |
-| Samsung NVMe SSD Controller 980                                                | 5         | 1.56%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 5         | 1.56%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 5         | 1.56%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 5         | 1.56%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 5         | 1.56%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 5         | 1.56%   |
@@ -1510,7 +1510,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                         | 3         | 0.94%   |
 | Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 0.63%   |
 | SK hynix BC511 NVMe SSD                                                        | 2         | 0.63%   |
-| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                              | 2         | 0.63%   |
+| SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                     | 2         | 0.63%   |
 
 Storage Kind
 ------------
@@ -1772,13 +1772,14 @@ Graphics card models
 | Intel HD Graphics 620                                                       | 5         | 1.93%   |
 | Intel HD Graphics 5500                                                      | 5         | 1.93%   |
 | Intel HD Graphics 530                                                       | 5         | 1.93%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                             | 4         | 1.54%   |
 | Intel Skylake GT2 [HD Graphics 520]                                         | 4         | 1.54%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 4         | 1.54%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 4         | 1.54%   |
 | Intel GeminiLake [UHD Graphics 600]                                         | 4         | 1.54%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 4         | 1.54%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 4         | 1.54%   |
-| AMD Renoir                                                                  | 4         | 1.54%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 4         | 1.54%   |
 | AMD Lucienne                                                                | 4         | 1.54%   |
 | Nvidia TU117 [GeForce GTX 1650]                                             | 3         | 1.16%   |
 | Nvidia GP108 [GeForce GT 1030]                                              | 3         | 1.16%   |
@@ -1792,8 +1793,6 @@ Graphics card models
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 3         | 1.16%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                         | 3         | 1.16%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                | 3         | 1.16%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                             | 2         | 0.77%   |
-| Nvidia TU117M                                                               | 2         | 0.77%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                  | 2         | 0.77%   |
 | Nvidia GT216GLM [Quadro FX 880M]                                            | 2         | 0.77%   |
 | Nvidia GP108BM [GeForce MX250]                                              | 2         | 0.77%   |
@@ -1801,6 +1800,7 @@ Graphics card models
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                         | 2         | 0.77%   |
 | Nvidia GF108 [GeForce GT 430]                                               | 2         | 0.77%   |
 | Matrox Electronics Systems MGA G200eW WPCM450                               | 2         | 0.77%   |
+| Matrox Electronics Systems MGA G200EH                                       | 2         | 0.77%   |
 
 GPU Combo
 ---------
@@ -2218,7 +2218,7 @@ Controller models
 | Intel I210 Gigabit Network Connection                             | 3         | 0.75%   |
 | Intel Ethernet Controller X550                                    | 3         | 0.75%   |
 | Intel Ethernet Connection (4) I219-LM                             | 3         | 0.75%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                | 3         | 0.75%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter      | 3         | 0.75%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                    | 2         | 0.5%    |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 2         | 0.5%    |
 | Samsung Galaxy series, misc. (tethering mode)                     | 2         | 0.5%    |
@@ -2278,7 +2278,7 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 3         | 1.73%   |
 | Intel Wireless 8260                                            | 3         | 1.73%   |
 | Intel Wi-Fi 6 AX201 160MHz                                     | 3         | 1.73%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 3         | 1.73%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 3         | 1.73%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 2         | 1.16%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 2         | 1.16%   |
 | Realtek RTL8188EE Wireless Network Adapter                     | 2         | 1.16%   |
@@ -2295,7 +2295,7 @@ Wireless models
 | Intel Comet Lake PCH CNVi WiFi                                 | 2         | 1.16%   |
 | Intel Centrino Ultimate-N 6300                                 | 2         | 1.16%   |
 | Intel Alder Lake-P PCH CNVi WiFi                               | 2         | 1.16%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter             | 2         | 1.16%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter   | 2         | 1.16%   |
 | Broadcom BCM43228 802.11a/b/g/n                                | 2         | 1.16%   |
 | Broadcom BCM43224 802.11a/b/g/n                                | 2         | 1.16%   |
 
@@ -2361,9 +2361,9 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 0.45%   |
 | Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1         | 0.45%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 0.45%   |
+| Qualcomm FP3                                                      | 1         | 0.45%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 0.45%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 0.45%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 0.45%   |
 | MYRICOM Myri-10G Dual-Protocol NIC                                | 1         | 0.45%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 0.45%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 0.45%   |
@@ -2484,8 +2484,8 @@ Controller models
 | Apple Bluetooth Host Controller                             | 3         | 2.48%   |
 | Qualcomm Atheros QCA9377 Bluetooth 4.1                      | 2         | 1.65%   |
 | Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 2         | 1.65%   |
-| Intel Wireless Bluetooth                                    | 2         | 1.65%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 1.65%   |
+| Intel AX211 Bluetooth                                       | 2         | 1.65%   |
 | IMC Networks Realtek Bluetooth Adapter                      | 2         | 1.65%   |
 | IMC Networks Qualcomm Atheros Bluetooth 4.0 + HS            | 2         | 1.65%   |
 | Foxconn / Hon Hai Bluetooth USB Module                      | 2         | 1.65%   |
@@ -2661,8 +2661,8 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                             | 2         | 0.72%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 0.72%   |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 0.72%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s     | 2         | 0.72%   |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 0.72%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s   | 2         | 0.72%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 0.72%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 0.72%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 0.72%   |
@@ -2759,12 +2759,12 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 54        | 22.78%  |
+| 1600    | 55        | 23.21%  |
 | 3200    | 44        | 18.57%  |
 | 2400    | 29        | 12.24%  |
 | 2667    | 25        | 10.55%  |
 | 2133    | 21        | 8.86%   |
-| 1333    | 18        | 7.59%   |
+| 1333    | 17        | 7.17%   |
 | 1334    | 9         | 3.8%    |
 | 800     | 5         | 2.11%   |
 | 3600    | 4         | 1.69%   |

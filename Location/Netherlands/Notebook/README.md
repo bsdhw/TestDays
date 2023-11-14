@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 91
+Total: 93
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Deciso        | OPNsense Appliance          | [9508bd06f5](https://bsd-hardware.info/?probe=9508bd06f5) | Oct 28, 2023 |
+| Deciso        | OPNsense Appliance          | [d9f0644c56](https://bsd-hardware.info/?probe=d9f0644c56) | Oct 24, 2023 |
 | HP            | OMEN by Laptop              | [f0fc4f47b8](https://bsd-hardware.info/?probe=f0fc4f47b8) | Sep 10, 2023 |
 | Lenovo        | IdeaPad Gaming 3 15IHU6 ... | [a308c3a87b](https://bsd-hardware.info/?probe=a308c3a87b) | Aug 31, 2023 |
 | SLIMBOOK      | PROX-AMD5                   | [d4265533e2](https://bsd-hardware.info/?probe=d4265533e2) | Jul 15, 2023 |
@@ -256,44 +258,45 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 8         | 10.81%  |
-| helloSystem 0.5.0    | 6         | 8.11%   |
-| FreeBSD 13.0-STABLE  | 5         | 6.76%   |
-| helloSystem 0.8.1    | 4         | 5.41%   |
-| helloSystem 0.8.0    | 4         | 5.41%   |
-| helloSystem 0.6.0    | 3         | 4.05%   |
-| helloSystem 0.3.0    | 3         | 4.05%   |
-| OPNsense 22.10       | 2         | 2.7%    |
-| OpenBSD 7.1          | 2         | 2.7%    |
-| OpenBSD 6.9          | 2         | 2.7%    |
-| OpenBSD 6.8          | 2         | 2.7%    |
-| helloSystem 0.8.2    | 2         | 2.7%    |
-| helloSystem 0.4.0    | 2         | 2.7%    |
-| GhostBSD 22.06.18    | 2         | 2.7%    |
-| FreeBSD 13.1-p4      | 2         | 2.7%    |
-| FreeBSD 13.1         | 2         | 2.7%    |
-| FreeBSD 13.0-p5      | 2         | 2.7%    |
-| OPNsense 23.4.1      | 1         | 1.35%   |
-| OPNsense 23.4        | 1         | 1.35%   |
-| OPNsense 22.7.4      | 1         | 1.35%   |
-| OPNsense 22.7.2      | 1         | 1.35%   |
-| OPNsense 22.7.10     | 1         | 1.35%   |
-| OPNsense 22.10.1     | 1         | 1.35%   |
-| OPNsense 22.1.7      | 1         | 1.35%   |
-| OPNsense 22.1.6      | 1         | 1.35%   |
-| OPNsense 22.1        | 1         | 1.35%   |
-| OPNsense 21.7.7      | 1         | 1.35%   |
-| OPNsense 21.1.9      | 1         | 1.35%   |
-| OpenBSD 7.2          | 1         | 1.35%   |
-| OpenBSD 7.0          | 1         | 1.35%   |
-| FreeBSD 14.0-CURRENT | 1         | 1.35%   |
-| FreeBSD 13.2-p1      | 1         | 1.35%   |
-| FreeBSD 13.2         | 1         | 1.35%   |
-| FreeBSD 13.0-p2      | 1         | 1.35%   |
-| FreeBSD 13.0-BETA1   | 1         | 1.35%   |
-| FreeBSD 13.0         | 1         | 1.35%   |
-| FreeBSD 12.2-p2      | 1         | 1.35%   |
-| FreeBSD 12.2         | 1         | 1.35%   |
+| helloSystem 0.7.0    | 8         | 10.67%  |
+| helloSystem 0.5.0    | 6         | 8%      |
+| FreeBSD 13.0-STABLE  | 5         | 6.67%   |
+| helloSystem 0.8.1    | 4         | 5.33%   |
+| helloSystem 0.8.0    | 4         | 5.33%   |
+| helloSystem 0.6.0    | 3         | 4%      |
+| helloSystem 0.3.0    | 3         | 4%      |
+| OPNsense 22.10       | 2         | 2.67%   |
+| OpenBSD 7.1          | 2         | 2.67%   |
+| OpenBSD 6.9          | 2         | 2.67%   |
+| OpenBSD 6.8          | 2         | 2.67%   |
+| helloSystem 0.8.2    | 2         | 2.67%   |
+| helloSystem 0.4.0    | 2         | 2.67%   |
+| GhostBSD 22.06.18    | 2         | 2.67%   |
+| FreeBSD 13.1-p4      | 2         | 2.67%   |
+| FreeBSD 13.1         | 2         | 2.67%   |
+| FreeBSD 13.0-p5      | 2         | 2.67%   |
+| OPNsense 23.4.1      | 1         | 1.33%   |
+| OPNsense 23.4        | 1         | 1.33%   |
+| OPNsense 23.10       | 1         | 1.33%   |
+| OPNsense 22.7.4      | 1         | 1.33%   |
+| OPNsense 22.7.2      | 1         | 1.33%   |
+| OPNsense 22.7.10     | 1         | 1.33%   |
+| OPNsense 22.10.1     | 1         | 1.33%   |
+| OPNsense 22.1.7      | 1         | 1.33%   |
+| OPNsense 22.1.6      | 1         | 1.33%   |
+| OPNsense 22.1        | 1         | 1.33%   |
+| OPNsense 21.7.7      | 1         | 1.33%   |
+| OPNsense 21.1.9      | 1         | 1.33%   |
+| OpenBSD 7.2          | 1         | 1.33%   |
+| OpenBSD 7.0          | 1         | 1.33%   |
+| FreeBSD 14.0-CURRENT | 1         | 1.33%   |
+| FreeBSD 13.2-p1      | 1         | 1.33%   |
+| FreeBSD 13.2         | 1         | 1.33%   |
+| FreeBSD 13.0-p2      | 1         | 1.33%   |
+| FreeBSD 13.0-BETA1   | 1         | 1.33%   |
+| FreeBSD 13.0         | 1         | 1.33%   |
+| FreeBSD 12.2-p2      | 1         | 1.33%   |
+| FreeBSD 12.2         | 1         | 1.33%   |
 
 OS Family
 ---------
@@ -800,7 +803,7 @@ Hard drive vendors
 | WDC                 | 8         | 8      | 10.53%  |
 | Seagate             | 7         | 8      | 9.21%   |
 | Crucial             | 6         | 8      | 7.89%   |
-| Transcend           | 5         | 8      | 6.58%   |
+| Transcend           | 5         | 9      | 6.58%   |
 | SanDisk             | 4         | 4      | 5.26%   |
 | Toshiba             | 3         | 3      | 3.95%   |
 | NVMe                | 3         | 4      | 3.95%   |
@@ -904,7 +907,7 @@ Solid state drive vendors
 | SanDisk             | 4         | 4      | 9.76%   |
 | NVMe                | 3         | 4      | 7.32%   |
 | WDC                 | 2         | 2      | 4.88%   |
-| Transcend           | 2         | 5      | 4.88%   |
+| Transcend           | 2         | 6      | 4.88%   |
 | Apple               | 2         | 3      | 4.88%   |
 | Toshiba             | 1         | 1      | 2.44%   |
 | SK hynix            | 1         | 1      | 2.44%   |
@@ -927,7 +930,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 37        | 54     | 52.86%  |
+| SSD  | 37        | 55     | 52.86%  |
 | HDD  | 17        | 18     | 24.29%  |
 | NVMe | 16        | 21     | 22.86%  |
 
@@ -941,7 +944,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 51        | 72     | 76.12%  |
+| SATA | 51        | 73     | 76.12%  |
 | NVMe | 16        | 21     | 23.88%  |
 
 Drive Size
@@ -954,7 +957,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 41        | 56     | 74.55%  |
+| 0.01-0.5   | 41        | 57     | 74.55%  |
 | 0.51-1.0   | 13        | 15     | 23.64%  |
 | 1.01-2.0   | 1         | 1      | 1.82%   |
 
@@ -1088,7 +1091,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 55        | 81     | 84.62%  |
+| Works    | 55        | 82     | 84.62%  |
 | Malfunc  | 5         | 5      | 7.69%   |
 | Detected | 4         | 6      | 6.15%   |
 | Failed   | 1         | 1      | 1.54%   |
@@ -1135,7 +1138,7 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]             | 5         | 6.25%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                           | 4         | 5%      |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller | 4         | 5%      |
-| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                | 3         | 3.75%   |
+| Transcend NVMe PCIe SSD 110S/112S/120S/MTE300S/MTE400S/MTE652T2 (DRAM-less)  | 3         | 3.75%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 3         | 3.75%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                               | 2         | 2.5%    |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                             | 2         | 2.5%    |
@@ -1144,14 +1147,14 @@ Storage controller models
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                             | 2         | 2.5%    |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                            | 2         | 2.5%    |
 | Toshiba XG4 NVMe SSD Controller                                              | 1         | 1.25%   |
-| SanDisk WD Blue SN550 NVMe SSD                                               | 1         | 1.25%   |
-| Phison PS5013 E13 NVMe Controller                                            | 1         | 1.25%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                    | 1         | 1.25%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                          | 1         | 1.25%   |
 | Phison E18 PCIe4 NVMe Controller                                             | 1         | 1.25%   |
 | Phison E12 NVMe Controller                                                   | 1         | 1.25%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)         | 1         | 1.25%   |
 | Micron 2210 NVMe SSD [Cobain]                                                | 1         | 1.25%   |
-| Kingston Company unknown                                                     | 1         | 1.25%   |
-| Kingston Company A2000 NVMe SSD                                              | 1         | 1.25%   |
+| Kingston Company NV2 NVMe SSD SM2267XT                                       | 1         | 1.25%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                     | 1         | 1.25%   |
 | Intel Volume Management Device NVMe RAID Controller                          | 1         | 1.25%   |
 | Intel Tiger Lake-LP SATA Controller                                          | 1         | 1.25%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                             | 1         | 1.25%   |
@@ -1391,8 +1394,8 @@ Graphics card models
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)         | 2         | 2.67%   |
 | Intel HD Graphics 515                                                     | 2         | 2.67%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                 | 2         | 2.67%   |
-| Intel Alder Lake-P Integrated Graphics Controller                         | 2         | 2.67%   |
-| AMD Renoir                                                                | 2         | 2.67%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                                 | 2         | 2.67%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 2         | 2.67%   |
 | AMD Kabini [Radeon HD 8240 / R3 Series]                                   | 2         | 2.67%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 1         | 1.33%   |
 | Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                | 1         | 1.33%   |
@@ -1708,7 +1711,7 @@ Controller models
 | Intel Wi-Fi 6 AX200                                               | 4         | 3.1%    |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 3.1%    |
 | Intel 82567LM Gigabit Network Connection                          | 4         | 3.1%    |
-| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0         | 4         | 3.1%    |
+| AMD XGMAC 10GbE Controller                                        | 4         | 3.1%    |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 2.33%   |
 | Intel Wireless 8260                                               | 3         | 2.33%   |
 | Intel I211 Gigabit Network Connection                             | 3         | 2.33%   |
@@ -1830,7 +1833,7 @@ Ethernet models
 | Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 17        | 27.87%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 8.2%    |
 | Intel 82567LM Gigabit Network Connection                          | 4         | 6.56%   |
-| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0         | 4         | 6.56%   |
+| AMD XGMAC 10GbE Controller                                        | 4         | 6.56%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.92%   |
 | Intel I211 Gigabit Network Connection                             | 3         | 4.92%   |
 | Intel Ethernet Connection (3) I218-LM                             | 3         | 4.92%   |

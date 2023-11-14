@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 36
+Total: 37
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Dell          | 0NC2VH A01                  | [e69fadd7a8](https://bsd-hardware.info/?probe=e69fadd7a8) | Oct 29, 2023 |
 | Techvision    | TVI7309X B0                 | [b6e5a7e7bc](https://bsd-hardware.info/?probe=b6e5a7e7bc) | Jun 18, 2023 |
 | Techvision    | TVI7309X B0                 | [2d50927445](https://bsd-hardware.info/?probe=2d50927445) | Jun 18, 2023 |
 | HP            | 0AA0h                       | [bed2f4cfd7](https://bsd-hardware.info/?probe=bed2f4cfd7) | May 16, 2023 |
@@ -919,7 +920,7 @@ Storage controller models
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1        | 2.86%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 2.86%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1        | 2.86%   |
-| Kingston Company NVMe Controller                                                 | 1        | 2.86%   |
+| Kingston Company NV1 NVMe SSD SM2263XT                                           | 1        | 2.86%   |
 | JMicron JMB368 IDE controller                                                    | 1        | 2.86%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1        | 2.86%   |
@@ -1754,8 +1755,8 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Communication controller | 14       | 77.78%  |
-| Net/wireless             | 2        | 11.11%  |
-| Network                  | 1        | 5.56%   |
-| Bluetooth                | 1        | 5.56%   |
+| Communication controller | 15       | 78.95%  |
+| Net/wireless             | 2        | 10.53%  |
+| Network                  | 1        | 5.26%   |
+| Bluetooth                | 1        | 5.26%   |
 

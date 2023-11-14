@@ -1160,12 +1160,12 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 5         | 4.1%    |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 4         | 3.28%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 4         | 3.28%   |
-| Samsung NVMe SSD Controller 980                                                | 3         | 2.46%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 3         | 2.46%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 3         | 2.46%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 3         | 2.46%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller   | 3         | 2.46%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 3         | 2.46%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 2         | 1.64%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 2         | 1.64%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 2         | 1.64%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.64%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 2         | 1.64%   |
@@ -1179,19 +1179,19 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 2         | 1.64%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2         | 1.64%   |
 | Toshiba XG5 NVMe SSD Controller                                                | 1         | 0.82%   |
-| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.82%   |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                 | 1         | 0.82%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.82%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.82%   |
-| Seagate FireCuda 520 SSD                                                       | 1         | 0.82%   |
-| Sandisk Western Digital WD Black SN850X NVMe SSD                               | 1         | 0.82%   |
+| Seagate FireCuda 520/IronWolf 525 SSD                                          | 1         | 0.82%   |
 | Sandisk WD Blue SN570 NVMe SSD 2TB                                             | 1         | 0.82%   |
+| Sandisk WD Black SN850X NVMe SSD                                               | 1         | 0.82%   |
 | Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1         | 0.82%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.82%   |
 | Sandisk PC SN735 NVMe SSD (DRAM-less)                                          | 1         | 0.82%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1         | 0.82%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                             | 1         | 0.82%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 0.82%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.82%   |
-| Phison PS5013 E13 NVMe Controller                                              | 1         | 0.82%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 0.82%   |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                           | 1         | 0.82%   |
 | Marvell Group 88SS9183 PCIe SSD Controller                                     | 1         | 0.82%   |
 
@@ -1451,8 +1451,8 @@ Graphics card models
 | Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 2         | 1.96%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 2         | 1.96%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 2         | 1.96%   |
-| Intel Alder Lake-P Integrated Graphics Controller                                        | 2         | 1.96%   |
-| AMD Renoir                                                                               | 2         | 1.96%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                                                | 2         | 1.96%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 2         | 1.96%   |
 | AMD Navi 23 [Radeon RX 6600/6600 XT/6600M]                                               | 2         | 1.96%   |
 | Nvidia GT218M [NVS 3100M]                                                                | 1         | 0.98%   |
 | Nvidia GP108M [GeForce MX150]                                                            | 1         | 0.98%   |
@@ -1804,7 +1804,7 @@ Controller models
 | Intel Wi-Fi 6 AX200                                               | 3         | 1.79%   |
 | Intel I350 Gigabit Network Connection                             | 3         | 1.79%   |
 | Intel I211 Gigabit Network Connection                             | 3         | 1.79%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                | 3         | 1.79%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter      | 3         | 1.79%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 2         | 1.19%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter     | 2         | 1.19%   |
 | Intel Wireless 7260                                               | 2         | 1.19%   |
@@ -1867,7 +1867,7 @@ Wireless models
 | Intel Wireless 8265 / 8275                                     | 3         | 4.11%   |
 | Intel Wireless 7265                                            | 3         | 4.11%   |
 | Intel Wi-Fi 6 AX200                                            | 3         | 4.11%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 3         | 4.11%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 3         | 4.11%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 2         | 2.74%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter  | 2         | 2.74%   |
 | Intel Wireless 7260                                            | 2         | 2.74%   |
@@ -2072,7 +2072,6 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1)                              | 3         | 5.88%   |
 | Apple Broadcom Built-in Bluetooth                        | 3         | 5.88%   |
 | Intel AX210 Bluetooth                                    | 2         | 3.92%   |
-| Foxconn / Hon Hai RZ616 Bluetooth Adapter                | 2         | 3.92%   |
 | Foxconn / Hon Hai Broadcom BCM20702 Bluetooth USB Device | 2         | 3.92%   |
 | Apple Bluetooth Host Controller                          | 2         | 3.92%   |
 | Alps Electric UGTZ4 Bluetooth                            | 2         | 3.92%   |
@@ -2082,7 +2081,9 @@ Controller models
 | Qualcomm Atheros AR3012 Bluetooth 4.0                    | 1         | 1.96%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                 | 1         | 1.96%   |
 | IMC Networks Realtek Bluetooth Adapter                   | 1         | 1.96%   |
+| Foxconn / Hon Hai RZ616 Bluetooth Adapter                | 1         | 1.96%   |
 | Foxconn / Hon Hai MediaTek Bluetooth Adapter             | 1         | 1.96%   |
+| Foxconn / Hon Hai Bluetooth Adapter                      | 1         | 1.96%   |
 | Broadcom BCM20702A0 Bluetooth 4.0                        | 1         | 1.96%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]               | 1         | 1.96%   |
 | Broadcom BCM2045B (BDC-2.1) [Bluetooth Controller]       | 1         | 1.96%   |
@@ -2207,8 +2208,8 @@ Memory module models
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4%      |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s   | 1         | 4%      |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s       | 1         | 4%      |
-| Samsung RAM M471B5673EH1-CF8 2GB SODIMM 1067MT/s       | 1         | 4%      |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
+| Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1         | 4%      |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 4%      |

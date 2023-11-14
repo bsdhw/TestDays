@@ -1141,7 +1141,7 @@ Storage controller vendors
 | Intel                        | 67       | 48.55%  |
 | AMD                          | 34       | 24.64%  |
 | Samsung Electronics          | 8        | 5.8%    |
-| Sandisk                      | 6        | 4.35%   |
+| SanDisk                      | 6        | 4.35%   |
 | JMicron Technology           | 5        | 3.62%   |
 | ASMedia Technology           | 4        | 2.9%    |
 | Silicon Motion               | 2        | 1.45%   |
@@ -1184,9 +1184,9 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                                   | 3        | 1.73%   |
 | AMD 500 Series Chipset SATA Controller                                                  | 3        | 1.73%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 2        | 1.16%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                               | 2        | 1.16%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                                   | 2        | 1.16%   |
 | Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 2        | 1.16%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 2        | 1.16%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 2        | 1.16%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 2        | 1.16%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1.16%   |
 | Intel SATA Controller [RAID mode]                                                       | 2        | 1.16%   |
@@ -1200,9 +1200,9 @@ Storage controller models
 | AMD FCH SATA Controller [IDE mode]                                                      | 2        | 1.16%   |
 | VIA VT6415 PATA IDE Host Controller                                                     | 1        | 0.58%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                    | 1        | 0.58%   |
-| Shenzhen Longsys SM2263EN/SM2263XT-based OEM SSD                                        | 1        | 0.58%   |
+| Shenzhen Longsys SM2263EN/SM2263XT-based OEM NVME SSD (DRAM-less)                       | 1        | 0.58%   |
 | Shenzhen Longsys Lexar NM620 NVME SSD (DRAM-less)                                       | 1        | 0.58%   |
-| Samsung NVMe SSD Controller 980                                                         | 1        | 0.58%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 1        | 0.58%   |
 | Realtek RTS5765DL NVMe SSD Controller (DRAM-less)                                       | 1        | 0.58%   |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 0.58%   |
 
@@ -1887,7 +1887,7 @@ Wireless models
 | IMC Networks Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter | 1        | 2.63%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]              | 1        | 2.63%   |
 | Edimax EW-7612UAn V2 802.11n Wireless Adapter [Realtek RTL8192CU]           | 1        | 2.63%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                          | 1        | 2.63%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                | 1        | 2.63%   |
 | Belkin Components F5D7050 Wireless G Adapter v4000 [Zydas ZD1211B]          | 1        | 2.63%   |
 | ASUS N10 Nano 802.11n Network Adapter [Realtek RTL8192CU]                   | 1        | 2.63%   |
 
@@ -2270,12 +2270,12 @@ Memory module speed
 |---------|----------|---------|
 | 1333    | 19       | 17.92%  |
 | 1600    | 18       | 16.98%  |
-| 3200    | 12       | 11.32%  |
+| 3200    | 13       | 12.26%  |
 | 2400    | 10       | 9.43%   |
 | 2667    | 8        | 7.55%   |
 | 800     | 8        | 7.55%   |
 | 2133    | 7        | 6.6%    |
-| 2666    | 6        | 5.66%   |
+| 2666    | 5        | 4.72%   |
 | Unknown | 4        | 3.77%   |
 | 667     | 3        | 2.83%   |
 | 2933    | 2        | 1.89%   |

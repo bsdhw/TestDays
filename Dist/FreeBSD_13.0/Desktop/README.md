@@ -1181,16 +1181,16 @@ Storage controller models
 | Silicon Integrated Systems [SiS] RAID bus controller 180 SATA/PATA  [SiS]      | 1        | 0.72%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1        | 0.72%   |
 | Seagate FireCuda 530 SSD                                                       | 1        | 0.72%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1        | 0.72%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1        | 0.72%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 0.72%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 0.72%   |
-| Samsung NVMe SSD Controller 980                                                | 1        | 0.72%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 0.72%   |
 | Phison E18 PCIe4 NVMe Controller                                               | 1        | 0.72%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 1        | 0.72%   |
 | Marvell Group 88SE9123 PCIe SATA 6.0 Gb/s controller                           | 1        | 0.72%   |
 | Marvell Group 88SE6101/6102 single-port PATA133 interface                      | 1        | 0.72%   |
 | Lite-On M8Pe Series NVMe SSD                                                   | 1        | 0.72%   |
-| Intel SSD 660P Series                                                          | 1        | 0.72%   |
+| Kingston Company DC1000B NVMe SSD E12DC                                        | 1        | 0.72%   |
 
 Storage Kind
 ------------
@@ -1799,6 +1799,7 @@ Controller models
 | Realtek 8811CU Wireless LAN 802.11ac USB NIC                                  | 1        | 0.81%   |
 | Ralink RT5370 Wireless Adapter                                                | 1        | 0.81%   |
 | Ralink RT2500 Wireless 802.11bg                                               | 1        | 0.81%   |
+| Qualcomm FP3                                                                  | 1        | 0.81%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 0.81%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 0.81%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                              | 1        | 0.81%   |
@@ -1806,7 +1807,6 @@ Controller models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                | 1        | 0.81%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                              | 1        | 0.81%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 0.81%   |
-| Qualcomm ALCATEL RNDIS Interface                                              | 1        | 0.81%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 0.81%   |
 | Intel Wireless 7265                                                           | 1        | 0.81%   |
 | Intel Wireless 3160                                                           | 1        | 0.81%   |
@@ -1910,10 +1910,10 @@ Ethernet models
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1        | 1.09%   |
 | Samsung GT-I9070 (network tethering, USB debugging enabled)                   | 1        | 1.09%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.09%   |
+| Qualcomm FP3                                                                  | 1        | 1.09%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1        | 1.09%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1        | 1.09%   |
 | Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 1        | 1.09%   |
-| Qualcomm ALCATEL RNDIS Interface                                              | 1        | 1.09%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 1.09%   |
 | Intel I350 Gigabit Network Connection                                         | 1        | 1.09%   |
 | Intel Ethernet Controller I225-V                                              | 1        | 1.09%   |

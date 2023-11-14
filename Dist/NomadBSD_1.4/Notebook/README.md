@@ -829,8 +829,8 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 2         | 8.7%    |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 8.7%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 8.7%    |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 4.35%   |
-| SanDisk PC SN520 NVMe SSD                                                        | 1         | 4.35%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 4.35%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                            | 1         | 4.35%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 4.35%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 4.35%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 1         | 4.35%   |

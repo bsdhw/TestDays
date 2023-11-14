@@ -1187,7 +1187,7 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                          | 3         | 1.97%   |
 | AMD FCH SATA Controller [IDE mode]                                                      | 3         | 1.97%   |
 | AMD 300 Series Chipset SATA Controller                                                  | 3         | 1.97%   |
-| Phison PS5013 E13 NVMe Controller                                                       | 2         | 1.32%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 2         | 1.32%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                                   | 2         | 1.32%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                       | 2         | 1.32%   |
 | Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                               | 2         | 1.32%   |
@@ -1206,8 +1206,8 @@ Storage controller models
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1         | 0.66%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1         | 0.66%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.66%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 1         | 0.66%   |
-| SanDisk PC SN520 NVMe SSD                                                               | 1         | 0.66%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1         | 0.66%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                                   | 1         | 0.66%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1         | 0.66%   |
 | Samsung NVMe SSD Controller SM951/PM951                                                 | 1         | 0.66%   |
 | Phison E12 NVMe Controller                                                              | 1         | 0.66%   |
@@ -1840,10 +1840,10 @@ Controller models
 | Nvidia MCP79 Ethernet                                             | 3         | 1.52%   |
 | Intel Wireless 8260                                               | 3         | 1.52%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 3         | 1.52%   |
+| Qualcomm FP3                                                      | 2         | 1.01%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                  | 2         | 1.01%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 2         | 1.01%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 2         | 1.01%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 2         | 1.01%   |
 | Intel Wi-Fi 6 AX200                                               | 2         | 1.01%   |
 | Intel Ethernet Connection I218-LM                                 | 2         | 1.01%   |
 | Intel Ethernet Connection (6) I219-V                              | 2         | 1.01%   |
@@ -1969,7 +1969,7 @@ Ethernet models
 | Intel I211 Gigabit Network Connection                             | 8         | 7.55%   |
 | Intel Ethernet Connection (4) I219-LM                             | 5         | 4.72%   |
 | Nvidia MCP79 Ethernet                                             | 3         | 2.83%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 2         | 1.89%   |
+| Qualcomm FP3                                                      | 2         | 1.89%   |
 | Intel Ethernet Connection I218-LM                                 | 2         | 1.89%   |
 | Intel Ethernet Connection (6) I219-V                              | 2         | 1.89%   |
 | Intel Ethernet Connection (3) I218-LM                             | 2         | 1.89%   |
@@ -2243,7 +2243,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 2.19%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s              | 3         | 2.19%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s                 | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |

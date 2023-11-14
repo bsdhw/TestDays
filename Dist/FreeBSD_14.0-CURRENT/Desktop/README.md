@@ -1056,9 +1056,9 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 6        | 6.59%   |
 | AMD 500 Series Chipset SATA Controller                                        | 6        | 6.59%   |
 | Intel Comet Lake SATA AHCI Controller                                         | 4        | 4.4%    |
-| Kingston Company A2000 NVMe SSD                                               | 3        | 3.3%    |
-| SanDisk WD Blue SN550 NVMe SSD                                                | 2        | 2.2%    |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 2        | 2.2%    |
+| Kingston Company A2000 NVMe SSD SM2263EN                                      | 3        | 3.3%    |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                     | 2        | 2.2%    |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 2        | 2.2%    |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 2        | 2.2%    |
 | Phison E12 NVMe Controller                                                    | 2        | 2.2%    |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                              | 2        | 2.2%    |
@@ -1067,9 +1067,9 @@ Storage controller models
 | Intel 400 Series Chipset Family SATA AHCI Controller                          | 2        | 2.2%    |
 | SK hynix Platinum P41/PC801 NVMe Solid State Drive                            | 1        | 1.1%    |
 | SK hynix BC511 NVMe SSD                                                       | 1        | 1.1%    |
-| Sandisk WD Green SN350 NVMe SSD 1 TB (DRAM-less)                              | 1        | 1.1%    |
+| Sandisk WD PC SN540 / Green SN350 NVMe SSD 1 TB (DRAM-less)                   | 1        | 1.1%    |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1        | 1.1%    |
-| Samsung NVMe SSD Controller 980                                               | 1        | 1.1%    |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                   | 1        | 1.1%    |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1        | 1.1%    |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1        | 1.1%    |
 | Micron 2300 NVMe SSD [Santana]                                                | 1        | 1.1%    |
@@ -1302,7 +1302,7 @@ Graphics card models
 | Intel CometLake-S GT2 [UHD Graphics 630]                              | 3        | 6.25%   |
 | Nvidia GP108 [GeForce GT 1030]                                        | 2        | 4.17%   |
 | Nvidia GK208B [GeForce GT 710]                                        | 2        | 4.17%   |
-| AMD Renoir                                                            | 2        | 4.17%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]         | 2        | 4.17%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]      | 2        | 4.17%   |
 | AMD Raphael                                                           | 2        | 4.17%   |
 | Nvidia TU117 [GeForce GTX 1650]                                       | 1        | 2.08%   |
@@ -1918,7 +1918,7 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 1        | 1.16%   |
 | GN Netcom Jabra SPEAK 410 USB                                                                   | 1        | 1.16%   |
 | Creative Labs CA0132 Sound Core3D [Sound Blaster Recon3D / Z-Series / Sound BlasterX AE-5 Plus] | 1        | 1.16%   |
-| C-Media Electronics USB PnP Audio Device                                                        | 1        | 1.16%   |
+| C-Media Electronics TONOR TC-777 Audio Device                                                   | 1        | 1.16%   |
 | C-Media Electronics CM108 Audio Controller                                                      | 1        | 1.16%   |
 | Blue Microphones Yeti Stereo Microphone                                                         | 1        | 1.16%   |
 | AudioQuest DragonFly                                                                            | 1        | 1.16%   |

@@ -971,11 +971,11 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 5.66%   |
 | AMD FCH SATA Controller [AHCI mode]                                              | 3         | 5.66%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 2         | 3.77%   |
-| Samsung NVMe SSD Controller 980                                                  | 2         | 3.77%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                            | 2         | 3.77%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 2         | 3.77%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                   | 2         | 3.77%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 3.77%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 3.77%   |
-| Toshiba BG3 NVMe SSD Controller                                                  | 1         | 1.89%   |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                   | 1         | 1.89%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 1         | 1.89%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 1         | 1.89%   |
 | Nvidia MCP79 AHCI Controller                                                     | 1         | 1.89%   |
@@ -1614,7 +1614,7 @@ Wireless models
 | Intel Centrino Ultimate-N 6300                                     | 1         | 2.63%   |
 | Edimax EW-7612UAn V2 802.11n Wireless Adapter [Realtek RTL8192CU]  | 1         | 2.63%   |
 | Broadcom BCM43602 802.11ac Wireless LAN SoC                        | 1         | 2.63%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                 | 1         | 2.63%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter       | 1         | 2.63%   |
 | Broadcom BCM4321 802.11a/b/g/n                                     | 1         | 2.63%   |
 | ASUS WL-167G v1 802.11g Adapter [Ralink RT2571]                    | 1         | 2.63%   |
 | ASUS USB-N13 802.11n Network Adapter (rev. B1) [Realtek RTL8192CU] | 1         | 2.63%   |

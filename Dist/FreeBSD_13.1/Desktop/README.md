@@ -556,14 +556,14 @@ Motherboard manufacture year
 | 2014    | 9        | 9.47%   |
 | Unknown | 9        | 9.47%   |
 | 2018    | 8        | 8.42%   |
-| 2013    | 8        | 8.42%   |
 | 2019    | 7        | 7.37%   |
+| 2013    | 7        | 7.37%   |
 | 2022    | 6        | 6.32%   |
 | 2016    | 5        | 5.26%   |
 | 2012    | 5        | 5.26%   |
+| 2011    | 4        | 4.21%   |
 | 2008    | 4        | 4.21%   |
 | 2017    | 3        | 3.16%   |
-| 2011    | 3        | 3.16%   |
 | 2010    | 2        | 2.11%   |
 | 2023    | 1        | 1.05%   |
 | 2015    | 1        | 1.05%   |
@@ -1197,7 +1197,7 @@ Storage controller models
 | ASMedia ASM1062 Serial ATA Controller                                          | 3        | 2.1%    |
 | AMD 400 Series Chipset SATA Controller                                         | 3        | 2.1%    |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 1.4%    |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 2        | 1.4%    |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2        | 1.4%    |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 2        | 1.4%    |
 | Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 2        | 1.4%    |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                         | 2        | 1.4%    |
@@ -1210,12 +1210,12 @@ Storage controller models
 | Intel 4 Series Chipset PT IDER Controller                                      | 2        | 1.4%    |
 | Silicon Image SiI 3124 PCI-X Serial ATA Controller                             | 1        | 0.7%    |
 | Seagate BarraCuda Q5 NVMe SSD (DRAM-less)                                      | 1        | 0.7%    |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1        | 0.7%    |
 | Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1        | 0.7%    |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1        | 0.7%    |
-| SanDisk PC SN520 NVMe SSD                                                      | 1        | 0.7%    |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 1        | 0.7%    |
+| SanDisk PC SN520 x2 M.2 2230 NVMe SSD                                          | 1        | 0.7%    |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1        | 0.7%    |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 0.7%    |
-| Samsung NVMe SSD Controller 980                                                | 1        | 0.7%    |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 0.7%    |
 | Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                            | 1        | 0.7%    |
 | Phison E8 PCIe3 NVMe Controller                                                | 1        | 0.7%    |
 | Phison E16 PCIe4 NVMe Controller                                               | 1        | 0.7%    |
@@ -1839,7 +1839,7 @@ Controller models
 | Intel Ethernet Connection (2) I219-LM                                         | 2        | 1.35%   |
 | Intel Ethernet Connection (2) I218-V                                          | 2        | 1.35%   |
 | Intel 82567LM-3 Gigabit Network Connection                                    | 2        | 1.35%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 2        | 1.35%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 2        | 1.35%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.68%   |
 | TP-Link Wireless MU-MIMO USB Adapter                                          | 1        | 0.68%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 0.68%   |
@@ -1896,7 +1896,7 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                                           | 5        | 14.29%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 2        | 5.71%   |
 | Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                        | 2        | 5.71%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 2        | 5.71%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 2        | 5.71%   |
 | TP-Link Wireless MU-MIMO USB Adapter                                          | 1        | 2.86%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 2.86%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                      | 1        | 2.86%   |
@@ -1920,7 +1920,7 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 2.86%   |
 | Intel Alder Lake-S PCH CNVi WiFi                                              | 1        | 2.86%   |
 | IMC Networks 802.11 n/g/b Wireless LAN USB Mini-Card                          | 1        | 2.86%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                            | 1        | 2.86%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                  | 1        | 2.86%   |
 
 Ethernet Vendor
 ---------------
@@ -2228,7 +2228,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 800MT/s                                 | 1        | 1.01%   |
 | Unknown RAM Module 2GB DIMM 1333MT/s                                    | 1        | 1.01%   |
 | Unknown RAM Module 2GB DIMM                                             | 1        | 1.01%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s            | 1        | 1.01%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s          | 1        | 1.01%   |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1.01%   |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1.01%   |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1.01%   |
@@ -2320,11 +2320,11 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 23       | 26.14%  |
+| 1600    | 24       | 27.27%  |
 | 3200    | 12       | 13.64%  |
-| 1333    | 11       | 12.5%   |
 | 2400    | 10       | 11.36%  |
 | 2133    | 10       | 11.36%  |
+| 1333    | 10       | 11.36%  |
 | 3600    | 4        | 4.55%   |
 | 2667    | 4        | 4.55%   |
 | 800     | 3        | 3.41%   |

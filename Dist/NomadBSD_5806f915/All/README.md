@@ -1056,16 +1056,16 @@ Storage controller models
 | Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
 | SK hynix PC601 NVMe Solid State Drive                                         | 1         | 1.23%   |
 | SK hynix BC511 NVMe SSD                                                       | 1         | 1.23%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 1.23%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 1.23%   |
-| SanDisk PC SN520 NVMe SSD                                                     | 1         | 1.23%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                         | 1         | 1.23%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                         | 1         | 1.23%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                   | 1         | 1.23%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                            | 1         | 1.23%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 1.23%   |
 | Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                      | 1         | 1.23%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1         | 1.23%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                    | 1         | 1.23%   |
 | Micron 2210 NVMe SSD [Cobain]                                                 | 1         | 1.23%   |
-| Kingston Company A2000 NVMe SSD                                               | 1         | 1.23%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                      | 1         | 1.23%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 1.23%   |
 | Intel SSD 660P Series                                                         | 1         | 1.23%   |
 | Intel NVMe Optane Memory Series                                               | 1         | 1.23%   |
@@ -1665,7 +1665,7 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                             | 2         | 1.85%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 1.85%   |
 | Fibocom L830-EB-00 LTE WWAN Modem                                 | 2         | 1.85%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                | 2         | 1.85%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter      | 2         | 1.85%   |
 | Broadcom BCM43142 802.11b/g/n                                     | 2         | 1.85%   |
 | VIA VT6102/VT6103 [Rhine-II]                                      | 1         | 0.93%   |
 | Sierra Wireless EM7455                                            | 1         | 0.93%   |
@@ -1730,7 +1730,7 @@ Wireless models
 | Intel Wireless 7260                                                  | 2         | 3.85%   |
 | Intel Wireless 3165                                                  | 2         | 3.85%   |
 | Intel Wi-Fi 6 AX200                                                  | 2         | 3.85%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                   | 2         | 3.85%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 2         | 3.85%   |
 | Broadcom BCM43142 802.11b/g/n                                        | 2         | 3.85%   |
 | Sierra Wireless EM7455                                               | 1         | 1.92%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.92%   |
@@ -1755,7 +1755,7 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                      | 1         | 1.92%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]       | 1         | 1.92%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070] | 1         | 1.92%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                   | 1         | 1.92%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter         | 1         | 1.92%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                  | 1         | 1.92%   |
 | Atheros AR2413/AR2414 Wireless Network Adapter [AR5005G(S) 802.11bg] | 1         | 1.92%   |
 

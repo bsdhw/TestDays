@@ -1034,13 +1034,13 @@ Storage controller models
 | AMD FCH SATA Controller D                                                               | 2        | 2.56%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 1.28%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.28%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 1        | 1.28%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.28%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.28%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.28%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.28%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 1.28%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.28%   |
-| Kingston Company A2000 NVMe SSD                                                         | 1        | 1.28%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                                | 1        | 1.28%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.28%   |
 | Intel SSD 660P Series                                                                   | 1        | 1.28%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.28%   |
@@ -1625,9 +1625,9 @@ Controller models
 | Realtek RTL8188EE Wireless Network Adapter                        | 1        | 1.56%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 1.56%   |
 | Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 1        | 1.56%   |
+| Qualcomm FP3                                                      | 1        | 1.56%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 1.56%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1        | 1.56%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 1.56%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 1.56%   |
 | Microchip HTC Hub Controller                                      | 1        | 1.56%   |
 | Intel Wireless-AC 9260                                            | 1        | 1.56%   |
@@ -1718,8 +1718,8 @@ Ethernet models
 | Intel Ethernet Connection (2) I219-V                              | 2        | 4.08%   |
 | Broadcom NetXtreme BCM5754 Gigabit Ethernet PCI Express           | 2        | 4.08%   |
 | Realtek RTL8125 2.5GbE Controller                                 | 1        | 2.04%   |
+| Qualcomm FP3                                                      | 1        | 2.04%   |
 | Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 2.04%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 2.04%   |
 | Nvidia MCP73 Ethernet                                             | 1        | 2.04%   |
 | Intel Ethernet Connection I217-V                                  | 1        | 2.04%   |
 | Intel Ethernet Connection I217-LM                                 | 1        | 2.04%   |

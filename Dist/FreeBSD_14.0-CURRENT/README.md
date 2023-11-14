@@ -1346,13 +1346,13 @@ Storage controller models
 |--------------------------------------------------------------------------------|-----------|---------|
 | AMD FCH SATA Controller [AHCI mode]                                            | 26        | 11.76%  |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 18        | 8.14%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 11        | 4.98%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 11        | 4.98%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 9         | 4.07%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 8         | 3.62%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 3.17%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 7         | 3.17%   |
 | AMD 400 Series Chipset SATA Controller                                         | 7         | 3.17%   |
-| Samsung NVMe SSD Controller 980                                                | 6         | 2.71%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 6         | 2.71%   |
 | AMD 500 Series Chipset SATA Controller                                         | 6         | 2.71%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 4         | 1.81%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 4         | 1.81%   |
@@ -1361,12 +1361,12 @@ Storage controller models
 | SK hynix BC511 NVMe SSD                                                        | 3         | 1.36%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 3         | 1.36%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 3         | 1.36%   |
-| Kingston Company A2000 NVMe SSD                                                | 3         | 1.36%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                       | 3         | 1.36%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 1.36%   |
 | Toshiba XG6 NVMe SSD Controller                                                | 2         | 0.9%    |
 | Shenzhen Longsys Lexar NM620 NVME SSD (DRAM-less)                              | 2         | 0.9%    |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 2         | 0.9%    |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 2         | 0.9%    |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2         | 0.9%    |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 2         | 0.9%    |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 0.9%    |
 | Phison E12 NVMe Controller                                                     | 2         | 0.9%    |
 | Micron 2300 NVMe SSD [Santana]                                                 | 2         | 0.9%    |
@@ -1612,14 +1612,14 @@ Graphics card models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| AMD Renoir                                                           | 10        | 6.21%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]        | 10        | 6.21%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                            | 8         | 4.97%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 7         | 4.35%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]         | 7         | 4.35%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                 | 6         | 3.73%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                 | 5         | 3.11%   |
 | Intel 3rd Gen Core processor Graphics Controller                     | 5         | 3.11%   |
-| Nvidia TU117M                                                        | 4         | 2.48%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                      | 4         | 2.48%   |
 | Intel HD Graphics 620                                                | 4         | 2.48%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                             | 4         | 2.48%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                            | 4         | 2.48%   |
@@ -1634,7 +1634,7 @@ Graphics card models
 | Intel UHD Graphics 620                                               | 2         | 1.24%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                 | 2         | 1.24%   |
 | Intel HD Graphics 630                                                | 2         | 1.24%   |
-| Intel Alder Lake-P Integrated Graphics Controller                    | 2         | 1.24%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                            | 2         | 1.24%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller          | 2         | 1.24%   |
 | ASPEED Technology ASPEED Graphics Family                             | 2         | 1.24%   |
 | AMD VanGogh [AMD Custom GPU 0405]                                    | 2         | 1.24%   |
@@ -2298,8 +2298,8 @@ Controller models
 | Skylight Digital Realtek Bluetooth Adapter          | 1         | 1.27%   |
 | Ralink RT3290 Bluetooth                             | 1         | 1.27%   |
 | Opticis Realtek Bluetooth Adapter                   | 1         | 1.27%   |
-| Intel Wireless Bluetooth                            | 1         | 1.27%   |
 | Intel Centrino Bluetooth Wireless Transceiver       | 1         | 1.27%   |
+| Intel AX211 Bluetooth                               | 1         | 1.27%   |
 | IMC Networks MediaTek Bluetooth Adapter             | 1         | 1.27%   |
 | IMC Networks Bluetooth module                       | 1         | 1.27%   |
 | Foxconn / Hon Hai RZ616 Bluetooth Adapter           | 1         | 1.27%   |
@@ -2418,7 +2418,7 @@ Memory module vendors
 | Smart                        | 3         | 2.05%   |
 | Ramaxel Technology           | 3         | 2.05%   |
 | Team                         | 2         | 1.37%   |
-| Goodram                      | 2         | 1.37%   |
+| GOODRAM                      | 2         | 1.37%   |
 | A-DATA Technology            | 2         | 1.37%   |
 | Unknown (000000000C01)       | 1         | 0.68%   |
 | Transcend                    | 1         | 0.68%   |
@@ -2463,7 +2463,7 @@ Memory module models
 | Unknown (000000000C01) RAM Module 32GB DIMM DDR4 3200MT/s      | 1         | 0.66%   |
 | Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s            | 1         | 0.66%   |
 | Team RAM TEAMGROUP-UD4-4133 8GB DIMM DDR4 4133MT/s             | 1         | 0.66%   |
-| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 0.66%   |
+| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s          | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 0.66%   |
 | Smart RAM Module 8GB DIMM DDR4 2667MT/s                        | 1         | 0.66%   |
@@ -2657,8 +2657,8 @@ Camera device models
 | Trust Canyon CNS-CWC6 Webcam                           | 1         | 1.2%    |
 | Syntek Lenovo EasyCamera                               | 1         | 1.2%    |
 | Syntek Integrated Camera                               | 1         | 1.2%    |
-| Sunplus SPCA2650 AV Camera                             | 1         | 1.2%    |
 | Sunplus Integrated_Webcam_FHD                          | 1         | 1.2%    |
+| Sunplus hama C-600 Pro Webcam                          | 1         | 1.2%    |
 | Shenzhen Kingcome Optoelectronic XiaoMi USB 2.0 Webcam | 1         | 1.2%    |
 | Shenzhen Kingcome Optoelectronic 720p HD Camera        | 1         | 1.2%    |
 | Realtek USB 2.0 PC Camera                              | 1         | 1.2%    |

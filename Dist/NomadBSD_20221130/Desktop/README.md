@@ -145,10 +145,11 @@ Contents
 Test Cases
 ----------
 
-Total: 7
+Total: 8
 
 | Vendor     | Model                   | Probe                                                     | Date         |
 |------------|-------------------------|-----------------------------------------------------------|--------------|
+| Gigabyte   | H61M-S1                 | [723569d88a](https://bsd-hardware.info/?probe=723569d88a) | Oct 01, 2023 |
 | Gigabyte   | H61M-S1                 | [8816b1ac4a](https://bsd-hardware.info/?probe=8816b1ac4a) | Sep 29, 2023 |
 | Lenovo     | SHARKBAY SDK0E50510 WIN | [66f982c40b](https://bsd-hardware.info/?probe=66f982c40b) | Aug 23, 2023 |
 | ASRockRack | C226M WS                | [06a8ca514a](https://bsd-hardware.info/?probe=06a8ca514a) | Apr 14, 2023 |

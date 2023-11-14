@@ -924,8 +924,8 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 2.44%   |
 | VIA VT8237A SATA 2-Port Controller                                            | 1         | 2.44%   |
 | SK hynix PC601 NVMe Solid State Drive                                         | 1         | 2.44%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                     | 1         | 2.44%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                               | 1         | 2.44%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                         | 1         | 2.44%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                   | 1         | 2.44%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                            | 1         | 2.44%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                 | 1         | 2.44%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                    | 1         | 2.44%   |
@@ -1519,7 +1519,7 @@ Wireless models
 | Intel Comet Lake PCH CNVi WiFi                                       | 1         | 2.78%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                             | 1         | 2.78%   |
 | Intel Cannon Lake PCH CNVi WiFi                                      | 1         | 2.78%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                   | 1         | 2.78%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 1         | 2.78%   |
 | Broadcom BCM43142 802.11b/g/n                                        | 1         | 2.78%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                  | 1         | 2.78%   |
 | Atheros AR2413/AR2414 Wireless Network Adapter [AR5005G(S) 802.11bg] | 1         | 2.78%   |

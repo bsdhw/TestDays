@@ -375,7 +375,7 @@ Motherboard model
 
 | Name                             | Desktops | Percent |
 |----------------------------------|----------|---------|
-| ASUS TUF Gaming B450M-PLUS II    | 3        | 21.43%  |
+| ASUS TUF GAMING B450M-PLUS II    | 3        | 21.43%  |
 | ASRock B550M Steel Legend        | 2        | 14.29%  |
 | Supermicro X9SCL/X9SCM           | 1        | 7.14%   |
 | HP Z420 Workstation              | 1        | 7.14%   |
@@ -877,7 +877,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                        | 4        | 9.76%   |
 | Intel Optane SSD 900P Series                                                  | 3        | 7.32%   |
 | AMD 500 Series Chipset SATA Controller                                        | 3        | 7.32%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 2        | 4.88%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 2        | 4.88%   |
 | Realtek RTS5763DL x2 NVMe SSD Controller                                      | 2        | 4.88%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                    | 2        | 4.88%   |
 | Intel 500 Series Chipset Family SATA AHCI Controller                          | 2        | 4.88%   |
@@ -885,8 +885,8 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1        | 2.44%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1        | 2.44%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1        | 2.44%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                | 1        | 2.44%   |
 | Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD       | 1        | 2.44%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                     | 1        | 2.44%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1        | 2.44%   |
 | Intel SATA Controller [RAID mode]                                             | 1        | 2.44%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                           | 1        | 2.44%   |

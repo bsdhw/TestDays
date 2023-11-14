@@ -520,13 +520,13 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2013 | 19        | 20.65%  |
+| 2017 | 10        | 10.87%  |
 | 2009 | 10        | 10.87%  |
-| 2017 | 9         | 9.78%   |
 | 2020 | 7         | 7.61%   |
-| 2019 | 7         | 7.61%   |
-| 2018 | 7         | 7.61%   |
 | 2016 | 7         | 7.61%   |
-| 2014 | 6         | 6.52%   |
+| 2014 | 7         | 7.61%   |
+| 2019 | 6         | 6.52%   |
+| 2018 | 6         | 6.52%   |
 | 2010 | 5         | 5.43%   |
 | 2015 | 4         | 4.35%   |
 | 2012 | 4         | 4.35%   |
@@ -1131,9 +1131,9 @@ Storage controller models
 | Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.91%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.91%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1         | 0.91%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.91%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1         | 0.91%   |
-| SanDisk PC SN520 NVMe SSD                                                      | 1         | 0.91%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1         | 0.91%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1         | 0.91%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.91%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1         | 0.91%   |
@@ -1369,8 +1369,8 @@ Graphics card models
 | Intel HD Graphics 5500                                                    | 2         | 1.82%   |
 | Intel HD Graphics 530                                                     | 2         | 1.82%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 2         | 1.82%   |
-| AMD Renoir                                                                | 2         | 1.82%   |
-| Nvidia TU117M                                                             | 1         | 0.91%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 2         | 1.82%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 1         | 0.91%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 1         | 0.91%   |
 | Nvidia GT216M [GeForce GT 330M]                                           | 1         | 0.91%   |
 | Nvidia GM108M [GeForce 940MX]                                             | 1         | 0.91%   |
@@ -1771,7 +1771,7 @@ Wireless models
 | Intel Centrino Wireless-N 130                                  | 1         | 1.03%   |
 | Intel Centrino Wireless-N 1030 [Rainbow Peak]                  | 1         | 1.03%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS] | 1         | 1.03%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter             | 1         | 1.03%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 1         | 1.03%   |
 | Broadcom BCM4331 802.11a/b/g/n                                 | 1         | 1.03%   |
 | Broadcom BCM43225 802.11b/g/n                                  | 1         | 1.03%   |
 | Broadcom BCM4321 802.11a/b/g/n                                 | 1         | 1.03%   |
@@ -2254,8 +2254,8 @@ Camera device models
 | Suyin HP webcam [dv6-1190en]                         | 1         | 1.33%   |
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.33%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.33%   |
-| Sunplus SPCA2650 AV Camera                           | 1         | 1.33%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.33%   |
+| Sunplus hama C-600 Pro Webcam                        | 1         | 1.33%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.33%   |
 | Silicon Motion Realtek USB 2.0 PC Camera             | 1         | 1.33%   |
 | Silicon Motion ATIV Real HD Camera                   | 1         | 1.33%   |

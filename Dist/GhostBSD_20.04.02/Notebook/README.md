@@ -1028,9 +1028,9 @@ Storage controller models
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]        | 2         | 3.03%   |
 | Toshiba XG4 NVMe SSD Controller                                              | 1         | 1.52%   |
 | SK hynix BC501 NVMe Solid State Drive                                        | 1         | 1.52%   |
-| SanDisk PC SN520 NVMe SSD                                                    | 1         | 1.52%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                        | 1         | 1.52%   |
 | Samsung NVMe SSD Controller SM951/PM951                                      | 1         | 1.52%   |
-| Phison PS5013 E13 NVMe Controller                                            | 1         | 1.52%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                          | 1         | 1.52%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller     | 1         | 1.52%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                            | 1         | 1.52%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                            | 1         | 1.52%   |
@@ -1599,12 +1599,12 @@ Controller models
 | Realtek RTL8191SEvB Wireless LAN Controller                       | 1         | 0.81%   |
 | Realtek Realtek Bluetooth 4.2 Adapter                             | 1         | 0.81%   |
 | Ralink RT5390 Wireless 802.11n 1T/1R PCIe                         | 1         | 0.81%   |
+| Qualcomm FP3                                                      | 1         | 0.81%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 0.81%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 1         | 0.81%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 0.81%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.81%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.81%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 0.81%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 0.81%   |
 | Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 0.81%   |
 | Intel Wireless 3165                                               | 1         | 0.81%   |
@@ -1711,10 +1711,10 @@ Ethernet models
 | Intel Ethernet Connection (4) I219-LM                             | 3         | 5.66%   |
 | Intel Ethernet Connection I218-LM                                 | 2         | 3.77%   |
 | Intel Ethernet Connection (3) I218-LM                             | 2         | 3.77%   |
+| Qualcomm FP3                                                      | 1         | 1.89%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 1.89%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.89%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.89%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 1.89%   |
 | Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 1.89%   |
 | Marvell Group 88E8036 PCI-E Fast Ethernet Controller              | 1         | 1.89%   |
 | Intel Ethernet Connection I219-LM                                 | 1         | 1.89%   |
@@ -1932,7 +1932,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 4         | 5.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 4         | 5.13%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 3.85%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s                 | 2         | 2.56%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |

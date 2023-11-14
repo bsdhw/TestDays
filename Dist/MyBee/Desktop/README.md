@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 27
+Total: 28
 
 | Vendor        | Model                    | Probe                                                     | Date         |
 |---------------|--------------------------|-----------------------------------------------------------|--------------|
+| ASRockRack    | X470D4U2-2T              | [c07dd3b911](https://bsd-hardware.info/?probe=c07dd3b911) | Oct 09, 2023 |
 | ASRock        | Z690 Phantom Gaming 4/D5 | [6eab8daef7](https://bsd-hardware.info/?probe=6eab8daef7) | Sep 21, 2023 |
 | ASRockRack    | X470D4U2-2T              | [5a0b8eb786](https://bsd-hardware.info/?probe=5a0b8eb786) | Sep 21, 2023 |
 | ASUSTek       | P6X58D PREMIUM           | [946e123320](https://bsd-hardware.info/?probe=946e123320) | Aug 13, 2023 |
@@ -192,17 +193,18 @@ Installed operating systems
 
 | Name               | Desktops | Percent |
 |--------------------|----------|---------|
-| MyBee 13.2         | 4        | 19.05%  |
-| MyBee 13.1         | 4        | 19.05%  |
-| MyBee 13.1-p7      | 3        | 14.29%  |
-| MyBee 14.0-CURRENT | 2        | 9.52%   |
-| MyBee 13.1-p1      | 2        | 9.52%   |
-| MyBee 14.0-BETA2   | 1        | 4.76%   |
-| MyBee 13.2-RC5     | 1        | 4.76%   |
-| MyBee 13.2-RC4     | 1        | 4.76%   |
-| MyBee 13.2-RC2     | 1        | 4.76%   |
-| MyBee 13.1-p5      | 1        | 4.76%   |
-| MyBee 13.1-p3      | 1        | 4.76%   |
+| MyBee 13.2         | 4        | 18.18%  |
+| MyBee 13.1         | 4        | 18.18%  |
+| MyBee 13.1-p7      | 3        | 13.64%  |
+| MyBee 14.0-CURRENT | 2        | 9.09%   |
+| MyBee 13.1-p1      | 2        | 9.09%   |
+| MyBee 14.0-BETA3   | 1        | 4.55%   |
+| MyBee 14.0-BETA2   | 1        | 4.55%   |
+| MyBee 13.2-RC5     | 1        | 4.55%   |
+| MyBee 13.2-RC4     | 1        | 4.55%   |
+| MyBee 13.2-RC2     | 1        | 4.55%   |
+| MyBee 13.1-p5      | 1        | 4.55%   |
+| MyBee 13.1-p3      | 1        | 4.55%   |
 
 OS Family
 ---------
@@ -629,7 +631,7 @@ Hard drive models
 | Seagate ST2000DM008-2UB102 2TB   | 1        | 4%      |
 | Samsung SSD 970 EVO Plus 1TB     | 1        | 4%      |
 | Samsung SSD 870 EVO 1TB          | 1        | 4%      |
-| Phison PCIe SSD 128GB            | 1        | 4%      |
+| Phison PCIe SSD 512GB            | 1        | 4%      |
 | Micron 1100_MTFDDAK512TBN 512GB  | 1        | 4%      |
 | Kingston SA400S37480G 480GB      | 1        | 4%      |
 | Kingston SA400S37120G 120GB      | 1        | 4%      |
@@ -852,12 +854,12 @@ Storage controller models
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                            | 3        | 9.68%   |
 | AMD FCH SATA Controller [AHCI mode]                                           | 3        | 9.68%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 2        | 6.45%   |
-| Samsung NVMe SSD Controller 980                                               | 2        | 6.45%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                   | 2        | 6.45%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]  | 2        | 6.45%   |
 | AMD 500 Series Chipset SATA Controller                                        | 2        | 6.45%   |
 | Toshiba XG5 NVMe SSD Controller                                               | 1        | 3.23%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 1        | 3.23%   |
-| Phison PS5013 E13 NVMe Controller                                             | 1        | 3.23%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                           | 1        | 3.23%   |
 | Marvell Group 88SE9230 PCIe 2.0 x2 4-port SATA 6 Gb/s RAID Controller         | 1        | 3.23%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                            | 1        | 3.23%   |
 | Intel SSD 660P Series                                                         | 1        | 3.23%   |
@@ -1039,7 +1041,7 @@ Graphics card models
 | Intel HD Graphics 630                                                | 3        | 15.79%  |
 | Intel Alder Lake-S GT1 [UHD Graphics 730]                            | 2        | 10.53%  |
 | ASPEED Technology ASPEED Graphics Family                             | 2        | 10.53%  |
-| AMD Renoir                                                           | 2        | 10.53%  |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]        | 2        | 10.53%  |
 | Nvidia GP108 [GeForce GT 1030]                                       | 1        | 5.26%   |
 | Nvidia GK107GL [Quadro K600]                                         | 1        | 5.26%   |
 | Nvidia GF119 [GeForce GT 610]                                        | 1        | 5.26%   |
@@ -1459,25 +1461,25 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Desktops | Percent |
-|--------------------------------------------------------------|----------|---------|
-| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s            | 2        | 10%     |
-| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s        | 2        | 10%     |
-| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s     | 2        | 10%     |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 1        | 5%      |
-| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s         | 1        | 5%      |
-| Samsung RAM Module 2GB DIMM DDR3 400MT/s                     | 1        | 5%      |
-| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 5%      |
-| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 5%      |
-| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s          | 1        | 5%      |
-| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s       | 1        | 5%      |
-| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s      | 1        | 5%      |
-| Kingston RAM 9905782-018.A00G 32GB DIMM DDR5 4800MT/s        | 1        | 5%      |
-| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s        | 1        | 5%      |
-| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s      | 1        | 5%      |
-| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s      | 1        | 5%      |
-| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s      | 1        | 5%      |
-| Unknown                                                      | 1        | 5%      |
+| Model                                                          | Desktops | Percent |
+|----------------------------------------------------------------|----------|---------|
+| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s              | 2        | 10%     |
+| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s          | 2        | 10%     |
+| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s       | 2        | 10%     |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 5%      |
+| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s           | 1        | 5%      |
+| Samsung RAM Module 2GB DIMM DDR3 400MT/s                       | 1        | 5%      |
+| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s           | 1        | 5%      |
+| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s           | 1        | 5%      |
+| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s            | 1        | 5%      |
+| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s         | 1        | 5%      |
+| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s        | 1        | 5%      |
+| Kingston RAM 9905782-018.A00G 32GB DIMM DDR5 4800MT/s          | 1        | 5%      |
+| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s          | 1        | 5%      |
+| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s        | 1        | 5%      |
+| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s        | 1        | 5%      |
+| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s        | 1        | 5%      |
+| Unknown                                                        | 1        | 5%      |
 
 Memory Kind
 -----------

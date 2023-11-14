@@ -655,7 +655,7 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 25       | 12.82%  |
+| 2019 | 24       | 12.31%  |
 | 2021 | 22       | 11.28%  |
 | 2018 | 21       | 10.77%  |
 | 2012 | 21       | 10.77%  |
@@ -666,7 +666,7 @@ Motherboard manufacture year
 | 2017 | 11       | 5.64%   |
 | 2016 | 10       | 5.13%   |
 | 2009 | 9        | 4.62%   |
-| 2015 | 6        | 3.08%   |
+| 2015 | 7        | 3.59%   |
 | 2007 | 6        | 3.08%   |
 | 2011 | 5        | 2.56%   |
 | 2008 | 4        | 2.05%   |
@@ -935,7 +935,7 @@ Hard drive vendors
 | Hitachi             | 7        | 9      | 2.2%    |
 | Phison              | 6        | 7      | 1.89%   |
 | Intel               | 6        | 6      | 1.89%   |
-| GOODRAM             | 5        | 6      | 1.57%   |
+| Goodram             | 5        | 6      | 1.57%   |
 | SK hynix            | 4        | 6      | 1.26%   |
 | PNY                 | 4        | 4      | 1.26%   |
 | Patriot             | 4        | 4      | 1.26%   |
@@ -1050,7 +1050,7 @@ Solid state drive vendors
 | A-DATA Technology   | 7        | 7      | 5.43%   |
 | WDC                 | 6        | 10     | 4.65%   |
 | Intel               | 5        | 5      | 3.88%   |
-| GOODRAM             | 5        | 6      | 3.88%   |
+| Goodram             | 5        | 6      | 3.88%   |
 | PNY                 | 4        | 4      | 3.1%    |
 | Patriot             | 4        | 4      | 3.1%    |
 | OCZ                 | 3        | 3      | 2.33%   |
@@ -1354,14 +1354,14 @@ Storage controller models
 | AMD FCH SATA Controller D                                                      | 6        | 1.94%   |
 | Phison E12 NVMe Controller                                                     | 5        | 1.61%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 5        | 1.61%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 4        | 1.29%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 4        | 1.29%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 4        | 1.29%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 4        | 1.29%   |
 | Intel 4 Series Chipset PT IDER Controller                                      | 4        | 1.29%   |
 | AMD 300 Series Chipset SATA Controller                                         | 4        | 1.29%   |
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 4        | 1.29%   |
-| Samsung NVMe SSD Controller 980                                                | 3        | 0.97%   |
-| Kingston Company A2000 NVMe SSD                                                | 3        | 0.97%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 3        | 0.97%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                       | 3        | 0.97%   |
 | Intel C600/X79 series chipset SATA RAID Controller                             | 3        | 0.97%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 3        | 0.97%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3        | 0.97%   |
@@ -2032,7 +2032,7 @@ Controller models
 | Intel Wireless 8265 / 8275                                                    | 2        | 0.75%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2        | 0.75%   |
 | Intel 82566DM-2 Gigabit Network Connection                                    | 2        | 0.75%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 2        | 0.75%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 2        | 0.75%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                        | 2        | 0.75%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                                | 1        | 0.38%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                           | 1        | 0.38%   |
@@ -2085,7 +2085,7 @@ Wireless models
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 2        | 3.23%   |
 | Intel Wireless-AC 9260                                              | 2        | 3.23%   |
 | Intel Wireless 8265 / 8275                                          | 2        | 3.23%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                  | 2        | 3.23%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter        | 2        | 3.23%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller              | 2        | 3.23%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                 | 1        | 1.61%   |
 | Realtek RTL88x2bu [AC1200 Techkey]                                  | 1        | 1.61%   |
@@ -2528,8 +2528,8 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 42       | 20.59%  |
-| 1333    | 31       | 15.2%   |
+| 1600    | 43       | 21.08%  |
+| 1333    | 30       | 14.71%  |
 | 3200    | 27       | 13.24%  |
 | 2133    | 22       | 10.78%  |
 | 2400    | 12       | 5.88%   |

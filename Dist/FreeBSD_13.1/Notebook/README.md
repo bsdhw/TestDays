@@ -1200,17 +1200,17 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 7         | 4.93%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 5         | 3.52%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]          | 5         | 3.52%   |
-| Samsung NVMe SSD Controller 980                                                | 4         | 2.82%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 4         | 2.82%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 4         | 2.82%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 3         | 2.11%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 3         | 2.11%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 3         | 2.11%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 3         | 2.11%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 2.11%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 3         | 2.11%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 3         | 2.11%   |
 | Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 1.41%   |
 | SK hynix BC511 NVMe SSD                                                        | 2         | 1.41%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 2         | 1.41%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 2         | 1.41%   |
 | Intel Tiger Lake-LP SATA Controller                                            | 2         | 1.41%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.41%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.41%   |
@@ -1218,17 +1218,17 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 1.41%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 2         | 1.41%   |
 | Union Memory (Shenzhen) AM620 PCIe 3.0 NVMe SSD 256GB                          | 1         | 0.7%    |
-| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                  | 1         | 0.7%    |
+| Transcend NVMe PCIe SSD 110S/112S/120S/MTE300S/MTE400S/MTE652T2 (DRAM-less)    | 1         | 0.7%    |
 | Toshiba XG5 NVMe SSD Controller                                                | 1         | 0.7%    |
-| Toshiba BG3 NVMe SSD Controller                                                | 1         | 0.7%    |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                 | 1         | 0.7%    |
 | Shenzhen Unionmemory Information System AM620 PCIe 3.0 NVMe SSD 512GB          | 1         | 0.7%    |
-| SanDisk WD Green SN350 NVMe SSD 240GB (DRAM-less)                              | 1         | 0.7%    |
-| SanDisk WD Blue SN570 NVMe SSD 1TB                                             | 1         | 0.7%    |
+| SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                     | 1         | 0.7%    |
+| SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 1         | 0.7%    |
 | SanDisk IX SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.7%    |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 0.7%    |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.7%    |
 | Realtek RTS5765DL NVMe SSD Controller (DRAM-less)                              | 1         | 0.7%    |
-| Phison PS5013 E13 NVMe Controller                                              | 1         | 0.7%    |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 0.7%    |
 | Phison E16 PCIe4 NVMe Controller                                               | 1         | 0.7%    |
 | Nvidia MCP79 AHCI Controller                                                   | 1         | 0.7%    |
 | Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1         | 0.7%    |
@@ -1458,16 +1458,15 @@ Graphics card models
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 6         | 4.23%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                 | 6         | 4.23%   |
 | Intel HD Graphics 5500                                                    | 5         | 3.52%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 4         | 2.82%   |
 | Intel Skylake GT2 [HD Graphics 520]                                       | 4         | 2.82%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 4         | 2.82%   |
 | Intel HD Graphics 620                                                     | 4         | 2.82%   |
 | AMD Lucienne                                                              | 4         | 2.82%   |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 3         | 2.11%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 2.11%   |
-| AMD Renoir                                                                | 3         | 2.11%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 3         | 2.11%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 3         | 2.11%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 2         | 1.41%   |
-| Nvidia TU117M                                                             | 2         | 1.41%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 2         | 1.41%   |
 | Nvidia GT216GLM [Quadro FX 880M]                                          | 2         | 1.41%   |
 | Nvidia GP108BM [GeForce MX250]                                            | 2         | 1.41%   |
@@ -1476,7 +1475,6 @@ Graphics card models
 | Intel Iris Plus Graphics G1 (Ice Lake)                                    | 2         | 1.41%   |
 | Intel GeminiLake [UHD Graphics 600]                                       | 2         | 1.41%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                      | 2         | 1.41%   |
-| Intel Alder Lake-P Integrated Graphics Controller                         | 2         | 1.41%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]          | 2         | 1.41%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                       | 2         | 1.41%   |
 | Nvidia TU117M [GeForce GTX 1650 Ti Mobile]                                | 1         | 0.7%    |
@@ -1490,6 +1488,8 @@ Graphics card models
 | Nvidia GK107M [GeForce GT 650M]                                           | 1         | 0.7%    |
 | Nvidia GF108GLM [NVS 5200M]                                               | 1         | 0.7%    |
 | Nvidia GA107GLM [RTX A2000 Mobile]                                        | 1         | 0.7%    |
+| Nvidia G98M [GeForce 9200M GS]                                            | 1         | 0.7%    |
+| Nvidia C79 [GeForce 9400M G]                                              | 1         | 0.7%    |
 
 GPU Combo
 ---------
@@ -1619,7 +1619,7 @@ Monitor models
 | LG Display LCD Monitor LGD060A 1920x1080 290x170mm 13.2-inch          | 1         | 1.16%   |
 | LG Display LCD Monitor LGD05F8 2560x1600 370x230mm 17.2-inch          | 1         | 1.16%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch          | 1         | 1.16%   |
-| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 1         | 1.16%   |
+| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 1         | 1.16%   |
 | LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch          | 1         | 1.16%   |
 | LG Display LCD Monitor LGD03DD 1366x768 340x190mm 15.3-inch           | 1         | 1.16%   |
 | LG Display LCD Monitor LGD0395 1366x768 340x190mm 15.3-inch           | 1         | 1.16%   |
@@ -1970,9 +1970,9 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                              | 1         | 1.15%   |
 | Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.15%   |
 | Realtek Killer E2500 Gigabit Ethernet Controller                  | 1         | 1.15%   |
+| Qualcomm FP3                                                      | 1         | 1.15%   |
 | Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.15%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1         | 1.15%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 1.15%   |
 | Nvidia MCP79 Ethernet                                             | 1         | 1.15%   |
 | Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 1.15%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 1.15%   |
@@ -2091,8 +2091,8 @@ Controller models
 | Broadcom BCM2045B (BDC-2.1)                                 | 3         | 3.37%   |
 | Qualcomm Atheros QCA9377 Bluetooth 4.1                      | 2         | 2.25%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                    | 2         | 2.25%   |
-| Intel Wireless Bluetooth                                    | 2         | 2.25%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 2         | 2.25%   |
+| Intel AX211 Bluetooth                                       | 2         | 2.25%   |
 | IMC Networks Qualcomm Atheros Bluetooth 4.0 + HS            | 2         | 2.25%   |
 | Foxconn / Hon Hai Bluetooth USB Module                      | 2         | 2.25%   |
 | Dell DW375 Bluetooth Module                                 | 2         | 2.25%   |

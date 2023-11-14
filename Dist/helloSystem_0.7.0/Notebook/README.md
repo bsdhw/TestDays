@@ -677,12 +677,12 @@ Motherboard manufacture year
 | 2010    | 19        | 8.44%   |
 | 2013    | 18        | 8%      |
 | 2011    | 18        | 8%      |
-| 2021    | 17        | 7.56%   |
+| 2021    | 15        | 6.67%   |
+| 2020    | 15        | 6.67%   |
 | 2015    | 15        | 6.67%   |
 | 2018    | 14        | 6.22%   |
 | 2014    | 14        | 6.22%   |
 | 2008    | 14        | 6.22%   |
-| 2020    | 13        | 5.78%   |
 | 2017    | 13        | 5.78%   |
 | 2009    | 13        | 5.78%   |
 | 2007    | 7         | 3.11%   |
@@ -1360,10 +1360,10 @@ Storage controller models
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 3         | 1.1%    |
 | Intel Comet Lake SATA AHCI Controller                                            | 3         | 1.1%    |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 3         | 1.1%    |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 0.74%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 2         | 0.74%   |
 | Samsung NVMe SSD Controller SM951/PM951                                          | 2         | 0.74%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 2         | 0.74%   |
-| Samsung NVMe SSD Controller 980                                                  | 2         | 0.74%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 2         | 0.74%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                       | 2         | 0.74%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                            | 2         | 0.74%   |
 | Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [IDE mode]                     | 2         | 0.74%   |
@@ -1375,7 +1375,7 @@ Storage controller models
 | Silicon Motion SM2262/SM2262EN SSD Controller                                    | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                      | 1         | 0.37%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                             | 1         | 0.37%   |
-| SanDisk WD Blue SN500 / PC SN520 NVMe SSD                                        | 1         | 0.37%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                            | 1         | 0.37%   |
 
 Storage Kind
 ------------
@@ -1612,6 +1612,7 @@ Graphics card models
 | Intel Core Processor Integrated Graphics Controller                                      | 11        | 3.87%   |
 | Intel HD Graphics 620                                                                    | 9         | 3.17%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 7         | 2.46%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 6         | 2.11%   |
 | Nvidia C79 [GeForce 9400M]                                                               | 6         | 2.11%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 6         | 2.11%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 6         | 2.11%   |
@@ -1621,11 +1622,9 @@ Graphics card models
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 5         | 1.76%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 5         | 1.76%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 5         | 1.76%   |
-| AMD Renoir                                                                               | 5         | 1.76%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 5         | 1.76%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 4         | 1.41%   |
 | AMD RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]                         | 4         | 1.41%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 3         | 1.06%   |
-| Nvidia TU117M                                                                            | 3         | 1.06%   |
 | Nvidia TU106M [GeForce RTX 2060 Mobile]                                                  | 3         | 1.06%   |
 | Nvidia G96CM [GeForce 9600M GT]                                                          | 3         | 1.06%   |
 | Intel UHD Graphics 620                                                                   | 3         | 1.06%   |
@@ -1643,6 +1642,7 @@ Graphics card models
 | AMD Wrestler [Radeon HD 7310]                                                            | 2         | 0.7%    |
 | AMD Thames [Radeon HD 7500M/7600M Series]                                                | 2         | 0.7%    |
 | AMD Seymour [Radeon HD 6400M/7400M Series]                                               | 2         | 0.7%    |
+| AMD RV620/M82 [Mobility Radeon HD 3450/3470]                                             | 2         | 0.7%    |
 
 GPU Combo
 ---------
@@ -2648,7 +2648,7 @@ Camera device models
 
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
-| Chicony HD Webcam                         | 8         | 4.91%   |
+| Chicony HD Webcam                         | 7         | 4.29%   |
 | Chicony Integrated Camera                 | 6         | 3.68%   |
 | Chicony Lenovo Integrated Camera (0.3MP)  | 5         | 3.07%   |
 | Syntek Lenovo EasyCamera                  | 4         | 2.45%   |

@@ -871,10 +871,10 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 6.67%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                        | 2         | 6.67%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 6.67%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 1         | 3.33%   |
-| SanDisk PC SN520 NVMe SSD                                                        | 1         | 3.33%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 3.33%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                            | 1         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 3.33%   |
-| Samsung NVMe SSD Controller 980                                                  | 1         | 3.33%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 1         | 3.33%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 3.33%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                | 1         | 3.33%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 1         | 3.33%   |

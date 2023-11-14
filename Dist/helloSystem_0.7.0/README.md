@@ -970,19 +970,19 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2021    | 46        | 10.29%  |
+| 2021    | 44        | 9.84%   |
 | 2012    | 42        | 9.4%    |
 | 2018    | 36        | 8.05%   |
-| 2019    | 35        | 7.83%   |
+| 2019    | 34        | 7.61%   |
 | 2010    | 34        | 7.61%   |
 | 2016    | 31        | 6.94%   |
 | 2013    | 31        | 6.94%   |
 | 2009    | 30        | 6.71%   |
+| 2020    | 29        | 6.49%   |
 | 2014    | 29        | 6.49%   |
-| 2020    | 27        | 6.04%   |
 | 2017    | 24        | 5.37%   |
 | 2011    | 23        | 5.15%   |
-| 2015    | 21        | 4.7%    |
+| 2015    | 22        | 4.92%   |
 | 2008    | 18        | 4.03%   |
 | 2007    | 13        | 2.91%   |
 | 2022    | 4         | 0.89%   |
@@ -1711,9 +1711,9 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 9         | 1.45%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 7         | 1.13%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 7         | 1.13%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 6         | 0.97%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 6         | 0.97%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 6         | 0.97%   |
-| Samsung NVMe SSD Controller 980                                                  | 6         | 0.97%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 6         | 0.97%   |
 | Nvidia MCP61 SATA Controller                                                     | 6         | 0.97%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 6         | 0.97%   |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                           | 6         | 0.97%   |
@@ -2001,6 +2001,7 @@ Graphics card models
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 7         | 1.36%   |
 | Intel HD Graphics 5500                                                                   | 7         | 1.36%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 7         | 1.36%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 6         | 1.16%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                                       | 6         | 1.16%   |
 | Nvidia C79 [GeForce 9400M]                                                               | 6         | 1.16%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 6         | 1.16%   |
@@ -2010,7 +2011,7 @@ Graphics card models
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 5         | 0.97%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 5         | 0.97%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 5         | 0.97%   |
-| AMD Renoir                                                                               | 5         | 0.97%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 5         | 0.97%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 5         | 0.97%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                                  | 5         | 0.97%   |
 | Nvidia GM204 [GeForce GTX 970]                                                           | 4         | 0.78%   |
@@ -2018,11 +2019,10 @@ Graphics card models
 | Intel HD Graphics 500                                                                    | 4         | 0.78%   |
 | AMD RV710/M92 [Mobility Radeon HD 4530/4570/5145/530v/540v/545v]                         | 4         | 0.78%   |
 | AMD Kabini [Radeon HD 8240 / R3 Series]                                                  | 4         | 0.78%   |
-| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 3         | 0.58%   |
-| Nvidia TU117M                                                                            | 3         | 0.58%   |
 | Nvidia TU117 [GeForce GTX 1650]                                                          | 3         | 0.58%   |
 | Nvidia TU106M [GeForce RTX 2060 Mobile]                                                  | 3         | 0.58%   |
 | Nvidia GT218 [GeForce 210]                                                               | 3         | 0.58%   |
+| Nvidia GP106 [GeForce GTX 1060 6GB]                                                      | 3         | 0.58%   |
 
 GPU Combo
 ---------
@@ -3006,8 +3006,8 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 120       | 25.26%  |
-| 1333    | 55        | 11.58%  |
+| 1600    | 121       | 25.47%  |
+| 1333    | 54        | 11.37%  |
 | 2667    | 41        | 8.63%   |
 | 3200    | 39        | 8.21%   |
 | 2133    | 35        | 7.37%   |
@@ -3142,7 +3142,7 @@ Camera device models
 
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
-| Chicony HD Webcam                         | 8         | 4.23%   |
+| Chicony HD Webcam                         | 7         | 3.7%    |
 | Chicony Integrated Camera                 | 6         | 3.17%   |
 | Chicony Lenovo Integrated Camera (0.3MP)  | 5         | 2.65%   |
 | Syntek Lenovo EasyCamera                  | 4         | 2.12%   |

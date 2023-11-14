@@ -843,10 +843,10 @@ Storage controller models
 | Biwin Storage EX950 NVMe SSD                                                   | 2        | 5.71%   |
 | ASMedia ASM1062 Serial ATA Controller                                          | 2        | 5.71%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 5.71%   |
-| SanDisk PC SN520 NVMe SSD                                                      | 1        | 2.86%   |
+| SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1        | 2.86%   |
 | Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1        | 2.86%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 2.86%   |
-| Kingston Company A2000 NVMe SSD                                                | 1        | 2.86%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                       | 1        | 2.86%   |
 | Intel SSD 660P Series                                                          | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.86%   |
 | Intel NVMe Optane Memory Series                                                | 1        | 2.86%   |
@@ -1049,7 +1049,7 @@ Graphics card models
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
 | AMD Vega 20 [Radeon VII]                                                  | 1        | 5.26%   |
-| AMD Renoir                                                                | 1        | 5.26%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 1        | 5.26%   |
 | AMD Pitcairn XT GL [FirePro W7000]                                        | 1        | 5.26%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                       | 1        | 5.26%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                   | 1        | 5.26%   |
@@ -1301,8 +1301,8 @@ Controller models
 | Intel 82579V Gigabit Network Connection                              | 1        | 3.13%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]       | 1        | 3.13%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070] | 1        | 3.13%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                   | 1        | 3.13%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                   | 1        | 3.13%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 1        | 3.13%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter         | 1        | 3.13%   |
 | Broadcom BCM43142 802.11b/g/n                                        | 1        | 3.13%   |
 
 Wireless Vendor
@@ -1344,8 +1344,8 @@ Wireless models
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                     | 1        | 7.14%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]       | 1        | 7.14%   |
 | D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070] | 1        | 7.14%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                   | 1        | 7.14%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                   | 1        | 7.14%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 1        | 7.14%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter         | 1        | 7.14%   |
 | Broadcom BCM43142 802.11b/g/n                                        | 1        | 7.14%   |
 
 Ethernet Vendor
@@ -1535,7 +1535,7 @@ Sound card models
 | Corsair VOID PRO Wireless Gaming Headset                                   | 1        | 2.38%   |
 | Corsair ST100 Headset Output                                               | 1        | 2.38%   |
 | C-Media Electronics Audio Device                                           | 1        | 2.38%   |
-| Audio-Technica AT2020USB+ Audio Control                                    | 1        | 2.38%   |
+| Audio-Technica AT2020USB+                                                  | 1        | 2.38%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1        | 2.38%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 2.38%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 2.38%   |

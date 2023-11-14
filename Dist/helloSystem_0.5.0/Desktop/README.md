@@ -543,11 +543,11 @@ Motherboard manufacture year
 | 2020 | 15       | 13.04%  |
 | 2012 | 15       | 13.04%  |
 | 2019 | 14       | 12.17%  |
-| 2013 | 13       | 11.3%   |
 | 2018 | 12       | 10.43%  |
+| 2013 | 12       | 10.43%  |
 | 2010 | 8        | 6.96%   |
 | 2014 | 7        | 6.09%   |
-| 2011 | 6        | 5.22%   |
+| 2011 | 7        | 6.09%   |
 | 2021 | 5        | 4.35%   |
 | 2016 | 5        | 4.35%   |
 | 2017 | 4        | 3.48%   |
@@ -1212,7 +1212,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 2        | 1.01%   |
 | Nvidia MCP61 SATA Controller                                                            | 2        | 1.01%   |
 | Nvidia MCP61 IDE                                                                        | 2        | 1.01%   |
-| Kingston Company A2000 NVMe SSD                                                         | 2        | 1.01%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                                | 2        | 1.01%   |
 | JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1.01%   |
 | Intel SSD 660P Series                                                                   | 2        | 1.01%   |
 | Intel 82Q35 Express PT IDER Controller                                                  | 2        | 1.01%   |
@@ -1931,8 +1931,8 @@ Wireless models
 | Intel Cannon Lake PCH CNVi WiFi                                            | 1        | 2.56%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 1        | 2.56%   |
 | D-Link DWA-125 Wireless N 150 Adapter(rev.B1) [Ralink RT5370]              | 1        | 2.56%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                         | 1        | 2.56%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                         | 1        | 2.56%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter               | 1        | 2.56%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter               | 1        | 2.56%   |
 | ASUS N10 Nano 802.11n Network Adapter [Realtek RTL8192CU]                  | 1        | 2.56%   |
 
 Ethernet Vendor

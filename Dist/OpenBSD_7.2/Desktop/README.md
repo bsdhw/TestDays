@@ -965,7 +965,7 @@ Storage controller vendors
 | AMD                       | 12       | 24%     |
 | Samsung Electronics       | 6        | 12%     |
 | Broadcom / LSI            | 5        | 10%     |
-| SanDisk                   | 2        | 4%      |
+| Sandisk                   | 2        | 4%      |
 | Toshiba                   | 1        | 2%      |
 | Silicon Motion            | 1        | 2%      |
 | Seagate Technology        | 1        | 2%      |
@@ -991,13 +991,13 @@ Storage controller models
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 2        | 4%      |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 2        | 4%      |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 4%      |
-| Toshiba BG3 NVMe SSD Controller                                                | 1        | 2%      |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                 | 1        | 2%      |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 2%      |
-| Seagate FireCuda 520 SSD                                                       | 1        | 2%      |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 1        | 2%      |
+| Seagate FireCuda 520/IronWolf 525 SSD                                          | 1        | 2%      |
 | Sandisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 2%      |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1        | 2%      |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 2%      |
-| Samsung NVMe SSD Controller 980                                                | 1        | 2%      |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 2%      |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1        | 2%      |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller               | 1        | 2%      |
 | Intel Tiger Lake-LP SATA Controller                                            | 1        | 2%      |

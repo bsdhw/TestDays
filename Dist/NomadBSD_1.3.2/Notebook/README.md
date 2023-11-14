@@ -1432,7 +1432,7 @@ Controller models
 | Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 2.94%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 2.94%   |
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 2         | 2.94%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                | 2         | 2.94%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter      | 2         | 2.94%   |
 | Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.47%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 1.47%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 1.47%   |
@@ -1493,7 +1493,7 @@ Wireless models
 | Intel Comet Lake PCH-LP CNVi WiFi                                   | 2         | 5.56%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                        | 2         | 5.56%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                            | 2         | 5.56%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                  | 2         | 5.56%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter        | 2         | 5.56%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                     | 1         | 2.78%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                 | 1         | 2.78%   |
 | Ralink RT3090 Wireless 802.11n 1T/1R PCIe                           | 1         | 2.78%   |
@@ -1766,8 +1766,8 @@ Memory module models
 | SK hynix RAM HMA82GS6JJR8N-VK 16GB SODIMM DDR4 2667MT/s       | 1         | 2.38%   |
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
-| Samsung RAM M471B5673FH0-CF8 2GB SODIMM 1067MT/s              | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s              | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
@@ -1937,7 +1937,7 @@ Camera device models
 | Suyin HD WebCam                                     | 1         | 3.7%    |
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 3.7%    |
 | Suyin Acer Crystal Eye webcam                       | 1         | 3.7%    |
-| Sunplus SPCA2650 AV Camera                          | 1         | 3.7%    |
+| Sunplus hama C-600 Pro Webcam                       | 1         | 3.7%    |
 | Sunplus Asus Webcam                                 | 1         | 3.7%    |
 | Silicon Motion Realtek USB 2.0 PC Camera            | 1         | 3.7%    |
 | Realtek USB Camera                                  | 1         | 3.7%    |

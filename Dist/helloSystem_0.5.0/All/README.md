@@ -717,17 +717,17 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2019 | 32        | 13.06%  |
 | 2020 | 30        | 12.24%  |
-| 2013 | 28        | 11.43%  |
+| 2013 | 27        | 11.02%  |
 | 2012 | 26        | 10.61%  |
-| 2018 | 20        | 8.16%   |
+| 2018 | 19        | 7.76%   |
+| 2011 | 16        | 6.53%   |
 | 2015 | 15        | 6.12%   |
 | 2014 | 15        | 6.12%   |
-| 2011 | 15        | 6.12%   |
 | 2016 | 13        | 5.31%   |
 | 2010 | 13        | 5.31%   |
 | 2009 | 12        | 4.9%    |
 | 2021 | 10        | 4.08%   |
-| 2017 | 6         | 2.45%   |
+| 2017 | 7         | 2.86%   |
 | 2008 | 6         | 2.45%   |
 | 2007 | 4         | 1.63%   |
 
@@ -1726,7 +1726,7 @@ Graphics card models
 | AMD RV710 [Radeon HD 4350/4550]                                                          | 2         | 0.74%   |
 | AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 2         | 0.74%   |
 | AMD RS780L [Radeon 3000]                                                                 | 2         | 0.74%   |
-| AMD Renoir                                                                               | 2         | 0.74%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 2         | 0.74%   |
 | AMD Chelsea LP [Radeon HD 7730M]                                                         | 2         | 0.74%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 2         | 0.74%   |
 
@@ -2212,8 +2212,8 @@ Wireless models
 | Intel Comet Lake PCH-LP CNVi WiFi                                       | 2         | 1.15%   |
 | Intel Centrino Wireless-N 1000 [Condor Peak]                            | 2         | 1.15%   |
 | Intel Centrino Advanced-N 6235                                          | 2         | 1.15%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                      | 2         | 1.15%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                      | 2         | 1.15%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter            | 2         | 1.15%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter            | 2         | 1.15%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                     | 2         | 1.15%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]              | 1         | 0.57%   |
 

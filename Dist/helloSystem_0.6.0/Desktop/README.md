@@ -471,17 +471,17 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2019 | 8        | 13.11%  |
-| 2013 | 7        | 11.48%  |
 | 2010 | 7        | 11.48%  |
 | 2021 | 6        | 9.84%   |
+| 2013 | 6        | 9.84%   |
 | 2016 | 5        | 8.2%    |
 | 2012 | 5        | 8.2%    |
 | 2020 | 4        | 6.56%   |
 | 2018 | 4        | 6.56%   |
 | 2015 | 4        | 6.56%   |
+| 2011 | 4        | 6.56%   |
 | 2017 | 3        | 4.92%   |
 | 2014 | 3        | 4.92%   |
-| 2011 | 3        | 4.92%   |
 | 2009 | 1        | 1.64%   |
 | 2007 | 1        | 1.64%   |
 
@@ -1057,14 +1057,14 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 3        | 3.19%   |
 | ASMedia ASM1062 Serial ATA Controller                                                   | 3        | 3.19%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 3        | 3.19%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                          | 2        | 2.13%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 2        | 2.13%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.13%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 2.13%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2        | 2.13%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 1.06%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 1        | 1.06%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 1        | 1.06%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.06%   |
-| Phison PS5013 E13 NVMe Controller                                                       | 1        | 1.06%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1        | 1.06%   |
 | Phison E16 PCIe4 NVMe Controller                                                        | 1        | 1.06%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.06%   |
 | Lite-On IT Corp. / Plextor M6e PCI Express SSD [Marvell 88SS9183]                       | 1        | 1.06%   |
@@ -1335,7 +1335,7 @@ Graphics card models
 | AMD RS880 [Radeon HD 4250]                                                  | 1        | 1.54%   |
 | AMD RS780L [Radeon 3000]                                                    | 1        | 1.54%   |
 | AMD Richland [Radeon HD 8470D]                                              | 1        | 1.54%   |
-| AMD Renoir                                                                  | 1        | 1.54%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 1        | 1.54%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 1.54%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 1.54%   |
 | AMD Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]                              | 1        | 1.54%   |
@@ -1642,7 +1642,7 @@ Controller models
 | Intel Ethernet Connection I217-V                                               | 2        | 2.25%   |
 | Intel Ethernet Connection I217-LM                                              | 2        | 2.25%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                               | 2        | 2.25%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                             | 2        | 2.25%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                   | 2        | 2.25%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                            | 1        | 1.12%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                       | 1        | 1.12%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                                | 1        | 1.12%   |
@@ -1670,7 +1670,7 @@ Controller models
 | Broadcom NetXtreme II BCM5708 Gigabit Ethernet                                 | 1        | 1.12%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 1        | 1.12%   |
 | Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                  | 1        | 1.12%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                             | 1        | 1.12%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                   | 1        | 1.12%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                         | 1        | 1.12%   |
 
 Wireless Vendor
@@ -1707,7 +1707,7 @@ Wireless models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                         | 2        | 7.69%   |
 | Ralink MT7601U Wireless Adapter                                             | 2        | 7.69%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                            | 2        | 7.69%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                          | 2        | 7.69%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                | 2        | 7.69%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                         | 1        | 3.85%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                    | 1        | 3.85%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter                             | 1        | 3.85%   |
@@ -1722,7 +1722,7 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                                         | 1        | 3.85%   |
 | Intel Centrino Wireless-N 105                                               | 1        | 3.85%   |
 | IMC Networks Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter | 1        | 3.85%   |
-| Broadcom BCM4352 802.11ac Wireless Network Adapter                          | 1        | 3.85%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter                | 1        | 3.85%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                      | 1        | 3.85%   |
 | Belkin Components F5D7050 Wireless G Adapter v4000 [Zydas ZD1211B]          | 1        | 3.85%   |
 | ASUS N10 Nano 802.11n Network Adapter [Realtek RTL8192CU]                   | 1        | 3.85%   |
@@ -2009,7 +2009,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.37%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.37%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s        | 1        | 1.37%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.37%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |

@@ -748,7 +748,7 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 28        | 11.02%  |
+| 2019    | 27        | 10.63%  |
 | 2020    | 24        | 9.45%   |
 | 2018    | 24        | 9.45%   |
 | 2022    | 23        | 9.06%   |
@@ -759,7 +759,7 @@ Motherboard manufacture year
 | 2015    | 15        | 5.91%   |
 | 2014    | 14        | 5.51%   |
 | 2010    | 14        | 5.51%   |
-| 2016    | 11        | 4.33%   |
+| 2016    | 12        | 4.72%   |
 | 2017    | 10        | 3.94%   |
 | 2009    | 8         | 3.15%   |
 | 2008    | 6         | 2.36%   |
@@ -1439,7 +1439,7 @@ Storage controller vendors
 | Intel                            | 183       | 57.55%  |
 | AMD                              | 43        | 13.52%  |
 | Samsung Electronics              | 22        | 6.92%   |
-| Sandisk                          | 10        | 3.14%   |
+| SanDisk                          | 10        | 3.14%   |
 | Kingston Technology Company      | 8         | 2.52%   |
 | Nvidia                           | 6         | 1.89%   |
 | JMicron Technology               | 6         | 1.89%   |
@@ -1494,7 +1494,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 5         | 1.37%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 5         | 1.37%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 4         | 1.1%    |
-| Samsung NVMe SSD Controller 980                                                         | 4         | 1.1%    |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 4         | 1.1%    |
 | Intel SATA Controller [RAID mode]                                                       | 4         | 1.1%    |
 | Intel Comet Lake SATA AHCI Controller                                                   | 4         | 1.1%    |
 | Intel Celeron/Pentium Silver Processor SATA Controller                                  | 4         | 1.1%    |
@@ -1503,7 +1503,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 4         | 1.1%    |
 | AMD FCH SATA Controller D                                                               | 4         | 1.1%    |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 3         | 0.82%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                         | 3         | 0.82%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 3         | 0.82%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 3         | 0.82%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                    | 3         | 0.82%   |
 | Intel Tiger Lake-LP SATA Controller                                                     | 3         | 0.82%   |
@@ -1782,12 +1782,12 @@ Graphics card models
 | Intel GeminiLake [UHD Graphics 600]                                           | 3         | 1.02%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                     | 3         | 1.02%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller       | 3         | 1.02%   |
-| Intel Alder Lake-P Integrated Graphics Controller                             | 3         | 1.02%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                                     | 3         | 1.02%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller     | 3         | 1.02%   |
-| AMD Renoir                                                                    | 3         | 1.02%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                 | 3         | 1.02%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 3         | 1.02%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                  | 3         | 1.02%   |
-| Nvidia TU117M                                                                 | 2         | 0.68%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                               | 2         | 0.68%   |
 | Nvidia TU117 [GeForce GTX 1650]                                               | 2         | 0.68%   |
 | Nvidia TU116 [GeForce GTX 1660]                                               | 2         | 0.68%   |
 | Nvidia TU116 [GeForce GTX 1660 Ti]                                            | 2         | 0.68%   |
@@ -1916,7 +1916,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4149 1366x768 280x170mm 12.9-inch  | 2         | 1.32%   |
 | MSI G32C4 MSI3DA6 1920x1080 700x390mm 31.5-inch                       | 2         | 1.32%   |
 | LG Display LCD Monitor LGD0484 1366x768 340x190mm 15.3-inch           | 2         | 1.32%   |
-| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 2         | 1.32%   |
+| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 2         | 1.32%   |
 | Goldstar LG ULTRAWIDE GSM5AFB 2560x1080 800x340mm 34.2-inch           | 2         | 1.32%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch      | 2         | 1.32%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 340x190mm 15.3-inch       | 2         | 1.32%   |
@@ -2489,8 +2489,8 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 0.68%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 1         | 0.68%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                    | 1         | 0.68%   |
-| Intel Wireless Bluetooth                                    | 1         | 0.68%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 1         | 0.68%   |
+| Intel AX211 Bluetooth                                       | 1         | 0.68%   |
 | Integrated System Solution Bluetooth Device                 | 1         | 0.68%   |
 | IMC Networks Realtek Bluetooth Adapter                      | 1         | 0.68%   |
 | IMC Networks Qualcomm Atheros AR9462 Bluetooth 4.0 + HS     | 1         | 0.68%   |
@@ -2744,14 +2744,14 @@ Memory module speed
 | 1600    | 61        | 22.43%  |
 | 1333    | 35        | 12.87%  |
 | 2400    | 34        | 12.5%   |
-| 3200    | 30        | 11.03%  |
+| 3200    | 31        | 11.4%   |
 | 2667    | 27        | 9.93%   |
 | 2133    | 21        | 7.72%   |
 | 800     | 11        | 4.04%   |
 | Unknown | 9         | 3.31%   |
 | 667     | 8         | 2.94%   |
-| 2666    | 6         | 2.21%   |
 | 1334    | 6         | 2.21%   |
+| 2666    | 5         | 1.84%   |
 | 1867    | 5         | 1.84%   |
 | 1067    | 5         | 1.84%   |
 | 1066    | 3         | 1.1%    |

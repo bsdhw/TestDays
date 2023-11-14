@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 46
+Total: 48
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Shuttle       | DS437                       | [45c2e3460c](https://bsd-hardware.info/?probe=45c2e3460c) | Oct 30, 2023 |
+| Deciso        | NetBoard-A10                | [12b5a57360](https://bsd-hardware.info/?probe=12b5a57360) | Oct 10, 2023 |
 | Deciso        | DEC2700 - OPNsense Appli... | [aedd3a8255](https://bsd-hardware.info/?probe=aedd3a8255) | Jun 28, 2023 |
 | Lenovo        | ThinkPad T480 20L6S2S800    | [722403df31](https://bsd-hardware.info/?probe=722403df31) | Jun 15, 2023 |
 | HP            | ProBook 640 G4              | [7b44e1591f](https://bsd-hardware.info/?probe=7b44e1591f) | Apr 29, 2023 |
@@ -211,32 +213,34 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| FreeBSD 13.1         | 4         | 11.11%  |
-| FreeBSD 13.1-p5      | 3         | 8.33%   |
-| OPNsense 21.7.7      | 2         | 5.56%   |
-| FreeBSD 14.0-CURRENT | 2         | 5.56%   |
-| FreeBSD 13.0-p4      | 2         | 5.56%   |
-| FreeBSD 12.1-p8      | 2         | 5.56%   |
-| FreeBSD 12.1-p5      | 2         | 5.56%   |
-| OPNsense 23.1.6      | 1         | 2.78%   |
-| OPNsense 23.1.10     | 1         | 2.78%   |
-| OPNsense 22.7.9      | 1         | 2.78%   |
-| OPNsense 22.4.3      | 1         | 2.78%   |
-| OPNsense 22.1.6      | 1         | 2.78%   |
-| OPNsense 22.1.2      | 1         | 2.78%   |
-| OPNsense 21.7.6      | 1         | 2.78%   |
-| OpenBSD 6.8          | 1         | 2.78%   |
-| helloSystem 0.8.2    | 1         | 2.78%   |
-| helloSystem 0.7.0    | 1         | 2.78%   |
-| helloSystem 0.5.0    | 1         | 2.78%   |
-| FreeBSD 13.2         | 1         | 2.78%   |
-| FreeBSD 13.0-CURRENT | 1         | 2.78%   |
-| FreeBSD 13.0         | 1         | 2.78%   |
-| FreeBSD 12.3         | 1         | 2.78%   |
-| FreeBSD 12.2-p5      | 1         | 2.78%   |
-| FreeBSD 12.2         | 1         | 2.78%   |
-| FreeBSD 12.1-p4      | 1         | 2.78%   |
-| FreeBSD 12.1-p10     | 1         | 2.78%   |
+| FreeBSD 13.1         | 4         | 10.53%  |
+| FreeBSD 13.1-p5      | 3         | 7.89%   |
+| OPNsense 21.7.7      | 2         | 5.26%   |
+| FreeBSD 14.0-CURRENT | 2         | 5.26%   |
+| FreeBSD 13.0-p4      | 2         | 5.26%   |
+| FreeBSD 12.1-p8      | 2         | 5.26%   |
+| FreeBSD 12.1-p5      | 2         | 5.26%   |
+| OPNsense 23.7.7      | 1         | 2.63%   |
+| OPNsense 23.7.5      | 1         | 2.63%   |
+| OPNsense 23.1.6      | 1         | 2.63%   |
+| OPNsense 23.1.10     | 1         | 2.63%   |
+| OPNsense 22.7.9      | 1         | 2.63%   |
+| OPNsense 22.4.3      | 1         | 2.63%   |
+| OPNsense 22.1.6      | 1         | 2.63%   |
+| OPNsense 22.1.2      | 1         | 2.63%   |
+| OPNsense 21.7.6      | 1         | 2.63%   |
+| OpenBSD 6.8          | 1         | 2.63%   |
+| helloSystem 0.8.2    | 1         | 2.63%   |
+| helloSystem 0.7.0    | 1         | 2.63%   |
+| helloSystem 0.5.0    | 1         | 2.63%   |
+| FreeBSD 13.2         | 1         | 2.63%   |
+| FreeBSD 13.0-CURRENT | 1         | 2.63%   |
+| FreeBSD 13.0         | 1         | 2.63%   |
+| FreeBSD 12.3         | 1         | 2.63%   |
+| FreeBSD 12.2-p5      | 1         | 2.63%   |
+| FreeBSD 12.2         | 1         | 2.63%   |
+| FreeBSD 12.1-p4      | 1         | 2.63%   |
+| FreeBSD 12.1-p10     | 1         | 2.63%   |
 
 OS Family
 ---------
@@ -644,18 +648,18 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Vienna           | 23        | 65.71%  |
-| Graz             | 2         | 5.71%   |
-| Wels             | 1         | 2.86%   |
-| Weidlingbach     | 1         | 2.86%   |
-| Vorchdorf        | 1         | 2.86%   |
-| Parndorf         | 1         | 2.86%   |
-| Neulengbach      | 1         | 2.86%   |
-| Maria Enzersdorf | 1         | 2.86%   |
-| Linz             | 1         | 2.86%   |
-| Innsbruck        | 1         | 2.86%   |
-| Grosspertholz    | 1         | 2.86%   |
-| Bruck an der Mur | 1         | 2.86%   |
+| Vienna           | 24        | 66.67%  |
+| Graz             | 2         | 5.56%   |
+| Wels             | 1         | 2.78%   |
+| Weidlingbach     | 1         | 2.78%   |
+| Vorchdorf        | 1         | 2.78%   |
+| Parndorf         | 1         | 2.78%   |
+| Neulengbach      | 1         | 2.78%   |
+| Maria Enzersdorf | 1         | 2.78%   |
+| Linz             | 1         | 2.78%   |
+| Innsbruck        | 1         | 2.78%   |
+| Grosspertholz    | 1         | 2.78%   |
+| Bruck an der Mur | 1         | 2.78%   |
 
 Drives
 ------
@@ -670,10 +674,10 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 12        | 14     | 34.29%  |
+| Samsung Electronics | 12        | 15     | 34.29%  |
 | Intel               | 4         | 5      | 11.43%  |
 | WDC                 | 3         | 3      | 8.57%   |
-| Transcend           | 3         | 4      | 8.57%   |
+| Transcend           | 3         | 5      | 8.57%   |
 | SanDisk             | 3         | 3      | 8.57%   |
 | SK hynix            | 2         | 2      | 5.71%   |
 | Kingston            | 2         | 5      | 5.71%   |
@@ -694,38 +698,39 @@ Hard drive models
 
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
-| Transcend TS256GMTE652T2 256GB          | 2         | 5.41%   |
-| SK hynix BC511 HFM512GDJTNI-82A0A 512GB | 2         | 5.41%   |
-| SanDisk SSD PLUS 240GB                  | 2         | 5.41%   |
-| Samsung MZALQ512HBLU-00BL1 512GB        | 2         | 5.41%   |
-| Intel SSDPEKKF512G8L 512GB              | 2         | 5.41%   |
-| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 2.7%    |
-| WDC WD20SPZX-22CRAT0 2TB                | 1         | 2.7%    |
-| WDC WD10JPLX-00MBPT0 1TB                | 1         | 2.7%    |
-| Transcend TS2TMTE220S 2TB               | 1         | 2.7%    |
-| Seagate ST1000LX015-1U7172 1TB          | 1         | 2.7%    |
-| SanDisk SD7TB3Q-128G-1006 128GB         | 1         | 2.7%    |
-| Samsung SSD PM851 mSATA 256GB           | 1         | 2.7%    |
-| Samsung SSD PM841 2.5-inch 7mm 256GB    | 1         | 2.7%    |
-| Samsung SSD 980 500GB                   | 1         | 2.7%    |
-| Samsung SSD 860 EVO 250GB               | 1         | 2.7%    |
-| Samsung MZVLB256HAHQ-000L7 256GB        | 1         | 2.7%    |
-| Samsung MZVKW512HMJP-000H1 512GB        | 1         | 2.7%    |
-| Samsung MZALQ512HBLU-00BL2 512GB        | 1         | 2.7%    |
-| Samsung MZ7TE512HMHP-000L2 512GB        | 1         | 2.7%    |
-| Samsung MZ7PA128HMCD-010H1 128GB        | 1         | 2.7%    |
-| Samsung HM320JI 320GB                   | 1         | 2.7%    |
-| Kingston SUV500MS480G 480GB             | 1         | 2.7%    |
-| Kingston SUV500MS120G 120GB             | 1         | 2.7%    |
-| Kingston SKC600MS256G 256GB             | 1         | 2.7%    |
-| Intenso JAJM600M256C 256GB              | 1         | 2.7%    |
-| Intel SSDSCKKF256G8H 256GB              | 1         | 2.7%    |
-| Intel SSDPEKNW020T8 2TB                 | 1         | 2.7%    |
-| Hitachi HTS541040G9SA00 40GB            | 1         | 2.7%    |
-| HGST HTS545050A7E680 500GB              | 1         | 2.7%    |
-| Crucial CT275MX300SSD4 275GB            | 1         | 2.7%    |
-| A-DATA SU650 240GB                      | 1         | 2.7%    |
-| A-DATA SU630 240GB                      | 1         | 2.7%    |
+| Transcend TS256GMTE652T2 256GB          | 2         | 5.26%   |
+| SK hynix BC511 HFM512GDJTNI-82A0A 512GB | 2         | 5.26%   |
+| SanDisk SSD PLUS 240GB                  | 2         | 5.26%   |
+| Samsung MZALQ512HBLU-00BL1 512GB        | 2         | 5.26%   |
+| Intel SSDPEKKF512G8L 512GB              | 2         | 5.26%   |
+| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 2.63%   |
+| WDC WD20SPZX-22CRAT0 2TB                | 1         | 2.63%   |
+| WDC WD10JPLX-00MBPT0 1TB                | 1         | 2.63%   |
+| Transcend TS2TMTE220S 2TB               | 1         | 2.63%   |
+| Seagate ST1000LX015-1U7172 1TB          | 1         | 2.63%   |
+| SanDisk SD7TB3Q-128G-1006 128GB         | 1         | 2.63%   |
+| Samsung SSD PM851 mSATA 256GB           | 1         | 2.63%   |
+| Samsung SSD PM841 2.5-inch 7mm 256GB    | 1         | 2.63%   |
+| Samsung SSD 980 500GB                   | 1         | 2.63%   |
+| Samsung SSD 860 EVO 250GB               | 1         | 2.63%   |
+| Samsung SSD 850 EVO 250GB               | 1         | 2.63%   |
+| Samsung MZVLB256HAHQ-000L7 256GB        | 1         | 2.63%   |
+| Samsung MZVKW512HMJP-000H1 512GB        | 1         | 2.63%   |
+| Samsung MZALQ512HBLU-00BL2 512GB        | 1         | 2.63%   |
+| Samsung MZ7TE512HMHP-000L2 512GB        | 1         | 2.63%   |
+| Samsung MZ7PA128HMCD-010H1 128GB        | 1         | 2.63%   |
+| Samsung HM320JI 320GB                   | 1         | 2.63%   |
+| Kingston SUV500MS480G 480GB             | 1         | 2.63%   |
+| Kingston SUV500MS120G 120GB             | 1         | 2.63%   |
+| Kingston SKC600MS256G 256GB             | 1         | 2.63%   |
+| Intenso JAJM600M256C 256GB              | 1         | 2.63%   |
+| Intel SSDSCKKF256G8H 256GB              | 1         | 2.63%   |
+| Intel SSDPEKNW020T8 2TB                 | 1         | 2.63%   |
+| Hitachi HTS541040G9SA00 40GB            | 1         | 2.63%   |
+| HGST HTS545050A7E680 500GB              | 1         | 2.63%   |
+| Crucial CT275MX300SSD4 275GB            | 1         | 2.63%   |
+| A-DATA SU650 240GB                      | 1         | 2.63%   |
+| A-DATA SU630 240GB                      | 1         | 2.63%   |
 
 HDD Vendor
 ----------
@@ -753,7 +758,7 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 5         | 5      | 35.71%  |
+| Samsung Electronics | 5         | 6      | 35.71%  |
 | SanDisk             | 3         | 3      | 21.43%  |
 | Kingston            | 2         | 5      | 14.29%  |
 | Intenso             | 1         | 1      | 7.14%   |
@@ -771,8 +776,8 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| NVMe | 13        | 17     | 40.63%  |
-| SSD  | 13        | 19     | 40.63%  |
+| NVMe | 13        | 18     | 40.63%  |
+| SSD  | 13        | 20     | 40.63%  |
 | HDD  | 6         | 7      | 18.75%  |
 
 Drive Connector
@@ -785,8 +790,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 16        | 26     | 55.17%  |
-| NVMe | 13        | 17     | 44.83%  |
+| SATA | 16        | 27     | 55.17%  |
+| NVMe | 13        | 18     | 44.83%  |
 
 Drive Size
 ----------
@@ -798,7 +803,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 14        | 22     | 77.78%  |
+| 0.01-0.5   | 14        | 23     | 77.78%  |
 | 0.51-1.0   | 3         | 3      | 16.67%  |
 | 1.01-2.0   | 1         | 1      | 5.56%   |
 
@@ -919,8 +924,8 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 25        | 36     | 80.65%  |
-| Malfunc | 6         | 7      | 19.35%  |
+| Works   | 26        | 38     | 81.25%  |
+| Malfunc | 6         | 7      | 18.75%  |
 
 Storage controller
 ------------------
@@ -953,10 +958,10 @@ Storage controller models
 
 | Model                                                                            | Notebooks | Percent |
 |----------------------------------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller 980                                                  | 4         | 9.76%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 4         | 9.76%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 3         | 7.32%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 3         | 7.32%   |
-| Transcend NVMe PCIe SSD 120S/112S (DRAM-less)                                    | 2         | 4.88%   |
+| Transcend NVMe PCIe SSD 110S/112S/120S/MTE300S/MTE400S/MTE652T2 (DRAM-less)      | 2         | 4.88%   |
 | SK hynix BC511 NVMe SSD                                                          | 2         | 4.88%   |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                 | 2         | 4.88%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 2         | 4.88%   |
@@ -1448,7 +1453,7 @@ Controller models
 | Intel Centrino Ultimate-N 6300                                    | 2         | 3.23%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 3.23%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 3.23%   |
-| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0         | 2         | 3.23%   |
+| AMD XGMAC 10GbE Controller                                        | 2         | 3.23%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.61%   |
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 1         | 1.61%   |
 | Intel Wireless 8260                                               | 1         | 1.61%   |
@@ -1546,7 +1551,7 @@ Ethernet models
 | Intel I211 Gigabit Network Connection                             | 3         | 10.34%  |
 | Intel 82577LM Gigabit Network Connection                          | 3         | 10.34%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 6.9%    |
-| AMD Family 17h Processor 10 Gb Ethernet Controller Port 0         | 2         | 6.9%    |
+| AMD XGMAC 10GbE Controller                                        | 2         | 6.9%    |
 | Intel I210 Gigabit Network Connection                             | 1         | 3.45%   |
 | Intel Ethernet Controller I225-V                                  | 1         | 3.45%   |
 | Intel Ethernet Connection I219-V                                  | 1         | 3.45%   |
@@ -1614,8 +1619,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 32        | 96.97%  |
-| Yes  | 1         | 3.03%   |
+| No   | 32        | 94.12%  |
+| Yes  | 2         | 5.88%   |
 
 Bluetooth
 ---------

@@ -149,10 +149,11 @@ Contents
 Test Cases
 ----------
 
-Total: 41
+Total: 42
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Dell          | 0NC2VH A01                  | Desktop     | [e69fadd7a8](https://bsd-hardware.info/?probe=e69fadd7a8) | Oct 29, 2023 |
 | Apple         | Mac-35C5E08120C7EEAF Mac... | Mini pc     | [eaf7d5bd39](https://bsd-hardware.info/?probe=eaf7d5bd39) | Sep 28, 2023 |
 | Techvision    | TVI7309X B0                 | Desktop     | [b6e5a7e7bc](https://bsd-hardware.info/?probe=b6e5a7e7bc) | Jun 18, 2023 |
 | Techvision    | TVI7309X B0                 | Desktop     | [2d50927445](https://bsd-hardware.info/?probe=2d50927445) | Jun 18, 2023 |
@@ -959,7 +960,7 @@ Storage controller models
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1         | 2.56%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1         | 2.56%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1         | 2.56%   |
-| Kingston Company NVMe Controller                                                 | 1         | 2.56%   |
+| Kingston Company NV1 NVMe SSD SM2263XT                                           | 1         | 2.56%   |
 | JMicron JMB368 IDE controller                                                    | 1         | 2.56%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1         | 2.56%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 2.56%   |
@@ -1361,7 +1362,7 @@ Controller models
 | Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                             | 1         | 1.75%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                       | 1         | 1.75%   |
 | Broadcom NetXtreme BCM5704 Gigabit Ethernet                                   | 1         | 1.75%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                            | 1         | 1.75%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 1         | 1.75%   |
 
 Wireless Vendor
 ---------------
@@ -1393,7 +1394,7 @@ Wireless models
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1         | 11.11%  |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 11.11%  |
 | Intel Wireless-AC 9260                                                  | 1         | 11.11%  |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                      | 1         | 11.11%  |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter            | 1         | 11.11%  |
 
 Ethernet Vendor
 ---------------
@@ -1615,38 +1616,38 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                        | Computers | Percent |
-|--------------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB DIMM SDRAM                         | 2         | 6.06%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s | 2         | 6.06%   |
-| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s     | 2         | 6.06%   |
-| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s           | 1         | 3.03%   |
-| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 1         | 3.03%   |
-| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                    | 1         | 3.03%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                | 1         | 3.03%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                  | 1         | 3.03%   |
-| Unknown (0x1636) RAM 5.6.5 4GB SODIMM DDR4 2667MT/s          | 1         | 3.03%   |
-| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s        | 1         | 3.03%   |
-| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s            | 1         | 3.03%   |
-| SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                 | 1         | 3.03%   |
-| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                   | 1         | 3.03%   |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s         | 1         | 3.03%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 1         | 3.03%   |
-| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
-| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s          | 1         | 3.03%   |
-| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
-| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s          | 1         | 3.03%   |
-| Ramaxel RAM RML1320KE48D8F-800 2GB DIMM DDR2 800MT/s         | 1         | 3.03%   |
-| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s           | 1         | 3.03%   |
-| Micron RAM MTA8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s      | 1         | 3.03%   |
-| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
-| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s        | 1         | 3.03%   |
-| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s       | 1         | 3.03%   |
-| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s        | 1         | 3.03%   |
-| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s        | 1         | 3.03%   |
-| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s        | 1         | 3.03%   |
-| Corsair RAM CM2X1024-6400 1GB DIMM DDR2 800MT/s              | 1         | 3.03%   |
+| Model                                                          | Computers | Percent |
+|----------------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB DIMM SDRAM                           | 2         | 6.06%   |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 2         | 6.06%   |
+| Crucial RAM CT204864BF160B.M16 16GB SODIMM DDR3 1600MT/s       | 2         | 6.06%   |
+| V-Color RAM TN432G32D822 32GB SODIMM DDR4 3200MT/s             | 1         | 3.03%   |
+| Unknown RAM WPBS16D308SWD-4G 4GB DIMM DDR3 1600MT/s            | 1         | 3.03%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 1         | 3.03%   |
+| Unknown RAM Module 4GB DIMM DDR3 1600MT/s                      | 1         | 3.03%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 800MT/s                  | 1         | 3.03%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s                    | 1         | 3.03%   |
+| Unknown (0x1636) RAM 5.6.5 4GB SODIMM DDR4 2667MT/s            | 1         | 3.03%   |
+| Transcend RAM TS512MSH64V4H 4096MB DIMM DDR4 2400MT/s          | 1         | 3.03%   |
+| Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s              | 1         | 3.03%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                   | 1         | 3.03%   |
+| SK hynix RAM Module 4GB DIMM DDR4 2133MT/s                     | 1         | 3.03%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1         | 3.03%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 1         | 3.03%   |
+| Samsung RAM M471B5173QH0-YK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.03%   |
+| Samsung RAM M378B5773DH0-CH9 2GB DIMM DDR3 1333MT/s            | 1         | 3.03%   |
+| Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1         | 3.03%   |
+| Samsung RAM M3 78T5663QZ3-CF7 2GB DIMM DDR2 800MT/s            | 1         | 3.03%   |
+| Ramaxel RAM RML1320KE48D8F-800 2GB DIMM DDR2 800MT/s           | 1         | 3.03%   |
+| Nanya RAM NT4GC64B8HG0NF-DI 4GB DIMM DDR3 1600MT/s             | 1         | 3.03%   |
+| Micron RAM MTA8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s        | 1         | 3.03%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s            | 1         | 3.03%   |
+| Kingston RAM 9905471-028.A00LF 4GB DIMM DDR3 1333MT/s          | 1         | 3.03%   |
+| Crucial RAM CT8G4SFRA32A.C8FP 8GB SODIMM DDR4 3200MT/s         | 1         | 3.03%   |
+| Crucial RAM CT51264BF160BJ.M8F 4GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
+| Crucial RAM CT25664BD160B.C8FP 2GB DIMM DDR3 1333MT/s          | 1         | 3.03%   |
+| Crucial RAM CT102464BF160B.M16 8GB DIMM DDR3 1600MT/s          | 1         | 3.03%   |
+| Corsair RAM CM2X1024-6400 1GB DIMM DDR2 800MT/s                | 1         | 3.03%   |
 
 Memory Kind
 -----------
@@ -1821,9 +1822,9 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 17        | 56.67%  |
-| Bluetooth                | 6         | 20%     |
-| Net/wireless             | 4         | 13.33%  |
-| Card reader              | 2         | 6.67%   |
-| Network                  | 1         | 3.33%   |
+| Communication controller | 18        | 58.06%  |
+| Bluetooth                | 6         | 19.35%  |
+| Net/wireless             | 4         | 12.9%   |
+| Card reader              | 2         | 6.45%   |
+| Network                  | 1         | 3.23%   |
 

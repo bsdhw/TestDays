@@ -888,12 +888,12 @@ Storage controller models
 |----------------------------------------------------------------------------------|-----------|---------|
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 3         | 8.57%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 8.57%   |
-| Samsung NVMe SSD Controller 980                                                  | 2         | 5.71%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                            | 2         | 5.71%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 2         | 5.71%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                   | 2         | 5.71%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 5.71%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 5.71%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 5.71%   |
-| Toshiba BG3 NVMe SSD Controller                                                  | 1         | 2.86%   |
+| Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                   | 1         | 2.86%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                       | 1         | 2.86%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 2.86%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                   | 1         | 2.86%   |

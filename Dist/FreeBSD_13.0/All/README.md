@@ -738,15 +738,15 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2020    | 30        | 13.45%  |
-| 2018    | 27        | 12.11%  |
+| 2018    | 26        | 11.66%  |
 | 2021    | 24        | 10.76%  |
 | 2019    | 24        | 10.76%  |
 | 2011    | 18        | 8.07%   |
 | 2015    | 13        | 5.83%   |
 | 2010    | 12        | 5.38%   |
+| 2017    | 11        | 4.93%   |
 | 2012    | 11        | 4.93%   |
 | Unknown | 11        | 4.93%   |
-| 2017    | 10        | 4.48%   |
 | 2008    | 10        | 4.48%   |
 | 2013    | 9         | 4.04%   |
 | 2016    | 7         | 3.14%   |
@@ -1459,7 +1459,7 @@ Storage controller models
 | Intel Comet Lake SATA AHCI Controller                                            | 5         | 1.64%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                           | 5         | 1.64%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 4         | 1.32%   |
-| Samsung NVMe SSD Controller 980                                                  | 4         | 1.32%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 4         | 1.32%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                               | 4         | 1.32%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 4         | 1.32%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]            | 4         | 1.32%   |
@@ -1472,7 +1472,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 3         | 0.99%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                     | 3         | 0.99%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 2         | 0.66%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                   | 2         | 0.66%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 2         | 0.66%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 2         | 0.66%   |
 | Phison E12 NVMe Controller                                                       | 2         | 0.66%   |
 | Nvidia MCP79 AHCI Controller                                                     | 2         | 0.66%   |
@@ -2323,11 +2323,11 @@ Ethernet models
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1         | 0.46%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1         | 0.46%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.46%   |
+| Qualcomm FP3                                                                  | 1         | 0.46%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 0.46%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                     | 1         | 0.46%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1         | 0.46%   |
 | Qualcomm Atheros AR8162 Fast Ethernet                                         | 1         | 0.46%   |
-| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                                    | 1         | 0.46%   |
 
 Net Controller Kind
 -------------------

@@ -652,17 +652,17 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2013 | 26        | 13.68%  |
-| 2018 | 23        | 12.11%  |
+| 2013 | 25        | 13.16%  |
+| 2018 | 22        | 11.58%  |
 | 2020 | 18        | 9.47%   |
-| 2019 | 17        | 8.95%   |
-| 2014 | 17        | 8.95%   |
+| 2014 | 18        | 9.47%   |
+| 2019 | 16        | 8.42%   |
 | 2016 | 16        | 8.42%   |
+| 2017 | 14        | 7.37%   |
 | 2012 | 14        | 7.37%   |
 | 2009 | 14        | 7.37%   |
-| 2017 | 13        | 6.84%   |
+| 2011 | 8         | 4.21%   |
 | 2010 | 8         | 4.21%   |
-| 2011 | 7         | 3.68%   |
 | 2015 | 6         | 3.16%   |
 | 2008 | 6         | 3.16%   |
 | 2021 | 2         | 1.05%   |
@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| Goodram             | 2         | 2      | 0.71%   |
+| GOODRAM             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -1056,7 +1056,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| GOODRAM             | 2         | 2      | 1.4%    |
+| Goodram             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -1346,11 +1346,11 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 3         | 1.14%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 3         | 1.14%   |
 | AMD 300 Series Chipset SATA Controller                                         | 3         | 1.14%   |
-| Phison PS5013 E13 NVMe Controller                                              | 2         | 0.76%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 2         | 0.76%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 2         | 0.76%   |
 | Phison E12 NVMe Controller                                                     | 2         | 0.76%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 2         | 0.76%   |
-| Kingston Company A2000 NVMe SSD                                                | 2         | 0.76%   |
+| Kingston Company A2000 NVMe SSD SM2263EN                                       | 2         | 0.76%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                               | 2         | 0.76%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 0.76%   |
 | Intel Comet Lake RAID Controller                                               | 2         | 0.76%   |
@@ -1614,7 +1614,7 @@ Graphics card models
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 2         | 0.92%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                        | 2         | 0.92%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 2         | 0.92%   |
-| AMD Renoir                                                                  | 2         | 0.92%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 2         | 0.92%   |
 | AMD Oland XT [Radeon HD 8670 / R5 340X OEM / R7 250/350/350X OEM]           | 2         | 0.92%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 2         | 0.92%   |
 
@@ -2646,8 +2646,8 @@ Camera device models
 | Suyin HP webcam [dv6-1190en]                         | 1         | 1.11%   |
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.11%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.11%   |
-| Sunplus SPCA2650 AV Camera                           | 1         | 1.11%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.11%   |
+| Sunplus hama C-600 Pro Webcam                        | 1         | 1.11%   |
 | Sunplus Aukey-PC-LM1E Camera                         | 1         | 1.11%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.11%   |
 | Silicon Motion Realtek USB 2.0 PC Camera             | 1         | 1.11%   |

@@ -592,12 +592,12 @@ Motherboard manufacture year
 
 | Year    | Notebooks | Percent |
 |---------|-----------|---------|
-| 2019    | 13        | 9.7%    |
 | 2022    | 12        | 8.96%   |
 | 2020    | 12        | 8.96%   |
+| 2019    | 12        | 8.96%   |
 | 2018    | 12        | 8.96%   |
 | 2012    | 11        | 8.21%   |
-| 2016    | 9         | 6.72%   |
+| 2016    | 10        | 7.46%   |
 | 2013    | 9         | 6.72%   |
 | 2011    | 9         | 6.72%   |
 | 2017    | 8         | 5.97%   |
@@ -1240,7 +1240,7 @@ Storage controller models
 | Nvidia MCP79 AHCI Controller                                                   | 4         | 2.47%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 4         | 2.47%   |
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 4         | 2.47%   |
-| Samsung NVMe SSD Controller 980                                                | 3         | 1.85%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 3         | 1.85%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 3         | 1.85%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                              | 3         | 1.85%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3         | 1.85%   |
@@ -1250,7 +1250,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.23%   |
 | Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 2         | 1.23%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 2         | 1.23%   |
-| Kingston Company unknown                                                       | 2         | 1.23%   |
+| Kingston Company NV2 NVMe SSD SM2267XT                                         | 2         | 1.23%   |
 | Intel SATA Controller [RAID mode]                                              | 2         | 1.23%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.23%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.23%   |
@@ -1265,9 +1265,9 @@ Storage controller models
 | SK hynix BC511 NVMe SSD                                                        | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1         | 0.62%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                 | 1         | 0.62%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1         | 0.62%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.62%   |
-| Phison PS5013 E13 NVMe Controller                                              | 1         | 0.62%   |
+| Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 0.62%   |
 | Phison E18 PCIe4 NVMe Controller                                               | 1         | 0.62%   |
 | Nvidia MCP79 SATA Controller                                                   | 1         | 0.62%   |
 
@@ -1508,9 +1508,9 @@ Graphics card models
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 3         | 1.75%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 3         | 1.75%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                                     | 3         | 1.75%   |
-| Intel Alder Lake-P Integrated Graphics Controller                                        | 3         | 1.75%   |
-| AMD Renoir                                                                               | 3         | 1.75%   |
-| Nvidia TU117M                                                                            | 2         | 1.17%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                                                | 3         | 1.75%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 3         | 1.75%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 2         | 1.17%   |
 | Nvidia GM206GLM [Quadro M2200 Mobile]                                                    | 2         | 1.17%   |
 | Nvidia GM107GLM [Quadro M2000M]                                                          | 2         | 1.17%   |
 | Nvidia GA106M [GeForce RTX 3060 Mobile / Max-Q]                                          | 2         | 1.17%   |
@@ -1628,7 +1628,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC4149 1366x768 280x170mm 12.9-inch  | 2         | 2.41%   |
 | LG Display LCD Monitor LGD0484 1366x768 340x190mm 15.3-inch           | 2         | 2.41%   |
-| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 2         | 2.41%   |
+| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 2         | 2.41%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch      | 2         | 2.41%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 340x190mm 15.3-inch       | 2         | 2.41%   |
 | AU Optronics LCD Monitor AUO71EC 1366x768 340x190mm 15.3-inch         | 2         | 2.41%   |
@@ -2142,8 +2142,8 @@ Controller models
 | Lite-On Qualcomm Atheros QCA9377 Bluetooth                  | 1         | 0.96%   |
 | Lite-On Atheros AR3012 Bluetooth                            | 1         | 0.96%   |
 | Intel Wireless-AC 9260 Bluetooth Adapter                    | 1         | 0.96%   |
-| Intel Wireless Bluetooth                                    | 1         | 0.96%   |
 | Intel Centrino Bluetooth Wireless Transceiver               | 1         | 0.96%   |
+| Intel AX211 Bluetooth                                       | 1         | 0.96%   |
 | IMC Networks Realtek Bluetooth Adapter                      | 1         | 0.96%   |
 | IMC Networks Atheros AR3012 Bluetooth 4.0 Adapter           | 1         | 0.96%   |
 | IMC Networks Asus Integrated Bluetooth module [AR3011]      | 1         | 0.96%   |

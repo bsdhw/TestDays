@@ -1153,10 +1153,10 @@ Storage controller models
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 12        | 10.71%  |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                     | 9         | 8.04%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 9         | 8.04%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 6.25%   |
 | AMD FCH SATA Controller [AHCI mode]                                            | 7         | 6.25%   |
-| Samsung NVMe SSD Controller 980                                                | 5         | 4.46%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 5         | 4.46%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 5         | 4.46%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                           | 5         | 4.46%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 4         | 3.57%   |
@@ -1177,8 +1177,8 @@ Storage controller models
 | Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.89%   |
 | SK hynix PC300 NVMe Solid State Drive 512GB                                    | 1         | 0.89%   |
 | Shenzhen Unionmemory Information System AM630 PCIe 4.0 NVMe SSD 1024GB         | 1         | 0.89%   |
-| SanDisk WD Black 2018/SN750 / PC SN720 NVMe SSD                                | 1         | 0.89%   |
 | SanDisk PC SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.89%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1         | 0.89%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 0.89%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.89%   |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                           | 1         | 0.89%   |
@@ -1188,8 +1188,8 @@ Storage controller models
 | Micron 2200S NVMe SSD [Cassandra]                                              | 1         | 0.89%   |
 | MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                   | 1         | 0.89%   |
 | KIOXIA NVMe SSD Controller BG5 (DRAM-less)                                     | 1         | 0.89%   |
-| Kingston Company U-SNS8154P3 NVMe SSD                                          | 1         | 0.89%   |
 | Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                  | 1         | 0.89%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                 | 1         | 0.89%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 0.89%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 1         | 0.89%   |
 
@@ -1398,12 +1398,12 @@ Graphics card models
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                            | 7         | 6.8%    |
-| AMD Renoir                                                           | 7         | 6.8%    |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]        | 7         | 6.8%    |
 | Intel CometLake-U GT2 [UHD Graphics]                                 | 6         | 5.83%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 6         | 5.83%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                 | 5         | 4.85%   |
 | Intel 3rd Gen Core processor Graphics Controller                     | 5         | 4.85%   |
-| Nvidia TU117M                                                        | 4         | 3.88%   |
+| Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                      | 4         | 3.88%   |
 | Intel HD Graphics 620                                                | 4         | 3.88%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                            | 3         | 2.91%   |
 | AMD Thames [Radeon HD 7550M/7570M/7650M]                             | 3         | 2.91%   |
@@ -1414,7 +1414,7 @@ Graphics card models
 | Intel UHD Graphics 620                                               | 2         | 1.94%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                 | 2         | 1.94%   |
 | Intel HD Graphics 630                                                | 2         | 1.94%   |
-| Intel Alder Lake-P Integrated Graphics Controller                    | 2         | 1.94%   |
+| Intel Alder Lake-P GT2 [Iris Xe Graphics]                            | 2         | 1.94%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller          | 2         | 1.94%   |
 | AMD VanGogh [AMD Custom GPU 0405]                                    | 2         | 1.94%   |
 | AMD Lucienne                                                         | 2         | 1.94%   |
@@ -1855,7 +1855,7 @@ Wireless models
 | Edimax EW-7711MAC 802.11ac Wireless Adapter                                | 1         | 1.06%   |
 | BUFFALO WLI-UC-GNM2 Wireless LAN Adapter [Ralink RT3070]                   | 1         | 1.06%   |
 | Broadcom BCM43602 802.11ac Wireless LAN SoC                                | 1         | 1.06%   |
-| Broadcom BCM4360 802.11ac Wireless Network Adapter                         | 1         | 1.06%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter               | 1         | 1.06%   |
 | Broadcom BCM4331 802.11a/b/g/n                                             | 1         | 1.06%   |
 | Broadcom BCM43224 802.11a/b/g/n                                            | 1         | 1.06%   |
 | Broadcom BCM4313 802.11bgn Wireless Network Adapter                        | 1         | 1.06%   |
@@ -2015,8 +2015,8 @@ Controller models
 | IMC Networks Realtek Bluetooth Adapter         | 2         | 3.28%   |
 | Skylight Digital Realtek Bluetooth Adapter     | 1         | 1.64%   |
 | Opticis Realtek Bluetooth Adapter              | 1         | 1.64%   |
-| Intel Wireless Bluetooth                       | 1         | 1.64%   |
 | Intel Centrino Bluetooth Wireless Transceiver  | 1         | 1.64%   |
+| Intel AX211 Bluetooth                          | 1         | 1.64%   |
 | IMC Networks MediaTek Bluetooth Adapter        | 1         | 1.64%   |
 | IMC Networks Bluetooth module                  | 1         | 1.64%   |
 | Broadcom BCM20702 Bluetooth 4.0 [ThinkPad]     | 1         | 1.64%   |
@@ -2123,7 +2123,7 @@ Memory module vendors
 | Team                | 1         | 1.12%   |
 | PNY                 | 1         | 1.12%   |
 | Neo Forza           | 1         | 1.12%   |
-| Goodram             | 1         | 1.12%   |
+| GOODRAM             | 1         | 1.12%   |
 | Gold Key            | 1         | 1.12%   |
 | G.Skill             | 1         | 1.12%   |
 | Elpida              | 1         | 1.12%   |
@@ -2152,7 +2152,7 @@ Memory module models
 | Crucial RAM BL32G32C16S4B.M16FB1 32GB SODIMM DDR4 2667MT/s     | 2         | 2.22%   |
 | Unknown RAM Module 4GB SODIMM DDR4 2667MT/s                    | 1         | 1.11%   |
 | Unknown RAM Module 1GB SODIMM DDR                              | 1         | 1.11%   |
-| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 1.11%   |
+| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s          | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 1.11%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                   | 1         | 1.11%   |
@@ -2341,7 +2341,7 @@ Camera device models
 | Apple FaceTime HD Camera (Built-in)                                        | 2         | 2.86%   |
 | Syntek Lenovo EasyCamera                                                   | 1         | 1.43%   |
 | Syntek Integrated Camera                                                   | 1         | 1.43%   |
-| Sunplus SPCA2650 AV Camera                                                 | 1         | 1.43%   |
+| Sunplus hama C-600 Pro Webcam                                              | 1         | 1.43%   |
 | Shenzhen Kingcome Optoelectronic XiaoMi USB 2.0 Webcam                     | 1         | 1.43%   |
 | Shenzhen Kingcome Optoelectronic 720p HD Camera                            | 1         | 1.43%   |
 | Realtek USB 2.0 PC Camera                                                  | 1         | 1.43%   |

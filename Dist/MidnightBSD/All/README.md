@@ -931,7 +931,7 @@ Storage controller models
 | AMD 400 Series Chipset SATA Controller                                        | 4         | 8.89%   |
 | Intel Optane SSD 900P Series                                                  | 3         | 6.67%   |
 | AMD 500 Series Chipset SATA Controller                                        | 3         | 6.67%   |
-| SanDisk WD Black SN750 / PC SN730 NVMe SSD                                    | 2         | 4.44%   |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 2         | 4.44%   |
 | Realtek RTS5763DL x2 NVMe SSD Controller                                      | 2         | 4.44%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                    | 2         | 4.44%   |
 | Intel 500 Series Chipset Family SATA AHCI Controller                          | 2         | 4.44%   |
@@ -939,8 +939,8 @@ Storage controller models
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 2.22%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                          | 1         | 2.22%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller              | 1         | 2.22%   |
-| SanDisk WD Blue SN550 NVMe SSD                                                | 1         | 2.22%   |
 | Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD       | 1         | 2.22%   |
+| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                     | 1         | 2.22%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1         | 2.22%   |
 | Micron 3400 NVMe SSD [Hendrix]                                                | 1         | 2.22%   |
 | Lenovo LENSE30512GMSP34MEAT3TA                                                | 1         | 2.22%   |
