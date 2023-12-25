@@ -748,10 +748,10 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 27        | 10.63%  |
+| 2019    | 26        | 10.24%  |
+| 2022    | 24        | 9.45%   |
 | 2020    | 24        | 9.45%   |
 | 2018    | 24        | 9.45%   |
-| 2022    | 23        | 9.06%   |
 | 2013    | 20        | 7.87%   |
 | 2012    | 19        | 7.48%   |
 | 2021    | 17        | 6.69%   |
@@ -1225,12 +1225,12 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 171       | 230    | 70.95%  |
-| 0.51-1.0   | 47        | 54     | 19.5%   |
-| 1.01-2.0   | 15        | 20     | 6.22%   |
-| 3.01-4.0   | 4         | 5      | 1.66%   |
-| 2.01-3.0   | 2         | 8      | 0.83%   |
+| 0.01-0.5   | 171       | 229    | 70.66%  |
+| 0.51-1.0   | 48        | 55     | 19.83%  |
+| 1.01-2.0   | 16        | 26     | 6.61%   |
+| 3.01-4.0   | 4         | 5      | 1.65%   |
 | 4.01-10.0  | 2         | 2      | 0.83%   |
+| 2.01-3.0   | 1         | 2      | 0.41%   |
 
 Space Total
 -----------
@@ -1391,7 +1391,7 @@ Failed drive models
 | Model                           | Computers | Drives | Percent |
 |---------------------------------|-----------|--------|---------|
 | Seagate ST3250310AS 250GB       | 1         | 1      | 33.33%  |
-| SanDisk pSSD 256GB              | 1         | 1      | 33.33%  |
+| SanDisk pSSD 16GB               | 1         | 1      | 33.33%  |
 | Samsung Electronics HD103SJ 1TB | 1         | 1      | 33.33%  |
 
 Failed Drive Vendor
@@ -1439,7 +1439,7 @@ Storage controller vendors
 | Intel                            | 183       | 57.55%  |
 | AMD                              | 43        | 13.52%  |
 | Samsung Electronics              | 22        | 6.92%   |
-| SanDisk                          | 10        | 3.14%   |
+| Sandisk                          | 10        | 3.14%   |
 | Kingston Technology Company      | 8         | 2.52%   |
 | Nvidia                           | 6         | 1.89%   |
 | JMicron Technology               | 6         | 1.89%   |
@@ -2357,7 +2357,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                                          | 1         | 0.44%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                       | 1         | 0.44%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1         | 0.44%   |
-| OPPO CPH1909 RNDIS Control RNDIS Ethernet Data                                 | 1         | 0.44%   |
+| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                                  | 1         | 0.44%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 0.44%   |
 
 Net Controller Kind
@@ -2745,7 +2745,7 @@ Memory module speed
 | 1333    | 35        | 12.87%  |
 | 2400    | 34        | 12.5%   |
 | 3200    | 31        | 11.4%   |
-| 2667    | 27        | 9.93%   |
+| 2667    | 26        | 9.56%   |
 | 2133    | 21        | 7.72%   |
 | 800     | 11        | 4.04%   |
 | Unknown | 9         | 3.31%   |
@@ -2754,8 +2754,8 @@ Memory module speed
 | 2666    | 5         | 1.84%   |
 | 1867    | 5         | 1.84%   |
 | 1067    | 5         | 1.84%   |
+| 2933    | 3         | 1.1%    |
 | 1066    | 3         | 1.1%    |
-| 2933    | 2         | 0.74%   |
 | 2048    | 2         | 0.74%   |
 | 1866    | 2         | 0.74%   |
 | 4800    | 1         | 0.37%   |

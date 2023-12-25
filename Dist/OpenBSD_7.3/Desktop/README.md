@@ -649,7 +649,7 @@ Hard drive models
 |--------------------------------|----------|---------|
 | Intel SSDSC2BW480H6 480GB      | 4        | 8.51%   |
 | Samsung SSD 840 EVO 250GB      | 2        | 4.26%   |
-| NVMe Samsung SSD 980 500GB     | 2        | 4.26%   |
+| NVMe Samsung SSD 980 1TB       | 2        | 4.26%   |
 | WDC WD5000AZLX-00K2TA0 500GB   | 1        | 2.13%   |
 | WDC WD3201ABYS-01B9A0 320GB    | 1        | 2.13%   |
 | WDC WD20PURX-64P6ZY0 2TB       | 1        | 2.13%   |
@@ -764,8 +764,9 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 27       | 46     | 84.38%  |
+| 0.01-0.5   | 25       | 44     | 78.13%  |
 | 1.01-2.0   | 4        | 13     | 12.5%   |
+| 0.51-1.0   | 2        | 2      | 6.25%   |
 | 4.01-10.0  | 1        | 1      | 3.13%   |
 
 Space Total
@@ -1724,7 +1725,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR2 667MT/s              | 1        | 11.11%  |
 | Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s  | 1        | 11.11%  |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 2400MT/s | 1        | 11.11%  |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s | 1        | 11.11%  |
 | Kingston RAM 9905316-005.A04LF 1GB DIMM DDR2 667MT/s  | 1        | 11.11%  |
 
 Memory Kind
@@ -1781,9 +1782,10 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 2400    | 3        | 33.33%  |
+| 2400    | 2        | 22.22%  |
 | 667     | 2        | 22.22%  |
 | Unknown | 2        | 22.22%  |
+| 3000    | 1        | 11.11%  |
 | 1332    | 1        | 11.11%  |
 | 800     | 1        | 11.11%  |
 

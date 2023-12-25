@@ -1029,7 +1029,7 @@ Storage controller vendors
 | Intel                       | 17       | 21.52%  |
 | Samsung Electronics         | 8        | 10.13%  |
 | Silicon Motion              | 6        | 7.59%   |
-| SanDisk                     | 5        | 6.33%   |
+| Sandisk                     | 5        | 6.33%   |
 | Kingston Technology Company | 4        | 5.06%   |
 | SK hynix                    | 2        | 2.53%   |
 | Phison Electronics          | 2        | 2.53%   |
@@ -2001,7 +2001,7 @@ Memory module models
 | Kingston RAM 99P5700-016.A00G 16GB SODIMM DDR4 3200MT/s                | 1        | 1.92%   |
 | Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s                  | 1        | 1.92%   |
 | Kingston RAM 9965745-017.A00G 16GB DIMM DDR4 3200MT/s                  | 1        | 1.92%   |
-| Kingston RAM 9905713-030.A00G 8GB DIMM DDR4 2666MT/s                   | 1        | 1.92%   |
+| Kingston RAM 9905713-030.A00G 8GB DIMM DDR4 2933MT/s                   | 1        | 1.92%   |
 | Golden Empire RAM D4U0830160B 8GB DIMM DDR4 2400MT/s                   | 1        | 1.92%   |
 | G.Skill RAM F4-3200C16-8GVGB 8GB DIMM DDR4 3200MT/s                    | 1        | 1.92%   |
 | G.Skill RAM F4-3200C16-32GTZN 32GB DIMM DDR4 3200MT/s                  | 1        | 1.92%   |
@@ -2062,15 +2062,15 @@ Memory module speed
 |-------|----------|---------|
 | 3200  | 17       | 36.96%  |
 | 2667  | 7        | 15.22%  |
-| 2666  | 5        | 10.87%  |
+| 2666  | 4        | 8.7%    |
 | 2400  | 4        | 8.7%    |
 | 2133  | 3        | 6.52%   |
 | 3600  | 2        | 4.35%   |
+| 2933  | 2        | 4.35%   |
 | 5200  | 1        | 2.17%   |
 | 4800  | 1        | 2.17%   |
 | 4133  | 1        | 2.17%   |
 | 3000  | 1        | 2.17%   |
-| 2933  | 1        | 2.17%   |
 | 1866  | 1        | 2.17%   |
 | 1600  | 1        | 2.17%   |
 | 1333  | 1        | 2.17%   |

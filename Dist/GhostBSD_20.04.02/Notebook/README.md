@@ -1379,10 +1379,10 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Philips PHL BDM4065 PHL08E1 3840x2160 880x490mm 39.7-inch            | 1         | 1.89%   |
 | PANDA LCD Monitor NCP0040 1920x1080 340x190mm 15.3-inch              | 1         | 1.89%   |
-| Panasonic VVX13F009G00 MEI96A2 1920x1080 290x170mm 13.2-inch         | 1         | 1.89%   |
+| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 1         | 1.89%   |
 | LG Display LCD Monitor LGD0558 1920x1080 310x170mm 13.9-inch         | 1         | 1.89%   |
 | LG Display LCD Monitor LGD0533 1920x1080 340x190mm 15.3-inch         | 1         | 1.89%   |
 | LG Display LCD Monitor LGD0430 1366x768 350x190mm 15.7-inch          | 1         | 1.89%   |
@@ -1420,10 +1420,9 @@ Monitor screen resolution
 | 1366x768 (WXGA)    | 25        | 48.08%  |
 | 1920x1080 (FHD)    | 13        | 25%     |
 | 1600x900 (HD+)     | 7         | 13.46%  |
-| 3840x2160 (4K)     | 2         | 3.85%   |
+| 3840x2160 (4K)     | 3         | 5.77%   |
 | 1680x1050 (WSXGA+) | 2         | 3.85%   |
 | 3840x1600          | 1         | 1.92%   |
-| 2880x1620          | 1         | 1.92%   |
 | 1280x1024 (SXGA)   | 1         | 1.92%   |
 
 Monitor Diagonal
@@ -1436,9 +1435,9 @@ Diagonal size in inches
 
 | Inches  | Notebooks | Percent |
 |---------|-----------|---------|
-| 15      | 26        | 49.06%  |
+| 15      | 25        | 47.17%  |
 | 13      | 13        | 24.53%  |
-| 17      | 4         | 7.55%   |
+| 17      | 5         | 9.43%   |
 | 12      | 3         | 5.66%   |
 | 39      | 1         | 1.89%   |
 | 37      | 1         | 1.89%   |
@@ -1458,9 +1457,9 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 38        | 73.08%  |
+| 301-350     | 37        | 71.15%  |
 | 201-300     | 5         | 9.62%   |
-| 351-400     | 3         | 5.77%   |
+| 351-400     | 4         | 7.69%   |
 | 801-900     | 2         | 3.85%   |
 | 401-500     | 2         | 3.85%   |
 | 501-600     | 1         | 1.92%   |
@@ -1491,11 +1490,11 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 91-100         | 23        | 43.4%   |
+| 91-100         | 22        | 41.51%  |
 | 81-90          | 13        | 24.53%  |
+| 121-130        | 4         | 7.55%   |
 | 61-70          | 3         | 5.66%   |
 | 201-250        | 3         | 5.66%   |
-| 121-130        | 3         | 5.66%   |
 | 101-110        | 3         | 5.66%   |
 | 501-1000       | 2         | 3.77%   |
 | 71-80          | 1         | 1.89%   |
@@ -1515,8 +1514,8 @@ Pixels per inch
 | 101-120       | 25        | 49.02%  |
 | 121-160       | 16        | 31.37%  |
 | 51-100        | 5         | 9.8%    |
-| 161-240       | 3         | 5.88%   |
-| More than 240 | 1         | 1.96%   |
+| More than 240 | 2         | 3.92%   |
+| 161-240       | 2         | 3.92%   |
 | Unknown       | 1         | 1.96%   |
 
 Multiple Monitors
@@ -1932,7 +1931,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 4         | 5.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 4         | 5.13%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 3.85%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s                 | 2         | 2.56%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |

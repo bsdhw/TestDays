@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 256GB                        | 2         | 3.39%   |
+| SanDisk pSSD 16GB                         | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |
@@ -1982,7 +1982,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s              | 1         | 1.64%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2069,7 +2069,7 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 17        | 32.08%  |
 | 2400    | 7         | 13.21%  |
-| 2667    | 6         | 11.32%  |
+| 2667    | 5         | 9.43%   |
 | 800     | 4         | 7.55%   |
 | 1333    | 3         | 5.66%   |
 | Unknown | 3         | 5.66%   |
@@ -2078,6 +2078,7 @@ Memory module speed
 | 1066    | 2         | 3.77%   |
 | 667     | 2         | 3.77%   |
 | 3600    | 1         | 1.89%   |
+| 2933    | 1         | 1.89%   |
 | 2133    | 1         | 1.89%   |
 | 1334    | 1         | 1.89%   |
 | 1067    | 1         | 1.89%   |

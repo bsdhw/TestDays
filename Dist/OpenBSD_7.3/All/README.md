@@ -812,7 +812,7 @@ Hard drive models
 | SanDisk SSD PLUS 120GB              | 2         | 1.87%   |
 | SanDisk Extreme SSD 500GB           | 2         | 1.87%   |
 | Samsung SSD 840 EVO 250GB           | 2         | 1.87%   |
-| NVMe Samsung SSD 980 500GB          | 2         | 1.87%   |
+| NVMe Samsung SSD 980 1TB            | 2         | 1.87%   |
 | NVMe SAMSUNG MZVLW256 256GB         | 2         | 1.87%   |
 | Kingston SA400S37480G 480GB         | 2         | 1.87%   |
 | Intenso SSD 256GB                   | 2         | 1.87%   |
@@ -939,8 +939,8 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 65        | 90     | 77.38%  |
-| 0.51-1.0        | 10        | 11     | 11.9%   |
+| 0.01-0.5        | 63        | 88     | 75%     |
+| 0.51-1.0        | 12        | 13     | 14.29%  |
 | 1.01-2.0        | 7         | 17     | 8.33%   |
 | More than 100.0 | 1         | 1      | 1.19%   |
 | 4.01-10.0       | 1         | 1      | 1.19%   |
@@ -2143,14 +2143,14 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s    | 1         | 2.38%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s   | 1         | 2.38%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s   | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s        | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 2.38%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s   | 1         | 2.38%   |
 | Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s    | 1         | 2.38%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1         | 2.38%   |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 2400MT/s   | 1         | 2.38%   |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s   | 1         | 2.38%   |
 | Kingston RAM 9905316-005.A04LF 1GB DIMM DDR2 667MT/s    | 1         | 2.38%   |
 | HP RAM 809083-091 32GB DIMM DDR4 2400MT/s               | 1         | 2.38%   |
 | A-DATA RAM AM1L16BC4R1-B1PS 4GB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
@@ -2217,12 +2217,13 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 6         | 15.79%  |
 | Unknown | 6         | 15.79%  |
-| 2400    | 4         | 10.53%  |
 | 1334    | 4         | 10.53%  |
 | 1333    | 4         | 10.53%  |
+| 2400    | 3         | 7.89%   |
 | 1067    | 3         | 7.89%   |
 | 667     | 3         | 7.89%   |
 | 3200    | 1         | 2.63%   |
+| 3000    | 1         | 2.63%   |
 | 2667    | 1         | 2.63%   |
 | 2133    | 1         | 2.63%   |
 | 1867    | 1         | 2.63%   |

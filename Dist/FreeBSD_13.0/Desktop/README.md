@@ -536,10 +536,10 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2018    | 10       | 12.82%  |
-| 2019    | 9        | 11.54%  |
+| 2018    | 11       | 14.1%   |
 | 2020    | 8        | 10.26%  |
 | 2021    | 7        | 8.97%   |
+| 2019    | 6        | 7.69%   |
 | 2015    | 5        | 6.41%   |
 | 2013    | 5        | 6.41%   |
 | 2012    | 5        | 6.41%   |
@@ -548,6 +548,7 @@ Motherboard manufacture year
 | 2017    | 4        | 5.13%   |
 | 2016    | 4        | 5.13%   |
 | 2014    | 3        | 3.85%   |
+| 2022    | 2        | 2.56%   |
 | 2010    | 2        | 2.56%   |
 | 2009    | 2        | 2.56%   |
 | 2006    | 2        | 2.56%   |
@@ -1582,11 +1583,11 @@ Monitor models
 | Hewlett-Packard Z24nf HWP3209 1920x1080 530x300mm 24.0-inch           | 1        | 1.92%   |
 | Goldstar W2246 GSM5784 1920x1080 480x270mm 21.7-inch                  | 1        | 1.92%   |
 | Goldstar W2052 GSM4E88 1680x1050 470x300mm 22.0-inch                  | 1        | 1.92%   |
+| Goldstar LG ULTRAGEAR GSM5B7F 2560x1440 600x340mm 27.2-inch           | 1        | 1.92%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch            | 1        | 1.92%   |
 | Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch            | 1        | 1.92%   |
 | Goldstar LG TV GSMC0A0 3840x2160                                      | 1        | 1.92%   |
 | Goldstar LG FULL HD GSM5B54 1920x1080 480x270mm 21.7-inch             | 1        | 1.92%   |
-| Goldstar 27GL850 GSM5B7F 2560x1440 600x340mm 27.2-inch                | 1        | 1.92%   |
 | Goldstar 22EA53 GSM59A4 1920x1080 480x270mm 21.7-inch                 | 1        | 1.92%   |
 | Eizo CS2420 ENC2741 1920x1200 520x330mm 24.2-inch                     | 1        | 1.92%   |
 | Dell U3011 DEL4064 1920x1200 640x400mm 29.7-inch                      | 1        | 1.92%   |
@@ -2178,7 +2179,7 @@ Memory module models
 | Micron RAM 16HTF12864AY-53ED4 1GB DIMM DDR 533MT/s      | 1        | 1.22%   |
 | Kreton RAM 51624xxxx68x45xxxx 2GB DIMM DDR2 800MT/s     | 1        | 1.22%   |
 | Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 2400MT/s  | 1        | 1.22%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.22%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s       | 1        | 1.22%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s     | 1        | 1.22%   |
 | Kingston RAM KHX16LC9/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
 
@@ -2246,10 +2247,10 @@ Memory module speed
 | 800     | 7        | 9.21%   |
 | 2133    | 6        | 7.89%   |
 | 3000    | 5        | 6.58%   |
-| 2667    | 4        | 5.26%   |
+| 2667    | 3        | 3.95%   |
+| 2933    | 2        | 2.63%   |
 | 400     | 2        | 2.63%   |
 | 3600    | 1        | 1.32%   |
-| 2933    | 1        | 1.32%   |
 | 2666    | 1        | 1.32%   |
 | 1332    | 1        | 1.32%   |
 | 1067    | 1        | 1.32%   |

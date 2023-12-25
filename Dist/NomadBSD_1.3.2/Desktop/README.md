@@ -1474,7 +1474,7 @@ Memory module models
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
 | Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 6.25%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s         | 1        | 6.25%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s         | 1        | 6.25%   |
 | Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
 | G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s    | 1        | 6.25%   |
 | G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s     | 1        | 6.25%   |
@@ -1540,7 +1540,7 @@ Memory module speed
 | 1333  | 2        | 13.33%  |
 | 1066  | 2        | 13.33%  |
 | 3600  | 1        | 6.67%   |
-| 2667  | 1        | 6.67%   |
+| 2933  | 1        | 6.67%   |
 | 1600  | 1        | 6.67%   |
 | 667   | 1        | 6.67%   |
 | 533   | 1        | 6.67%   |

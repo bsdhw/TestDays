@@ -2418,7 +2418,7 @@ Memory module vendors
 | Smart                        | 3         | 2.05%   |
 | Ramaxel Technology           | 3         | 2.05%   |
 | Team                         | 2         | 1.37%   |
-| GOODRAM                      | 2         | 1.37%   |
+| Goodram                      | 2         | 1.37%   |
 | A-DATA Technology            | 2         | 1.37%   |
 | Unknown (000000000C01)       | 1         | 0.68%   |
 | Transcend                    | 1         | 0.68%   |
@@ -2463,7 +2463,7 @@ Memory module models
 | Unknown (000000000C01) RAM Module 32GB DIMM DDR4 3200MT/s      | 1         | 0.66%   |
 | Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s            | 1         | 0.66%   |
 | Team RAM TEAMGROUP-UD4-4133 8GB DIMM DDR4 4133MT/s             | 1         | 0.66%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s          | 1         | 0.66%   |
+| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 0.66%   |
 | Smart RAM Module 8GB DIMM DDR4 2667MT/s                        | 1         | 0.66%   |
@@ -2550,10 +2550,10 @@ Memory module speed
 | 1600    | 9         | 6.72%   |
 | 2133    | 6         | 4.48%   |
 | 1867    | 6         | 4.48%   |
-| 2666    | 5         | 3.73%   |
+| 2933    | 4         | 2.99%   |
+| 2666    | 4         | 2.99%   |
 | 4800    | 3         | 2.24%   |
 | 4267    | 3         | 2.24%   |
-| 2933    | 3         | 2.24%   |
 | 4266    | 2         | 1.49%   |
 | 3600    | 2         | 1.49%   |
 | 1333    | 2         | 1.49%   |

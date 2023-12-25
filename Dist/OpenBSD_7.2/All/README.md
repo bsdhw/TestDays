@@ -541,12 +541,12 @@ Motherboard manufacture year
 | 2019    | 7         | 7.37%   |
 | 2012    | 6         | 6.32%   |
 | 2010    | 6         | 6.32%   |
-| 2015    | 5         | 5.26%   |
 | 2020    | 4         | 4.21%   |
+| 2015    | 4         | 4.21%   |
+| 2014    | 4         | 4.21%   |
 | 2013    | 4         | 4.21%   |
 | 2011    | 4         | 4.21%   |
 | 2016    | 3         | 3.16%   |
-| 2014    | 3         | 3.16%   |
 | 2006    | 3         | 3.16%   |
 | Unknown | 3         | 3.16%   |
 | 2023    | 2         | 2.11%   |
@@ -838,7 +838,7 @@ Hard drive models
 
 | Model                           | Computers | Percent |
 |---------------------------------|-----------|---------|
-| NVMe Samsung SSD 980 500GB      | 8         | 5.63%   |
+| NVMe Samsung SSD 980 1TB        | 8         | 5.63%   |
 | OPENBSD SR RAID 1 2TB           | 4         | 2.82%   |
 | Samsung SSD 860 EVO M.2 1TB     | 2         | 1.41%   |
 | Samsung SSD 860 EVO 1TB         | 2         | 1.41%   |
@@ -972,11 +972,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 58        | 74     | 50.43%  |
-| 0.51-1.0   | 35        | 40     | 30.43%  |
-| 1.01-2.0   | 13        | 35     | 11.3%   |
-| 4.01-10.0  | 5         | 13     | 4.35%   |
-| 3.01-4.0   | 4         | 6      | 3.48%   |
+| 0.01-0.5   | 52        | 64     | 44.44%  |
+| 0.51-1.0   | 43        | 50     | 36.75%  |
+| 1.01-2.0   | 13        | 35     | 11.11%  |
+| 4.01-10.0  | 5         | 13     | 4.27%   |
+| 3.01-4.0   | 4         | 6      | 3.42%   |
 
 Space Total
 -----------
@@ -1131,7 +1131,7 @@ Storage controller vendors
 | Intel                     | 56        | 47.06%  |
 | Samsung Electronics       | 18        | 15.13%  |
 | AMD                       | 15        | 12.61%  |
-| SanDisk                   | 7         | 5.88%   |
+| Sandisk                   | 7         | 5.88%   |
 | Broadcom / LSI            | 5         | 4.2%    |
 | Micron/Crucial Technology | 3         | 2.52%   |
 | Marvell Technology Group  | 3         | 2.52%   |
@@ -2218,7 +2218,7 @@ Memory module models
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1         | 4%      |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1         | 4%      |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 2400MT/s  | 1         | 4%      |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s  | 1         | 4%      |
 | Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s  | 1         | 4%      |
 | Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
 | Corsair RAM CMK64GX5M2B5200C40 32GB DIMM DDR5 4800MT/s | 1         | 4%      |
@@ -2287,10 +2287,11 @@ Memory module speed
 | 1334    | 3         | 14.29%  |
 | 1067    | 3         | 14.29%  |
 | Unknown | 3         | 14.29%  |
-| 2400    | 2         | 9.52%   |
 | 1600    | 2         | 9.52%   |
 | 1333    | 2         | 9.52%   |
 | 4800    | 1         | 4.76%   |
+| 3000    | 1         | 4.76%   |
+| 2400    | 1         | 4.76%   |
 | 2133    | 1         | 4.76%   |
 | 1867    | 1         | 4.76%   |
 

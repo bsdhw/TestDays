@@ -375,7 +375,7 @@ Motherboard model
 
 | Name                             | Desktops | Percent |
 |----------------------------------|----------|---------|
-| ASUS TUF GAMING B450M-PLUS II    | 3        | 21.43%  |
+| ASUS TUF Gaming B450M-PLUS II    | 3        | 21.43%  |
 | ASRock B550M Steel Legend        | 2        | 14.29%  |
 | Supermicro X9SCL/X9SCM           | 1        | 7.14%   |
 | HP Z420 Workstation              | 1        | 7.14%   |
@@ -418,9 +418,9 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2019 | 3        | 21.43%  |
 | 2018 | 3        | 21.43%  |
-| 2021 | 2        | 14.29%  |
+| 2020 | 2        | 14.29%  |
 | 2023 | 1        | 7.14%   |
-| 2020 | 1        | 7.14%   |
+| 2021 | 1        | 7.14%   |
 | 2017 | 1        | 7.14%   |
 | 2013 | 1        | 7.14%   |
 | 2011 | 1        | 7.14%   |

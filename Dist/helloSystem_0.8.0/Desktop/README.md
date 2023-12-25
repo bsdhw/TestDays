@@ -524,17 +524,17 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 12       | 11.88%  |
 | 2018 | 12       | 11.88%  |
+| 2019 | 11       | 10.89%  |
 | 2013 | 10       | 9.9%    |
 | 2020 | 8        | 7.92%   |
 | 2012 | 8        | 7.92%   |
+| 2022 | 7        | 6.93%   |
 | 2021 | 7        | 6.93%   |
 | 2015 | 7        | 6.93%   |
 | 2014 | 7        | 6.93%   |
 | 2011 | 7        | 6.93%   |
 | 2010 | 7        | 6.93%   |
-| 2022 | 6        | 5.94%   |
 | 2008 | 4        | 3.96%   |
 | 2009 | 3        | 2.97%   |
 | 2016 | 2        | 1.98%   |
@@ -962,10 +962,10 @@ Size of hard drive
 |------------|----------|--------|---------|
 | 0.01-0.5   | 78       | 117    | 62.4%   |
 | 0.51-1.0   | 26       | 32     | 20.8%   |
-| 1.01-2.0   | 14       | 19     | 11.2%   |
+| 1.01-2.0   | 15       | 25     | 12%     |
 | 3.01-4.0   | 3        | 4      | 2.4%    |
-| 2.01-3.0   | 2        | 8      | 1.6%    |
 | 4.01-10.0  | 2        | 2      | 1.6%    |
+| 2.01-3.0   | 1        | 2      | 0.8%    |
 
 Space Total
 -----------
@@ -1826,7 +1826,7 @@ Controller models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.7%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 0.7%    |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.7%    |
-| OPPO CPH1909 RNDIS Control RNDIS Ethernet Data                    | 1        | 0.7%    |
+| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                     | 1        | 0.7%    |
 | Intel Wireless 8260                                               | 1        | 0.7%    |
 
 Wireless Vendor
@@ -1935,7 +1935,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.95%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 0.95%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.95%   |
-| OPPO CPH1909 RNDIS Control RNDIS Ethernet Data                    | 1        | 0.95%   |
+| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                     | 1        | 0.95%   |
 | Intel Ethernet Connection (7) I219-LM                             | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I219-V                              | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I218-V                              | 1        | 0.95%   |
@@ -2272,13 +2272,13 @@ Memory module speed
 | 1600    | 18       | 16.98%  |
 | 3200    | 13       | 12.26%  |
 | 2400    | 10       | 9.43%   |
-| 2667    | 8        | 7.55%   |
 | 800     | 8        | 7.55%   |
+| 2667    | 7        | 6.6%    |
 | 2133    | 7        | 6.6%    |
 | 2666    | 5        | 4.72%   |
 | Unknown | 4        | 3.77%   |
+| 2933    | 3        | 2.83%   |
 | 667     | 3        | 2.83%   |
-| 2933    | 2        | 1.89%   |
 | 1866    | 2        | 1.89%   |
 | 1066    | 2        | 1.89%   |
 | 3000    | 1        | 0.94%   |

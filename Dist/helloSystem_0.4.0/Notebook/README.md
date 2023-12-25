@@ -1481,7 +1481,7 @@ Monitor models
 | Sharp LCD Monitor SHP1453 1920x1080 350x190mm 15.7-inch               | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch  | 1         | 1.32%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch  | 1         | 1.32%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 1.32%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch               | 1         | 1.32%   |
 | PANDA LM156LF1L03 NCP001C 1920x1080 340x190mm 15.3-inch               | 1         | 1.32%   |
@@ -2060,7 +2060,7 @@ Memory module models
 | SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s      | 2         | 1.6%    |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s      | 2         | 1.6%    |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s      | 2         | 1.6%    |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s      | 2         | 1.6%    |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
@@ -2154,12 +2154,12 @@ Memory module speed
 | 1600    | 33        | 30.56%  |
 | 2400    | 15        | 13.89%  |
 | 1333    | 12        | 11.11%  |
-| 2133    | 8         | 7.41%   |
 | 667     | 8         | 7.41%   |
+| 2667    | 7         | 6.48%   |
 | 1334    | 7         | 6.48%   |
 | 3200    | 6         | 5.56%   |
+| 2133    | 6         | 5.56%   |
 | 1067    | 6         | 5.56%   |
-| 2667    | 5         | 4.63%   |
 | 1867    | 4         | 3.7%    |
 | 1066    | 1         | 0.93%   |
 | 800     | 1         | 0.93%   |

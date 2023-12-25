@@ -147,10 +147,12 @@ Contents
 Test Cases
 ----------
 
-Total: 17
+Total: 19
 
 | Vendor | Model                       | Probe                                                     | Date         |
 |--------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo | ThinkPad A485 20MU000VUS    | [98663cbfef](https://bsd-hardware.info/?probe=98663cbfef) | Dec 22, 2023 |
+| Lenovo | ThinkPad A485 20MU000VUS    | [8f21b7d70f](https://bsd-hardware.info/?probe=8f21b7d70f) | Nov 24, 2023 |
 | HP     | Victus by Gaming Laptop ... | [b97af82e5c](https://bsd-hardware.info/?probe=b97af82e5c) | Feb 05, 2023 |
 | Lenovo | B50-80 80EW                 | [b8f49b8d19](https://bsd-hardware.info/?probe=b8f49b8d19) | Jan 07, 2023 |
 | Dell   | Latitude D610               | [6ef8d8137b](https://bsd-hardware.info/?probe=6ef8d8137b) | Nov 24, 2022 |
@@ -182,15 +184,16 @@ Installed operating systems
 
 | Name              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| MidnightBSD 3.1.0 | 1         | 11.11%  |
-| MidnightBSD 3.0.0 | 1         | 11.11%  |
-| MidnightBSD 2.2.6 | 1         | 11.11%  |
-| MidnightBSD 2.2.2 | 1         | 11.11%  |
-| MidnightBSD 2.2.0 | 1         | 11.11%  |
-| MidnightBSD 2.1.5 | 1         | 11.11%  |
-| MidnightBSD 2.1.1 | 1         | 11.11%  |
-| MidnightBSD 2.0   | 1         | 11.11%  |
-| MidnightBSD 1.2   | 1         | 11.11%  |
+| MidnightBSD 3.1.0 | 2         | 18.18%  |
+| MidnightBSD 3.1.2 | 1         | 9.09%   |
+| MidnightBSD 3.0.0 | 1         | 9.09%   |
+| MidnightBSD 2.2.6 | 1         | 9.09%   |
+| MidnightBSD 2.2.2 | 1         | 9.09%   |
+| MidnightBSD 2.2.0 | 1         | 9.09%   |
+| MidnightBSD 2.1.5 | 1         | 9.09%   |
+| MidnightBSD 2.1.1 | 1         | 9.09%   |
+| MidnightBSD 2.0   | 1         | 9.09%   |
+| MidnightBSD 1.2   | 1         | 9.09%   |
 
 OS Family
 ---------
@@ -524,7 +527,7 @@ Hard drive vendors
 |-------------------|-----------|--------|---------|
 | WDC               | 1         | 1      | 16.67%  |
 | Seagate           | 1         | 1      | 16.67%  |
-| SanDisk           | 1         | 4      | 16.67%  |
+| SanDisk           | 1         | 6      | 16.67%  |
 | Micron Technology | 1         | 2      | 16.67%  |
 | Lenovo            | 1         | 1      | 16.67%  |
 | Hewlett-Packard   | 1         | 1      | 16.67%  |
@@ -569,7 +572,7 @@ Solid state drive vendors
 
 | Vendor          | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| SanDisk         | 1         | 4      | 50%     |
+| SanDisk         | 1         | 6      | 50%     |
 | Hewlett-Packard | 1         | 1      | 50%     |
 
 Drive Kind
@@ -583,7 +586,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | NVMe | 2         | 3      | 33.33%  |
-| SSD  | 2         | 5      | 33.33%  |
+| SSD  | 2         | 7      | 33.33%  |
 | HDD  | 2         | 2      | 33.33%  |
 
 Drive Connector
@@ -596,7 +599,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 3         | 7      | 60%     |
+| SATA | 3         | 9      | 60%     |
 | NVMe | 2         | 3      | 40%     |
 
 Drive Size
@@ -609,7 +612,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 3         | 7      | 100%    |
+| 0.01-0.5   | 3         | 9      | 100%    |
 
 Space Total
 -----------
@@ -690,7 +693,7 @@ Number of failed and malfunc. drives
 
 | Status | Notebooks | Drives | Percent |
 |--------|-----------|--------|---------|
-| Works  | 5         | 10     | 100%    |
+| Works  | 5         | 12     | 100%    |
 
 Storage controller
 ------------------

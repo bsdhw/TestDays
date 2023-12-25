@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 28
+Total: 29
 
 | Vendor        | Model                    | Probe                                                     | Date         |
 |---------------|--------------------------|-----------------------------------------------------------|--------------|
+| MSI           | PRO H610M-B DDR4         | [c6ff092502](https://bsd-hardware.info/?probe=c6ff092502) | Nov 26, 2023 |
 | ASRockRack    | X470D4U2-2T              | [c07dd3b911](https://bsd-hardware.info/?probe=c07dd3b911) | Oct 09, 2023 |
 | ASRock        | Z690 Phantom Gaming 4/D5 | [6eab8daef7](https://bsd-hardware.info/?probe=6eab8daef7) | Sep 21, 2023 |
 | ASRockRack    | X470D4U2-2T              | [5a0b8eb786](https://bsd-hardware.info/?probe=5a0b8eb786) | Sep 21, 2023 |
@@ -193,18 +194,19 @@ Installed operating systems
 
 | Name               | Desktops | Percent |
 |--------------------|----------|---------|
-| MyBee 13.2         | 4        | 18.18%  |
-| MyBee 13.1         | 4        | 18.18%  |
-| MyBee 13.1-p7      | 3        | 13.64%  |
-| MyBee 14.0-CURRENT | 2        | 9.09%   |
-| MyBee 13.1-p1      | 2        | 9.09%   |
-| MyBee 14.0-BETA3   | 1        | 4.55%   |
-| MyBee 14.0-BETA2   | 1        | 4.55%   |
-| MyBee 13.2-RC5     | 1        | 4.55%   |
-| MyBee 13.2-RC4     | 1        | 4.55%   |
-| MyBee 13.2-RC2     | 1        | 4.55%   |
-| MyBee 13.1-p5      | 1        | 4.55%   |
-| MyBee 13.1-p3      | 1        | 4.55%   |
+| MyBee 13.2         | 4        | 17.39%  |
+| MyBee 13.1         | 4        | 17.39%  |
+| MyBee 13.1-p7      | 3        | 13.04%  |
+| MyBee 14.0-CURRENT | 2        | 8.7%    |
+| MyBee 13.1-p1      | 2        | 8.7%    |
+| MyBee 14.0-BETA3   | 1        | 4.35%   |
+| MyBee 14.0-BETA2   | 1        | 4.35%   |
+| MyBee 14.0         | 1        | 4.35%   |
+| MyBee 13.2-RC5     | 1        | 4.35%   |
+| MyBee 13.2-RC4     | 1        | 4.35%   |
+| MyBee 13.2-RC2     | 1        | 4.35%   |
+| MyBee 13.1-p5      | 1        | 4.35%   |
+| MyBee 13.1-p3      | 1        | 4.35%   |
 
 OS Family
 ---------
@@ -483,13 +485,13 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 8        | 40%     |
-| 2      | 5        | 25%     |
-| 5      | 2        | 10%     |
-| 3      | 2        | 10%     |
-| 6      | 1        | 5%      |
-| 4      | 1        | 5%      |
-| 0      | 1        | 5%      |
+| 1      | 8        | 38.1%   |
+| 2      | 6        | 28.57%  |
+| 5      | 2        | 9.52%   |
+| 3      | 2        | 9.52%   |
+| 6      | 1        | 4.76%   |
+| 4      | 1        | 4.76%   |
+| 0      | 1        | 4.76%   |
 
 Has CD-ROM
 ----------
@@ -596,7 +598,7 @@ Hard drive vendors
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
 | Toshiba             | 5        | 17     | 20%     |
-| Seagate             | 4        | 9      | 16%     |
+| Seagate             | 4        | 11     | 16%     |
 | Samsung Electronics | 4        | 6      | 16%     |
 | WDC                 | 2        | 2      | 8%      |
 | Kingston            | 2        | 2      | 8%      |
@@ -652,7 +654,7 @@ Hard disk drive vendors
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
 | Toshiba | 4        | 15     | 44.44%  |
-| Seagate | 4        | 9      | 44.44%  |
+| Seagate | 4        | 11     | 44.44%  |
 | WDC     | 1        | 1      | 11.11%  |
 
 SSD Vendor
@@ -682,7 +684,7 @@ HDD or SSD
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
 | NVMe | 9        | 13     | 37.5%   |
-| HDD  | 8        | 25     | 33.33%  |
+| HDD  | 8        | 27     | 33.33%  |
 | SSD  | 7        | 9      | 29.17%  |
 
 Drive Connector
@@ -695,7 +697,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 14       | 34     | 60.87%  |
+| SATA | 14       | 36     | 60.87%  |
 | NVMe | 9        | 13     | 39.13%  |
 
 Drive Size
@@ -708,7 +710,7 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 5        | 11     | 31.25%  |
+| 0.51-1.0   | 5        | 13     | 31.25%  |
 | 0.01-0.5   | 5        | 5      | 31.25%  |
 | 10.01-20.0 | 2        | 10     | 12.5%   |
 | 1.01-2.0   | 2        | 3      | 12.5%   |
@@ -814,7 +816,7 @@ Number of failed and malfunc. drives
 
 | Status  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Works   | 18       | 43     | 90%     |
+| Works   | 18       | 45     | 90%     |
 | Malfunc | 2        | 4      | 10%     |
 
 Storage controller

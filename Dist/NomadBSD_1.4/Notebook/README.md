@@ -1109,7 +1109,7 @@ Monitor models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Panasonic VVX13F009G00 MEI96A2 1920x1080 290x170mm 13.2-inch         | 2         | 11.76%  |
+| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 2         | 11.76%  |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 220x130mm 10.1-inch | 1         | 5.88%   |
 | Samsung Electronics LCD Monitor SDC4D42 1366x768 310x170mm 13.9-inch | 1         | 5.88%   |
 | LG Display LCD Monitor LGD0532 1920x1080 340x190mm 15.3-inch         | 1         | 5.88%   |
@@ -1136,11 +1136,10 @@ Monitor screen resolution
 
 | Resolution      | Notebooks | Percent |
 |-----------------|-----------|---------|
-| 1366x768 (WXGA) | 7         | 41.18%  |
-| 1920x1080 (FHD) | 5         | 29.41%  |
-| 2880x1620       | 2         | 11.76%  |
-| 1024x600        | 2         | 11.76%  |
-| 3840x2160 (4K)  | 1         | 5.88%   |
+| 1366x768 (WXGA) | 7         | 43.75%  |
+| 1920x1080 (FHD) | 5         | 31.25%  |
+| 3840x2160 (4K)  | 2         | 12.5%   |
+| 1024x600        | 2         | 12.5%   |
 
 Monitor Diagonal
 ----------------
@@ -1152,7 +1151,8 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 10        | 58.82%  |
+| 15     | 8         | 47.06%  |
+| 17     | 2         | 11.76%  |
 | 12     | 2         | 11.76%  |
 | 10     | 2         | 11.76%  |
 | 27     | 1         | 5.88%   |
@@ -1169,9 +1169,10 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 11        | 64.71%  |
+| 301-350     | 9         | 52.94%  |
 | 201-300     | 4         | 23.53%  |
 | 501-600     | 2         | 11.76%  |
+| 351-400     | 2         | 11.76%  |
 
 Aspect Ratio
 ------------
@@ -1196,9 +1197,10 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 91-100         | 10        | 58.82%  |
+| 91-100         | 8         | 47.06%  |
 | 61-70          | 2         | 11.76%  |
 | 41-50          | 2         | 11.76%  |
+| 121-130        | 2         | 11.76%  |
 | 81-90          | 1         | 5.88%   |
 | 301-350        | 1         | 5.88%   |
 | 201-250        | 1         | 5.88%   |
@@ -1211,12 +1213,13 @@ Pixels per inch
 ![Pixel Density](./images/pie_chart_bsd/mon_density.svg)
 
 
-| Density | Notebooks | Percent |
-|---------|-----------|---------|
-| 101-120 | 8         | 50%     |
-| 121-160 | 4         | 25%     |
-| 161-240 | 3         | 18.75%  |
-| 51-100  | 1         | 6.25%   |
+| Density       | Notebooks | Percent |
+|---------------|-----------|---------|
+| 101-120       | 8         | 47.06%  |
+| 121-160       | 4         | 23.53%  |
+| More than 240 | 2         | 11.76%  |
+| 161-240       | 2         | 11.76%  |
+| 51-100        | 1         | 5.88%   |
 
 Multiple Monitors
 -----------------
@@ -1546,8 +1549,8 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G6E! 4GB SODIMM DDR4 2400MT/s                     | 1         | 4.35%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
-| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1866MT/s                   | 1         | 4.35%   |
-| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 4.35%   |
+| Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1867MT/s                   | 1         | 4.35%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 4.35%   |
 
 Memory Kind
 -----------
@@ -1606,10 +1609,10 @@ Memory module speed
 | 1600    | 5         | 26.32%  |
 | 2667    | 4         | 21.05%  |
 | 2400    | 3         | 15.79%  |
+| 1867    | 2         | 10.53%  |
 | 1334    | 2         | 10.53%  |
-| 667     | 2         | 10.53%  |
-| 1867    | 1         | 5.26%   |
-| 1866    | 1         | 5.26%   |
+| 800     | 1         | 5.26%   |
+| 667     | 1         | 5.26%   |
 | Unknown | 1         | 5.26%   |
 
 Printers & scanners

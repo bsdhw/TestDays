@@ -813,7 +813,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB      | 2        | 1%      |
 | Seagate ST1000DM003-1ER162 1TB      | 2        | 1%      |
 | SanDisk SDSSDA240G 240GB            | 2        | 1%      |
-| SanDisk pSSD 256GB                  | 2        | 1%      |
+| SanDisk pSSD 16GB                   | 2        | 1%      |
 | Samsung SSD 960 EVO 500GB           | 2        | 1%      |
 | Samsung SSD 960 EVO 250GB           | 2        | 1%      |
 | Samsung SSD 840 EVO 1TB             | 2        | 1%      |
@@ -2113,7 +2113,7 @@ Memory module models
 | Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s            | 1        | 0.84%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
 | Samsung RAM M378B5173DB0-CK0 4GB DIMM DDR3 1600MT/s            | 1        | 0.84%   |
-| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2400MT/s            | 1        | 0.84%   |
+| Samsung RAM M378A1K43CB2-CRC 8GB DIMM DDR4 2667MT/s            | 1        | 0.84%   |
 | Samsung RAM M3 78T5663EH3-CF7 2GB DIMM DDR2 800MT/s            | 1        | 0.84%   |
 
 Memory Kind
@@ -2175,11 +2175,12 @@ Memory module speed
 |---------|----------|---------|
 | 1600    | 28       | 29.47%  |
 | 1333    | 20       | 21.05%  |
-| 2400    | 13       | 13.68%  |
+| 2400    | 11       | 11.58%  |
+| 3200    | 7        | 7.37%   |
 | 800     | 7        | 7.37%   |
-| 3200    | 6        | 6.32%   |
 | 2133    | 4        | 4.21%   |
 | 2666    | 3        | 3.16%   |
+| 2667    | 2        | 2.11%   |
 | 1867    | 2        | 2.11%   |
 | 1866    | 2        | 2.11%   |
 | 1067    | 2        | 2.11%   |
@@ -2187,7 +2188,6 @@ Memory module speed
 | 3600    | 1        | 1.05%   |
 | 3000    | 1        | 1.05%   |
 | 2933    | 1        | 1.05%   |
-| 2667    | 1        | 1.05%   |
 | 667     | 1        | 1.05%   |
 | Unknown | 1        | 1.05%   |
 

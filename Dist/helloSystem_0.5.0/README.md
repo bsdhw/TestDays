@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 293
+Total: 294
 
 | Vendor        | Model                       | Form-Factor | Probe                                                     | Date         |
 |---------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Intel         | DH67CL AAG10212-206         | Desktop     | [818a6b3f2c](https://bsd-hardware.info/?probe=818a6b3f2c) | Nov 29, 2023 |
 | ASUSTek       | TUF Gaming FX504GD_FX80G... | Notebook    | [2294352c5a](https://bsd-hardware.info/?probe=2294352c5a) | Nov 08, 2022 |
 | Apple         | Mac-7BA5B2794B2CDB12 Mac... | Mini pc     | [b164bfcf33](https://bsd-hardware.info/?probe=b164bfcf33) | Oct 06, 2022 |
 | ASUSTek       | TUF B360M-E GAMING          | Desktop     | [26375bae48](https://bsd-hardware.info/?probe=26375bae48) | Jun 08, 2022 |
@@ -715,7 +716,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2019 | 32        | 13.06%  |
+| 2019 | 31        | 12.65%  |
 | 2020 | 30        | 12.24%  |
 | 2013 | 27        | 11.02%  |
 | 2012 | 26        | 10.61%  |
@@ -730,6 +731,7 @@ Motherboard manufacture year
 | 2017 | 7         | 2.86%   |
 | 2008 | 6         | 2.45%   |
 | 2007 | 4         | 1.63%   |
+| 2022 | 1         | 0.41%   |
 
 Form Factor
 -----------
@@ -808,13 +810,13 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 154       | 62.1%   |
-| 2      | 49        | 19.76%  |
-| 3      | 15        | 6.05%   |
-| 0      | 15        | 6.05%   |
-| 4      | 7         | 2.82%   |
-| 6      | 3         | 1.21%   |
-| 5      | 3         | 1.21%   |
+| 1      | 154       | 61.85%  |
+| 2      | 49        | 19.68%  |
+| 3      | 16        | 6.43%   |
+| 0      | 15        | 6.02%   |
+| 4      | 7         | 2.81%   |
+| 6      | 3         | 1.2%    |
+| 5      | 3         | 1.2%    |
 | 10     | 1         | 0.4%    |
 | 8      | 1         | 0.4%    |
 
@@ -988,24 +990,24 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| WDC                 | 61        | 80     | 18.83%  |
-| Seagate             | 55        | 78     | 16.98%  |
-| Samsung Electronics | 49        | 66     | 15.12%  |
-| Toshiba             | 22        | 23     | 6.79%   |
-| Crucial             | 18        | 20     | 5.56%   |
-| Kingston            | 14        | 16     | 4.32%   |
-| SanDisk             | 13        | 14     | 4.01%   |
-| Hitachi             | 13        | 15     | 4.01%   |
-| Intel               | 11        | 11     | 3.4%    |
-| A-DATA Technology   | 9         | 14     | 2.78%   |
-| Apple               | 8         | 8      | 2.47%   |
-| HGST                | 7         | 7      | 2.16%   |
+| WDC                 | 61        | 80     | 18.77%  |
+| Seagate             | 55        | 80     | 16.92%  |
+| Samsung Electronics | 49        | 66     | 15.08%  |
+| Toshiba             | 22        | 23     | 6.77%   |
+| Crucial             | 19        | 21     | 5.85%   |
+| Kingston            | 14        | 16     | 4.31%   |
+| SanDisk             | 13        | 14     | 4%      |
+| Hitachi             | 13        | 15     | 4%      |
+| Intel               | 11        | 11     | 3.38%   |
+| A-DATA Technology   | 9         | 14     | 2.77%   |
+| Apple               | 8         | 8      | 2.46%   |
+| HGST                | 7         | 7      | 2.15%   |
 | SPCC                | 4         | 5      | 1.23%   |
 | Hewlett-Packard     | 4         | 5      | 1.23%   |
-| SK hynix            | 3         | 3      | 0.93%   |
-| PNY                 | 3         | 11     | 0.93%   |
-| OCZ                 | 3         | 3      | 0.93%   |
-| Fujitsu             | 3         | 4      | 0.93%   |
+| SK hynix            | 3         | 3      | 0.92%   |
+| PNY                 | 3         | 11     | 0.92%   |
+| OCZ                 | 3         | 3      | 0.92%   |
+| Fujitsu             | 3         | 4      | 0.92%   |
 | Transcend           | 2         | 3      | 0.62%   |
 | Silicon Motion      | 2         | 2      | 0.62%   |
 | Patriot             | 2         | 2      | 0.62%   |
@@ -1035,10 +1037,10 @@ Hard drive models
 
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
-| Samsung SSD 850 EVO 250GB           | 6         | 1.68%   |
-| A-DATA SU650 120GB                  | 5         | 1.4%    |
-| Seagate ST1000LM035-1RK172 1TB      | 4         | 1.12%   |
-| Samsung SSD 860 EVO 250GB           | 4         | 1.12%   |
+| Samsung SSD 850 EVO 250GB           | 6         | 1.67%   |
+| A-DATA SU650 120GB                  | 5         | 1.39%   |
+| Seagate ST1000LM035-1RK172 1TB      | 4         | 1.11%   |
+| Samsung SSD 860 EVO 250GB           | 4         | 1.11%   |
 | Seagate ST9500325AS 500GB           | 3         | 0.84%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 3         | 0.84%   |
 | Seagate ST500DM002-1BD142 500GB     | 3         | 0.84%   |
@@ -1086,7 +1088,7 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 55        | 78     | 34.81%  |
+| Seagate             | 55        | 80     | 34.81%  |
 | WDC                 | 49        | 66     | 31.01%  |
 | Toshiba             | 13        | 13     | 8.23%   |
 | Samsung Electronics | 13        | 15     | 8.23%   |
@@ -1146,9 +1148,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 137       | 203    | 46.6%   |
-| SSD  | 114       | 155    | 38.78%  |
-| NVMe | 43        | 51     | 14.63%  |
+| HDD  | 137       | 205    | 46.44%  |
+| SSD  | 114       | 155    | 38.64%  |
+| NVMe | 44        | 52     | 14.92%  |
 
 Drive Connector
 ---------------
@@ -1160,8 +1162,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 216       | 358    | 83.4%   |
-| NVMe | 43        | 51     | 16.6%   |
+| SATA | 216       | 360    | 83.08%  |
+| NVMe | 44        | 52     | 16.92%  |
 
 Drive Size
 ----------
@@ -1173,7 +1175,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 176       | 249    | 67.69%  |
+| 0.01-0.5   | 176       | 251    | 67.69%  |
 | 0.51-1.0   | 59        | 74     | 22.69%  |
 | 1.01-2.0   | 14        | 18     | 5.38%   |
 | 3.01-4.0   | 5         | 6      | 1.92%   |
@@ -1190,13 +1192,13 @@ Amount of disk space available on the file system
 
 | Size in GB | Computers | Percent |
 |------------|-----------|---------|
-| 1-20       | 156       | 62.9%   |
-| 101-250    | 37        | 14.92%  |
-| 251-500    | 24        | 9.68%   |
-| 501-1000   | 18        | 7.26%   |
-| 51-100     | 7         | 2.82%   |
+| 1-20       | 156       | 62.65%  |
+| 101-250    | 37        | 14.86%  |
+| 251-500    | 25        | 10.04%  |
+| 501-1000   | 18        | 7.23%   |
+| 51-100     | 7         | 2.81%   |
 | 21-50      | 4         | 1.61%   |
-| 1001-2000  | 2         | 0.81%   |
+| 1001-2000  | 2         | 0.8%    |
 
 Space Used
 ----------
@@ -1220,46 +1222,46 @@ Drive models with a malfunction
 
 | Model                               | Computers | Drives | Percent |
 |-------------------------------------|-----------|--------|---------|
-| Seagate ST3250410AS 250GB           | 3         | 3      | 4.23%   |
-| Seagate ST9500325AS 500GB           | 2         | 2      | 2.82%   |
-| Seagate ST380815AS 80GB             | 2         | 2      | 2.82%   |
-| Seagate ST1000LM035-1RK172 1TB      | 2         | 2      | 2.82%   |
-| HGST HTS545032A7E380 320GB          | 2         | 2      | 2.82%   |
-| Crucial CT525MX300SSD1 528GB        | 2         | 3      | 2.82%   |
-| Apple HDD HTS545050A7E362 500GB     | 2         | 2      | 2.82%   |
-| WDC WD800JD-55MUA1 80GB             | 1         | 1      | 1.41%   |
-| WDC WD6400AAKS-22A7B0 640GB         | 1         | 1      | 1.41%   |
-| WDC WD5000LPVX-60V0TT0 500GB        | 1         | 1      | 1.41%   |
-| WDC WD5000AAKX-60U6AA0 500GB        | 1         | 1      | 1.41%   |
-| WDC WD5000AAKX-00ERMA0 500GB        | 1         | 1      | 1.41%   |
-| WDC WD40EFRX-68WT0N0 4TB            | 1         | 1      | 1.41%   |
-| WDC WD3200BEVT-22ZCT0 320GB         | 1         | 1      | 1.41%   |
-| WDC WD3200BEVT-00A0RT0 233GB        | 1         | 1      | 1.41%   |
-| WDC WD3200AAJS-00L7A0 320GB         | 1         | 1      | 1.41%   |
-| WDC WD30EZRX-22D8PB0 3TB            | 1         | 1      | 1.41%   |
-| WDC WD2500AAKX-083CA1 250GB         | 1         | 1      | 1.41%   |
-| WDC WD20EARS-00MVWB0 2TB            | 1         | 1      | 1.41%   |
-| WDC WD1600AAJS-60WAA0 160GB         | 1         | 1      | 1.41%   |
-| WDC WD1600AAJS-00WAA0 160GB         | 1         | 1      | 1.41%   |
-| WDC WD10EARS-00Y5B1 1TB             | 1         | 1      | 1.41%   |
-| Toshiba THNSNK128GCS8 SATA 128GB    | 1         | 1      | 1.41%   |
-| Toshiba MQ01ABD075 752GB            | 1         | 1      | 1.41%   |
-| Toshiba MQ01ABD032 320GB            | 1         | 1      | 1.41%   |
-| Toshiba MK3276GSX 320GB             | 1         | 1      | 1.41%   |
-| Toshiba MK3265GSXN 320GB            | 1         | 1      | 1.41%   |
-| Toshiba MK3261GSYN 320GB            | 1         | 1      | 1.41%   |
-| SSSTC CVB-8D128-HP 128GB            | 1         | 1      | 1.41%   |
-| Seagate ST9320423AS 320GB           | 1         | 1      | 1.41%   |
-| Seagate ST9160821AS 160GB           | 1         | 1      | 1.41%   |
-| Seagate ST9160412AS 160GB           | 1         | 1      | 1.41%   |
-| Seagate ST500VT000-1DK142 500GB     | 1         | 1      | 1.41%   |
-| Seagate ST500LM012 HN-M500MBB 500GB | 1         | 1      | 1.41%   |
-| Seagate ST3750640AS 752GB           | 1         | 1      | 1.41%   |
-| Seagate ST3500413AS 500GB           | 1         | 1      | 1.41%   |
-| Seagate ST3250318AS 250GB           | 1         | 1      | 1.41%   |
-| Seagate ST320LT012-9WS14C 320GB     | 1         | 2      | 1.41%   |
-| Seagate ST31000528AS 1TB            | 1         | 1      | 1.41%   |
-| Seagate ST31000333AS 1TB            | 1         | 1      | 1.41%   |
+| Seagate ST3250410AS 250GB           | 3         | 3      | 4.17%   |
+| Seagate ST9500325AS 500GB           | 2         | 2      | 2.78%   |
+| Seagate ST380815AS 80GB             | 2         | 2      | 2.78%   |
+| Seagate ST1000LM035-1RK172 1TB      | 2         | 2      | 2.78%   |
+| HGST HTS545032A7E380 320GB          | 2         | 2      | 2.78%   |
+| Crucial CT525MX300SSD1 528GB        | 2         | 3      | 2.78%   |
+| Apple HDD HTS545050A7E362 500GB     | 2         | 2      | 2.78%   |
+| WDC WD800JD-55MUA1 80GB             | 1         | 1      | 1.39%   |
+| WDC WD6400AAKS-22A7B0 640GB         | 1         | 1      | 1.39%   |
+| WDC WD5000LPVX-60V0TT0 500GB        | 1         | 1      | 1.39%   |
+| WDC WD5000AAKX-60U6AA0 500GB        | 1         | 1      | 1.39%   |
+| WDC WD5000AAKX-00ERMA0 500GB        | 1         | 1      | 1.39%   |
+| WDC WD40EFRX-68WT0N0 4TB            | 1         | 1      | 1.39%   |
+| WDC WD3200BEVT-22ZCT0 320GB         | 1         | 1      | 1.39%   |
+| WDC WD3200BEVT-00A0RT0 233GB        | 1         | 1      | 1.39%   |
+| WDC WD3200AAJS-00L7A0 320GB         | 1         | 1      | 1.39%   |
+| WDC WD30EZRX-22D8PB0 3TB            | 1         | 1      | 1.39%   |
+| WDC WD2500AAKX-083CA1 250GB         | 1         | 1      | 1.39%   |
+| WDC WD20EARS-00MVWB0 2TB            | 1         | 1      | 1.39%   |
+| WDC WD1600AAJS-60WAA0 160GB         | 1         | 1      | 1.39%   |
+| WDC WD1600AAJS-00WAA0 160GB         | 1         | 1      | 1.39%   |
+| WDC WD10EARS-00Y5B1 1TB             | 1         | 1      | 1.39%   |
+| Toshiba THNSNK128GCS8 SATA 128GB    | 1         | 1      | 1.39%   |
+| Toshiba MQ01ABD075 752GB            | 1         | 1      | 1.39%   |
+| Toshiba MQ01ABD032 320GB            | 1         | 1      | 1.39%   |
+| Toshiba MK3276GSX 320GB             | 1         | 1      | 1.39%   |
+| Toshiba MK3265GSXN 320GB            | 1         | 1      | 1.39%   |
+| Toshiba MK3261GSYN 320GB            | 1         | 1      | 1.39%   |
+| SSSTC CVB-8D128-HP 128GB            | 1         | 1      | 1.39%   |
+| Seagate ST9320423AS 320GB           | 1         | 1      | 1.39%   |
+| Seagate ST9160821AS 160GB           | 1         | 1      | 1.39%   |
+| Seagate ST9160412AS 160GB           | 1         | 1      | 1.39%   |
+| Seagate ST500VT000-1DK142 500GB     | 1         | 1      | 1.39%   |
+| Seagate ST500LM012 HN-M500MBB 500GB | 1         | 1      | 1.39%   |
+| Seagate ST3750640AS 752GB           | 1         | 1      | 1.39%   |
+| Seagate ST3500413AS 500GB           | 1         | 1      | 1.39%   |
+| Seagate ST3320310CS 320GB           | 1         | 1      | 1.39%   |
+| Seagate ST3250318AS 250GB           | 1         | 1      | 1.39%   |
+| Seagate ST320LT012-9WS14C 320GB     | 1         | 2      | 1.39%   |
+| Seagate ST31000528AS 1TB            | 1         | 1      | 1.39%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -1271,18 +1273,18 @@ Vendors of faulty drives
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 21        | 23     | 30%     |
-| WDC                 | 15        | 15     | 21.43%  |
-| Hitachi             | 8         | 8      | 11.43%  |
-| Toshiba             | 6         | 6      | 8.57%   |
-| Samsung Electronics | 5         | 5      | 7.14%   |
-| HGST                | 5         | 5      | 7.14%   |
-| Apple               | 3         | 3      | 4.29%   |
-| Fujitsu             | 2         | 2      | 2.86%   |
-| Crucial             | 2         | 3      | 2.86%   |
-| SSSTC               | 1         | 1      | 1.43%   |
-| Kingston            | 1         | 1      | 1.43%   |
-| Hewlett-Packard     | 1         | 1      | 1.43%   |
+| Seagate             | 22        | 24     | 30.99%  |
+| WDC                 | 15        | 15     | 21.13%  |
+| Hitachi             | 8         | 8      | 11.27%  |
+| Toshiba             | 6         | 6      | 8.45%   |
+| Samsung Electronics | 5         | 5      | 7.04%   |
+| HGST                | 5         | 5      | 7.04%   |
+| Apple               | 3         | 3      | 4.23%   |
+| Fujitsu             | 2         | 2      | 2.82%   |
+| Crucial             | 2         | 3      | 2.82%   |
+| SSSTC               | 1         | 1      | 1.41%   |
+| Kingston            | 1         | 1      | 1.41%   |
+| Hewlett-Packard     | 1         | 1      | 1.41%   |
 
 Malfunc. HDD Vendor
 -------------------
@@ -1294,14 +1296,14 @@ Vendors of faulty HDD drives
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 21        | 23     | 33.33%  |
-| WDC                 | 15        | 15     | 23.81%  |
-| Hitachi             | 8         | 8      | 12.7%   |
-| Toshiba             | 5         | 5      | 7.94%   |
-| HGST                | 5         | 5      | 7.94%   |
-| Samsung Electronics | 4         | 4      | 6.35%   |
-| Apple               | 3         | 3      | 4.76%   |
-| Fujitsu             | 2         | 2      | 3.17%   |
+| Seagate             | 22        | 24     | 34.38%  |
+| WDC                 | 15        | 15     | 23.44%  |
+| Hitachi             | 8         | 8      | 12.5%   |
+| Toshiba             | 5         | 5      | 7.81%   |
+| HGST                | 5         | 5      | 7.81%   |
+| Samsung Electronics | 4         | 4      | 6.25%   |
+| Apple               | 3         | 3      | 4.69%   |
+| Fujitsu             | 2         | 2      | 3.13%   |
 
 Malfunc. Drive Kind
 -------------------
@@ -1313,8 +1315,8 @@ Kinds of faulty drives
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 59        | 65     | 89.39%  |
-| SSD  | 7         | 8      | 10.61%  |
+| HDD  | 60        | 66     | 89.55%  |
+| SSD  | 7         | 8      | 10.45%  |
 
 Failed Drives
 -------------
@@ -1352,9 +1354,9 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 185       | 321    | 71.15%  |
-| Malfunc  | 66        | 73     | 25.38%  |
-| Detected | 7         | 13     | 2.69%   |
+| Works    | 185       | 323    | 70.88%  |
+| Malfunc  | 67        | 74     | 25.67%  |
+| Detected | 7         | 13     | 2.68%   |
 | Failed   | 2         | 2      | 0.77%   |
 
 Storage controller
@@ -1370,16 +1372,16 @@ Storage controller vendors
 
 | Vendor                           | Computers | Percent |
 |----------------------------------|-----------|---------|
-| Intel                            | 194       | 64.03%  |
-| AMD                              | 42        | 13.86%  |
-| Samsung Electronics              | 14        | 4.62%   |
-| ASMedia Technology               | 7         | 2.31%   |
-| Broadcom / LSI                   | 6         | 1.98%   |
-| SanDisk                          | 5         | 1.65%   |
-| Toshiba                          | 4         | 1.32%   |
-| Silicon Motion                   | 4         | 1.32%   |
-| Micron/Crucial Technology        | 4         | 1.32%   |
-| SK hynix                         | 3         | 0.99%   |
+| Intel                            | 194       | 63.61%  |
+| AMD                              | 42        | 13.77%  |
+| Samsung Electronics              | 14        | 4.59%   |
+| ASMedia Technology               | 8         | 2.62%   |
+| Broadcom / LSI                   | 6         | 1.97%   |
+| SanDisk                          | 5         | 1.64%   |
+| Micron/Crucial Technology        | 5         | 1.64%   |
+| Toshiba                          | 4         | 1.31%   |
+| Silicon Motion                   | 4         | 1.31%   |
+| SK hynix                         | 3         | 0.98%   |
 | VIA Technologies                 | 2         | 0.66%   |
 | Phison Electronics               | 2         | 0.66%   |
 | Nvidia                           | 2         | 0.66%   |
@@ -1404,32 +1406,32 @@ Storage controller models
 
 | Model                                                                                   | Computers | Percent |
 |-----------------------------------------------------------------------------------------|-----------|---------|
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                        | 25        | 7.1%    |
-| AMD FCH SATA Controller [AHCI mode]                                                     | 20        | 5.68%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 16        | 4.55%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 11        | 3.13%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 10        | 2.84%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 10        | 2.84%   |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 10        | 2.84%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                   | 9         | 2.56%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller            | 9         | 2.56%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 9         | 2.56%   |
-| AMD 400 Series Chipset SATA Controller                                                  | 8         | 2.27%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 7         | 1.99%   |
-| Intel 82801 Mobile SATA Controller [RAID mode]                                          | 7         | 1.99%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 7         | 1.99%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 6         | 1.7%    |
-| Intel Cannon Lake PCH SATA AHCI Controller                                              | 6         | 1.7%    |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 6         | 1.7%    |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 6         | 1.7%    |
-| Intel SATA Controller [RAID mode]                                                       | 5         | 1.42%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5         | 1.42%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 5         | 1.42%   |
-| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 4         | 1.14%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                       | 4         | 1.14%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller        | 4         | 1.14%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 4         | 1.14%   |
-| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                            | 4         | 1.14%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                        | 25        | 7.06%   |
+| AMD FCH SATA Controller [AHCI mode]                                                     | 20        | 5.65%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 16        | 4.52%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 11        | 3.11%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 10        | 2.82%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 10        | 2.82%   |
+| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 10        | 2.82%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                   | 9         | 2.54%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller            | 9         | 2.54%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 9         | 2.54%   |
+| AMD 400 Series Chipset SATA Controller                                                  | 8         | 2.26%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 7         | 1.98%   |
+| Intel 82801 Mobile SATA Controller [RAID mode]                                          | 7         | 1.98%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 7         | 1.98%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 6         | 1.69%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                              | 6         | 1.69%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 6         | 1.69%   |
+| ASMedia ASM1062 Serial ATA Controller                                                   | 6         | 1.69%   |
+| Intel SATA Controller [RAID mode]                                                       | 5         | 1.41%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5         | 1.41%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 5         | 1.41%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 4         | 1.13%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                       | 4         | 1.13%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller        | 4         | 1.13%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 4         | 1.13%   |
+| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                            | 4         | 1.13%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 3         | 0.85%   |
 | Intel SSD 660P Series                                                                   | 3         | 0.85%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 3         | 0.85%   |
@@ -1442,8 +1444,8 @@ Storage controller models
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                          | 3         | 0.85%   |
 | Intel 5 Series/3400 Series Chipset 2 port SATA IDE Controller                           | 3         | 0.85%   |
 | Intel 400 Series Chipset Family SATA AHCI Controller                                    | 3         | 0.85%   |
-| VIA VT6415 PATA IDE Host Controller                                                     | 2         | 0.57%   |
-| Toshiba XG5 NVMe SSD Controller                                                         | 2         | 0.57%   |
+| VIA VT6415 PATA IDE Host Controller                                                     | 2         | 0.56%   |
+| Toshiba XG5 NVMe SSD Controller                                                         | 2         | 0.56%   |
 
 Storage Kind
 ------------
@@ -1455,11 +1457,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 197       | 63.96%  |
-| NVMe | 43        | 13.96%  |
-| IDE  | 43        | 13.96%  |
-| RAID | 18        | 5.84%   |
-| SAS  | 4         | 1.3%    |
+| SATA | 197       | 63.75%  |
+| NVMe | 44        | 14.24%  |
+| IDE  | 43        | 13.92%  |
+| RAID | 18        | 5.83%   |
+| SAS  | 4         | 1.29%   |
 | SCSI | 3         | 0.97%   |
 
 Processor
@@ -2588,7 +2590,7 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 2         | 0.63%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s       | 2         | 0.63%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s         | 2         | 0.63%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s            | 2         | 0.63%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s            | 2         | 0.63%   |
 | Kingston RAM KHX1600C9D3/4GX 4GB DIMM DDR3 1600MT/s          | 2         | 0.63%   |
 | G.Skill RAM F4-2666C19-8GNT 8GB DIMM DDR4 2666MT/s           | 2         | 0.63%   |
 | Avant RAM W641GU49J9266N6 8192MB DIMM DDR4 2667MT/s          | 2         | 0.63%   |
@@ -2668,23 +2670,25 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 73        | 27.24%  |
-| 1333    | 45        | 16.79%  |
-| 2667    | 27        | 10.07%  |
-| 2400    | 26        | 9.7%    |
-| 2133    | 18        | 6.72%   |
-| 800     | 13        | 4.85%   |
-| 1334    | 12        | 4.48%   |
-| 3200    | 11        | 4.1%    |
-| 667     | 11        | 4.1%    |
-| 1867    | 7         | 2.61%   |
-| 2666    | 5         | 1.87%   |
+| 1600    | 73        | 27.14%  |
+| 1333    | 45        | 16.73%  |
+| 2400    | 26        | 9.67%   |
+| 2667    | 25        | 9.29%   |
+| 2133    | 18        | 6.69%   |
+| 800     | 13        | 4.83%   |
+| 1334    | 12        | 4.46%   |
+| 3200    | 11        | 4.09%   |
+| 667     | 11        | 4.09%   |
+| 1867    | 7         | 2.6%    |
+| 2666    | 5         | 1.86%   |
 | 1067    | 4         | 1.49%   |
 | Unknown | 4         | 1.49%   |
 | 1866    | 3         | 1.12%   |
 | 533     | 3         | 1.12%   |
-| 3000    | 2         | 0.75%   |
-| 1066    | 2         | 0.75%   |
+| 3000    | 2         | 0.74%   |
+| 2933    | 2         | 0.74%   |
+| 1066    | 2         | 0.74%   |
+| 2048    | 1         | 0.37%   |
 | 975     | 1         | 0.37%   |
 | 333     | 1         | 0.37%   |
 

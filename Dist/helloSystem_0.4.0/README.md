@@ -940,7 +940,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| GOODRAM             | 2         | 2      | 0.71%   |
+| Goodram             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -982,7 +982,7 @@ Hard drive models
 | Toshiba MQ01ABD100 1TB              | 3         | 0.94%   |
 | Toshiba DT01ACA100 1TB              | 3         | 0.94%   |
 | Seagate ST500DM002-1BD142 500GB     | 3         | 0.94%   |
-| SanDisk pSSD 256GB                  | 3         | 0.94%   |
+| SanDisk pSSD 16GB                   | 3         | 0.94%   |
 | Samsung SSD 860 EVO 250GB           | 3         | 0.94%   |
 | Samsung SSD 840 EVO 1TB             | 3         | 0.94%   |
 | WDC WDS100T2B0A-00SM50 1TB          | 2         | 0.63%   |
@@ -1056,7 +1056,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| Goodram             | 2         | 2      | 1.4%    |
+| GOODRAM             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -1746,7 +1746,7 @@ Monitor models
 | Samsung Electronics S24E390 SAM0C1A 1920x1080 520x290mm 23.4-inch     | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch  | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch  | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM03A2 1440x900 410x260mm 19.1-inch  | 1         | 0.67%   |
 | PRI LED-MONITOR PRI0828 3840x2160 1150x650mm 52.0-inch                | 1         | 0.67%   |
@@ -2407,7 +2407,7 @@ Memory module models
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s | 2         | 0.79%   |
 | SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s   | 2         | 0.79%   |
 | SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s | 2         | 0.79%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2133MT/s | 2         | 0.79%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s | 2         | 0.79%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
@@ -2500,14 +2500,14 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 63        | 29.72%  |
-| 2400    | 32        | 15.09%  |
 | 1333    | 32        | 15.09%  |
-| 3200    | 13        | 6.13%   |
-| 2133    | 12        | 5.66%   |
+| 2400    | 30        | 14.15%  |
+| 3200    | 14        | 6.6%    |
+| 2667    | 10        | 4.72%   |
+| 2133    | 10        | 4.72%   |
 | 800     | 9         | 4.25%   |
 | 667     | 9         | 4.25%   |
 | 1067    | 8         | 3.77%   |
-| 2667    | 7         | 3.3%    |
 | 1334    | 7         | 3.3%    |
 | 1867    | 6         | 2.83%   |
 | 2666    | 3         | 1.42%   |

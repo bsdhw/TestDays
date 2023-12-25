@@ -455,7 +455,7 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 11       | 24.44%  |
-| 2019 | 7        | 15.56%  |
+| 2019 | 6        | 13.33%  |
 | 2012 | 6        | 13.33%  |
 | 2020 | 3        | 6.67%   |
 | 2014 | 3        | 6.67%   |
@@ -463,6 +463,7 @@ Motherboard manufacture year
 | 2008 | 3        | 6.67%   |
 | 2017 | 2        | 4.44%   |
 | 2015 | 2        | 4.44%   |
+| 2022 | 1        | 2.22%   |
 | 2021 | 1        | 2.22%   |
 | 2016 | 1        | 2.22%   |
 | 2011 | 1        | 2.22%   |
@@ -1418,8 +1419,8 @@ Monitor models
 | Iiyama PL2492H IVM612F 1920x1080 530x300mm 24.0-inch                   | 1        | 2.04%   |
 | Idek Iiyama LCD Monitor PL3270Q 5120x1440                              | 1        | 2.04%   |
 | Idek Iiyama LCD Monitor PL3270Q                                        | 1        | 2.04%   |
-| Hewlett-Packard LCD Monitor HWP4218 1600x900 440x250mm 19.9-inch       | 1        | 2.04%   |
 | Hewlett-Packard LA2205 HWP2848 1680x1050 470x300mm 22.0-inch           | 1        | 2.04%   |
+| Hewlett-Packard All-in-One HWP4218 1600x900 440x250mm 19.9-inch        | 1        | 2.04%   |
 | HannStar LCD Monitor HSD2469 1680x1050 470x300mm 22.0-inch             | 1        | 2.04%   |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                   | 1        | 2.04%   |
 | Goldstar W1934 GSM4B7A 1440x900 410x260mm 19.1-inch                    | 1        | 2.04%   |
@@ -1958,7 +1959,7 @@ Memory module models
 | Kingston RAM Module 4GB DIMM DDR3 1600MT/s             | 1        | 1.89%   |
 | Kingston RAM Module 2GB DIMM DDR3 1333MT/s             | 1        | 1.89%   |
 | Kingston RAM KHX3000C15/16GX 16GB DIMM DDR4 2400MT/s   | 1        | 1.89%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s      | 1        | 1.89%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s      | 1        | 1.89%   |
 | Kingston RAM KHX2666C13/8GX 8GB DIMM DDR4 2400MT/s     | 1        | 1.89%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s    | 1        | 1.89%   |
 | Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s    | 1        | 1.89%   |
@@ -2035,11 +2036,12 @@ Memory module speed
 | 3200  | 9        | 18.37%  |
 | 2400  | 7        | 14.29%  |
 | 1333  | 5        | 10.2%   |
-| 2667  | 3        | 6.12%   |
+| 2667  | 2        | 4.08%   |
 | 2133  | 2        | 4.08%   |
 | 800   | 2        | 4.08%   |
 | 3600  | 1        | 2.04%   |
 | 3066  | 1        | 2.04%   |
+| 2933  | 1        | 2.04%   |
 | 2666  | 1        | 2.04%   |
 | 1867  | 1        | 2.04%   |
 | 1067  | 1        | 2.04%   |

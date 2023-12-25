@@ -149,10 +149,11 @@ Contents
 Test Cases
 ----------
 
-Total: 37
+Total: 38
 
 | Vendor        | Model                    | Form-Factor | Probe                                                     | Date         |
 |---------------|--------------------------|-------------|-----------------------------------------------------------|--------------|
+| MSI           | PRO H610M-B DDR4         | Desktop     | [c6ff092502](https://bsd-hardware.info/?probe=c6ff092502) | Nov 26, 2023 |
 | Intel         | S5520UR E22554-752       | Server      | [8e20922890](https://bsd-hardware.info/?probe=8e20922890) | Oct 20, 2023 |
 | ASRockRack    | X470D4U2-2T              | Desktop     | [c07dd3b911](https://bsd-hardware.info/?probe=c07dd3b911) | Oct 09, 2023 |
 | Intel         | S5520UR E22554-752       | Server      | [ab0b5c4d36](https://bsd-hardware.info/?probe=ab0b5c4d36) | Sep 27, 2023 |
@@ -204,19 +205,20 @@ Installed operating systems
 
 | Name               | Computers | Percent |
 |--------------------|-----------|---------|
-| MyBee 13.1         | 7         | 23.33%  |
-| MyBee 13.2         | 6         | 20%     |
-| MyBee 14.0-BETA2   | 3         | 10%     |
-| MyBee 13.1-p7      | 3         | 10%     |
-| MyBee 14.0-CURRENT | 2         | 6.67%   |
-| MyBee 13.1-p1      | 2         | 6.67%   |
-| MyBee 14.0-BETA5   | 1         | 3.33%   |
-| MyBee 14.0-BETA3   | 1         | 3.33%   |
-| MyBee 13.2-RC5     | 1         | 3.33%   |
-| MyBee 13.2-RC4     | 1         | 3.33%   |
-| MyBee 13.2-RC2     | 1         | 3.33%   |
-| MyBee 13.1-p5      | 1         | 3.33%   |
-| MyBee 13.1-p3      | 1         | 3.33%   |
+| MyBee 13.1         | 7         | 22.58%  |
+| MyBee 13.2         | 6         | 19.35%  |
+| MyBee 14.0-BETA2   | 3         | 9.68%   |
+| MyBee 13.1-p7      | 3         | 9.68%   |
+| MyBee 14.0-CURRENT | 2         | 6.45%   |
+| MyBee 13.1-p1      | 2         | 6.45%   |
+| MyBee 14.0-BETA5   | 1         | 3.23%   |
+| MyBee 14.0-BETA3   | 1         | 3.23%   |
+| MyBee 14.0         | 1         | 3.23%   |
+| MyBee 13.2-RC5     | 1         | 3.23%   |
+| MyBee 13.2-RC4     | 1         | 3.23%   |
+| MyBee 13.2-RC2     | 1         | 3.23%   |
+| MyBee 13.1-p5      | 1         | 3.23%   |
+| MyBee 13.1-p3      | 1         | 3.23%   |
 
 OS Family
 ---------
@@ -440,10 +442,10 @@ Motherboard manufacture year
 | 2014 | 2         | 7.41%   |
 | 2013 | 2         | 7.41%   |
 | 2012 | 2         | 7.41%   |
-| 2011 | 2         | 7.41%   |
+| 2010 | 2         | 7.41%   |
 | 2021 | 1         | 3.7%    |
 | 2019 | 1         | 3.7%    |
-| 2010 | 1         | 3.7%    |
+| 2011 | 1         | 3.7%    |
 | 2009 | 1         | 3.7%    |
 
 Form Factor
@@ -517,13 +519,13 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 2      | 8         | 28.57%  |
-| 1      | 8         | 28.57%  |
-| 0      | 4         | 14.29%  |
-| 3      | 3         | 10.71%  |
-| 5      | 2         | 7.14%   |
-| 4      | 2         | 7.14%   |
-| 6      | 1         | 3.57%   |
+| 2      | 9         | 31.03%  |
+| 1      | 8         | 27.59%  |
+| 0      | 4         | 13.79%  |
+| 3      | 3         | 10.34%  |
+| 5      | 2         | 6.9%    |
+| 4      | 2         | 6.9%    |
+| 6      | 1         | 3.45%   |
 
 Has CD-ROM
 ----------
@@ -633,7 +635,7 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 6         | 13     | 19.35%  |
+| Seagate             | 6         | 15     | 19.35%  |
 | Toshiba             | 5         | 17     | 16.13%  |
 | Samsung Electronics | 4         | 6      | 12.9%   |
 | Kingston            | 4         | 7      | 12.9%   |
@@ -696,7 +698,7 @@ Hard disk drive vendors
 
 | Vendor  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| Seagate | 6         | 13     | 50%     |
+| Seagate | 6         | 15     | 50%     |
 | Toshiba | 4         | 15     | 33.33%  |
 | WDC     | 1         | 1      | 8.33%   |
 | HGST    | 1         | 2      | 8.33%   |
@@ -727,7 +729,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 11        | 31     | 36.67%  |
+| HDD  | 11        | 33     | 36.67%  |
 | NVMe | 10        | 15     | 33.33%  |
 | SSD  | 9         | 14     | 30%     |
 
@@ -741,7 +743,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 19        | 45     | 65.52%  |
+| SATA | 19        | 47     | 65.52%  |
 | NVMe | 10        | 15     | 34.48%  |
 
 Drive Size
@@ -754,7 +756,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.51-1.0   | 7         | 15     | 33.33%  |
+| 0.51-1.0   | 7         | 17     | 33.33%  |
 | 0.01-0.5   | 7         | 10     | 33.33%  |
 | 10.01-20.0 | 2         | 10     | 9.52%   |
 | 1.01-2.0   | 2         | 3      | 9.52%   |
@@ -862,7 +864,7 @@ Number of failed and malfunc. drives
 
 | Status  | Computers | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 23        | 56     | 92%     |
+| Works   | 23        | 58     | 92%     |
 | Malfunc | 2         | 4      | 8%      |
 
 Storage controller

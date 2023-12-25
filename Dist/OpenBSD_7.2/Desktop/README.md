@@ -691,7 +691,7 @@ Hard drive models
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
 | OPENBSD SR RAID 1 2TB           | 4        | 5.13%   |
-| NVMe Samsung SSD 980 500GB      | 4        | 5.13%   |
+| NVMe Samsung SSD 980 1TB        | 4        | 5.13%   |
 | Kingston SEDC500M480G 480GB     | 2        | 2.56%   |
 | WDC WD7500AACS-00ZJB0 752GB     | 1        | 1.28%   |
 | WDC WD4003FFBX-68MU3N0 4TB      | 1        | 1.28%   |
@@ -811,11 +811,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 26       | 37     | 47.27%  |
-| 0.51-1.0   | 12       | 17     | 21.82%  |
-| 1.01-2.0   | 8        | 28     | 14.55%  |
-| 4.01-10.0  | 5        | 13     | 9.09%   |
-| 3.01-4.0   | 4        | 6      | 7.27%   |
+| 0.01-0.5   | 23       | 32     | 41.07%  |
+| 0.51-1.0   | 16       | 22     | 28.57%  |
+| 1.01-2.0   | 8        | 28     | 14.29%  |
+| 4.01-10.0  | 5        | 13     | 8.93%   |
+| 3.01-4.0   | 4        | 6      | 7.14%   |
 
 Space Total
 -----------
@@ -1833,7 +1833,7 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1        | 25%     |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1        | 25%     |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 2400MT/s  | 1        | 25%     |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s  | 1        | 25%     |
 | Corsair RAM CMK64GX5M2B5200C40 32GB DIMM DDR5 4800MT/s | 1        | 25%     |
 
 Memory Kind
@@ -1885,8 +1885,9 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 2400  | 2        | 66.67%  |
 | 4800  | 1        | 33.33%  |
+| 3000  | 1        | 33.33%  |
+| 2400  | 1        | 33.33%  |
 
 Printers & scanners
 -------------------

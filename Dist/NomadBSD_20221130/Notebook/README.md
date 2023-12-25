@@ -397,14 +397,14 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2019 | 4         | 14.81%  |
 | 2022 | 3         | 11.11%  |
+| 2018 | 3         | 11.11%  |
 | 2012 | 3         | 11.11%  |
+| 2011 | 3         | 11.11%  |
 | 2023 | 2         | 7.41%   |
 | 2020 | 2         | 7.41%   |
-| 2018 | 2         | 7.41%   |
+| 2019 | 2         | 7.41%   |
 | 2014 | 2         | 7.41%   |
-| 2011 | 2         | 7.41%   |
 | 2010 | 2         | 7.41%   |
 | 2009 | 2         | 7.41%   |
 | 2021 | 1         | 3.7%    |
@@ -643,7 +643,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB   | 1         | 3.7%    |
 | SanDisk X400 M.2 2280 256GB       | 1         | 3.7%    |
 | SanDisk SDSSDA240G 240GB          | 1         | 3.7%    |
-| SanDisk pSSD 256GB                | 1         | 3.7%    |
+| SanDisk pSSD 16GB                 | 1         | 3.7%    |
 | Samsung SSD PM851 2.5 7mm 256GB   | 1         | 3.7%    |
 | Samsung SSD 860 EVO M.2 250GB     | 1         | 3.7%    |
 | Samsung SSD 850 EVO 2TB           | 1         | 3.7%    |
@@ -818,9 +818,9 @@ Failed drive models
 ![Failed Drives](./images/pie_chart_bsd/drive_failed.svg)
 
 
-| Model              | Notebooks | Drives | Percent |
-|--------------------|-----------|--------|---------|
-| SanDisk pSSD 256GB | 1         | 1      | 100%    |
+| Model             | Notebooks | Drives | Percent |
+|-------------------|-----------|--------|---------|
+| SanDisk pSSD 16GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -1680,11 +1680,11 @@ Memory module models
 | Samsung RAM M471A2K43DB1-CTD 16GB SODIMM DDR4 2667MT/s                    | 1         | 2.7%    |
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 1         | 2.7%    |
 | Samsung RAM M425R1GB4DB0-CWMOL 16GB SODIMM DDR5 5600MT/s                  | 1         | 2.7%    |
-| Samsung RAM M4 70T5663RZ3-CF7 2GB SODIMM SDRAM 1639MT/s                   | 1         | 2.7%    |
+| Samsung RAM M4 70T5663RZ3-CF7 2GB SODIMM DDR 1639MT/s                     | 1         | 2.7%    |
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s              | 1         | 2.7%    |
 | Samsung RAM K4E6E304EB-EGCF 4GB Row Of Chips LPDDR3 1867MT/s              | 1         | 2.7%    |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s                   | 1         | 2.7%    |
-| Nanya RAM NT2GC64B8HC0NS-CG 2GB SODIMM DDR3 667MT/s                       | 1         | 2.7%    |
+| Nanya RAM NT2GC64B8HC0NS-CG 2GB SODIMM DDR3 1333MT/s                      | 1         | 2.7%    |
 | Micron RAM Module 4GB SODIMM LPDDR3 2133MT/s                              | 1         | 2.7%    |
 | Micron RAM Module 2GB Row Of Chips LPDDR5 6400MT/s                        | 1         | 2.7%    |
 | Micron RAM Module 2GB Row Of Chips LPDDR4 4267MT/s                        | 1         | 2.7%    |
@@ -1695,7 +1695,7 @@ Memory module models
 | Kingston RAM 9905428-105.A00G 8GB SODIMM DDR3 1333MT/s                    | 1         | 2.7%    |
 | A-DATA RAM Module 8GB SODIMM DDR3 1333MT/s                                | 1         | 2.7%    |
 | A-DATA RAM MIOVE1B163BZ 2GB SODIMM SDRAM 1639MT/s                         | 1         | 2.7%    |
-| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 667MT/s | 1         | 2.7%    |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 2.7%    |
 
 Memory Kind
 -----------
@@ -1757,16 +1757,17 @@ Memory module speed
 | 2667  | 5         | 16.67%  |
 | 1600  | 5         | 16.67%  |
 | 2133  | 3         | 10%     |
-| 667   | 3         | 10%     |
+| 1333  | 3         | 10%     |
 | 2400  | 2         | 6.67%   |
 | 1334  | 2         | 6.67%   |
-| 1333  | 2         | 6.67%   |
 | 1067  | 2         | 6.67%   |
 | 6400  | 1         | 3.33%   |
 | 5600  | 1         | 3.33%   |
 | 4267  | 1         | 3.33%   |
 | 1867  | 1         | 3.33%   |
 | 1639  | 1         | 3.33%   |
+| 800   | 1         | 3.33%   |
+| 667   | 1         | 3.33%   |
 | 400   | 1         | 3.33%   |
 
 Printers & scanners

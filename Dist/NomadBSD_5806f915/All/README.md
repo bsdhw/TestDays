@@ -1460,8 +1460,8 @@ Monitor models
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 350x190mm 15.7-inch | 1         | 2.17%   |
 | BOE LCD Monitor BOE0715 1366x768 250x140mm 11.3-inch                     | 1         | 2.17%   |
 | BOE LCD Monitor BOE069B 1600x900 380x210mm 17.1-inch                     | 1         | 2.17%   |
-| BOE LCD Monitor BOE0691 1920x1080 280x160mm 12.7-inch                    | 1         | 2.17%   |
 | BOE LCD Monitor BOE062B 1920x1080 340x190mm 15.3-inch                    | 1         | 2.17%   |
+| BOE HF BOE0691 1920x1080 280x160mm 12.7-inch                             | 1         | 2.17%   |
 | AU Optronics LCD Monitor AUO8174 1280x800 330x210mm 15.4-inch            | 1         | 2.17%   |
 | AU Optronics LCD Monitor AUO70EC 1366x768 340x190mm 15.3-inch            | 1         | 2.17%   |
 | AU Optronics LCD Monitor AUO305C 1366x768 260x140mm 11.6-inch            | 1         | 2.17%   |

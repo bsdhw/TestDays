@@ -662,7 +662,7 @@ Hard drive models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 5.71%   |
-| SanDisk pSSD 256GB                        | 2         | 5.71%   |
+| SanDisk pSSD 16GB                         | 2         | 5.71%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 2.86%   |
 | WDC WD10SPZX-00Z10T0 1TB                  | 1         | 2.86%   |
 | WDC WD10JPVX-22JC3T0 1TB                  | 1         | 2.86%   |
@@ -1767,7 +1767,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s              | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |

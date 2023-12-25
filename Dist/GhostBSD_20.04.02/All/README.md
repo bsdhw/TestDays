@@ -564,9 +564,9 @@ Motherboard manufacture year
 | 2020 | 16        | 14.68%  |
 | 2018 | 14        | 12.84%  |
 | 2013 | 12        | 11.01%  |
-| 2019 | 10        | 9.17%   |
 | 2014 | 10        | 9.17%   |
 | 2012 | 10        | 9.17%   |
+| 2019 | 9         | 8.26%   |
 | 2017 | 8         | 7.34%   |
 | 2015 | 7         | 6.42%   |
 | 2011 | 6         | 5.5%    |
@@ -574,6 +574,7 @@ Motherboard manufacture year
 | 2008 | 4         | 3.67%   |
 | 2010 | 3         | 2.75%   |
 | 2016 | 2         | 1.83%   |
+| 2022 | 1         | 0.92%   |
 | 2021 | 1         | 0.92%   |
 | 2007 | 1         | 0.92%   |
 
@@ -1606,7 +1607,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SDC5441 1366x768 310x170mm 13.9-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1020x570mm 46.0-inch | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM02A4 1360x768                       | 1         | 0.94%   |
@@ -1616,7 +1617,7 @@ Monitor models
 | Philips LCD Monitor PHL 240V5 1920x1080                                | 1         | 0.94%   |
 | Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                     | 1         | 0.94%   |
 | PANDA LCD Monitor NCP0040 1920x1080 340x190mm 15.3-inch                | 1         | 0.94%   |
-| Panasonic VVX13F009G00 MEI96A2 1920x1080 290x170mm 13.2-inch           | 1         | 0.94%   |
+| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch            | 1         | 0.94%   |
 | OEM 32W_LCD_TV OEM3700 1920x540                                        | 1         | 0.94%   |
 | LG Electronics LCD Monitor W1952 2806x900                              | 1         | 0.94%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1         | 0.94%   |
@@ -1639,7 +1640,7 @@ Monitor screen resolution
 | 1920x1080 (FHD)    | 34        | 32.38%  |
 | 1366x768 (WXGA)    | 25        | 23.81%  |
 | 1600x900 (HD+)     | 10        | 9.52%   |
-| 3840x2160 (4K)     | 6         | 5.71%   |
+| 3840x2160 (4K)     | 7         | 6.67%   |
 | 2560x1440 (QHD)    | 6         | 5.71%   |
 | 1680x1050 (WSXGA+) | 4         | 3.81%   |
 | 1280x1024 (SXGA)   | 4         | 3.81%   |
@@ -1649,7 +1650,6 @@ Monitor screen resolution
 | 1360x768           | 2         | 1.9%    |
 | 5120x1440          | 1         | 0.95%   |
 | 3200x1080          | 1         | 0.95%   |
-| 2880x1620          | 1         | 0.95%   |
 | 2806x900           | 1         | 0.95%   |
 | 1920x540           | 1         | 0.95%   |
 | 1440x900 (WXGA+)   | 1         | 0.95%   |
@@ -1664,14 +1664,14 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 26        | 25.49%  |
+| 15      | 25        | 24.51%  |
 | 13      | 16        | 15.69%  |
 | Unknown | 9         | 8.82%   |
 | 27      | 7         | 6.86%   |
 | 21      | 6         | 5.88%   |
+| 17      | 6         | 5.88%   |
 | 23      | 5         | 4.9%    |
 | 19      | 5         | 4.9%    |
-| 17      | 5         | 4.9%    |
 | 24      | 4         | 3.92%   |
 | 22      | 3         | 2.94%   |
 | 12      | 3         | 2.94%   |
@@ -1696,14 +1696,14 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 41        | 40.59%  |
+| 301-350     | 40        | 39.6%   |
 | 501-600     | 14        | 13.86%  |
 | 401-500     | 13        | 12.87%  |
 | Unknown     | 9         | 8.91%   |
 | 201-300     | 7         | 6.93%   |
+| 351-400     | 5         | 4.95%   |
 | 801-900     | 4         | 3.96%   |
 | 601-700     | 4         | 3.96%   |
-| 351-400     | 4         | 3.96%   |
 | 701-800     | 3         | 2.97%   |
 | 1001-1500   | 2         | 1.98%   |
 
@@ -1735,17 +1735,17 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 91-100         | 23        | 22.55%  |
+| 91-100         | 22        | 21.57%  |
 | 201-250        | 18        | 17.65%  |
 | 81-90          | 14        | 13.73%  |
 | Unknown        | 9         | 8.82%   |
 | 301-350        | 7         | 6.86%   |
 | 351-500        | 5         | 4.9%    |
 | 151-200        | 5         | 4.9%    |
+| 121-130        | 4         | 3.92%   |
 | 501-1000       | 4         | 3.92%   |
 | 71-80          | 3         | 2.94%   |
 | 61-70          | 3         | 2.94%   |
-| 121-130        | 3         | 2.94%   |
 | 101-110        | 3         | 2.94%   |
 | More than 1000 | 2         | 1.96%   |
 | 141-150        | 2         | 1.96%   |
@@ -1765,9 +1765,9 @@ Pixels per inch
 | 51-100        | 30        | 29.7%   |
 | 121-160       | 20        | 19.8%   |
 | Unknown       | 9         | 8.91%   |
-| 161-240       | 6         | 5.94%   |
+| 161-240       | 5         | 4.95%   |
+| More than 240 | 2         | 1.98%   |
 | 1-50          | 2         | 1.98%   |
-| More than 240 | 1         | 0.99%   |
 
 Multiple Monitors
 -----------------
@@ -2243,7 +2243,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 2.19%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s              | 3         | 2.19%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s                 | 2         | 1.46%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |
@@ -2341,7 +2341,7 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 40        | 33.61%  |
 | 2400    | 19        | 15.97%  |
-| 2667    | 14        | 11.76%  |
+| 2667    | 13        | 10.92%  |
 | 3200    | 9         | 7.56%   |
 | 1333    | 9         | 7.56%   |
 | 2133    | 7         | 5.88%   |
@@ -2351,6 +2351,7 @@ Memory module speed
 | Unknown | 2         | 1.68%   |
 | 3600    | 1         | 0.84%   |
 | 3066    | 1         | 0.84%   |
+| 2933    | 1         | 0.84%   |
 | 2666    | 1         | 0.84%   |
 | 1867    | 1         | 0.84%   |
 | 667     | 1         | 0.84%   |

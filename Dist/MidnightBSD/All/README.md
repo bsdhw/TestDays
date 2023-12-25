@@ -149,10 +149,12 @@ Contents
 Test Cases
 ----------
 
-Total: 61
+Total: 63
 
 | Vendor     | Model                       | Form-Factor | Probe                                                     | Date         |
 |------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Lenovo     | ThinkPad A485 20MU000VUS    | Notebook    | [98663cbfef](https://bsd-hardware.info/?probe=98663cbfef) | Dec 22, 2023 |
+| Lenovo     | ThinkPad A485 20MU000VUS    | Notebook    | [8f21b7d70f](https://bsd-hardware.info/?probe=8f21b7d70f) | Nov 24, 2023 |
 | ASRock     | X570 Steel Legend WiFi a... | Desktop     | [a98f0b3d67](https://bsd-hardware.info/?probe=a98f0b3d67) | Sep 03, 2023 |
 | ASRock     | X570 Steel Legend WiFi a... | Desktop     | [d352ea60cf](https://bsd-hardware.info/?probe=d352ea60cf) | Sep 03, 2023 |
 | ASUSTek    | TUF Gaming B450M-PLUS II    | Desktop     | [1b53079f34](https://bsd-hardware.info/?probe=1b53079f34) | Aug 19, 2023 |
@@ -228,28 +230,29 @@ Installed operating systems
 
 | Name              | Computers | Percent |
 |-------------------|-----------|---------|
-| MidnightBSD 3.1.0 | 4         | 9.09%   |
-| MidnightBSD 2.0.2 | 4         | 9.09%   |
-| MidnightBSD 1.2   | 4         | 9.09%   |
-| MidnightBSD 3.0.0 | 3         | 6.82%   |
-| MidnightBSD 2.2.6 | 3         | 6.82%   |
-| MidnightBSD 2.2.0 | 3         | 6.82%   |
-| MidnightBSD 2.0.1 | 3         | 6.82%   |
-| MidnightBSD 3.0.1 | 2         | 4.55%   |
-| MidnightBSD 2.1.8 | 2         | 4.55%   |
-| MidnightBSD 2.1.5 | 2         | 4.55%   |
-| MidnightBSD 2.1.1 | 2         | 4.55%   |
-| MidnightBSD 2.0.7 | 2         | 4.55%   |
-| MidnightBSD 2.2.8 | 1         | 2.27%   |
-| MidnightBSD 2.2.5 | 1         | 2.27%   |
-| MidnightBSD 2.2.2 | 1         | 2.27%   |
-| MidnightBSD 2.1.6 | 1         | 2.27%   |
-| MidnightBSD 2.1.3 | 1         | 2.27%   |
-| MidnightBSD 2.1.2 | 1         | 2.27%   |
-| MidnightBSD 2.1.0 | 1         | 2.27%   |
-| MidnightBSD 2.0   | 1         | 2.27%   |
-| MidnightBSD 1.2.9 | 1         | 2.27%   |
-| MidnightBSD 1.2.7 | 1         | 2.27%   |
+| MidnightBSD 3.1.0 | 5         | 10.87%  |
+| MidnightBSD 2.0.2 | 4         | 8.7%    |
+| MidnightBSD 1.2   | 4         | 8.7%    |
+| MidnightBSD 3.0.0 | 3         | 6.52%   |
+| MidnightBSD 2.2.6 | 3         | 6.52%   |
+| MidnightBSD 2.2.0 | 3         | 6.52%   |
+| MidnightBSD 2.0.1 | 3         | 6.52%   |
+| MidnightBSD 3.0.1 | 2         | 4.35%   |
+| MidnightBSD 2.1.8 | 2         | 4.35%   |
+| MidnightBSD 2.1.5 | 2         | 4.35%   |
+| MidnightBSD 2.1.1 | 2         | 4.35%   |
+| MidnightBSD 2.0.7 | 2         | 4.35%   |
+| MidnightBSD 3.1.2 | 1         | 2.17%   |
+| MidnightBSD 2.2.8 | 1         | 2.17%   |
+| MidnightBSD 2.2.5 | 1         | 2.17%   |
+| MidnightBSD 2.2.2 | 1         | 2.17%   |
+| MidnightBSD 2.1.6 | 1         | 2.17%   |
+| MidnightBSD 2.1.3 | 1         | 2.17%   |
+| MidnightBSD 2.1.2 | 1         | 2.17%   |
+| MidnightBSD 2.1.0 | 1         | 2.17%   |
+| MidnightBSD 2.0   | 1         | 2.17%   |
+| MidnightBSD 1.2.9 | 1         | 2.17%   |
+| MidnightBSD 1.2.7 | 1         | 2.17%   |
 
 OS Family
 ---------
@@ -398,7 +401,7 @@ Motherboard model
 
 | Name                                  | Computers | Percent |
 |---------------------------------------|-----------|---------|
-| ASUS TUF Gaming B450M-PLUS II         | 3         | 16.67%  |
+| ASUS TUF GAMING B450M-PLUS II         | 3         | 16.67%  |
 | ASRock B550M Steel Legend             | 2         | 11.11%  |
 | Supermicro X9SCL/X9SCM                | 1         | 5.56%   |
 | Lenovo ThinkPad X1 Extreme 20MF000BUS | 1         | 5.56%   |
@@ -448,10 +451,10 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2019 | 5         | 27.78%  |
 | 2018 | 3         | 16.67%  |
-| 2021 | 2         | 11.11%  |
+| 2020 | 2         | 11.11%  |
 | 2023 | 1         | 5.56%   |
 | 2022 | 1         | 5.56%   |
-| 2020 | 1         | 5.56%   |
+| 2021 | 1         | 5.56%   |
 | 2017 | 1         | 5.56%   |
 | 2013 | 1         | 5.56%   |
 | 2011 | 1         | 5.56%   |
@@ -644,7 +647,7 @@ Hard drive vendors
 | WDC                 | 6         | 24     | 13.95%  |
 | Intel               | 6         | 40     | 13.95%  |
 | Toshiba             | 3         | 7      | 6.98%   |
-| SanDisk             | 2         | 9      | 4.65%   |
+| SanDisk             | 2         | 11     | 4.65%   |
 | KIOXIA              | 2         | 3      | 4.65%   |
 | SK hynix            | 1         | 1      | 2.33%   |
 | Micron Technology   | 1         | 2      | 2.33%   |
@@ -732,7 +735,7 @@ Solid state drive vendors
 | Seagate             | 4         | 7      | 20%     |
 | Intel               | 4         | 31     | 20%     |
 | Toshiba             | 3         | 7      | 15%     |
-| SanDisk             | 1         | 4      | 5%      |
+| SanDisk             | 1         | 6      | 5%      |
 | Hewlett-Packard     | 1         | 1      | 5%      |
 
 Drive Kind
@@ -745,7 +748,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 13        | 90     | 40.63%  |
+| SSD  | 13        | 92     | 40.63%  |
 | NVMe | 11        | 45     | 34.38%  |
 | HDD  | 8         | 58     | 25%     |
 
@@ -759,7 +762,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 16        | 148    | 59.26%  |
+| SATA | 16        | 150    | 59.26%  |
 | NVMe | 11        | 45     | 40.74%  |
 
 Drive Size
@@ -772,7 +775,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 69     | 50%     |
+| 0.01-0.5   | 15        | 71     | 50%     |
 | 0.51-1.0   | 6         | 21     | 20%     |
 | 1.01-2.0   | 3         | 7      | 10%     |
 | 4.01-10.0  | 3         | 45     | 10%     |
@@ -886,7 +889,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 18        | 189    | 85.71%  |
+| Works    | 18        | 191    | 85.71%  |
 | Malfunc  | 2         | 3      | 9.52%   |
 | Detected | 1         | 1      | 4.76%   |
 

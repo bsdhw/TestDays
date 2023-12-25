@@ -2152,7 +2152,7 @@ Memory module models
 | Crucial RAM BL32G32C16S4B.M16FB1 32GB SODIMM DDR4 2667MT/s     | 2         | 2.22%   |
 | Unknown RAM Module 4GB SODIMM DDR4 2667MT/s                    | 1         | 1.11%   |
 | Unknown RAM Module 1GB SODIMM DDR                              | 1         | 1.11%   |
-| Team RAM TEAMGROUP-SD4-3200 32GB SODIMM DDR4 3200MT/s          | 1         | 1.11%   |
+| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 1.11%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                   | 1         | 1.11%   |

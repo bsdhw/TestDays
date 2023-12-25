@@ -470,20 +470,21 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2019 | 8        | 13.11%  |
-| 2010 | 7        | 11.48%  |
 | 2021 | 6        | 9.84%   |
+| 2019 | 6        | 9.84%   |
 | 2013 | 6        | 9.84%   |
+| 2010 | 6        | 9.84%   |
+| 2018 | 5        | 8.2%    |
 | 2016 | 5        | 8.2%    |
 | 2012 | 5        | 8.2%    |
 | 2020 | 4        | 6.56%   |
-| 2018 | 4        | 6.56%   |
 | 2015 | 4        | 6.56%   |
 | 2011 | 4        | 6.56%   |
 | 2017 | 3        | 4.92%   |
 | 2014 | 3        | 4.92%   |
+| 2007 | 2        | 3.28%   |
+| 2022 | 1        | 1.64%   |
 | 2009 | 1        | 1.64%   |
-| 2007 | 1        | 1.64%   |
 
 Form Factor
 -----------
@@ -2009,7 +2010,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.37%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.37%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM 1600MT/s        | 1        | 1.37%   |
+| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.37%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |
@@ -2024,7 +2025,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6N1 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Kingston RAM KHX3466C19D4/16G 16GB DIMM DDR4 3200MT/s   | 1        | 1.37%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 1        | 1.37%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2667MT/s       | 1        | 1.37%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s       | 1        | 1.37%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1        | 1.37%   |
 | Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s | 1        | 1.37%   |
 
@@ -2088,13 +2089,14 @@ Memory module speed
 |-------|----------|---------|
 | 1600  | 16       | 25%     |
 | 1333  | 15       | 23.44%  |
-| 2667  | 6        | 9.38%   |
 | 2400  | 6        | 9.38%   |
 | 3200  | 5        | 7.81%   |
+| 2667  | 5        | 7.81%   |
 | 2133  | 5        | 7.81%   |
 | 2666  | 2        | 3.13%   |
 | 400   | 2        | 3.13%   |
 | 3000  | 1        | 1.56%   |
+| 2933  | 1        | 1.56%   |
 | 1866  | 1        | 1.56%   |
 | 1200  | 1        | 1.56%   |
 | 1066  | 1        | 1.56%   |
