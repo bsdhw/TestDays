@@ -1560,7 +1560,7 @@ Monitor models
 | Samsung Electronics LF27T370F SAM711E 1920x1080 600x340mm 27.2-inch      | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch     | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch     | 1         | 1.47%   |
-| Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch     | 1         | 1.47%   |
+| Samsung Electronics LCD Monitor SEC3245 1280x800 330x210mm 15.4-inch     | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SDC4852 1366x768 340x190mm 15.3-inch     | 1         | 1.47%   |
 | Samsung Electronics LCD Monitor SDC4163 3456x2160 290x180mm 13.4-inch    | 1         | 1.47%   |
 | Philips PHL 275S1 PHL094B 2560x1440 600x340mm 27.2-inch                  | 1         | 1.47%   |
@@ -1661,8 +1661,8 @@ Proportional relationship between the width and the height
 
 | Ratio   | Notebooks | Percent |
 |---------|-----------|---------|
-| 16/9    | 49        | 77.78%  |
-| 16/10   | 10        | 15.87%  |
+| 16/9    | 48        | 76.19%  |
+| 16/10   | 11        | 17.46%  |
 | Unknown | 2         | 3.17%   |
 | 5/4     | 1         | 1.59%   |
 | 3/2     | 1         | 1.59%   |
@@ -1678,9 +1678,9 @@ Area in inch²
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
 | 81-90          | 18        | 26.87%  |
-| 91-100         | 18        | 26.87%  |
+| 91-100         | 17        | 25.37%  |
 | 61-70          | 14        | 20.9%   |
-| 101-110        | 6         | 8.96%   |
+| 101-110        | 7         | 10.45%  |
 | 301-350        | 3         | 4.48%   |
 | 71-80          | 2         | 2.99%   |
 | 201-250        | 2         | 2.99%   |
@@ -1699,8 +1699,8 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 37        | 56.06%  |
-| 101-120       | 15        | 22.73%  |
-| 51-100        | 9         | 13.64%  |
+| 101-120       | 14        | 21.21%  |
+| 51-100        | 10        | 15.15%  |
 | 161-240       | 2         | 3.03%   |
 | Unknown       | 2         | 3.03%   |
 | More than 240 | 1         | 1.52%   |
@@ -2136,7 +2136,7 @@ Memory module vendors
 | Kingston            | 9         | 10.23%  |
 | Micron Technology   | 7         | 7.95%   |
 | Unknown             | 5         | 5.68%   |
-| Goodram             | 5         | 5.68%   |
+| GOODRAM             | 5         | 5.68%   |
 | Ramaxel Technology  | 4         | 4.55%   |
 | Transcend           | 2         | 2.27%   |
 | Nanya Technology    | 2         | 2.27%   |

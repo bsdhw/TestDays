@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 277
+Total: 278
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Protectli     | VP2420                      | [5368ee9cc8](https://bsd-hardware.info/?probe=5368ee9cc8) | Dec 24, 2023 |
 | Pegatron      | 2ACF                        | [2556fa3be1](https://bsd-hardware.info/?probe=2556fa3be1) | Dec 22, 2023 |
 | Unknown       | Unknown                     | [7b24999fbb](https://bsd-hardware.info/?probe=7b24999fbb) | Dec 22, 2023 |
 | Protectli     | VP2420                      | [74c1ede426](https://bsd-hardware.info/?probe=74c1ede426) | Dec 10, 2023 |
@@ -445,9 +446,9 @@ Installed operating systems
 | OpenBSD 7.1       | 8        | 3.77%   |
 | helloSystem 0.8.1 | 7        | 3.3%    |
 | helloSystem 0.4.0 | 7        | 3.3%    |
-| OPNsense 23.7.9   | 6        | 2.83%   |
 | OPNsense 22.7     | 6        | 2.83%   |
 | helloSystem 0.7.0 | 6        | 2.83%   |
+| OPNsense 23.7.9   | 5        | 2.36%   |
 | OPNsense 23.1.5   | 5        | 2.36%   |
 | OPNsense 23.1.11  | 5        | 2.36%   |
 | OPNsense 23.7.7   | 4        | 1.89%   |
@@ -459,6 +460,7 @@ Installed operating systems
 | OPNsense 21.1     | 4        | 1.89%   |
 | OpenBSD 7.2       | 4        | 1.89%   |
 | helloSystem 0.5.0 | 4        | 1.89%   |
+| OPNsense 23.7.10  | 3        | 1.42%   |
 | OPNsense 23.1.9   | 3        | 1.42%   |
 | OPNsense 23.1.7   | 3        | 1.42%   |
 | OPNsense 23.1.4   | 3        | 1.42%   |
@@ -475,7 +477,6 @@ Installed operating systems
 | helloSystem 0.3.0 | 3        | 1.42%   |
 | OPNsense 23.7.8   | 2        | 0.94%   |
 | OPNsense 23.7.2   | 2        | 0.94%   |
-| OPNsense 23.7.10  | 2        | 0.94%   |
 | OPNsense 23.7.1   | 2        | 0.94%   |
 | OPNsense 23.7     | 2        | 0.94%   |
 | OPNsense 23.1.8   | 2        | 0.94%   |
@@ -534,7 +535,7 @@ Desktop Environment
 | Openbox       | 2        | 1.28%   |
 | KDE5          | 2        | 1.28%   |
 | fvwm          | 2        | 1.28%   |
-| CTWM          | 2        | 1.28%   |
+| ctwm          | 2        | 1.28%   |
 | xfwm          | 1        | 0.64%   |
 | LXDE          | 1        | 0.64%   |
 | Enlightenment | 1        | 0.64%   |
@@ -1454,8 +1455,8 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 128      | 69.95%  |
-| IDE  | 26       | 14.21%  |
+| SATA | 126      | 68.85%  |
+| IDE  | 28       | 15.3%   |
 | NVMe | 19       | 10.38%  |
 | RAID | 6        | 3.28%   |
 | SCSI | 3        | 1.64%   |
@@ -2425,48 +2426,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown                                                        | 6        | 3.55%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 5        | 2.96%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 4        | 2.37%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s                       | 3        | 1.78%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 3        | 1.78%   |
-| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                    | 2        | 1.18%   |
-| Unknown RAM Module 1GB DIMM SDRAM                              | 2        | 1.18%   |
-| Unknown RAM Module 1GB DIMM DDR2 800MT/s                       | 2        | 1.18%   |
-| Transcend RAM TS512MLH72V1H 4GB DIMM DDR4 2133MT/s             | 2        | 1.18%   |
-| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 2        | 1.18%   |
-| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                      | 2        | 1.18%   |
-| Samsung RAM M471B1G73DB0-YK0 8GB DIMM DDR3 1600MT/s            | 2        | 1.18%   |
-| Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s        | 2        | 1.18%   |
-| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s          | 2        | 1.18%   |
-| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1333MT/s         | 2        | 1.18%   |
-| Kingston RAM 99P5700-017.A00G 16GB SODIMM DDR4 2667MT/s        | 2        | 1.18%   |
-| Crucial RAM CT8G4DFRA32A.M4FF 8GB DIMM DDR4 3200MT/s           | 2        | 1.18%   |
-| Corsair RAM CML16GX3M4A1600C9 4GB DIMM DDR3 1600MT/s           | 2        | 1.18%   |
-| Unknown RAM Module 8GB DIMM DDR3 1866MT/s                      | 1        | 0.59%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                      | 1        | 0.59%   |
-| Unknown RAM Module 4GB SODIMM DDR3 800MT/s                     | 1        | 0.59%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                           | 1        | 0.59%   |
-| Unknown RAM Module 4GB 1600MT/s                                | 1        | 0.59%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                   | 1        | 0.59%   |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 0.59%   |
-| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                     | 1        | 0.59%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1        | 0.59%   |
-| Unknown RAM Module 2GB DIMM SDRAM                              | 1        | 0.59%   |
-| Unknown RAM Module 2GB DIMM DDR3 1066MT/s                      | 1        | 0.59%   |
-| Unknown RAM Module 2GB DIMM DDR2 667MT/s                       | 1        | 0.59%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                           | 1        | 0.59%   |
-| Unknown RAM Module 1GB DIMM DDR2                               | 1        | 0.59%   |
-| Unknown (AB) RAM Module 2GB DIMM LPDDR4 1600MT/s               | 1        | 0.59%   |
-| Unknown (AB) RAM Module 2048MB DIMM LPDDR4 2133MT/s            | 1        | 0.59%   |
-| Unknown (0x0DD5) RAM AZ8G4SW266-8G 8GB SODIMM DDR4 2667MT/s    | 1        | 0.59%   |
-| Transcend RAM TS256MSK64V3N 2GB SODIMM DDR3 1333MT/s           | 1        | 0.59%   |
-| Transcend RAM Module 4GB SODIMM DDR3 1600MT/s                  | 1        | 0.59%   |
-| Transcend RAM JM3200HSE-16G 16GB SODIMM DDR4 3200MT/s          | 1        | 0.59%   |
-| SK_Hynix RAM Module 8GB SODIMM DDR4 2400MT/s                   | 1        | 0.59%   |
-| SK hynix RAM Module 4GB SODIMM DDR3 1333MT/s                   | 1        | 0.59%   |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown                                                           | 6        | 3.55%   |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 5        | 2.96%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                       | 4        | 2.37%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s                          | 3        | 1.78%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s             | 3        | 1.78%   |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                       | 2        | 1.18%   |
+| Unknown RAM Module 1GB DIMM SDRAM                                 | 2        | 1.18%   |
+| Unknown RAM Module 1GB DIMM DDR2 800MT/s                          | 2        | 1.18%   |
+| Transcend RAM TS512MLH72V1H 4GB DIMM DDR4 2133MT/s                | 2        | 1.18%   |
+| SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s            | 2        | 1.18%   |
+| Samsung RAM Module 8GB DIMM DDR4 2133MT/s                         | 2        | 1.18%   |
+| Samsung RAM M471B1G73DB0-YK0 8GB DIMM DDR3 1600MT/s               | 2        | 1.18%   |
+| Ramaxel RAM RMT3170EB68F9W1600 4GB SODIMM DDR3 1600MT/s           | 2        | 1.18%   |
+| Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s             | 2        | 1.18%   |
+| Kingston RAM ACR256X64D3U1333C9 2GB DIMM DDR3 1333MT/s            | 2        | 1.18%   |
+| Kingston RAM 99P5700-017.A00G 16GB SODIMM DDR4 2667MT/s           | 2        | 1.18%   |
+| Crucial RAM CT8G4DFRA32A.M4FF 8GB DIMM DDR4 3200MT/s              | 2        | 1.18%   |
+| Corsair RAM CML16GX3M4A1600C9 4GB DIMM DDR3 1600MT/s              | 2        | 1.18%   |
+| Unknown RAM Module 8GB DIMM DDR3 1866MT/s                         | 1        | 0.59%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s                         | 1        | 0.59%   |
+| Unknown RAM Module 4GB SODIMM DDR3 800MT/s                        | 1        | 0.59%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                              | 1        | 0.59%   |
+| Unknown RAM Module 4GB 1600MT/s                                   | 1        | 0.59%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s                      | 1        | 0.59%   |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 1        | 0.59%   |
+| Unknown RAM Module 2GB SODIMM DDR2 800MT/s                        | 1        | 0.59%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                        | 1        | 0.59%   |
+| Unknown RAM Module 2GB DIMM SDRAM                                 | 1        | 0.59%   |
+| Unknown RAM Module 2GB DIMM DDR3 1066MT/s                         | 1        | 0.59%   |
+| Unknown RAM Module 2GB DIMM DDR2 667MT/s                          | 1        | 0.59%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                              | 1        | 0.59%   |
+| Unknown RAM Module 1GB DIMM DDR2                                  | 1        | 0.59%   |
+| Unknown (AB) RAM Module 2GB DIMM LPDDR4 1600MT/s                  | 1        | 0.59%   |
+| Unknown (AB) RAM Module 2048MB DIMM LPDDR4 2133MT/s               | 1        | 0.59%   |
+| Unknown (0x0DD5) RAM AZ8G4SW266-8G 8GB SODIMM DDR4 2667MT/s       | 1        | 0.59%   |
+| Transcend RAM TS256MSK64V3N 2GB SODIMM DDR3 1333MT/s              | 1        | 0.59%   |
+| Transcend RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1        | 0.59%   |
+| Transcend RAM JM3200HSE-16G 16GB SODIMM DDR4 3200MT/s             | 1        | 0.59%   |
+| SK_Hynix RAM Module 8GB SODIMM DDR4 2400MT/s                      | 1        | 0.59%   |
+| SK hynix RAM Module 4GB SODIMM DDR3 1333MT/s                      | 1        | 0.59%   |
 
 Memory Kind
 -----------

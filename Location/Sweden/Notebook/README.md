@@ -1849,7 +1849,7 @@ Memory module models
 | GSkill RAM F4-3200C22-16GRS 16GB SODIMM DDR4 3200MT/s        | 1         | 2.63%   |
 | Elpida RAM Module 4GB SODIMM LPDDR3 1600MT/s                 | 1         | 2.63%   |
 | Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s        | 1         | 2.63%   |
-| Crucial RAM CT16G4SFD8266.C16FD1 16GB SODIMM DDR4 2400MT/s   | 1         | 2.63%   |
+| Crucial RAM CT16G4SFD8266.C16FD1 16GB SODIMM DDR4 2666MT/s   | 1         | 2.63%   |
 | Corsair RAM CMSO8GX3M1A1333C9 8GB SODIMM DDR3 1333MT/s       | 1         | 2.63%   |
 | Unknown                                                      | 1         | 2.63%   |
 
@@ -1911,11 +1911,12 @@ Memory module speed
 | 1600    | 7         | 23.33%  |
 | 2667    | 6         | 20%     |
 | 3200    | 3         | 10%     |
-| 2400    | 3         | 10%     |
 | 1333    | 3         | 10%     |
+| 2400    | 2         | 6.67%   |
 | 2133    | 2         | 6.67%   |
 | 1334    | 2         | 6.67%   |
 | 800     | 2         | 6.67%   |
+| 2666    | 1         | 3.33%   |
 | 1067    | 1         | 3.33%   |
 | Unknown | 1         | 3.33%   |
 

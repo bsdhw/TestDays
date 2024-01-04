@@ -2232,7 +2232,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 800MT/s                                 | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM 1333MT/s                                    | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM                                             | 1        | 1%      |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s          | 1        | 1%      |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s       | 1        | 1%      |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1%      |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1%      |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1%      |

@@ -1610,7 +1610,7 @@ Monitor models
 | Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch   | 1         | 1.16%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.16%   |
 | Samsung Electronics LCD Monitor SEC3741 1280x800 330x210mm 15.4-inch  | 1         | 1.16%   |
-| Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch  | 1         | 1.16%   |
+| Samsung Electronics LCD Monitor SEC3245 1280x800 330x210mm 15.4-inch  | 1         | 1.16%   |
 | Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch | 1         | 1.16%   |
 | Samsung Electronics LCD Monitor SDC4158 1920x1080 290x170mm 13.2-inch | 1         | 1.16%   |
 | Mi 27 NFGL XMIB004 1920x1080 600x330mm 27.0-inch                      | 1         | 1.16%   |
@@ -1708,8 +1708,8 @@ Proportional relationship between the width and the height
 
 | Ratio   | Notebooks | Percent |
 |---------|-----------|---------|
-| 16/9    | 62        | 82.67%  |
-| 16/10   | 7         | 9.33%   |
+| 16/9    | 61        | 81.33%  |
+| 16/10   | 8         | 10.67%  |
 | Unknown | 3         | 4%      |
 | 21/9    | 1         | 1.33%   |
 | 11/10   | 1         | 1.33%   |
@@ -1725,9 +1725,9 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 91-100         | 23        | 26.74%  |
+| 91-100         | 22        | 25.58%  |
 | 81-90          | 21        | 24.42%  |
-| 101-110        | 8         | 9.3%    |
+| 101-110        | 9         | 10.47%  |
 | 71-80          | 7         | 8.14%   |
 | 201-250        | 7         | 8.14%   |
 | 61-70          | 5         | 5.81%   |
@@ -1751,8 +1751,8 @@ Pixels per inch
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
 | 121-160       | 33        | 39.29%  |
-| 101-120       | 16        | 19.05%  |
-| 51-100        | 15        | 17.86%  |
+| 51-100        | 16        | 19.05%  |
+| 101-120       | 15        | 17.86%  |
 | 161-240       | 11        | 13.1%   |
 | More than 240 | 5         | 5.95%   |
 | Unknown       | 4         | 4.76%   |

@@ -1439,7 +1439,7 @@ Storage controller vendors
 | Intel                            | 183       | 57.55%  |
 | AMD                              | 43        | 13.52%  |
 | Samsung Electronics              | 22        | 6.92%   |
-| Sandisk                          | 10        | 3.14%   |
+| SanDisk                          | 10        | 3.14%   |
 | Kingston Technology Company      | 8         | 2.52%   |
 | Nvidia                           | 6         | 1.89%   |
 | JMicron Technology               | 6         | 1.89%   |

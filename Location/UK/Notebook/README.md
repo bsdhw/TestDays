@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 257
+Total: 258
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Deciso        | NetBoard-A10                | [1545839e21](https://bsd-hardware.info/?probe=1545839e21) | Dec 29, 2023 |
 | Dell          | Latitude E6510              | [86c4864c0a](https://bsd-hardware.info/?probe=86c4864c0a) | Dec 11, 2023 |
 | Dell          | Latitude E6510              | [dc2d54a168](https://bsd-hardware.info/?probe=dc2d54a168) | Dec 11, 2023 |
 | HP            | ZBook 17 G2                 | [406d7a0572](https://bsd-hardware.info/?probe=406d7a0572) | Dec 07, 2023 |
@@ -422,46 +423,46 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| helloSystem 0.7.0    | 10        | 6.49%   |
-| helloSystem 0.8.1    | 9         | 5.84%   |
-| FreeBSD 14.0-CURRENT | 8         | 5.19%   |
-| FreeBSD 13.0         | 8         | 5.19%   |
-| FreeBSD 13.1         | 6         | 3.9%    |
-| NomadBSD 20221130    | 5         | 3.25%   |
-| OpenBSD 7.2          | 4         | 2.6%    |
-| helloSystem 0.5.0    | 4         | 2.6%    |
-| helloSystem 0.4.0    | 4         | 2.6%    |
-| GhostBSD 20.04.02    | 4         | 2.6%    |
-| FreeBSD 13.2         | 4         | 2.6%    |
-| FreeBSD 12.2         | 4         | 2.6%    |
-| OpenBSD 7.1          | 3         | 1.95%   |
-| OpenBSD 6.8          | 3         | 1.95%   |
-| NomadBSD 1.4-RC1     | 3         | 1.95%   |
-| NomadBSD 1.3.2       | 3         | 1.95%   |
-| helloSystem 0.6.0    | 3         | 1.95%   |
-| OPNsense 23.7.6      | 2         | 1.3%    |
-| OPNsense 22.4.3      | 2         | 1.3%    |
-| helloSystem 0.8.2    | 2         | 1.3%    |
-| helloSystem 0.8.0    | 2         | 1.3%    |
-| GhostBSD 23.02.02    | 2         | 1.3%    |
-| FreeBSD 15.0-CURRENT | 2         | 1.3%    |
-| FreeBSD 14.0-p1      | 2         | 1.3%    |
-| FreeBSD 13.2-p2      | 2         | 1.3%    |
-| FreeBSD 13.0-p5      | 2         | 1.3%    |
-| FreeBSD 13.0-CURRENT | 2         | 1.3%    |
-| FreeBSD 12.2-p6      | 2         | 1.3%    |
-| FreeBSD 12.2-p4      | 2         | 1.3%    |
-| FreeBSD 12.2-p3      | 2         | 1.3%    |
-| FreeBSD 12.2-p2      | 2         | 1.3%    |
-| FreeBSD 12.1-p9      | 2         | 1.3%    |
+| helloSystem 0.7.0    | 10        | 6.45%   |
+| helloSystem 0.8.1    | 9         | 5.81%   |
+| FreeBSD 14.0-CURRENT | 8         | 5.16%   |
+| FreeBSD 13.0         | 8         | 5.16%   |
+| FreeBSD 13.1         | 6         | 3.87%   |
+| NomadBSD 20221130    | 5         | 3.23%   |
+| OpenBSD 7.2          | 4         | 2.58%   |
+| helloSystem 0.5.0    | 4         | 2.58%   |
+| helloSystem 0.4.0    | 4         | 2.58%   |
+| GhostBSD 20.04.02    | 4         | 2.58%   |
+| FreeBSD 13.2         | 4         | 2.58%   |
+| FreeBSD 12.2         | 4         | 2.58%   |
+| OpenBSD 7.1          | 3         | 1.94%   |
+| OpenBSD 6.8          | 3         | 1.94%   |
+| NomadBSD 1.4-RC1     | 3         | 1.94%   |
+| NomadBSD 1.3.2       | 3         | 1.94%   |
+| helloSystem 0.6.0    | 3         | 1.94%   |
+| OPNsense 23.7.6      | 2         | 1.29%   |
+| OPNsense 22.4.3      | 2         | 1.29%   |
+| helloSystem 0.8.2    | 2         | 1.29%   |
+| helloSystem 0.8.0    | 2         | 1.29%   |
+| GhostBSD 23.02.02    | 2         | 1.29%   |
+| FreeBSD 15.0-CURRENT | 2         | 1.29%   |
+| FreeBSD 14.0-p1      | 2         | 1.29%   |
+| FreeBSD 13.2-p2      | 2         | 1.29%   |
+| FreeBSD 13.0-p5      | 2         | 1.29%   |
+| FreeBSD 13.0-CURRENT | 2         | 1.29%   |
+| FreeBSD 12.2-p6      | 2         | 1.29%   |
+| FreeBSD 12.2-p4      | 2         | 1.29%   |
+| FreeBSD 12.2-p3      | 2         | 1.29%   |
+| FreeBSD 12.2-p2      | 2         | 1.29%   |
+| FreeBSD 12.1-p9      | 2         | 1.29%   |
 | OPNsense 23.7.8      | 1         | 0.65%   |
+| OPNsense 23.7.10     | 1         | 0.65%   |
 | OPNsense 23.1.1      | 1         | 0.65%   |
 | OPNsense 22.7.4      | 1         | 0.65%   |
 | OPNsense 22.1.6      | 1         | 0.65%   |
 | OPNsense 22.1.10     | 1         | 0.65%   |
 | OPNsense 21.1.4      | 1         | 0.65%   |
 | OPNsense 21.1.3      | 1         | 0.65%   |
-| OPNsense 21.1.1      | 1         | 0.65%   |
 
 OS Family
 ---------
@@ -941,26 +942,26 @@ Geographic location (city)
 
 | City            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| London          | 11        | 7.97%   |
-| Brighton        | 7         | 5.07%   |
-| Glasgow         | 6         | 4.35%   |
-| Manchester      | 5         | 3.62%   |
-| Swindon         | 3         | 2.17%   |
-| Shoreham-by-Sea | 3         | 2.17%   |
-| Oxford          | 3         | 2.17%   |
-| Leatherhead     | 3         | 2.17%   |
-| City of London  | 3         | 2.17%   |
-| Worthing        | 2         | 1.45%   |
-| Reading         | 2         | 1.45%   |
-| Plymouth        | 2         | 1.45%   |
-| Peterborough    | 2         | 1.45%   |
-| Ipswich         | 2         | 1.45%   |
-| Hove            | 2         | 1.45%   |
-| Greenwich       | 2         | 1.45%   |
-| Gloucester      | 2         | 1.45%   |
-| East Grinstead  | 2         | 1.45%   |
-| Coventry        | 2         | 1.45%   |
-| Addlestone      | 2         | 1.45%   |
+| London          | 11        | 7.91%   |
+| Brighton        | 7         | 5.04%   |
+| Glasgow         | 6         | 4.32%   |
+| Manchester      | 5         | 3.6%    |
+| Swindon         | 3         | 2.16%   |
+| Shoreham-by-Sea | 3         | 2.16%   |
+| Oxford          | 3         | 2.16%   |
+| Leatherhead     | 3         | 2.16%   |
+| City of London  | 3         | 2.16%   |
+| Worthing        | 2         | 1.44%   |
+| Reading         | 2         | 1.44%   |
+| Plymouth        | 2         | 1.44%   |
+| Peterborough    | 2         | 1.44%   |
+| Ipswich         | 2         | 1.44%   |
+| Hove            | 2         | 1.44%   |
+| Greenwich       | 2         | 1.44%   |
+| Gloucester      | 2         | 1.44%   |
+| East Grinstead  | 2         | 1.44%   |
+| Coventry        | 2         | 1.44%   |
+| Addlestone      | 2         | 1.44%   |
 | Wraysbury       | 1         | 0.72%   |
 | Woking          | 1         | 0.72%   |
 | West Bromwich   | 1         | 0.72%   |
@@ -974,13 +975,13 @@ Geographic location (city)
 | St Austell      | 1         | 0.72%   |
 | St Albans       | 1         | 0.72%   |
 | Southampton     | 1         | 0.72%   |
+| Southall        | 1         | 0.72%   |
 | South Croydon   | 1         | 0.72%   |
 | Ruislip         | 1         | 0.72%   |
 | Rugby           | 1         | 0.72%   |
 | Reigate         | 1         | 0.72%   |
 | Pevensey        | 1         | 0.72%   |
 | Perth           | 1         | 0.72%   |
-| Oxenhope        | 1         | 0.72%   |
 
 Drives
 ------
@@ -1003,7 +1004,7 @@ Hard drive vendors
 | Crucial             | 6         | 6      | 4.29%   |
 | Intel               | 5         | 5      | 3.57%   |
 | Hitachi             | 5         | 5      | 3.57%   |
-| Transcend           | 4         | 7      | 2.86%   |
+| Transcend           | 4         | 8      | 2.86%   |
 | SanDisk             | 4         | 4      | 2.86%   |
 | NVMe                | 4         | 4      | 2.86%   |
 | SK hynix            | 3         | 3      | 2.14%   |
@@ -1149,7 +1150,7 @@ HDD or SSD
 |------|-----------|--------|---------|
 | SSD  | 56        | 85     | 44.09%  |
 | HDD  | 41        | 104    | 32.28%  |
-| NVMe | 30        | 40     | 23.62%  |
+| NVMe | 30        | 41     | 23.62%  |
 
 Drive Connector
 ---------------
@@ -1162,7 +1163,7 @@ SATA, SAS, NVMe, etc.
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | SATA | 87        | 189    | 74.36%  |
-| NVMe | 30        | 40     | 25.64%  |
+| NVMe | 30        | 41     | 25.64%  |
 
 Drive Size
 ----------
@@ -1293,14 +1294,24 @@ Failed Drives
 
 Failed drive models
 
-Zero info for selected period =(
+![Failed Drives](./images/pie_chart_bsd/drive_failed.svg)
+
+
+| Model                         | Notebooks | Drives | Percent |
+|-------------------------------|-----------|--------|---------|
+| Transcend TS128GMTE110S 128GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
 
 Failed drive vendors
 
-Zero info for selected period =(
+![Failed Drive Vendor](./images/pie_chart_bsd/drive_failed_vendor.svg)
+
+
+| Vendor    | Notebooks | Drives | Percent |
+|-----------|-----------|--------|---------|
+| Transcend | 1         | 1      | 100%    |
 
 Drive Status
 ------------
@@ -1312,9 +1323,10 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 97        | 176    | 80.83%  |
-| Malfunc  | 17        | 45     | 14.17%  |
-| Detected | 6         | 8      | 5%      |
+| Works    | 97        | 176    | 80.17%  |
+| Malfunc  | 17        | 45     | 14.05%  |
+| Detected | 6         | 8      | 4.96%   |
+| Failed   | 1         | 1      | 0.83%   |
 
 Storage controller
 ------------------

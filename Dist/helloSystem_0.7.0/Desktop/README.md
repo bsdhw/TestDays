@@ -1052,7 +1052,7 @@ Solid state drive vendors
 | A-DATA Technology   | 7        | 7      | 5.43%   |
 | WDC                 | 6        | 10     | 4.65%   |
 | Intel               | 5        | 5      | 3.88%   |
-| Goodram             | 5        | 6      | 3.88%   |
+| GOODRAM             | 5        | 6      | 3.88%   |
 | PNY                 | 4        | 4      | 3.1%    |
 | Patriot             | 4        | 4      | 3.1%    |
 | OCZ                 | 3        | 3      | 2.33%   |
@@ -1778,7 +1778,7 @@ Monitor models
 | ZL_ zhuoyue-HDMI ZL_2716 2560x1440 600x330mm 27.0-inch                 | 1        | 0.57%   |
 | Westinghouse LCM-19w4 WDE1904 1440x900 410x260mm 19.1-inch             | 1        | 0.57%   |
 | ViewSonic VX1940w VSC6A20 1680x1050 410x260mm 19.1-inch                | 1        | 0.57%   |
-| ViewSonic LCD Monitor VSCBD2B 1920x1080 480x270mm 21.7-inch            | 1        | 0.57%   |
+| ViewSonic VA2212 Series VSCBD2B 1920x1080 480x270mm 21.7-inch          | 1        | 0.57%   |
 | Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch     | 1        | 0.57%   |
 | Sony TV SNYEE01 1920x1080                                              | 1        | 0.57%   |
 | Sony TV SNY9C01 1360x768                                               | 1        | 0.57%   |

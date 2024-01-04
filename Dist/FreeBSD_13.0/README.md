@@ -2569,7 +2569,7 @@ Memory module vendors
 | Unknown             | 4         | 1.69%   |
 | Team                | 2         | 0.84%   |
 | Smart               | 2         | 0.84%   |
-| Goodram             | 2         | 0.84%   |
+| GOODRAM             | 2         | 0.84%   |
 | Transcend           | 1         | 0.42%   |
 | Teikon              | 1         | 0.42%   |
 | Silicon Power       | 1         | 0.42%   |

@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 128
+Total: 129
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Acer          | Aspire E5-574               | [8b71e16af3](https://bsd-hardware.info/?probe=8b71e16af3) | Dec 27, 2023 |
 | Apple         | MacBookAir5,2               | [2c652aa0a1](https://bsd-hardware.info/?probe=2c652aa0a1) | Dec 16, 2023 |
 | Acer          | Aspire E5-574               | [b11a972371](https://bsd-hardware.info/?probe=b11a972371) | Nov 24, 2023 |
 | Acer          | Aspire E5-574               | [a4eded7a52](https://bsd-hardware.info/?probe=a4eded7a52) | Nov 22, 2023 |
@@ -427,14 +428,14 @@ Language
 
 | Lang            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| en_US           | 52        | 47.71%  |
-| Unknown         | 18        | 16.51%  |
-| pt_BR           | 15        | 13.76%  |
-| C               | 13        | 11.93%  |
-| pt              | 5         | 4.59%   |
-| fr_FR           | 4         | 3.67%   |
-| en_US.ISO8859-1 | 1         | 0.92%   |
-| en_GB           | 1         | 0.92%   |
+| en_US           | 52        | 47.27%  |
+| Unknown         | 18        | 16.36%  |
+| pt_BR           | 16        | 14.55%  |
+| C               | 13        | 11.82%  |
+| pt              | 5         | 4.55%   |
+| fr_FR           | 4         | 3.64%   |
+| en_US.ISO8859-1 | 1         | 0.91%   |
+| en_GB           | 1         | 0.91%   |
 
 Boot Mode
 ---------
@@ -714,10 +715,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 73        | 68.87%  |
-| 2      | 25        | 23.58%  |
-| 0      | 6         | 5.66%   |
-| 3      | 2         | 1.89%   |
+| 1      | 73        | 68.22%  |
+| 2      | 25        | 23.36%  |
+| 0      | 7         | 6.54%   |
+| 3      | 2         | 1.87%   |
 
 Has CD-ROM
 ----------
@@ -1030,15 +1031,15 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 31        | 27.68%  |
-| 1-20       | 30        | 26.79%  |
-| 251-500    | 18        | 16.07%  |
-| 501-1000   | 11        | 9.82%   |
-| 51-100     | 11        | 9.82%   |
-| 21-50      | 6         | 5.36%   |
-| 1001-2000  | 3         | 2.68%   |
-| 2001-3000  | 1         | 0.89%   |
-| Unknown    | 1         | 0.89%   |
+| 101-250    | 32        | 28.32%  |
+| 1-20       | 30        | 26.55%  |
+| 251-500    | 18        | 15.93%  |
+| 501-1000   | 11        | 9.73%   |
+| 51-100     | 11        | 9.73%   |
+| 21-50      | 6         | 5.31%   |
+| 1001-2000  | 3         | 2.65%   |
+| 2001-3000  | 1         | 0.88%   |
+| Unknown    | 1         | 0.88%   |
 
 Space Used
 ----------
@@ -1778,13 +1779,13 @@ Controller vendors
 
 | Vendor                   | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Realtek Semiconductor    | 57        | 33.33%  |
-| Qualcomm Atheros         | 48        | 28.07%  |
-| Intel                    | 38        | 22.22%  |
-| Broadcom                 | 13        | 7.6%    |
-| JMicron Technology       | 5         | 2.92%   |
-| Samsung Electronics      | 3         | 1.75%   |
-| Ralink Technology        | 2         | 1.17%   |
+| Realtek Semiconductor    | 57        | 33.14%  |
+| Qualcomm Atheros         | 48        | 27.91%  |
+| Intel                    | 38        | 22.09%  |
+| Broadcom                 | 13        | 7.56%   |
+| JMicron Technology       | 5         | 2.91%   |
+| Samsung Electronics      | 4         | 2.33%   |
+| Ralink Technology        | 2         | 1.16%   |
 | Xiaomi                   | 1         | 0.58%   |
 | TP-Link                  | 1         | 0.58%   |
 | Nvidia                   | 1         | 0.58%   |
@@ -1801,25 +1802,25 @@ Controller models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 26        | 12.75%  |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 11.76%  |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 16        | 7.84%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 13        | 6.37%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 6         | 2.94%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 6         | 2.94%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 5         | 2.45%   |
-| Intel Wireless 8265 / 8275                                        | 5         | 2.45%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 2.45%   |
-| Intel Wireless 7265                                               | 4         | 1.96%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 1.96%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 3         | 1.47%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 3         | 1.47%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 3         | 1.47%   |
-| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 3         | 1.47%   |
-| Intel Ethernet Connection (4) I219-LM                             | 3         | 1.47%   |
-| Intel Ethernet Connection (3) I218-LM                             | 3         | 1.47%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 3         | 1.47%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 0.98%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 26        | 12.68%  |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 11.71%  |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 16        | 7.8%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 13        | 6.34%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 6         | 2.93%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 6         | 2.93%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 5         | 2.44%   |
+| Intel Wireless 8265 / 8275                                        | 5         | 2.44%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 2.44%   |
+| Intel Wireless 7265                                               | 4         | 1.95%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 4         | 1.95%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 3         | 1.46%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 3         | 1.46%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express)    | 3         | 1.46%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 3         | 1.46%   |
+| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 3         | 1.46%   |
+| Intel Ethernet Connection (4) I219-LM                             | 3         | 1.46%   |
+| Intel Ethernet Connection (3) I218-LM                             | 3         | 1.46%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 3         | 1.46%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2         | 0.98%   |
 | Realtek RTL8188EE Wireless Network Adapter                        | 2         | 0.98%   |
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 0.98%   |
@@ -1920,16 +1921,16 @@ Ethernet vendors
 
 | Vendor                   | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Realtek Semiconductor    | 51        | 53.68%  |
-| Intel                    | 19        | 20%     |
-| Broadcom                 | 7         | 7.37%   |
-| Qualcomm Atheros         | 6         | 6.32%   |
-| JMicron Technology       | 5         | 5.26%   |
-| Samsung Electronics      | 3         | 3.16%   |
-| Xiaomi                   | 1         | 1.05%   |
-| Nvidia                   | 1         | 1.05%   |
-| MediaTek                 | 1         | 1.05%   |
-| Marvell Technology Group | 1         | 1.05%   |
+| Realtek Semiconductor    | 51        | 53.13%  |
+| Intel                    | 19        | 19.79%  |
+| Broadcom                 | 7         | 7.29%   |
+| Qualcomm Atheros         | 6         | 6.25%   |
+| JMicron Technology       | 5         | 5.21%   |
+| Samsung Electronics      | 4         | 4.17%   |
+| Xiaomi                   | 1         | 1.04%   |
+| Nvidia                   | 1         | 1.04%   |
+| MediaTek                 | 1         | 1.04%   |
+| Marvell Technology Group | 1         | 1.04%   |
 
 Ethernet Model
 --------------
@@ -1941,33 +1942,33 @@ Ethernet models
 
 | Model                                                             | Notebooks | Percent |
 |-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 26        | 27.37%  |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 25.26%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 5.26%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 3         | 3.16%   |
-| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 3         | 3.16%   |
-| Intel Ethernet Connection (4) I219-LM                             | 3         | 3.16%   |
-| Intel Ethernet Connection (3) I218-LM                             | 3         | 3.16%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 3         | 3.16%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 2.11%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 2.11%   |
-| JMicron JMC260 PCI Express Fast Ethernet Controller               | 2         | 2.11%   |
-| Intel Ethernet Connection I219-LM                                 | 2         | 2.11%   |
-| Intel 82577LM Gigabit Network Connection                          | 2         | 2.11%   |
-| Intel 82566MM Gigabit Network Connection                          | 2         | 2.11%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.05%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.05%   |
-| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.05%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.05%   |
-| Nvidia MCP79 Ethernet                                             | 1         | 1.05%   |
-| MediaTek USB Ethernet-RNDIS                                       | 1         | 1.05%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.05%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.05%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.05%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.05%   |
-| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 1.05%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1         | 1.05%   |
-| Broadcom BCM4401-B0 100Base-TX                                    | 1         | 1.05%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller             | 26        | 27.08%  |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 24        | 25%     |
+| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 5.21%   |
+| Samsung Galaxy series, misc. (tethering mode)                     | 3         | 3.13%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 3         | 3.13%   |
+| JMicron JMC250 PCI Express Gigabit Ethernet Controller            | 3         | 3.13%   |
+| Intel Ethernet Connection (4) I219-LM                             | 3         | 3.13%   |
+| Intel Ethernet Connection (3) I218-LM                             | 3         | 3.13%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 3         | 3.13%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 2         | 2.08%   |
+| JMicron JMC260 PCI Express Fast Ethernet Controller               | 2         | 2.08%   |
+| Intel Ethernet Connection I219-LM                                 | 2         | 2.08%   |
+| Intel 82577LM Gigabit Network Connection                          | 2         | 2.08%   |
+| Intel 82566MM Gigabit Network Connection                          | 2         | 2.08%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.04%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 1         | 1.04%   |
+| Realtek Killer E2600 Gigabit Ethernet Controller                  | 1         | 1.04%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.04%   |
+| Nvidia MCP79 Ethernet                                             | 1         | 1.04%   |
+| MediaTek USB Ethernet-RNDIS                                       | 1         | 1.04%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 1.04%   |
+| Intel Ethernet Connection I218-LM                                 | 1         | 1.04%   |
+| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.04%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 1.04%   |
+| Broadcom NetLink BCM5906M Fast Ethernet PCI Express               | 1         | 1.04%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1         | 1.04%   |
+| Broadcom BCM4401-B0 100Base-TX                                    | 1         | 1.04%   |
 
 Net Controller Kind
 -------------------

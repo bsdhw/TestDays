@@ -1056,7 +1056,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| GOODRAM             | 2         | 2      | 1.4%    |
+| Goodram             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |

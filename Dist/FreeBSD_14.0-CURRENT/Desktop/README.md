@@ -1029,7 +1029,7 @@ Storage controller vendors
 | Intel                       | 17       | 21.52%  |
 | Samsung Electronics         | 8        | 10.13%  |
 | Silicon Motion              | 6        | 7.59%   |
-| Sandisk                     | 5        | 6.33%   |
+| SanDisk                     | 5        | 6.33%   |
 | Kingston Technology Company | 4        | 5.06%   |
 | SK hynix                    | 2        | 2.53%   |
 | Phison Electronics          | 2        | 2.53%   |

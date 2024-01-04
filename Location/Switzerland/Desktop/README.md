@@ -1410,9 +1410,9 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 126      | 72.83%  |
+| SATA | 117      | 67.63%  |
 | NVMe | 25       | 14.45%  |
-| IDE  | 10       | 5.78%   |
+| IDE  | 19       | 10.98%  |
 | RAID | 8        | 4.62%   |
 | SAS  | 2        | 1.16%   |
 | SCSI | 2        | 1.16%   |
@@ -2314,48 +2314,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 17       | 11.89%  |
-| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                    | 3        | 2.1%    |
-| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s           | 3        | 2.1%    |
-| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s           | 3        | 2.1%    |
-| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s           | 3        | 2.1%    |
-| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s         | 3        | 2.1%    |
-| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                     | 2        | 1.4%    |
-| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                      | 2        | 1.4%    |
-| Micron RAM Module 8GB Row Of Chips LPDDR4 3200MT/s             | 2        | 1.4%    |
-| Micron RAM Module 16GB Row Of Chips LPDDR4 4267MT/s            | 2        | 1.4%    |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s            | 2        | 1.4%    |
-| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s          | 2        | 1.4%    |
-| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s          | 2        | 1.4%    |
-| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s          | 2        | 1.4%    |
-| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s         | 2        | 1.4%    |
-| Crucial RAM CT8G4SFRA32A.M8FR 8GB SODIMM DDR4 3200MT/s         | 2        | 1.4%    |
-| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s           | 2        | 1.4%    |
-| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s           | 2        | 1.4%    |
-| Unknown RAM Module 512MB DIMM DDR2 667MT/s                     | 1        | 0.7%    |
-| Unknown RAM Module 4096MB DIMM 1333MT/s                        | 1        | 0.7%    |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2400MT/s | 1        | 0.7%    |
-| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s           | 1        | 0.7%    |
-| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s   | 1        | 0.7%    |
-| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                   | 1        | 0.7%    |
-| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s          | 1        | 0.7%    |
-| SK hynix RAM Module 8GB SODIMM DDR4 3200MT/s                   | 1        | 0.7%    |
-| SK hynix RAM Module 8GB SODIMM DDR4 2667MT/s                   | 1        | 0.7%    |
-| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                     | 1        | 0.7%    |
-| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                     | 1        | 0.7%    |
-| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                   | 1        | 0.7%    |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s           | 1        | 0.7%    |
-| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s       | 1        | 0.7%    |
-| SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s           | 1        | 0.7%    |
-| SK hynix RAM HMT41GU6DFR8A-PB 8GB DIMM DDR3 1600MT/s           | 1        | 0.7%    |
-| SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s           | 1        | 0.7%    |
-| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s           | 1        | 0.7%    |
-| SK hynix RAM HMA82GU6DJR8N-VK 16GB DIMM DDR4 2667MT/s          | 1        | 0.7%    |
-| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                   | 1        | 0.7%    |
-| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                     | 1        | 0.7%    |
-| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                     | 1        | 0.7%    |
+| Model                                                             | Desktops | Percent |
+|-------------------------------------------------------------------|----------|---------|
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                       | 17       | 11.89%  |
+| Unknown RAM Module 2GB SODIMM DDR3 1333MT/s                       | 3        | 2.1%    |
+| SK hynix RAM HMA81GU6CJR8N-XN 8GB DIMM DDR4 3200MT/s              | 3        | 2.1%    |
+| Kingston RAM KHX2933C15D4/8GX 8GB DIMM DDR4 2400MT/s              | 3        | 2.1%    |
+| Kingston RAM KF2666C15S4/8G 8GB SODIMM DDR4 2667MT/s              | 3        | 2.1%    |
+| Kingston RAM CBD24D4S7S8K1A-8 8GB SODIMM DDR4 2133MT/s            | 3        | 2.1%    |
+| Unknown RAM Module 4GB SODIMM DDR3 667MT/s                        | 2        | 1.4%    |
+| Unknown RAM Module 4GB DIMM DDR3 1333MT/s                         | 2        | 1.4%    |
+| Micron RAM Module 8GB Row Of Chips LPDDR4 3200MT/s                | 2        | 1.4%    |
+| Micron RAM Module 16GB Row Of Chips LPDDR4 4267MT/s               | 2        | 1.4%    |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s               | 2        | 1.4%    |
+| Kingston RAM 99U5471-052.A00LF 8GB DIMM DDR3 1333MT/s             | 2        | 1.4%    |
+| Kingston RAM 9965745-020.A00G 32GB DIMM DDR4 3200MT/s             | 2        | 1.4%    |
+| Kingston RAM 9905403-559.A00LF 8GB DIMM DDR3 1333MT/s             | 2        | 1.4%    |
+| Crucial RAM CT8G4SFS824A.M8FD 8GB SODIMM DDR4 2400MT/s            | 2        | 1.4%    |
+| Crucial RAM CT8G4SFRA32A.M8FR 8GB SODIMM DDR4 3200MT/s            | 2        | 1.4%    |
+| Crucial RAM CT8G4DFS8266.M8FJ 8GB DIMM DDR4 2666MT/s              | 2        | 1.4%    |
+| Crucial RAM CT8G4DFRA266.C8FB 8GB DIMM DDR4 2666MT/s              | 2        | 1.4%    |
+| Unknown RAM Module 512MB DIMM DDR2 667MT/s                        | 1        | 0.7%    |
+| Unknown RAM Module 4096MB DIMM 1333MT/s                           | 1        | 0.7%    |
+| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s | 1        | 0.7%    |
+| Unknown (0x05F7) RAM Module 1GB FB-DIMM DDR2 800MT/s              | 1        | 0.7%    |
+| Unknown (07FB) RAM GSA8G4SCL196P-26 8GB SODIMM DDR4 2667MT/s      | 1        | 0.7%    |
+| Tigo RAM 1600Mhz-8G 8GB SODIMM DDR3 1600MT/s                      | 1        | 0.7%    |
+| Super Talent RAM SUPERTALENT02 4GB DIMM DDR3 1600MT/s             | 1        | 0.7%    |
+| SK hynix RAM Module 8GB SODIMM DDR4 3200MT/s                      | 1        | 0.7%    |
+| SK hynix RAM Module 8GB SODIMM DDR4 2667MT/s                      | 1        | 0.7%    |
+| SK hynix RAM Module 8GB DIMM DDR4 2133MT/s                        | 1        | 0.7%    |
+| SK hynix RAM Module 4GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| SK hynix RAM Module 1GB FB-DIMM DDR2 800MT/s                      | 1        | 0.7%    |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
+| SK hynix RAM HMT42GR7MFR4C-PB 16384MB DIMM DDR3 1600MT/s          | 1        | 0.7%    |
+| SK hynix RAM HMT41GU7BFR8A-PB 8GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
+| SK hynix RAM HMT41GU6DFR8A-PB 8GB DIMM DDR3 1600MT/s              | 1        | 0.7%    |
+| SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s              | 1        | 0.7%    |
+| SK hynix RAM HMT325U7BFR8C-H9 2GB DIMM DDR3 1333MT/s              | 1        | 0.7%    |
+| SK hynix RAM HMA82GU6DJR8N-VK 16GB DIMM DDR4 2667MT/s             | 1        | 0.7%    |
+| Samsung RAM Module 16GB SODIMM DDR4 3200MT/s                      | 1        | 0.7%    |
+| Samsung RAM Module 16GB DIMM DDR3 1333MT/s                        | 1        | 0.7%    |
+| Samsung RAM Module 16GB DIMM DDR3 1066MT/s                        | 1        | 0.7%    |
 
 Memory Kind
 -----------
