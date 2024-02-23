@@ -1342,7 +1342,7 @@ Controller models
 
 | Model                                                                                 | Computers | Percent |
 |---------------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                     | 6         | 14.29%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller                | 6         | 14.29%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                                 | 3         | 7.14%   |
 | Intel Wireless 7260                                                                   | 3         | 7.14%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                              | 2         | 4.76%   |
@@ -1358,10 +1358,10 @@ Controller models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 1         | 2.38%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 2.38%   |
 | Marvell Group 88E8040 PCI-E Fast Ethernet Controller                                  | 1         | 2.38%   |
-| Intel Wireless-AC 9260                                                                | 1         | 2.38%   |
 | Intel Wireless 8265 / 8275                                                            | 1         | 2.38%   |
 | Intel Wireless 8260                                                                   | 1         | 2.38%   |
 | Intel Wireless 3165                                                                   | 1         | 2.38%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                               | 1         | 2.38%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 1         | 2.38%   |
 | Intel Ethernet Connection I219-LM                                                     | 1         | 2.38%   |
 | Intel Ethernet Connection (7) I219-V                                                  | 1         | 2.38%   |
@@ -1411,10 +1411,10 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                        | 1         | 4.55%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                        | 1         | 4.55%   |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1         | 4.55%   |
-| Intel Wireless-AC 9260                                                                | 1         | 4.55%   |
 | Intel Wireless 8265 / 8275                                                            | 1         | 4.55%   |
 | Intel Wireless 8260                                                                   | 1         | 4.55%   |
 | Intel Wireless 3165                                                                   | 1         | 4.55%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                               | 1         | 4.55%   |
 | Intel PRO/Wireless 3945ABG [Golan] Network Connection                                 | 1         | 4.55%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                                     | 1         | 4.55%   |
 | Intel Centrino Advanced-N 6200                                                        | 1         | 4.55%   |
@@ -1441,20 +1441,20 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 30%     |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 15%     |
-| Intel Ethernet Connection I217-LM                                 | 2         | 10%     |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 5%      |
-| Intel Ethernet Connection I219-LM                                 | 1         | 5%      |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 5%      |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 5%      |
-| Intel Ethernet Connection (10) I219-LM                            | 1         | 5%      |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 5%      |
-| Intel 82573L Gigabit Ethernet Controller                          | 1         | 5%      |
-| Intel 82567V-2 Gigabit Network Connection                         | 1         | 5%      |
-| Intel 82567LF-2 Gigabit Network Connection                        | 1         | 5%      |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6         | 30%     |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3         | 15%     |
+| Intel Ethernet Connection I217-LM                                      | 2         | 10%     |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                   | 1         | 5%      |
+| Intel Ethernet Connection I219-LM                                      | 1         | 5%      |
+| Intel Ethernet Connection (7) I219-V                                   | 1         | 5%      |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 5%      |
+| Intel Ethernet Connection (10) I219-LM                                 | 1         | 5%      |
+| Intel 82577LM Gigabit Network Connection                               | 1         | 5%      |
+| Intel 82573L Gigabit Ethernet Controller                               | 1         | 5%      |
+| Intel 82567V-2 Gigabit Network Connection                              | 1         | 5%      |
+| Intel 82567LF-2 Gigabit Network Connection                             | 1         | 5%      |
 
 Net Controller Kind
 -------------------
@@ -1656,7 +1656,7 @@ Memory module models
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s                            | 1         | 3.23%   |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s                   | 1         | 3.23%   |
 | Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1867MT/s                   | 1         | 3.23%   |
-| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 3.23%   |
+| 48spaces RAM 012345678901234567890123456789012345 1GB SODIMM DDR2 800MT/s | 1         | 3.23%   |
 
 Memory Kind
 -----------

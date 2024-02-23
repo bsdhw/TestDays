@@ -147,10 +147,65 @@ Contents
 Test Cases
 ----------
 
-Total: 1853
+Total: 1909
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| HP            | 83E9                        | [f5a6f9001d](https://bsd-hardware.info/?probe=f5a6f9001d) | Feb 17, 2024 |
+| ASUSTek       | PRIME A520M-A II            | [acb70accb8](https://bsd-hardware.info/?probe=acb70accb8) | Feb 14, 2024 |
+| ASUSTek       | PRIME X370-PRO              | [7a18edf610](https://bsd-hardware.info/?probe=7a18edf610) | Feb 13, 2024 |
+| ASRock        | X570 Phantom Gaming 4       | [d24c0ab2c0](https://bsd-hardware.info/?probe=d24c0ab2c0) | Feb 13, 2024 |
+| ASRock        | Z590 Steel Legend           | [e7dfc1ffe5](https://bsd-hardware.info/?probe=e7dfc1ffe5) | Feb 13, 2024 |
+| ASRock        | Z590 Steel Legend           | [30702fa4b5](https://bsd-hardware.info/?probe=30702fa4b5) | Feb 13, 2024 |
+| Dell          | 0FF3FN A00                  | [56b53a9e68](https://bsd-hardware.info/?probe=56b53a9e68) | Feb 11, 2024 |
+| ASUSTek       | TUF Gaming B550M-PLUS       | [fa2107c718](https://bsd-hardware.info/?probe=fa2107c718) | Feb 11, 2024 |
+| ASUSTek       | P5Q-E                       | [08506a1aff](https://bsd-hardware.info/?probe=08506a1aff) | Feb 11, 2024 |
+| ASUSTek       | ROG CROSSHAIR VIII HERO     | [5f3d8e3288](https://bsd-hardware.info/?probe=5f3d8e3288) | Feb 11, 2024 |
+| Gigabyte      | H81M-D2V                    | [1b2b064c64](https://bsd-hardware.info/?probe=1b2b064c64) | Feb 08, 2024 |
+| ASRock        | B450M-HDV                   | [841a005fc8](https://bsd-hardware.info/?probe=841a005fc8) | Feb 06, 2024 |
+| MSI           | PRO B550M-P GEN3            | [6a6b1dbe8f](https://bsd-hardware.info/?probe=6a6b1dbe8f) | Feb 06, 2024 |
+| Lenovo        | ThinkCentre M90p 3853RN9    | [c0395ca728](https://bsd-hardware.info/?probe=c0395ca728) | Feb 05, 2024 |
+| MSI           | H81M-P33                    | [444eaddd27](https://bsd-hardware.info/?probe=444eaddd27) | Feb 04, 2024 |
+| ASUSTek       | P5Q-E                       | [87358bcf94](https://bsd-hardware.info/?probe=87358bcf94) | Feb 04, 2024 |
+| ASUSTek       | ROG CROSSHAIR VIII HERO     | [94f15f8857](https://bsd-hardware.info/?probe=94f15f8857) | Feb 04, 2024 |
+| ASUSTek       | Pro B560M-C                 | [676019447d](https://bsd-hardware.info/?probe=676019447d) | Feb 03, 2024 |
+| Gigabyte      | GA-MA78GM-S2HP              | [c0ca7a18ae](https://bsd-hardware.info/?probe=c0ca7a18ae) | Feb 01, 2024 |
+| Gigabyte      | Z97-HD3                     | [b41ed8f957](https://bsd-hardware.info/?probe=b41ed8f957) | Feb 01, 2024 |
+| ASRockRack    | EPYC3101D4I-2T              | [aae98167a1](https://bsd-hardware.info/?probe=aae98167a1) | Jan 31, 2024 |
+| Gigabyte      | Z690 UD DDR4                | [8b93ca6177](https://bsd-hardware.info/?probe=8b93ca6177) | Jan 29, 2024 |
+| Gigabyte      | Z690 UD DDR4                | [5d0e727014](https://bsd-hardware.info/?probe=5d0e727014) | Jan 29, 2024 |
+| Dell          | 0T7D40 A01                  | [19ab947fb4](https://bsd-hardware.info/?probe=19ab947fb4) | Jan 29, 2024 |
+| MSI           | H81M-P33                    | [d411f5eb4b](https://bsd-hardware.info/?probe=d411f5eb4b) | Jan 28, 2024 |
+| ASUSTek       | P5Q-E                       | [22436fad84](https://bsd-hardware.info/?probe=22436fad84) | Jan 28, 2024 |
+| ASUSTek       | ROG CROSSHAIR VIII HERO     | [ec38d3e15f](https://bsd-hardware.info/?probe=ec38d3e15f) | Jan 28, 2024 |
+| ASRock        | H310CM-HDV/M.2              | [4f45811a17](https://bsd-hardware.info/?probe=4f45811a17) | Jan 27, 2024 |
+| ASUSTek       | TUF Gaming B560M-PLUS WI... | [713a924dbc](https://bsd-hardware.info/?probe=713a924dbc) | Jan 26, 2024 |
+| HC Technol... | HCAR5000-MI                 | [70f47b16e5](https://bsd-hardware.info/?probe=70f47b16e5) | Jan 25, 2024 |
+| Fujitsu       | D3403-U1 S26361-D3403-U1    | [d1da11d4cd](https://bsd-hardware.info/?probe=d1da11d4cd) | Jan 24, 2024 |
+| ASRock        | B660M-STX                   | [5ee66bbf7a](https://bsd-hardware.info/?probe=5ee66bbf7a) | Jan 23, 2024 |
+| SolidRun      | CEX7 Platform               | [ae1a4bcbae](https://bsd-hardware.info/?probe=ae1a4bcbae) | Jan 23, 2024 |
+| Gigabyte      | H87-D3H-CF                  | [60fb8ff088](https://bsd-hardware.info/?probe=60fb8ff088) | Jan 21, 2024 |
+| SolidRun      | CEX7 Platform               | [d876c335eb](https://bsd-hardware.info/?probe=d876c335eb) | Jan 21, 2024 |
+| ASUSTek       | TUF Gaming B550-PLUS        | [86b81c8374](https://bsd-hardware.info/?probe=86b81c8374) | Jan 19, 2024 |
+| ASUSTek       | ROG STRIX Z370-G GAMING     | [e2053919c4](https://bsd-hardware.info/?probe=e2053919c4) | Jan 15, 2024 |
+| ASUSTek       | PRIME X370-PRO              | [a95eae54ba](https://bsd-hardware.info/?probe=a95eae54ba) | Jan 13, 2024 |
+| ASRock        | X570 Phantom Gaming 4       | [f1224c8ebd](https://bsd-hardware.info/?probe=f1224c8ebd) | Jan 13, 2024 |
+| ASUSTek       | ROG STRIX B550-F GAMING     | [9736c485c9](https://bsd-hardware.info/?probe=9736c485c9) | Jan 12, 2024 |
+| ASUSTek       | Pro WS WRX80E-SAGE SE WI... | [33704d0025](https://bsd-hardware.info/?probe=33704d0025) | Jan 12, 2024 |
+| Dell          | 0MGK50 A02                  | [311083cbe9](https://bsd-hardware.info/?probe=311083cbe9) | Jan 11, 2024 |
+| Dell          | 0MGK50 A02                  | [7c2faad499](https://bsd-hardware.info/?probe=7c2faad499) | Jan 11, 2024 |
+| ASRock        | B450M-HDV                   | [c15701f2a9](https://bsd-hardware.info/?probe=c15701f2a9) | Jan 10, 2024 |
+| ASRock        | B450M-HDV                   | [82d5d6af92](https://bsd-hardware.info/?probe=82d5d6af92) | Jan 10, 2024 |
+| HP            | 3641h                       | [90626880cf](https://bsd-hardware.info/?probe=90626880cf) | Jan 09, 2024 |
+| Unknown       | Unknown                     | [821748c324](https://bsd-hardware.info/?probe=821748c324) | Jan 08, 2024 |
+| MSI           | B450-A PRO                  | [f7e3102e87](https://bsd-hardware.info/?probe=f7e3102e87) | Jan 07, 2024 |
+| MSI           | H81M-P33                    | [e2407e0579](https://bsd-hardware.info/?probe=e2407e0579) | Jan 07, 2024 |
+| ASUSTek       | P5Q-E                       | [e97b058f7c](https://bsd-hardware.info/?probe=e97b058f7c) | Jan 07, 2024 |
+| ASUSTek       | ROG CROSSHAIR VIII HERO     | [d429a5298b](https://bsd-hardware.info/?probe=d429a5298b) | Jan 07, 2024 |
+| Unknown       | Unknown                     | [6564d3ecfe](https://bsd-hardware.info/?probe=6564d3ecfe) | Jan 07, 2024 |
+| Roqos         | Core RC10                   | [3f3aabf270](https://bsd-hardware.info/?probe=3f3aabf270) | Jan 06, 2024 |
+| Dell          | 0D24M8 A01                  | [17862ade20](https://bsd-hardware.info/?probe=17862ade20) | Jan 03, 2024 |
+| ASUSTek       | CM6870                      | [d7b4e67cdc](https://bsd-hardware.info/?probe=d7b4e67cdc) | Jan 03, 2024 |
 | ASUSTek       | ROG STRIX B650E-I GAMING... | [a29eec0aa5](https://bsd-hardware.info/?probe=a29eec0aa5) | Jan 02, 2024 |
 | Alienware     | 07HV66 A00                  | [ea6a3f3020](https://bsd-hardware.info/?probe=ea6a3f3020) | Jan 01, 2024 |
 | ASRockRack    | EPYC3101D4I-2T              | [7e2b858339](https://bsd-hardware.info/?probe=7e2b858339) | Dec 31, 2023 |
@@ -942,8 +997,8 @@ Total: 1853
 | Gigabyte      | B450M DS3H-CF               | [edcd612c83](https://bsd-hardware.info/?probe=edcd612c83) | May 18, 2022 |
 | Dell          | 07T4MC A11                  | [63d6080a31](https://bsd-hardware.info/?probe=63d6080a31) | May 17, 2022 |
 | Fujitsu       | D3401-H2 S26361-D3401-H2    | [b87692aeb4](https://bsd-hardware.info/?probe=b87692aeb4) | May 15, 2022 |
-| ASRock        | E350M1                      | [1850fa38e0](https://bsd-hardware.info/?probe=1850fa38e0) | May 14, 2022 |
-| ASRock        | E350M1                      | [4520b5034e](https://bsd-hardware.info/?probe=4520b5034e) | May 13, 2022 |
+| MSI           | B450M MORTAR MAX            | [1850fa38e0](https://bsd-hardware.info/?probe=1850fa38e0) | May 14, 2022 |
+| MSI           | B450M MORTAR MAX            | [4520b5034e](https://bsd-hardware.info/?probe=4520b5034e) | May 13, 2022 |
 | MSI           | MS-7369                     | [c2c6bd80e8](https://bsd-hardware.info/?probe=c2c6bd80e8) | May 13, 2022 |
 | Unknown       | Unknown                     | [f3ab857e43](https://bsd-hardware.info/?probe=f3ab857e43) | May 13, 2022 |
 | ASUSTek       | PRIME X370-PRO              | [6a9177eef7](https://bsd-hardware.info/?probe=6a9177eef7) | May 13, 2022 |
@@ -1097,61 +1152,6 @@ Total: 1853
 | Intel         | D2500CC AAG81477-401        | [f4d8bd7979](https://bsd-hardware.info/?probe=f4d8bd7979) | Jan 30, 2022 |
 | Gigabyte      | X570 I AORUS PRO WIFI       | [e0c2a150f7](https://bsd-hardware.info/?probe=e0c2a150f7) | Jan 29, 2022 |
 | Gigabyte      | Z68X-UD7-B3                 | [37cc045649](https://bsd-hardware.info/?probe=37cc045649) | Jan 28, 2022 |
-| ASUSTek       | PRIME H410M-A               | [c7ef0e518f](https://bsd-hardware.info/?probe=c7ef0e518f) | Jan 27, 2022 |
-| Gigabyte      | X470 AORUS ULTRA GAMING-... | [eb44c8d7e1](https://bsd-hardware.info/?probe=eb44c8d7e1) | Jan 27, 2022 |
-| Kontron       | KT965/ATXP 61420000         | [36109b09ca](https://bsd-hardware.info/?probe=36109b09ca) | Jan 26, 2022 |
-| HP            | ProLiant MicroServer        | [b62251041b](https://bsd-hardware.info/?probe=b62251041b) | Jan 26, 2022 |
-| MSI           | G31TM-P21                   | [10ca6492c1](https://bsd-hardware.info/?probe=10ca6492c1) | Jan 25, 2022 |
-| MSI           | G31TM-P21                   | [7563c4cf09](https://bsd-hardware.info/?probe=7563c4cf09) | Jan 25, 2022 |
-| Kontron       | KT965/ATXP 61420000         | [db757ea2ef](https://bsd-hardware.info/?probe=db757ea2ef) | Jan 25, 2022 |
-| Gigabyte      | H310M S2 x.x                | [b0aeac1ef8](https://bsd-hardware.info/?probe=b0aeac1ef8) | Jan 25, 2022 |
-| ASUSTek       | P5M2                        | [f2d4eccf4d](https://bsd-hardware.info/?probe=f2d4eccf4d) | Jan 24, 2022 |
-| ASUSTek       | ROG CROSSHAIR VIII HERO     | [a90b68e57b](https://bsd-hardware.info/?probe=a90b68e57b) | Jan 23, 2022 |
-| MSI           | H81M-P33                    | [9d6207401e](https://bsd-hardware.info/?probe=9d6207401e) | Jan 23, 2022 |
-| ASUSTek       | P5Q-E                       | [691f4c1a9a](https://bsd-hardware.info/?probe=691f4c1a9a) | Jan 23, 2022 |
-| ASUSTek       | PRIME Z590-P                | [0473b57d99](https://bsd-hardware.info/?probe=0473b57d99) | Jan 19, 2022 |
-| Gigabyte      | Z68X-UD7-B3                 | [082da3ef7f](https://bsd-hardware.info/?probe=082da3ef7f) | Jan 19, 2022 |
-| ASUSTek       | M5A97 R2.0                  | [9f442754d0](https://bsd-hardware.info/?probe=9f442754d0) | Jan 17, 2022 |
-| MSI           | H81M-P33                    | [4cc0e9443d](https://bsd-hardware.info/?probe=4cc0e9443d) | Jan 16, 2022 |
-| ASUSTek       | ROG CROSSHAIR VIII HERO     | [7307e3e0be](https://bsd-hardware.info/?probe=7307e3e0be) | Jan 16, 2022 |
-| ASUSTek       | P5Q-E                       | [d9f18d4d56](https://bsd-hardware.info/?probe=d9f18d4d56) | Jan 16, 2022 |
-| ASUSTek       | PRIME H310M-K R2.0          | [8b55745b6f](https://bsd-hardware.info/?probe=8b55745b6f) | Jan 14, 2022 |
-| ASUSTek       | PRIME H410M-A               | [d09cf2e0a7](https://bsd-hardware.info/?probe=d09cf2e0a7) | Jan 14, 2022 |
-| ASUSTek       | Z87-PRO                     | [280ea0618b](https://bsd-hardware.info/?probe=280ea0618b) | Jan 14, 2022 |
-| Gigabyte      | B450M DS3H-CF               | [825d20fcf7](https://bsd-hardware.info/?probe=825d20fcf7) | Jan 14, 2022 |
-| Gigabyte      | B450M DS3H-CF               | [b953d9d2e6](https://bsd-hardware.info/?probe=b953d9d2e6) | Jan 13, 2022 |
-| ASUSTek       | TUF B365M-PLUS GAMING       | [384cbe9714](https://bsd-hardware.info/?probe=384cbe9714) | Jan 13, 2022 |
-| ASUSTek       | PRIME X370-PRO              | [1d7c4c096e](https://bsd-hardware.info/?probe=1d7c4c096e) | Jan 13, 2022 |
-| ASUSTek       | P5G41T-M LX2/GB             | [1527560bbd](https://bsd-hardware.info/?probe=1527560bbd) | Jan 11, 2022 |
-| HP            | ProLiant MicroServer        | [0da2a93271](https://bsd-hardware.info/?probe=0da2a93271) | Jan 11, 2022 |
-| Supermicro    | X7SBL                       | [c7d877a988](https://bsd-hardware.info/?probe=c7d877a988) | Jan 11, 2022 |
-| Intel         | DH61CR AAG14064-210         | [15bb78bf9a](https://bsd-hardware.info/?probe=15bb78bf9a) | Jan 11, 2022 |
-| Intel         | DQ35JO AAD82085-804         | [117b469a53](https://bsd-hardware.info/?probe=117b469a53) | Jan 11, 2022 |
-| HP            | ProLiant MicroServer        | [e95a3dd5ec](https://bsd-hardware.info/?probe=e95a3dd5ec) | Jan 10, 2022 |
-| ASUSTek       | A68HM-PLUS                  | [650628a974](https://bsd-hardware.info/?probe=650628a974) | Jan 10, 2022 |
-| ASUSTek       | P5G41T-M LX2/GB             | [d914e4c500](https://bsd-hardware.info/?probe=d914e4c500) | Jan 10, 2022 |
-| ASUSTek       | PRIME H310-PLUS             | [03252493ce](https://bsd-hardware.info/?probe=03252493ce) | Jan 09, 2022 |
-| ASRock        | FM2A85X Extreme6            | [c87969f2d8](https://bsd-hardware.info/?probe=c87969f2d8) | Jan 09, 2022 |
-| ASRock        | Z170M Extreme4              | [c518ded272](https://bsd-hardware.info/?probe=c518ded272) | Jan 09, 2022 |
-| ASUSTek       | ROG STRIX B550-I GAMING     | [2cc4698cbc](https://bsd-hardware.info/?probe=2cc4698cbc) | Jan 09, 2022 |
-| ASUSTek       | ROG STRIX B550-I GAMING     | [2481037b2a](https://bsd-hardware.info/?probe=2481037b2a) | Jan 09, 2022 |
-| Gigabyte      | H470 HD3                    | [afa675e7a7](https://bsd-hardware.info/?probe=afa675e7a7) | Jan 08, 2022 |
-| Intel         | DH67CL AAG10212-205         | [1b0837ff84](https://bsd-hardware.info/?probe=1b0837ff84) | Jan 08, 2022 |
-| Gigabyte      | B150-HD3P-CF                | [9752eae10b](https://bsd-hardware.info/?probe=9752eae10b) | Jan 06, 2022 |
-| Unknown       | Unknown                     | [7367c82ceb](https://bsd-hardware.info/?probe=7367c82ceb) | Jan 05, 2022 |
-| Unknown       | Unknown                     | [54ba0d5236](https://bsd-hardware.info/?probe=54ba0d5236) | Jan 05, 2022 |
-| ASUSTek       | TUF GAMING B550-PLUS        | [ea4719600a](https://bsd-hardware.info/?probe=ea4719600a) | Jan 05, 2022 |
-| ASUSTek       | P8H67-M PRO                 | [d789a35c01](https://bsd-hardware.info/?probe=d789a35c01) | Jan 02, 2022 |
-| MSI           | H81M-P33                    | [759c219ace](https://bsd-hardware.info/?probe=759c219ace) | Jan 02, 2022 |
-| Unknown       | Unknown                     | [c183bdd5af](https://bsd-hardware.info/?probe=c183bdd5af) | Jan 01, 2022 |
-| ASUSTek       | PRIME H310-PLUS             | [82256452fe](https://bsd-hardware.info/?probe=82256452fe) | Jan 01, 2022 |
-| ASRock        | B450 Steel Legend           | [e67007df20](https://bsd-hardware.info/?probe=e67007df20) | Jan 01, 2022 |
-| Unknown       | Unknown                     | [4848e4009f](https://bsd-hardware.info/?probe=4848e4009f) | Jan 01, 2022 |
-| HP            | ProLiant MicroServer        | [d641a4bea9](https://bsd-hardware.info/?probe=d641a4bea9) | Dec 30, 2021 |
-| ASUSTek       | P8B75-M                     | [c3884fac44](https://bsd-hardware.info/?probe=c3884fac44) | Dec 30, 2021 |
-| Gigabyte      | B550M AORUS PRO-P           | [dd62d57a45](https://bsd-hardware.info/?probe=dd62d57a45) | Dec 29, 2021 |
-| friendlyel... | nanopi-m4                   | [bb29e50061](https://bsd-hardware.info/?probe=bb29e50061) | Dec 27, 2021 |
-| AMI           | PEISIA E3845 VER1.0         | [d19f149583](https://bsd-hardware.info/?probe=d19f149583) | Dec 26, 2021 |
 
 ...
 
@@ -1170,46 +1170,46 @@ Installed operating systems
 
 | Name                 | Desktops | Percent |
 |----------------------|----------|---------|
-| FreeBSD 13.1         | 96       | 7%      |
-| FreeBSD 13.0         | 78       | 5.69%   |
-| FreeBSD 12.2         | 65       | 4.74%   |
-| FreeBSD 14.0-CURRENT | 62       | 4.52%   |
-| FreeBSD 13.2         | 58       | 4.23%   |
-| FreeBSD 13.0-p5      | 43       | 3.13%   |
-| FreeBSD 12.2-p2      | 41       | 2.99%   |
-| FreeBSD 13.1-p2      | 40       | 2.92%   |
-| FreeBSD 13.0-p4      | 35       | 2.55%   |
-| FreeBSD 12.1-p8      | 35       | 2.55%   |
-| FreeBSD 12.1-p10     | 34       | 2.48%   |
-| FreeBSD 13.1-p5      | 33       | 2.41%   |
-| FreeBSD 13.0-STABLE  | 33       | 2.41%   |
-| FreeBSD 12.1-STABLE  | 29       | 2.11%   |
-| FreeBSD 12.1-p5      | 29       | 2.11%   |
-| FreeBSD 12.1-p7      | 28       | 2.04%   |
-| FreeBSD 13.1-p7      | 26       | 1.9%    |
-| FreeBSD 12.2-p3      | 24       | 1.75%   |
-| FreeBSD 13.0-CURRENT | 22       | 1.6%    |
-| FreeBSD 12.1         | 22       | 1.6%    |
-| FreeBSD 13.0-p11     | 21       | 1.53%   |
-| FreeBSD 13.0-p7      | 20       | 1.46%   |
-| FreeBSD 12.2-p4      | 19       | 1.38%   |
-| FreeBSD 14.0         | 18       | 1.31%   |
-| FreeBSD 13.0-p3      | 18       | 1.31%   |
-| FreeBSD 13.2-p2      | 16       | 1.17%   |
-| FreeBSD 12.3         | 16       | 1.17%   |
-| FreeBSD 12.2-STABLE  | 16       | 1.17%   |
-| FreeBSD 13.1-STABLE  | 15       | 1.09%   |
-| FreeBSD 13.0-p10     | 14       | 1.02%   |
-| FreeBSD 13.1-p1      | 13       | 0.95%   |
-| FreeBSD 13.0-p2      | 13       | 0.95%   |
-| FreeBSD 13.2-p3      | 11       | 0.8%    |
-| FreeBSD 12.2-p6      | 11       | 0.8%    |
-| FreeBSD 12.1-p6      | 11       | 0.8%    |
-| FreeBSD 14.0-p4      | 10       | 0.73%   |
-| FreeBSD 13.2-p4      | 10       | 0.73%   |
-| FreeBSD 13.2-p1      | 10       | 0.73%   |
-| FreeBSD 13.1-p8      | 10       | 0.73%   |
-| FreeBSD 13.1-p3      | 10       | 0.73%   |
+| FreeBSD 13.1         | 96       | 6.84%   |
+| FreeBSD 13.0         | 78       | 5.56%   |
+| FreeBSD 12.2         | 66       | 4.7%    |
+| FreeBSD 14.0-CURRENT | 62       | 4.42%   |
+| FreeBSD 13.2         | 61       | 4.35%   |
+| FreeBSD 13.0-p5      | 43       | 3.06%   |
+| FreeBSD 12.2-p2      | 41       | 2.92%   |
+| FreeBSD 13.1-p2      | 40       | 2.85%   |
+| FreeBSD 13.0-p4      | 35       | 2.49%   |
+| FreeBSD 12.1-p8      | 35       | 2.49%   |
+| FreeBSD 12.1-p10     | 34       | 2.42%   |
+| FreeBSD 13.1-p5      | 33       | 2.35%   |
+| FreeBSD 13.0-STABLE  | 33       | 2.35%   |
+| FreeBSD 12.1-STABLE  | 29       | 2.07%   |
+| FreeBSD 12.1-p5      | 29       | 2.07%   |
+| FreeBSD 12.1-p7      | 28       | 2%      |
+| FreeBSD 13.1-p7      | 26       | 1.85%   |
+| FreeBSD 12.2-p3      | 24       | 1.71%   |
+| FreeBSD 14.0         | 23       | 1.64%   |
+| FreeBSD 13.0-CURRENT | 22       | 1.57%   |
+| FreeBSD 12.1         | 22       | 1.57%   |
+| FreeBSD 13.0-p11     | 21       | 1.5%    |
+| FreeBSD 14.0-p4      | 20       | 1.43%   |
+| FreeBSD 13.0-p7      | 20       | 1.43%   |
+| FreeBSD 12.2-p4      | 19       | 1.35%   |
+| FreeBSD 13.0-p3      | 18       | 1.28%   |
+| FreeBSD 13.2-p2      | 16       | 1.14%   |
+| FreeBSD 12.3         | 16       | 1.14%   |
+| FreeBSD 12.2-STABLE  | 16       | 1.14%   |
+| FreeBSD 13.1-STABLE  | 15       | 1.07%   |
+| FreeBSD 13.0-p10     | 14       | 1%      |
+| FreeBSD 13.1-p1      | 13       | 0.93%   |
+| FreeBSD 13.0-p2      | 13       | 0.93%   |
+| FreeBSD 13.2-p3      | 11       | 0.78%   |
+| FreeBSD 13.2-p1      | 11       | 0.78%   |
+| FreeBSD 12.2-p6      | 11       | 0.78%   |
+| FreeBSD 12.1-p6      | 11       | 0.78%   |
+| FreeBSD 13.2-STABLE  | 10       | 0.71%   |
+| FreeBSD 13.2-p4      | 10       | 0.71%   |
+| FreeBSD 13.1-p8      | 10       | 0.71%   |
 
 OS Family
 ---------
@@ -1221,7 +1221,7 @@ OS without a version
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| FreeBSD | 1088     | 100%    |
+| FreeBSD | 1109     | 100%    |
 
 Arch
 ----
@@ -1233,11 +1233,11 @@ OS architecture (x86_64, i586, etc.)
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| amd64   | 1003     | 92.19%  |
-| arm64   | 38       | 3.49%   |
-| i386    | 31       | 2.85%   |
-| arm     | 9        | 0.83%   |
-| powerpc | 5        | 0.46%   |
+| amd64   | 1021     | 92.06%  |
+| arm64   | 38       | 3.43%   |
+| i386    | 32       | 2.89%   |
+| arm     | 10       | 0.9%    |
+| powerpc | 6        | 0.54%   |
 | sparc64 | 1        | 0.09%   |
 | riscv   | 1        | 0.09%   |
 
@@ -1251,31 +1251,32 @@ Desktop Environment
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| Console       | 469      | 41.47%  |
-| KDE5          | 186      | 16.45%  |
-| XFCE          | 140      | 12.38%  |
-| GNOME         | 72       | 6.37%   |
-| TWM           | 64       | 5.66%   |
-| MATE          | 56       | 4.95%   |
-| i3            | 30       | 2.65%   |
-| Openbox       | 26       | 2.3%    |
-| Cinnamon      | 10       | 0.88%   |
-| AwesomeWM     | 10       | 0.88%   |
-| Fluxbox       | 9        | 0.8%    |
-| LXQt          | 8        | 0.71%   |
-| LXDE          | 7        | 0.62%   |
-| Lumina        | 5        | 0.44%   |
-| Enlightenment | 5        | 0.44%   |
-| DWM           | 5        | 0.44%   |
-| X-Cinnamon    | 3        | 0.27%   |
-| Picom         | 3        | 0.27%   |
-| CDE           | 3        | 0.27%   |
-| xfwm          | 2        | 0.18%   |
-| Window Maker  | 2        | 0.18%   |
-| KDE           | 2        | 0.18%   |
-| GNUstep       | 2        | 0.18%   |
-| Budgie        | 2        | 0.18%   |
+| Console       | 478      | 41.42%  |
+| KDE5          | 190      | 16.46%  |
+| XFCE          | 145      | 12.56%  |
+| GNOME         | 73       | 6.33%   |
+| TWM           | 66       | 5.72%   |
+| MATE          | 57       | 4.94%   |
+| i3            | 30       | 2.6%    |
+| Openbox       | 26       | 2.25%   |
+| Cinnamon      | 10       | 0.87%   |
+| AwesomeWM     | 10       | 0.87%   |
+| Fluxbox       | 9        | 0.78%   |
+| LXQt          | 8        | 0.69%   |
+| LXDE          | 7        | 0.61%   |
+| Lumina        | 5        | 0.43%   |
+| Enlightenment | 5        | 0.43%   |
+| DWM           | 5        | 0.43%   |
+| X-Cinnamon    | 3        | 0.26%   |
+| Picom         | 3        | 0.26%   |
+| CDE           | 3        | 0.26%   |
+| xfwm          | 2        | 0.17%   |
+| Window Maker  | 2        | 0.17%   |
+| KDE           | 2        | 0.17%   |
+| GNUstep       | 2        | 0.17%   |
+| Budgie        | 2        | 0.17%   |
 | xinitrc       | 1        | 0.09%   |
+| wlroots       | 1        | 0.09%   |
 | spectrwm      | 1        | 0.09%   |
 | plasma        | 1        | 0.09%   |
 | KWin          | 1        | 0.09%   |
@@ -1296,9 +1297,9 @@ X11 or Wayland
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| X11     | 581      | 52.53%  |
-| Console | 510      | 46.11%  |
-| Wayland | 14       | 1.27%   |
+| X11     | 593      | 52.62%  |
+| Console | 519      | 46.05%  |
+| Wayland | 14       | 1.24%   |
 | Tty     | 1        | 0.09%   |
 
 Display Manager
@@ -1311,13 +1312,13 @@ SDDM, LightDM, etc.
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Console | 681      | 60.97%  |
-| SDDM    | 170      | 15.22%  |
-| SLiM    | 79       | 7.07%   |
-| XDM     | 70       | 6.27%   |
-| LightDM | 63       | 5.64%   |
-| GDM     | 47       | 4.21%   |
-| Ly      | 7        | 0.63%   |
+| Console | 691      | 60.72%  |
+| SDDM    | 174      | 15.29%  |
+| SLiM    | 80       | 7.03%   |
+| XDM     | 72       | 6.33%   |
+| LightDM | 67       | 5.89%   |
+| GDM     | 47       | 4.13%   |
+| Ly      | 7        | 0.62%   |
 
 OS Lang
 -------
@@ -1329,24 +1330,24 @@ Language
 
 | Lang             | Desktops | Percent |
 |------------------|----------|---------|
-| C                | 451      | 39.46%  |
-| Unknown          | 301      | 26.33%  |
-| en_US            | 175      | 15.31%  |
-| ru_RU            | 78       | 6.82%   |
-| de_DE            | 22       | 1.92%   |
-| fr_FR            | 15       | 1.31%   |
-| en_GB            | 15       | 1.31%   |
-| pt_BR            | 7        | 0.61%   |
-| en_CA            | 7        | 0.61%   |
-| uk_UA            | 6        | 0.52%   |
-| ja_JP            | 6        | 0.52%   |
-| it_IT            | 6        | 0.52%   |
-| zh_CN            | 5        | 0.44%   |
-| pl_PL            | 4        | 0.35%   |
-| es_ES            | 4        | 0.35%   |
-| en_IE            | 4        | 0.35%   |
-| en_AU            | 4        | 0.35%   |
-| el_GR            | 4        | 0.35%   |
+| C                | 463      | 39.67%  |
+| Unknown          | 304      | 26.05%  |
+| en_US            | 180      | 15.42%  |
+| ru_RU            | 79       | 6.77%   |
+| de_DE            | 22       | 1.89%   |
+| fr_FR            | 15       | 1.29%   |
+| en_GB            | 15       | 1.29%   |
+| pt_BR            | 7        | 0.6%    |
+| en_CA            | 7        | 0.6%    |
+| uk_UA            | 6        | 0.51%   |
+| pl_PL            | 6        | 0.51%   |
+| ja_JP            | 6        | 0.51%   |
+| it_IT            | 6        | 0.51%   |
+| zh_CN            | 5        | 0.43%   |
+| es_ES            | 4        | 0.34%   |
+| en_IE            | 4        | 0.34%   |
+| en_AU            | 4        | 0.34%   |
+| el_GR            | 4        | 0.34%   |
 | ru_RU.KOI8-R     | 3        | 0.26%   |
 | fi_FI            | 3        | 0.26%   |
 | sv_SE            | 2        | 0.17%   |
@@ -1363,12 +1364,12 @@ Language
 | es_MX            | 1        | 0.09%   |
 | es_ES.ISO8859-15 | 1        | 0.09%   |
 | en_US.utf-8      | 1        | 0.09%   |
+| en_US.ISO8859-15 | 1        | 0.09%   |
 | en_US.ISO8859-1  | 1        | 0.09%   |
 | en_GB.US-ASCII   | 1        | 0.09%   |
 | de_DE.ISO8859-1  | 1        | 0.09%   |
 | de_CH            | 1        | 0.09%   |
 | da_DK            | 1        | 0.09%   |
-| cv_RU.US-ASCII   | 1        | 0.09%   |
 
 Boot Mode
 ---------
@@ -1380,8 +1381,8 @@ EFI or BIOS
 
 | Mode | Desktops | Percent |
 |------|----------|---------|
-| EFI  | 647      | 58.61%  |
-| BIOS | 457      | 41.39%  |
+| EFI  | 662      | 58.84%  |
+| BIOS | 463      | 41.16%  |
 
 Filesystem
 ----------
@@ -1393,8 +1394,8 @@ Type of filesystem
 
 | Type   | Desktops | Percent |
 |--------|----------|---------|
-| Zfs    | 683      | 62.09%  |
-| Ufs    | 414      | 37.64%  |
+| Zfs    | 696      | 62.09%  |
+| Ufs    | 422      | 37.64%  |
 | Cd9660 | 2        | 0.18%   |
 | Nfs    | 1        | 0.09%   |
 
@@ -1408,10 +1409,10 @@ Scheme of partitioning
 
 | Type    | Desktops | Percent |
 |---------|----------|---------|
-| GPT     | 972      | 88.93%  |
-| MBR     | 109      | 9.97%   |
-| Unknown | 8        | 0.73%   |
-| BSD     | 4        | 0.37%   |
+| GPT     | 991      | 88.96%  |
+| MBR     | 110      | 9.87%   |
+| Unknown | 8        | 0.72%   |
+| BSD     | 5        | 0.45%   |
 
 Board
 -----
@@ -1426,31 +1427,31 @@ Motherboard manufacturer
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| ASUSTek Computer    | 242      | 22.24%  |
-| Gigabyte Technology | 135      | 12.41%  |
-| ASRock              | 113      | 10.39%  |
-| Hewlett-Packard     | 95       | 8.73%   |
-| MSI                 | 89       | 8.18%   |
-| Dell                | 79       | 7.26%   |
-| Unknown             | 67       | 6.16%   |
-| Intel               | 40       | 3.68%   |
-| Supermicro          | 36       | 3.31%   |
-| Lenovo              | 26       | 2.39%   |
-| Fujitsu             | 18       | 1.65%   |
-| PC Engines          | 16       | 1.47%   |
-| ASRockRack          | 16       | 1.47%   |
-| Acer                | 11       | 1.01%   |
-| Shuttle             | 8        | 0.74%   |
-| Biostar             | 6        | 0.55%   |
-| Beckhoff Automation | 5        | 0.46%   |
-| Wistron             | 4        | 0.37%   |
-| Huanan              | 4        | 0.37%   |
-| Foxconn             | 4        | 0.37%   |
-| AZW                 | 4        | 0.37%   |
-| Pegatron            | 3        | 0.28%   |
-| HPE                 | 3        | 0.28%   |
-| EVGA                | 3        | 0.28%   |
-| Apple               | 3        | 0.28%   |
+| ASUSTek Computer    | 244      | 22%     |
+| Gigabyte Technology | 140      | 12.62%  |
+| ASRock              | 115      | 10.37%  |
+| Hewlett-Packard     | 97       | 8.75%   |
+| MSI                 | 92       | 8.3%    |
+| Dell                | 81       | 7.3%    |
+| Unknown             | 69       | 6.22%   |
+| Intel               | 40       | 3.61%   |
+| Supermicro          | 36       | 3.25%   |
+| Lenovo              | 26       | 2.34%   |
+| Fujitsu             | 19       | 1.71%   |
+| PC Engines          | 16       | 1.44%   |
+| ASRockRack          | 16       | 1.44%   |
+| Acer                | 11       | 0.99%   |
+| Shuttle             | 8        | 0.72%   |
+| Biostar             | 6        | 0.54%   |
+| Beckhoff Automation | 5        | 0.45%   |
+| Wistron             | 4        | 0.36%   |
+| Huanan              | 4        | 0.36%   |
+| Foxconn             | 4        | 0.36%   |
+| AZW                 | 4        | 0.36%   |
+| Pegatron            | 3        | 0.27%   |
+| HPE                 | 3        | 0.27%   |
+| EVGA                | 3        | 0.27%   |
+| Apple               | 3        | 0.27%   |
 | Radxa               | 2        | 0.18%   |
 | Google              | 2        | 0.18%   |
 | Gateway             | 2        | 0.18%   |
@@ -1477,46 +1478,46 @@ Motherboard model
 
 | Name                             | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Unknown                          | 68       | 6.25%   |
-| ASUS All Series                  | 29       | 2.67%   |
-| HP ProLiant MicroServer Gen8     | 10       | 0.92%   |
-| Intel Nobilis                    | 9        | 0.83%   |
-| PC Engines APU2                  | 8        | 0.74%   |
-| ASUS TUF GAMING X570-PLUS        | 7        | 0.64%   |
-| HP ProLiant MicroServer          | 6        | 0.55%   |
-| ASRock Z590 Pro4                 | 6        | 0.55%   |
-| MSI MS-7C02                      | 5        | 0.46%   |
-| MSI MS-7B89                      | 5        | 0.46%   |
-| HP Z440 Workstation              | 5        | 0.46%   |
-| Gigabyte B360N WIFI              | 5        | 0.46%   |
-| Dell OptiPlex 9020               | 5        | 0.46%   |
-| ASRock X570 Phantom Gaming 4     | 5        | 0.46%   |
-| Supermicro X9SCL/X9SCM           | 4        | 0.37%   |
-| MSI MS-7693                      | 4        | 0.37%   |
-| HP Z620 Workstation              | 4        | 0.37%   |
-| HP Z420 Workstation              | 4        | 0.37%   |
-| HP t620 Quad Core TC             | 4        | 0.37%   |
-| HP Compaq Elite 8300 SFF         | 4        | 0.37%   |
-| Gigabyte X570 I AORUS PRO WIFI   | 4        | 0.37%   |
-| Gigabyte B450M DS3H              | 4        | 0.37%   |
-| Fujitsu D3401-H2 S26361-D3401-H2 | 4        | 0.37%   |
-| Dell PowerEdge T30               | 4        | 0.37%   |
-| Dell OptiPlex 7050               | 4        | 0.37%   |
-| Dell OptiPlex 7040               | 4        | 0.37%   |
-| Dell OptiPlex 3010               | 4        | 0.37%   |
-| ASRock Q1900B-ITX                | 4        | 0.37%   |
-| Wistron ProLiant ML110 G6        | 3        | 0.28%   |
-| Supermicro X7SPA-HF              | 3        | 0.28%   |
-| PC Engines apu4                  | 3        | 0.28%   |
-| PC Engines APU                   | 3        | 0.28%   |
-| MSI MS-7C37                      | 3        | 0.28%   |
-| MSI MS-7817                      | 3        | 0.28%   |
-| MSI MS-7529                      | 3        | 0.28%   |
-| MSI MS-7522                      | 3        | 0.28%   |
-| HP Z820 Workstation              | 3        | 0.28%   |
-| HP Z600 Workstation              | 3        | 0.28%   |
-| HP t620 PLUS Quad Core TC        | 3        | 0.28%   |
-| HP Compaq 6200 Pro MT PC         | 3        | 0.28%   |
+| Unknown                          | 70       | 6.31%   |
+| ASUS All Series                  | 29       | 2.61%   |
+| HP ProLiant MicroServer Gen8     | 10       | 0.9%    |
+| Intel Nobilis                    | 9        | 0.81%   |
+| PC Engines APU2                  | 8        | 0.72%   |
+| ASUS TUF Gaming X570-PLUS        | 7        | 0.63%   |
+| MSI MS-7B89                      | 6        | 0.54%   |
+| HP ProLiant MicroServer          | 6        | 0.54%   |
+| ASRock Z590 Pro4                 | 6        | 0.54%   |
+| MSI MS-7C02                      | 5        | 0.45%   |
+| HP Z440 Workstation              | 5        | 0.45%   |
+| Gigabyte B360N WIFI              | 5        | 0.45%   |
+| Dell OptiPlex 9020               | 5        | 0.45%   |
+| Dell OptiPlex 7050               | 5        | 0.45%   |
+| ASRock X570 Phantom Gaming 4     | 5        | 0.45%   |
+| Supermicro X9SCL/X9SCM           | 4        | 0.36%   |
+| MSI MS-7693                      | 4        | 0.36%   |
+| HP Z620 Workstation              | 4        | 0.36%   |
+| HP Z420 Workstation              | 4        | 0.36%   |
+| HP t620 Quad Core TC             | 4        | 0.36%   |
+| HP Compaq Elite 8300 SFF         | 4        | 0.36%   |
+| Gigabyte X570 I AORUS PRO WIFI   | 4        | 0.36%   |
+| Gigabyte B450M DS3H              | 4        | 0.36%   |
+| Fujitsu D3401-H2 S26361-D3401-H2 | 4        | 0.36%   |
+| Dell PowerEdge T30               | 4        | 0.36%   |
+| Dell OptiPlex 7040               | 4        | 0.36%   |
+| Dell OptiPlex 3010               | 4        | 0.36%   |
+| ASUS ROG STRIX B550-F GAMING     | 4        | 0.36%   |
+| ASRock Q1900B-ITX                | 4        | 0.36%   |
+| Wistron ProLiant ML110 G6        | 3        | 0.27%   |
+| Supermicro X7SPA-HF              | 3        | 0.27%   |
+| PC Engines apu4                  | 3        | 0.27%   |
+| PC Engines APU                   | 3        | 0.27%   |
+| MSI MS-7C37                      | 3        | 0.27%   |
+| MSI MS-7B86                      | 3        | 0.27%   |
+| MSI MS-7817                      | 3        | 0.27%   |
+| MSI MS-7529                      | 3        | 0.27%   |
+| MSI MS-7522                      | 3        | 0.27%   |
+| HP Z820 Workstation              | 3        | 0.27%   |
+| HP Z600 Workstation              | 3        | 0.27%   |
 
 Model Family
 ------------
@@ -1528,46 +1529,46 @@ Motherboard model prefix
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| Unknown             | 68       | 6.25%   |
-| ASUS PRIME          | 49       | 4.5%    |
-| Dell OptiPlex       | 45       | 4.14%   |
-| ASUS All            | 29       | 2.67%   |
-| ASUS ROG            | 28       | 2.57%   |
-| ASUS TUF            | 26       | 2.39%   |
-| HP ProLiant         | 21       | 1.93%   |
-| HP Compaq           | 21       | 1.93%   |
-| Lenovo ThinkCentre  | 14       | 1.29%   |
-| Dell Precision      | 14       | 1.29%   |
-| ASRock X570         | 13       | 1.19%   |
-| Intel Nobilis       | 9        | 0.83%   |
-| Gigabyte X570       | 9        | 0.83%   |
-| ASUS PRO            | 9        | 0.83%   |
-| PC Engines APU2     | 8        | 0.74%   |
-| Gigabyte B450M      | 8        | 0.74%   |
-| Dell PowerEdge      | 8        | 0.74%   |
-| ASRock X370         | 8        | 0.74%   |
-| HP t620             | 7        | 0.64%   |
-| HP EliteDesk        | 7        | 0.64%   |
-| Fujitsu ESPRIMO     | 7        | 0.64%   |
-| HP ProDesk          | 6        | 0.55%   |
-| ASRock Z590         | 6        | 0.55%   |
-| MSI MS-7C02         | 5        | 0.46%   |
-| MSI MS-7B89         | 5        | 0.46%   |
-| HP Z440             | 5        | 0.46%   |
-| Gigabyte X470       | 5        | 0.46%   |
-| Gigabyte B360N      | 5        | 0.46%   |
-| ASRock B550         | 5        | 0.46%   |
-| ASRock 970          | 5        | 0.46%   |
-| Acer Veriton        | 5        | 0.46%   |
-| Acer Aspire         | 5        | 0.46%   |
-| Wistron ProLiant    | 4        | 0.37%   |
-| Supermicro X9SCL    | 4        | 0.37%   |
-| MSI MS-7693         | 4        | 0.37%   |
-| Lenovo ThinkStation | 4        | 0.37%   |
-| Lenovo IdeaCentre   | 4        | 0.37%   |
-| HP Z620             | 4        | 0.37%   |
-| HP Z420             | 4        | 0.37%   |
-| Gigabyte B550M      | 4        | 0.37%   |
+| Unknown             | 70       | 6.31%   |
+| ASUS PRIME          | 49       | 4.42%   |
+| Dell OptiPlex       | 47       | 4.24%   |
+| ASUS ROG            | 30       | 2.71%   |
+| ASUS All            | 29       | 2.61%   |
+| ASUS TUF            | 26       | 2.34%   |
+| HP ProLiant         | 21       | 1.89%   |
+| HP Compaq           | 21       | 1.89%   |
+| Lenovo ThinkCentre  | 14       | 1.26%   |
+| Dell Precision      | 14       | 1.26%   |
+| ASRock X570         | 13       | 1.17%   |
+| Intel Nobilis       | 9        | 0.81%   |
+| Gigabyte X570       | 9        | 0.81%   |
+| ASUS PRO            | 9        | 0.81%   |
+| PC Engines APU2     | 8        | 0.72%   |
+| HP EliteDesk        | 8        | 0.72%   |
+| Gigabyte B450M      | 8        | 0.72%   |
+| Fujitsu ESPRIMO     | 8        | 0.72%   |
+| Dell PowerEdge      | 8        | 0.72%   |
+| ASRock X370         | 8        | 0.72%   |
+| HP t620             | 7        | 0.63%   |
+| ASRock Z590         | 7        | 0.63%   |
+| MSI MS-7B89         | 6        | 0.54%   |
+| HP ProDesk          | 6        | 0.54%   |
+| MSI MS-7C02         | 5        | 0.45%   |
+| HP Z440             | 5        | 0.45%   |
+| Gigabyte X470       | 5        | 0.45%   |
+| Gigabyte B360N      | 5        | 0.45%   |
+| ASRock B550         | 5        | 0.45%   |
+| ASRock 970          | 5        | 0.45%   |
+| Acer Veriton        | 5        | 0.45%   |
+| Acer Aspire         | 5        | 0.45%   |
+| Wistron ProLiant    | 4        | 0.36%   |
+| Supermicro X9SCL    | 4        | 0.36%   |
+| MSI MS-7693         | 4        | 0.36%   |
+| Lenovo ThinkStation | 4        | 0.36%   |
+| Lenovo IdeaCentre   | 4        | 0.36%   |
+| HP Z620             | 4        | 0.36%   |
+| HP Z420             | 4        | 0.36%   |
+| Gigabyte B550M      | 4        | 0.36%   |
 
 MFG Year
 --------
@@ -1579,27 +1580,27 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2019    | 116      | 10.66%  |
-| 2018    | 99       | 9.1%    |
-| 2020    | 96       | 8.82%   |
-| 2021    | 83       | 7.63%   |
-| 2013    | 76       | 6.99%   |
-| 2014    | 73       | 6.71%   |
-| 2011    | 65       | 5.97%   |
-| 2012    | 63       | 5.79%   |
-| 2017    | 54       | 4.96%   |
-| Unknown | 54       | 4.96%   |
-| 2016    | 51       | 4.69%   |
-| 2015    | 48       | 4.41%   |
-| 2010    | 46       | 4.23%   |
-| 2022    | 44       | 4.04%   |
-| 2009    | 36       | 3.31%   |
-| 2008    | 30       | 2.76%   |
-| 2023    | 23       | 2.11%   |
-| 2007    | 13       | 1.19%   |
-| 2006    | 5        | 0.46%   |
-| 2005    | 4        | 0.37%   |
-| 2004    | 4        | 0.37%   |
+| 2019    | 121      | 10.91%  |
+| 2018    | 100      | 9.02%   |
+| 2020    | 96       | 8.66%   |
+| 2021    | 83       | 7.48%   |
+| 2013    | 77       | 6.94%   |
+| 2014    | 74       | 6.67%   |
+| 2011    | 66       | 5.95%   |
+| 2012    | 63       | 5.68%   |
+| Unknown | 56       | 5.05%   |
+| 2017    | 54       | 4.87%   |
+| 2016    | 53       | 4.78%   |
+| 2015    | 49       | 4.42%   |
+| 2022    | 46       | 4.15%   |
+| 2010    | 46       | 4.15%   |
+| 2009    | 37       | 3.34%   |
+| 2008    | 30       | 2.71%   |
+| 2023    | 27       | 2.43%   |
+| 2007    | 13       | 1.17%   |
+| 2006    | 5        | 0.45%   |
+| 2005    | 4        | 0.36%   |
+| 2004    | 4        | 0.36%   |
 | 2003    | 2        | 0.18%   |
 | 2002    | 2        | 0.18%   |
 | 2001    | 1        | 0.09%   |
@@ -1614,7 +1615,7 @@ Physical design of the computer
 
 | Name    | Desktops | Percent |
 |---------|----------|---------|
-| Desktop | 1088     | 100%    |
+| Desktop | 1109     | 100%    |
 
 Coreboot
 --------
@@ -1626,8 +1627,8 @@ Have coreboot on board
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 1064     | 97.79%  |
-| Yes  | 24       | 2.21%   |
+| No   | 1084     | 97.75%  |
+| Yes  | 25       | 2.25%   |
 
 RAM Size
 --------
@@ -1639,17 +1640,17 @@ Total RAM memory
 
 | Size in GB      | Desktops | Percent |
 |-----------------|----------|---------|
-| 16.01-24.0      | 274      | 24.91%  |
-| 8.01-16.0       | 235      | 21.36%  |
-| 32.01-64.0      | 216      | 19.64%  |
-| 64.01-256.0     | 128      | 11.64%  |
-| 4.01-8.0        | 121      | 11%     |
-| 2.01-3.0        | 35       | 3.18%   |
-| 0.51-1.0        | 25       | 2.27%   |
-| 24.01-32.0      | 23       | 2.09%   |
-| 3.01-4.0        | 20       | 1.82%   |
-| 0.01-0.5        | 12       | 1.09%   |
-| 1.01-2.0        | 6        | 0.55%   |
+| 16.01-24.0      | 281      | 25.02%  |
+| 8.01-16.0       | 240      | 21.37%  |
+| 32.01-64.0      | 220      | 19.59%  |
+| 64.01-256.0     | 131      | 11.67%  |
+| 4.01-8.0        | 123      | 10.95%  |
+| 2.01-3.0        | 36       | 3.21%   |
+| 0.51-1.0        | 25       | 2.23%   |
+| 24.01-32.0      | 23       | 2.05%   |
+| 3.01-4.0        | 20       | 1.78%   |
+| 0.01-0.5        | 13       | 1.16%   |
+| 1.01-2.0        | 6        | 0.53%   |
 | More than 256.0 | 4        | 0.36%   |
 | Unknown         | 1        | 0.09%   |
 
@@ -1663,18 +1664,18 @@ Used RAM memory
 
 | Used GB     | Desktops | Percent |
 |-------------|----------|---------|
-| 0.51-1.0    | 348      | 30.42%  |
-| 0.01-0.5    | 325      | 28.41%  |
-| 1.01-2.0    | 237      | 20.72%  |
-| 2.01-3.0    | 58       | 5.07%   |
-| 4.01-8.0    | 45       | 3.93%   |
-| 3.01-4.0    | 45       | 3.93%   |
-| 8.01-16.0   | 24       | 2.1%    |
-| 0           | 18       | 1.57%   |
-| 24.01-32.0  | 14       | 1.22%   |
-| 32.01-64.0  | 11       | 0.96%   |
-| 16.01-24.0  | 10       | 0.87%   |
-| 64.01-256.0 | 8        | 0.7%    |
+| 0.51-1.0    | 354      | 30.33%  |
+| 0.01-0.5    | 330      | 28.28%  |
+| 1.01-2.0    | 245      | 20.99%  |
+| 2.01-3.0    | 60       | 5.14%   |
+| 3.01-4.0    | 46       | 3.94%   |
+| 4.01-8.0    | 45       | 3.86%   |
+| 8.01-16.0   | 24       | 2.06%   |
+| 0           | 19       | 1.63%   |
+| 24.01-32.0  | 14       | 1.2%    |
+| 32.01-64.0  | 11       | 0.94%   |
+| 16.01-24.0  | 10       | 0.86%   |
+| 64.01-256.0 | 8        | 0.69%   |
 | Unknown     | 1        | 0.09%   |
 
 Total Drives
@@ -1687,28 +1688,28 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 318      | 27.48%  |
-| 2      | 277      | 23.94%  |
-| 3      | 178      | 15.38%  |
-| 4      | 123      | 10.63%  |
-| 5      | 76       | 6.57%   |
-| 0      | 71       | 6.14%   |
-| 6      | 43       | 3.72%   |
-| 7      | 24       | 2.07%   |
-| 8      | 12       | 1.04%   |
-| 10     | 7        | 0.61%   |
-| 9      | 7        | 0.61%   |
-| 12     | 4        | 0.35%   |
-| 14     | 3        | 0.26%   |
-| 11     | 3        | 0.26%   |
+| 1      | 326      | 27.58%  |
+| 2      | 283      | 23.94%  |
+| 3      | 182      | 15.4%   |
+| 4      | 123      | 10.41%  |
+| 5      | 77       | 6.51%   |
+| 0      | 77       | 6.51%   |
+| 6      | 43       | 3.64%   |
+| 7      | 24       | 2.03%   |
+| 8      | 12       | 1.02%   |
+| 10     | 7        | 0.59%   |
+| 9      | 7        | 0.59%   |
+| 12     | 4        | 0.34%   |
+| 14     | 3        | 0.25%   |
+| 11     | 3        | 0.25%   |
 | 23     | 2        | 0.17%   |
 | 17     | 2        | 0.17%   |
 | 13     | 2        | 0.17%   |
-| 24     | 1        | 0.09%   |
-| 21     | 1        | 0.09%   |
-| 19     | 1        | 0.09%   |
-| 18     | 1        | 0.09%   |
-| 15     | 1        | 0.09%   |
+| 24     | 1        | 0.08%   |
+| 21     | 1        | 0.08%   |
+| 19     | 1        | 0.08%   |
+| 18     | 1        | 0.08%   |
+| 15     | 1        | 0.08%   |
 
 Has CD-ROM
 ----------
@@ -1720,8 +1721,8 @@ Has CD-ROM on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 764      | 69.52%  |
-| Yes       | 335      | 30.48%  |
+| No        | 779      | 69.55%  |
+| Yes       | 341      | 30.45%  |
 
 Has Ethernet
 ------------
@@ -1733,8 +1734,8 @@ Has Ethernet on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 1044     | 95.87%  |
-| No        | 45       | 4.13%   |
+| Yes       | 1064     | 95.86%  |
+| No        | 46       | 4.14%   |
 
 Has WiFi
 --------
@@ -1746,8 +1747,8 @@ Has WiFi module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 819      | 74.52%  |
-| Yes       | 280      | 25.48%  |
+| No        | 833      | 74.38%  |
+| Yes       | 287      | 25.63%  |
 
 Has Bluetooth
 -------------
@@ -1759,8 +1760,8 @@ Has Bluetooth module
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| No        | 895      | 81.66%  |
-| Yes       | 201      | 18.34%  |
+| No        | 912      | 81.65%  |
+| Yes       | 205      | 18.35%  |
 
 Location
 --------
@@ -1775,42 +1776,42 @@ Geographic location (country)
 
 | Country     | Desktops | Percent |
 |-------------|----------|---------|
-| USA         | 249      | 22.72%  |
-| Russia      | 152      | 13.87%  |
-| Germany     | 118      | 10.77%  |
-| France      | 50       | 4.56%   |
-| Canada      | 50       | 4.56%   |
-| Poland      | 41       | 3.74%   |
-| UK          | 37       | 3.38%   |
-| Netherlands | 27       | 2.46%   |
-| Ukraine     | 23       | 2.1%    |
-| Brazil      | 23       | 2.1%    |
-| Australia   | 23       | 2.1%    |
-| Czechia     | 22       | 2.01%   |
-| Japan       | 18       | 1.64%   |
-| Sweden      | 17       | 1.55%   |
-| Italy       | 17       | 1.55%   |
-| Finland     | 16       | 1.46%   |
-| China       | 15       | 1.37%   |
-| Switzerland | 13       | 1.19%   |
-| Spain       | 12       | 1.09%   |
-| Romania     | 11       | 1%      |
-| Indonesia   | 10       | 0.91%   |
-| Greece      | 10       | 0.91%   |
-| Norway      | 8        | 0.73%   |
-| Ireland     | 8        | 0.73%   |
-| Thailand    | 7        | 0.64%   |
-| Taiwan      | 7        | 0.64%   |
-| India       | 7        | 0.64%   |
-| Belgium     | 7        | 0.64%   |
-| Austria     | 7        | 0.64%   |
-| Serbia      | 6        | 0.55%   |
-| Hungary     | 6        | 0.55%   |
-| Bulgaria    | 6        | 0.55%   |
-| Mexico      | 5        | 0.46%   |
-| Denmark     | 5        | 0.46%   |
-| Argentina   | 5        | 0.46%   |
-| Slovenia    | 4        | 0.36%   |
+| USA         | 254      | 22.72%  |
+| Russia      | 155      | 13.86%  |
+| Germany     | 118      | 10.55%  |
+| France      | 52       | 4.65%   |
+| Canada      | 51       | 4.56%   |
+| Poland      | 43       | 3.85%   |
+| UK          | 37       | 3.31%   |
+| Netherlands | 27       | 2.42%   |
+| Ukraine     | 23       | 2.06%   |
+| Czechia     | 23       | 2.06%   |
+| Brazil      | 23       | 2.06%   |
+| Australia   | 23       | 2.06%   |
+| Japan       | 18       | 1.61%   |
+| Sweden      | 17       | 1.52%   |
+| Italy       | 17       | 1.52%   |
+| Finland     | 16       | 1.43%   |
+| China       | 15       | 1.34%   |
+| Switzerland | 13       | 1.16%   |
+| Spain       | 12       | 1.07%   |
+| Romania     | 11       | 0.98%   |
+| Indonesia   | 10       | 0.89%   |
+| Greece      | 10       | 0.89%   |
+| Ireland     | 9        | 0.81%   |
+| Norway      | 8        | 0.72%   |
+| Hungary     | 8        | 0.72%   |
+| Thailand    | 7        | 0.63%   |
+| Taiwan      | 7        | 0.63%   |
+| India       | 7        | 0.63%   |
+| Belgium     | 7        | 0.63%   |
+| Austria     | 7        | 0.63%   |
+| Serbia      | 6        | 0.54%   |
+| Bulgaria    | 6        | 0.54%   |
+| Slovenia    | 5        | 0.45%   |
+| Mexico      | 5        | 0.45%   |
+| Denmark     | 5        | 0.45%   |
+| Argentina   | 5        | 0.45%   |
 | Slovakia    | 4        | 0.36%   |
 | New Zealand | 4        | 0.36%   |
 | Estonia     | 4        | 0.36%   |
@@ -1826,46 +1827,46 @@ Geographic location (city)
 
 | City                 | Desktops | Percent |
 |----------------------|----------|---------|
-| Moscow               | 50       | 4.27%   |
-| Krasnodar            | 16       | 1.37%   |
-| Grand Rapids         | 15       | 1.28%   |
-| St Petersburg        | 14       | 1.2%    |
-| Berlin               | 14       | 1.2%    |
-| Kyiv                 | 12       | 1.02%   |
-| Sydney               | 11       | 0.94%   |
-| Ludwigsburg          | 11       | 0.94%   |
-| Helsinki             | 10       | 0.85%   |
-| Yekaterinburg        | 8        | 0.68%   |
-| Tuklaty              | 8        | 0.68%   |
-| Montreal             | 8        | 0.68%   |
-| Warsaw               | 7        | 0.6%    |
-| Hamburg              | 7        | 0.6%    |
-| Chicago              | 7        | 0.6%    |
-| Amsterdam            | 7        | 0.6%    |
-| Rochester            | 6        | 0.51%   |
-| Poway                | 6        | 0.51%   |
-| Portland             | 6        | 0.51%   |
-| Paris                | 6        | 0.51%   |
-| Novosibirsk          | 6        | 0.51%   |
-| Medan                | 6        | 0.51%   |
-| Madrid               | 6        | 0.51%   |
-| Lublin               | 6        | 0.51%   |
-| London               | 6        | 0.51%   |
-| Kamensk-Ural'skiy    | 6        | 0.51%   |
-| Falkenstein          | 6        | 0.51%   |
-| Brooklyn             | 6        | 0.51%   |
-| Zurich               | 5        | 0.43%   |
-| Zaporizhzhya         | 5        | 0.43%   |
-| Vienna               | 5        | 0.43%   |
-| Toronto              | 5        | 0.43%   |
-| Teaneck              | 5        | 0.43%   |
-| Prague               | 5        | 0.43%   |
-| Ozersk               | 5        | 0.43%   |
-| Gdansk               | 5        | 0.43%   |
-| Dublin               | 5        | 0.43%   |
-| City of Saint Peters | 5        | 0.43%   |
-| Bellevue             | 5        | 0.43%   |
-| Bangkok              | 5        | 0.43%   |
+| Moscow               | 51       | 4.26%   |
+| Krasnodar            | 16       | 1.34%   |
+| Grand Rapids         | 15       | 1.25%   |
+| St Petersburg        | 14       | 1.17%   |
+| Berlin               | 14       | 1.17%   |
+| Kyiv                 | 12       | 1%      |
+| Sydney               | 11       | 0.92%   |
+| Ludwigsburg          | 11       | 0.92%   |
+| Helsinki             | 10       | 0.84%   |
+| Yekaterinburg        | 9        | 0.75%   |
+| Tuklaty              | 8        | 0.67%   |
+| Montreal             | 8        | 0.67%   |
+| Warsaw               | 7        | 0.58%   |
+| Hamburg              | 7        | 0.58%   |
+| Chicago              | 7        | 0.58%   |
+| Amsterdam            | 7        | 0.58%   |
+| Toronto              | 6        | 0.5%    |
+| Rochester            | 6        | 0.5%    |
+| Prague               | 6        | 0.5%    |
+| Poway                | 6        | 0.5%    |
+| Portland             | 6        | 0.5%    |
+| Paris                | 6        | 0.5%    |
+| Novosibirsk          | 6        | 0.5%    |
+| Medan                | 6        | 0.5%    |
+| Madrid               | 6        | 0.5%    |
+| Lublin               | 6        | 0.5%    |
+| London               | 6        | 0.5%    |
+| Kamensk-Ural'skiy    | 6        | 0.5%    |
+| Falkenstein          | 6        | 0.5%    |
+| Brooklyn             | 6        | 0.5%    |
+| Zurich               | 5        | 0.42%   |
+| Zaporizhzhya         | 5        | 0.42%   |
+| Vienna               | 5        | 0.42%   |
+| Teaneck              | 5        | 0.42%   |
+| Ozersk               | 5        | 0.42%   |
+| Gdansk               | 5        | 0.42%   |
+| Dublin               | 5        | 0.42%   |
+| City of Saint Peters | 5        | 0.42%   |
+| Budapest             | 5        | 0.42%   |
+| Bellevue             | 5        | 0.42%   |
 
 Drives
 ------
@@ -1880,43 +1881,43 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| WDC                 | 421      | 1488   | 22.66%  |
-| Seagate             | 332      | 857    | 17.87%  |
-| Samsung Electronics | 276      | 700    | 14.85%  |
-| Toshiba             | 115      | 275    | 6.19%   |
-| Kingston            | 112      | 146    | 6.03%   |
-| Crucial             | 100      | 156    | 5.38%   |
-| Intel               | 68       | 143    | 3.66%   |
-| Hitachi             | 52       | 120    | 2.8%    |
-| HGST                | 43       | 92     | 2.31%   |
-| SanDisk             | 37       | 56     | 1.99%   |
-| A-DATA Technology   | 35       | 46     | 1.88%   |
-| Transcend           | 15       | 22     | 0.81%   |
-| SK hynix            | 14       | 23     | 0.75%   |
-| Corsair             | 14       | 40     | 0.75%   |
-| Phison              | 13       | 17     | 0.7%    |
-| OCZ                 | 13       | 16     | 0.7%    |
-| Micron Technology   | 12       | 25     | 0.65%   |
-| SPCC                | 11       | 28     | 0.59%   |
-| Hewlett-Packard     | 11       | 36     | 0.59%   |
-| GOODRAM             | 11       | 23     | 0.59%   |
-| Maxtor              | 10       | 14     | 0.54%   |
+| WDC                 | 425      | 1526   | 22.56%  |
+| Seagate             | 338      | 878    | 17.94%  |
+| Samsung Electronics | 280      | 724    | 14.86%  |
+| Toshiba             | 116      | 279    | 6.16%   |
+| Kingston            | 112      | 147    | 5.94%   |
+| Crucial             | 103      | 161    | 5.47%   |
+| Intel               | 70       | 148    | 3.72%   |
+| Hitachi             | 52       | 120    | 2.76%   |
+| HGST                | 44       | 94     | 2.34%   |
+| SanDisk             | 38       | 57     | 2.02%   |
+| A-DATA Technology   | 35       | 46     | 1.86%   |
+| Transcend           | 15       | 22     | 0.8%    |
+| SK hynix            | 15       | 27     | 0.8%    |
+| Corsair             | 14       | 42     | 0.74%   |
+| Phison              | 13       | 17     | 0.69%   |
+| OCZ                 | 13       | 16     | 0.69%   |
+| Micron Technology   | 12       | 25     | 0.64%   |
+| Hewlett-Packard     | 12       | 37     | 0.64%   |
+| SPCC                | 11       | 28     | 0.58%   |
+| GOODRAM             | 11       | 23     | 0.58%   |
+| Maxtor              | 10       | 14     | 0.53%   |
 | PNY                 | 9        | 11     | 0.48%   |
-| Patriot             | 8        | 12     | 0.43%   |
-| Gigabyte Technology | 7        | 10     | 0.38%   |
+| Patriot             | 8        | 12     | 0.42%   |
+| Gigabyte Technology | 7        | 10     | 0.37%   |
 | Plextor             | 6        | 12     | 0.32%   |
 | MidasForce          | 6        | 8      | 0.32%   |
 | Intenso             | 6        | 7      | 0.32%   |
 | KingSpec            | 5        | 8      | 0.27%   |
-| Silicon Motion      | 4        | 5      | 0.22%   |
-| Netac               | 4        | 4      | 0.22%   |
-| KIOXIA-EXCERIA      | 4        | 10     | 0.22%   |
-| FORESEE             | 4        | 4      | 0.22%   |
-| China               | 4        | 4      | 0.22%   |
-| Apacer              | 4        | 4      | 0.22%   |
+| Team                | 4        | 5      | 0.21%   |
+| Silicon Motion      | 4        | 5      | 0.21%   |
+| Netac               | 4        | 4      | 0.21%   |
+| KIOXIA-EXCERIA      | 4        | 10     | 0.21%   |
+| FORESEE             | 4        | 4      | 0.21%   |
+| China               | 4        | 4      | 0.21%   |
+| Apacer              | 4        | 4      | 0.21%   |
 | Verbatim            | 3        | 3      | 0.16%   |
 | Vaseky              | 3        | 3      | 0.16%   |
-| Team                | 3        | 4      | 0.16%   |
 | T-FORCE             | 3        | 4      | 0.16%   |
 | Mushkin             | 3        | 4      | 0.16%   |
 | LITEON              | 3        | 3      | 0.16%   |
@@ -1931,35 +1932,35 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| WDC WD10EZEX-08WN4A0 1TB        | 24       | 1.03%   |
-| Samsung SSD 850 EVO 250GB       | 24       | 1.03%   |
-| Seagate ST1000DM010-2EP102 1TB  | 23       | 0.99%   |
-| Kingston SA400S37240G 240GB     | 20       | 0.86%   |
-| WDC WD30EFRX-68EUZN0 3TB        | 18       | 0.77%   |
-| Seagate ST2000DM008-2FR102 2TB  | 18       | 0.77%   |
-| WDC WD800JD-75MSA3 80GB         | 16       | 0.69%   |
-| WDC WD40EFRX-68N32N0 4TB        | 16       | 0.69%   |
-| Toshiba DT01ACA100 1TB          | 16       | 0.69%   |
-| Kingston SA400S37120G 120GB     | 16       | 0.69%   |
-| Samsung SSD 850 EVO 500GB       | 14       | 0.6%    |
-| Kingston SA400S37480G 480GB     | 14       | 0.6%    |
-| Seagate ST4000DM000-1F2168 4TB  | 13       | 0.56%   |
-| Samsung SSD 970 EVO Plus 1TB    | 13       | 0.56%   |
-| Samsung SSD 860 EVO 1TB         | 13       | 0.56%   |
-| Crucial CT240BX500SSD1 240GB    | 13       | 0.56%   |
+| WDC WD10EZEX-08WN4A0 1TB        | 24       | 1.02%   |
+| Samsung SSD 850 EVO 250GB       | 24       | 1.02%   |
+| Seagate ST1000DM010-2EP102 1TB  | 23       | 0.97%   |
+| Kingston SA400S37240G 240GB     | 20       | 0.85%   |
+| Seagate ST2000DM008-2FR102 2TB  | 19       | 0.8%    |
+| WDC WD30EFRX-68EUZN0 3TB        | 18       | 0.76%   |
+| WDC WD800JD-75MSA3 80GB         | 16       | 0.68%   |
+| WDC WD40EFRX-68N32N0 4TB        | 16       | 0.68%   |
+| Toshiba DT01ACA100 1TB          | 16       | 0.68%   |
+| Kingston SA400S37120G 120GB     | 16       | 0.68%   |
+| Samsung SSD 970 EVO Plus 1TB    | 14       | 0.59%   |
+| Samsung SSD 850 EVO 500GB       | 14       | 0.59%   |
+| Kingston SA400S37480G 480GB     | 14       | 0.59%   |
+| Seagate ST4000DM000-1F2168 4TB  | 13       | 0.55%   |
+| Samsung SSD 860 EVO 1TB         | 13       | 0.55%   |
+| Crucial CT240BX500SSD1 240GB    | 13       | 0.55%   |
 | Seagate ST500DM002-1BD142 500GB | 12       | 0.51%   |
 | Samsung SSD 870 EVO 1TB         | 12       | 0.51%   |
 | Samsung SSD 860 EVO 250GB       | 12       | 0.51%   |
 | Seagate ST1000DM003-1ER162 1TB  | 11       | 0.47%   |
 | Seagate ST1000DM003-1CH162 1TB  | 11       | 0.47%   |
-| WDC WD20EFRX-68EUZN0 2TB        | 10       | 0.43%   |
-| Seagate ST4000DM004-2CV104 4TB  | 10       | 0.43%   |
-| Seagate ST3500418AS 500GB       | 10       | 0.43%   |
-| Seagate ST2000DM001-1CH164 2TB  | 9        | 0.39%   |
-| Samsung SSD 970 EVO Plus 500GB  | 9        | 0.39%   |
-| Samsung SSD 860 EVO 500GB       | 9        | 0.39%   |
-| Crucial CT250MX500SSD1 250GB    | 9        | 0.39%   |
-| WDC WD40EFRX-68WT0N0 4TB        | 8        | 0.34%   |
+| WDC WD20EFRX-68EUZN0 2TB        | 10       | 0.42%   |
+| Seagate ST4000DM004-2CV104 4TB  | 10       | 0.42%   |
+| Seagate ST3500418AS 500GB       | 10       | 0.42%   |
+| WDC WD40EFRX-68WT0N0 4TB        | 9        | 0.38%   |
+| Seagate ST2000DM001-1CH164 2TB  | 9        | 0.38%   |
+| Samsung SSD 970 EVO Plus 500GB  | 9        | 0.38%   |
+| Samsung SSD 860 EVO 500GB       | 9        | 0.38%   |
+| Crucial CT250MX500SSD1 250GB    | 9        | 0.38%   |
 | WDC WD20EZRZ-00Z5HB0 2TB        | 8        | 0.34%   |
 | WDC WD20EARX-00PASB0 2TB        | 8        | 0.34%   |
 | WDC WD10EFRX-68FYTN0 1TB        | 8        | 0.34%   |
@@ -1982,17 +1983,17 @@ Hard disk drive vendors
 
 | Vendor               | Desktops | Drives | Percent |
 |----------------------|----------|--------|---------|
-| WDC                  | 378      | 1352   | 38.81%  |
-| Seagate              | 324      | 844    | 33.26%  |
-| Toshiba              | 106      | 263    | 10.88%  |
-| Hitachi              | 52       | 120    | 5.34%   |
-| HGST                 | 43       | 92     | 4.41%   |
-| Samsung Electronics  | 40       | 65     | 4.11%   |
-| Maxtor               | 10       | 14     | 1.03%   |
-| Hewlett-Packard      | 6        | 28     | 0.62%   |
-| Apple                | 3        | 4      | 0.31%   |
-| HPT                  | 2        | 9      | 0.21%   |
-| HPE                  | 2        | 8      | 0.21%   |
+| WDC                  | 382      | 1387   | 38.74%  |
+| Seagate              | 330      | 864    | 33.47%  |
+| Toshiba              | 107      | 267    | 10.85%  |
+| Hitachi              | 52       | 120    | 5.27%   |
+| HGST                 | 44       | 94     | 4.46%   |
+| Samsung Electronics  | 40       | 65     | 4.06%   |
+| Maxtor               | 10       | 14     | 1.01%   |
+| Hewlett-Packard      | 6        | 28     | 0.61%   |
+| Apple                | 3        | 4      | 0.3%    |
+| HPT                  | 2        | 9      | 0.2%    |
+| HPE                  | 2        | 8      | 0.2%    |
 | WD MediaMax          | 1        | 3      | 0.1%    |
 | QUANTUM              | 1        | 2      | 0.1%    |
 | MaxDigital           | 1        | 1      | 0.1%    |
@@ -2012,46 +2013,46 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 172      | 461    | 24.78%  |
-| Kingston            | 95       | 120    | 13.69%  |
-| Crucial             | 86       | 131    | 12.39%  |
-| Intel               | 49       | 118    | 7.06%   |
-| WDC                 | 44       | 73     | 6.34%   |
-| SanDisk             | 37       | 56     | 5.33%   |
-| A-DATA Technology   | 26       | 35     | 3.75%   |
-| Transcend           | 13       | 19     | 1.87%   |
-| OCZ                 | 13       | 16     | 1.87%   |
-| Micron Technology   | 10       | 22     | 1.44%   |
-| Toshiba             | 8        | 8      | 1.15%   |
-| Patriot             | 8        | 12     | 1.15%   |
-| GOODRAM             | 8        | 19     | 1.15%   |
-| Corsair             | 8        | 10     | 1.15%   |
-| SPCC                | 7        | 23     | 1.01%   |
-| SK hynix            | 7        | 9      | 1.01%   |
-| Seagate             | 6        | 8      | 0.86%   |
-| PNY                 | 6        | 7      | 0.86%   |
-| MidasForce          | 6        | 8      | 0.86%   |
-| Intenso             | 6        | 7      | 0.86%   |
-| Plextor             | 5        | 8      | 0.72%   |
-| KingSpec            | 5        | 8      | 0.72%   |
-| Gigabyte Technology | 5        | 8      | 0.72%   |
-| China               | 4        | 4      | 0.58%   |
-| Apacer              | 4        | 4      | 0.58%   |
-| Verbatim            | 3        | 3      | 0.43%   |
-| Vaseky              | 3        | 3      | 0.43%   |
-| Team                | 3        | 4      | 0.43%   |
-| LITEON              | 3        | 3      | 0.43%   |
-| Hoodisk             | 3        | 5      | 0.43%   |
-| FORESEE             | 3        | 3      | 0.43%   |
-| Smartbuy            | 2        | 2      | 0.29%   |
-| SATADOM             | 2        | 3      | 0.29%   |
-| OWC                 | 2        | 7      | 0.29%   |
-| ORICO               | 2        | 2      | 0.29%   |
-| Netac               | 2        | 2      | 0.29%   |
-| Mushkin             | 2        | 2      | 0.29%   |
-| LITEONIT            | 2        | 2      | 0.29%   |
-| Kston               | 2        | 2      | 0.29%   |
-| Innodisk            | 2        | 2      | 0.29%   |
+| Samsung Electronics | 174      | 481    | 24.65%  |
+| Kingston            | 95       | 121    | 13.46%  |
+| Crucial             | 88       | 135    | 12.46%  |
+| Intel               | 51       | 123    | 7.22%   |
+| WDC                 | 45       | 76     | 6.37%   |
+| SanDisk             | 38       | 57     | 5.38%   |
+| A-DATA Technology   | 26       | 35     | 3.68%   |
+| Transcend           | 13       | 19     | 1.84%   |
+| OCZ                 | 13       | 16     | 1.84%   |
+| Micron Technology   | 10       | 22     | 1.42%   |
+| Toshiba             | 8        | 8      | 1.13%   |
+| SK hynix            | 8        | 11     | 1.13%   |
+| Patriot             | 8        | 12     | 1.13%   |
+| GOODRAM             | 8        | 19     | 1.13%   |
+| Corsair             | 8        | 10     | 1.13%   |
+| SPCC                | 7        | 23     | 0.99%   |
+| Seagate             | 6        | 9      | 0.85%   |
+| PNY                 | 6        | 7      | 0.85%   |
+| MidasForce          | 6        | 8      | 0.85%   |
+| Intenso             | 6        | 7      | 0.85%   |
+| Plextor             | 5        | 8      | 0.71%   |
+| KingSpec            | 5        | 8      | 0.71%   |
+| Gigabyte Technology | 5        | 8      | 0.71%   |
+| Team                | 4        | 5      | 0.57%   |
+| China               | 4        | 4      | 0.57%   |
+| Apacer              | 4        | 4      | 0.57%   |
+| Verbatim            | 3        | 3      | 0.42%   |
+| Vaseky              | 3        | 3      | 0.42%   |
+| LITEON              | 3        | 3      | 0.42%   |
+| Hoodisk             | 3        | 5      | 0.42%   |
+| FORESEE             | 3        | 3      | 0.42%   |
+| Smartbuy            | 2        | 2      | 0.28%   |
+| SATADOM             | 2        | 3      | 0.28%   |
+| OWC                 | 2        | 7      | 0.28%   |
+| ORICO               | 2        | 2      | 0.28%   |
+| Netac               | 2        | 2      | 0.28%   |
+| Mushkin             | 2        | 2      | 0.28%   |
+| LITEONIT            | 2        | 2      | 0.28%   |
+| Kston               | 2        | 2      | 0.28%   |
+| Innodisk            | 2        | 2      | 0.28%   |
 
 Drive Kind
 ----------
@@ -2063,9 +2064,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 718      | 2814   | 46.59%  |
-| SSD  | 585      | 1270   | 37.96%  |
-| NVMe | 238      | 453    | 15.44%  |
+| HDD  | 727      | 2875   | 46.48%  |
+| SSD  | 596      | 1310   | 38.11%  |
+| NVMe | 241      | 462    | 15.41%  |
 
 Drive Connector
 ---------------
@@ -2077,8 +2078,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 966      | 4084   | 80.23%  |
-| NVMe | 238      | 453    | 19.77%  |
+| SATA | 982      | 4185   | 80.29%  |
+| NVMe | 241      | 462    | 19.71%  |
 
 Drive Size
 ----------
@@ -2090,14 +2091,14 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 686      | 1429   | 44.72%  |
-| 0.51-1.0   | 345      | 733    | 22.49%  |
-| 1.01-2.0   | 187      | 538    | 12.19%  |
-| 3.01-4.0   | 122      | 436    | 7.95%   |
-| 4.01-10.0  | 105      | 612    | 6.84%   |
-| 2.01-3.0   | 64       | 216    | 4.17%   |
-| 10.01-20.0 | 24       | 119    | 1.56%   |
-| 20.01-50.0 | 1        | 1      | 0.07%   |
+| 0.01-0.5   | 697      | 1473   | 44.88%  |
+| 0.51-1.0   | 348      | 737    | 22.41%  |
+| 1.01-2.0   | 188      | 555    | 12.11%  |
+| 3.01-4.0   | 123      | 446    | 7.92%   |
+| 4.01-10.0  | 107      | 632    | 6.89%   |
+| 2.01-3.0   | 64       | 216    | 4.12%   |
+| 10.01-20.0 | 25       | 125    | 1.61%   |
+| 20.01-50.0 | 1        | 1      | 0.06%   |
 
 Space Total
 -----------
@@ -2109,16 +2110,16 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 101-250        | 292      | 25.64%  |
-| 251-500        | 221      | 19.4%   |
-| 501-1000       | 178      | 15.63%  |
-| 51-100         | 131      | 11.5%   |
-| 21-50          | 83       | 7.29%   |
-| 1001-2000      | 72       | 6.32%   |
-| 1-20           | 72       | 6.32%   |
-| More than 3000 | 55       | 4.83%   |
-| 2001-3000      | 21       | 1.84%   |
-| Unknown        | 14       | 1.23%   |
+| 101-250        | 303      | 26.01%  |
+| 251-500        | 227      | 19.48%  |
+| 501-1000       | 182      | 15.62%  |
+| 51-100         | 131      | 11.24%  |
+| 21-50          | 85       | 7.3%    |
+| 1-20           | 74       | 6.35%   |
+| 1001-2000      | 72       | 6.18%   |
+| More than 3000 | 56       | 4.81%   |
+| 2001-3000      | 21       | 1.8%    |
+| Unknown        | 14       | 1.2%    |
 
 Space Used
 ----------
@@ -2130,17 +2131,17 @@ Amount of used disk space
 
 | Used GB        | Desktops | Percent |
 |----------------|----------|---------|
-| 1-20           | 759      | 67.05%  |
-| 21-50          | 154      | 13.6%   |
-| 51-100         | 58       | 5.12%   |
-| 101-250        | 40       | 3.53%   |
-| 251-500        | 35       | 3.09%   |
-| 501-1000       | 26       | 2.3%    |
-| More than 3000 | 20       | 1.77%   |
-| 1001-2000      | 15       | 1.33%   |
-| Unknown        | 14       | 1.24%   |
-| 2001-3000      | 9        | 0.8%    |
-| 0              | 2        | 0.18%   |
+| 1-20           | 775      | 67.04%  |
+| 21-50          | 160      | 13.84%  |
+| 51-100         | 58       | 5.02%   |
+| 101-250        | 41       | 3.55%   |
+| 251-500        | 35       | 3.03%   |
+| 501-1000       | 26       | 2.25%   |
+| More than 3000 | 21       | 1.82%   |
+| 1001-2000      | 15       | 1.3%    |
+| Unknown        | 14       | 1.21%   |
+| 2001-3000      | 9        | 0.78%   |
+| 0              | 2        | 0.17%   |
 
 Malfunc. Drives
 ---------------
@@ -2152,46 +2153,46 @@ Drive models with a malfunction
 
 | Model                               | Desktops | Drives | Percent |
 |-------------------------------------|----------|--------|---------|
-| WDC WD30EFRX-68EUZN0 3TB            | 6        | 18     | 1.91%   |
-| Seagate ST3500413AS 500GB           | 6        | 9      | 1.91%   |
-| Samsung Electronics SSD 870 EVO 1TB | 6        | 8      | 1.91%   |
-| WDC WD20EFRX-68EUZN0 2TB            | 5        | 12     | 1.59%   |
-| WDC WD40EFRX-68WT0N0 4TB            | 4        | 13     | 1.27%   |
-| WDC WD5000AAKX-60U6AA0 500GB        | 3        | 3      | 0.96%   |
-| WDC WD2000FYYZ-01UL1B2 2TB          | 3        | 5      | 0.96%   |
-| Seagate ST3500418AS 500GB           | 3        | 6      | 0.96%   |
-| Seagate ST2000DM001-9YN164 2TB      | 3        | 3      | 0.96%   |
-| Seagate ST1000DM003-1CH162 1TB      | 3        | 4      | 0.96%   |
-| Samsung Electronics HD501LJ 500GB   | 3        | 4      | 0.96%   |
-| Samsung Electronics HD154UI 1.5TB   | 3        | 4      | 0.96%   |
-| Samsung Electronics HD103UJ 1TB     | 3        | 6      | 0.96%   |
-| Intel SSDSA2M080G2GC 80GB           | 3        | 3      | 0.96%   |
-| WDC WD5000LPLX-22ZNTT0 500GB        | 2        | 2      | 0.64%   |
-| WDC WD5000AAKX-083CA0 500GB         | 2        | 2      | 0.64%   |
-| WDC WD5000AAKX-00ERMA0 500GB        | 2        | 2      | 0.64%   |
-| WDC WD40EFRX-68N32N0 4TB            | 2        | 5      | 0.64%   |
-| WDC WD20EZRX-00D8PB0 2TB            | 2        | 3      | 0.64%   |
-| WDC WD20EARS-00MVWB0 2TB            | 2        | 2      | 0.64%   |
-| WDC WD2002FYPS-02W3B0 2TB           | 2        | 2      | 0.64%   |
-| WDC WD2002FYPS-01U1B0 2TB           | 2        | 3      | 0.64%   |
-| WDC WD2000FYYZ-01UL1B1 2TB          | 2        | 4      | 0.64%   |
-| WDC WD15EADS-00P8B0 1.5TB           | 2        | 2      | 0.64%   |
-| Toshiba MK5076GSXN 500GB            | 2        | 2      | 0.64%   |
-| Toshiba HDWE140 4TB                 | 2        | 11     | 0.64%   |
-| Seagate ST9250827AS 250GB           | 2        | 3      | 0.64%   |
-| Seagate ST500DM002-1BD142 500GB     | 2        | 2      | 0.64%   |
-| Seagate ST500DM002-1BC142 500GB     | 2        | 2      | 0.64%   |
-| Seagate ST380013AS 80GB             | 2        | 3      | 0.64%   |
-| Seagate ST2000DM008-2FR102 2TB      | 2        | 2      | 0.64%   |
-| Seagate ST2000DM006-2DM164 2TB      | 2        | 2      | 0.64%   |
-| Seagate ST1000DM003-9YN162 1TB      | 2        | 6      | 0.64%   |
-| Seagate ST1000DM003-1ER162 1TB      | 2        | 2      | 0.64%   |
-| Samsung Electronics HD204UI 2TB     | 2        | 4      | 0.64%   |
-| Maxtor 6Y080P0 82GB                 | 2        | 3      | 0.64%   |
-| Kingston SMS200S360G 64GB           | 2        | 2      | 0.64%   |
-| Kingston SA400S37120G 120GB         | 2        | 2      | 0.64%   |
-| Intel SSDSC2CW120A3 120GB           | 2        | 2      | 0.64%   |
-| Intel SSDSC2BW480A4 480GB           | 2        | 2      | 0.64%   |
+| WDC WD30EFRX-68EUZN0 3TB            | 6        | 18     | 1.89%   |
+| Seagate ST3500413AS 500GB           | 6        | 9      | 1.89%   |
+| Samsung Electronics SSD 870 EVO 1TB | 6        | 8      | 1.89%   |
+| WDC WD40EFRX-68WT0N0 4TB            | 5        | 14     | 1.57%   |
+| WDC WD20EFRX-68EUZN0 2TB            | 5        | 12     | 1.57%   |
+| WDC WD5000AAKX-60U6AA0 500GB        | 4        | 4      | 1.26%   |
+| WDC WD2000FYYZ-01UL1B2 2TB          | 3        | 5      | 0.94%   |
+| Seagate ST3500418AS 500GB           | 3        | 6      | 0.94%   |
+| Seagate ST2000DM001-9YN164 2TB      | 3        | 3      | 0.94%   |
+| Seagate ST1000DM003-1CH162 1TB      | 3        | 4      | 0.94%   |
+| Samsung Electronics HD501LJ 500GB   | 3        | 4      | 0.94%   |
+| Samsung Electronics HD154UI 1.5TB   | 3        | 4      | 0.94%   |
+| Samsung Electronics HD103UJ 1TB     | 3        | 6      | 0.94%   |
+| Intel SSDSA2M080G2GC 80GB           | 3        | 3      | 0.94%   |
+| Crucial CT525MX300SSD1 528GB        | 3        | 3      | 0.94%   |
+| WDC WD5000LPLX-22ZNTT0 500GB        | 2        | 2      | 0.63%   |
+| WDC WD5000AAKX-083CA0 500GB         | 2        | 2      | 0.63%   |
+| WDC WD5000AAKX-00ERMA0 500GB        | 2        | 2      | 0.63%   |
+| WDC WD40EFRX-68N32N0 4TB            | 2        | 5      | 0.63%   |
+| WDC WD20EZRX-00D8PB0 2TB            | 2        | 3      | 0.63%   |
+| WDC WD20EARS-00MVWB0 2TB            | 2        | 2      | 0.63%   |
+| WDC WD2002FYPS-02W3B0 2TB           | 2        | 2      | 0.63%   |
+| WDC WD2002FYPS-01U1B0 2TB           | 2        | 3      | 0.63%   |
+| WDC WD2000FYYZ-01UL1B1 2TB          | 2        | 4      | 0.63%   |
+| WDC WD15EADS-00P8B0 1.5TB           | 2        | 2      | 0.63%   |
+| Toshiba MK5076GSXN 500GB            | 2        | 2      | 0.63%   |
+| Toshiba HDWE140 4TB                 | 2        | 11     | 0.63%   |
+| Seagate ST9250827AS 250GB           | 2        | 3      | 0.63%   |
+| Seagate ST500DM002-1BD142 500GB     | 2        | 2      | 0.63%   |
+| Seagate ST500DM002-1BC142 500GB     | 2        | 2      | 0.63%   |
+| Seagate ST380013AS 80GB             | 2        | 3      | 0.63%   |
+| Seagate ST2000DM008-2FR102 2TB      | 2        | 2      | 0.63%   |
+| Seagate ST2000DM006-2DM164 2TB      | 2        | 2      | 0.63%   |
+| Seagate ST1000DM003-9YN162 1TB      | 2        | 6      | 0.63%   |
+| Seagate ST1000DM003-1ER162 1TB      | 2        | 2      | 0.63%   |
+| Samsung Electronics HD204UI 2TB     | 2        | 4      | 0.63%   |
+| Maxtor 6Y080P0 82GB                 | 2        | 3      | 0.63%   |
+| Kingston SMS200S360G 64GB           | 2        | 2      | 0.63%   |
+| Kingston SA400S37120G 120GB         | 2        | 2      | 0.63%   |
+| Intel SSDSC2CW120A3 120GB           | 2        | 2      | 0.63%   |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -2203,23 +2204,23 @@ Vendors of faulty drives
 
 | Vendor               | Desktops | Drives | Percent |
 |----------------------|----------|--------|---------|
-| WDC                  | 87       | 175    | 29.59%  |
-| Seagate              | 73       | 103    | 24.83%  |
-| Samsung Electronics  | 31       | 44     | 10.54%  |
-| Toshiba              | 16       | 37     | 5.44%   |
-| Hitachi              | 15       | 21     | 5.1%    |
-| Intel                | 12       | 16     | 4.08%   |
-| Crucial              | 11       | 16     | 3.74%   |
-| Kingston             | 9        | 9      | 3.06%   |
-| HGST                 | 8        | 13     | 2.72%   |
-| Maxtor               | 7        | 11     | 2.38%   |
-| SanDisk              | 4        | 5      | 1.36%   |
-| A-DATA Technology    | 3        | 4      | 1.02%   |
-| SK hynix             | 2        | 4      | 0.68%   |
-| OCZ                  | 2        | 3      | 0.68%   |
-| Micron Technology    | 2        | 6      | 0.68%   |
-| Hewlett-Packard      | 2        | 4      | 0.68%   |
-| Corsair              | 2        | 4      | 0.68%   |
+| WDC                  | 90       | 178    | 30.2%   |
+| Seagate              | 73       | 103    | 24.5%   |
+| Samsung Electronics  | 31       | 44     | 10.4%   |
+| Toshiba              | 16       | 37     | 5.37%   |
+| Hitachi              | 15       | 21     | 5.03%   |
+| Intel                | 12       | 17     | 4.03%   |
+| Crucial              | 12       | 17     | 4.03%   |
+| Kingston             | 9        | 9      | 3.02%   |
+| HGST                 | 8        | 14     | 2.68%   |
+| Maxtor               | 7        | 11     | 2.35%   |
+| SanDisk              | 4        | 5      | 1.34%   |
+| A-DATA Technology    | 3        | 4      | 1.01%   |
+| SK hynix             | 2        | 5      | 0.67%   |
+| OCZ                  | 2        | 3      | 0.67%   |
+| Micron Technology    | 2        | 6      | 0.67%   |
+| Hewlett-Packard      | 2        | 4      | 0.67%   |
+| Corsair              | 2        | 4      | 0.67%   |
 | walram               | 1        | 1      | 0.34%   |
 | SPCC                 | 1        | 1      | 0.34%   |
 | Plextor              | 1        | 1      | 0.34%   |
@@ -2239,16 +2240,16 @@ Vendors of faulty HDD drives
 
 | Vendor               | Desktops | Drives | Percent |
 |----------------------|----------|--------|---------|
-| WDC                  | 86       | 174    | 37.89%  |
-| Seagate              | 72       | 102    | 31.72%  |
-| Samsung Electronics  | 19       | 26     | 8.37%   |
-| Toshiba              | 16       | 37     | 7.05%   |
-| Hitachi              | 15       | 21     | 6.61%   |
-| HGST                 | 8        | 13     | 3.52%   |
-| Maxtor               | 7        | 11     | 3.08%   |
-| Hewlett-Packard      | 2        | 4      | 0.88%   |
-| HPE                  | 1        | 4      | 0.44%   |
-| ExcelStor Technology | 1        | 2      | 0.44%   |
+| WDC                  | 89       | 177    | 38.7%   |
+| Seagate              | 72       | 102    | 31.3%   |
+| Samsung Electronics  | 19       | 26     | 8.26%   |
+| Toshiba              | 16       | 37     | 6.96%   |
+| Hitachi              | 15       | 21     | 6.52%   |
+| HGST                 | 8        | 14     | 3.48%   |
+| Maxtor               | 7        | 11     | 3.04%   |
+| Hewlett-Packard      | 2        | 4      | 0.87%   |
+| HPE                  | 1        | 4      | 0.43%   |
+| ExcelStor Technology | 1        | 2      | 0.43%   |
 
 Malfunc. Drive Kind
 -------------------
@@ -2260,9 +2261,9 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 207      | 394    | 76.1%   |
-| SSD  | 64       | 93     | 23.53%  |
-| NVMe | 1        | 1      | 0.37%   |
+| HDD  | 210      | 398    | 76.09%  |
+| SSD  | 65       | 96     | 23.55%  |
+| NVMe | 1        | 1      | 0.36%   |
 
 Failed Drives
 -------------
@@ -2304,9 +2305,9 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 947      | 3948   | 76.06%  |
-| Malfunc  | 255      | 488    | 20.48%  |
-| Detected | 39       | 97     | 3.13%   |
+| Works    | 962      | 4051   | 76.11%  |
+| Malfunc  | 259      | 495    | 20.49%  |
+| Detected | 39       | 97     | 3.09%   |
 | Failed   | 4        | 4      | 0.32%   |
 
 Storage controller
@@ -2322,43 +2323,43 @@ Storage controller vendors
 
 | Vendor                           | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Intel                            | 679      | 42.92%  |
-| AMD                              | 330      | 20.86%  |
-| Samsung Electronics              | 111      | 7.02%   |
-| ASMedia Technology               | 68       | 4.3%    |
-| Broadcom / LSI                   | 54       | 3.41%   |
-| Marvell Technology Group         | 51       | 3.22%   |
-| SanDisk                          | 47       | 2.97%   |
-| Phison Electronics               | 28       | 1.77%   |
-| JMicron Technology               | 26       | 1.64%   |
-| Silicon Motion                   | 25       | 1.58%   |
-| Kingston Technology Company      | 24       | 1.52%   |
-| Nvidia                           | 20       | 1.26%   |
-| Micron/Crucial Technology        | 17       | 1.07%   |
-| SK hynix                         | 10       | 0.63%   |
-| Silicon Image                    | 9        | 0.57%   |
-| ADATA Technology                 | 9        | 0.57%   |
-| Adaptec                          | 9        | 0.57%   |
-| VIA Technologies                 | 7        | 0.44%   |
-| Realtek Semiconductor            | 6        | 0.38%   |
-| Areca Technology                 | 6        | 0.38%   |
-| Seagate Technology               | 5        | 0.32%   |
+| Intel                            | 691      | 42.87%  |
+| AMD                              | 336      | 20.84%  |
+| Samsung Electronics              | 116      | 7.2%    |
+| ASMedia Technology               | 68       | 4.22%   |
+| Broadcom / LSI                   | 54       | 3.35%   |
+| Marvell Technology Group         | 52       | 3.23%   |
+| Sandisk                          | 48       | 2.98%   |
+| Phison Electronics               | 28       | 1.74%   |
+| JMicron Technology               | 26       | 1.61%   |
+| Silicon Motion                   | 25       | 1.55%   |
+| Kingston Technology Company      | 24       | 1.49%   |
+| Nvidia                           | 20       | 1.24%   |
+| Micron/Crucial Technology        | 19       | 1.18%   |
+| SK hynix                         | 10       | 0.62%   |
+| Silicon Image                    | 9        | 0.56%   |
+| ADATA Technology                 | 9        | 0.56%   |
+| Adaptec                          | 9        | 0.56%   |
+| VIA Technologies                 | 7        | 0.43%   |
+| Realtek Semiconductor            | 6        | 0.37%   |
+| Areca Technology                 | 6        | 0.37%   |
+| Seagate Technology               | 5        | 0.31%   |
+| Toshiba                          | 4        | 0.25%   |
 | Micron Technology                | 4        | 0.25%   |
 | KIOXIA                           | 4        | 0.25%   |
 | Hewlett-Packard                  | 4        | 0.25%   |
-| Toshiba                          | 3        | 0.19%   |
 | Silicon Integrated Systems [SiS] | 3        | 0.19%   |
+| MAXIO Technology (Hangzhou)      | 3        | 0.19%   |
 | Integrated Technology Express    | 3        | 0.19%   |
 | Chelsio Communications           | 3        | 0.19%   |
 | 3ware                            | 3        | 0.19%   |
-| Promise Technology               | 2        | 0.13%   |
-| Lite-On Technology               | 2        | 0.13%   |
-| HighPoint Technologies           | 2        | 0.13%   |
+| Promise Technology               | 2        | 0.12%   |
+| Lite-On Technology               | 2        | 0.12%   |
+| HighPoint Technologies           | 2        | 0.12%   |
 | ULi Electronics                  | 1        | 0.06%   |
 | Transcend                        | 1        | 0.06%   |
 | Shenzhen Longsys Electronics     | 1        | 0.06%   |
 | O2 Micro                         | 1        | 0.06%   |
-| MAXIO Technology (Hangzhou)      | 1        | 0.06%   |
 | Lenovo                           | 1        | 0.06%   |
 | Broadcom                         | 1        | 0.06%   |
 | Biwin Storage Technology         | 1        | 0.06%   |
@@ -2373,46 +2374,46 @@ Storage controller models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                            | 191      | 9.92%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 69       | 3.58%   |
-| AMD 400 Series Chipset SATA Controller                                         | 62       | 3.22%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 61       | 3.17%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 60       | 3.12%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 58       | 3.01%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 56       | 2.91%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 55       | 2.86%   |
-| AMD 500 Series Chipset SATA Controller                                         | 39       | 2.03%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                               | 37       | 1.92%   |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 37       | 1.92%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                     | 36       | 1.87%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 35       | 1.82%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                           | 26       | 1.35%   |
-| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 24       | 1.25%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 24       | 1.25%   |
-| Intel SATA Controller [RAID mode]                                              | 24       | 1.25%   |
-| Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 23       | 1.19%   |
-| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 22       | 1.14%   |
-| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 21       | 1.09%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 20       | 1.04%   |
-| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]               | 20       | 1.04%   |
-| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 20       | 1.04%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                      | 20       | 1.04%   |
-| Intel Comet Lake SATA AHCI Controller                                          | 18       | 0.94%   |
-| Intel C602 chipset 4-Port SATA Storage Control Unit                            | 18       | 0.94%   |
-| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 18       | 0.94%   |
-| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 16       | 0.83%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 16       | 0.83%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 15       | 0.78%   |
-| Phison E12 NVMe Controller                                                     | 15       | 0.78%   |
-| AMD X370 Series Chipset SATA Controller                                        | 15       | 0.78%   |
-| JMicron JMB363 SATA/IDE Controller                                             | 14       | 0.73%   |
-| AMD FCH SATA Controller [IDE mode]                                             | 14       | 0.73%   |
-| Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 13       | 0.68%   |
-| Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                             | 13       | 0.68%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 13       | 0.68%   |
-| Intel SSD 660P Series                                                          | 12       | 0.62%   |
-| AMD FCH SATA Controller D                                                      | 12       | 0.62%   |
-| AMD 300 Series Chipset SATA Controller                                         | 12       | 0.62%   |
+| AMD FCH SATA Controller [AHCI mode]                                            | 189      | 9.65%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 69       | 3.52%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 64       | 3.27%   |
+| AMD 400 Series Chipset SATA Controller                                         | 63       | 3.22%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 62       | 3.16%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 58       | 2.96%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 57       | 2.91%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                              | 57       | 2.91%   |
+| AMD 500 Series Chipset SATA Controller                                         | 41       | 2.09%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                               | 38       | 1.94%   |
+| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 38       | 1.94%   |
+| Intel SATA Controller [RAID mode]                                              | 37       | 1.89%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                     | 36       | 1.84%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 35       | 1.79%   |
+| Intel 500 Series Chipset Family SATA AHCI Controller                           | 27       | 1.38%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 24       | 1.23%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 24       | 1.23%   |
+| Intel 82801JI (ICH10 Family) SATA AHCI Controller                              | 23       | 1.17%   |
+| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 22       | 1.12%   |
+| Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 22       | 1.12%   |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 20       | 1.02%   |
+| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]               | 20       | 1.02%   |
+| Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 20       | 1.02%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                      | 20       | 1.02%   |
+| Intel 9 Series Chipset Family SATA Controller [AHCI Mode]                      | 19       | 0.97%   |
+| Intel Comet Lake SATA AHCI Controller                                          | 18       | 0.92%   |
+| Intel C602 chipset 4-Port SATA Storage Control Unit                            | 18       | 0.92%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 17       | 0.87%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                         | 17       | 0.87%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 16       | 0.82%   |
+| Phison E12 NVMe Controller                                                     | 15       | 0.77%   |
+| AMD X370 Series Chipset SATA Controller                                        | 15       | 0.77%   |
+| JMicron JMB363 SATA/IDE Controller                                             | 14       | 0.71%   |
+| Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                             | 14       | 0.71%   |
+| AMD FCH SATA Controller [IDE mode]                                             | 14       | 0.71%   |
+| Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 13       | 0.66%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 13       | 0.66%   |
+| AMD 300 Series Chipset SATA Controller                                         | 13       | 0.66%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 12       | 0.61%   |
+| Intel SSD 660P Series                                                          | 12       | 0.61%   |
 
 Storage Kind
 ------------
@@ -2424,12 +2425,12 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 871      | 56.78%  |
-| NVMe | 293      | 19.1%   |
-| IDE  | 218      | 14.21%  |
-| RAID | 75       | 4.89%   |
-| SAS  | 55       | 3.59%   |
-| SCSI | 22       | 1.43%   |
+| SATA | 887      | 56.68%  |
+| NVMe | 304      | 19.42%  |
+| IDE  | 220      | 14.06%  |
+| RAID | 77       | 4.92%   |
+| SAS  | 55       | 3.51%   |
+| SCSI | 22       | 1.41%   |
 
 Processor
 ---------
@@ -2444,11 +2445,11 @@ Processor vendors
 
 | Vendor   | Desktops | Percent |
 |----------|----------|---------|
-| Intel    | 685      | 62.79%  |
-| AMD      | 347      | 31.81%  |
-| ARM      | 42       | 3.85%   |
-| Unknown  | 9        | 0.82%   |
-| IBM      | 2        | 0.18%   |
+| Intel    | 698      | 62.77%  |
+| AMD      | 353      | 31.74%  |
+| ARM      | 43       | 3.87%   |
+| Unknown  | 9        | 0.81%   |
+| IBM      | 3        | 0.27%   |
 | VIA      | 1        | 0.09%   |
 | Sun      | 1        | 0.09%   |
 | Research | 1        | 0.09%   |
@@ -2466,46 +2467,46 @@ Processor models
 
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
-| AMD Ryzen 7 3700X 8-Core Processor          | 17       | 1.54%   |
-| ARM Cortex-A55 r2p0                         | 14       | 1.27%   |
-| AMD Ryzen 5 5600G with Radeon Graphics      | 14       | 1.27%   |
-| Intel Core i7-7700 CPU @ 3.60GHz            | 12       | 1.09%   |
-| Intel Core i7-3770 CPU @ 3.40GHz            | 12       | 1.09%   |
-| AMD GX-412TC SOC                            | 12       | 1.09%   |
-| Intel Core i5-3470 CPU @ 3.20GHz            | 11       | 1%      |
-| AMD Ryzen 9 5950X 16-Core Processor         | 11       | 1%      |
-| AMD Ryzen 9 3900X 12-Core Processor         | 11       | 1%      |
-| AMD Ryzen 7 2700X Eight-Core Processor      | 11       | 1%      |
-| AMD FX-8350 Eight-Core Processor            | 11       | 1%      |
-| Intel Core i7-4790K CPU @ 4.00GHz           | 10       | 0.91%   |
-| Intel Core i7-10700K CPU @ 3.80GHz          | 10       | 0.91%   |
-| Intel Core i5-10400 CPU @ 2.90GHz           | 10       | 0.91%   |
-| ARM Cortex-A53 r0p4                         | 10       | 0.91%   |
-| AMD Ryzen 7 1700 Eight-Core Processor       | 10       | 0.91%   |
-| AMD Ryzen 7 5800X 8-Core Processor          | 9        | 0.82%   |
-|                                             | 9        | 0.82%   |
-| Intel Core i5-6500 CPU @ 3.20GHz            | 8        | 0.73%   |
-| Intel Celeron CPU J1900 @ 1.99GHz           | 8        | 0.73%   |
-| AMD Ryzen 5 2600 Six-Core Processor         | 8        | 0.73%   |
-| AMD Ryzen 5 2400G with Radeon Vega Graphics | 8        | 0.73%   |
-| AMD Ryzen 3 3200G with Radeon Vega Graphics | 8        | 0.73%   |
-| Intel Core i7-4770 CPU @ 3.40GHz            | 7        | 0.64%   |
-| Intel Core i5-2500 CPU @ 3.30GHz            | 7        | 0.64%   |
-| Intel Core i3-3220 CPU @ 3.30GHz            | 7        | 0.64%   |
-| Intel Core 2 Quad CPU Q6600 @ 2.40GHz       | 7        | 0.64%   |
-| AMD Ryzen 9 3950X 16-Core Processor         | 7        | 0.64%   |
-| AMD Ryzen 5 3600 6-Core Processor           | 7        | 0.64%   |
-| Intel Core i7-6700 CPU @ 3.40GHz            | 6        | 0.54%   |
-| Intel Core i7-10700 CPU @ 2.90GHz           | 6        | 0.54%   |
-| Intel Core i5-2400 CPU @ 3.10GHz            | 6        | 0.54%   |
-| Intel Celeron CPU N3150 @ 1.60GHz           | 6        | 0.54%   |
-| Intel Celeron CPU G1610T @ 2.30GHz          | 6        | 0.54%   |
-| AMD Ryzen 9 5900X 12-Core Processor         | 6        | 0.54%   |
-| AMD Ryzen 7 2700 Eight-Core Processor       | 6        | 0.54%   |
+| AMD Ryzen 7 3700X 8-Core Processor          | 17       | 1.52%   |
+| ARM Cortex-A55 r2p0                         | 14       | 1.25%   |
+| AMD Ryzen 5 5600G with Radeon Graphics      | 14       | 1.25%   |
+| Intel Core i7-7700 CPU @ 3.60GHz            | 12       | 1.07%   |
+| Intel Core i7-3770 CPU @ 3.40GHz            | 12       | 1.07%   |
+| AMD GX-412TC SOC                            | 12       | 1.07%   |
+| Intel Core i7-10700K CPU @ 3.80GHz          | 11       | 0.98%   |
+| Intel Core i5-3470 CPU @ 3.20GHz            | 11       | 0.98%   |
+| AMD Ryzen 9 5950X 16-Core Processor         | 11       | 0.98%   |
+| AMD Ryzen 9 3900X 12-Core Processor         | 11       | 0.98%   |
+| AMD Ryzen 7 2700X Eight-Core Processor      | 11       | 0.98%   |
+| AMD FX-8350 Eight-Core Processor            | 11       | 0.98%   |
+| Intel Core i7-4790K CPU @ 4.00GHz           | 10       | 0.89%   |
+| Intel Core i5-10400 CPU @ 2.90GHz           | 10       | 0.89%   |
+| ARM Cortex-A53 r0p4                         | 10       | 0.89%   |
+| AMD Ryzen 7 1700 Eight-Core Processor       | 10       | 0.89%   |
+| AMD Ryzen 7 5800X 8-Core Processor          | 9        | 0.8%    |
+| AMD Ryzen 5 2600 Six-Core Processor         | 9        | 0.8%    |
+|                                             | 9        | 0.8%    |
+| Intel Core i5-6500 CPU @ 3.20GHz            | 8        | 0.71%   |
+| Intel Celeron CPU J1900 @ 1.99GHz           | 8        | 0.71%   |
+| AMD Ryzen 5 2400G with Radeon Vega Graphics | 8        | 0.71%   |
+| AMD Ryzen 3 3200G with Radeon Vega Graphics | 8        | 0.71%   |
+| Intel Core i7-4770 CPU @ 3.40GHz            | 7        | 0.62%   |
+| Intel Core i5-2500 CPU @ 3.30GHz            | 7        | 0.62%   |
+| Intel Core i3-3220 CPU @ 3.30GHz            | 7        | 0.62%   |
+| Intel Core 2 Quad CPU Q6600 @ 2.40GHz       | 7        | 0.62%   |
+| AMD Ryzen 9 5900X 12-Core Processor         | 7        | 0.62%   |
+| AMD Ryzen 9 3950X 16-Core Processor         | 7        | 0.62%   |
+| AMD Ryzen 5 3600 6-Core Processor           | 7        | 0.62%   |
+| Intel Core i7-6700 CPU @ 3.40GHz            | 6        | 0.53%   |
+| Intel Core i7-10700 CPU @ 2.90GHz           | 6        | 0.53%   |
+| Intel Core i5-2400 CPU @ 3.10GHz            | 6        | 0.53%   |
+| Intel Celeron CPU N3150 @ 1.60GHz           | 6        | 0.53%   |
+| Intel Celeron CPU G1610T @ 2.30GHz          | 6        | 0.53%   |
+| ARM ARM1176 r0p7 (ECO: 0x00000000)          | 6        | 0.53%   |
+| AMD Ryzen 7 2700 Eight-Core Processor       | 6        | 0.53%   |
+| Intel Core i9-9900K CPU @ 3.60GHz           | 5        | 0.45%   |
 | Intel Core i7-9700K CPU @ 3.60GHz           | 5        | 0.45%   |
 | Intel Core i7-8700 CPU @ 3.20GHz            | 5        | 0.45%   |
-| Intel Core i7-5820K CPU @ 3.30GHz           | 5        | 0.45%   |
-| Intel Core i5-4590T CPU @ 2.00GHz           | 5        | 0.45%   |
 
 CPU Model Family
 ----------------
@@ -2517,38 +2518,38 @@ Processor model prefix
 
 | Model                   | Desktops | Percent |
 |-------------------------|----------|---------|
-| Intel Core i5           | 148      | 13.52%  |
-| Intel Core i7           | 134      | 12.24%  |
-| Intel Xeon              | 117      | 10.68%  |
-| AMD Ryzen 7             | 71       | 6.48%   |
-| AMD Ryzen 5             | 60       | 5.48%   |
-| Other                   | 58       | 5.3%    |
-| Intel Core i3           | 56       | 5.11%   |
-| Intel Celeron           | 53       | 4.84%   |
-| AMD Ryzen 9             | 42       | 3.84%   |
-| ARM Cortex              | 37       | 3.38%   |
-| Intel Atom              | 33       | 3.01%   |
-| AMD FX                  | 29       | 2.65%   |
-| Intel Pentium           | 28       | 2.56%   |
-| Intel Core 2 Duo        | 25       | 2.28%   |
-| AMD GX                  | 23       | 2.1%    |
-| AMD Ryzen 3             | 20       | 1.83%   |
-| Intel Core 2 Quad       | 15       | 1.37%   |
-| Intel Pentium 4         | 12       | 1.1%    |
-| AMD Ryzen Threadripper  | 11       | 1%      |
-| Intel Core i9           | 8        | 0.73%   |
-| AMD Athlon 64 X2        | 8        | 0.73%   |
-| AMD Turion II Neo       | 7        | 0.64%   |
-| AMD Phenom II X6        | 7        | 0.64%   |
-| AMD Phenom II X4        | 6        | 0.55%   |
-| AMD Phenom              | 6        | 0.55%   |
-| AMD Athlon              | 6        | 0.55%   |
-| AMD A10                 | 6        | 0.55%   |
-| Intel Pentium Gold      | 5        | 0.46%   |
-| Intel Core 2            | 5        | 0.46%   |
-| AMD G                   | 5        | 0.46%   |
-| AMD Ryzen 7 PRO         | 4        | 0.37%   |
-| AMD Ryzen 5 PRO         | 4        | 0.37%   |
+| Intel Core i5           | 151      | 13.53%  |
+| Intel Core i7           | 135      | 12.1%   |
+| Intel Xeon              | 118      | 10.57%  |
+| AMD Ryzen 7             | 73       | 6.54%   |
+| Other                   | 61       | 5.47%   |
+| AMD Ryzen 5             | 61       | 5.47%   |
+| Intel Core i3           | 58       | 5.2%    |
+| Intel Celeron           | 54       | 4.84%   |
+| AMD Ryzen 9             | 43       | 3.85%   |
+| ARM Cortex              | 37       | 3.32%   |
+| Intel Atom              | 35       | 3.14%   |
+| Intel Pentium           | 29       | 2.6%    |
+| AMD FX                  | 29       | 2.6%    |
+| Intel Core 2 Duo        | 25       | 2.24%   |
+| AMD GX                  | 23       | 2.06%   |
+| AMD Ryzen 3             | 20       | 1.79%   |
+| Intel Core 2 Quad       | 15       | 1.34%   |
+| Intel Pentium 4         | 12       | 1.08%   |
+| AMD Ryzen Threadripper  | 11       | 0.99%   |
+| Intel Core i9           | 9        | 0.81%   |
+| AMD Athlon 64 X2        | 9        | 0.81%   |
+| AMD Turion II Neo       | 7        | 0.63%   |
+| AMD Phenom II X6        | 7        | 0.63%   |
+| AMD Phenom II X4        | 6        | 0.54%   |
+| AMD Phenom              | 6        | 0.54%   |
+| AMD Athlon              | 6        | 0.54%   |
+| AMD A10                 | 6        | 0.54%   |
+| Intel Pentium Gold      | 5        | 0.45%   |
+| Intel Core 2            | 5        | 0.45%   |
+| AMD Ryzen 5 PRO         | 5        | 0.45%   |
+| AMD G                   | 5        | 0.45%   |
+| AMD Ryzen 7 PRO         | 4        | 0.36%   |
 | Intel Pentium Dual-Core | 3        | 0.27%   |
 | AMD Sempron             | 3        | 0.27%   |
 | AMD Opteron             | 3        | 0.27%   |
@@ -2568,17 +2569,17 @@ Number of processor cores
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| 4       | 387      | 35.31%  |
-| 2       | 175      | 15.97%  |
-| Unknown | 101      | 9.22%   |
-| 8       | 96       | 8.76%   |
-| 6       | 90       | 8.21%   |
-| 16      | 83       | 7.57%   |
-| 12      | 63       | 5.75%   |
-| 32      | 29       | 2.65%   |
-| 24      | 24       | 2.19%   |
-| 1       | 23       | 2.1%    |
-| 10      | 10       | 0.91%   |
+| 4       | 393      | 35.18%  |
+| 2       | 179      | 16.03%  |
+| Unknown | 103      | 9.22%   |
+| 8       | 99       | 8.86%   |
+| 6       | 90       | 8.06%   |
+| 16      | 85       | 7.61%   |
+| 12      | 64       | 5.73%   |
+| 32      | 29       | 2.6%    |
+| 24      | 26       | 2.33%   |
+| 1       | 24       | 2.15%   |
+| 10      | 10       | 0.9%    |
 | 64      | 4        | 0.36%   |
 | 20      | 2        | 0.18%   |
 | 14      | 2        | 0.18%   |
@@ -2599,9 +2600,9 @@ Number of sockets
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| 1       | 1011     | 92.58%  |
-| Unknown | 52       | 4.76%   |
-| 2       | 28       | 2.56%   |
+| 1       | 1030     | 92.54%  |
+| Unknown | 54       | 4.85%   |
+| 2       | 28       | 2.52%   |
 | 4       | 1        | 0.09%   |
 
 CPU Threads
@@ -2614,9 +2615,9 @@ Threads per core (Hyper-Threading)
 
 | Number  | Desktops | Percent |
 |---------|----------|---------|
-| 1       | 628      | 57.61%  |
-| 2       | 348      | 31.93%  |
-| Unknown | 114      | 10.46%  |
+| 1       | 642      | 57.79%  |
+| 2       | 353      | 31.77%  |
+| Unknown | 116      | 10.44%  |
 
 CPU Microarch
 -------------
@@ -2628,33 +2629,33 @@ Microarchitecture
 
 | Name          | Desktops | Percent |
 |---------------|----------|---------|
-| Haswell       | 103      | 9.4%    |
-| KabyLake      | 97       | 8.85%   |
-| Unknown       | 96       | 8.76%   |
-| IvyBridge     | 88       | 8.03%   |
-| Zen 2         | 76       | 6.93%   |
-| SandyBridge   | 70       | 6.39%   |
-| Skylake       | 54       | 4.93%   |
-| Zen 3         | 53       | 4.84%   |
-| Zen+          | 45       | 4.11%   |
-| Penryn        | 40       | 3.65%   |
-| CometLake     | 40       | 3.65%   |
-| Zen           | 39       | 3.56%   |
-| K10           | 36       | 3.28%   |
-| Piledriver    | 32       | 2.92%   |
-| Silvermont    | 27       | 2.46%   |
-| Westmere      | 24       | 2.19%   |
-| Core          | 22       | 2.01%   |
-| Bonnell       | 21       | 1.92%   |
-| NetBurst      | 18       | 1.64%   |
-| Puma          | 17       | 1.55%   |
-| Nehalem       | 16       | 1.46%   |
-| Broadwell     | 14       | 1.28%   |
-| Jaguar        | 12       | 1.09%   |
-| Goldmont      | 12       | 1.09%   |
-| K8 Hammer     | 11       | 1%      |
-| Bobcat        | 8        | 0.73%   |
-| Goldmont plus | 6        | 0.55%   |
+| Haswell       | 106      | 9.49%   |
+| KabyLake      | 101      | 9.04%   |
+| Unknown       | 100      | 8.95%   |
+| IvyBridge     | 88       | 7.88%   |
+| Zen 2         | 76       | 6.8%    |
+| SandyBridge   | 70       | 6.27%   |
+| Zen 3         | 56       | 5.01%   |
+| Skylake       | 55       | 4.92%   |
+| Zen+          | 46       | 4.12%   |
+| CometLake     | 41       | 3.67%   |
+| Zen           | 40       | 3.58%   |
+| Penryn        | 40       | 3.58%   |
+| K10           | 36       | 3.22%   |
+| Piledriver    | 32       | 2.86%   |
+| Silvermont    | 28       | 2.51%   |
+| Westmere      | 24       | 2.15%   |
+| Core          | 22       | 1.97%   |
+| Bonnell       | 22       | 1.97%   |
+| NetBurst      | 18       | 1.61%   |
+| Puma          | 17       | 1.52%   |
+| Nehalem       | 16       | 1.43%   |
+| Broadwell     | 14       | 1.25%   |
+| K8 Hammer     | 12       | 1.07%   |
+| Jaguar        | 12       | 1.07%   |
+| Goldmont      | 12       | 1.07%   |
+| Bobcat        | 8        | 0.72%   |
+| Goldmont plus | 6        | 0.54%   |
 | Excavator     | 4        | 0.36%   |
 | Bulldozer     | 4        | 0.36%   |
 | Steamroller   | 3        | 0.27%   |
@@ -2676,14 +2677,14 @@ Vendors of graphics cards
 
 | Vendor                                       | Desktops | Percent |
 |----------------------------------------------|----------|---------|
-| Intel                                        | 376      | 35.14%  |
-| Nvidia                                       | 343      | 32.06%  |
-| AMD                                          | 276      | 25.79%  |
-| ASPEED Technology                            | 34       | 3.18%   |
-| Matrox Electronics Systems                   | 33       | 3.08%   |
-| XGI Technology (eXtreme Graphics Innovation) | 2        | 0.19%   |
-| VIA Technologies                             | 2        | 0.19%   |
-| S3 Graphics                                  | 2        | 0.19%   |
+| Intel                                        | 388      | 35.56%  |
+| Nvidia                                       | 345      | 31.62%  |
+| AMD                                          | 282      | 25.85%  |
+| ASPEED Technology                            | 35       | 3.21%   |
+| Matrox Electronics Systems                   | 33       | 3.02%   |
+| XGI Technology (eXtreme Graphics Innovation) | 2        | 0.18%   |
+| VIA Technologies                             | 2        | 0.18%   |
+| S3 Graphics                                  | 2        | 0.18%   |
 | Silicon Integrated Systems [SiS]             | 1        | 0.09%   |
 | NVidia / SGS Thomson (Joint Venture)         | 1        | 0.09%   |
 
@@ -2697,46 +2698,46 @@ Graphics card models
 
 | Model                                                                                    | Desktops | Percent |
 |------------------------------------------------------------------------------------------|----------|---------|
-| Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller              | 47       | 4.29%   |
-| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                                  | 38       | 3.47%   |
-| Nvidia GK208B [GeForce GT 710]                                                           | 34       | 3.1%    |
-| ASPEED Technology ASPEED Graphics Family                                                 | 34       | 3.1%    |
-| Intel HD Graphics 530                                                                    | 27       | 2.46%   |
-| Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 27       | 2.46%   |
-| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 27       | 2.46%   |
-| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller                         | 26       | 2.37%   |
-| Nvidia GP108 [GeForce GT 1030]                                                           | 24       | 2.19%   |
-| Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 23       | 2.1%    |
-| Intel HD Graphics 630                                                                    | 22       | 2.01%   |
-| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 19       | 1.73%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 16       | 1.46%   |
-| Intel IvyBridge GT2 [HD Graphics 4000]                                                   | 15       | 1.37%   |
-| Matrox Electronics Systems MGA G200EH                                                    | 14       | 1.28%   |
-| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 13       | 1.19%   |
-| Nvidia GP107 [GeForce GTX 1050 Ti]                                                       | 12       | 1.09%   |
-| Matrox Electronics Systems MGA G200eW WPCM450                                            | 12       | 1.09%   |
-| Intel 4 Series Chipset Integrated Graphics Controller                                    | 12       | 1.09%   |
-| Nvidia GT218 [GeForce 210]                                                               | 11       | 1%      |
-| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 10       | 0.91%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 10       | 0.91%   |
-| Nvidia TU116 [GeForce GTX 1660 Ti]                                                       | 9        | 0.82%   |
-| AMD RV730 XT [Radeon HD 4670]                                                            | 9        | 0.82%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 9        | 0.82%   |
-| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                                  | 9        | 0.82%   |
-| Nvidia TU117 [GeForce GTX 1650]                                                          | 8        | 0.73%   |
-| Nvidia GP104 [GeForce GTX 1080]                                                          | 8        | 0.73%   |
-| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 8        | 0.73%   |
-| Intel 82G33/G31 Express Integrated Graphics Controller                                   | 8        | 0.73%   |
-| Intel 82945G/GZ Integrated Graphics Controller                                           | 8        | 0.73%   |
-| Nvidia TU116 [GeForce GTX 1660 SUPER]                                                    | 7        | 0.64%   |
-| Nvidia GP107 [GeForce GTX 1050]                                                          | 7        | 0.64%   |
-| Nvidia GP106 [GeForce GTX 1060 6GB]                                                      | 7        | 0.64%   |
-| Nvidia GP106 [GeForce GTX 1060 3GB]                                                      | 7        | 0.64%   |
-| Nvidia GP104 [GeForce GTX 1070]                                                          | 7        | 0.64%   |
-| Nvidia GM206 [GeForce GTX 960]                                                           | 7        | 0.64%   |
-| Nvidia GM204 [GeForce GTX 970]                                                           | 7        | 0.64%   |
-| Nvidia GK208B [GeForce GT 730]                                                           | 7        | 0.64%   |
-| Nvidia GF119 [GeForce GT 610]                                                            | 7        | 0.64%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller              | 49       | 4.39%   |
+| AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                                  | 39       | 3.49%   |
+| ASPEED Technology ASPEED Graphics Family                                                 | 35       | 3.13%   |
+| Nvidia GK208B [GeForce GT 710]                                                           | 34       | 3.04%   |
+| Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 29       | 2.6%    |
+| Intel HD Graphics 530                                                                    | 28       | 2.51%   |
+| Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 28       | 2.51%   |
+| Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller                         | 26       | 2.33%   |
+| Nvidia GP108 [GeForce GT 1030]                                                           | 24       | 2.15%   |
+| Intel HD Graphics 630                                                                    | 24       | 2.15%   |
+| Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 23       | 2.06%   |
+| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 20       | 1.79%   |
+| Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                             | 17       | 1.52%   |
+| Intel IvyBridge GT2 [HD Graphics 4000]                                                   | 15       | 1.34%   |
+| Matrox Electronics Systems MGA G200EH                                                    | 14       | 1.25%   |
+| AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 14       | 1.25%   |
+| Nvidia GP107 [GeForce GTX 1050 Ti]                                                       | 12       | 1.07%   |
+| Matrox Electronics Systems MGA G200eW WPCM450                                            | 12       | 1.07%   |
+| Intel 4 Series Chipset Integrated Graphics Controller                                    | 12       | 1.07%   |
+| Nvidia GT218 [GeForce 210]                                                               | 11       | 0.98%   |
+| AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 10       | 0.9%    |
+| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                               | 10       | 0.9%    |
+| Nvidia TU117 [GeForce GTX 1650]                                                          | 9        | 0.81%   |
+| Nvidia TU116 [GeForce GTX 1660 Ti]                                                       | 9        | 0.81%   |
+| AMD RV730 XT [Radeon HD 4670]                                                            | 9        | 0.81%   |
+| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 9        | 0.81%   |
+| AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                                  | 9        | 0.81%   |
+| Nvidia GP104 [GeForce GTX 1080]                                                          | 8        | 0.72%   |
+| Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 8        | 0.72%   |
+| Intel 82G33/G31 Express Integrated Graphics Controller                                   | 8        | 0.72%   |
+| Intel 82945G/GZ Integrated Graphics Controller                                           | 8        | 0.72%   |
+| Nvidia TU116 [GeForce GTX 1660 SUPER]                                                    | 7        | 0.63%   |
+| Nvidia GP107 [GeForce GTX 1050]                                                          | 7        | 0.63%   |
+| Nvidia GP106 [GeForce GTX 1060 6GB]                                                      | 7        | 0.63%   |
+| Nvidia GP106 [GeForce GTX 1060 3GB]                                                      | 7        | 0.63%   |
+| Nvidia GP104 [GeForce GTX 1070]                                                          | 7        | 0.63%   |
+| Nvidia GM206 [GeForce GTX 960]                                                           | 7        | 0.63%   |
+| Nvidia GM204 [GeForce GTX 970]                                                           | 7        | 0.63%   |
+| Nvidia GK208B [GeForce GT 730]                                                           | 7        | 0.63%   |
+| Nvidia GF119 [GeForce GT 610]                                                            | 7        | 0.63%   |
 
 GPU Combo
 ---------
@@ -2748,18 +2749,18 @@ Combinations of graphics cards
 
 | Name                                     | Desktops | Percent |
 |------------------------------------------|----------|---------|
-| 1 x Intel                                | 324      | 29.62%  |
-| 1 x Nvidia                               | 300      | 27.42%  |
-| 1 x AMD                                  | 245      | 22.39%  |
-| Other                                    | 78       | 7.13%   |
-| 1 x Matrox                               | 33       | 3.02%   |
-| Intel + Nvidia                           | 29       | 2.65%   |
-| 1 x ASPEED                               | 29       | 2.65%   |
-| 2 x AMD                                  | 14       | 1.28%   |
-| 2 x Intel                                | 11       | 1.01%   |
-| Intel + AMD                              | 10       | 0.91%   |
-| Nvidia + ASPEED                          | 4        | 0.37%   |
-| AMD + Nvidia                             | 4        | 0.37%   |
+| 1 x Intel                                | 334      | 29.96%  |
+| 1 x Nvidia                               | 302      | 27.09%  |
+| 1 x AMD                                  | 250      | 22.42%  |
+| Other                                    | 79       | 7.09%   |
+| 1 x Matrox                               | 33       | 2.96%   |
+| 1 x ASPEED                               | 30       | 2.69%   |
+| Intel + Nvidia                           | 29       | 2.6%    |
+| 2 x AMD                                  | 14       | 1.26%   |
+| 2 x Intel                                | 12       | 1.08%   |
+| Intel + AMD                              | 11       | 0.99%   |
+| Nvidia + ASPEED                          | 4        | 0.36%   |
+| AMD + Nvidia                             | 4        | 0.36%   |
 | 2 x Nvidia                               | 3        | 0.27%   |
 | 1 x XGI                                  | 2        | 0.18%   |
 | 1 x VIA                                  | 2        | 0.18%   |
@@ -2779,9 +2780,9 @@ Free vs proprietary
 
 | Driver      | Desktops | Percent |
 |-------------|----------|---------|
-| Free        | 745      | 68.1%   |
-| Proprietary | 265      | 24.22%  |
-| Unknown     | 84       | 7.68%   |
+| Free        | 764      | 68.46%  |
+| Proprietary | 267      | 23.92%  |
+| Unknown     | 85       | 7.62%   |
 
 GPU Memory
 ----------
@@ -2793,16 +2794,17 @@ Total video memory
 
 | Size in GB | Desktops | Percent |
 |------------|----------|---------|
-| Unknown    | 701      | 63.04%  |
-| 1.01-2.0   | 108      | 9.71%   |
-| 7.01-8.0   | 69       | 6.21%   |
-| 3.01-4.0   | 68       | 6.12%   |
-| 0.51-1.0   | 65       | 5.85%   |
-| 0.01-0.5   | 42       | 3.78%   |
-| 5.01-6.0   | 30       | 2.7%    |
-| 8.01-16.0  | 18       | 1.62%   |
-| 2.01-3.0   | 10       | 0.9%    |
-| 4.01-5.0   | 1        | 0.09%   |
+| Unknown    | 715      | 63%     |
+| 1.01-2.0   | 108      | 9.52%   |
+| 7.01-8.0   | 72       | 6.34%   |
+| 3.01-4.0   | 69       | 6.08%   |
+| 0.51-1.0   | 66       | 5.81%   |
+| 0.01-0.5   | 44       | 3.88%   |
+| 5.01-6.0   | 30       | 2.64%   |
+| 8.01-16.0  | 18       | 1.59%   |
+| 2.01-3.0   | 10       | 0.88%   |
+| 4.01-5.0   | 2        | 0.18%   |
+| 16.01-24.0 | 1        | 0.09%   |
 
 Monitor
 -------
@@ -2817,39 +2819,39 @@ Monitor vendors
 
 | Vendor               | Desktops | Percent |
 |----------------------|----------|---------|
-| Samsung Electronics  | 95       | 16.07%  |
-| Dell                 | 95       | 16.07%  |
-| Goldstar             | 57       | 9.64%   |
-| Acer                 | 39       | 6.6%    |
-| Hewlett-Packard      | 35       | 5.92%   |
-| AOC                  | 30       | 5.08%   |
-| Philips              | 22       | 3.72%   |
-| BenQ                 | 22       | 3.72%   |
-| Ancor Communications | 22       | 3.72%   |
-| Iiyama               | 21       | 3.55%   |
-| LG Electronics       | 20       | 3.38%   |
-| ViewSonic            | 14       | 2.37%   |
-| Sony                 | 13       | 2.2%    |
-| Lenovo               | 13       | 2.2%    |
-| NEC Computers        | 8        | 1.35%   |
-| Idek Iiyama          | 8        | 1.35%   |
-| Unknown              | 6        | 1.02%   |
-| MSI                  | 6        | 1.02%   |
-| Eizo                 | 6        | 1.02%   |
-| ASUSTek Computer     | 6        | 1.02%   |
-| Sceptre Tech         | 3        | 0.51%   |
-| Unknown              | 3        | 0.51%   |
-| Toshiba              | 2        | 0.34%   |
-| RTK                  | 2        | 0.34%   |
-| Panasonic            | 2        | 0.34%   |
-| Microstep            | 2        | 0.34%   |
-| Mi                   | 2        | 0.34%   |
-| IOD                  | 2        | 0.34%   |
-| Insignia             | 2        | 0.34%   |
-| IBM                  | 2        | 0.34%   |
-| HPN                  | 2        | 0.34%   |
-| Fujitsu Siemens      | 2        | 0.34%   |
-| Apple                | 2        | 0.34%   |
+| Dell                 | 98       | 16.25%  |
+| Samsung Electronics  | 96       | 15.92%  |
+| Goldstar             | 58       | 9.62%   |
+| Acer                 | 39       | 6.47%   |
+| Hewlett-Packard      | 36       | 5.97%   |
+| AOC                  | 32       | 5.31%   |
+| Philips              | 22       | 3.65%   |
+| BenQ                 | 22       | 3.65%   |
+| Ancor Communications | 22       | 3.65%   |
+| Iiyama               | 21       | 3.48%   |
+| LG Electronics       | 20       | 3.32%   |
+| ViewSonic            | 16       | 2.65%   |
+| Sony                 | 13       | 2.16%   |
+| Lenovo               | 13       | 2.16%   |
+| NEC Computers        | 9        | 1.49%   |
+| Idek Iiyama          | 8        | 1.33%   |
+| Unknown              | 6        | 1%      |
+| MSI                  | 6        | 1%      |
+| Eizo                 | 6        | 1%      |
+| ASUSTek Computer     | 6        | 1%      |
+| Sceptre Tech         | 3        | 0.5%    |
+| RTK                  | 3        | 0.5%    |
+| Unknown              | 3        | 0.5%    |
+| Toshiba              | 2        | 0.33%   |
+| Panasonic            | 2        | 0.33%   |
+| Microstep            | 2        | 0.33%   |
+| Mi                   | 2        | 0.33%   |
+| IOD                  | 2        | 0.33%   |
+| Insignia             | 2        | 0.33%   |
+| IBM                  | 2        | 0.33%   |
+| HPN                  | 2        | 0.33%   |
+| Fujitsu Siemens      | 2        | 0.33%   |
+| Apple                | 2        | 0.33%   |
 | Wacom                | 1        | 0.17%   |
 | VIE                  | 1        | 0.17%   |
 | Vestel Elektronik    | 1        | 0.17%   |
@@ -2868,46 +2870,46 @@ Monitor models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| MSI G241 MSI3BA4 1920x1080 530x300mm 24.0-inch                       | 6        | 0.92%   |
-| Iiyama PL2775HD IVM6604 1920x1080 600x340mm 27.2-inch                | 6        | 0.92%   |
-| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 5        | 0.77%   |
-| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 5        | 0.77%   |
-| Lenovo LEN X24A LEN60CF 1920x1080 530x300mm 24.0-inch                | 4        | 0.62%   |
-| Samsung Electronics SyncMaster SAM00A4 1024x768 300x230mm 14.9-inch  | 3        | 0.46%   |
-| Samsung Electronics S22B300 SAM08AC 1920x1080 480x270mm 21.7-inch    | 3        | 0.46%   |
-| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 3        | 0.46%   |
-| LG Electronics LCD Monitor LG Ultra HD                               | 3        | 0.46%   |
-| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch           | 3        | 0.46%   |
-| Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch            | 3        | 0.46%   |
-| Dell U2518D DEL413C 2560x1440 550x310mm 24.9-inch                    | 3        | 0.46%   |
-| Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                    | 3        | 0.46%   |
-| Dell LCD Monitor U2412M                                              | 3        | 0.46%   |
-| AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                    | 3        | 0.46%   |
-| Unknown                                                              | 3        | 0.46%   |
-| ViewSonic LCD Monitor VSCFA2B 1920x1080 510x290mm 23.1-inch          | 2        | 0.31%   |
-| unknown LCD Monitor SAMSUNG 1920x1080                                | 2        | 0.31%   |
-| Sony TV SNY4B03 1920x1080 930x520mm 41.9-inch                        | 2        | 0.31%   |
-| Sony LCD Monitor TV XV 1920x1080                                     | 2        | 0.31%   |
-| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch    | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM021E 1680x1050 430x270mm 20.0-inch | 2        | 0.31%   |
-| Samsung Electronics SyncMaster SAM011F 1280x1024 380x300mm 19.1-inch | 2        | 0.31%   |
-| Samsung Electronics SME1920NR SAM06A4 1280x1024 380x300mm 19.1-inch  | 2        | 0.31%   |
-| Samsung Electronics S27C750 SAM0A60 1920x1080 600x340mm 27.2-inch    | 2        | 0.31%   |
-| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch    | 2        | 0.31%   |
-| Samsung Electronics LCD Monitor SyncMaster 1920x1200                 | 2        | 0.31%   |
-| Samsung Electronics LCD Monitor SyncMaster 1280x1024                 | 2        | 0.31%   |
-| Samsung Electronics LCD Monitor SAM04FB 1920x1080                    | 2        | 0.31%   |
-| Samsung Electronics C32JG5x SAM0FDE 2560x1440 700x390mm 31.5-inch    | 2        | 0.31%   |
-| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 2        | 0.31%   |
-| RTK WCS Display RTK1A1B 1920x1080 344x195mm 15.6-inch                | 2        | 0.31%   |
-| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch             | 2        | 0.31%   |
-| Philips PHL 273V7 PHLC156 1920x1080 600x340mm 27.2-inch              | 2        | 0.31%   |
-| NEC Computers FE791SB NEC61D7 1600x1200 330x240mm 16.1-inch          | 2        | 0.31%   |
-| Lenovo LEN S24e-10 LEN61CA 1920x1080 530x300mm 24.0-inch             | 2        | 0.31%   |
-| Lenovo LCD Monitor LEN0990 1440x900 410x260mm 19.1-inch              | 2        | 0.31%   |
-| Idek Iiyama LCD Monitor PLX2783H 1920x1080                           | 2        | 0.31%   |
-| Hewlett-Packard ZR24w HWP286A 1920x1200 540x350mm 25.3-inch          | 2        | 0.31%   |
-| Hewlett-Packard Z24i HWP309F 1920x1200 520x320mm 24.0-inch           | 2        | 0.31%   |
+| MSI G241 MSI3BA4 1920x1080 530x300mm 24.0-inch                       | 6        | 0.9%    |
+| Iiyama PL2775HD IVM6604 1920x1080 600x340mm 27.2-inch                | 6        | 0.9%    |
+| Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 5        | 0.75%   |
+| Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                    | 5        | 0.75%   |
+| Lenovo LEN X24A LEN60CF 1920x1080 530x300mm 24.0-inch                | 4        | 0.6%    |
+| Samsung Electronics SyncMaster SAM00A4 1024x768 300x230mm 14.9-inch  | 3        | 0.45%   |
+| Samsung Electronics S22B300 SAM08AC 1920x1080 480x270mm 21.7-inch    | 3        | 0.45%   |
+| Philips PHL 243V5 PHLC0D1 1920x1080 520x290mm 23.4-inch              | 3        | 0.45%   |
+| LG Electronics LCD Monitor LG Ultra HD                               | 3        | 0.45%   |
+| Goldstar LG Ultra HD GSM5B08 3840x2160 600x340mm 27.2-inch           | 3        | 0.45%   |
+| Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch            | 3        | 0.45%   |
+| Dell U2518D DEL413C 2560x1440 550x310mm 24.9-inch                    | 3        | 0.45%   |
+| Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                    | 3        | 0.45%   |
+| Dell LCD Monitor U2412M                                              | 3        | 0.45%   |
+| AOC 24G1WG4 AOC2401 1920x1080 520x290mm 23.4-inch                    | 3        | 0.45%   |
+| Unknown                                                              | 3        | 0.45%   |
+| ViewSonic VX2457 VSCB931 1920x1080 520x290mm 23.4-inch               | 2        | 0.3%    |
+| ViewSonic LCD Monitor VSCFA2B 1920x1080 510x290mm 23.1-inch          | 2        | 0.3%    |
+| unknown LCD Monitor SAMSUNG 1920x1080                                | 2        | 0.3%    |
+| Sony TV SNY4B03 1920x1080 930x520mm 41.9-inch                        | 2        | 0.3%    |
+| Sony LCD Monitor TV XV 1920x1080                                     | 2        | 0.3%    |
+| Samsung Electronics U28E590 SAM0C4D 3840x2160 610x350mm 27.7-inch    | 2        | 0.3%    |
+| Samsung Electronics SyncMaster SAM021E 1680x1050 430x270mm 20.0-inch | 2        | 0.3%    |
+| Samsung Electronics SyncMaster SAM011F 1280x1024 380x300mm 19.1-inch | 2        | 0.3%    |
+| Samsung Electronics SME1920NR SAM06A4 1280x1024 380x300mm 19.1-inch  | 2        | 0.3%    |
+| Samsung Electronics S27C750 SAM0A60 1920x1080 600x340mm 27.2-inch    | 2        | 0.3%    |
+| Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch    | 2        | 0.3%    |
+| Samsung Electronics LCD Monitor SyncMaster 1920x1200                 | 2        | 0.3%    |
+| Samsung Electronics LCD Monitor SyncMaster 1280x1024                 | 2        | 0.3%    |
+| Samsung Electronics LCD Monitor SAM04FB 1920x1080                    | 2        | 0.3%    |
+| Samsung Electronics C32JG5x SAM0FDE 2560x1440 700x390mm 31.5-inch    | 2        | 0.3%    |
+| Samsung Electronics C24F390 SAM0D2C 1920x1080 520x290mm 23.4-inch    | 2        | 0.3%    |
+| RTK WCS Display RTK1A1B 1920x1080 344x195mm 15.6-inch                | 2        | 0.3%    |
+| Philips PHL 276E8V PHLC18F 3840x2160 600x340mm 27.2-inch             | 2        | 0.3%    |
+| Philips PHL 273V7 PHLC156 1920x1080 600x340mm 27.2-inch              | 2        | 0.3%    |
+| NEC Computers FE791SB NEC61D7 1600x1200 330x240mm 16.1-inch          | 2        | 0.3%    |
+| Lenovo LEN S24e-10 LEN61CA 1920x1080 530x300mm 24.0-inch             | 2        | 0.3%    |
+| Lenovo LCD Monitor LEN0990 1440x900 410x260mm 19.1-inch              | 2        | 0.3%    |
+| Idek Iiyama LCD Monitor PLX2783H 1920x1080                           | 2        | 0.3%    |
+| Hewlett-Packard ZR24w HWP286A 1920x1200 540x350mm 25.3-inch          | 2        | 0.3%    |
 
 Monitor Resolution
 ------------------
@@ -2919,32 +2921,33 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 258      | 43.73%  |
-| 3840x2160 (4K)     | 53       | 8.98%   |
-| 2560x1440 (QHD)    | 49       | 8.31%   |
-| 1920x1200 (WUXGA)  | 47       | 7.97%   |
-| 1280x1024 (SXGA)   | 38       | 6.44%   |
-| Unknown            | 23       | 3.9%    |
-| 1680x1050 (WSXGA+) | 19       | 3.22%   |
-| 1600x900 (HD+)     | 14       | 2.37%   |
-| 3440x1440          | 12       | 2.03%   |
-| 1366x768 (WXGA)    | 12       | 2.03%   |
-| 2560x1080          | 10       | 1.69%   |
-| 1440x900 (WXGA+)   | 10       | 1.69%   |
-| 3840x1080          | 6        | 1.02%   |
-| 1024x768 (XGA)     | 6        | 1.02%   |
-| 1600x1200          | 5        | 0.85%   |
-| 3840x1600          | 2        | 0.34%   |
-| 3840x1200          | 2        | 0.34%   |
-| 2560x1600          | 2        | 0.34%   |
-| 1920x540           | 2        | 0.34%   |
-| 1360x768           | 2        | 0.34%   |
+| 1920x1080 (FHD)    | 263      | 43.69%  |
+| 3840x2160 (4K)     | 53       | 8.8%    |
+| 2560x1440 (QHD)    | 49       | 8.14%   |
+| 1920x1200 (WUXGA)  | 48       | 7.97%   |
+| 1280x1024 (SXGA)   | 38       | 6.31%   |
+| Unknown            | 24       | 3.99%   |
+| 1680x1050 (WSXGA+) | 19       | 3.16%   |
+| 1600x900 (HD+)     | 14       | 2.33%   |
+| 1366x768 (WXGA)    | 13       | 2.16%   |
+| 3440x1440          | 12       | 1.99%   |
+| 2560x1080          | 11       | 1.83%   |
+| 1440x900 (WXGA+)   | 10       | 1.66%   |
+| 3840x1080          | 6        | 1%      |
+| 1600x1200          | 6        | 1%      |
+| 1024x768 (XGA)     | 6        | 1%      |
+| 2560x1600          | 3        | 0.5%    |
+| 3840x1600          | 2        | 0.33%   |
+| 3840x1200          | 2        | 0.33%   |
+| 1920x540           | 2        | 0.33%   |
+| 1360x768           | 2        | 0.33%   |
 | 8960x1440          | 1        | 0.17%   |
 | 7860x2400          | 1        | 0.17%   |
 | 7680x2160          | 1        | 0.17%   |
 | 5760x1256          | 1        | 0.17%   |
 | 5760x1200          | 1        | 0.17%   |
 | 5760x1080          | 1        | 0.17%   |
+| 5120x1440          | 1        | 0.17%   |
 | 3640x1920          | 1        | 0.17%   |
 | 3600x1080          | 1        | 0.17%   |
 | 3520x1200          | 1        | 0.17%   |
@@ -2968,33 +2971,33 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| Unknown | 115      | 19.46%  |
-| 24      | 98       | 16.58%  |
-| 27      | 82       | 13.87%  |
-| 21      | 63       | 10.66%  |
-| 23      | 52       | 8.8%    |
-| 19      | 34       | 5.75%   |
-| 31      | 22       | 3.72%   |
-| 17      | 17       | 2.88%   |
-| 22      | 16       | 2.71%   |
-| 18      | 12       | 2.03%   |
-| 34      | 11       | 1.86%   |
-| 20      | 6        | 1.02%   |
-| 15      | 6        | 1.02%   |
-| 14      | 6        | 1.02%   |
-| 25      | 5        | 0.85%   |
-| 29      | 4        | 0.68%   |
-| 52      | 3        | 0.51%   |
-| 46      | 3        | 0.51%   |
-| 42      | 3        | 0.51%   |
-| 40      | 3        | 0.51%   |
-| 32      | 3        | 0.51%   |
-| 26      | 3        | 0.51%   |
-| 13      | 3        | 0.51%   |
-| 54      | 2        | 0.34%   |
-| 41      | 2        | 0.34%   |
-| 28      | 2        | 0.34%   |
-| 16      | 2        | 0.34%   |
+| Unknown | 116      | 19.27%  |
+| 24      | 101      | 16.78%  |
+| 27      | 83       | 13.79%  |
+| 21      | 63       | 10.47%  |
+| 23      | 53       | 8.8%    |
+| 19      | 34       | 5.65%   |
+| 31      | 22       | 3.65%   |
+| 17      | 17       | 2.82%   |
+| 22      | 16       | 2.66%   |
+| 18      | 13       | 2.16%   |
+| 34      | 11       | 1.83%   |
+| 20      | 7        | 1.16%   |
+| 14      | 7        | 1.16%   |
+| 15      | 6        | 1%      |
+| 29      | 5        | 0.83%   |
+| 25      | 5        | 0.83%   |
+| 52      | 3        | 0.5%    |
+| 46      | 3        | 0.5%    |
+| 42      | 3        | 0.5%    |
+| 40      | 3        | 0.5%    |
+| 32      | 3        | 0.5%    |
+| 28      | 3        | 0.5%    |
+| 26      | 3        | 0.5%    |
+| 13      | 3        | 0.5%    |
+| 54      | 2        | 0.33%   |
+| 41      | 2        | 0.33%   |
+| 16      | 2        | 0.33%   |
 | 74      | 1        | 0.17%   |
 | 64      | 1        | 0.17%   |
 | 57      | 1        | 0.17%   |
@@ -3019,17 +3022,17 @@ Physical width
 
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
-| 501-600     | 222      | 38.68%  |
-| Unknown     | 115      | 20.03%  |
-| 401-500     | 112      | 19.51%  |
-| 601-700     | 34       | 5.92%   |
-| 301-350     | 26       | 4.53%   |
-| 701-800     | 15       | 2.61%   |
-| 351-400     | 14       | 2.44%   |
-| 1001-1500   | 13       | 2.26%   |
-| 201-300     | 8        | 1.39%   |
-| 901-1000    | 8        | 1.39%   |
-| 801-900     | 5        | 0.87%   |
+| 501-600     | 227      | 38.8%   |
+| Unknown     | 116      | 19.83%  |
+| 401-500     | 114      | 19.49%  |
+| 601-700     | 36       | 6.15%   |
+| 301-350     | 26       | 4.44%   |
+| 701-800     | 15       | 2.56%   |
+| 351-400     | 14       | 2.39%   |
+| 1001-1500   | 13       | 2.22%   |
+| 201-300     | 9        | 1.54%   |
+| 901-1000    | 8        | 1.37%   |
+| 801-900     | 5        | 0.85%   |
 | 1501-2000   | 1        | 0.17%   |
 | 101-200     | 1        | 0.17%   |
 
@@ -3043,15 +3046,15 @@ Proportional relationship between the width and the height
 
 | Ratio   | Desktops | Percent |
 |---------|----------|---------|
-| 16/9    | 323      | 58.09%  |
-| Unknown | 106      | 19.06%  |
-| 16/10   | 57       | 10.25%  |
-| 5/4     | 29       | 5.22%   |
-| 21/9    | 17       | 3.06%   |
-| 4/3     | 13       | 2.34%   |
-| 3/2     | 7        | 1.26%   |
-| 6/5     | 2        | 0.36%   |
-| 32/9    | 2        | 0.36%   |
+| 16/9    | 328      | 57.85%  |
+| Unknown | 107      | 18.87%  |
+| 16/10   | 60       | 10.58%  |
+| 5/4     | 29       | 5.11%   |
+| 21/9    | 18       | 3.17%   |
+| 4/3     | 14       | 2.47%   |
+| 3/2     | 7        | 1.23%   |
+| 6/5     | 2        | 0.35%   |
+| 32/9    | 2        | 0.35%   |
 
 Monitor Area
 ------------
@@ -3063,19 +3066,19 @@ Area in inch²
 
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
-| 201-250        | 180      | 30.98%  |
-| Unknown        | 115      | 19.79%  |
-| 301-350        | 86       | 14.8%   |
-| 251-300        | 44       | 7.57%   |
-| 151-200        | 44       | 7.57%   |
-| 351-500        | 41       | 7.06%   |
-| 141-150        | 27       | 4.65%   |
-| 501-1000       | 16       | 2.75%   |
-| More than 1000 | 10       | 1.72%   |
-| 101-110        | 8        | 1.38%   |
-| 121-130        | 3        | 0.52%   |
-| 111-120        | 3        | 0.52%   |
-| 81-90          | 2        | 0.34%   |
+| 201-250        | 183      | 30.91%  |
+| Unknown        | 116      | 19.59%  |
+| 301-350        | 87       | 14.7%   |
+| 251-300        | 46       | 7.77%   |
+| 151-200        | 45       | 7.6%    |
+| 351-500        | 42       | 7.09%   |
+| 141-150        | 28       | 4.73%   |
+| 501-1000       | 16       | 2.7%    |
+| More than 1000 | 10       | 1.69%   |
+| 101-110        | 8        | 1.35%   |
+| 81-90          | 3        | 0.51%   |
+| 121-130        | 3        | 0.51%   |
+| 111-120        | 3        | 0.51%   |
 | 71-80          | 1        | 0.17%   |
 | 1-40           | 1        | 0.17%   |
 
@@ -3089,12 +3092,12 @@ Pixels per inch
 
 | Density | Desktops | Percent |
 |---------|----------|---------|
-| 51-100  | 296      | 52.3%   |
-| Unknown | 115      | 20.32%  |
-| 101-120 | 99       | 17.49%  |
-| 121-160 | 28       | 4.95%   |
-| 161-240 | 20       | 3.53%   |
-| 1-50    | 8        | 1.41%   |
+| 51-100  | 304      | 52.69%  |
+| Unknown | 116      | 20.1%   |
+| 101-120 | 100      | 17.33%  |
+| 121-160 | 29       | 5.03%   |
+| 161-240 | 20       | 3.47%   |
+| 1-50    | 8        | 1.39%   |
 
 Multiple Monitors
 -----------------
@@ -3106,10 +3109,10 @@ Total monitors connected
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 0     | 552      | 49.86%  |
-| 1     | 467      | 42.19%  |
-| 2     | 78       | 7.05%   |
-| 3     | 9        | 0.81%   |
+| 0     | 563      | 49.87%  |
+| 1     | 476      | 42.16%  |
+| 2     | 80       | 7.09%   |
+| 3     | 9        | 0.8%    |
 | 4     | 1        | 0.09%   |
 
 Network
@@ -3125,37 +3128,37 @@ Controller vendors
 
 | Vendor                            | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Intel                             | 574      | 41.21%  |
-| Realtek Semiconductor             | 503      | 36.11%  |
-| Qualcomm Atheros                  | 81       | 5.81%   |
-| Broadcom                          | 66       | 4.74%   |
-| Mellanox Technologies             | 13       | 0.93%   |
-| Marvell Technology Group          | 12       | 0.86%   |
-| TP-Link                           | 11       | 0.79%   |
-| Ralink Technology                 | 11       | 0.79%   |
-| Ralink                            | 11       | 0.79%   |
-| VIA Technologies                  | 9        | 0.65%   |
-| American Megatrends               | 8        | 0.57%   |
-| Samsung Electronics               | 7        | 0.5%    |
-| Aquantia                          | 7        | 0.5%    |
-| MediaTek                          | 6        | 0.43%   |
-| D-Link System                     | 6        | 0.43%   |
-| Xiaomi                            | 4        | 0.29%   |
-| Nvidia                            | 4        | 0.29%   |
-| Apple                             | 4        | 0.29%   |
-| 3Com                              | 4        | 0.29%   |
-| IMC Networks                      | 3        | 0.22%   |
-| Dresden Elektronik                | 3        | 0.22%   |
-| Chelsio Communications            | 3        | 0.22%   |
-| Arduino SA                        | 3        | 0.22%   |
+| Intel                             | 584      | 41.07%  |
+| Realtek Semiconductor             | 514      | 36.15%  |
+| Qualcomm Atheros                  | 82       | 5.77%   |
+| Broadcom                          | 68       | 4.78%   |
+| Mellanox Technologies             | 13       | 0.91%   |
+| TP-Link                           | 12       | 0.84%   |
+| Marvell Technology Group          | 12       | 0.84%   |
+| Ralink Technology                 | 11       | 0.77%   |
+| Ralink                            | 11       | 0.77%   |
+| VIA Technologies                  | 9        | 0.63%   |
+| American Megatrends               | 8        | 0.56%   |
+| Samsung Electronics               | 7        | 0.49%   |
+| Aquantia                          | 7        | 0.49%   |
+| MediaTek                          | 6        | 0.42%   |
+| D-Link System                     | 6        | 0.42%   |
+| ASUSTek Computer                  | 5        | 0.35%   |
+| Xiaomi                            | 4        | 0.28%   |
+| Nvidia                            | 4        | 0.28%   |
+| Apple                             | 4        | 0.28%   |
+| 3Com                              | 4        | 0.28%   |
+| IMC Networks                      | 3        | 0.21%   |
+| Dresden Elektronik                | 3        | 0.21%   |
+| Chelsio Communications            | 3        | 0.21%   |
+| Arduino SA                        | 3        | 0.21%   |
+| Accton Technology                 | 3        | 0.21%   |
 | Sundance Technology Inc / IC Plus | 2        | 0.14%   |
 | Qualcomm Atheros Communications   | 2        | 0.14%   |
 | Qualcomm                          | 2        | 0.14%   |
 | Huawei Technologies               | 2        | 0.14%   |
 | D-Link                            | 2        | 0.14%   |
-| ASUSTek Computer                  | 2        | 0.14%   |
 | ADMtek                            | 2        | 0.14%   |
-| Accton Technology                 | 2        | 0.14%   |
 | U.S. Robotics                     | 1        | 0.07%   |
 | Tehuti Networks                   | 1        | 0.07%   |
 | Solarflare Communications         | 1        | 0.07%   |
@@ -3176,46 +3179,46 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 399      | 24.39%  |
-| Intel I211 Gigabit Network Connection                                         | 106      | 6.48%   |
-| Intel 82574L Gigabit Network Connection                                       | 53       | 3.24%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 52       | 3.18%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 46       | 2.81%   |
-| Intel Wi-Fi 6 AX200                                                           | 42       | 2.57%   |
-| Intel I210 Gigabit Network Connection                                         | 42       | 2.57%   |
-| Intel Ethernet Controller I225-V                                              | 31       | 1.89%   |
-| Intel 82579V Gigabit Network Connection                                       | 27       | 1.65%   |
-| Intel Ethernet Connection I217-LM                                             | 26       | 1.59%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 26       | 1.59%   |
-| Intel Ethernet Connection (2) I219-V                                          | 24       | 1.47%   |
-| Intel I350 Gigabit Network Connection                                         | 18       | 1.1%    |
-| Intel Ethernet Connection (7) I219-V                                          | 17       | 1.04%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 16       | 0.98%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 16       | 0.98%   |
-| Intel Ethernet Connection (2) I218-V                                          | 14       | 0.86%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13       | 0.79%   |
-| Intel Wireless-AC 9260                                                        | 12       | 0.73%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                              | 11       | 0.67%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 11       | 0.67%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 10       | 0.61%   |
-| Intel Cannon Lake PCH CNVi WiFi                                               | 10       | 0.61%   |
-| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 10       | 0.61%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 9        | 0.55%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                              | 9        | 0.55%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 9        | 0.55%   |
-| Intel Ethernet Controller X550                                                | 9        | 0.55%   |
-| Intel Ethernet Connection I217-V                                              | 9        | 0.55%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 9        | 0.55%   |
-| Intel 82576 Gigabit Network Connection                                        | 9        | 0.55%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 9        | 0.55%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 8        | 0.49%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 8        | 0.49%   |
-| Mellanox MT27500 Family [ConnectX-3]                                          | 8        | 0.49%   |
-| Intel Wireless 7265                                                           | 8        | 0.49%   |
-| Intel 82567LM-3 Gigabit Network Connection                                    | 8        | 0.49%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 8        | 0.49%   |
-| American Megatrends Virtual Ethernet                                          | 8        | 0.49%   |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                               | 7        | 0.43%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 406      | 24.34%  |
+| Intel I211 Gigabit Network Connection                                         | 107      | 6.41%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 54       | 3.24%   |
+| Intel 82574L Gigabit Network Connection                                       | 53       | 3.18%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 46       | 2.76%   |
+| Intel Wi-Fi 6 AX200                                                           | 42       | 2.52%   |
+| Intel I210 Gigabit Network Connection                                         | 42       | 2.52%   |
+| Intel Ethernet Controller I225-V                                              | 32       | 1.92%   |
+| Intel 82579V Gigabit Network Connection                                       | 27       | 1.62%   |
+| Intel Ethernet Connection I217-LM                                             | 26       | 1.56%   |
+| Intel Ethernet Connection (2) I219-V                                          | 26       | 1.56%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 26       | 1.56%   |
+| Intel I350 Gigabit Network Connection                                         | 18       | 1.08%   |
+| Intel Ethernet Connection (7) I219-V                                          | 17       | 1.02%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 16       | 0.96%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 16       | 0.96%   |
+| Intel Ethernet Connection (2) I218-V                                          | 14       | 0.84%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13       | 0.78%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 12       | 0.72%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                              | 11       | 0.66%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 11       | 0.66%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 10       | 0.6%    |
+| Intel Ethernet Connection I217-V                                              | 10       | 0.6%    |
+| Intel Cannon Lake PCH CNVi WiFi                                               | 10       | 0.6%    |
+| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 10       | 0.6%    |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 9        | 0.54%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 9        | 0.54%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter                              | 9        | 0.54%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 9        | 0.54%   |
+| Intel Wireless 7265                                                           | 9        | 0.54%   |
+| Intel Ethernet Controller X550                                                | 9        | 0.54%   |
+| Intel Ethernet Connection (7) I219-LM                                         | 9        | 0.54%   |
+| Intel 82576 Gigabit Network Connection                                        | 9        | 0.54%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 9        | 0.54%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 8        | 0.48%   |
+| Mellanox MT27500 Family [ConnectX-3]                                          | 8        | 0.48%   |
+| Intel 82567LM-3 Gigabit Network Connection                                    | 8        | 0.48%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 8        | 0.48%   |
+| American Megatrends Virtual Ethernet                                          | 8        | 0.48%   |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                               | 7        | 0.42%   |
 
 Wireless Vendor
 ---------------
@@ -3227,23 +3230,23 @@ Wireless vendors
 
 | Vendor                                | Desktops | Percent |
 |---------------------------------------|----------|---------|
-| Intel                                 | 124      | 41.61%  |
-| Realtek Semiconductor                 | 57       | 19.13%  |
-| Qualcomm Atheros                      | 52       | 17.45%  |
-| Broadcom                              | 12       | 4.03%   |
-| TP-Link                               | 11       | 3.69%   |
-| Ralink Technology                     | 11       | 3.69%   |
-| Ralink                                | 11       | 3.69%   |
-| MediaTek                              | 6        | 2.01%   |
-| IMC Networks                          | 3        | 1.01%   |
-| Qualcomm Atheros Communications       | 2        | 0.67%   |
-| D-Link                                | 2        | 0.67%   |
-| ASUSTek Computer                      | 2        | 0.67%   |
-| Linksys                               | 1        | 0.34%   |
-| Edimax Technology                     | 1        | 0.34%   |
-| Atheros                               | 1        | 0.34%   |
-| AboCom Systems                        | 1        | 0.34%   |
-| 802.11g Adapter [Linksys WUSB54GC v3] | 1        | 0.34%   |
+| Intel                                 | 126      | 41.18%  |
+| Realtek Semiconductor                 | 58       | 18.95%  |
+| Qualcomm Atheros                      | 53       | 17.32%  |
+| TP-Link                               | 12       | 3.92%   |
+| Broadcom                              | 12       | 3.92%   |
+| Ralink Technology                     | 11       | 3.59%   |
+| Ralink                                | 11       | 3.59%   |
+| MediaTek                              | 6        | 1.96%   |
+| ASUSTek Computer                      | 5        | 1.63%   |
+| IMC Networks                          | 3        | 0.98%   |
+| Qualcomm Atheros Communications       | 2        | 0.65%   |
+| D-Link                                | 2        | 0.65%   |
+| Linksys                               | 1        | 0.33%   |
+| Edimax Technology                     | 1        | 0.33%   |
+| Atheros                               | 1        | 0.33%   |
+| AboCom Systems                        | 1        | 0.33%   |
+| 802.11g Adapter [Linksys WUSB54GC v3] | 1        | 0.33%   |
 
 Wireless Model
 --------------
@@ -3255,46 +3258,46 @@ Wireless models
 
 | Model                                                          | Desktops | Percent |
 |----------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                            | 42       | 13.91%  |
-| Intel Wireless-AC 9260                                         | 12       | 3.97%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter               | 11       | 3.64%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 11       | 3.64%   |
-| Intel Cannon Lake PCH CNVi WiFi                                | 10       | 3.31%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 9        | 2.98%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter               | 9        | 2.98%   |
-| Intel Wireless 7265                                            | 8        | 2.65%   |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                | 7        | 2.32%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 6        | 1.99%   |
-| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 6        | 1.99%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 6        | 1.99%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 5        | 1.66%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 5        | 1.66%   |
-| Intel Wireless 8260                                            | 5        | 1.66%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                         | 5        | 1.66%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 4        | 1.32%   |
-| Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 4        | 1.32%   |
-| Realtek RTL8188EE Wireless Network Adapter                     | 4        | 1.32%   |
-| Realtek 8811CU Wireless LAN 802.11ac USB NIC                   | 4        | 1.32%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 4        | 1.32%   |
-| Intel Wireless 8265 / 8275                                     | 4        | 1.32%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 4        | 1.32%   |
-| Intel Alder Lake-S PCH CNVi WiFi                               | 4        | 1.32%   |
-| Ralink RT5572 Wireless Adapter                                 | 3        | 0.99%   |
-| Ralink RT5370 Wireless Adapter                                 | 3        | 0.99%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 3        | 0.99%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter  | 3        | 0.99%   |
-| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                        | 3        | 0.99%   |
-| Intel Wireless 7260                                            | 3        | 0.99%   |
-| Intel Wireless 3165                                            | 3        | 0.99%   |
-| Intel Wireless 3160                                            | 3        | 0.99%   |
-| Intel CNVi: Wi-Fi                                              | 3        | 0.99%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 2        | 0.66%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                         | 2        | 0.66%   |
-| TP-Link Archer T2U PLUS [RTL8821AU]                            | 2        | 0.66%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 2        | 0.66%   |
-| Realtek RTL88x2bu [AC1200 Techkey]                             | 2        | 0.66%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 2        | 0.66%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter       | 2        | 0.66%   |
+| Intel Wi-Fi 6 AX200                                            | 42       | 13.5%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 12       | 3.86%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter               | 11       | 3.54%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]               | 11       | 3.54%   |
+| Intel Cannon Lake PCH CNVi WiFi                                | 10       | 3.22%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 9        | 2.89%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter               | 9        | 2.89%   |
+| Intel Wireless 7265                                            | 9        | 2.89%   |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                | 7        | 2.25%   |
+| Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 7        | 2.25%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 6        | 1.93%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 6        | 1.93%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 5        | 1.61%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 5        | 1.61%   |
+| Intel Wireless 8260                                            | 5        | 1.61%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]      | 5        | 1.61%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 4        | 1.29%   |
+| Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 4        | 1.29%   |
+| Realtek RTL8188EE Wireless Network Adapter                     | 4        | 1.29%   |
+| Realtek 8811CU Wireless LAN 802.11ac USB NIC                   | 4        | 1.29%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter               | 4        | 1.29%   |
+| Intel Wireless 8265 / 8275                                     | 4        | 1.29%   |
+| Intel Comet Lake PCH CNVi WiFi                                 | 4        | 1.29%   |
+| Intel Alder Lake-S PCH CNVi WiFi                               | 4        | 1.29%   |
+| Ralink RT5572 Wireless Adapter                                 | 3        | 0.96%   |
+| Ralink RT5370 Wireless Adapter                                 | 3        | 0.96%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                      | 3        | 0.96%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter  | 3        | 0.96%   |
+| MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                        | 3        | 0.96%   |
+| Intel Wireless 7260                                            | 3        | 0.96%   |
+| Intel Wireless 3165                                            | 3        | 0.96%   |
+| Intel Wireless 3160                                            | 3        | 0.96%   |
+| Intel Tiger Lake PCH CNVi WiFi                                 | 3        | 0.96%   |
+| Intel CNVi: Wi-Fi                                              | 3        | 0.96%   |
+| ASUS Realtek 8188EUS [USB-N10 Nano]                            | 3        | 0.96%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 2        | 0.64%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                         | 2        | 0.64%   |
+| TP-Link Archer T2U PLUS [RTL8821AU]                            | 2        | 0.64%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 2        | 0.64%   |
+| Realtek RTL88x2bu [AC1200 Techkey]                             | 2        | 0.64%   |
 
 Ethernet Vendor
 ---------------
@@ -3306,24 +3309,25 @@ Ethernet vendors
 
 | Vendor                            | Desktops | Percent |
 |-----------------------------------|----------|---------|
-| Intel                             | 538      | 45.48%  |
-| Realtek Semiconductor             | 475      | 40.15%  |
-| Broadcom                          | 54       | 4.56%   |
-| Qualcomm Atheros                  | 32       | 2.7%    |
-| Marvell Technology Group          | 12       | 1.01%   |
-| VIA Technologies                  | 9        | 0.76%   |
-| American Megatrends               | 8        | 0.68%   |
-| Samsung Electronics               | 7        | 0.59%   |
-| Aquantia                          | 7        | 0.59%   |
-| D-Link System                     | 6        | 0.51%   |
-| Xiaomi                            | 4        | 0.34%   |
-| Nvidia                            | 4        | 0.34%   |
-| 3Com                              | 4        | 0.34%   |
+| Intel                             | 546      | 45.31%  |
+| Realtek Semiconductor             | 486      | 40.33%  |
+| Broadcom                          | 56       | 4.65%   |
+| Qualcomm Atheros                  | 32       | 2.66%   |
+| Marvell Technology Group          | 12       | 1%      |
+| VIA Technologies                  | 9        | 0.75%   |
+| American Megatrends               | 8        | 0.66%   |
+| Samsung Electronics               | 7        | 0.58%   |
+| Aquantia                          | 7        | 0.58%   |
+| D-Link System                     | 6        | 0.5%    |
+| Xiaomi                            | 4        | 0.33%   |
+| Nvidia                            | 4        | 0.33%   |
+| 3Com                              | 4        | 0.33%   |
 | Chelsio Communications            | 3        | 0.25%   |
 | Apple                             | 3        | 0.25%   |
 | Sundance Technology Inc / IC Plus | 2        | 0.17%   |
 | Qualcomm                          | 2        | 0.17%   |
 | ADMtek                            | 2        | 0.17%   |
+| Accton Technology                 | 2        | 0.17%   |
 | U.S. Robotics                     | 1        | 0.08%   |
 | Tehuti Networks                   | 1        | 0.08%   |
 | Solarflare Communications         | 1        | 0.08%   |
@@ -3334,7 +3338,6 @@ Ethernet vendors
 | Huawei Technologies               | 1        | 0.08%   |
 | Emulex                            | 1        | 0.08%   |
 | Davicom Semiconductor             | 1        | 0.08%   |
-| Accton Technology                 | 1        | 0.08%   |
 
 Ethernet Model
 --------------
@@ -3346,46 +3349,46 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 399      | 30.86%  |
-| Intel I211 Gigabit Network Connection                                         | 106      | 8.2%    |
-| Intel 82574L Gigabit Network Connection                                       | 53       | 4.1%    |
-| Realtek RTL8125 2.5GbE Controller                                             | 47       | 3.63%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 46       | 3.56%   |
-| Intel I210 Gigabit Network Connection                                         | 42       | 3.25%   |
-| Intel Ethernet Controller I225-V                                              | 31       | 2.4%    |
-| Intel 82579V Gigabit Network Connection                                       | 27       | 2.09%   |
-| Intel Ethernet Connection I217-LM                                             | 26       | 2.01%   |
-| Intel Ethernet Connection (2) I219-LM                                         | 26       | 2.01%   |
-| Intel Ethernet Connection (2) I219-V                                          | 24       | 1.86%   |
-| Intel I350 Gigabit Network Connection                                         | 18       | 1.39%   |
-| Intel Ethernet Connection (7) I219-V                                          | 17       | 1.31%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 16       | 1.24%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 16       | 1.24%   |
-| Intel Ethernet Connection (2) I218-V                                          | 14       | 1.08%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13       | 1.01%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 10       | 0.77%   |
-| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 10       | 0.77%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 9        | 0.7%    |
-| Intel Ethernet Controller X550                                                | 9        | 0.7%    |
-| Intel Ethernet Connection I217-V                                              | 9        | 0.7%    |
-| Intel Ethernet Connection (7) I219-LM                                         | 9        | 0.7%    |
-| Intel 82576 Gigabit Network Connection                                        | 9        | 0.7%    |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 9        | 0.7%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 8        | 0.62%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 8        | 0.62%   |
-| Intel 82567LM-3 Gigabit Network Connection                                    | 8        | 0.62%   |
-| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 8        | 0.62%   |
-| American Megatrends Virtual Ethernet                                          | 8        | 0.62%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 7        | 0.54%   |
-| Intel 82580 Gigabit Network Connection                                        | 7        | 0.54%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 406      | 30.85%  |
+| Intel I211 Gigabit Network Connection                                         | 107      | 8.13%   |
+| Intel 82574L Gigabit Network Connection                                       | 53       | 4.03%   |
+| Realtek RTL8125 2.5GbE Controller                                             | 49       | 3.72%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 46       | 3.5%    |
+| Intel I210 Gigabit Network Connection                                         | 42       | 3.19%   |
+| Intel Ethernet Controller I225-V                                              | 32       | 2.43%   |
+| Intel 82579V Gigabit Network Connection                                       | 27       | 2.05%   |
+| Intel Ethernet Connection I217-LM                                             | 26       | 1.98%   |
+| Intel Ethernet Connection (2) I219-V                                          | 26       | 1.98%   |
+| Intel Ethernet Connection (2) I219-LM                                         | 26       | 1.98%   |
+| Intel I350 Gigabit Network Connection                                         | 18       | 1.37%   |
+| Intel Ethernet Connection (7) I219-V                                          | 17       | 1.29%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 16       | 1.22%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 16       | 1.22%   |
+| Intel Ethernet Connection (2) I218-V                                          | 14       | 1.06%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13       | 0.99%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 10       | 0.76%   |
+| Intel Ethernet Connection I217-V                                              | 10       | 0.76%   |
+| Intel 82572EI Gigabit Ethernet Controller (Copper)                            | 10       | 0.76%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 9        | 0.68%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 9        | 0.68%   |
+| Intel Ethernet Controller X550                                                | 9        | 0.68%   |
+| Intel Ethernet Connection (7) I219-LM                                         | 9        | 0.68%   |
+| Intel 82576 Gigabit Network Connection                                        | 9        | 0.68%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 9        | 0.68%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller                     | 8        | 0.61%   |
+| Intel 82567LM-3 Gigabit Network Connection                                    | 8        | 0.61%   |
+| Intel 82557/8/9/0/1 Ethernet Pro 100                                          | 8        | 0.61%   |
+| American Megatrends Virtual Ethernet                                          | 8        | 0.61%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                | 7        | 0.53%   |
+| Intel Ethernet Connection (5) I219-LM                                         | 7        | 0.53%   |
+| Intel 82580 Gigabit Network Connection                                        | 7        | 0.53%   |
 | Samsung Galaxy series, misc. (tethering mode)                                 | 6        | 0.46%   |
-| Intel Ethernet Connection (5) I219-LM                                         | 6        | 0.46%   |
 | Intel Ethernet Connection (11) I219-V                                         | 6        | 0.46%   |
 | Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 6        | 0.46%   |
-| VIA VT6105/VT6106S [Rhine-III]                                                | 5        | 0.39%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 5        | 0.39%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                             | 5        | 0.39%   |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                                 | 5        | 0.39%   |
+| VIA VT6105/VT6106S [Rhine-III]                                                | 5        | 0.38%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 5        | 0.38%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                             | 5        | 0.38%   |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                                 | 5        | 0.38%   |
 
 Net Controller Kind
 -------------------
@@ -3397,10 +3400,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 1044     | 76.48%  |
-| WiFi     | 280      | 20.51%  |
-| Unknown  | 28       | 2.05%   |
-| Modem    | 13       | 0.95%   |
+| Ethernet | 1064     | 76.44%  |
+| WiFi     | 287      | 20.62%  |
+| Unknown  | 28       | 2.01%   |
+| Modem    | 13       | 0.93%   |
 
 Used Controller
 ---------------
@@ -3412,9 +3415,9 @@ Currently used network controller
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 991      | 90.5%   |
-| WiFi     | 99       | 9.04%   |
-| Unknown  | 5        | 0.46%   |
+| Ethernet | 1009     | 90.49%  |
+| WiFi     | 101      | 9.06%   |
+| Unknown  | 5        | 0.45%   |
 
 NICs
 ----
@@ -3426,13 +3429,13 @@ Total network controllers on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 541      | 49.14%  |
-| 2     | 329      | 29.88%  |
-| 3     | 111      | 10.08%  |
-| 4     | 42       | 3.81%   |
-| 0     | 39       | 3.54%   |
-| 5     | 17       | 1.54%   |
-| 6     | 13       | 1.18%   |
+| 1     | 554      | 49.38%  |
+| 2     | 333      | 29.68%  |
+| 3     | 113      | 10.07%  |
+| 4     | 43       | 3.83%   |
+| 0     | 40       | 3.57%   |
+| 5     | 17       | 1.52%   |
+| 6     | 13       | 1.16%   |
 | 7     | 5        | 0.45%   |
 | 8     | 3        | 0.27%   |
 | 10    | 1        | 0.09%   |
@@ -3447,8 +3450,8 @@ IPv6 vs IPv4
 
 | Used | Desktops | Percent |
 |------|----------|---------|
-| No   | 979      | 87.65%  |
-| Yes  | 138      | 12.35%  |
+| No   | 999      | 87.63%  |
+| Yes  | 141      | 12.37%  |
 
 Bluetooth
 ---------
@@ -3463,22 +3466,22 @@ Controller vendors
 
 | Vendor                          | Desktops | Percent |
 |---------------------------------|----------|---------|
-| Intel                           | 113      | 54.07%  |
-| Cambridge Silicon Radio         | 32       | 15.31%  |
-| Realtek Semiconductor           | 16       | 7.66%   |
-| ASUSTek Computer                | 12       | 5.74%   |
-| Qualcomm Atheros Communications | 6        | 2.87%   |
-| IMC Networks                    | 6        | 2.87%   |
-| Broadcom                        | 5        | 2.39%   |
-| Apple                           | 5        | 2.39%   |
-| Lite-On Technology              | 4        | 1.91%   |
-| MediaTek                        | 3        | 1.44%   |
-| Foxconn / Hon Hai               | 2        | 0.96%   |
-| TP-Link                         | 1        | 0.48%   |
-| Ralink                          | 1        | 0.48%   |
-| Micro Star International        | 1        | 0.48%   |
-| Corsair                         | 1        | 0.48%   |
-| Unknown                         | 1        | 0.48%   |
+| Intel                           | 115      | 53.99%  |
+| Cambridge Silicon Radio         | 32       | 15.02%  |
+| Realtek Semiconductor           | 18       | 8.45%   |
+| ASUSTek Computer                | 12       | 5.63%   |
+| Qualcomm Atheros Communications | 6        | 2.82%   |
+| IMC Networks                    | 6        | 2.82%   |
+| Broadcom                        | 5        | 2.35%   |
+| Apple                           | 5        | 2.35%   |
+| Lite-On Technology              | 4        | 1.88%   |
+| MediaTek                        | 3        | 1.41%   |
+| Foxconn / Hon Hai               | 2        | 0.94%   |
+| TP-Link                         | 1        | 0.47%   |
+| Ralink                          | 1        | 0.47%   |
+| Micro Star International        | 1        | 0.47%   |
+| Corsair                         | 1        | 0.47%   |
+| Unknown                         | 1        | 0.47%   |
 
 Bluetooth Model
 ---------------
@@ -3490,46 +3493,46 @@ Controller models
 
 | Model                                                       | Desktops | Percent |
 |-------------------------------------------------------------|----------|---------|
-| Intel AX200 Bluetooth                                       | 39       | 18.4%   |
-| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 32       | 15.09%  |
-| Intel Bluetooth wireless interface                          | 20       | 9.43%   |
-| Intel AX201 Bluetooth                                       | 14       | 6.6%    |
-| Intel Wireless-AC 9260 Bluetooth Adapter                    | 13       | 6.13%   |
-| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 13       | 6.13%   |
-| Intel Wireless-AC 3168 Bluetooth                            | 10       | 4.72%   |
-| Realtek Bluetooth Adapter                                   | 9        | 4.25%   |
-| Realtek  Bluetooth 4.2 Adapter                              | 5        | 2.36%   |
-| Broadcom BCM20702A0 Bluetooth 4.0                           | 5        | 2.36%   |
-| Intel AX210 Bluetooth                                       | 4        | 1.89%   |
-| ASUS Broadcom BCM20702A0 Bluetooth                          | 4        | 1.89%   |
-| MediaTek RZ608 Bluetooth Adapter                            | 3        | 1.42%   |
-| IMC Networks Qualcomm Atheros AR9462 Bluetooth 4.0          | 3        | 1.42%   |
-| Apple Bluetooth Host Controller                             | 3        | 1.42%   |
-| Realtek Bluetooth 4.2 Adapter                               | 2        | 0.94%   |
-| Qualcomm Atheros AR3011 Bluetooth (no firmware)             | 2        | 0.94%   |
-| Lite-On Atheros AR3012 Bluetooth                            | 2        | 0.94%   |
-| Intel Centrino Bluetooth Wireless Transceiver               | 2        | 0.94%   |
-| IMC Networks Realtek Bluetooth 4.0 + High Speed Chip        | 2        | 0.94%   |
-| Foxconn / Hon Hai RZ616 Bluetooth Adapter                   | 2        | 0.94%   |
-| ASUS Qualcomm Atheros AR9462 Bluetooth 4.0 + HS Adapter     | 2        | 0.94%   |
-| ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE       | 2        | 0.94%   |
-| ASUS Bluetooth USB module                                   | 2        | 0.94%   |
-| Apple Built-in Bluetooth 2.0+EDR HCI                        | 2        | 0.94%   |
-| TP-Link Bluetooth 5.0 USB Adapter                           | 1        | 0.47%   |
-| Ralink RT3290 Bluetooth                                     | 1        | 0.47%   |
-| Qualcomm Atheros QCA61x4 Bluetooth 4.1                      | 1        | 0.47%   |
-| Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 1        | 0.47%   |
-| Qualcomm Atheros AR9462 Bluetooth 3.0 + HS Adapter          | 1        | 0.47%   |
-| Qualcomm Atheros AR9462 Bluetooth                           | 1        | 0.47%   |
-| Micro Star International MS-6970 BToes Bluetooth adapter    | 1        | 0.47%   |
-| Lite-On Bluetooth USB Module                                | 1        | 0.47%   |
-| Lite-On Atheros AR9462 Bluetooth 4.0 + HS                   | 1        | 0.47%   |
-| Intel AX211 Bluetooth                                       | 1        | 0.47%   |
-| IMC Networks Realtek Bluetooth Adapter                      | 1        | 0.47%   |
-| Corsair HS70 BLUETOOTH Gaming Headset                       | 1        | 0.47%   |
-| ASUS USB-BT500                                              | 1        | 0.47%   |
-| ASUS Qualcomm Bluetooth 4.1                                 | 1        | 0.47%   |
-| Unknown                                                     | 1        | 0.47%   |
+| Intel AX200 Bluetooth                                       | 39       | 18.06%  |
+| Cambridge Silicon Radio Bluetooth Dongle (HCI mode)         | 32       | 14.81%  |
+| Intel Bluetooth wireless interface                          | 21       | 9.72%   |
+| Intel AX201 Bluetooth                                       | 15       | 6.94%   |
+| Intel Wireless-AC 9260 Bluetooth Adapter                    | 13       | 6.02%   |
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP)              | 13       | 6.02%   |
+| Realtek Bluetooth Adapter                                   | 11       | 5.09%   |
+| Intel Wireless-AC 3168 Bluetooth                            | 10       | 4.63%   |
+| Realtek  Bluetooth 4.2 Adapter                              | 5        | 2.31%   |
+| Broadcom BCM20702A0 Bluetooth 4.0                           | 5        | 2.31%   |
+| Intel AX210 Bluetooth                                       | 4        | 1.85%   |
+| ASUS Broadcom BCM20702A0 Bluetooth                          | 4        | 1.85%   |
+| MediaTek RZ608 Bluetooth Adapter                            | 3        | 1.39%   |
+| IMC Networks Qualcomm Atheros AR9462 Bluetooth 4.0          | 3        | 1.39%   |
+| Apple Bluetooth Host Controller                             | 3        | 1.39%   |
+| Realtek Bluetooth 4.2 Adapter                               | 2        | 0.93%   |
+| Qualcomm Atheros AR3011 Bluetooth (no firmware)             | 2        | 0.93%   |
+| Lite-On Atheros AR3012 Bluetooth                            | 2        | 0.93%   |
+| Intel Centrino Bluetooth Wireless Transceiver               | 2        | 0.93%   |
+| IMC Networks Realtek Bluetooth 4.0 + High Speed Chip        | 2        | 0.93%   |
+| Foxconn / Hon Hai RZ616 Bluetooth Adapter                   | 2        | 0.93%   |
+| ASUS Qualcomm Atheros AR9462 Bluetooth 4.0 + HS Adapter     | 2        | 0.93%   |
+| ASUS Broadcom BCM20702 Single-Chip Bluetooth 4.0 + LE       | 2        | 0.93%   |
+| ASUS Bluetooth USB module                                   | 2        | 0.93%   |
+| Apple Built-in Bluetooth 2.0+EDR HCI                        | 2        | 0.93%   |
+| TP-Link Bluetooth 5.0 USB Adapter                           | 1        | 0.46%   |
+| Ralink RT3290 Bluetooth                                     | 1        | 0.46%   |
+| Qualcomm Atheros QCA61x4 Bluetooth 4.1                      | 1        | 0.46%   |
+| Qualcomm Atheros Dell Wireless 1707 Bluetooth 4.0 LE Device | 1        | 0.46%   |
+| Qualcomm Atheros AR9462 Bluetooth 3.0 + HS Adapter          | 1        | 0.46%   |
+| Qualcomm Atheros AR9462 Bluetooth                           | 1        | 0.46%   |
+| Micro Star International MS-6970 BToes Bluetooth adapter    | 1        | 0.46%   |
+| Lite-On Bluetooth USB Module                                | 1        | 0.46%   |
+| Lite-On Atheros AR9462 Bluetooth 4.0 + HS                   | 1        | 0.46%   |
+| Intel AX211 Bluetooth                                       | 1        | 0.46%   |
+| IMC Networks Realtek Bluetooth Adapter                      | 1        | 0.46%   |
+| Corsair HS70 BLUETOOTH Gaming Headset                       | 1        | 0.46%   |
+| ASUS USB-BT500                                              | 1        | 0.46%   |
+| ASUS Qualcomm Bluetooth 4.1                                 | 1        | 0.46%   |
+| Unknown                                                     | 1        | 0.46%   |
 
 Sound
 -----
@@ -3544,21 +3547,21 @@ Sound card vendors
 
 | Vendor                                       | Desktops | Percent |
 |----------------------------------------------|----------|---------|
-| Intel                                        | 514      | 38.13%  |
-| AMD                                          | 361      | 26.78%  |
-| Nvidia                                       | 311      | 23.07%  |
-| C-Media Electronics                          | 21       | 1.56%   |
-| Logitech                                     | 16       | 1.19%   |
-| Creative Labs                                | 16       | 1.19%   |
-| Texas Instruments                            | 8        | 0.59%   |
-| Realtek Semiconductor                        | 6        | 0.45%   |
-| Focusrite-Novation                           | 5        | 0.37%   |
-| BEHRINGER International                      | 5        | 0.37%   |
-| ASUSTek Computer                             | 5        | 0.37%   |
-| Kingston Technology                          | 4        | 0.3%    |
-| JMTek                                        | 4        | 0.3%    |
-| Generalplus Technology                       | 4        | 0.3%    |
-| Blue Microphones                             | 4        | 0.3%    |
+| Intel                                        | 525      | 38.21%  |
+| AMD                                          | 369      | 26.86%  |
+| Nvidia                                       | 313      | 22.78%  |
+| C-Media Electronics                          | 25       | 1.82%   |
+| Creative Labs                                | 17       | 1.24%   |
+| Logitech                                     | 16       | 1.16%   |
+| Texas Instruments                            | 8        | 0.58%   |
+| Realtek Semiconductor                        | 6        | 0.44%   |
+| Focusrite-Novation                           | 5        | 0.36%   |
+| BEHRINGER International                      | 5        | 0.36%   |
+| ASUSTek Computer                             | 5        | 0.36%   |
+| Kingston Technology                          | 4        | 0.29%   |
+| JMTek                                        | 4        | 0.29%   |
+| Generalplus Technology                       | 4        | 0.29%   |
+| Blue Microphones                             | 4        | 0.29%   |
 | Tenx Technology                              | 3        | 0.22%   |
 | SteelSeries ApS                              | 3        | 0.22%   |
 | Sony                                         | 3        | 0.22%   |
@@ -3595,46 +3598,46 @@ Sound card models
 
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
-| AMD Starship/Matisse HD Audio Controller                                   | 92       | 5.82%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 60       | 3.8%    |
-| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 54       | 3.42%   |
-| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 53       | 3.35%   |
-| AMD SBx00 Azalia (Intel HDA)                                               | 52       | 3.29%   |
-| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 50       | 3.16%   |
-| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 46       | 2.91%   |
-| Nvidia GK208 HDMI/DP Audio Controller                                      | 44       | 2.78%   |
-| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 43       | 2.72%   |
-| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 40       | 2.53%   |
-| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 40       | 2.53%   |
-| Intel 200 Series PCH HD Audio                                              | 37       | 2.34%   |
-| Intel Cannon Lake PCH cAVS                                                 | 32       | 2.03%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 31       | 1.96%   |
-| Intel NM10/ICH7 Family High Definition Audio Controller                    | 27       | 1.71%   |
-| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 25       | 1.58%   |
-| Nvidia GP108 High Definition Audio Controller                              | 24       | 1.52%   |
-| Nvidia GP107GL High Definition Audio Controller                            | 23       | 1.46%   |
-| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 23       | 1.46%   |
-| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 22       | 1.39%   |
-| Nvidia TU116 High Definition Audio Controller                              | 21       | 1.33%   |
-| Nvidia High Definition Audio Controller                                    | 20       | 1.27%   |
-| Intel C600/X79 series chipset High Definition Audio Controller             | 20       | 1.27%   |
-| AMD FCH Azalia Controller                                                  | 20       | 1.27%   |
-| Nvidia GF119 HDMI Audio Controller                                         | 17       | 1.08%   |
-| Intel C610/X99 series chipset HD Audio Controller                          | 17       | 1.08%   |
-| AMD Navi 21/23 HDMI/DP Audio Controller                                    | 17       | 1.08%   |
-| Nvidia GP104 High Definition Audio Controller                              | 16       | 1.01%   |
-| Nvidia GP106 High Definition Audio Controller                              | 15       | 0.95%   |
-| Intel 9 Series Chipset Family HD Audio Controller                          | 15       | 0.95%   |
-| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 15       | 0.95%   |
-| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 15       | 0.95%   |
-| Nvidia GK107 HDMI Audio Controller                                         | 14       | 0.89%   |
-| Intel Comet Lake PCH cAVS                                                  | 14       | 0.89%   |
-| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 14       | 0.89%   |
-| AMD Kabini HDMI/DP Audio                                                   | 14       | 0.89%   |
-| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 13       | 0.82%   |
-| Intel Smart Sound Technology (SST) Audio Controller                        | 12       | 0.76%   |
-| Intel Alder Lake-S HD Audio Controller                                     | 12       | 0.76%   |
-| Nvidia GF108 High Definition Audio Controller                              | 11       | 0.7%    |
+| AMD Starship/Matisse HD Audio Controller                                   | 94       | 5.83%   |
+| AMD Family 17h/19h HD Audio Controller                                     | 62       | 3.84%   |
+| Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 54       | 3.35%   |
+| Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 54       | 3.35%   |
+| AMD SBx00 Azalia (Intel HDA)                                               | 54       | 3.35%   |
+| AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 51       | 3.16%   |
+| Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 49       | 3.04%   |
+| Nvidia GK208 HDMI/DP Audio Controller                                      | 44       | 2.73%   |
+| Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 43       | 2.67%   |
+| Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 42       | 2.6%    |
+| AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 41       | 2.54%   |
+| Intel 200 Series PCH HD Audio                                              | 40       | 2.48%   |
+| Intel Cannon Lake PCH cAVS                                                 | 32       | 1.98%   |
+| AMD Renoir Radeon High Definition Audio Controller                         | 32       | 1.98%   |
+| Intel NM10/ICH7 Family High Definition Audio Controller                    | 27       | 1.67%   |
+| Intel 82801JI (ICH10 Family) HD Audio Controller                           | 25       | 1.55%   |
+| Nvidia GP108 High Definition Audio Controller                              | 24       | 1.49%   |
+| AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 24       | 1.49%   |
+| Nvidia GP107GL High Definition Audio Controller                            | 23       | 1.43%   |
+| AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 22       | 1.36%   |
+| Nvidia TU116 High Definition Audio Controller                              | 21       | 1.3%    |
+| Nvidia High Definition Audio Controller                                    | 20       | 1.24%   |
+| Intel C600/X79 series chipset High Definition Audio Controller             | 20       | 1.24%   |
+| AMD FCH Azalia Controller                                                  | 20       | 1.24%   |
+| AMD Navi 21/23 HDMI/DP Audio Controller                                    | 19       | 1.18%   |
+| Nvidia GF119 HDMI Audio Controller                                         | 17       | 1.05%   |
+| Intel C610/X99 series chipset HD Audio Controller                          | 17       | 1.05%   |
+| Nvidia GP106 High Definition Audio Controller                              | 16       | 0.99%   |
+| Nvidia GP104 High Definition Audio Controller                              | 16       | 0.99%   |
+| Intel 9 Series Chipset Family HD Audio Controller                          | 16       | 0.99%   |
+| AMD RV710/730 HDMI Audio [Radeon HD 4000 series]                           | 15       | 0.93%   |
+| AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 15       | 0.93%   |
+| Nvidia GK107 HDMI Audio Controller                                         | 14       | 0.87%   |
+| Intel Comet Lake PCH cAVS                                                  | 14       | 0.87%   |
+| Intel 5 Series/3400 Series Chipset High Definition Audio                   | 14       | 0.87%   |
+| AMD Kabini HDMI/DP Audio                                                   | 14       | 0.87%   |
+| Nvidia GM107 High Definition Audio Controller [GeForce 940MX]              | 13       | 0.81%   |
+| Intel Smart Sound Technology (SST) Audio Controller                        | 13       | 0.81%   |
+| Intel Alder Lake-S HD Audio Controller                                     | 12       | 0.74%   |
+| Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 11       | 0.68%   |
 
 Memory
 ------
@@ -3649,46 +3652,46 @@ Memory module vendors
 
 | Vendor                       | Desktops | Percent |
 |------------------------------|----------|---------|
-| Kingston                     | 191      | 16.83%  |
-| Unknown                      | 174      | 15.33%  |
-| Corsair                      | 141      | 12.42%  |
-| Samsung Electronics          | 109      | 9.6%    |
-| SK hynix                     | 107      | 9.43%   |
-| Crucial                      | 85       | 7.49%   |
-| G.Skill                      | 75       | 6.61%   |
-| Micron Technology            | 74       | 6.52%   |
-| A-DATA Technology            | 24       | 2.11%   |
-| Unknown                      | 16       | 1.41%   |
-| Patriot                      | 11       | 0.97%   |
-| Team                         | 10       | 0.88%   |
-| Ramaxel Technology           | 10       | 0.88%   |
-| Hewlett-Packard              | 10       | 0.88%   |
-| Goodram                      | 10       | 0.88%   |
-| Transcend                    | 9        | 0.79%   |
-| Nanya Technology             | 9        | 0.79%   |
-| Patriot Memory (PDP Systems) | 7        | 0.62%   |
+| Kingston                     | 194      | 16.77%  |
+| Unknown                      | 176      | 15.21%  |
+| Corsair                      | 142      | 12.27%  |
+| Samsung Electronics          | 113      | 9.77%   |
+| SK hynix                     | 109      | 9.42%   |
+| Crucial                      | 88       | 7.61%   |
+| G.Skill                      | 77       | 6.66%   |
+| Micron Technology            | 76       | 6.57%   |
+| A-DATA Technology            | 24       | 2.07%   |
+| Unknown                      | 16       | 1.38%   |
+| Patriot                      | 12       | 1.04%   |
+| Team                         | 10       | 0.86%   |
+| Ramaxel Technology           | 10       | 0.86%   |
+| Hewlett-Packard              | 10       | 0.86%   |
+| GOODRAM                      | 10       | 0.86%   |
+| Transcend                    | 9        | 0.78%   |
+| Nanya Technology             | 9        | 0.78%   |
+| Patriot Memory (PDP Systems) | 7        | 0.61%   |
 | AMD                          | 4        | 0.35%   |
 | Unknown (ABCD)               | 3        | 0.26%   |
 | Super Talent                 | 3        | 0.26%   |
 | Qimonda                      | 3        | 0.26%   |
+| Kingmax                      | 3        | 0.26%   |
 | Avant                        | 3        | 0.26%   |
 | Apacer                       | 3        | 0.26%   |
-| Tigo                         | 2        | 0.18%   |
-| Silicon Power                | 2        | 0.18%   |
-| PNY                          | 2        | 0.18%   |
-| Kingmax                      | 2        | 0.18%   |
-| HPE                          | 2        | 0.18%   |
-| Goldkey                      | 2        | 0.18%   |
-| Golden Empire                | 2        | 0.18%   |
-| GeIL                         | 2        | 0.18%   |
-| Elpida                       | 2        | 0.18%   |
-| ASint Technology             | 2        | 0.18%   |
+| Tigo                         | 2        | 0.17%   |
+| Silicon Power                | 2        | 0.17%   |
+| PNY                          | 2        | 0.17%   |
+| Lexar Co Limited             | 2        | 0.17%   |
+| HPE                          | 2        | 0.17%   |
+| Goldkey                      | 2        | 0.17%   |
+| Golden Empire                | 2        | 0.17%   |
+| GeIL                         | 2        | 0.17%   |
+| Elpida                       | 2        | 0.17%   |
+| ASint Technology             | 2        | 0.17%   |
 | V-GeN                        | 1        | 0.09%   |
 | V-Color                      | 1        | 0.09%   |
 | Unknown (AB)                 | 1        | 0.09%   |
 | Unknown (8A5D)               | 1        | 0.09%   |
 | Unknown (0x05F7)             | 1        | 0.09%   |
-| TIMETEC                      | 1        | 0.09%   |
 
 Memory Model
 ------------
@@ -3700,36 +3703,37 @@ Memory module models
 
 | Model                                                  | Desktops | Percent |
 |--------------------------------------------------------|----------|---------|
-| Unknown                                                | 16       | 1.29%   |
-| Unknown RAM Module 4GB DIMM 1333MT/s                   | 13       | 1.05%   |
-| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 13       | 1.05%   |
-| Unknown RAM Module 2GB DIMM DDR2 800MT/s               | 10       | 0.81%   |
-| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s  | 8        | 0.64%   |
-| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s  | 8        | 0.64%   |
-| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 7        | 0.56%   |
-| Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3200MT/s   | 7        | 0.56%   |
-| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 7        | 0.56%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                   | 6        | 0.48%   |
-| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s           | 6        | 0.48%   |
-| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 6        | 0.48%   |
-| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s    | 6        | 0.48%   |
-| Unknown RAM Module 512MB DIMM SDRAM                    | 5        | 0.4%    |
-| Unknown RAM Module 2GB DIMM SDRAM                      | 5        | 0.4%    |
-| Unknown RAM Module 2GB DIMM 1333MT/s                   | 5        | 0.4%    |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 5        | 0.4%    |
-| Unknown RAM Module 1GB DIMM SDRAM                      | 5        | 0.4%    |
-| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s   | 5        | 0.4%    |
-| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s   | 5        | 0.4%    |
-| Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 2666MT/s   | 5        | 0.4%    |
-| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 5        | 0.4%    |
-| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s   | 5        | 0.4%    |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s  | 5        | 0.4%    |
-| Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 5        | 0.4%    |
-| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 5        | 0.4%    |
+| Unknown                                                | 16       | 1.26%   |
+| Unknown RAM Module 4GB DIMM 1333MT/s                   | 13       | 1.03%   |
+| Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 13       | 1.03%   |
+| Unknown RAM Module 2GB DIMM DDR2 800MT/s               | 10       | 0.79%   |
+| Crucial RAM CT102464BA160B.C16 8GB DIMM DDR3 1600MT/s  | 8        | 0.63%   |
+| Corsair RAM CMK16GX4M2E3200C16 8GB DIMM DDR4 3200MT/s  | 8        | 0.63%   |
+| Unknown RAM Module 8GB DIMM DDR3 1600MT/s              | 7        | 0.55%   |
+| Samsung RAM M391A2K43BB1-CTD 16GB DIMM DDR4 3200MT/s   | 7        | 0.55%   |
+| Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 7        | 0.55%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                   | 6        | 0.47%   |
+| Unknown RAM Module 8192MB DIMM DDR3 1600MT/s           | 6        | 0.47%   |
+| Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s    | 6        | 0.47%   |
+| Kingston RAM KHX1866C10D3/8G 8GB DIMM DDR3 1867MT/s    | 6        | 0.47%   |
+| Kingston RAM KF3200C16D4/16GX 16GB DIMM DDR4 3200MT/s  | 6        | 0.47%   |
+| Unknown RAM Module 512MB DIMM SDRAM                    | 5        | 0.39%   |
+| Unknown RAM Module 2GB DIMM SDRAM                      | 5        | 0.39%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                   | 5        | 0.39%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 5        | 0.39%   |
+| Unknown RAM Module 1GB DIMM SDRAM                      | 5        | 0.39%   |
+| SK hynix RAM HMT451U6BFR8C-PB 4GB DIMM DDR3 1600MT/s   | 5        | 0.39%   |
+| SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s   | 5        | 0.39%   |
+| Samsung RAM M378A4G43MB1-CTD 32GB DIMM DDR4 2666MT/s   | 5        | 0.39%   |
+| G.Skill RAM F4-3200C16-16GVK 16GB DIMM DDR4 3200MT/s   | 5        | 0.39%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s  | 5        | 0.39%   |
+| Corsair RAM CMK32GX4M2D3600C18 16GB DIMM DDR4 3600MT/s | 5        | 0.39%   |
+| Corsair RAM CMK16GX4M2B3000C15 8GB DIMM DDR4 3000MT/s  | 5        | 0.39%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s            | 4        | 0.32%   |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                | 4        | 0.32%   |
 | SK hynix RAM HMT451U6BFR8A-PB 4GB DIMM DDR3 1600MT/s   | 4        | 0.32%   |
 | SK hynix RAM HMA81GU6JJR8N-VK 8GB DIMM DDR4 2667MT/s   | 4        | 0.32%   |
+| Micron RAM 8JTF51264AZ-1G6E1 4GB DIMM DDR3 1600MT/s    | 4        | 0.32%   |
 | Micron RAM 8ATF1G64AZ-3G2J1 8GB DIMM DDR4 3200MT/s     | 4        | 0.32%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s   | 4        | 0.32%   |
 | Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s | 4        | 0.32%   |
@@ -3739,7 +3743,6 @@ Memory module models
 | Kingston RAM 99U5458-005.A01LF 4GB DIMM DDR3 1333MT/s  | 4        | 0.32%   |
 | Kingston RAM 9965745-002.A00G 16GB DIMM DDR4 3000MT/s  | 4        | 0.32%   |
 | G.Skill RAM F4-3200C16-32GVK 32GB DIMM DDR4 3200MT/s   | 4        | 0.32%   |
-| Corsair RAM CMV4GX3M1A1333C9 4GB DIMM DDR3 1333MT/s    | 4        | 0.32%   |
 
 Memory Kind
 -----------
@@ -3751,15 +3754,15 @@ Memory module kinds
 
 | Kind         | Desktops | Percent |
 |--------------|----------|---------|
-| DDR4         | 460      | 45.45%  |
-| DDR3         | 377      | 37.25%  |
-| Unknown      | 55       | 5.43%   |
-| DDR2         | 53       | 5.24%   |
-| SDRAM        | 31       | 3.06%   |
-| DDR          | 16       | 1.58%   |
-| DDR5         | 12       | 1.19%   |
-| LPDDR4       | 4        | 0.4%    |
-| DRAM         | 2        | 0.2%    |
+| DDR4         | 472      | 45.83%  |
+| DDR3         | 382      | 37.09%  |
+| Unknown      | 56       | 5.44%   |
+| DDR2         | 53       | 5.15%   |
+| SDRAM        | 31       | 3.01%   |
+| DDR          | 16       | 1.55%   |
+| DDR5         | 12       | 1.17%   |
+| LPDDR4       | 4        | 0.39%   |
+| DRAM         | 2        | 0.19%   |
 | LPDDR3       | 1        | 0.1%    |
 | DDR2 FB-DIMM | 1        | 0.1%    |
 
@@ -3773,9 +3776,9 @@ Physical design of the memory module
 
 | Name         | Desktops | Percent |
 |--------------|----------|---------|
-| DIMM         | 903      | 89.76%  |
-| SODIMM       | 93       | 9.24%   |
-| RIMM         | 7        | 0.7%    |
+| DIMM         | 914      | 89.26%  |
+| SODIMM       | 100      | 9.77%   |
+| RIMM         | 7        | 0.68%   |
 | Row Of Chips | 2        | 0.2%    |
 | FB-DIMM      | 1        | 0.1%    |
 
@@ -3789,13 +3792,13 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 387      | 35.21%  |
-| 4096  | 249      | 22.66%  |
-| 16384 | 206      | 18.74%  |
-| 2048  | 129      | 11.74%  |
-| 32768 | 69       | 6.28%   |
-| 1024  | 40       | 3.64%   |
-| 512   | 13       | 1.18%   |
+| 8192  | 393      | 35.15%  |
+| 4096  | 254      | 22.72%  |
+| 16384 | 209      | 18.69%  |
+| 2048  | 131      | 11.72%  |
+| 32768 | 72       | 6.44%   |
+| 1024  | 40       | 3.58%   |
+| 512   | 13       | 1.16%   |
 | 128   | 2        | 0.18%   |
 | 256   | 1        | 0.09%   |
 | 64    | 1        | 0.09%   |
@@ -3812,34 +3815,34 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 215      | 20.09%  |
-| 1333    | 156      | 14.58%  |
-| 3200    | 138      | 12.9%   |
-| 2400    | 97       | 9.07%   |
-| 2133    | 90       | 8.41%   |
-| 2667    | 61       | 5.7%    |
-| 800     | 58       | 5.42%   |
-| 2666    | 34       | 3.18%   |
-| 667     | 29       | 2.71%   |
-| Unknown | 26       | 2.43%   |
-| 3000    | 23       | 2.15%   |
-| 3600    | 21       | 1.96%   |
-| 2933    | 18       | 1.68%   |
-| 1066    | 14       | 1.31%   |
-| 1866    | 13       | 1.21%   |
-| 533     | 10       | 0.93%   |
-| 4800    | 9        | 0.84%   |
-| 1867    | 9        | 0.84%   |
-| 400     | 8        | 0.75%   |
-| 1067    | 7        | 0.65%   |
+| 1600    | 219      | 20.09%  |
+| 1333    | 157      | 14.4%   |
+| 3200    | 147      | 13.49%  |
+| 2400    | 103      | 9.45%   |
+| 2133    | 88       | 8.07%   |
+| 2667    | 62       | 5.69%   |
+| 800     | 59       | 5.41%   |
+| 2666    | 34       | 3.12%   |
+| 667     | 29       | 2.66%   |
+| Unknown | 26       | 2.39%   |
+| 3000    | 23       | 2.11%   |
+| 3600    | 21       | 1.93%   |
+| 2933    | 18       | 1.65%   |
+| 1066    | 14       | 1.28%   |
+| 1866    | 13       | 1.19%   |
+| 533     | 10       | 0.92%   |
+| 4800    | 9        | 0.83%   |
+| 1867    | 9        | 0.83%   |
+| 400     | 8        | 0.73%   |
+| 1067    | 7        | 0.64%   |
 | 3400    | 4        | 0.37%   |
 | 1334    | 4        | 0.37%   |
 | 4000    | 3        | 0.28%   |
-| 5200    | 2        | 0.19%   |
-| 3534    | 2        | 0.19%   |
-| 2048    | 2        | 0.19%   |
-| 1332    | 2        | 0.19%   |
-| 333     | 2        | 0.19%   |
+| 5200    | 2        | 0.18%   |
+| 3534    | 2        | 0.18%   |
+| 2048    | 2        | 0.18%   |
+| 1332    | 2        | 0.18%   |
+| 333     | 2        | 0.18%   |
 | 65535   | 1        | 0.09%   |
 | 6400    | 1        | 0.09%   |
 | 5600    | 1        | 0.09%   |
@@ -3972,11 +3975,11 @@ Camera device models
 | Logitech Webcam C270                           | 11       | 16.67%  |
 | Logitech HD Pro Webcam C920                    | 4        | 6.06%   |
 | Logitech C920 PRO HD Webcam                    | 4        | 6.06%   |
-| Microdia USB 2.0 Camera                        | 3        | 4.55%   |
 | Logitech C922 Pro Stream Webcam                | 3        | 4.55%   |
 | WCM_USB WEB CAM                                | 2        | 3.03%   |
 | SHENZHEN EMEET TECHNOLOGY HD Webcam eMeet C960 | 2        | 3.03%   |
 | Microdia Webcam Vitade AF                      | 2        | 3.03%   |
+| Microdia USB 2.0 Camera                        | 2        | 3.03%   |
 | Microdia HP Integrated Webcam                  | 2        | 3.03%   |
 | Logitech Webcam C310                           | 2        | 3.03%   |
 | Logitech Labtec Webcam Pro                     | 2        | 3.03%   |
@@ -3993,6 +3996,7 @@ Camera device models
 | Realtek USB Video Device                       | 1        | 1.52%   |
 | OmniVision Monitor Webcam                      | 1        | 1.52%   |
 | Nam Tai E&E Products Sony Playstation Eye      | 1        | 1.52%   |
+| Microdia REDRAGON  Live Camera                 | 1        | 1.52%   |
 | Microdia Lenovo EasyCamera                     | 1        | 1.52%   |
 | Microdia JOYACCESS JA-Webcam                   | 1        | 1.52%   |
 | Microdia Camera                                | 1        | 1.52%   |
@@ -4063,11 +4067,11 @@ Total unsupported devices on board
 
 | Total | Desktops | Percent |
 |-------|----------|---------|
-| 1     | 458      | 40.86%  |
-| 0     | 457      | 40.77%  |
-| 2     | 162      | 14.45%  |
-| 3     | 35       | 3.12%   |
-| 4     | 7        | 0.62%   |
+| 1     | 468      | 40.98%  |
+| 0     | 463      | 40.54%  |
+| 2     | 165      | 14.45%  |
+| 3     | 37       | 3.24%   |
+| 4     | 7        | 0.61%   |
 | 6     | 2        | 0.18%   |
 
 Unsupported Device Types
@@ -4080,15 +4084,15 @@ Types of unsupported devices
 
 | Type                     | Desktops | Percent |
 |--------------------------|----------|---------|
-| Communication controller | 498      | 59.93%  |
-| Net/wireless             | 101      | 12.15%  |
-| Bluetooth                | 74       | 8.9%    |
-| Firewire controller      | 65       | 7.82%   |
-| Net/ethernet             | 26       | 3.13%   |
-| Sound                    | 24       | 2.89%   |
-| Network                  | 19       | 2.29%   |
-| Card reader              | 16       | 1.93%   |
-| Dvb card                 | 4        | 0.48%   |
+| Communication controller | 510      | 60%     |
+| Net/wireless             | 105      | 12.35%  |
+| Bluetooth                | 75       | 8.82%   |
+| Firewire controller      | 66       | 7.76%   |
+| Net/ethernet             | 26       | 3.06%   |
+| Sound                    | 24       | 2.82%   |
+| Network                  | 20       | 2.35%   |
+| Card reader              | 16       | 1.88%   |
+| Dvb card                 | 4        | 0.47%   |
 | Storage/raid             | 2        | 0.24%   |
 | Fingerprint reader       | 2        | 0.24%   |
 

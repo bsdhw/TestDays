@@ -475,10 +475,10 @@ Motherboard manufacture year
 | 2013 | 6        | 9.84%   |
 | 2010 | 6        | 9.84%   |
 | 2018 | 5        | 8.2%    |
-| 2016 | 5        | 8.2%    |
+| 2015 | 5        | 8.2%    |
 | 2012 | 5        | 8.2%    |
 | 2020 | 4        | 6.56%   |
-| 2015 | 4        | 6.56%   |
+| 2016 | 4        | 6.56%   |
 | 2011 | 4        | 6.56%   |
 | 2017 | 3        | 4.92%   |
 | 2014 | 3        | 4.92%   |
@@ -871,8 +871,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 47       | 74     | 55.95%  |
-| 0.51-1.0   | 23       | 27     | 27.38%  |
+| 0.01-0.5   | 48       | 75     | 57.14%  |
+| 0.51-1.0   | 22       | 26     | 26.19%  |
 | 1.01-2.0   | 6        | 7      | 7.14%   |
 | 2.01-3.0   | 4        | 6      | 4.76%   |
 | 3.01-4.0   | 3        | 3      | 3.57%   |
@@ -1056,7 +1056,7 @@ Storage controller models
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 3        | 3.19%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 3        | 3.19%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 3        | 3.19%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 3        | 3.19%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 3        | 3.19%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 3        | 3.19%   |
 | SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 2        | 2.13%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.13%   |
@@ -1633,7 +1633,7 @@ Controller models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 31       | 34.83%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 31       | 34.83%  |
 | Intel I211 Gigabit Network Connection                                          | 6        | 6.74%   |
 | Intel Ethernet Connection (7) I219-V                                           | 3        | 3.37%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 3        | 3.37%   |
@@ -1755,7 +1755,7 @@ Ethernet models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 31       | 50%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 31       | 50%     |
 | Intel I211 Gigabit Network Connection                                          | 6        | 9.68%   |
 | Intel Ethernet Connection (7) I219-V                                           | 3        | 4.84%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 3        | 4.84%   |
@@ -1774,7 +1774,7 @@ Ethernet models
 | Broadcom NetXtreme II BCM5708 Gigabit Ethernet                                 | 1        | 1.61%   |
 | Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 1        | 1.61%   |
 | Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                  | 1        | 1.61%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]              | 1        | 1.61%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 1.61%   |
 
 Net Controller Kind
 -------------------
@@ -1989,7 +1989,7 @@ Memory module models
 | Model                                                   | Desktops | Percent |
 |---------------------------------------------------------|----------|---------|
 | Unknown                                                 | 3        | 4.11%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s     | 2        | 2.74%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2        | 2.74%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.74%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |

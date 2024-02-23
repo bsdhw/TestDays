@@ -748,7 +748,7 @@ Storage controller models
 | Intel 7 Series/C210 Series Chipset Family 2-port SATA Controller [IDE mode]             | 1        | 6.67%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 1        | 6.67%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 1        | 6.67%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 1        | 6.67%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 1        | 6.67%   |
 | AMD 500 Series Chipset SATA Controller                                                  | 1        | 6.67%   |
 
 Storage Kind
@@ -1091,15 +1091,15 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 22.22%  |
-| Intel Ethernet Connection I217-LM                                 | 2        | 22.22%  |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1        | 11.11%  |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                  | 1        | 11.11%  |
-| Intel I210 Gigabit Network Connection                             | 1        | 11.11%  |
-| Intel Ethernet Controller I225-V                                  | 1        | 11.11%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 11.11%  |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2        | 22.22%  |
+| Intel Ethernet Connection I217-LM                                      | 2        | 22.22%  |
+| Samsung Galaxy series, misc. (tethering mode)                          | 1        | 11.11%  |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                       | 1        | 11.11%  |
+| Intel I210 Gigabit Network Connection                                  | 1        | 11.11%  |
+| Intel Ethernet Controller I225-V                                       | 1        | 11.11%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 11.11%  |
 
 Wireless Vendor
 ---------------
@@ -1147,14 +1147,14 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 25%     |
-| Intel Ethernet Connection I217-LM                                 | 2        | 25%     |
-| Samsung Galaxy series, misc. (tethering mode)                     | 1        | 12.5%   |
-| Intel I210 Gigabit Network Connection                             | 1        | 12.5%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 12.5%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 12.5%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2        | 25%     |
+| Intel Ethernet Connection I217-LM                                      | 2        | 25%     |
+| Samsung Galaxy series, misc. (tethering mode)                          | 1        | 12.5%   |
+| Intel I210 Gigabit Network Connection                                  | 1        | 12.5%   |
+| Intel Ethernet Controller I225-V                                       | 1        | 12.5%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 12.5%   |
 
 Net Controller Kind
 -------------------
@@ -1313,7 +1313,7 @@ Memory module models
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
 | Transcend RAM JM1333KLH-8G 8GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s | 1        | 12.5%   |
-| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3 1600MT/s   | 1        | 12.5%   |
+| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3            | 1        | 12.5%   |
 | Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 3600MT/s   | 1        | 12.5%   |
 | Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s | 1        | 12.5%   |
 | Corsair RAM CMY16GX3M2A2133C11 8GB DIMM DDR3 1866MT/s | 1        | 12.5%   |

@@ -1150,48 +1150,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart_bsd/storage_model.svg)
 
 
-| Model                                                                          | Notebooks | Percent |
-|--------------------------------------------------------------------------------|-----------|---------|
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 12        | 10.71%  |
-| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 9         | 8.04%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 7         | 6.25%   |
-| AMD FCH SATA Controller [AHCI mode]                                            | 7         | 6.25%   |
-| Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 5         | 4.46%   |
-| Intel Comet Lake SATA AHCI Controller                                          | 5         | 4.46%   |
-| Intel 400 Series Chipset Family SATA AHCI Controller                           | 5         | 4.46%   |
-| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 4         | 3.57%   |
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                             | 3         | 2.68%   |
-| Toshiba XG6 NVMe SSD Controller                                                | 2         | 1.79%   |
-| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                 | 2         | 1.79%   |
-| SK hynix BC511 NVMe SSD                                                        | 2         | 1.79%   |
-| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2         | 1.79%   |
-| Shenzhen Longsys Lexar NM620 NVME SSD (DRAM-less)                              | 2         | 1.79%   |
-| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                     | 2         | 1.79%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 2         | 1.79%   |
-| Intel Tiger Lake SATA AHCI Controller                                          | 2         | 1.79%   |
-| Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 2         | 1.79%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 2         | 1.79%   |
-| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                | 2         | 1.79%   |
-| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                | 2         | 1.79%   |
-| Toshiba XG5 NVMe SSD Controller                                                | 1         | 0.89%   |
-| Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.89%   |
-| SK hynix PC300 NVMe Solid State Drive 512GB                                    | 1         | 0.89%   |
-| Shenzhen Unionmemory Information System AM630 PCIe 4.0 NVMe SSD 1024GB         | 1         | 0.89%   |
-| SanDisk PC SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.89%   |
-| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1         | 0.89%   |
-| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 0.89%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1         | 0.89%   |
-| Micron/Crucial P5 Plus NVMe PCIe SSD                                           | 1         | 0.89%   |
-| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 1         | 0.89%   |
-| Micron 2300 NVMe SSD [Santana]                                                 | 1         | 0.89%   |
-| Micron 2210 NVMe SSD [Cobain]                                                  | 1         | 0.89%   |
-| Micron 2200S NVMe SSD [Cassandra]                                              | 1         | 0.89%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                   | 1         | 0.89%   |
-| KIOXIA NVMe SSD Controller BG5 (DRAM-less)                                     | 1         | 0.89%   |
-| Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                  | 1         | 0.89%   |
-| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                 | 1         | 0.89%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                             | 1         | 0.89%   |
-| Intel Volume Management Device NVMe RAID Controller                            | 1         | 0.89%   |
+| Model                                                                                                              | Notebooks | Percent |
+|--------------------------------------------------------------------------------------------------------------------|-----------|---------|
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                                                      | 12        | 10.71%  |
+| SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                                               | 9         | 8.04%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                                                   | 7         | 6.25%   |
+| AMD FCH SATA Controller [AHCI mode]                                                                                | 7         | 6.25%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                                                        | 5         | 4.46%   |
+| Intel Comet Lake SATA AHCI Controller                                                                              | 5         | 4.46%   |
+| Intel 400 Series Chipset Family SATA AHCI Controller                                                               | 5         | 4.46%   |
+| KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                                                         | 4         | 3.57%   |
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                                                 | 3         | 2.68%   |
+| Toshiba XG6 NVMe SSD Controller                                                                                    | 2         | 1.79%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                                                     | 2         | 1.79%   |
+| SK hynix BC511 NVMe SSD                                                                                            | 2         | 1.79%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                                                  | 2         | 1.79%   |
+| Shenzhen Longsys FORESEE XP1000 / Lexar Professional CFexpress Type B Gold series, NM620 PCIe NVME SSD (DRAM-less) | 2         | 1.79%   |
+| SanDisk WD PC SN810 / Black SN850 NVMe SSD                                                                         | 2         | 1.79%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                                                     | 2         | 1.79%   |
+| Intel Tiger Lake SATA AHCI Controller                                                                              | 2         | 1.79%   |
+| Intel Cannon Lake Mobile PCH SATA AHCI Controller                                                                  | 2         | 1.79%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]                                     | 2         | 1.79%   |
+| Intel 7 Series Chipset Family 4-port SATA Controller [IDE mode]                                                    | 2         | 1.79%   |
+| Intel 7 Series Chipset Family 2-port SATA Controller [IDE mode]                                                    | 2         | 1.79%   |
+| Toshiba XG5 NVMe SSD Controller                                                                                    | 1         | 0.89%   |
+| Toshiba XG4 NVMe SSD Controller                                                                                    | 1         | 0.89%   |
+| SK hynix PC300 NVMe Solid State Drive 512GB                                                                        | 1         | 0.89%   |
+| Shenzhen Unionmemory Information System AM630 PCIe 4.0 NVMe SSD 1024GB                                             | 1         | 0.89%   |
+| SanDisk PC SN530 NVMe SSD (DRAM-less)                                                                              | 1         | 0.89%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                                                        | 1         | 0.89%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                                                         | 1         | 0.89%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                                                      | 1         | 0.89%   |
+| Micron/Crucial P5 Plus NVMe PCIe SSD                                                                               | 1         | 0.89%   |
+| Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                                               | 1         | 0.89%   |
+| Micron 2300 NVMe SSD [Santana]                                                                                     | 1         | 0.89%   |
+| Micron 2210 NVMe SSD [Cobain]                                                                                      | 1         | 0.89%   |
+| Micron 2200S NVMe SSD [Cassandra]                                                                                  | 1         | 0.89%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 (DRAM-less)                                                           | 1         | 0.89%   |
+| KIOXIA NVMe SSD Controller BG5 (DRAM-less)                                                                         | 1         | 0.89%   |
+| Kingston Company OM8PCP Design-In PCIe 3 NVMe SSD (DRAM-less)                                                      | 1         | 0.89%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                                                     | 1         | 0.89%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                                                 | 1         | 0.89%   |
+| Intel Volume Management Device NVMe RAID Controller                                                                | 1         | 0.89%   |
 
 Storage Kind
 ------------
@@ -1748,15 +1748,15 @@ Controller models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller          | 29        | 17.79%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller     | 29        | 17.79%  |
 | Intel Wi-Fi 6 AX200                                                        | 7         | 4.29%   |
-| Intel Wireless-AC 9260                                                     | 6         | 3.68%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 6         | 3.68%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 3.68%   |
 | Intel Comet Lake PCH CNVi WiFi                                             | 6         | 3.68%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 3.68%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 3.68%   |
 | Intel Wireless 8265 / 8275                                                 | 5         | 3.07%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 5         | 3.07%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                  | 5         | 3.07%   |
 | Intel Wi-Fi 6 AX201                                                        | 5         | 3.07%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 2.45%   |
 | HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                    | 4         | 2.45%   |
@@ -1821,12 +1821,12 @@ Wireless models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Intel Wi-Fi 6 AX200                                                        | 7         | 7.45%   |
-| Intel Wireless-AC 9260                                                     | 6         | 6.38%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 6         | 6.38%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 6.38%   |
 | Intel Comet Lake PCH CNVi WiFi                                             | 6         | 6.38%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 6.38%   |
 | Intel Wireless 8265 / 8275                                                 | 5         | 5.32%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                     | 5         | 5.32%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                  | 5         | 5.32%   |
 | Intel Wi-Fi 6 AX201                                                        | 5         | 5.32%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 4.26%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 3         | 3.19%   |
@@ -1887,33 +1887,33 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 29        | 46.03%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6         | 9.52%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.76%   |
-| Intel Ethernet Connection (4) I219-LM                             | 3         | 4.76%   |
-| Intel Ethernet Connection (10) I219-V                             | 2         | 3.17%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1         | 1.59%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 1.59%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 1.59%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.59%   |
-| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                  | 1         | 1.59%   |
-| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 1.59%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (5) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (16) I219-LM                            | 1         | 1.59%   |
-| Intel Ethernet Connection (14) I219-LM                            | 1         | 1.59%   |
-| Intel Ethernet Connection (13) I219-V                             | 1         | 1.59%   |
-| Intel Ethernet Connection (11) I219-LM                            | 1         | 1.59%   |
-| Huawei USB Device                                                 | 1         | 1.59%   |
-| Google Nexus/Pixel Device (charging + debug)                      | 1         | 1.59%   |
-| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                 | 1         | 1.59%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 29        | 46.03%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 6         | 9.52%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3         | 4.76%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 3         | 4.76%   |
+| Intel Ethernet Connection (10) I219-V                                  | 2         | 3.17%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1         | 1.59%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1         | 1.59%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1         | 1.59%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 1.59%   |
+| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                       | 1         | 1.59%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller                    | 1         | 1.59%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (5) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (16) I219-LM                                 | 1         | 1.59%   |
+| Intel Ethernet Connection (14) I219-LM                                 | 1         | 1.59%   |
+| Intel Ethernet Connection (13) I219-V                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (11) I219-LM                                 | 1         | 1.59%   |
+| Huawei USB Device                                                      | 1         | 1.59%   |
+| Google Nexus/Pixel Device (charging + debug)                           | 1         | 1.59%   |
+| Broadcom NetXtreme BCM57786 Gigabit Ethernet PCIe                      | 1         | 1.59%   |
 
 Net Controller Kind
 -------------------
@@ -2375,12 +2375,12 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Synaptics                  | 11        | 42.31%  |
-| Validity Sensors           | 5         | 19.23%  |
-| Shenzhen Goodix Technology | 5         | 19.23%  |
-| FocalTech Systems          | 3         | 11.54%  |
-| Elan Microelectronics      | 1         | 3.85%   |
-| AuthenTec                  | 1         | 3.85%   |
+| Synaptics                  | 11        | 40.74%  |
+| Validity Sensors           | 5         | 18.52%  |
+| Shenzhen Goodix Technology | 5         | 18.52%  |
+| FocalTech Systems          | 3         | 11.11%  |
+| Elan Microelectronics      | 2         | 7.41%   |
+| AuthenTec                  | 1         | 3.7%    |
 
 Fingerprint Model
 -----------------
@@ -2392,18 +2392,18 @@ Fingerprint sensor models
 
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Synaptics Prometheus MIS Touch Fingerprint Reader                          | 7         | 26.92%  |
-| Shenzhen Goodix Fingerprint Reader                                         | 4         | 15.38%  |
-| Validity Sensors VFS 5011 fingerprint sensor                               | 2         | 7.69%   |
-| Validity Sensors Synaptics WBDI                                            | 2         | 7.69%   |
-| Synaptics Metallica MIS Touch Fingerprint Reader                           | 2         | 7.69%   |
-| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint                   | 2         | 7.69%   |
-| FocalTech Systems Fingerprint Reader                                       | 2         | 7.69%   |
-| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 3.85%   |
-| Shenzhen Goodix Fingerprint Reader SGX                                     | 1         | 3.85%   |
-| FocalTech Systems FocalTech Fingerprint Device                             | 1         | 3.85%   |
-| Elan Fingerprint Sensor                                                    | 1         | 3.85%   |
-| AuthenTec AES2810                                                          | 1         | 3.85%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                          | 7         | 25.93%  |
+| Shenzhen Goodix Fingerprint Reader                                         | 4         | 14.81%  |
+| Validity Sensors VFS 5011 fingerprint sensor                               | 2         | 7.41%   |
+| Validity Sensors Synaptics WBDI                                            | 2         | 7.41%   |
+| Synaptics Metallica MIS Touch Fingerprint Reader                           | 2         | 7.41%   |
+| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint                   | 2         | 7.41%   |
+| FocalTech Systems Fingerprint Reader                                       | 2         | 7.41%   |
+| Elan Fingerprint Sensor                                                    | 2         | 7.41%   |
+| Validity Sensors Synaptics VFS7552 Touch Fingerprint Sensor with PurePrint | 1         | 3.7%    |
+| Shenzhen Goodix Fingerprint Reader SGX                                     | 1         | 3.7%    |
+| FocalTech Systems FocalTech Fingerprint Device                             | 1         | 3.7%    |
+| AuthenTec AES2810                                                          | 1         | 3.7%    |
 
 Chipcard Vendor
 ---------------
@@ -2434,9 +2434,9 @@ Total unsupported devices on board
 |-------|-----------|---------|
 | 2     | 31        | 37.8%   |
 | 1     | 15        | 18.29%  |
-| 4     | 14        | 17.07%  |
 | 3     | 14        | 17.07%  |
-| 5     | 4         | 4.88%   |
+| 4     | 13        | 15.85%  |
+| 5     | 5         | 6.1%    |
 | 0     | 3         | 3.66%   |
 | 9     | 1         | 1.22%   |
 
@@ -2450,14 +2450,14 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 59        | 35.33%  |
-| Bluetooth                | 35        | 20.96%  |
-| Net/wireless             | 27        | 16.17%  |
-| Fingerprint reader       | 25        | 14.97%  |
-| Card reader              | 12        | 7.19%   |
-| Firewire controller      | 3         | 1.8%    |
-| Sound                    | 2         | 1.2%    |
-| Net/ethernet             | 2         | 1.2%    |
+| Communication controller | 59        | 35.12%  |
+| Bluetooth                | 35        | 20.83%  |
+| Net/wireless             | 27        | 16.07%  |
+| Fingerprint reader       | 26        | 15.48%  |
+| Card reader              | 12        | 7.14%   |
+| Firewire controller      | 3         | 1.79%   |
+| Sound                    | 2         | 1.19%   |
+| Net/ethernet             | 2         | 1.19%   |
 | Network                  | 1         | 0.6%    |
 | Modem                    | 1         | 0.6%    |
 

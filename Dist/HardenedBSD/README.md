@@ -1365,7 +1365,7 @@ Controller models
 |--------------------------------------------------------------------------------|-----------|---------|
 | Intel I350 Gigabit Network Connection                                          | 4         | 13.79%  |
 | Intel I210 Gigabit Network Connection                                          | 2         | 6.9%    |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 1         | 3.45%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 1         | 3.45%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                     | 1         | 3.45%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                 | 1         | 3.45%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                 | 1         | 3.45%   |
@@ -1449,7 +1449,7 @@ Ethernet models
 |--------------------------------------------------------------------------------|-----------|---------|
 | Intel I350 Gigabit Network Connection                                          | 4         | 20%     |
 | Intel I210 Gigabit Network Connection                                          | 2         | 10%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 1         | 5%      |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 1         | 5%      |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                  | 1         | 5%      |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 5%      |
 | Intel Ethernet Controller 10-Gigabit X540-AT2                                  | 1         | 5%      |

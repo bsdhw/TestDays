@@ -1417,48 +1417,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5         | 7.35%   |
-| Intel Wireless 7260                                               | 4         | 5.88%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 4.41%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 3         | 4.41%   |
-| Intel Wireless 8265 / 8275                                        | 2         | 2.94%   |
-| Intel Wireless 8260                                               | 2         | 2.94%   |
-| Intel Ethernet Connection (6) I219-V                              | 2         | 2.94%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 2.94%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 2.94%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 2         | 2.94%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 2.94%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 2.94%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 2         | 2.94%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter      | 2         | 2.94%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 1.47%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1         | 1.47%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1         | 1.47%   |
-| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                         | 1         | 1.47%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1         | 1.47%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter        | 1         | 1.47%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1         | 1.47%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1         | 1.47%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1         | 1.47%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.47%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 1.47%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 1.47%   |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 1.47%   |
-| JMicron JMC260 PCI Express Fast Ethernet Controller               | 1         | 1.47%   |
-| Intel Wireless 7265                                               | 1         | 1.47%   |
-| Intel Wireless 3165                                               | 1         | 1.47%   |
-| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection     | 1         | 1.47%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 1.47%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.47%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 1.47%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.47%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.47%   |
-| Intel Centrino Wireless-N 6150                                    | 1         | 1.47%   |
-| Intel Centrino WiMAX 6150                                         | 1         | 1.47%   |
-| Intel Centrino Advanced-N 6200                                    | 1         | 1.47%   |
-| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller        | 1         | 1.47%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 5         | 7.35%   |
+| Intel Wireless 7260                                                    | 4         | 5.88%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3         | 4.41%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 3         | 4.41%   |
+| Intel Wireless 8265 / 8275                                             | 2         | 2.94%   |
+| Intel Wireless 8260                                                    | 2         | 2.94%   |
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 2.94%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 2.94%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                      | 2         | 2.94%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 2         | 2.94%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 2         | 2.94%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 2.94%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                      | 2         | 2.94%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter           | 2         | 2.94%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter          | 1         | 1.47%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                        | 1         | 1.47%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1         | 1.47%   |
+| Ralink RT3090 Wireless 802.11n 1T/1R PCIe                              | 1         | 1.47%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1         | 1.47%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 1         | 1.47%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1         | 1.47%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 1         | 1.47%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1         | 1.47%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 1.47%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1         | 1.47%   |
+| Qualcomm ALCATEL RNDIS Interface                                       | 1         | 1.47%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                | 1         | 1.47%   |
+| JMicron JMC260 PCI Express Fast Ethernet Controller                    | 1         | 1.47%   |
+| Intel Wireless 7265                                                    | 1         | 1.47%   |
+| Intel Wireless 3165                                                    | 1         | 1.47%   |
+| Intel PRO/Wireless 4965 AG or AGN [Kedron] Network Connection          | 1         | 1.47%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 1.47%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 1.47%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 1.47%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 1.47%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 1.47%   |
+| Intel Centrino Wireless-N 6150                                         | 1         | 1.47%   |
+| Intel Centrino WiMAX 6150                                              | 1         | 1.47%   |
+| Intel Centrino Advanced-N 6200                                         | 1         | 1.47%   |
+| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller             | 1         | 1.47%   |
 
 Wireless Vendor
 ---------------
@@ -1539,28 +1539,28 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 5         | 16.67%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3         | 10%     |
-| Intel Ethernet Connection (6) I219-V                              | 2         | 6.67%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 6.67%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 6.67%   |
-| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                 | 2         | 6.67%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 3.33%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 3.33%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 3.33%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1         | 3.33%   |
-| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller           | 1         | 3.33%   |
-| JMicron JMC260 PCI Express Fast Ethernet Controller               | 1         | 3.33%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 3.33%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 3.33%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 3.33%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 3.33%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 3.33%   |
-| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller        | 1         | 3.33%   |
-| Intel 82577LM Gigabit Network Connection                          | 1         | 3.33%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 1         | 3.33%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 5         | 16.67%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3         | 10%     |
+| Intel Ethernet Connection (6) I219-V                                   | 2         | 6.67%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 6.67%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 6.67%   |
+| Broadcom NetXtreme BCM57762 Gigabit Ethernet PCIe                      | 2         | 6.67%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter          | 1         | 3.33%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 3.33%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1         | 3.33%   |
+| Qualcomm ALCATEL RNDIS Interface                                       | 1         | 3.33%   |
+| Marvell Group 88E8071 PCI-E Gigabit Ethernet Controller                | 1         | 3.33%   |
+| JMicron JMC260 PCI Express Fast Ethernet Controller                    | 1         | 3.33%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 3.33%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 3.33%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 3.33%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 3.33%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 3.33%   |
+| Intel 82801CAM (ICH3) PRO/100 VE (LOM) Ethernet Controller             | 1         | 3.33%   |
+| Intel 82577LM Gigabit Network Connection                               | 1         | 3.33%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                      | 1         | 3.33%   |
 
 Net Controller Kind
 -------------------

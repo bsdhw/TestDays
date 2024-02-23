@@ -1250,7 +1250,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.23%   |
 | Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 2         | 1.23%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 2         | 1.23%   |
-| Kingston Company NV2 NVMe SSD SM2267XT                                         | 2         | 1.23%   |
+| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                             | 2         | 1.23%   |
 | Intel SATA Controller [RAID mode]                                              | 2         | 1.23%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.23%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.23%   |
@@ -1844,48 +1844,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 31        | 12.25%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 13        | 5.14%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 12        | 4.74%   |
-| Intel Wireless 7265                                               | 11        | 4.35%   |
-| Intel Wireless 8265 / 8275                                        | 9         | 3.56%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 7         | 2.77%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 6         | 2.37%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 5         | 1.98%   |
-| Intel Wireless 8260                                               | 5         | 1.98%   |
-| Intel Wireless 7260                                               | 5         | 1.98%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 5         | 1.98%   |
-| Intel Wi-Fi 6 AX200                                               | 5         | 1.98%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 5         | 1.98%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 4         | 1.58%   |
-| Intel Wireless 3165                                               | 4         | 1.58%   |
-| Intel Wi-Fi 6 AX201                                               | 4         | 1.58%   |
-| Intel Ethernet Connection (3) I218-LM                             | 4         | 1.58%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 3         | 1.19%   |
-| Nvidia MCP79 Ethernet                                             | 3         | 1.19%   |
-| Intel Ethernet Connection I219-LM                                 | 3         | 1.19%   |
-| Intel Ethernet Connection I218-LM                                 | 3         | 1.19%   |
-| Intel Ethernet Connection (2) I219-LM                             | 3         | 1.19%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 3         | 1.19%   |
-| Broadcom BCM43224 802.11a/b/g/n                                   | 3         | 1.19%   |
-| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller            | 3         | 1.19%   |
-| Broadcom BCM43142 802.11b/g/n                                     | 3         | 1.19%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.79%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2         | 0.79%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 2         | 0.79%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                           | 2         | 0.79%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 0.79%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 0.79%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 2         | 0.79%   |
-| Intel Wireless 3160                                               | 2         | 0.79%   |
-| Intel WiFi Link 5100                                              | 2         | 0.79%   |
-| Intel Ethernet Connection I217-LM                                 | 2         | 0.79%   |
-| Intel Ethernet Connection (5) I219-LM                             | 2         | 0.79%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 0.79%   |
-| Intel Ethernet Connection (3) I218-V                              | 2         | 0.79%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 0.79%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 31        | 12.25%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 13        | 5.14%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 12        | 4.74%   |
+| Intel Wireless 7265                                                    | 11        | 4.35%   |
+| Intel Wireless 8265 / 8275                                             | 9         | 3.56%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 7         | 2.77%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 6         | 2.37%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 5         | 1.98%   |
+| Intel Wireless 8260                                                    | 5         | 1.98%   |
+| Intel Wireless 7260                                                    | 5         | 1.98%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 5         | 1.98%   |
+| Intel Wi-Fi 6 AX200                                                    | 5         | 1.98%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 5         | 1.98%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 4         | 1.58%   |
+| Intel Wireless 3165                                                    | 4         | 1.58%   |
+| Intel Wi-Fi 6 AX201                                                    | 4         | 1.58%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 4         | 1.58%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 3         | 1.19%   |
+| Nvidia MCP79 Ethernet                                                  | 3         | 1.19%   |
+| Intel Ethernet Connection I219-LM                                      | 3         | 1.19%   |
+| Intel Ethernet Connection I218-LM                                      | 3         | 1.19%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 3         | 1.19%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 3         | 1.19%   |
+| Broadcom BCM43224 802.11a/b/g/n                                        | 3         | 1.19%   |
+| Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller                 | 3         | 1.19%   |
+| Broadcom BCM43142 802.11b/g/n                                          | 3         | 1.19%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)            | 2         | 0.79%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 2         | 0.79%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                        | 2         | 0.79%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                | 2         | 0.79%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 2         | 0.79%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 2         | 0.79%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                  | 2         | 0.79%   |
+| Intel Wireless 3160                                                    | 2         | 0.79%   |
+| Intel WiFi Link 5100                                                   | 2         | 0.79%   |
+| Intel Ethernet Connection I217-LM                                      | 2         | 0.79%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 2         | 0.79%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 0.79%   |
+| Intel Ethernet Connection (3) I218-V                                   | 2         | 0.79%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                      | 2         | 0.79%   |
 
 Wireless Vendor
 ---------------
@@ -1925,7 +1925,7 @@ Wireless models
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)                                | 5         | 3.42%   |
 | Intel Wireless 8260                                                                           | 5         | 3.42%   |
 | Intel Wireless 7260                                                                           | 5         | 3.42%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                                        | 5         | 3.42%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                                     | 5         | 3.42%   |
 | Intel Wi-Fi 6 AX200                                                                           | 5         | 3.42%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                                              | 5         | 3.42%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                                           | 4         | 2.74%   |
@@ -1989,7 +1989,7 @@ Ethernet models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 31        | 29.52%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 31        | 29.52%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 13        | 12.38%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 7         | 6.67%   |
 | Intel Ethernet Connection (3) I218-LM                                          | 4         | 3.81%   |
@@ -2513,7 +2513,7 @@ Camera device models
 | Realtek EasyCamera                                          | 1         | 0.97%   |
 | Realtek Acer 640 x 480 laptop camera                        | 1         | 0.97%   |
 | Microdia Webcam                                             | 1         | 0.97%   |
-| Microdia USB 2.0 Camera                                     | 1         | 0.97%   |
+| Microdia REDRAGON  Live Camera                              | 1         | 0.97%   |
 
 Security
 --------

@@ -962,7 +962,7 @@ Storage controller models
 | Nvidia MCP79 AHCI Controller                                                            | 1         | 2.22%   |
 | Nvidia MCP61 SATA Controller                                                            | 1         | 2.22%   |
 | Nvidia MCP61 IDE                                                                        | 1         | 2.22%   |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                            | 1         | 2.22%   |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 (DRAM-less)                                | 1         | 2.22%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                              | 1         | 2.22%   |
 | Intel SSD DC P4101/Pro 7600p/760p/E 6100p Series                                        | 1         | 2.22%   |
 | Intel Comet Lake SATA AHCI Controller                                                   | 1         | 2.22%   |
@@ -974,7 +974,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 1         | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 1         | 2.22%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller            | 1         | 2.22%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 1         | 2.22%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 1         | 2.22%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 1         | 2.22%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 1         | 2.22%   |
 | AMD 500 Series Chipset SATA Controller                                                  | 1         | 2.22%   |
@@ -1448,7 +1448,7 @@ Controller models
 
 | Model                                                                       | Computers | Percent |
 |-----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller           | 8         | 11.76%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller      | 8         | 11.76%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                       | 5         | 7.35%   |
 | Samsung Galaxy series, misc. (tethering mode)                               | 4         | 5.88%   |
 | Intel Ethernet Connection I217-LM                                           | 3         | 4.41%   |
@@ -1573,25 +1573,25 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8         | 24.24%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5         | 15.15%  |
-| Samsung Galaxy series, misc. (tethering mode)                     | 4         | 12.12%  |
-| Intel Ethernet Connection I217-LM                                 | 3         | 9.09%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1         | 3.03%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 3.03%   |
-| Marvell Group 88E8040 PCI-E Fast Ethernet Controller              | 1         | 3.03%   |
-| Intel I210 Gigabit Network Connection                             | 1         | 3.03%   |
-| Intel Ethernet Controller I225-V                                  | 1         | 3.03%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 3.03%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 3.03%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 3.03%   |
-| Intel Ethernet Connection (23) I219-V                             | 1         | 3.03%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 1         | 3.03%   |
-| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                   | 1         | 3.03%   |
-| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                   | 1         | 3.03%   |
-| Apple Ethernet Adapter [A1277]                                    | 1         | 3.03%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 8         | 24.24%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 5         | 15.15%  |
+| Samsung Galaxy series, misc. (tethering mode)                          | 4         | 12.12%  |
+| Intel Ethernet Connection I217-LM                                      | 3         | 9.09%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1         | 3.03%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 3.03%   |
+| Marvell Group 88E8040 PCI-E Fast Ethernet Controller                   | 1         | 3.03%   |
+| Intel I210 Gigabit Network Connection                                  | 1         | 3.03%   |
+| Intel Ethernet Controller I225-V                                       | 1         | 3.03%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 3.03%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 3.03%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 3.03%   |
+| Intel Ethernet Connection (23) I219-V                                  | 1         | 3.03%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 1         | 3.03%   |
+| Broadcom NetLink BCM5784M Gigabit Ethernet PCIe                        | 1         | 3.03%   |
+| Broadcom NetLink BCM57780 Gigabit Ethernet PCIe                        | 1         | 3.03%   |
+| Apple Ethernet Adapter [A1277]                                         | 1         | 3.03%   |
 
 Net Controller Kind
 -------------------
@@ -1814,7 +1814,7 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.22%   |
 | Samsung RAM M425R1GB4DB0-CWMOL 16GB SODIMM DDR5 5600MT/s     | 1         | 2.22%   |
 | Samsung RAM M4 70T5663RZ3-CF7 2GB SODIMM DDR 1639MT/s        | 1         | 2.22%   |
-| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3 1600MT/s          | 1         | 2.22%   |
+| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3                   | 1         | 2.22%   |
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.22%   |
 | Samsung RAM K4E6E304EB-EGCF 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 2.22%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |

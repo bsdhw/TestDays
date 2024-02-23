@@ -740,7 +740,7 @@ Motherboard manufacture year
 | 2020    | 30        | 13.45%  |
 | 2018    | 27        | 12.11%  |
 | 2021    | 24        | 10.76%  |
-| 2019    | 21        | 9.42%   |
+| 2019    | 20        | 8.97%   |
 | 2011    | 18        | 8.07%   |
 | 2015    | 13        | 5.83%   |
 | 2010    | 12        | 5.38%   |
@@ -749,7 +749,7 @@ Motherboard manufacture year
 | Unknown | 11        | 4.93%   |
 | 2008    | 10        | 4.48%   |
 | 2013    | 9         | 4.04%   |
-| 2016    | 7         | 3.14%   |
+| 2016    | 8         | 3.59%   |
 | 2014    | 7         | 3.14%   |
 | 2009    | 5         | 2.24%   |
 | 2022    | 3         | 1.35%   |
@@ -1214,8 +1214,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 128       | 180    | 52.89%  |
-| 0.51-1.0   | 62        | 90     | 25.62%  |
+| 0.01-0.5   | 129       | 182    | 53.31%  |
+| 0.51-1.0   | 61        | 88     | 25.21%  |
 | 1.01-2.0   | 17        | 36     | 7.02%   |
 | 3.01-4.0   | 12        | 29     | 4.96%   |
 | 4.01-10.0  | 11        | 55     | 4.55%   |
@@ -1455,7 +1455,7 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 7         | 2.3%    |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                   | 7         | 2.3%    |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 6         | 1.97%   |
-| ASMedia ASM1062 Serial ATA Controller                                            | 6         | 1.97%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                    | 6         | 1.97%   |
 | Intel Comet Lake SATA AHCI Controller                                            | 5         | 1.64%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                           | 5         | 1.64%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 4         | 1.32%   |
@@ -1467,6 +1467,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 4         | 1.32%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller    | 4         | 1.32%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                | 4         | 1.32%   |
+| Intel SATA Controller [RAID mode]                                                | 3         | 0.99%   |
 | Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]                 | 3         | 0.99%   |
 | Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                   | 3         | 0.99%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 3         | 0.99%   |
@@ -1478,7 +1479,6 @@ Storage controller models
 | Nvidia MCP79 AHCI Controller                                                     | 2         | 0.66%   |
 | Marvell Group 88SE6111/6121 SATA II / PATA Controller                            | 2         | 0.66%   |
 | JMicron JMB363 SATA/IDE Controller                                               | 2         | 0.66%   |
-| Intel SATA Controller [RAID mode]                                                | 2         | 0.66%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series SATA AHCI Controller         | 2         | 0.66%   |
 | Intel Cannon Point-LP SATA Controller [AHCI Mode]                                | 2         | 0.66%   |
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                    | 2         | 0.66%   |
@@ -2137,48 +2137,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 72        | 18.7%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 13        | 3.38%   |
-| Intel Wireless 8265 / 8275                                        | 12        | 3.12%   |
-| Intel I211 Gigabit Network Connection                             | 10        | 2.6%    |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 8         | 2.08%   |
-| Intel Wireless 7265                                               | 8         | 2.08%   |
-| Intel Wi-Fi 6 AX200                                               | 8         | 2.08%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 8         | 2.08%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 7         | 1.82%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 6         | 1.56%   |
-| Intel Wireless-AC 9260                                            | 6         | 1.56%   |
-| Intel Ethernet Connection (4) I219-LM                             | 5         | 1.3%    |
-| Intel Ethernet Connection (2) I219-LM                             | 5         | 1.3%    |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 5         | 1.3%    |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 4         | 1.04%   |
-| Intel Wireless 7260                                               | 4         | 1.04%   |
-| Intel I350 Gigabit Network Connection                             | 4         | 1.04%   |
-| Intel I210 Gigabit Network Connection                             | 4         | 1.04%   |
-| Intel Ethernet Connection I217-LM                                 | 4         | 1.04%   |
-| Intel Ethernet Connection (2) I219-V                              | 4         | 1.04%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                  | 4         | 1.04%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 4         | 1.04%   |
-| Intel 82574L Gigabit Network Connection                           | 4         | 1.04%   |
-| Broadcom BCM4313 802.11bgn Wireless Network Adapter               | 4         | 1.04%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 3         | 0.78%   |
-| Ralink RT5370 Wireless Adapter                                    | 3         | 0.78%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 3         | 0.78%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 3         | 0.78%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 3         | 0.78%   |
-| Intel Wireless 8260                                               | 3         | 0.78%   |
-| Intel Wireless 3160                                               | 3         | 0.78%   |
-| Intel Gemini Lake PCH CNVi WiFi                                   | 3         | 0.78%   |
-| Intel Ethernet Connection (4) I219-V                              | 3         | 0.78%   |
-| Intel Ethernet Connection (3) I218-LM                             | 3         | 0.78%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]    | 3         | 0.78%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.52%   |
-| Samsung Galaxy series, misc. (tethering mode)                     | 2         | 0.52%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 2         | 0.52%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                   | 2         | 0.52%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 2         | 0.52%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 71        | 18.44%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 13        | 3.38%   |
+| Intel Wireless 8265 / 8275                                             | 12        | 3.12%   |
+| Intel I211 Gigabit Network Connection                                  | 10        | 2.6%    |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 8         | 2.08%   |
+| Intel Wireless 7265                                                    | 8         | 2.08%   |
+| Intel Wi-Fi 6 AX200                                                    | 8         | 2.08%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 8         | 2.08%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 7         | 1.82%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 6         | 1.56%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 6         | 1.56%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 5         | 1.3%    |
+| Intel Ethernet Connection (2) I219-LM                                  | 5         | 1.3%    |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 5         | 1.3%    |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 4         | 1.04%   |
+| Intel Wireless 7260                                                    | 4         | 1.04%   |
+| Intel I350 Gigabit Network Connection                                  | 4         | 1.04%   |
+| Intel I210 Gigabit Network Connection                                  | 4         | 1.04%   |
+| Intel Ethernet Connection I217-LM                                      | 4         | 1.04%   |
+| Intel Ethernet Connection (2) I219-V                                   | 4         | 1.04%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 4         | 1.04%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                      | 4         | 1.04%   |
+| Intel 82574L Gigabit Network Connection                                | 4         | 1.04%   |
+| Broadcom BCM4313 802.11bgn Wireless Network Adapter                    | 4         | 1.04%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 3         | 0.78%   |
+| Ralink RT5370 Wireless Adapter                                         | 3         | 0.78%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 3         | 0.78%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 3         | 0.78%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 3         | 0.78%   |
+| Intel Wireless 8260                                                    | 3         | 0.78%   |
+| Intel Wireless 3160                                                    | 3         | 0.78%   |
+| Intel Gemini Lake PCH CNVi WiFi                                        | 3         | 0.78%   |
+| Intel Ethernet Connection (4) I219-V                                   | 3         | 0.78%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 3         | 0.78%   |
+| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]         | 3         | 0.78%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)            | 2         | 0.52%   |
+| Samsung Galaxy series, misc. (tethering mode)                          | 2         | 0.52%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 2         | 0.52%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                        | 2         | 0.52%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                             | 2         | 0.52%   |
 
 Wireless Vendor
 ---------------
@@ -2218,7 +2218,7 @@ Wireless models
 | Intel Wi-Fi 6 AX200                                            | 8         | 4.88%   |
 | Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 7         | 4.27%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 6         | 3.66%   |
-| Intel Wireless-AC 9260                                         | 6         | 3.66%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 6         | 3.66%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 5         | 3.05%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 4         | 2.44%   |
 | Intel Wireless 7260                                            | 4         | 2.44%   |
@@ -2239,7 +2239,7 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 2         | 1.22%   |
 | Qualcomm Atheros AR9287 Wireless Network Adapter (PCI-Express) | 2         | 1.22%   |
 | Intel Wireless 3165                                            | 2         | 1.22%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                         | 2         | 1.22%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]      | 2         | 1.22%   |
 | Intel Comet Lake PCH CNVi WiFi                                 | 2         | 1.22%   |
 | Intel Centrino Ultimate-N 6300                                 | 2         | 1.22%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                       | 2         | 1.22%   |
@@ -2288,7 +2288,7 @@ Ethernet models
 
 | Model                                                                         | Computers | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 72        | 33.33%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 71        | 32.87%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                         | 13        | 6.02%   |
 | Intel I211 Gigabit Network Connection                                         | 10        | 4.63%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 8         | 3.7%    |
@@ -2322,12 +2322,12 @@ Ethernet models
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1         | 0.46%   |
 | Sundance Inc / IC Plus IC Plus IP100A Integrated 10/100 Ethernet MAC + PHY    | 1         | 0.46%   |
 | Silicon Integrated Systems [SiS] SiS900 PCI Fast Ethernet                     | 1         | 0.46%   |
+| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 1         | 0.46%   |
 | Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.46%   |
 | Qualcomm FP3                                                                  | 1         | 0.46%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                        | 1         | 0.46%   |
 | Qualcomm Atheros QCA8171 Gigabit Ethernet                                     | 1         | 0.46%   |
 | Qualcomm Atheros Attansic L1 Gigabit Ethernet                                 | 1         | 0.46%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                                         | 1         | 0.46%   |
 
 Net Controller Kind
 -------------------
@@ -2569,7 +2569,7 @@ Memory module vendors
 | Unknown             | 4         | 1.69%   |
 | Team                | 2         | 0.84%   |
 | Smart               | 2         | 0.84%   |
-| GOODRAM             | 2         | 0.84%   |
+| Goodram             | 2         | 0.84%   |
 | Transcend           | 1         | 0.42%   |
 | Teikon              | 1         | 0.42%   |
 | Silicon Power       | 1         | 0.42%   |
@@ -2606,6 +2606,7 @@ Memory module models
 | Unknown RAM Module 8GB DIMM 1333MT/s                    | 2         | 0.78%   |
 | Unknown RAM Module 2GB SODIMM DDR2                      | 2         | 0.78%   |
 | Unknown RAM Module 1GB DIMM DDR2 800MT/s                | 2         | 0.78%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s      | 2         | 0.78%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 2         | 0.78%   |
 | SK hynix RAM HMAA51S6AMR6N-UH 8GB SODIMM DDR4 2400MT/s  | 2         | 0.78%   |
@@ -2631,7 +2632,6 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                    | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM DDR3 667MT/s              | 1         | 0.39%   |
 | Unknown RAM Module 2GB SODIMM 667MT/s                   | 1         | 0.39%   |
-| Unknown RAM Module 2GB DIMM SDRAM                       | 1         | 0.39%   |
 
 Memory Kind
 -----------
@@ -2871,14 +2871,14 @@ Fingerprint sensor vendors
 
 | Vendor                     | Computers | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 6         | 28.57%  |
-| Synaptics                  | 6         | 28.57%  |
-| Shenzhen Goodix Technology | 4         | 19.05%  |
-| Upek                       | 1         | 4.76%   |
-| LighTuning Technology      | 1         | 4.76%   |
-| Elan Microelectronics      | 1         | 4.76%   |
-| Broadcom                   | 1         | 4.76%   |
-| AuthenTec                  | 1         | 4.76%   |
+| Validity Sensors           | 6         | 27.27%  |
+| Synaptics                  | 6         | 27.27%  |
+| Shenzhen Goodix Technology | 4         | 18.18%  |
+| Elan Microelectronics      | 2         | 9.09%   |
+| Upek                       | 1         | 4.55%   |
+| LighTuning Technology      | 1         | 4.55%   |
+| Broadcom                   | 1         | 4.55%   |
+| AuthenTec                  | 1         | 4.55%   |
 
 Fingerprint Model
 -----------------
@@ -2890,19 +2890,19 @@ Fingerprint sensor models
 
 | Model                                                                        | Computers | Percent |
 |------------------------------------------------------------------------------|-----------|---------|
-| Validity Sensors Synaptics WBDI                                              | 4         | 19.05%  |
-| Synaptics Metallica MIS Touch Fingerprint Reader                             | 3         | 14.29%  |
-| Shenzhen Goodix Fingerprint Reader                                           | 3         | 14.29%  |
-| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 9.52%   |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 4.76%   |
-| Synaptics WBDI                                                               | 1         | 4.76%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 4.76%   |
-| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 4.76%   |
-| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 4.76%   |
-| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 4.76%   |
-| Elan Fingerprint Sensor                                                      | 1         | 4.76%   |
-| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 4.76%   |
-| AuthenTec AES1660                                                            | 1         | 4.76%   |
+| Validity Sensors Synaptics WBDI                                              | 4         | 18.18%  |
+| Synaptics Metallica MIS Touch Fingerprint Reader                             | 3         | 13.64%  |
+| Shenzhen Goodix Fingerprint Reader                                           | 3         | 13.64%  |
+| Validity Sensors VFS 5011 fingerprint sensor                                 | 2         | 9.09%   |
+| Elan Fingerprint Sensor                                                      | 2         | 9.09%   |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor                       | 1         | 4.55%   |
+| Synaptics WBDI                                                               | 1         | 4.55%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader                            | 1         | 4.55%   |
+| Synaptics Metallica MOH Touch Fingerprint Reader                             | 1         | 4.55%   |
+| Shenzhen Goodix Fingerprint Reader SGX                                       | 1         | 4.55%   |
+| LighTuning EgisTec Touch Fingerprint Sensor                                  | 1         | 4.55%   |
+| Broadcom BCM5880 Secure Applications Processor with fingerprint swipe sensor | 1         | 4.55%   |
+| AuthenTec AES1660                                                            | 1         | 4.55%   |
 
 Chipcard Vendor
 ---------------
@@ -2931,9 +2931,9 @@ Total unsupported devices on board
 
 | Total | Computers | Percent |
 |-------|-----------|---------|
-| 1     | 77        | 34.38%  |
+| 1     | 76        | 33.93%  |
 | 0     | 62        | 27.68%  |
-| 2     | 48        | 21.43%  |
+| 2     | 49        | 21.88%  |
 | 3     | 25        | 11.16%  |
 | 4     | 9         | 4.02%   |
 | 5     | 2         | 0.89%   |
@@ -2949,13 +2949,13 @@ Types of unsupported devices
 
 | Type                     | Computers | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 122       | 43.88%  |
-| Net/wireless             | 56        | 20.14%  |
-| Bluetooth                | 31        | 11.15%  |
-| Fingerprint reader       | 21        | 7.55%   |
-| Card reader              | 18        | 6.47%   |
-| Firewire controller      | 17        | 6.12%   |
-| Net/ethernet             | 5         | 1.8%    |
+| Communication controller | 122       | 43.73%  |
+| Net/wireless             | 56        | 20.07%  |
+| Bluetooth                | 31        | 11.11%  |
+| Fingerprint reader       | 22        | 7.89%   |
+| Card reader              | 18        | 6.45%   |
+| Firewire controller      | 17        | 6.09%   |
+| Net/ethernet             | 5         | 1.79%   |
 | Sound                    | 3         | 1.08%   |
 | Network                  | 2         | 0.72%   |
 | Storage/nvme             | 1         | 0.36%   |

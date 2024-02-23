@@ -989,7 +989,7 @@ Monitor models
 | Fujitsu Siemens P24-9 TE FUS08B8 1920x1080 530x300mm 24.0-inch      | 1        | 14.29%  |
 | BenQ BL2405 BNQ8016 1920x1080 530x300mm 24.0-inch                   | 1        | 14.29%  |
 | ASUSTek Computer VG259 AUS25A6 1920x1080 540x300mm 24.3-inch        | 1        | 14.29%  |
-| AOC 24G2W1G4 AOC2402 1920x1080 530x300mm 24.0-inch                  | 1        | 14.29%  |
+| AOC 24G2W1G3- AOC2402 1920x1080 530x300mm 24.0-inch                 | 1        | 14.29%  |
 
 Monitor Resolution
 ------------------
@@ -1109,18 +1109,18 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Intel Wi-Fi 6 AX200                                               | 2        | 18.18%  |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 9.09%   |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 9.09%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 9.09%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 9.09%   |
-| Intel Wireless 3165                                               | 1        | 9.09%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 9.09%   |
-| Intel Ethernet Controller X710 for 10GbE SFP+                     | 1        | 9.09%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 9.09%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 9.09%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Intel Wi-Fi 6 AX200                                                    | 2        | 18.18%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 9.09%   |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                             | 1        | 9.09%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller              | 1        | 9.09%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 9.09%   |
+| Intel Wireless 3165                                                    | 1        | 9.09%   |
+| Intel I211 Gigabit Network Connection                                  | 1        | 9.09%   |
+| Intel Ethernet Controller X710 for 10GbE SFP+                          | 1        | 9.09%   |
+| Intel Ethernet Controller I225-V                                       | 1        | 9.09%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1        | 9.09%   |
 
 Wireless Vendor
 ---------------
@@ -1169,16 +1169,16 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 12.5%   |
-| Realtek RTL-8110SC/8169SC Gigabit Ethernet                        | 1        | 12.5%   |
-| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller         | 1        | 12.5%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 12.5%   |
-| Intel I211 Gigabit Network Connection                             | 1        | 12.5%   |
-| Intel Ethernet Controller X710 for 10GbE SFP+                     | 1        | 12.5%   |
-| Intel Ethernet Controller I225-V                                  | 1        | 12.5%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 12.5%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 12.5%   |
+| Realtek RTL-8110SC/8169SC Gigabit Ethernet                             | 1        | 12.5%   |
+| Qualcomm Atheros Killer E2400 Gigabit Ethernet Controller              | 1        | 12.5%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 12.5%   |
+| Intel I211 Gigabit Network Connection                                  | 1        | 12.5%   |
+| Intel Ethernet Controller X710 for 10GbE SFP+                          | 1        | 12.5%   |
+| Intel Ethernet Controller I225-V                                       | 1        | 12.5%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1        | 12.5%   |
 
 Net Controller Kind
 -------------------

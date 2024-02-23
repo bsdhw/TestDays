@@ -1617,7 +1617,7 @@ Controller models
 
 | Model                                                                       | Notebooks | Percent |
 |-----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller           | 14        | 9.59%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller      | 14        | 9.59%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                       | 8         | 5.48%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                            | 6         | 4.11%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                       | 6         | 4.11%   |
@@ -1757,7 +1757,7 @@ Ethernet models
 
 | Model                                                                          | Notebooks | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 14        | 20.9%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 14        | 20.9%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 8         | 11.94%  |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 6         | 8.96%   |
 | Qualcomm Atheros QCA8172 Fast Ethernet                                         | 2         | 2.99%   |

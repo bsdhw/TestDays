@@ -813,7 +813,7 @@ Storage controller models
 | Intel 82801G (ICH7 Family) IDE Controller                                     | 1        | 3.7%    |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]  | 1        | 3.7%    |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller | 1        | 3.7%    |
-| ASMedia ASM1062 Serial ATA Controller                                         | 1        | 3.7%    |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                 | 1        | 3.7%    |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 1        | 3.7%    |
 | AMD SB600 Non-Raid-5 SATA                                                     | 1        | 3.7%    |
 | AMD SB600 IDE                                                                 | 1        | 3.7%    |
@@ -1228,22 +1228,22 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4        | 21.05%  |
-| Intel I211 Gigabit Network Connection                             | 2        | 10.53%  |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 10.53%  |
-| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                   | 1        | 5.26%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 5.26%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 5.26%   |
-| Nvidia MCP73 Ethernet                                             | 1        | 5.26%   |
-| Mellanox MT27500 Family [ConnectX-3]                              | 1        | 5.26%   |
-| Intel Wi-Fi 6 AX200                                               | 1        | 5.26%   |
-| Intel NM10/ICH7 Family LAN Controller                             | 1        | 5.26%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 5.26%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 5.26%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 1        | 5.26%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1        | 5.26%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4        | 21.05%  |
+| Intel I211 Gigabit Network Connection                                  | 2        | 10.53%  |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 10.53%  |
+| Realtek RTL8811AU 802.11a/b/g/n/ac WLAN Adapter                        | 1        | 5.26%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 5.26%   |
+| Qualcomm ALCATEL RNDIS Interface                                       | 1        | 5.26%   |
+| Nvidia MCP73 Ethernet                                                  | 1        | 5.26%   |
+| Mellanox MT27500 Family [ConnectX-3]                                   | 1        | 5.26%   |
+| Intel Wi-Fi 6 AX200                                                    | 1        | 5.26%   |
+| Intel NM10/ICH7 Family LAN Controller                                  | 1        | 5.26%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1        | 5.26%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 5.26%   |
+| Intel 82566DM-2 Gigabit Network Connection                             | 1        | 5.26%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                | 1        | 5.26%   |
 
 Wireless Vendor
 ---------------
@@ -1295,19 +1295,19 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 4        | 25%     |
-| Intel I211 Gigabit Network Connection                             | 2        | 12.5%   |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 12.5%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 6.25%   |
-| Qualcomm ALCATEL RNDIS Interface                                  | 1        | 6.25%   |
-| Nvidia MCP73 Ethernet                                             | 1        | 6.25%   |
-| Intel NM10/ICH7 Family LAN Controller                             | 1        | 6.25%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 6.25%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 1        | 6.25%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 1        | 6.25%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1        | 6.25%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 4        | 25%     |
+| Intel I211 Gigabit Network Connection                                  | 2        | 12.5%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 12.5%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 6.25%   |
+| Qualcomm ALCATEL RNDIS Interface                                       | 1        | 6.25%   |
+| Nvidia MCP73 Ethernet                                                  | 1        | 6.25%   |
+| Intel NM10/ICH7 Family LAN Controller                                  | 1        | 6.25%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1        | 6.25%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 1        | 6.25%   |
+| Intel 82566DM-2 Gigabit Network Connection                             | 1        | 6.25%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                | 1        | 6.25%   |
 
 Net Controller Kind
 -------------------
@@ -1470,7 +1470,7 @@ Memory module models
 | Micron RAM ITC 4GB DIMM DDR3 1066MT/s                     | 2        | 12.5%   |
 | Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 6.25%   |
 | SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s      | 1        | 6.25%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 6.25%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR2              | 1        | 6.25%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
 | Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 6.25%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |

@@ -996,7 +996,7 @@ Controller models
 | Model                                                                                 | Desktops | Percent |
 |---------------------------------------------------------------------------------------|----------|---------|
 | Realtek RTL8192CE PCIe Wireless Network Adapter                                       | 1        | 20%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller                     | 1        | 20%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller                | 1        | 20%     |
 | Qualcomm Atheros AR5418 Wireless Network Adapter [AR5008E 802.11(a)bgn] (PCI-Express) | 1        | 20%     |
 | Intel 82567V-2 Gigabit Network Connection                                             | 1        | 20%     |
 | Intel 82567LF-2 Gigabit Network Connection                                            | 1        | 20%     |
@@ -1048,11 +1048,11 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 33.33%  |
-| Intel 82567V-2 Gigabit Network Connection                         | 1        | 33.33%  |
-| Intel 82567LF-2 Gigabit Network Connection                        | 1        | 33.33%  |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 33.33%  |
+| Intel 82567V-2 Gigabit Network Connection                              | 1        | 33.33%  |
+| Intel 82567LF-2 Gigabit Network Connection                             | 1        | 33.33%  |
 
 Net Controller Kind
 -------------------

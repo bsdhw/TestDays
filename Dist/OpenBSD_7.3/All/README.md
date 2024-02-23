@@ -218,8 +218,8 @@ Total: 103
 | Lenovo        | ThinkPad T61 7659AS5        | Notebook    | [b6071c549a](https://bsd-hardware.info/?probe=b6071c549a) | May 15, 2023 |
 | Gigabyte      | B250M-Gaming 3-CF           | Desktop     | [2ce057e389](https://bsd-hardware.info/?probe=2ce057e389) | May 14, 2023 |
 | ASUSTek       | M3A78-EMH HDMI              | Desktop     | [b4bf04ac2f](https://bsd-hardware.info/?probe=b4bf04ac2f) | May 13, 2023 |
-| Lenovo        | V14 G2 ITL 82NM             | Desktop     | [fa87f4741a](https://bsd-hardware.info/?probe=fa87f4741a) | May 13, 2023 |
-| Lenovo        | V14 G2 ITL 82NM             | Desktop     | [bd81294acc](https://bsd-hardware.info/?probe=bd81294acc) | May 13, 2023 |
+| Lenovo        | V14 G2 ITL 82NM             | Notebook    | [fa87f4741a](https://bsd-hardware.info/?probe=fa87f4741a) | May 13, 2023 |
+| Lenovo        | V14 G2 ITL 82NM             | Notebook    | [bd81294acc](https://bsd-hardware.info/?probe=bd81294acc) | May 13, 2023 |
 | Gigabyte      | B250M-Gaming 3-CF           | Desktop     | [cace71018f](https://bsd-hardware.info/?probe=cace71018f) | May 11, 2023 |
 | Gigabyte      | B250M-Gaming 3-CF           | Desktop     | [4353bb0195](https://bsd-hardware.info/?probe=4353bb0195) | May 09, 2023 |
 | ASUSTek       | PRIME B650-PLUS             | Desktop     | [be83fbb0f2](https://bsd-hardware.info/?probe=be83fbb0f2) | May 09, 2023 |
@@ -241,10 +241,10 @@ Total: 103
 | Lenovo        | ThinkPad X270 W10DG 20K5... | Notebook    | [cf504f51df](https://bsd-hardware.info/?probe=cf504f51df) | May 01, 2023 |
 | Fujitsu       | LIFEBOOK E752               | Notebook    | [44ea9fb6ae](https://bsd-hardware.info/?probe=44ea9fb6ae) | Apr 30, 2023 |
 | HP            | Pavilion Notebook           | Notebook    | [247810c987](https://bsd-hardware.info/?probe=247810c987) | Apr 24, 2023 |
-| Lenovo        | V14 G2 ITL 82NM             | Desktop     | [827308827b](https://bsd-hardware.info/?probe=827308827b) | Apr 24, 2023 |
+| Lenovo        | V14 G2 ITL 82NM             | Notebook    | [827308827b](https://bsd-hardware.info/?probe=827308827b) | Apr 24, 2023 |
 | HP            | Pavilion Notebook           | Notebook    | [243a9c2f22](https://bsd-hardware.info/?probe=243a9c2f22) | Apr 22, 2023 |
 | ASUSTek       | TUF Gaming B550-PLUS        | Desktop     | [c26c1111c6](https://bsd-hardware.info/?probe=c26c1111c6) | Apr 21, 2023 |
-| Lenovo        | V14 G2 ITL 82NM             | Desktop     | [a6141b809a](https://bsd-hardware.info/?probe=a6141b809a) | Apr 21, 2023 |
+| Lenovo        | V14 G2 ITL 82NM             | Notebook    | [a6141b809a](https://bsd-hardware.info/?probe=a6141b809a) | Apr 21, 2023 |
 | Lenovo        | G570 20079                  | Notebook    | [0ebba481d1](https://bsd-hardware.info/?probe=0ebba481d1) | Apr 14, 2023 |
 | Lenovo        | ThinkPad T440s 20ARA07PL... | Notebook    | [04ddab3620](https://bsd-hardware.info/?probe=04ddab3620) | Apr 14, 2023 |
 | Lenovo        | ThinkPad X230 23257EP       | Notebook    | [e94085cd2d](https://bsd-hardware.info/?probe=e94085cd2d) | Apr 12, 2023 |
@@ -552,8 +552,8 @@ Physical design of the computer
 
 | Name     | Computers | Percent |
 |----------|-----------|---------|
-| Notebook | 51        | 62.2%   |
-| Desktop  | 30        | 36.59%  |
+| Notebook | 52        | 63.41%  |
+| Desktop  | 29        | 35.37%  |
 | Server   | 1         | 1.22%   |
 
 Coreboot
@@ -1119,10 +1119,10 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]              | 6         | 6.06%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller  | 6         | 6.06%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                | 6         | 6.06%   |
-| AMD FCH SATA Controller [AHCI mode]                                           | 5         | 5.05%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 3         | 3.03%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                            | 3         | 3.03%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                     | 3         | 3.03%   |
+| AMD FCH SATA Controller [AHCI mode]                                           | 3         | 3.03%   |
 | AMD 500 Series Chipset SATA Controller                                        | 3         | 3.03%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 2         | 2.02%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD          | 2         | 2.02%   |
@@ -1134,6 +1134,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 2         | 2.02%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                          | 2         | 2.02%   |
 | AMD FCH SATA Controller [IDE mode]                                            | 2         | 2.02%   |
+| AMD 600 Series Chipset SATA Controller                                        | 2         | 2.02%   |
 | Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                | 1         | 1.01%   |
 | Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                | 1         | 1.01%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 1         | 1.01%   |
@@ -1142,9 +1143,9 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                              | 1         | 1.01%   |
 | Nvidia CK804 Serial ATA Controller                                            | 1         | 1.01%   |
 | Nvidia CK804 IDE                                                              | 1         | 1.01%   |
-| Kingston Company NV2 NVMe SSD SM2267XT                                        | 1         | 1.01%   |
-| Kingston Company NV1 NVMe SSD SM2263XT                                        | 1         | 1.01%   |
-| Kingston Company NV1 NVMe SSD E13T                                            | 1         | 1.01%   |
+| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                            | 1         | 1.01%   |
+| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                            | 1         | 1.01%   |
+| Kingston Company NV1 NVMe SSD E13T (DRAM-less)                                | 1         | 1.01%   |
 | Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                    | 1         | 1.01%   |
 | Intel Tiger Lake-LP SATA Controller                                           | 1         | 1.01%   |
 | Intel SSD 670p Series [Keystone Harbor]                                       | 1         | 1.01%   |
@@ -1154,7 +1155,6 @@ Storage controller models
 | Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]              | 1         | 1.01%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                             | 1         | 1.01%   |
 | Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]         | 1         | 1.01%   |
-| Intel 82801HR/HO/HH (ICH8R/DO/DH) 2 port SATA Controller [IDE mode]           | 1         | 1.01%   |
 
 Storage Kind
 ------------
@@ -1169,7 +1169,8 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | SATA | 51        | 56.67%  |
 | IDE  | 20        | 22.22%  |
 | NVMe | 16        | 17.78%  |
-| RAID | 2         | 2.22%   |
+| RAID | 1         | 1.11%   |
+| SAS  | 1         | 1.11%   |
 | SCSI | 1         | 1.11%   |
 
 Processor
@@ -1564,7 +1565,7 @@ Monitor models
 | ASUSTek Computer PA279 AUS2768 3840x2160 600x340mm 27.2-inch          | 1         | 2.33%   |
 | Apple Color LCD APPA010 1366x768 260x140mm 11.6-inch                  | 1         | 2.33%   |
 | Apple Color LCD APP9CDF 1440x900 290x180mm 13.4-inch                  | 1         | 2.33%   |
-| AOC 27V2G5 AOC2702 1920x1080 600x340mm 27.2-inch                      | 1         | 2.33%   |
+| AOC 27G2G8 AOC2702 1920x1080 600x340mm 27.2-inch                      | 1         | 2.33%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1         | 2.33%   |
 
 Monitor Resolution
@@ -1739,7 +1740,7 @@ Controller models
 
 | Model                                                                   | Computers | Percent |
 |-------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller       | 12        | 8.89%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller  | 12        | 8.89%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                            | 10        | 7.41%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                   | 10        | 7.41%   |
 | Intel Wireless 8260                                                     | 5         | 3.7%    |
@@ -1831,7 +1832,7 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)          | 1         | 1.75%   |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1         | 1.75%   |
 | Intel Wireless 3160                                                     | 1         | 1.75%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                  | 1         | 1.75%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]               | 1         | 1.75%   |
 | Intel Wi-Fi 6 AX201                                                     | 1         | 1.75%   |
 | Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection                 | 1         | 1.75%   |
 | Intel PRO/Wireless 2915ABG [Calexico2] Network Connection               | 1         | 1.75%   |
@@ -1871,44 +1872,44 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 12        | 16.44%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 10        | 13.7%   |
-| Intel Ethernet Connection I219-LM                                 | 5         | 6.85%   |
-| Realtek RTL8125 2.5GbE Controller                                 | 4         | 5.48%   |
-| Intel 82577LM Gigabit Network Connection                          | 4         | 5.48%   |
-| Intel I210 Gigabit Network Connection                             | 3         | 4.11%   |
-| Intel Ethernet Connection (3) I218-LM                             | 3         | 4.11%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 2.74%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 2         | 2.74%   |
-| Intel Ethernet Connection (4) I219-LM                             | 2         | 2.74%   |
-| VIA VT6102/VT6103 [Rhine-II]                                      | 1         | 1.37%   |
-| Qualcomm Atheros Attansic L2 Fast Ethernet                        | 1         | 1.37%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 1.37%   |
-| Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                     | 1         | 1.37%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 1.37%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1         | 1.37%   |
-| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller           | 1         | 1.37%   |
-| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller           | 1         | 1.37%   |
-| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller           | 1         | 1.37%   |
-| Intel I350 Gigabit Network Connection                             | 1         | 1.37%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.37%   |
-| Intel Ethernet Connection (6) I219-V                              | 1         | 1.37%   |
-| Intel Ethernet Connection (2) I219-V                              | 1         | 1.37%   |
-| Intel 82576 Gigabit Network Connection                            | 1         | 1.37%   |
-| Intel 82574L Gigabit Network Connection                           | 1         | 1.37%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 1.37%   |
-| Intel 82566MM Gigabit Network Connection                          | 1         | 1.37%   |
-| Intel 82562ET/EZ/GT/GZ - PRO/100 VE (LOM) Ethernet Controller     | 1         | 1.37%   |
-| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)            | 1         | 1.37%   |
-| D-Link System DGE-560T PCI Express Gigabit Ethernet Adapter       | 1         | 1.37%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express           | 1         | 1.37%   |
-| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express          | 1         | 1.37%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                  | 1         | 1.37%   |
-| Broadcom NetXtreme BCM5721 Gigabit Ethernet PCI Express           | 1         | 1.37%   |
-| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                  | 1         | 1.37%   |
-| Apple UniNorth 2 GMAC (Sun GEM)                                   | 1         | 1.37%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 12        | 16.44%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 10        | 13.7%   |
+| Intel Ethernet Connection I219-LM                                      | 5         | 6.85%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 4         | 5.48%   |
+| Intel 82577LM Gigabit Network Connection                               | 4         | 5.48%   |
+| Intel I210 Gigabit Network Connection                                  | 3         | 4.11%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 3         | 4.11%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2         | 2.74%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 2         | 2.74%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 2         | 2.74%   |
+| VIA VT6102/VT6103 [Rhine-II]                                           | 1         | 1.37%   |
+| Qualcomm Atheros Attansic L2 Fast Ethernet                             | 1         | 1.37%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 1.37%   |
+| Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                          | 1         | 1.37%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1         | 1.37%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet         | 1         | 1.37%   |
+| Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                | 1         | 1.37%   |
+| Marvell Group 88E8055 PCI-E Gigabit Ethernet Controller                | 1         | 1.37%   |
+| Marvell Group 88E8053 PCI-E Gigabit Ethernet Controller                | 1         | 1.37%   |
+| Intel I350 Gigabit Network Connection                                  | 1         | 1.37%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 1.37%   |
+| Intel Ethernet Connection (6) I219-V                                   | 1         | 1.37%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1         | 1.37%   |
+| Intel 82576 Gigabit Network Connection                                 | 1         | 1.37%   |
+| Intel 82574L Gigabit Network Connection                                | 1         | 1.37%   |
+| Intel 82567LM Gigabit Network Connection                               | 1         | 1.37%   |
+| Intel 82566MM Gigabit Network Connection                               | 1         | 1.37%   |
+| Intel 82562ET/EZ/GT/GZ - PRO/100 VE (LOM) Ethernet Controller          | 1         | 1.37%   |
+| Intel 80003ES2LAN Gigabit Ethernet Controller (Copper)                 | 1         | 1.37%   |
+| D-Link System DGE-560T PCI Express Gigabit Ethernet Adapter            | 1         | 1.37%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                | 1         | 1.37%   |
+| Broadcom NetXtreme BCM5751M Gigabit Ethernet PCI Express               | 1         | 1.37%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                       | 1         | 1.37%   |
+| Broadcom NetXtreme BCM5721 Gigabit Ethernet PCI Express                | 1         | 1.37%   |
+| Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                       | 1         | 1.37%   |
+| Apple UniNorth 2 GMAC (Sun GEM)                                        | 1         | 1.37%   |
 
 Net Controller Kind
 -------------------

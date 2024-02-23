@@ -204,7 +204,7 @@ Total: 294
 | Lenovo        | IdeaPad 110S-11IBR 80WG     | Notebook    | [62f9376847](https://bsd-hardware.info/?probe=62f9376847) | Sep 04, 2021 |
 | Medion        | H61H2-LM3                   | Desktop     | [7a42009a08](https://bsd-hardware.info/?probe=7a42009a08) | Sep 02, 2021 |
 | ASUSTek       | TUF GAMING X570-PLUS        | Desktop     | [9e13729a12](https://bsd-hardware.info/?probe=9e13729a12) | Sep 02, 2021 |
-| Apple         | MacBookAir7,2               | Notebook    | [6eada6e49e](https://bsd-hardware.info/?probe=6eada6e49e) | Aug 28, 2021 |
+| Apple         | MacBookAir4,1               | Notebook    | [6eada6e49e](https://bsd-hardware.info/?probe=6eada6e49e) | Aug 28, 2021 |
 | Itautec       | Infoway w7530               | Notebook    | [fe69db32c8](https://bsd-hardware.info/?probe=fe69db32c8) | Aug 27, 2021 |
 | HP            | 0A60h                       | Desktop     | [0f28538e3d](https://bsd-hardware.info/?probe=0f28538e3d) | Aug 25, 2021 |
 | HP            | 1589                        | Desktop     | [4d51cc9c4b](https://bsd-hardware.info/?probe=4d51cc9c4b) | Aug 24, 2021 |
@@ -716,11 +716,11 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2019 | 31        | 12.65%  |
-| 2020 | 30        | 12.24%  |
+| 2019 | 32        | 13.06%  |
+| 2020 | 29        | 11.84%  |
 | 2013 | 27        | 11.02%  |
-| 2012 | 26        | 10.61%  |
-| 2018 | 19        | 7.76%   |
+| 2012 | 27        | 11.02%  |
+| 2018 | 18        | 7.35%   |
 | 2011 | 16        | 6.53%   |
 | 2015 | 15        | 6.12%   |
 | 2014 | 15        | 6.12%   |
@@ -1088,14 +1088,15 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Seagate             | 55        | 80     | 34.81%  |
-| WDC                 | 49        | 66     | 31.01%  |
-| Toshiba             | 13        | 13     | 8.23%   |
-| Samsung Electronics | 13        | 15     | 8.23%   |
-| Hitachi             | 13        | 15     | 8.23%   |
-| HGST                | 7         | 7      | 4.43%   |
-| Fujitsu             | 3         | 4      | 1.9%    |
-| Apple               | 3         | 3      | 1.9%    |
+| Seagate             | 55        | 80     | 34.59%  |
+| WDC                 | 49        | 66     | 30.82%  |
+| Toshiba             | 13        | 13     | 8.18%   |
+| Samsung Electronics | 13        | 15     | 8.18%   |
+| Hitachi             | 13        | 15     | 8.18%   |
+| HGST                | 7         | 7      | 4.4%    |
+| Fujitsu             | 3         | 4      | 1.89%   |
+| Apple               | 3         | 3      | 1.89%   |
+| LSI                 | 1         | 1      | 0.63%   |
 | Hewlett-Packard     | 1         | 1      | 0.63%   |
 | CLOVER              | 1         | 1      | 0.63%   |
 
@@ -1109,34 +1110,33 @@ Solid state drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 30        | 38     | 23.08%  |
-| Crucial             | 14        | 16     | 10.77%  |
-| SanDisk             | 13        | 14     | 10%     |
-| Kingston            | 13        | 14     | 10%     |
-| WDC                 | 8         | 9      | 6.15%   |
-| Intel               | 7         | 7      | 5.38%   |
-| A-DATA Technology   | 6         | 7      | 4.62%   |
-| Toshiba             | 4         | 5      | 3.08%   |
-| SPCC                | 4         | 5      | 3.08%   |
-| Apple               | 4         | 4      | 3.08%   |
-| PNY                 | 3         | 9      | 2.31%   |
-| OCZ                 | 3         | 3      | 2.31%   |
-| Transcend           | 2         | 3      | 1.54%   |
-| Patriot             | 2         | 2      | 1.54%   |
-| LITEON              | 2         | 2      | 1.54%   |
-| KingSpec            | 2         | 2      | 1.54%   |
-| Apacer              | 2         | 2      | 1.54%   |
-| SSSTC               | 1         | 1      | 0.77%   |
-| Smart               | 1         | 1      | 0.77%   |
-| ORICO               | 1         | 2      | 0.77%   |
-| MyDigitalSSD        | 1         | 1      | 0.77%   |
-| Micron Technology   | 1         | 1      | 0.77%   |
-| LSI                 | 1         | 1      | 0.77%   |
-| LITEONIT            | 1         | 1      | 0.77%   |
-| Lenovo              | 1         | 1      | 0.77%   |
-| HPE                 | 1         | 1      | 0.77%   |
-| Hewlett-Packard     | 1         | 2      | 0.77%   |
-| Emtec               | 1         | 1      | 0.77%   |
+| Samsung Electronics | 30        | 38     | 23.26%  |
+| Crucial             | 14        | 16     | 10.85%  |
+| SanDisk             | 13        | 14     | 10.08%  |
+| Kingston            | 13        | 14     | 10.08%  |
+| WDC                 | 8         | 9      | 6.2%    |
+| Intel               | 7         | 7      | 5.43%   |
+| A-DATA Technology   | 6         | 7      | 4.65%   |
+| Toshiba             | 4         | 5      | 3.1%    |
+| SPCC                | 4         | 5      | 3.1%    |
+| Apple               | 4         | 4      | 3.1%    |
+| PNY                 | 3         | 9      | 2.33%   |
+| OCZ                 | 3         | 3      | 2.33%   |
+| Transcend           | 2         | 3      | 1.55%   |
+| Patriot             | 2         | 2      | 1.55%   |
+| LITEON              | 2         | 2      | 1.55%   |
+| KingSpec            | 2         | 2      | 1.55%   |
+| Apacer              | 2         | 2      | 1.55%   |
+| SSSTC               | 1         | 1      | 0.78%   |
+| Smart               | 1         | 1      | 0.78%   |
+| ORICO               | 1         | 2      | 0.78%   |
+| MyDigitalSSD        | 1         | 1      | 0.78%   |
+| Micron Technology   | 1         | 1      | 0.78%   |
+| LITEONIT            | 1         | 1      | 0.78%   |
+| Lenovo              | 1         | 1      | 0.78%   |
+| HPE                 | 1         | 1      | 0.78%   |
+| Hewlett-Packard     | 1         | 2      | 0.78%   |
+| Emtec               | 1         | 1      | 0.78%   |
 
 Drive Kind
 ----------
@@ -1148,8 +1148,8 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| HDD  | 137       | 205    | 46.44%  |
-| SSD  | 114       | 155    | 38.64%  |
+| HDD  | 137       | 206    | 46.44%  |
+| SSD  | 114       | 154    | 38.64%  |
 | NVMe | 44        | 52     | 14.92%  |
 
 Drive Connector
@@ -1175,9 +1175,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 176       | 251    | 67.69%  |
-| 0.51-1.0   | 59        | 74     | 22.69%  |
-| 1.01-2.0   | 14        | 18     | 5.38%   |
+| 0.01-0.5   | 177       | 251    | 67.82%  |
+| 0.51-1.0   | 60        | 75     | 22.99%  |
+| 1.01-2.0   | 13        | 17     | 4.98%   |
 | 3.01-4.0   | 5         | 6      | 1.92%   |
 | 2.01-3.0   | 3         | 6      | 1.15%   |
 | 4.01-10.0  | 3         | 5      | 1.15%   |
@@ -1421,10 +1421,10 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                          | 7         | 1.98%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 7         | 1.98%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                      | 6         | 1.69%   |
+| Intel SATA Controller [RAID mode]                                                       | 6         | 1.69%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                              | 6         | 1.69%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 6         | 1.69%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 6         | 1.69%   |
-| Intel SATA Controller [RAID mode]                                                       | 5         | 1.41%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 6         | 1.69%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 5         | 1.41%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 5         | 1.41%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 4         | 1.13%   |
@@ -2101,48 +2101,48 @@ Controller models
 ![Net Controller Model](./All/images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 101       | 24.28%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 19        | 4.57%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 15        | 3.61%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 9         | 2.16%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter        | 8         | 1.92%   |
-| Intel Wireless 7260                                               | 8         | 1.92%   |
-| Intel Wireless 7265                                               | 7         | 1.68%   |
-| Intel Ethernet Connection (7) I219-V                              | 7         | 1.68%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                      | 7         | 1.68%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 6         | 1.44%   |
-| Intel Wireless 8260                                               | 6         | 1.44%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 5         | 1.2%    |
-| Intel Wireless 8265 / 8275                                        | 5         | 1.2%    |
-| Intel WiFi Link 5100                                              | 5         | 1.2%    |
-| Intel Wi-Fi 6 AX200                                               | 5         | 1.2%    |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 4         | 0.96%   |
-| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                   | 4         | 0.96%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 4         | 0.96%   |
-| Intel 82579V Gigabit Network Connection                           | 4         | 0.96%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 4         | 0.96%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 4         | 0.96%   |
-| Broadcom BCM4331 802.11a/b/g/n                                    | 4         | 0.96%   |
-| Intel Wireless 3165                                               | 3         | 0.72%   |
-| Intel I211 Gigabit Network Connection                             | 3         | 0.72%   |
-| Intel Ethernet Connection I219-LM                                 | 3         | 0.72%   |
-| Intel Ethernet Connection I218-LM                                 | 3         | 0.72%   |
-| Intel Ethernet Connection I217-LM                                 | 3         | 0.72%   |
-| Intel Centrino Wireless-N 2230                                    | 3         | 0.72%   |
-| Intel Centrino Advanced-N 6200                                    | 3         | 0.72%   |
-| Intel Cannon Lake PCH CNVi WiFi                                   | 3         | 0.72%   |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 0.72%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3         | 0.72%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.48%   |
-| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter          | 2         | 0.48%   |
-| Realtek RTL8188EE Wireless Network Adapter                        | 2         | 0.48%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 2         | 0.48%   |
-| Ralink RT5370 Wireless Adapter                                    | 2         | 0.48%   |
-| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter            | 2         | 0.48%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                         | 2         | 0.48%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 2         | 0.48%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 101       | 24.28%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 19        | 4.57%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 15        | 3.61%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 9         | 2.16%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter             | 8         | 1.92%   |
+| Intel Wireless 7260                                                    | 8         | 1.92%   |
+| Intel Wireless 7265                                                    | 7         | 1.68%   |
+| Intel Ethernet Connection (7) I219-V                                   | 7         | 1.68%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                           | 7         | 1.68%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 6         | 1.44%   |
+| Intel Wireless 8260                                                    | 6         | 1.44%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 5         | 1.2%    |
+| Intel Wireless 8265 / 8275                                             | 5         | 1.2%    |
+| Intel WiFi Link 5100                                                   | 5         | 1.2%    |
+| Intel Wi-Fi 6 AX200                                                    | 5         | 1.2%    |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 4         | 0.96%   |
+| Intel Dual Band Wireless-AC 3165 Plus Bluetooth                        | 4         | 0.96%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 4         | 0.96%   |
+| Intel 82579V Gigabit Network Connection                                | 4         | 0.96%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                      | 4         | 0.96%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 4         | 0.96%   |
+| Broadcom BCM4331 802.11a/b/g/n                                         | 4         | 0.96%   |
+| Intel Wireless 3165                                                    | 3         | 0.72%   |
+| Intel I211 Gigabit Network Connection                                  | 3         | 0.72%   |
+| Intel Ethernet Connection I219-LM                                      | 3         | 0.72%   |
+| Intel Ethernet Connection I218-LM                                      | 3         | 0.72%   |
+| Intel Ethernet Connection I217-LM                                      | 3         | 0.72%   |
+| Intel Centrino Wireless-N 2230                                         | 3         | 0.72%   |
+| Intel Centrino Advanced-N 6200                                         | 3         | 0.72%   |
+| Intel Cannon Lake PCH CNVi WiFi                                        | 3         | 0.72%   |
+| Intel 82577LM Gigabit Network Connection                               | 3         | 0.72%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                       | 3         | 0.72%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)            | 2         | 0.48%   |
+| Realtek RTL8821AE 802.11ac PCIe Wireless Network Adapter               | 2         | 0.48%   |
+| Realtek RTL8188EE Wireless Network Adapter                             | 2         | 0.48%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                             | 2         | 0.48%   |
+| Ralink RT5370 Wireless Adapter                                         | 2         | 0.48%   |
+| Ralink RT5390R 802.11bgn PCIe Wireless Network Adapter                 | 2         | 0.48%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 2         | 0.48%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 2         | 0.48%   |
 
 Wireless Vendor
 ---------------
@@ -2248,48 +2248,48 @@ Ethernet models
 ![Ethernet Model](./All/images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Computers | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 101       | 42.8%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 19        | 8.05%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 15        | 6.36%   |
-| Intel Ethernet Connection (7) I219-V                              | 7         | 2.97%   |
-| Intel 82579V Gigabit Network Connection                           | 4         | 1.69%   |
-| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                 | 4         | 1.69%   |
-| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                 | 4         | 1.69%   |
-| Intel I211 Gigabit Network Connection                             | 3         | 1.27%   |
-| Intel Ethernet Connection I219-LM                                 | 3         | 1.27%   |
-| Intel Ethernet Connection I218-LM                                 | 3         | 1.27%   |
-| Intel Ethernet Connection I217-LM                                 | 3         | 1.27%   |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 1.27%   |
-| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                  | 3         | 1.27%   |
-| Samsung GT-I9070 (network tethering, USB debugging enabled)       | 2         | 0.85%   |
-| Qualcomm Atheros QCA8172 Fast Ethernet                            | 2         | 0.85%   |
-| Qualcomm Atheros AR8161 Gigabit Ethernet                          | 2         | 0.85%   |
-| Intel Ethernet Connection I218-V                                  | 2         | 0.85%   |
-| Intel Ethernet Connection (6) I219-LM                             | 2         | 0.85%   |
-| Intel Ethernet Connection (3) I218-V                              | 2         | 0.85%   |
-| Intel 82583V Gigabit Network Connection                           | 2         | 0.85%   |
-| Intel 82567LM Gigabit Network Connection                          | 2         | 0.85%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 2         | 0.85%   |
-| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                 | 2         | 0.85%   |
-| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                   | 2         | 0.85%   |
-| VIA VT6105/VT6106S [Rhine-III]                                    | 1         | 0.42%   |
-| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter     | 1         | 0.42%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1         | 0.42%   |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1         | 0.42%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1         | 0.42%   |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 1         | 0.42%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1         | 0.42%   |
-| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                        | 1         | 0.42%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1         | 0.42%   |
-| Qualcomm Atheros AR8131 Gigabit Ethernet                          | 1         | 0.42%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet    | 1         | 0.42%   |
-| Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller           | 1         | 0.42%   |
-| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller           | 1         | 0.42%   |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1         | 0.42%   |
-| Marvell Group 88E8040T PCI-E Fast Ethernet Controller             | 1         | 0.42%   |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1         | 0.42%   |
+| Model                                                                  | Computers | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 101       | 42.8%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 19        | 8.05%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 15        | 6.36%   |
+| Intel Ethernet Connection (7) I219-V                                   | 7         | 2.97%   |
+| Intel 82579V Gigabit Network Connection                                | 4         | 1.69%   |
+| Broadcom NetXtreme BCM57765 Gigabit Ethernet PCIe                      | 4         | 1.69%   |
+| Broadcom NetXtreme BCM5764M Gigabit Ethernet PCIe                      | 4         | 1.69%   |
+| Intel I211 Gigabit Network Connection                                  | 3         | 1.27%   |
+| Intel Ethernet Connection I219-LM                                      | 3         | 1.27%   |
+| Intel Ethernet Connection I218-LM                                      | 3         | 1.27%   |
+| Intel Ethernet Connection I217-LM                                      | 3         | 1.27%   |
+| Intel 82577LM Gigabit Network Connection                               | 3         | 1.27%   |
+| Broadcom NetXtreme BCM5761 Gigabit Ethernet PCIe                       | 3         | 1.27%   |
+| Samsung GT-I9070 (network tethering, USB debugging enabled)            | 2         | 0.85%   |
+| Qualcomm Atheros QCA8172 Fast Ethernet                                 | 2         | 0.85%   |
+| Qualcomm Atheros AR8161 Gigabit Ethernet                               | 2         | 0.85%   |
+| Intel Ethernet Connection I218-V                                       | 2         | 0.85%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 2         | 0.85%   |
+| Intel Ethernet Connection (3) I218-V                                   | 2         | 0.85%   |
+| Intel 82583V Gigabit Network Connection                                | 2         | 0.85%   |
+| Intel 82567LM Gigabit Network Connection                               | 2         | 0.85%   |
+| Intel 82566DM-2 Gigabit Network Connection                             | 2         | 0.85%   |
+| Broadcom NetXtreme BCM57766 Gigabit Ethernet PCIe                      | 2         | 0.85%   |
+| Broadcom NetLink BCM57785 Gigabit Ethernet PCIe                        | 2         | 0.85%   |
+| VIA VT6105/VT6106S [Rhine-III]                                         | 1         | 0.42%   |
+| Silicon Integrated Systems [SiS] 191 Gigabit Ethernet Adapter          | 1         | 0.42%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1         | 0.42%   |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                              | 1         | 0.42%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1         | 0.42%   |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                          | 1         | 0.42%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1         | 0.42%   |
+| Qualcomm Atheros AR8152 v1.1 Fast Ethernet                             | 1         | 0.42%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1         | 0.42%   |
+| Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1         | 0.42%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet         | 1         | 0.42%   |
+| Marvell Group 88E8072 PCI-E Gigabit Ethernet Controller                | 1         | 0.42%   |
+| Marvell Group 88E8058 PCI-E Gigabit Ethernet Controller                | 1         | 0.42%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                | 1         | 0.42%   |
+| Marvell Group 88E8040T PCI-E Fast Ethernet Controller                  | 1         | 0.42%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1         | 0.42%   |
 
 Net Controller Kind
 -------------------

@@ -1163,48 +1163,48 @@ Storage controller models
 ![Storage Model](./images/pie_chart_bsd/storage_model.svg)
 
 
-| Model                                                                                   | Desktops | Percent |
-|-----------------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                                     | 18       | 10.4%   |
-| Intel Cannon Lake PCH SATA AHCI Controller                                              | 8        | 4.62%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 8        | 4.62%   |
-| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]          | 7        | 4.05%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                       | 6        | 3.47%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 6        | 3.47%   |
-| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                    | 6        | 3.47%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 5        | 2.89%   |
-| Intel 82801G (ICH7 Family) IDE Controller                                               | 5        | 2.89%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5) | 5        | 2.89%   |
-| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3) | 5        | 2.89%   |
-| AMD 400 Series Chipset SATA Controller                                                  | 5        | 2.89%   |
-| Intel 200 Series PCH SATA controller [AHCI mode]                                        | 4        | 2.31%   |
-| AMD FCH SATA Controller D                                                               | 4        | 2.31%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 3        | 1.73%   |
-| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                      | 3        | 1.73%   |
-| ASMedia ASM1062 Serial ATA Controller                                                   | 3        | 1.73%   |
-| AMD 500 Series Chipset SATA Controller                                                  | 3        | 1.73%   |
-| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 2        | 1.16%   |
-| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                                   | 2        | 1.16%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 2        | 1.16%   |
-| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 2        | 1.16%   |
-| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                          | 2        | 1.16%   |
-| JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1.16%   |
-| Intel SATA Controller [RAID mode]                                                       | 2        | 1.16%   |
-| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                              | 2        | 1.16%   |
-| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]                        | 2        | 1.16%   |
-| Intel Atom Processor E3800 Series SATA AHCI Controller                                  | 2        | 1.16%   |
-| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 2        | 1.16%   |
-| Intel 500 Series Chipset Family SATA AHCI Controller                                    | 2        | 1.16%   |
-| Intel 4 Series Chipset PT IDER Controller                                               | 2        | 1.16%   |
-| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2        | 1.16%   |
-| AMD FCH SATA Controller [IDE mode]                                                      | 2        | 1.16%   |
-| VIA VT6415 PATA IDE Host Controller                                                     | 1        | 0.58%   |
-| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                    | 1        | 0.58%   |
-| Shenzhen Longsys SM2263EN/SM2263XT-based OEM NVME SSD (DRAM-less)                       | 1        | 0.58%   |
-| Shenzhen Longsys Lexar NM620 NVME SSD (DRAM-less)                                       | 1        | 0.58%   |
-| Samsung NVMe SSD Controller 980 (DRAM-less)                                             | 1        | 0.58%   |
-| Realtek RTS5765DL NVMe SSD Controller (DRAM-less)                                       | 1        | 0.58%   |
-| Phison E16 PCIe4 NVMe Controller                                                        | 1        | 0.58%   |
+| Model                                                                                                              | Desktops | Percent |
+|--------------------------------------------------------------------------------------------------------------------|----------|---------|
+| AMD FCH SATA Controller [AHCI mode]                                                                                | 18       | 10.4%   |
+| Intel Cannon Lake PCH SATA AHCI Controller                                                                         | 8        | 4.62%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller                                      | 8        | 4.62%   |
+| Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]                                     | 7        | 4.05%   |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                                                  | 6        | 3.47%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                                                   | 6        | 3.47%   |
+| AMD SB7x0/SB8x0/SB9x0 IDE Controller                                                                               | 6        | 3.47%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                                                      | 5        | 2.89%   |
+| Intel 82801G (ICH7 Family) IDE Controller                                                                          | 5        | 2.89%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 4-5)                            | 5        | 2.89%   |
+| Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3)                            | 5        | 2.89%   |
+| AMD 400 Series Chipset SATA Controller                                                                             | 5        | 2.89%   |
+| Intel 200 Series PCH SATA controller [AHCI mode]                                                                   | 4        | 2.31%   |
+| AMD FCH SATA Controller D                                                                                          | 4        | 2.31%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]                                      | 3        | 1.73%   |
+| Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                                                 | 3        | 1.73%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                                                      | 3        | 1.73%   |
+| AMD 500 Series Chipset SATA Controller                                                                             | 3        | 1.73%   |
+| Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                                                  | 2        | 1.16%   |
+| SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                                                              | 2        | 1.16%   |
+| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                                            | 2        | 1.16%   |
+| SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                                                        | 2        | 1.16%   |
+| Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                                                     | 2        | 1.16%   |
+| JMicron JMB363 SATA/IDE Controller                                                                                 | 2        | 1.16%   |
+| Intel SATA Controller [RAID mode]                                                                                  | 2        | 1.16%   |
+| Intel C610/X99 series chipset sSATA Controller [AHCI mode]                                                         | 2        | 1.16%   |
+| Intel C610/X99 series chipset 6-Port SATA Controller [AHCI mode]                                                   | 2        | 1.16%   |
+| Intel Atom Processor E3800 Series SATA AHCI Controller                                                             | 2        | 1.16%   |
+| Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]                                       | 2        | 1.16%   |
+| Intel 500 Series Chipset Family SATA AHCI Controller                                                               | 2        | 1.16%   |
+| Intel 4 Series Chipset PT IDER Controller                                                                          | 2        | 1.16%   |
+| AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                                                  | 2        | 1.16%   |
+| AMD FCH SATA Controller [IDE mode]                                                                                 | 2        | 1.16%   |
+| VIA VT6415 PATA IDE Host Controller                                                                                | 1        | 0.58%   |
+| SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                                                               | 1        | 0.58%   |
+| Shenzhen Longsys SM2263EN/SM2263XT-based OEM NVME SSD (DRAM-less)                                                  | 1        | 0.58%   |
+| Shenzhen Longsys FORESEE XP1000 / Lexar Professional CFexpress Type B Gold series, NM620 PCIe NVME SSD (DRAM-less) | 1        | 0.58%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                                                        | 1        | 0.58%   |
+| Realtek RTS5765DL NVMe SSD Controller (DRAM-less)                                                                  | 1        | 0.58%   |
+| Phison E16 PCIe4 NVMe Controller                                                                                   | 1        | 0.58%   |
 
 Storage Kind
 ------------
@@ -1786,48 +1786,48 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 53       | 37.06%  |
-| Intel Ethernet Connection I217-LM                                 | 7        | 4.9%    |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6        | 4.2%    |
-| Intel I211 Gigabit Network Connection                             | 4        | 2.8%    |
-| Intel 82574L Gigabit Network Connection                           | 4        | 2.8%    |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                           | 3        | 2.1%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3        | 2.1%    |
-| Intel Wi-Fi 6 AX200                                               | 3        | 2.1%    |
-| Intel Ethernet Connection (7) I219-V                              | 3        | 2.1%    |
-| Intel Ethernet Connection (2) I219-LM                             | 3        | 2.1%    |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter          | 2        | 1.4%    |
-| Realtek RTL8192EE PCIe Wireless Network Adapter                   | 2        | 1.4%    |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 2        | 1.4%    |
-| Ralink RT5370 Wireless Adapter                                    | 2        | 1.4%    |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 2        | 1.4%    |
-| Intel Wireless 8265 / 8275                                        | 2        | 1.4%    |
-| Intel Ethernet Controller I225-V                                  | 2        | 1.4%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.4%    |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                      | 1        | 0.7%    |
-| TP-Link Archer T2U PLUS [RTL8821AU]                               | 1        | 0.7%    |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                   | 1        | 0.7%    |
-| Realtek RTL8192CU 802.11n WLAN Adapter                            | 1        | 0.7%    |
-| Realtek RTL8188EE Wireless Network Adapter                        | 1        | 0.7%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 0.7%    |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.7%    |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                         | 1        | 0.7%    |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter        | 1        | 0.7%    |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1        | 0.7%    |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.7%    |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 0.7%    |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                  | 1        | 0.7%    |
-| Qualcomm Atheros AR9462 Wireless Network Adapter                  | 1        | 0.7%    |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)    | 1        | 0.7%    |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)    | 1        | 0.7%    |
-| Qualcomm Atheros AR9227 Wireless Network Adapter                  | 1        | 0.7%    |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.7%    |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 0.7%    |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.7%    |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                     | 1        | 0.7%    |
-| Intel Wireless 8260                                               | 1        | 0.7%    |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 53       | 37.06%  |
+| Intel Ethernet Connection I217-LM                                      | 7        | 4.9%    |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 6        | 4.2%    |
+| Intel I211 Gigabit Network Connection                                  | 4        | 2.8%    |
+| Intel 82574L Gigabit Network Connection                                | 4        | 2.8%    |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                                | 3        | 2.1%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3        | 2.1%    |
+| Intel Wi-Fi 6 AX200                                                    | 3        | 2.1%    |
+| Intel Ethernet Connection (7) I219-V                                   | 3        | 2.1%    |
+| Intel Ethernet Connection (2) I219-LM                                  | 3        | 2.1%    |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 2        | 1.4%    |
+| Realtek RTL8192EE PCIe Wireless Network Adapter                        | 2        | 1.4%    |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 2        | 1.4%    |
+| Ralink RT5370 Wireless Adapter                                         | 2        | 1.4%    |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                          | 2        | 1.4%    |
+| Intel Wireless 8265 / 8275                                             | 2        | 1.4%    |
+| Intel Ethernet Controller I225-V                                       | 2        | 1.4%    |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 1.4%    |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                           | 1        | 0.7%    |
+| TP-Link Archer T2U PLUS [RTL8821AU]                                    | 1        | 0.7%    |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                        | 1        | 0.7%    |
+| Realtek RTL8192CU 802.11n WLAN Adapter                                 | 1        | 0.7%    |
+| Realtek RTL8188EE Wireless Network Adapter                             | 1        | 0.7%    |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 0.7%    |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1        | 0.7%    |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                              | 1        | 0.7%    |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter             | 1        | 0.7%    |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                              | 1        | 0.7%    |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1        | 0.7%    |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 0.7%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 0.7%    |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                       | 1        | 0.7%    |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 1        | 0.7%    |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 1        | 0.7%    |
+| Qualcomm Atheros AR9227 Wireless Network Adapter                       | 1        | 0.7%    |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.7%    |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.7%    |
+| Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.7%    |
+| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                          | 1        | 0.7%    |
+| Intel Wireless 8260                                                    | 1        | 0.7%    |
 
 Wireless Vendor
 ---------------
@@ -1882,7 +1882,7 @@ Wireless models
 | Qualcomm Atheros AR9227 Wireless Network Adapter                            | 1        | 2.63%   |
 | Intel Wireless 8260                                                         | 1        | 2.63%   |
 | Intel Wireless 7260                                                         | 1        | 2.63%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                      | 1        | 2.63%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                   | 1        | 2.63%   |
 | Intel Cannon Lake PCH CNVi WiFi                                             | 1        | 2.63%   |
 | IMC Networks Realtek RTL8191SU Wireless LAN 802.11n USB 2.0 Network Adapter | 1        | 2.63%   |
 | Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]              | 1        | 2.63%   |
@@ -1914,35 +1914,35 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 53       | 50.48%  |
-| Intel Ethernet Connection I217-LM                                 | 7        | 6.67%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 6        | 5.71%   |
-| Intel I211 Gigabit Network Connection                             | 4        | 3.81%   |
-| Intel 82574L Gigabit Network Connection                           | 4        | 3.81%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 3        | 2.86%   |
-| Intel Ethernet Connection (7) I219-V                              | 3        | 2.86%   |
-| Intel Ethernet Connection (2) I219-LM                             | 3        | 2.86%   |
-| Qualcomm Atheros Attansic L1 Gigabit Ethernet                     | 2        | 1.9%    |
-| Intel Ethernet Controller I225-V                                  | 2        | 1.9%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.9%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 1        | 0.95%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter             | 1        | 0.95%   |
-| Qualcomm Atheros QCA8171 Gigabit Ethernet                         | 1        | 0.95%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1        | 0.95%   |
-| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller         | 1        | 0.95%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                        | 1        | 0.95%   |
-| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                     | 1        | 0.95%   |
-| Qualcomm Atheros AR8132 Fast Ethernet                             | 1        | 0.95%   |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                     | 1        | 0.95%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1        | 0.95%   |
-| Intel Ethernet Connection (2) I219-V                              | 1        | 0.95%   |
-| Intel Ethernet Connection (2) I218-V                              | 1        | 0.95%   |
-| Intel Ethernet Connection (11) I219-LM                            | 1        | 0.95%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 0.95%   |
-| Intel 82577LM Gigabit Network Connection                          | 1        | 0.95%   |
-| Intel 82566DM-2 Gigabit Network Connection                        | 1        | 0.95%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 53       | 50.48%  |
+| Intel Ethernet Connection I217-LM                                      | 7        | 6.67%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 6        | 5.71%   |
+| Intel I211 Gigabit Network Connection                                  | 4        | 3.81%   |
+| Intel 82574L Gigabit Network Connection                                | 4        | 3.81%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 3        | 2.86%   |
+| Intel Ethernet Connection (7) I219-V                                   | 3        | 2.86%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 3        | 2.86%   |
+| Qualcomm Atheros Attansic L1 Gigabit Ethernet                          | 2        | 1.9%    |
+| Intel Ethernet Controller I225-V                                       | 2        | 1.9%    |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 1.9%    |
+| Realtek RTL8125 2.5GbE Controller                                      | 1        | 0.95%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                  | 1        | 0.95%   |
+| Qualcomm Atheros QCA8171 Gigabit Ethernet                              | 1        | 0.95%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1        | 0.95%   |
+| Qualcomm Atheros Killer E220x Gigabit Ethernet Controller              | 1        | 0.95%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.95%   |
+| Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.95%   |
+| Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.95%   |
+| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                          | 1        | 0.95%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1        | 0.95%   |
+| Intel Ethernet Connection (2) I219-V                                   | 1        | 0.95%   |
+| Intel Ethernet Connection (2) I218-V                                   | 1        | 0.95%   |
+| Intel Ethernet Connection (11) I219-LM                                 | 1        | 0.95%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 0.95%   |
+| Intel 82577LM Gigabit Network Connection                               | 1        | 0.95%   |
+| Intel 82566DM-2 Gigabit Network Connection                             | 1        | 0.95%   |
 
 Net Controller Kind
 -------------------
@@ -2175,6 +2175,7 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                  | 2        | 1.41%   |
 | Unknown RAM Module 1GB DIMM SDRAM                     | 2        | 1.41%   |
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s     | 2        | 1.41%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s    | 2        | 1.41%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s  | 2        | 1.41%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s   | 2        | 1.41%   |
 | Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s     | 2        | 1.41%   |
@@ -2194,8 +2195,6 @@ Memory module models
 | Unknown RAM Module 1GB DIMM DDR2 400MT/s              | 1        | 0.7%    |
 | Transcend RAM TS256MSK64V3N 2GB SODIMM DDR3 1333MT/s  | 1        | 0.7%    |
 | Transcend RAM JM1333KLH-8G 8GB DIMM DDR3 1333MT/s     | 1        | 0.7%    |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s    | 1        | 0.7%    |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s   | 1        | 0.7%    |
 | Team RAM Elite-13 4GB DIMM DDR3 667MT/s               | 1        | 0.7%    |
 | Team RAM Elite-1 2GB DIMM DDR3 667MT/s                | 1        | 0.7%    |
 | SK hynix RAM Module 8GB DIMM DDR4 2667MT/s            | 1        | 0.7%    |
@@ -2209,6 +2208,7 @@ Memory module models
 | SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 3200MT/s  | 1        | 0.7%    |
 | SK hynix RAM HMA81GU6AFR8N-UH 8GB DIMM DDR4 2400MT/s  | 1        | 0.7%    |
 | SK hynix RAM HMA42GR7AFR4N-TF 16GB RIMM DDR4 2133MT/s | 1        | 0.7%    |
+| Samsung RAM Module 8GB SODIMM DDR4 2400MT/s           | 1        | 0.7%    |
 
 Memory Kind
 -----------

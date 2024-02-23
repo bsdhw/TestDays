@@ -1445,45 +1445,45 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8         | 12.7%   |
-| Intel Wireless 8265 / 8275                                        | 4         | 6.35%   |
-| Intel I211 Gigabit Network Connection                             | 4         | 6.35%   |
-| Intel Wireless 7260                                               | 3         | 4.76%   |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 4.76%   |
-| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter          | 2         | 3.17%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 2         | 3.17%   |
-| Intel Wireless-AC 9260                                            | 2         | 3.17%   |
-| Intel Wireless 7265                                               | 2         | 3.17%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                 | 2         | 3.17%   |
-| Intel Centrino Ultimate-N 6300                                    | 2         | 3.17%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                          | 2         | 3.17%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 3.17%   |
-| AMD XGMAC 10GbE Controller                                        | 2         | 3.17%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 1         | 1.59%   |
-| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                        | 1         | 1.59%   |
-| Intel Wireless 8260                                               | 1         | 1.59%   |
-| Intel WiFi Link 5100                                              | 1         | 1.59%   |
-| Intel Wi-Fi 6 AX201                                               | 1         | 1.59%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection             | 1         | 1.59%   |
-| Intel I210 Gigabit Network Connection                             | 1         | 1.59%   |
-| Intel Ethernet Controller I225-V                                  | 1         | 1.59%   |
-| Intel Ethernet Connection I219-V                                  | 1         | 1.59%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 1.59%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 1.59%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 1.59%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1         | 1.59%   |
-| Intel Centrino Wireless-N 1030 [Rainbow Peak]                     | 1         | 1.59%   |
-| Intel Centrino Wireless-N 1000 [Condor Peak]                      | 1         | 1.59%   |
-| Intel Centrino Advanced-N 6235                                    | 1         | 1.59%   |
-| Intel Centrino Advanced-N 6200                                    | 1         | 1.59%   |
-| Intel 82573L Gigabit Ethernet Controller                          | 1         | 1.59%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 1.59%   |
-| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter           | 1         | 1.59%   |
-| Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                | 1         | 1.59%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 8         | 12.7%   |
+| Intel Wireless 8265 / 8275                                             | 4         | 6.35%   |
+| Intel I211 Gigabit Network Connection                                  | 4         | 6.35%   |
+| Intel Wireless 7260                                                    | 3         | 4.76%   |
+| Intel 82577LM Gigabit Network Connection                               | 3         | 4.76%   |
+| Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter               | 2         | 3.17%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 2         | 3.17%   |
+| Intel Wireless 7265                                                    | 2         | 3.17%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 2         | 3.17%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                      | 2         | 3.17%   |
+| Intel Centrino Ultimate-N 6300                                         | 2         | 3.17%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                               | 2         | 3.17%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 3.17%   |
+| AMD XGMAC 10GbE Controller                                             | 2         | 3.17%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 1         | 1.59%   |
+| Realtek RTL8188CE 802.11b/g/n WiFi Adapter                             | 1         | 1.59%   |
+| Intel Wireless 8260                                                    | 1         | 1.59%   |
+| Intel WiFi Link 5100                                                   | 1         | 1.59%   |
+| Intel Wi-Fi 6 AX201                                                    | 1         | 1.59%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                  | 1         | 1.59%   |
+| Intel I210 Gigabit Network Connection                                  | 1         | 1.59%   |
+| Intel Ethernet Controller I225-V                                       | 1         | 1.59%   |
+| Intel Ethernet Connection I219-V                                       | 1         | 1.59%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 1.59%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 1.59%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 1.59%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 1.59%   |
+| Intel Centrino Wireless-N 1030 [Rainbow Peak]                          | 1         | 1.59%   |
+| Intel Centrino Wireless-N 1000 [Condor Peak]                           | 1         | 1.59%   |
+| Intel Centrino Advanced-N 6235                                         | 1         | 1.59%   |
+| Intel Centrino Advanced-N 6200                                         | 1         | 1.59%   |
+| Intel 82573L Gigabit Ethernet Controller                               | 1         | 1.59%   |
+| Intel 82567LM Gigabit Network Connection                               | 1         | 1.59%   |
+| HP hs2350 HSPA+ Mobile Broadband Module Network Adapter                | 1         | 1.59%   |
+| Dell Wireless 5550 HSPA+ Mini-Card Network Adapter                     | 1         | 1.59%   |
 
 Wireless Vendor
 ---------------
@@ -1513,8 +1513,8 @@ Wireless models
 | Intel Wireless 7260                                      | 3         | 9.38%   |
 | Realtek RTL8852AE 802.11ax PCIe Wireless Network Adapter | 2         | 6.25%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter      | 2         | 6.25%   |
-| Intel Wireless-AC 9260                                   | 2         | 6.25%   |
 | Intel Wireless 7265                                      | 2         | 6.25%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]  | 2         | 6.25%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                        | 2         | 6.25%   |
 | Intel Centrino Ultimate-N 6300                           | 2         | 6.25%   |
 | Intel Cannon Point-LP CNVi [Wireless-AC]                 | 2         | 6.25%   |
@@ -1552,24 +1552,24 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 8         | 26.67%  |
-| Intel I211 Gigabit Network Connection                             | 4         | 13.33%  |
-| Intel 82577LM Gigabit Network Connection                          | 3         | 10%     |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2         | 6.67%   |
-| AMD XGMAC 10GbE Controller                                        | 2         | 6.67%   |
-| Intel I210 Gigabit Network Connection                             | 1         | 3.33%   |
-| Intel Ethernet Controller I225-V                                  | 1         | 3.33%   |
-| Intel Ethernet Connection I219-V                                  | 1         | 3.33%   |
-| Intel Ethernet Connection I218-LM                                 | 1         | 3.33%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 3.33%   |
-| Intel Ethernet Connection (6) I219-LM                             | 1         | 3.33%   |
-| Intel Ethernet Connection (4) I219-V                              | 1         | 3.33%   |
-| Intel Ethernet Connection (4) I219-LM                             | 1         | 3.33%   |
-| Intel Ethernet Connection (2) I219-LM                             | 1         | 3.33%   |
-| Intel 82573L Gigabit Ethernet Controller                          | 1         | 3.33%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 3.33%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 8         | 26.67%  |
+| Intel I211 Gigabit Network Connection                                  | 4         | 13.33%  |
+| Intel 82577LM Gigabit Network Connection                               | 3         | 10%     |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2         | 6.67%   |
+| AMD XGMAC 10GbE Controller                                             | 2         | 6.67%   |
+| Intel I210 Gigabit Network Connection                                  | 1         | 3.33%   |
+| Intel Ethernet Controller I225-V                                       | 1         | 3.33%   |
+| Intel Ethernet Connection I219-V                                       | 1         | 3.33%   |
+| Intel Ethernet Connection I218-LM                                      | 1         | 3.33%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 3.33%   |
+| Intel Ethernet Connection (6) I219-LM                                  | 1         | 3.33%   |
+| Intel Ethernet Connection (4) I219-V                                   | 1         | 3.33%   |
+| Intel Ethernet Connection (4) I219-LM                                  | 1         | 3.33%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 1         | 3.33%   |
+| Intel 82573L Gigabit Ethernet Controller                               | 1         | 3.33%   |
+| Intel 82567LM Gigabit Network Connection                               | 1         | 3.33%   |
 
 Net Controller Kind
 -------------------
@@ -1952,11 +1952,12 @@ Fingerprint sensor vendors
 
 | Vendor                     | Notebooks | Percent |
 |----------------------------|-----------|---------|
-| Validity Sensors           | 5         | 35.71%  |
-| Upek                       | 3         | 21.43%  |
-| Synaptics                  | 3         | 21.43%  |
-| Shenzhen Goodix Technology | 2         | 14.29%  |
-| STMicroelectronics         | 1         | 7.14%   |
+| Validity Sensors           | 5         | 33.33%  |
+| Upek                       | 3         | 20%     |
+| Synaptics                  | 3         | 20%     |
+| Shenzhen Goodix Technology | 2         | 13.33%  |
+| STMicroelectronics         | 1         | 6.67%   |
+| Elan Microelectronics      | 1         | 6.67%   |
 
 Fingerprint Model
 -----------------
@@ -1968,14 +1969,15 @@ Fingerprint sensor models
 
 | Model                                                    | Notebooks | Percent |
 |----------------------------------------------------------|-----------|---------|
-| Validity Sensors VFS495 Fingerprint Reader               | 3         | 21.43%  |
-| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor   | 3         | 21.43%  |
-| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 14.29%  |
-| Shenzhen Goodix Fingerprint Reader                       | 2         | 14.29%  |
-| Validity Sensors VFS5011 Fingerprint Reader              | 1         | 7.14%   |
-| Validity Sensors VFS491                                  | 1         | 7.14%   |
-| Synaptics Prometheus MIS Touch Fingerprint Reader        | 1         | 7.14%   |
-| STMicroelectronics Fingerprint Reader                    | 1         | 7.14%   |
+| Validity Sensors VFS495 Fingerprint Reader               | 3         | 20%     |
+| Upek Biometric Touchchip/Touchstrip Fingerprint Sensor   | 3         | 20%     |
+| Synaptics FS7604 Touch Fingerprint Sensor with PurePrint | 2         | 13.33%  |
+| Shenzhen Goodix Fingerprint Reader                       | 2         | 13.33%  |
+| Validity Sensors VFS5011 Fingerprint Reader              | 1         | 6.67%   |
+| Validity Sensors VFS491                                  | 1         | 6.67%   |
+| Synaptics Prometheus MIS Touch Fingerprint Reader        | 1         | 6.67%   |
+| STMicroelectronics Fingerprint Reader                    | 1         | 6.67%   |
+| Elan Fingerprint Sensor                                  | 1         | 6.67%   |
 
 Chipcard Vendor
 ---------------
@@ -2004,8 +2006,8 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 13        | 35.14%  |
-| 1     | 11        | 29.73%  |
+| 2     | 14        | 37.84%  |
+| 1     | 10        | 27.03%  |
 | 3     | 8         | 21.62%  |
 | 0     | 3         | 8.11%   |
 | 4     | 2         | 5.41%   |
@@ -2020,11 +2022,11 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Communication controller | 25        | 41.67%  |
-| Fingerprint reader       | 14        | 23.33%  |
-| Bluetooth                | 8         | 13.33%  |
-| Card reader              | 7         | 11.67%  |
-| Firewire controller      | 3         | 5%      |
-| Net/wireless             | 2         | 3.33%   |
-| Graphics card            | 1         | 1.67%   |
+| Communication controller | 25        | 40.98%  |
+| Fingerprint reader       | 15        | 24.59%  |
+| Bluetooth                | 8         | 13.11%  |
+| Card reader              | 7         | 11.48%  |
+| Firewire controller      | 3         | 4.92%   |
+| Net/wireless             | 2         | 3.28%   |
+| Graphics card            | 1         | 1.64%   |
 

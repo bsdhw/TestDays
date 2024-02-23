@@ -1058,17 +1058,17 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 3         | 25%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2         | 16.67%  |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter     | 1         | 8.33%   |
-| Intel Wireless-AC 9260                                            | 1         | 8.33%   |
-| Intel Wireless 8265 / 8275                                        | 1         | 8.33%   |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 8.33%   |
-| Intel Cannon Lake PCH CNVi WiFi                                   | 1         | 8.33%   |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1         | 8.33%   |
-| ASUS USB-AC53 Nano USB Wieless Adapter                            | 1         | 8.33%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 3         | 25%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2         | 16.67%  |
+| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter          | 1         | 8.33%   |
+| Intel Wireless 8265 / 8275                                             | 1         | 8.33%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 1         | 8.33%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1         | 8.33%   |
+| Intel Cannon Lake PCH CNVi WiFi                                        | 1         | 8.33%   |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                | 1         | 8.33%   |
+| ASUS USB-AC53 Nano USB Wieless Adapter                                 | 1         | 8.33%   |
 
 Wireless Vendor
 ---------------
@@ -1097,8 +1097,8 @@ Wireless models
 |---------------------------------------------------------------|-----------|---------|
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter           | 3         | 37.5%   |
 | MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter | 1         | 12.5%   |
-| Intel Wireless-AC 9260                                        | 1         | 12.5%   |
 | Intel Wireless 8265 / 8275                                    | 1         | 12.5%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]       | 1         | 12.5%   |
 | Intel Cannon Lake PCH CNVi WiFi                               | 1         | 12.5%   |
 | ASUS USB-AC53 Nano USB Wieless Adapter                        | 1         | 12.5%   |
 
@@ -1124,11 +1124,11 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2         | 50%     |
-| Intel Ethernet Connection (7) I219-V                              | 1         | 25%     |
-| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express           | 1         | 25%     |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2         | 50%     |
+| Intel Ethernet Connection (7) I219-V                                   | 1         | 25%     |
+| Broadcom NetXtreme BCM5751 Gigabit Ethernet PCI Express                | 1         | 25%     |
 
 Net Controller Kind
 -------------------

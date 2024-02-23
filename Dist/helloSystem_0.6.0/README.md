@@ -587,12 +587,12 @@ Motherboard manufacture year
 | 2012 | 14        | 10.07%  |
 | 2011 | 13        | 9.35%   |
 | 2010 | 13        | 9.35%   |
-| 2015 | 10        | 7.19%   |
+| 2015 | 11        | 7.91%   |
 | 2014 | 10        | 7.19%   |
 | 2020 | 9         | 6.47%   |
 | 2021 | 8         | 5.76%   |
-| 2016 | 8         | 5.76%   |
 | 2018 | 7         | 5.04%   |
+| 2016 | 7         | 5.04%   |
 | 2009 | 5         | 3.6%    |
 | 2017 | 4         | 2.88%   |
 | 2008 | 3         | 2.16%   |
@@ -1030,8 +1030,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 104       | 142    | 64.6%   |
-| 0.51-1.0   | 41        | 45     | 25.47%  |
+| 0.01-0.5   | 105       | 143    | 65.22%  |
+| 0.51-1.0   | 40        | 44     | 24.84%  |
 | 1.01-2.0   | 8         | 9      | 4.97%   |
 | 2.01-3.0   | 4         | 6      | 2.48%   |
 | 3.01-4.0   | 3         | 3      | 1.86%   |
@@ -1265,7 +1265,7 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                 | 3         | 1.66%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 3         | 1.66%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3         | 1.66%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 3         | 1.66%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 3         | 1.66%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                               | 3         | 1.66%   |
 | SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2         | 1.1%    |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                             | 2         | 1.1%    |
@@ -1882,7 +1882,7 @@ Controller models
 
 | Model                                                                          | Computers | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 46        | 18.85%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 46        | 18.85%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 10        | 4.1%    |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 9         | 3.69%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                               | 7         | 2.87%   |
@@ -2028,7 +2028,7 @@ Ethernet models
 
 | Model                                                                          | Computers | Percent |
 |--------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller              | 46        | 34.59%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 46        | 34.59%  |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                          | 10        | 7.52%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                          | 9         | 6.77%   |
 | Intel I211 Gigabit Network Connection                                          | 6         | 4.51%   |
@@ -2318,7 +2318,7 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown                                                         | 5         | 2.87%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 1.72%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s             | 2         | 1.15%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s              | 2         | 1.15%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.15%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.15%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.15%   |

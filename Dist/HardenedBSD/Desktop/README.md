@@ -1056,12 +1056,12 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Intel I210 Gigabit Network Connection                             | 2        | 40%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                     | 1        | 20%     |
-| Intel Ethernet Connection (2) I219-LM                             | 1        | 20%     |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Intel I210 Gigabit Network Connection                                  | 2        | 40%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 1        | 20%     |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 20%     |
 
 Wireless Vendor
 ---------------
@@ -1098,12 +1098,12 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Intel I210 Gigabit Network Connection                             | 2        | 40%     |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                     | 1        | 20%     |
-| Intel Ethernet Connection (2) I219-LM                             | 1        | 20%     |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Intel I210 Gigabit Network Connection                                  | 2        | 40%     |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1        | 20%     |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 1        | 20%     |
+| Intel Ethernet Connection (2) I219-LM                                  | 1        | 20%     |
 
 Net Controller Kind
 -------------------

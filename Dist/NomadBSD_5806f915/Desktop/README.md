@@ -841,20 +841,20 @@ Storage controller models
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 2        | 5.71%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 2        | 5.71%   |
 | Biwin Storage EX950 NVMe SSD                                                   | 2        | 5.71%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 2        | 5.71%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 2        | 5.71%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 5.71%   |
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1        | 2.86%   |
 | Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1        | 2.86%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 2.86%   |
 | Kingston Company A2000 NVMe SSD SM2263EN                                       | 1        | 2.86%   |
 | Intel SSD 660P Series                                                          | 1        | 2.86%   |
+| Intel SATA Controller [RAID Mode]                                              | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.86%   |
 | Intel NVMe Optane Memory Series                                                | 1        | 2.86%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 1        | 2.86%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 1        | 2.86%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 1        | 2.86%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                            | 1        | 2.86%   |
-| Intel C600/X79 series chipset SATA RAID Controller                             | 1        | 2.86%   |
 | Intel C600/X79 series chipset IDE-r Controller                                 | 1        | 2.86%   |
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 1        | 2.86%   |
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]               | 1        | 2.86%   |
@@ -1281,29 +1281,29 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                | Desktops | Percent |
-|----------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller    | 7        | 21.88%  |
-| Realtek RTL8125 2.5GbE Controller                                    | 3        | 9.38%   |
-| Intel Ethernet Connection (2) I219-V                                 | 3        | 9.38%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                | 2        | 6.25%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                      | 1        | 3.13%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 1        | 3.13%   |
-| Realtek RTL8192CE PCIe Wireless Network Adapter                      | 1        | 3.13%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                | 1        | 3.13%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1        | 3.13%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                | 1        | 3.13%   |
-| Ralink RT5372 Wireless Adapter                                       | 1        | 3.13%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter                     | 1        | 3.13%   |
-| Microchip MCP2200 USB-to-Serial Port                                 | 1        | 3.13%   |
-| Intel Wireless 8265 / 8275                                           | 1        | 3.13%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                     | 1        | 3.13%   |
-| Intel 82579V Gigabit Network Connection                              | 1        | 3.13%   |
-| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]       | 1        | 3.13%   |
-| D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070] | 1        | 3.13%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 1        | 3.13%   |
-| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter         | 1        | 3.13%   |
-| Broadcom BCM43142 802.11b/g/n                                        | 1        | 3.13%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 7        | 21.88%  |
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 9.38%   |
+| Intel Ethernet Connection (2) I219-V                                   | 3        | 9.38%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2        | 6.25%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                        | 1        | 3.13%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 1        | 3.13%   |
+| Realtek RTL8192CE PCIe Wireless Network Adapter                        | 1        | 3.13%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                  | 1        | 3.13%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1        | 3.13%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1        | 3.13%   |
+| Ralink RT5372 Wireless Adapter                                         | 1        | 3.13%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                       | 1        | 3.13%   |
+| Microchip MCP2200 USB-to-Serial Port                                   | 1        | 3.13%   |
+| Intel Wireless 8265 / 8275                                             | 1        | 3.13%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 1        | 3.13%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 3.13%   |
+| Edimax EW-7811Un 802.11n Wireless Adapter [Realtek RTL8188CUS]         | 1        | 3.13%   |
+| D-Link System DWA-125 Wireless N 150 Adapter(rev.A1) [Ralink RT3070]   | 1        | 3.13%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter           | 1        | 3.13%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter           | 1        | 3.13%   |
+| Broadcom BCM43142 802.11b/g/n                                          | 1        | 3.13%   |
 
 Wireless Vendor
 ---------------
@@ -1369,14 +1369,14 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 7        | 41.18%  |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 17.65%  |
-| Intel Ethernet Connection (2) I219-V                              | 3        | 17.65%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 11.76%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 1        | 5.88%   |
-| Intel 82579V Gigabit Network Connection                           | 1        | 5.88%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 7        | 41.18%  |
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 17.65%  |
+| Intel Ethernet Connection (2) I219-V                                   | 3        | 17.65%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2        | 11.76%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 1        | 5.88%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 5.88%   |
 
 Net Controller Kind
 -------------------

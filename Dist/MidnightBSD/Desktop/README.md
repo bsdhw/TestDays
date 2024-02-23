@@ -147,10 +147,15 @@ Contents
 Test Cases
 ----------
 
-Total: 44
+Total: 49
 
 | Vendor     | Model                       | Probe                                                     | Date         |
 |------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Supermicro | X9SCL/X9SCMA                | [53bdb73b74](https://bsd-hardware.info/?probe=53bdb73b74) | Feb 14, 2024 |
+| ASRock     | B550M Steel Legend          | [fa494be63d](https://bsd-hardware.info/?probe=fa494be63d) | Jan 26, 2024 |
+| ASUSTek    | TUF Gaming B450M-PLUS II    | [eda92591b5](https://bsd-hardware.info/?probe=eda92591b5) | Jan 07, 2024 |
+| ASUSTek    | TUF Gaming B450M-PLUS II    | [12ff062207](https://bsd-hardware.info/?probe=12ff062207) | Jan 07, 2024 |
+| ASRock     | B550M Steel Legend          | [d24b57f807](https://bsd-hardware.info/?probe=d24b57f807) | Jan 06, 2024 |
 | ASRock     | X570 Steel Legend WiFi a... | [a98f0b3d67](https://bsd-hardware.info/?probe=a98f0b3d67) | Sep 03, 2023 |
 | ASRock     | X570 Steel Legend WiFi a... | [d352ea60cf](https://bsd-hardware.info/?probe=d352ea60cf) | Sep 03, 2023 |
 | ASUSTek    | TUF Gaming B450M-PLUS II    | [1b53079f34](https://bsd-hardware.info/?probe=1b53079f34) | Aug 19, 2023 |
@@ -209,26 +214,29 @@ Installed operating systems
 
 | Name              | Desktops | Percent |
 |-------------------|----------|---------|
-| MidnightBSD 2.0.2 | 4        | 11.43%  |
-| MidnightBSD 3.1.0 | 3        | 8.57%   |
-| MidnightBSD 2.0.1 | 3        | 8.57%   |
-| MidnightBSD 1.2   | 3        | 8.57%   |
-| MidnightBSD 3.0.1 | 2        | 5.71%   |
-| MidnightBSD 3.0.0 | 2        | 5.71%   |
-| MidnightBSD 2.2.6 | 2        | 5.71%   |
-| MidnightBSD 2.2.0 | 2        | 5.71%   |
-| MidnightBSD 2.1.8 | 2        | 5.71%   |
-| MidnightBSD 2.0.7 | 2        | 5.71%   |
-| MidnightBSD 2.2.8 | 1        | 2.86%   |
-| MidnightBSD 2.2.5 | 1        | 2.86%   |
-| MidnightBSD 2.1.6 | 1        | 2.86%   |
-| MidnightBSD 2.1.5 | 1        | 2.86%   |
-| MidnightBSD 2.1.3 | 1        | 2.86%   |
-| MidnightBSD 2.1.2 | 1        | 2.86%   |
-| MidnightBSD 2.1.1 | 1        | 2.86%   |
-| MidnightBSD 2.1.0 | 1        | 2.86%   |
-| MidnightBSD 1.2.9 | 1        | 2.86%   |
-| MidnightBSD 1.2.7 | 1        | 2.86%   |
+| MidnightBSD 2.0.2 | 4        | 10.53%  |
+| MidnightBSD 3.1.0 | 3        | 7.89%   |
+| MidnightBSD 2.0.1 | 3        | 7.89%   |
+| MidnightBSD 1.2   | 3        | 7.89%   |
+| MidnightBSD 3.0.1 | 2        | 5.26%   |
+| MidnightBSD 3.0.0 | 2        | 5.26%   |
+| MidnightBSD 2.2.6 | 2        | 5.26%   |
+| MidnightBSD 2.2.0 | 2        | 5.26%   |
+| MidnightBSD 2.1.8 | 2        | 5.26%   |
+| MidnightBSD 2.0.7 | 2        | 5.26%   |
+| MidnightBSD 3.1.4 | 1        | 2.63%   |
+| MidnightBSD 3.1.3 | 1        | 2.63%   |
+| MidnightBSD 3.1.1 | 1        | 2.63%   |
+| MidnightBSD 2.2.8 | 1        | 2.63%   |
+| MidnightBSD 2.2.5 | 1        | 2.63%   |
+| MidnightBSD 2.1.6 | 1        | 2.63%   |
+| MidnightBSD 2.1.5 | 1        | 2.63%   |
+| MidnightBSD 2.1.3 | 1        | 2.63%   |
+| MidnightBSD 2.1.2 | 1        | 2.63%   |
+| MidnightBSD 2.1.1 | 1        | 2.63%   |
+| MidnightBSD 2.1.0 | 1        | 2.63%   |
+| MidnightBSD 1.2.9 | 1        | 2.63%   |
+| MidnightBSD 1.2.7 | 1        | 2.63%   |
 
 OS Family
 ---------
@@ -265,10 +273,10 @@ Desktop Environment
 
 | Name         | Desktops | Percent |
 |--------------|----------|---------|
-| Console      | 7        | 41.18%  |
-| XFCE         | 5        | 29.41%  |
-| GNOME        | 4        | 23.53%  |
-| Window Maker | 1        | 5.88%   |
+| Console      | 7        | 38.89%  |
+| XFCE         | 5        | 27.78%  |
+| GNOME        | 5        | 27.78%  |
+| Window Maker | 1        | 5.56%   |
 
 Display Server
 --------------
@@ -599,10 +607,10 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Seagate             | 8        | 44     | 21.62%  |
-| Samsung Electronics | 8        | 54     | 21.62%  |
-| Intel               | 6        | 40     | 16.22%  |
-| WDC                 | 5        | 23     | 13.51%  |
+| Seagate             | 8        | 49     | 21.62%  |
+| Samsung Electronics | 8        | 58     | 21.62%  |
+| Intel               | 6        | 43     | 16.22%  |
+| WDC                 | 5        | 25     | 13.51%  |
 | Toshiba             | 3        | 7      | 8.11%   |
 | KIOXIA              | 2        | 3      | 5.41%   |
 | SK hynix            | 1        | 1      | 2.7%    |
@@ -621,39 +629,41 @@ Hard drive models
 
 | Model                                       | Desktops | Percent |
 |---------------------------------------------|----------|---------|
-| Samsung SSD 860 EVO 500GB                   | 5        | 7.94%   |
-| Samsung SSD 970 PRO 512GB                   | 4        | 6.35%   |
-| Intel SSDSC2KG480G8 480GB                   | 4        | 6.35%   |
-| Seagate ST8000VN0022-2EL112 8TB             | 3        | 4.76%   |
-| Seagate ST8000VN0002-1Z8112 8TB             | 3        | 4.76%   |
-| Samsung SSD 870 EVO 1TB                     | 3        | 4.76%   |
-| Intel SSDPED1D480GA 480GB                   | 3        | 4.76%   |
-| WDC WDS100T3X0C-00SJG0 1TB                  | 2        | 3.17%   |
-| WDC WD60EFAX-68SHWN0 6TB                    | 2        | 3.17%   |
-| Toshiba THNSNJ128GCSU 128GB                 | 2        | 3.17%   |
-| Seagate ST16000NM001G-2KK103 16TB           | 2        | 3.17%   |
-| Seagate ST10000VN0008-2PJ103 10TB           | 2        | 3.17%   |
-| Seagate ST10000NE0008-2PL103 10TB           | 2        | 3.17%   |
-| Seagate IronWolf ZA1000NM10002-2ZG102 1TB   | 2        | 3.17%   |
-| Seagate FireCuda 120 SSD ZA500GM10001 500GB | 2        | 3.17%   |
-| Samsung SSD 860 QVO 2TB                     | 2        | 3.17%   |
-| Samsung SSD 860 EVO 1TB                     | 2        | 3.17%   |
-| Samsung SSD 750 EVO 250GB                   | 2        | 3.17%   |
-| KIOXIA KBG40ZNV1T02 1TB                     | 2        | 3.17%   |
-| WDC WD30EZRX-00MMMB0 3TB                    | 1        | 1.59%   |
-| WDC WD1003FZEX-00K3CA0 1TB                  | 1        | 1.59%   |
-| Toshiba TL100 120GB                         | 1        | 1.59%   |
-| SK hynix SHGP31-1000GM 1TB                  | 1        | 1.59%   |
-| Seagate ST5000DM000-1FK178 5TB              | 1        | 1.59%   |
-| Seagate ST2000DM001-1CH164 2TB              | 1        | 1.59%   |
-| SanDisk Ultra 3D NVMe 500GB                 | 1        | 1.59%   |
-| Maxtor STM3250310AS 250GB                   | 1        | 1.59%   |
-| Intel SSDSC2KW480H6 480GB                   | 1        | 1.59%   |
-| Intel SSDSC2BW240H6 240GB                   | 1        | 1.59%   |
-| Intel SSDSA2CT040G3 40GB                    | 1        | 1.59%   |
-| Crucial CT500P2SSD8 500GB                   | 1        | 1.59%   |
-| Crucial CT4000P3SSD8 4TB                    | 1        | 1.59%   |
-| A-DATA SX6000NP 128GB                       | 1        | 1.59%   |
+| Samsung SSD 860 EVO 500GB                   | 5        | 7.69%   |
+| Samsung SSD 970 PRO 512GB                   | 4        | 6.15%   |
+| Intel SSDSC2KG480G8 480GB                   | 4        | 6.15%   |
+| Seagate ST8000VN0022-2EL112 8TB             | 3        | 4.62%   |
+| Seagate ST8000VN0002-1Z8112 8TB             | 3        | 4.62%   |
+| Samsung SSD 870 EVO 1TB                     | 3        | 4.62%   |
+| Intel SSDPED1D480GA 480GB                   | 3        | 4.62%   |
+| WDC WDS100T3X0C-00SJG0 1TB                  | 2        | 3.08%   |
+| WDC WD60EFAX-68SHWN0 6TB                    | 2        | 3.08%   |
+| Toshiba THNSNJ128GCSU 128GB                 | 2        | 3.08%   |
+| Seagate ST16000NM001G-2KK103 16TB           | 2        | 3.08%   |
+| Seagate ST10000VN0008-2PJ103 10TB           | 2        | 3.08%   |
+| Seagate ST10000NE0008-2PL103 10TB           | 2        | 3.08%   |
+| Seagate IronWolf ZA1000NM10002-2ZG102 1TB   | 2        | 3.08%   |
+| Seagate FireCuda 120 SSD ZA500GM10001 500GB | 2        | 3.08%   |
+| Samsung SSD 860 QVO 2TB                     | 2        | 3.08%   |
+| Samsung SSD 860 EVO 1TB                     | 2        | 3.08%   |
+| Samsung SSD 750 EVO 250GB                   | 2        | 3.08%   |
+| KIOXIA KBG40ZNV1T02 1TB                     | 2        | 3.08%   |
+| WDC WD30EZRX-00MMMB0 3TB                    | 1        | 1.54%   |
+| WDC WD1003FZEX-00K3CA0 1TB                  | 1        | 1.54%   |
+| Toshiba TL100 120GB                         | 1        | 1.54%   |
+| SK hynix SHGP31-1000GM 1TB                  | 1        | 1.54%   |
+| Seagate ST5000DM000-1FK178 5TB              | 1        | 1.54%   |
+| Seagate ST2000DM001-1CH164 2TB              | 1        | 1.54%   |
+| SanDisk Ultra 3D NVMe 500GB                 | 1        | 1.54%   |
+| Samsung MZ7LM1T9HCJM-00003 1.9TB            | 1        | 1.54%   |
+| Maxtor STM3250310AS 250GB                   | 1        | 1.54%   |
+| Intel SSDSC2KW480H6 480GB                   | 1        | 1.54%   |
+| Intel SSDSC2KB019T8 1.9TB                   | 1        | 1.54%   |
+| Intel SSDSC2BW240H6 240GB                   | 1        | 1.54%   |
+| Intel SSDSA2CT040G3 40GB                    | 1        | 1.54%   |
+| Crucial CT500P2SSD8 500GB                   | 1        | 1.54%   |
+| Crucial CT4000P3SSD8 4TB                    | 1        | 1.54%   |
+| A-DATA SX6000NP 128GB                       | 1        | 1.54%   |
 
 HDD Vendor
 ----------
@@ -665,8 +675,8 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| WDC     | 4        | 18     | 44.44%  |
-| Seagate | 4        | 37     | 44.44%  |
+| WDC     | 4        | 19     | 44.44%  |
+| Seagate | 4        | 42     | 44.44%  |
 | Maxtor  | 1        | 1      | 11.11%  |
 
 SSD Vendor
@@ -679,9 +689,9 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 7        | 40     | 38.89%  |
+| Samsung Electronics | 7        | 43     | 38.89%  |
 | Seagate             | 4        | 7      | 22.22%  |
-| Intel               | 4        | 31     | 22.22%  |
+| Intel               | 4        | 33     | 22.22%  |
 | Toshiba             | 3        | 7      | 16.67%  |
 
 Drive Kind
@@ -694,9 +704,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 11       | 85     | 42.31%  |
-| NVMe | 9        | 42     | 34.62%  |
-| HDD  | 6        | 56     | 23.08%  |
+| SSD  | 11       | 90     | 42.31%  |
+| NVMe | 9        | 45     | 34.62%  |
+| HDD  | 6        | 62     | 23.08%  |
 
 Drive Connector
 ---------------
@@ -708,8 +718,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 13       | 141    | 59.09%  |
-| NVMe | 9        | 42     | 40.91%  |
+| SATA | 13       | 152    | 59.09%  |
+| NVMe | 9        | 45     | 40.91%  |
 
 Drive Size
 ----------
@@ -721,12 +731,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 12       | 62     | 44.44%  |
-| 0.51-1.0   | 6        | 21     | 22.22%  |
-| 1.01-2.0   | 3        | 7      | 11.11%  |
-| 4.01-10.0  | 3        | 45     | 11.11%  |
-| 10.01-20.0 | 2        | 5      | 7.41%   |
-| 2.01-3.0   | 1        | 1      | 3.7%    |
+| 0.01-0.5   | 12       | 63     | 42.86%  |
+| 0.51-1.0   | 6        | 22     | 21.43%  |
+| 1.01-2.0   | 4        | 11     | 14.29%  |
+| 4.01-10.0  | 3        | 49     | 10.71%  |
+| 10.01-20.0 | 2        | 6      | 7.14%   |
+| 2.01-3.0   | 1        | 1      | 3.57%   |
 
 Space Total
 -----------
@@ -753,11 +763,11 @@ Amount of used disk space
 
 | Used GB | Desktops | Percent |
 |---------|----------|---------|
-| 1-20    | 8        | 42.11%  |
-| 21-50   | 4        | 21.05%  |
-| 51-100  | 4        | 21.05%  |
-| 251-500 | 2        | 10.53%  |
-| 101-250 | 1        | 5.26%   |
+| 1-20    | 8        | 40%     |
+| 21-50   | 5        | 25%     |
+| 51-100  | 4        | 20%     |
+| 251-500 | 2        | 10%     |
+| 101-250 | 1        | 5%      |
 
 Malfunc. Drives
 ---------------
@@ -834,7 +844,7 @@ Number of failed and malfunc. drives
 
 | Status   | Desktops | Drives | Percent |
 |----------|----------|--------|---------|
-| Works    | 13       | 179    | 81.25%  |
+| Works    | 13       | 193    | 81.25%  |
 | Malfunc  | 2        | 3      | 12.5%   |
 | Detected | 1        | 1      | 6.25%   |
 
@@ -1272,24 +1282,24 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 12%     |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter          | 2        | 8%      |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 8%      |
-| Intel Wi-Fi 6 AX200                                               | 2        | 8%      |
-| Intel I211 Gigabit Network Connection                             | 2        | 8%      |
-| Intel Ethernet Controller X550                                    | 2        | 8%      |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                     | 2        | 8%      |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 8%      |
-| U-Blox [u-blox 7]                                                 | 1        | 4%      |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter               | 1        | 4%      |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                            | 1        | 4%      |
-| Intel Tiger Lake PCH CNVi WiFi                                    | 1        | 4%      |
-| Intel Ethernet Controller 10G X550T                               | 1        | 4%      |
-| Intel 82574L Gigabit Network Connection                           | 1        | 4%      |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                   | 1        | 4%      |
-| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                | 1        | 4%      |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 12%     |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter               | 2        | 8%      |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2        | 8%      |
+| Intel Wi-Fi 6 AX200                                                    | 2        | 8%      |
+| Intel I211 Gigabit Network Connection                                  | 2        | 8%      |
+| Intel Ethernet Controller X550                                         | 2        | 8%      |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 2        | 8%      |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2        | 8%      |
+| U-Blox [u-blox 7]                                                      | 1        | 4%      |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 1        | 4%      |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 1        | 4%      |
+| Intel Tiger Lake PCH CNVi WiFi                                         | 1        | 4%      |
+| Intel Ethernet Controller 10G X550T                                    | 1        | 4%      |
+| Intel 82574L Gigabit Network Connection                                | 1        | 4%      |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                        | 1        | 4%      |
+| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                     | 1        | 4%      |
 
 Wireless Vendor
 ---------------
@@ -1312,13 +1322,13 @@ Wireless models
 ![Wireless Model](./images/pie_chart_bsd/net_wireless_model.svg)
 
 
-| Model                                                    | Desktops | Percent |
-|----------------------------------------------------------|----------|---------|
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter | 2        | 28.57%  |
-| Intel Wi-Fi 6 AX200                                      | 2        | 28.57%  |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter      | 1        | 14.29%  |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                   | 1        | 14.29%  |
-| Intel Tiger Lake PCH CNVi WiFi                           | 1        | 14.29%  |
+| Model                                                     | Desktops | Percent |
+|-----------------------------------------------------------|----------|---------|
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter  | 2        | 28.57%  |
+| Intel Wi-Fi 6 AX200                                       | 2        | 28.57%  |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter       | 1        | 14.29%  |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak] | 1        | 14.29%  |
+| Intel Tiger Lake PCH CNVi WiFi                            | 1        | 14.29%  |
 
 Ethernet Vendor
 ---------------
@@ -1343,18 +1353,18 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 17.65%  |
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 2        | 11.76%  |
-| Intel I211 Gigabit Network Connection                             | 2        | 11.76%  |
-| Intel Ethernet Controller X550                                    | 2        | 11.76%  |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                     | 2        | 11.76%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 2        | 11.76%  |
-| Intel Ethernet Controller 10G X550T                               | 1        | 5.88%   |
-| Intel 82574L Gigabit Network Connection                           | 1        | 5.88%   |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                   | 1        | 5.88%   |
-| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                | 1        | 5.88%   |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 17.65%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 2        | 11.76%  |
+| Intel I211 Gigabit Network Connection                                  | 2        | 11.76%  |
+| Intel Ethernet Controller X550                                         | 2        | 11.76%  |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 2        | 11.76%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 2        | 11.76%  |
+| Intel Ethernet Controller 10G X550T                                    | 1        | 5.88%   |
+| Intel 82574L Gigabit Network Connection                                | 1        | 5.88%   |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                        | 1        | 5.88%   |
+| Broadcom NetXtreme II BCM57810 10 Gigabit Ethernet                     | 1        | 5.88%   |
 
 Net Controller Kind
 -------------------

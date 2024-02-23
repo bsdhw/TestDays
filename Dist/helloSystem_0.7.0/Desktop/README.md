@@ -665,9 +665,9 @@ Motherboard manufacture year
 | 2013 | 13       | 6.63%   |
 | 2020 | 11       | 5.61%   |
 | 2017 | 11       | 5.61%   |
-| 2016 | 10       | 5.1%    |
+| 2016 | 9        | 4.59%   |
 | 2009 | 9        | 4.59%   |
-| 2015 | 7        | 3.57%   |
+| 2015 | 8        | 4.08%   |
 | 2008 | 6        | 3.06%   |
 | 2007 | 6        | 3.06%   |
 | 2011 | 5        | 2.55%   |
@@ -1344,11 +1344,11 @@ Storage controller models
 | Intel 8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode] | 14       | 4.49%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]   | 14       | 4.49%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 13       | 4.17%   |
+| Intel SATA Controller [RAID mode]                                              | 12       | 3.85%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller  | 11       | 3.53%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 10       | 3.21%   |
 | Intel Cannon Lake PCH SATA AHCI Controller                                     | 10       | 3.21%   |
 | AMD 400 Series Chipset SATA Controller                                         | 10       | 3.21%   |
-| Intel SATA Controller [RAID mode]                                              | 9        | 2.88%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                      | 8        | 2.56%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                               | 7        | 2.24%   |
 | Nvidia MCP61 SATA Controller                                                   | 6        | 1.92%   |
@@ -1364,10 +1364,9 @@ Storage controller models
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 4        | 1.28%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 3        | 0.96%   |
 | Kingston Company A2000 NVMe SSD SM2263EN                                       | 3        | 0.96%   |
-| Intel C600/X79 series chipset SATA RAID Controller                             | 3        | 0.96%   |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                      | 3        | 0.96%   |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                 | 3        | 0.96%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 3        | 0.96%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 3        | 0.96%   |
 | AMD SB7x0/SB8x0/SB9x0 IDE Controller                                           | 3        | 0.96%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 2        | 0.64%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 0.64%   |
@@ -1379,6 +1378,7 @@ Storage controller models
 | Intel 82801JI (ICH10 Family) 4 port SATA IDE Controller #1                     | 2        | 0.64%   |
 | Intel 82801JI (ICH10 Family) 2 port SATA IDE Controller #2                     | 2        | 0.64%   |
 | Intel 82801JD/DO (ICH10 Family) 4-port SATA IDE Controller                     | 2        | 0.64%   |
+| Intel 82801JD/DO (ICH10 Family) 2-port SATA IDE Controller                     | 2        | 0.64%   |
 
 Storage Kind
 ------------
@@ -1772,7 +1772,7 @@ Monitor models
 | Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch           | 2        | 1.15%   |
 | BenQ GW2780 BNQ78E6 1920x1080 600x340mm 27.2-inch                      | 2        | 1.15%   |
 | ASUSTek Computer ROG XG279Q AUS278D 2560x1440 600x340mm 27.2-inch      | 2        | 1.15%   |
-| AOC 24G2W1G4 AOC2402 1920x1080 530x300mm 24.0-inch                     | 2        | 1.15%   |
+| AOC 24G2W1G3- AOC2402 1920x1080 530x300mm 24.0-inch                    | 2        | 1.15%   |
 | Ancor Communications MX27AQ ACI27A5 2560x1440 600x340mm 27.2-inch      | 2        | 1.15%   |
 | Acer S240HL ACR0289 1920x1080 530x300mm 24.0-inch                      | 2        | 1.15%   |
 | ZL_ zhuoyue-HDMI ZL_2716 2560x1440 600x330mm 27.0-inch                 | 1        | 0.57%   |
@@ -2003,7 +2003,7 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 88       | 33.08%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 88       | 33.08%  |
 | Intel I211 Gigabit Network Connection                                         | 16       | 6.02%   |
 | Intel Ethernet Connection I217-LM                                             | 12       | 4.51%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 9        | 3.38%   |
@@ -2032,8 +2032,8 @@ Controller models
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                      | 2        | 0.75%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                                 | 2        | 0.75%   |
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 2        | 0.75%   |
-| Intel Wireless-AC 9260                                                        | 2        | 0.75%   |
 | Intel Wireless 8265 / 8275                                                    | 2        | 0.75%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 2        | 0.75%   |
 | Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 2        | 0.75%   |
 | Intel 82566DM-2 Gigabit Network Connection                                    | 2        | 0.75%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 2        | 0.75%   |
@@ -2087,8 +2087,8 @@ Wireless models
 | Realtek RTL8188CE 802.11b/g/n WiFi Adapter                          | 2        | 3.23%   |
 | Ralink RT5370 Wireless Adapter                                      | 2        | 3.23%   |
 | Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter          | 2        | 3.23%   |
-| Intel Wireless-AC 9260                                              | 2        | 3.23%   |
 | Intel Wireless 8265 / 8275                                          | 2        | 3.23%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]             | 2        | 3.23%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter        | 2        | 3.23%   |
 | Broadcom BCM4322 802.11a/b/g/n Wireless LAN Controller              | 2        | 3.23%   |
 | TP-Link Archer T2U PLUS [RTL8821AU]                                 | 1        | 1.61%   |
@@ -2140,7 +2140,7 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 88       | 43.56%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 88       | 43.56%  |
 | Intel I211 Gigabit Network Connection                                         | 16       | 7.92%   |
 | Intel Ethernet Connection I217-LM                                             | 12       | 5.94%   |
 | Intel 82579LM Gigabit Network Connection (Lewisville)                         | 9        | 4.46%   |
@@ -2434,9 +2434,9 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Unknown                                                | 14       | 5.69%   |
 | Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s   | 5        | 2.03%   |
+| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s     | 4        | 1.63%   |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s              | 3        | 1.22%   |
 | Unknown RAM Module 2GB DIMM DDR2                       | 3        | 1.22%   |
-| Team RAM TEAMGROUP-UD4-3200 16GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 3        | 1.22%   |
 | Kingston RAM KF3200C16D4/8GX 8GB DIMM DDR4 3200MT/s    | 3        | 1.22%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s  | 3        | 1.22%   |
@@ -2471,7 +2471,7 @@ Memory module models
 | Unifosa RAM GU512303EP0202 2GB DIMM DDR3 1333MT/s      | 1        | 0.41%   |
 | Transcend RAM TS128MLQ64V8U 1GB DIMM DDR2 800MT/s      | 1        | 0.41%   |
 | Transcend RAM JM1333KLN-2G 2GB DIMM 1333MT/s           | 1        | 0.41%   |
-| Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s     | 1        | 0.41%   |
+| Team RAM TEAMGROUP-UD4-2133 8GB DIMM DDR4 2133MT/s     | 1        | 0.41%   |
 
 Memory Kind
 -----------
@@ -2535,8 +2535,8 @@ Memory module speed
 | 1600    | 43       | 21.08%  |
 | 1333    | 30       | 14.71%  |
 | 3200    | 28       | 13.73%  |
-| 2133    | 22       | 10.78%  |
-| 2400    | 11       | 5.39%   |
+| 2133    | 21       | 10.29%  |
+| 2400    | 12       | 5.88%   |
 | 800     | 11       | 5.39%   |
 | Unknown | 9        | 4.41%   |
 | 2667    | 8        | 3.92%   |
@@ -2647,7 +2647,7 @@ Camera device models
 | Logitech Webcam C270             | 3        | 14.29%  |
 | Arkmicro USB 2.0 PC CAMERA       | 2        | 9.52%   |
 | Z-Star Lenovo USB 2.0 UVC Camera | 1        | 4.76%   |
-| Microdia USB 2.0 Camera          | 1        | 4.76%   |
+| Microdia REDRAGON  Live Camera   | 1        | 4.76%   |
 | Microdia ASUS USB 2.0 Webcam     | 1        | 4.76%   |
 | Logitech Webcam C930e            | 1        | 4.76%   |
 | Logitech Webcam C310             | 1        | 4.76%   |

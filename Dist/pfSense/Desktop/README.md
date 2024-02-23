@@ -922,7 +922,7 @@ Storage controller models
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1        | 2.86%   |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 2.86%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1        | 2.86%   |
-| Kingston Company NV1 NVMe SSD SM2263XT                                           | 1        | 2.86%   |
+| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                               | 1        | 2.86%   |
 | JMicron JMB368 IDE controller                                                    | 1        | 2.86%   |
 | Intel Tiger Lake-LP SATA Controller                                              | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1        | 2.86%   |
@@ -1287,7 +1287,7 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 7        | 14.58%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 7        | 14.58%  |
 | Intel I211 Gigabit Network Connection                                         | 5        | 10.42%  |
 | Intel I210 Gigabit Network Connection                                         | 4        | 8.33%   |
 | Intel 82580 Gigabit Network Connection                                        | 3        | 6.25%   |
@@ -1303,7 +1303,7 @@ Controller models
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express)       | 1        | 2.08%   |
 | NetXen Incorporated NX3031 Multifunction 1/10-Gigabit Server Adapter          | 1        | 2.08%   |
 | MediaTek USB Ethernet-RNDIS                                                   | 1        | 2.08%   |
-| Intel Wireless-AC 9260                                                        | 1        | 2.08%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 2.08%   |
 | Intel Ethernet Controller I226-V                                              | 1        | 2.08%   |
 | Intel Ethernet Connection X553 1GbE                                           | 1        | 2.08%   |
 | Intel Ethernet Connection I354                                                | 1        | 2.08%   |
@@ -1343,7 +1343,7 @@ Wireless models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)          | 2        | 40%     |
 | Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                   | 1        | 20%     |
 | Qualcomm Atheros AR242x / AR542x Wireless Network Adapter (PCI-Express) | 1        | 20%     |
-| Intel Wireless-AC 9260                                                  | 1        | 20%     |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                 | 1        | 20%     |
 
 Ethernet Vendor
 ---------------
@@ -1371,7 +1371,7 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 7        | 16.67%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 7        | 16.67%  |
 | Intel I211 Gigabit Network Connection                                         | 5        | 11.9%   |
 | Intel I210 Gigabit Network Connection                                         | 4        | 9.52%   |
 | Intel 82580 Gigabit Network Connection                                        | 3        | 7.14%   |

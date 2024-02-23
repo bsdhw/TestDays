@@ -1370,7 +1370,7 @@ Controller models
 
 | Model                                                                       | Notebooks | Percent |
 |-----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller           | 6         | 10.71%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller      | 6         | 10.71%  |
 | Intel Wireless 7265                                                         | 3         | 5.36%   |
 | Intel Comet Lake PCH-LP CNVi WiFi                                           | 3         | 5.36%   |
 | Intel Centrino Advanced-N 6205 [Taylor Peak]                                | 3         | 5.36%   |
@@ -1483,21 +1483,21 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Notebooks | Percent |
-|-------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 6         | 28.57%  |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 3         | 14.29%  |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2         | 9.52%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller         | 1         | 4.76%   |
-| Qualcomm Atheros AR8162 Fast Ethernet                             | 1         | 4.76%   |
-| Intel Killer E3100X 2.5 Gigabit Ethernet Controller               | 1         | 4.76%   |
-| Intel Ethernet Connection I219-LM                                 | 1         | 4.76%   |
-| Intel Ethernet Connection I217-LM                                 | 1         | 4.76%   |
-| Intel Ethernet Connection (7) I219-LM                             | 1         | 4.76%   |
-| Intel Ethernet Connection (3) I218-LM                             | 1         | 4.76%   |
-| Intel Ethernet Connection (10) I219-LM                            | 1         | 4.76%   |
-| Intel 82567LM Gigabit Network Connection                          | 1         | 4.76%   |
-| Broadcom NetXtreme BCM5755M Gigabit Ethernet PCI Express          | 1         | 4.76%   |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 6         | 28.57%  |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 3         | 14.29%  |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2         | 9.52%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller              | 1         | 4.76%   |
+| Qualcomm Atheros AR8162 Fast Ethernet                                  | 1         | 4.76%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller                    | 1         | 4.76%   |
+| Intel Ethernet Connection I219-LM                                      | 1         | 4.76%   |
+| Intel Ethernet Connection I217-LM                                      | 1         | 4.76%   |
+| Intel Ethernet Connection (7) I219-LM                                  | 1         | 4.76%   |
+| Intel Ethernet Connection (3) I218-LM                                  | 1         | 4.76%   |
+| Intel Ethernet Connection (10) I219-LM                                 | 1         | 4.76%   |
+| Intel 82567LM Gigabit Network Connection                               | 1         | 4.76%   |
+| Broadcom NetXtreme BCM5755M Gigabit Ethernet PCI Express               | 1         | 4.76%   |
 
 Net Controller Kind
 -------------------

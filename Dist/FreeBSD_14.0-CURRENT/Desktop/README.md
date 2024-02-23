@@ -1050,7 +1050,7 @@ Storage controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| AMD FCH SATA Controller [AHCI mode]                                           | 17       | 18.68%  |
+| AMD FCH SATA Controller [AHCI mode]                                           | 16       | 17.58%  |
 | AMD 400 Series Chipset SATA Controller                                        | 7        | 7.69%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 6        | 6.59%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 6        | 6.59%   |
@@ -1073,7 +1073,7 @@ Storage controller models
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)          | 1        | 1.1%    |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1        | 1.1%    |
 | Micron 2300 NVMe SSD [Santana]                                                | 1        | 1.1%    |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                  | 1        | 1.1%    |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 (DRAM-less)                      | 1        | 1.1%    |
 | Marvell Group 88SE9172 SATA III 6Gb/s RAID Controller                         | 1        | 1.1%    |
 | Marvell Group 88SE9170 PCIe 2.0 x1 2-port SATA 6 Gb/s Controller              | 1        | 1.1%    |
 | Kingston Company HyperX Predator PCIe AHCI SSD                                | 1        | 1.1%    |
@@ -1086,7 +1086,7 @@ Storage controller models
 | Intel 7 Series/C210 Series Chipset Family 2-port SATA Controller [IDE mode]   | 1        | 1.1%    |
 | Broadcom / LSI SAS3008 PCI-Express Fusion-MPT SAS-3                           | 1        | 1.1%    |
 | ASMedia ASM1166 Serial ATA Controller                                         | 1        | 1.1%    |
-| ASMedia ASM1062 Serial ATA Controller                                         | 1        | 1.1%    |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                 | 1        | 1.1%    |
 | AMD X399 Series Chipset SATA Controller                                       | 1        | 1.1%    |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 1        | 1.1%    |
 | AMD FCH SATA Controller [RAID Bottom]                                         | 1        | 1.1%    |
@@ -1327,7 +1327,7 @@ Graphics card models
 | AMD RV630 XT [Radeon HD 2600 XT]                                      | 1        | 2.08%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]  | 1        | 2.08%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM] | 1        | 2.08%   |
-| AMD Navi 31 [Radeon RX 7900 XT/7900 XTX]                              | 1        | 2.08%   |
+| AMD Navi 31 [Radeon RX 7900 XT/7900 XTX/7900M]                        | 1        | 2.08%   |
 | AMD Navi 23 [Radeon RX 6650 XT / 6700S / 6800S]                       | 1        | 2.08%   |
 | AMD Navi 23 [Radeon RX 6600/6600 XT/6600M]                            | 1        | 2.08%   |
 | AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]         | 1        | 2.08%   |
@@ -1621,7 +1621,7 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 19       | 21.84%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 21.84%  |
 | Realtek RTL8125 2.5GbE Controller                                             | 13       | 14.94%  |
 | Intel I211 Gigabit Network Connection                                         | 7        | 8.05%   |
 | Intel Wi-Fi 6 AX200                                                           | 6        | 6.9%    |
@@ -1640,10 +1640,10 @@ Controller models
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                | 1        | 1.15%   |
 | Mellanox MT27500 Family [ConnectX-3]                                          | 1        | 1.15%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                 | 1        | 1.15%   |
-| Intel Wireless-AC 9260                                                        | 1        | 1.15%   |
 | Intel Wireless 8265 / 8275                                                    | 1        | 1.15%   |
 | Intel Wireless 7265                                                           | 1        | 1.15%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                        | 1        | 1.15%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 1        | 1.15%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 1.15%   |
 | Intel I350 Gigabit Network Connection                                         | 1        | 1.15%   |
 | Intel Ethernet Controller X550                                                | 1        | 1.15%   |
 | Intel Ethernet Connection (7) I219-LM                                         | 1        | 1.15%   |
@@ -1698,10 +1698,10 @@ Wireless models
 | Qualcomm Atheros AR93xx Wireless Network Adapter                              | 1        | 4.35%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                | 1        | 4.35%   |
 | MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                 | 1        | 4.35%   |
-| Intel Wireless-AC 9260                                                        | 1        | 4.35%   |
 | Intel Wireless 8265 / 8275                                                    | 1        | 4.35%   |
 | Intel Wireless 7265                                                           | 1        | 4.35%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                        | 1        | 4.35%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 1        | 4.35%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 4.35%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 1        | 4.35%   |
 | Intel Comet Lake PCH CNVi WiFi                                                | 1        | 4.35%   |
 | Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 4.35%   |
@@ -1731,7 +1731,7 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 19       | 31.15%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 31.15%  |
 | Realtek RTL8125 2.5GbE Controller                                             | 12       | 19.67%  |
 | Intel I211 Gigabit Network Connection                                         | 7        | 11.48%  |
 | Intel Ethernet Controller I225-V                                              | 5        | 8.2%    |

@@ -991,13 +991,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 51       | 77     | 41.46%  |
-| 0.51-1.0   | 38       | 56     | 30.89%  |
-| 1.01-2.0   | 14       | 33     | 11.38%  |
-| 3.01-4.0   | 8        | 13     | 6.5%    |
-| 2.01-3.0   | 5        | 20     | 4.07%   |
-| 4.01-10.0  | 4        | 29     | 3.25%   |
-| 10.01-20.0 | 3        | 11     | 2.44%   |
+| 0.01-0.5   | 51       | 78     | 41.8%   |
+| 0.51-1.0   | 38       | 56     | 31.15%  |
+| 1.01-2.0   | 13       | 32     | 10.66%  |
+| 3.01-4.0   | 8        | 13     | 6.56%   |
+| 2.01-3.0   | 5        | 20     | 4.1%    |
+| 4.01-10.0  | 4        | 29     | 3.28%   |
+| 10.01-20.0 | 3        | 11     | 2.46%   |
 
 Space Total
 -----------
@@ -1198,7 +1198,7 @@ Storage controller models
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 3        | 2.05%   |
 | Intel C602 chipset 4-Port SATA Storage Control Unit                            | 3        | 2.05%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                   | 3        | 2.05%   |
-| ASMedia ASM1062 Serial ATA Controller                                          | 3        | 2.05%   |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 3        | 2.05%   |
 | AMD 400 Series Chipset SATA Controller                                         | 3        | 2.05%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 1.37%   |
 | SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2        | 1.37%   |
@@ -1221,7 +1221,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 1        | 0.68%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 0.68%   |
 | Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                            | 1        | 0.68%   |
-| Phison E8 PCIe3 NVMe Controller                                                | 1        | 0.68%   |
+| Phison E8 PCIe3 x2 NVMe Controller                                             | 1        | 0.68%   |
 | Phison E16 PCIe4 NVMe Controller                                               | 1        | 0.68%   |
 | Phison E12 NVMe Controller                                                     | 1        | 0.68%   |
 
@@ -1827,7 +1827,7 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 37       | 24.67%  |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 37       | 24.67%  |
 | Intel I211 Gigabit Network Connection                                         | 10       | 6.67%   |
 | Intel 82574L Gigabit Network Connection                                       | 6        | 4%      |
 | Realtek RTL8125 2.5GbE Controller                                             | 5        | 3.33%   |
@@ -1839,7 +1839,7 @@ Controller models
 | Intel Ethernet Connection I217-LM                                             | 3        | 2%      |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 2        | 1.33%   |
 | Realtek RTL810xE PCI Express Fast Ethernet controller                         | 2        | 1.33%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                        | 2        | 1.33%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 2        | 1.33%   |
 | Intel Ethernet Connection (2) I219-LM                                         | 2        | 1.33%   |
 | Intel Ethernet Connection (2) I218-V                                          | 2        | 1.33%   |
 | Intel 82567LM-3 Gigabit Network Connection                                    | 2        | 1.33%   |
@@ -1866,7 +1866,7 @@ Controller models
 | Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                       | 1        | 0.67%   |
 | Marvell Group 88E8001 Gigabit Ethernet Controller                             | 1        | 0.67%   |
 | LG Optimus Android Phone [USB tethering mode]                                 | 1        | 0.67%   |
-| Intel Wireless-AC 9260                                                        | 1        | 0.67%   |
+| Intel Wireless 7260                                                           | 1        | 0.67%   |
 
 Wireless Vendor
 ---------------
@@ -1899,7 +1899,7 @@ Wireless models
 |-------------------------------------------------------------------------------|----------|---------|
 | Intel Wi-Fi 6 AX200                                                           | 5        | 14.29%  |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 2        | 5.71%   |
-| Intel Wi-Fi 6 AX210/AX211/AX411 160MHz                                        | 2        | 5.71%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 2        | 5.71%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter                  | 2        | 5.71%   |
 | TP-Link Wireless MU-MIMO USB Adapter                                          | 1        | 2.86%   |
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                                  | 1        | 2.86%   |
@@ -1916,9 +1916,9 @@ Wireless models
 | Qualcomm Atheros AR9462 Wireless Network Adapter                              | 1        | 2.86%   |
 | Qualcomm Atheros AR93xx Wireless Network Adapter                              | 1        | 2.86%   |
 | Qualcomm Atheros AR9227 Wireless Network Adapter                              | 1        | 2.86%   |
-| Intel Wireless-AC 9260                                                        | 1        | 2.86%   |
 | Intel Wireless 7260                                                           | 1        | 2.86%   |
 | Intel Wi-Fi 6 AX201                                                           | 1        | 2.86%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 2.86%   |
 | Intel Tiger Lake PCH CNVi WiFi                                                | 1        | 2.86%   |
 | Intel Gemini Lake PCH CNVi WiFi                                               | 1        | 2.86%   |
 | Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 2.86%   |
@@ -1952,47 +1952,47 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                             | Desktops | Percent |
-|-------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller | 37       | 33.33%  |
-| Intel I211 Gigabit Network Connection                             | 10       | 9.01%   |
-| Intel 82574L Gigabit Network Connection                           | 6        | 5.41%   |
-| Intel Ethernet Controller I225-V                                  | 5        | 4.5%    |
-| Intel Ethernet Connection (2) I219-V                              | 5        | 4.5%    |
-| Intel 82579LM Gigabit Network Connection (Lewisville)             | 5        | 4.5%    |
-| Realtek RTL8125 2.5GbE Controller                                 | 3        | 2.7%    |
-| Intel Ethernet Controller X550                                    | 3        | 2.7%    |
-| Intel Ethernet Connection I217-LM                                 | 3        | 2.7%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller             | 2        | 1.8%    |
-| Intel Ethernet Connection (2) I219-LM                             | 2        | 1.8%    |
-| Intel Ethernet Connection (2) I218-V                              | 2        | 1.8%    |
-| Intel 82567LM-3 Gigabit Network Connection                        | 2        | 1.8%    |
-| Xiaomi Mi/Redmi series (RNDIS)                                    | 1        | 0.9%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                   | 1        | 0.9%    |
-| Realtek Killer E2500 Gigabit Ethernet Controller                  | 1        | 0.9%    |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller           | 1        | 0.9%    |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                 | 1        | 0.9%    |
-| Intel I350 Gigabit Network Connection                             | 1        | 0.9%    |
-| Intel I210 Gigabit Network Connection                             | 1        | 0.9%    |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                     | 1        | 0.9%    |
-| Intel Ethernet Connection I217-V                                  | 1        | 0.9%    |
-| Intel Ethernet Connection (7) I219-V                              | 1        | 0.9%    |
-| Intel Ethernet Connection (5) I219-LM                             | 1        | 0.9%    |
-| Intel Ethernet Connection (17) I219-V                             | 1        | 0.9%    |
-| Intel Ethernet Connection (13) I219-V                             | 1        | 0.9%    |
-| Intel Ethernet Connection (11) I219-V                             | 1        | 0.9%    |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection              | 1        | 0.9%    |
-| Intel 82599 Ethernet Controller Virtual Function                  | 1        | 0.9%    |
-| Intel 82599 10 Gigabit Network Connection                         | 1        | 0.9%    |
-| Intel 82579V Gigabit Network Connection                           | 1        | 0.9%    |
-| Intel 82578DM Gigabit Network Connection                          | 1        | 0.9%    |
-| Intel 82578DC Gigabit Network Connection                          | 1        | 0.9%    |
-| Intel 82575GB Gigabit Network Connection                          | 1        | 0.9%    |
-| Intel 82575EB Gigabit Network Connection                          | 1        | 0.9%    |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)        | 1        | 0.9%    |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                   | 1        | 0.9%    |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                  | 1        | 0.9%    |
-| American Megatrends Virtual Ethernet                              | 1        | 0.9%    |
+| Model                                                                  | Desktops | Percent |
+|------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 37       | 33.33%  |
+| Intel I211 Gigabit Network Connection                                  | 10       | 9.01%   |
+| Intel 82574L Gigabit Network Connection                                | 6        | 5.41%   |
+| Intel Ethernet Controller I225-V                                       | 5        | 4.5%    |
+| Intel Ethernet Connection (2) I219-V                                   | 5        | 4.5%    |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 5        | 4.5%    |
+| Realtek RTL8125 2.5GbE Controller                                      | 3        | 2.7%    |
+| Intel Ethernet Controller X550                                         | 3        | 2.7%    |
+| Intel Ethernet Connection I217-LM                                      | 3        | 2.7%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 1.8%    |
+| Intel Ethernet Connection (2) I219-LM                                  | 2        | 1.8%    |
+| Intel Ethernet Connection (2) I218-V                                   | 2        | 1.8%    |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 1.8%    |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 0.9%    |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.9%    |
+| Realtek Killer E2500 Gigabit Ethernet Controller                       | 1        | 0.9%    |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                | 1        | 0.9%    |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1        | 0.9%    |
+| Intel I350 Gigabit Network Connection                                  | 1        | 0.9%    |
+| Intel I210 Gigabit Network Connection                                  | 1        | 0.9%    |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 1        | 0.9%    |
+| Intel Ethernet Connection I217-V                                       | 1        | 0.9%    |
+| Intel Ethernet Connection (7) I219-V                                   | 1        | 0.9%    |
+| Intel Ethernet Connection (5) I219-LM                                  | 1        | 0.9%    |
+| Intel Ethernet Connection (17) I219-V                                  | 1        | 0.9%    |
+| Intel Ethernet Connection (13) I219-V                                  | 1        | 0.9%    |
+| Intel Ethernet Connection (11) I219-V                                  | 1        | 0.9%    |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                   | 1        | 0.9%    |
+| Intel 82599 Ethernet Controller Virtual Function                       | 1        | 0.9%    |
+| Intel 82599 10 Gigabit Network Connection                              | 1        | 0.9%    |
+| Intel 82579V Gigabit Network Connection                                | 1        | 0.9%    |
+| Intel 82578DM Gigabit Network Connection                               | 1        | 0.9%    |
+| Intel 82578DC Gigabit Network Connection                               | 1        | 0.9%    |
+| Intel 82575GB Gigabit Network Connection                               | 1        | 0.9%    |
+| Intel 82575EB Gigabit Network Connection                               | 1        | 0.9%    |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)             | 1        | 0.9%    |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                        | 1        | 0.9%    |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 1        | 0.9%    |
+| American Megatrends Virtual Ethernet                                   | 1        | 0.9%    |
 
 Net Controller Kind
 -------------------
@@ -2232,7 +2232,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 800MT/s                                 | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM 1333MT/s                                    | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM                                             | 1        | 1%      |
-| Unknown (ABCD) RAM 123456789012345678 1536MB DIMM LPDDR3 2400MT/s       | 1        | 1%      |
+| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s            | 1        | 1%      |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1%      |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1%      |
 | Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1%      |

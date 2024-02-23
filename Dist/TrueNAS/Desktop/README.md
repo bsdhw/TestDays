@@ -463,15 +463,16 @@ Motherboard manufacture year
 |---------|----------|---------|
 | Unknown | 10       | 25%     |
 | 2018    | 4        | 10%     |
-| 2016    | 4        | 10%     |
 | 2014    | 4        | 10%     |
 | 2012    | 4        | 10%     |
 | 2011    | 4        | 10%     |
 | 2019    | 3        | 7.5%    |
+| 2016    | 3        | 7.5%    |
 | 2013    | 2        | 5%      |
 | 2023    | 1        | 2.5%    |
 | 2021    | 1        | 2.5%    |
 | 2020    | 1        | 2.5%    |
+| 2015    | 1        | 2.5%    |
 | 2010    | 1        | 2.5%    |
 | 2009    | 1        | 2.5%    |
 
@@ -861,11 +862,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 27       | 58     | 36.99%  |
+| 0.01-0.5   | 27       | 63     | 36.99%  |
 | 1.01-2.0   | 13       | 40     | 17.81%  |
 | 2.01-3.0   | 12       | 65     | 16.44%  |
 | 3.01-4.0   | 7        | 24     | 9.59%   |
-| 0.51-1.0   | 7        | 51     | 9.59%   |
+| 0.51-1.0   | 7        | 46     | 9.59%   |
 | 4.01-10.0  | 6        | 17     | 8.22%   |
 | 10.01-20.0 | 1        | 2      | 1.37%   |
 
@@ -1066,7 +1067,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 2        | 2.2%    |
 | HighPoint RocketRAID 2760 SAS Controller                                         | 2        | 2.2%    |
 | Broadcom / LSI SAS2308 PCI-Express Fusion-MPT SAS-2                              | 2        | 2.2%    |
-| ASMedia ASM1062 Serial ATA Controller                                            | 2        | 2.2%    |
+| ASMedia ASM1061/ASM1062 Serial ATA Controller                                    | 2        | 2.2%    |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 1        | 1.1%    |
 | Silicon Image SiI 3132 Serial ATA Raid II Controller                             | 1        | 1.1%    |
 | Silicon Image SiI 3114 [SATALink/SATARaid] Serial ATA Controller                 | 1        | 1.1%    |
@@ -1074,15 +1075,15 @@ Storage controller models
 | QLogic QLA2100 64-bit Fibre Channel Adapter                                      | 1        | 1.1%    |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                             | 1        | 1.1%    |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)             | 1        | 1.1%    |
-| MAXIO (Hangzhou) NVMe SSD Controller MAP1202                                     | 1        | 1.1%    |
+| MAXIO (Hangzhou) NVMe SSD Controller MAP1202 (DRAM-less)                         | 1        | 1.1%    |
 | Marvell Group MV64460/64461/64462 System Controller, Revision B                  | 1        | 1.1%    |
 | Marvell Group 88SE9125 PCIe SATA 6.0 Gb/s controller                             | 1        | 1.1%    |
 | Intel Volume Management Device NVMe RAID Controller                              | 1        | 1.1%    |
+| Intel SATA Controller [RAID Mode]                                                | 1        | 1.1%    |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1        | 1.1%    |
 | Intel Cannon Lake PCH SATA AHCI Controller                                       | 1        | 1.1%    |
 | Intel C620 Series Chipset Family SSATA Controller [AHCI mode]                    | 1        | 1.1%    |
 | Intel C620 Series Chipset Family SATA Controller [AHCI mode]                     | 1        | 1.1%    |
-| Intel C600/X79 series chipset SATA RAID Controller                               | 1        | 1.1%    |
 | Intel C600/X79 series chipset 6-Port SATA AHCI Controller                        | 1        | 1.1%    |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series SATA Controller | 1        | 1.1%    |
 | Intel Alder Lake-S PCH SATA Controller [AHCI Mode]                               | 1        | 1.1%    |
@@ -1455,35 +1456,35 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                                                         | Desktops | Percent |
-|-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 10       | 17.54%  |
-| Intel 82574L Gigabit Network Connection                                       | 6        | 10.53%  |
-| Intel I350 Gigabit Network Connection                                         | 5        | 8.77%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 4        | 7.02%   |
-| Intel I210 Gigabit Network Connection                                         | 3        | 5.26%   |
-| Intel Ethernet Connection I217-V                                              | 2        | 3.51%   |
-| Intel Ethernet Connection I217-LM                                             | 2        | 3.51%   |
-| Intel Ethernet Connection (2) I219-V                                          | 2        | 3.51%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 2        | 3.51%   |
-| Intel 82576 Gigabit Network Connection                                        | 2        | 3.51%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2        | 3.51%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2        | 3.51%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1        | 1.75%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1        | 1.75%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.75%   |
-| QLogic cLOM8214 1/10GbE Controller                                            | 1        | 1.75%   |
-| Intel Wi-Fi 6 AX200                                                           | 1        | 1.75%   |
-| Intel Tiger Lake PCH CNVi WiFi                                                | 1        | 1.75%   |
-| Intel I211 Gigabit Network Connection                                         | 1        | 1.75%   |
-| Intel Ethernet Connection X722 for 1GbE                                       | 1        | 1.75%   |
-| Intel Ethernet Connection X552/X557-AT 10GBASE-T                              | 1        | 1.75%   |
-| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.75%   |
-| Intel 82580 Gigabit Network Connection                                        | 1        | 1.75%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.75%   |
-| Intel 82571EB Gigabit Ethernet Controller                                     | 1        | 1.75%   |
-| Intel 82541PI Gigabit Ethernet Controller                                     | 1        | 1.75%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]             | 1        | 1.75%   |
+| Model                                                                          | Desktops | Percent |
+|--------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 10       | 17.54%  |
+| Intel 82574L Gigabit Network Connection                                        | 6        | 10.53%  |
+| Intel I350 Gigabit Network Connection                                          | 5        | 8.77%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 4        | 7.02%   |
+| Intel I210 Gigabit Network Connection                                          | 3        | 5.26%   |
+| Intel Ethernet Connection I217-V                                               | 2        | 3.51%   |
+| Intel Ethernet Connection I217-LM                                              | 2        | 3.51%   |
+| Intel Ethernet Connection (2) I219-V                                           | 2        | 3.51%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                           | 2        | 3.51%   |
+| Intel 82576 Gigabit Network Connection                                         | 2        | 3.51%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                               | 2        | 3.51%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                               | 2        | 3.51%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 1        | 1.75%   |
+| Realtek RTL8125 2.5GbE Controller                                              | 1        | 1.75%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1        | 1.75%   |
+| QLogic cLOM8214 1/10GbE Controller                                             | 1        | 1.75%   |
+| Intel Wi-Fi 6 AX200                                                            | 1        | 1.75%   |
+| Intel Tiger Lake PCH CNVi WiFi                                                 | 1        | 1.75%   |
+| Intel I211 Gigabit Network Connection                                          | 1        | 1.75%   |
+| Intel Ethernet Connection X722 for 1GbE                                        | 1        | 1.75%   |
+| Intel Ethernet Connection X552/X557-AT 10GBASE-T                               | 1        | 1.75%   |
+| Intel Ethernet Connection (11) I219-V                                          | 1        | 1.75%   |
+| Intel 82580 Gigabit Network Connection                                         | 1        | 1.75%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)  | 1        | 1.75%   |
+| Intel 82571EB Gigabit Ethernet Controller                                      | 1        | 1.75%   |
+| Intel 82541PI Gigabit Ethernet Controller                                      | 1        | 1.75%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 1.75%   |
 
 Wireless Vendor
 ---------------
@@ -1534,33 +1535,33 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                                                         | Desktops | Percent |
-|-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller             | 10       | 18.18%  |
-| Intel 82574L Gigabit Network Connection                                       | 6        | 10.91%  |
-| Intel I350 Gigabit Network Connection                                         | 5        | 9.09%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 4        | 7.27%   |
-| Intel I210 Gigabit Network Connection                                         | 3        | 5.45%   |
-| Intel Ethernet Connection I217-V                                              | 2        | 3.64%   |
-| Intel Ethernet Connection I217-LM                                             | 2        | 3.64%   |
-| Intel Ethernet Connection (2) I219-V                                          | 2        | 3.64%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 2        | 3.64%   |
-| Intel 82576 Gigabit Network Connection                                        | 2        | 3.64%   |
-| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                              | 2        | 3.64%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2        | 3.64%   |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                               | 1        | 1.82%   |
-| Realtek RTL8125 2.5GbE Controller                                             | 1        | 1.82%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1        | 1.82%   |
-| QLogic cLOM8214 1/10GbE Controller                                            | 1        | 1.82%   |
-| Intel I211 Gigabit Network Connection                                         | 1        | 1.82%   |
-| Intel Ethernet Connection X722 for 1GbE                                       | 1        | 1.82%   |
-| Intel Ethernet Connection X552/X557-AT 10GBASE-T                              | 1        | 1.82%   |
-| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.82%   |
-| Intel 82580 Gigabit Network Connection                                        | 1        | 1.82%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.82%   |
-| Intel 82571EB Gigabit Ethernet Controller                                     | 1        | 1.82%   |
-| Intel 82541PI Gigabit Ethernet Controller                                     | 1        | 1.82%   |
-| Aquantia AQC107 NBase-T/IEEE 802.3bz Ethernet Controller [AQtion]             | 1        | 1.82%   |
+| Model                                                                          | Desktops | Percent |
+|--------------------------------------------------------------------------------|----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 10       | 18.18%  |
+| Intel 82574L Gigabit Network Connection                                        | 6        | 10.91%  |
+| Intel I350 Gigabit Network Connection                                          | 5        | 9.09%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 4        | 7.27%   |
+| Intel I210 Gigabit Network Connection                                          | 3        | 5.45%   |
+| Intel Ethernet Connection I217-V                                               | 2        | 3.64%   |
+| Intel Ethernet Connection I217-LM                                              | 2        | 3.64%   |
+| Intel Ethernet Connection (2) I219-V                                           | 2        | 3.64%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                           | 2        | 3.64%   |
+| Intel 82576 Gigabit Network Connection                                         | 2        | 3.64%   |
+| Broadcom NetXtreme BCM5723 Gigabit Ethernet PCIe                               | 2        | 3.64%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                               | 2        | 3.64%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                                | 1        | 1.82%   |
+| Realtek RTL8125 2.5GbE Controller                                              | 1        | 1.82%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                          | 1        | 1.82%   |
+| QLogic cLOM8214 1/10GbE Controller                                             | 1        | 1.82%   |
+| Intel I211 Gigabit Network Connection                                          | 1        | 1.82%   |
+| Intel Ethernet Connection X722 for 1GbE                                        | 1        | 1.82%   |
+| Intel Ethernet Connection X552/X557-AT 10GBASE-T                               | 1        | 1.82%   |
+| Intel Ethernet Connection (11) I219-V                                          | 1        | 1.82%   |
+| Intel 82580 Gigabit Network Connection                                         | 1        | 1.82%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications)  | 1        | 1.82%   |
+| Intel 82571EB Gigabit Ethernet Controller                                      | 1        | 1.82%   |
+| Intel 82541PI Gigabit Ethernet Controller                                      | 1        | 1.82%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 1.82%   |
 
 Net Controller Kind
 -------------------
@@ -1728,7 +1729,7 @@ Memory module models
 | Unknown RAM Module 4096MB DIMM DDR3 1600MT/s             | 1        | 2.5%    |
 | Unknown RAM Module 4096MB DIMM 1333MT/s                  | 1        | 2.5%    |
 | Unknown RAM Module 2048MB DIMM DDR3 1333MT/s             | 1        | 2.5%    |
-| Toshiba RAM 9965525-138.A00LF 8192MB DIMM DDR3 1600MT/s  | 1        | 2.5%    |
+| Toshiba RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s     | 1        | 2.5%    |
 | Team RAM Vulcan-2400 8192MB DIMM DDR3 1333MT/s           | 1        | 2.5%    |
 | SK hynix RAM HMT351R7CFR8A-H9 4GB DIMM DDR3 1333MT/s     | 1        | 2.5%    |
 | Samsung RAM Module 8192MB DIMM DDR3 1600MT/s             | 1        | 2.5%    |
