@@ -470,9 +470,9 @@ Motherboard manufacture year
 | 2009    | 3         | 5.77%   |
 | 2006    | 3         | 5.77%   |
 | 2021    | 2         | 3.85%   |
-| 2018    | 2         | 3.85%   |
+| 2017    | 2         | 3.85%   |
 | 2016    | 2         | 3.85%   |
-| 2017    | 1         | 1.92%   |
+| 2018    | 1         | 1.92%   |
 | 2007    | 1         | 1.92%   |
 | 2002    | 1         | 1.92%   |
 | Unknown | 1         | 1.92%   |
@@ -682,29 +682,30 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| NVMe                | 12        | 15     | 20.69%  |
-| WDC                 | 7         | 7      | 12.07%  |
-| Samsung Electronics | 5         | 5      | 8.62%   |
-| SanDisk             | 4         | 4      | 6.9%    |
-| Kingston            | 4         | 4      | 6.9%    |
-| Hitachi             | 3         | 3      | 5.17%   |
-| Crucial             | 3         | 4      | 5.17%   |
-| Toshiba             | 2         | 2      | 3.45%   |
-| Seagate             | 2         | 2      | 3.45%   |
-| Intenso             | 2         | 2      | 3.45%   |
-| Apacer              | 2         | 2      | 3.45%   |
-| Verbatim            | 1         | 1      | 1.72%   |
-| Union Memory        | 1         | 1      | 1.72%   |
-| SMI                 | 1         | 1      | 1.72%   |
-| PNY                 | 1         | 2      | 1.72%   |
-| Micron Technology   | 1         | 1      | 1.72%   |
-| KIOXIA-EXCERIA      | 1         | 1      | 1.72%   |
-| JetFlash            | 1         | 1      | 1.72%   |
-| Intel               | 1         | 1      | 1.72%   |
-| Fujitsu             | 1         | 1      | 1.72%   |
-| ASUSTek Computer    | 1         | 2      | 1.72%   |
-| Apple               | 1         | 1      | 1.72%   |
-| A-DATA Technology   | 1         | 1      | 1.72%   |
+| NVMe                | 12        | 15     | 20.34%  |
+| WDC                 | 7         | 7      | 11.86%  |
+| Samsung Electronics | 5         | 5      | 8.47%   |
+| SanDisk             | 4         | 4      | 6.78%   |
+| Kingston            | 4         | 4      | 6.78%   |
+| Hitachi             | 3         | 3      | 5.08%   |
+| Crucial             | 3         | 4      | 5.08%   |
+| Toshiba             | 2         | 2      | 3.39%   |
+| Seagate             | 2         | 2      | 3.39%   |
+| Intenso             | 2         | 2      | 3.39%   |
+| Apacer              | 2         | 2      | 3.39%   |
+| Verbatim            | 1         | 1      | 1.69%   |
+| Union Memory        | 1         | 1      | 1.69%   |
+| SMI                 | 1         | 1      | 1.69%   |
+| PNY                 | 1         | 2      | 1.69%   |
+| Micron Technology   | 1         | 1      | 1.69%   |
+| KIOXIA-EXCERIA      | 1         | 1      | 1.69%   |
+| JetFlash            | 1         | 1      | 1.69%   |
+| Intel               | 1         | 1      | 1.69%   |
+| Generic             | 1         | 1      | 1.69%   |
+| Fujitsu             | 1         | 1      | 1.69%   |
+| ASUSTek Computer    | 1         | 2      | 1.69%   |
+| Apple               | 1         | 1      | 1.69%   |
+| A-DATA Technology   | 1         | 1      | 1.69%   |
 
 Drive Model
 -----------
@@ -716,46 +717,46 @@ Hard drive models
 
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| SanDisk Extreme SSD 500GB            | 2         | 3.28%   |
-| NVMe SAMSUNG MZVLW256 256GB          | 2         | 3.28%   |
-| Intenso SSD 256GB                    | 2         | 3.28%   |
-| WDC WD7500BPKX-00HPJT0 752GB         | 1         | 1.64%   |
-| WDC WD7500BPKT-75PK4T0 752GB         | 1         | 1.64%   |
-| WDC WD7500BPKT-00PK4T0 752GB         | 1         | 1.64%   |
-| WDC WD5000LPLX-00ZNTT0 500GB         | 1         | 1.64%   |
-| WDC WD3200BEVT-22ZCT0 320GB          | 1         | 1.64%   |
-| WDC WD3200BEVE-00A0HT0 320GB         | 1         | 1.64%   |
-| WDC WD10JPLX-00MBPT0 1TB             | 1         | 1.64%   |
-| Verbatim STORE N GO 64GB             | 1         | 1.64%   |
-| Union Memory RTOTJ128VGD2EYX 128GB   | 1         | 1.64%   |
-| Toshiba MK8007GAH 80GB               | 1         | 1.64%   |
-| Toshiba KSG60ZMV256G M.2 2280 256GB  | 1         | 1.64%   |
-| SMI USB DISK 18302PB                 | 1         | 1.64%   |
-| Seagate ST9160821A 160GB             | 1         | 1.64%   |
-| Seagate ST500LM012 HN-M500MBB 500GB  | 1         | 1.64%   |
-| SanDisk X400 M.2 2280 512GB          | 1         | 1.64%   |
-| SanDisk SSD PLUS 120GB               | 1         | 1.64%   |
-| Samsung SSD 860 EVO M.2 1TB          | 1         | 1.64%   |
-| Samsung SSD 850 EVO 500GB            | 1         | 1.64%   |
-| Samsung MZ7TD128HAFV-000L1 128GB     | 1         | 1.64%   |
-| Samsung MZ7PC128HAFU-000L1 128GB     | 1         | 1.64%   |
-| Samsung MMCRE28GFMXP-MVB 128GB       | 1         | 1.64%   |
-| PNY CS900 1TB SSD                    | 1         | 1.64%   |
-| NVMe WDC PC SN730 SDB 512GB          | 1         | 1.64%   |
-| NVMe SSSTC CL1-4D256 256GB           | 1         | 1.64%   |
-| NVMe SKHynix_HFS512GD 512GB          | 1         | 1.64%   |
-| NVMe Sabrent SB-1342- 1TB            | 1         | 1.64%   |
-| NVMe PM9A1 Samsu 1TB                 | 1         | 1.64%   |
-| NVMe KINGSTON SNVS500 500GB          | 1         | 1.64%   |
-| NVMe KINGSTON SNVS200 2TB            | 1         | 1.64%   |
-| NVMe KINGSTON SNV2S20 2TB            | 1         | 1.64%   |
-| NVMe INTEL SSDPEKNU51 512GB          | 1         | 1.64%   |
-| NVMe CT500P2SSD8 500GB               | 1         | 1.64%   |
-| NVMe BIWIN CNF80V51G0 1TB            | 1         | 1.64%   |
-| NVMe APPLE SSD AP0512 500GB          | 1         | 1.64%   |
-| Micron MTFDDAK256TBN-1AR1ZABHA 256GB | 1         | 1.64%   |
-| KIOXIA-EXCERIA SATA SSD 480GB        | 1         | 1.64%   |
-| Kingston SA400S37480G 480GB          | 1         | 1.64%   |
+| SanDisk Extreme SSD 500GB            | 2         | 3.23%   |
+| NVMe SAMSUNG MZVLW256 256GB          | 2         | 3.23%   |
+| Intenso SSD 256GB                    | 2         | 3.23%   |
+| WDC WD7500BPKX-00HPJT0 752GB         | 1         | 1.61%   |
+| WDC WD7500BPKT-75PK4T0 752GB         | 1         | 1.61%   |
+| WDC WD7500BPKT-00PK4T0 752GB         | 1         | 1.61%   |
+| WDC WD5000LPLX-00ZNTT0 500GB         | 1         | 1.61%   |
+| WDC WD3200BEVT-22ZCT0 320GB          | 1         | 1.61%   |
+| WDC WD3200BEVE-00A0HT0 320GB         | 1         | 1.61%   |
+| WDC WD10JPLX-00MBPT0 1TB             | 1         | 1.61%   |
+| Verbatim STORE N GO 64GB             | 1         | 1.61%   |
+| Union Memory RTOTJ128VGD2EYX 128GB   | 1         | 1.61%   |
+| Toshiba MK8007GAH 80GB               | 1         | 1.61%   |
+| Toshiba KSG60ZMV256G M.2 2280 256GB  | 1         | 1.61%   |
+| SMI USB DISK 18302PB                 | 1         | 1.61%   |
+| Seagate ST9160821A 160GB             | 1         | 1.61%   |
+| Seagate ST500LM012 HN-M500MBB 500GB  | 1         | 1.61%   |
+| SanDisk X400 M.2 2280 512GB          | 1         | 1.61%   |
+| SanDisk SSD PLUS 120GB               | 1         | 1.61%   |
+| Samsung SSD 860 EVO M.2 1TB          | 1         | 1.61%   |
+| Samsung SSD 850 EVO 500GB            | 1         | 1.61%   |
+| Samsung MZ7TD128HAFV-000L1 128GB     | 1         | 1.61%   |
+| Samsung MZ7PC128HAFU-000L1 128GB     | 1         | 1.61%   |
+| Samsung MMCRE28GFMXP-MVB 128GB       | 1         | 1.61%   |
+| PNY CS900 1TB SSD                    | 1         | 1.61%   |
+| NVMe WDC PC SN730 SDB 512GB          | 1         | 1.61%   |
+| NVMe SSSTC CL1-4D256 256GB           | 1         | 1.61%   |
+| NVMe SKHynix_HFS512GD 512GB          | 1         | 1.61%   |
+| NVMe Sabrent SB-1342- 1TB            | 1         | 1.61%   |
+| NVMe PM9A1 Samsu 1TB                 | 1         | 1.61%   |
+| NVMe KINGSTON SNVS500 500GB          | 1         | 1.61%   |
+| NVMe KINGSTON SNVS200 2TB            | 1         | 1.61%   |
+| NVMe KINGSTON SNV2S20 2TB            | 1         | 1.61%   |
+| NVMe INTEL SSDPEKNU51 512GB          | 1         | 1.61%   |
+| NVMe CT500P2SSD8 500GB               | 1         | 1.61%   |
+| NVMe BIWIN CNF80V51G0 1TB            | 1         | 1.61%   |
+| NVMe APPLE SSD AP0512 500GB          | 1         | 1.61%   |
+| Micron MTFDDAK256TBN-1AR1ZABHA 256GB | 1         | 1.61%   |
+| KIOXIA-EXCERIA SATA SSD 480GB        | 1         | 1.61%   |
+| Kingston SA400S37480G 480GB          | 1         | 1.61%   |
 
 HDD Vendor
 ----------
@@ -767,15 +768,16 @@ Hard disk drive vendors
 
 | Vendor   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| NVMe     | 9         | 11     | 34.62%  |
-| WDC      | 7         | 7      | 26.92%  |
-| Hitachi  | 3         | 3      | 11.54%  |
-| Seagate  | 2         | 2      | 7.69%   |
-| Verbatim | 1         | 1      | 3.85%   |
-| Toshiba  | 1         | 1      | 3.85%   |
-| SMI      | 1         | 1      | 3.85%   |
-| JetFlash | 1         | 1      | 3.85%   |
-| Fujitsu  | 1         | 1      | 3.85%   |
+| NVMe     | 9         | 11     | 33.33%  |
+| WDC      | 7         | 7      | 25.93%  |
+| Hitachi  | 3         | 3      | 11.11%  |
+| Seagate  | 2         | 2      | 7.41%   |
+| Verbatim | 1         | 1      | 3.7%    |
+| Toshiba  | 1         | 1      | 3.7%    |
+| SMI      | 1         | 1      | 3.7%    |
+| JetFlash | 1         | 1      | 3.7%    |
+| Generic  | 1         | 1      | 3.7%    |
+| Fujitsu  | 1         | 1      | 3.7%    |
 
 SSD Vendor
 ----------
@@ -814,9 +816,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 31        | 35     | 55.36%  |
-| HDD  | 24        | 28     | 42.86%  |
-| NVMe | 1         | 1      | 1.79%   |
+| SSD  | 31        | 35     | 54.39%  |
+| HDD  | 25        | 29     | 43.86%  |
+| NVMe | 1         | 1      | 1.75%   |
 
 Drive Connector
 ---------------
@@ -828,7 +830,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 49        | 63     | 98%     |
+| SATA | 49        | 64     | 98%     |
 | NVMe | 1         | 1      | 2%      |
 
 Drive Size
@@ -841,7 +843,7 @@ Size of hard drive
 
 | Size in TB      | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 38        | 47     | 73.08%  |
+| 0.01-0.5        | 38        | 48     | 73.08%  |
 | 0.51-1.0        | 10        | 11     | 19.23%  |
 | 1.01-2.0        | 3         | 4      | 5.77%   |
 | More than 100.0 | 1         | 1      | 1.92%   |
@@ -949,7 +951,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 36        | 41     | 67.92%  |
+| Works    | 36        | 42     | 67.92%  |
 | Detected | 14        | 20     | 26.42%  |
 | Malfunc  | 3         | 3      | 5.66%   |
 

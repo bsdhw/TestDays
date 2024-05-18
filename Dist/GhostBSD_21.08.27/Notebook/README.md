@@ -402,14 +402,14 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2021 | 6         | 20.69%  |
 | 2020 | 6         | 20.69%  |
-| 2018 | 3         | 10.34%  |
 | 2013 | 3         | 10.34%  |
+| 2018 | 2         | 6.9%    |
+| 2015 | 2         | 6.9%    |
 | 2012 | 2         | 6.9%    |
 | 2011 | 2         | 6.9%    |
 | 2019 | 1         | 3.45%   |
 | 2017 | 1         | 3.45%   |
 | 2016 | 1         | 3.45%   |
-| 2015 | 1         | 3.45%   |
 | 2014 | 1         | 3.45%   |
 | 2009 | 1         | 3.45%   |
 | 2008 | 1         | 3.45%   |
@@ -625,7 +625,7 @@ Hard drive vendors
 | KingSpec            | 1         | 1      | 3.23%   |
 | Intel               | 1         | 1      | 3.23%   |
 | HGST                | 1         | 1      | 3.23%   |
-| Goodram             | 1         | 1      | 3.23%   |
+| GOODRAM             | 1         | 1      | 3.23%   |
 | Apple               | 1         | 1      | 3.23%   |
 
 Drive Model
@@ -664,7 +664,7 @@ Hard drive models
 | KingSpec Q-720 720GB               | 1         | 3.23%   |
 | Intel SSDPEKNW512G8 512GB          | 1         | 3.23%   |
 | HGST HTS721010A9E630 1TB           | 1         | 3.23%   |
-| Goodram SSDPR-CL100-120-G2 120GB   | 1         | 3.23%   |
+| GOODRAM SSDPR-CL100-120-G2 120GB   | 1         | 3.23%   |
 | Crucial CT250MX200SSD4 250GB       | 1         | 3.23%   |
 | Crucial CT1000P5SSD8 1TB           | 1         | 3.23%   |
 | Apple SSD SM0512G 500GB            | 1         | 3.23%   |
@@ -697,7 +697,7 @@ Solid state drive vendors
 | Samsung Electronics | 8         | 8      | 57.14%  |
 | Kingston            | 2         | 2      | 14.29%  |
 | KingSpec            | 1         | 1      | 7.14%   |
-| Goodram             | 1         | 1      | 7.14%   |
+| GOODRAM             | 1         | 1      | 7.14%   |
 | Crucial             | 1         | 1      | 7.14%   |
 | Apple               | 1         | 1      | 7.14%   |
 

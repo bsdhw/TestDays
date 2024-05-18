@@ -747,19 +747,19 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2019    | 26        | 10.24%  |
-| 2022    | 24        | 9.45%   |
-| 2020    | 24        | 9.45%   |
-| 2018    | 24        | 9.45%   |
-| 2013    | 20        | 7.87%   |
+| 2020    | 25        | 9.84%   |
+| 2019    | 24        | 9.45%   |
+| 2022    | 23        | 9.06%   |
+| 2018    | 22        | 8.66%   |
+| 2013    | 19        | 7.48%   |
 | 2012    | 19        | 7.48%   |
+| 2011    | 18        | 7.09%   |
 | 2021    | 17        | 6.69%   |
-| 2011    | 16        | 6.3%    |
-| 2015    | 15        | 5.91%   |
+| 2015    | 16        | 6.3%    |
 | 2014    | 14        | 5.51%   |
 | 2010    | 14        | 5.51%   |
+| 2017    | 12        | 4.72%   |
 | 2016    | 12        | 4.72%   |
-| 2017    | 10        | 3.94%   |
 | 2009    | 8         | 3.15%   |
 | 2008    | 6         | 2.36%   |
 | 2023    | 2         | 0.79%   |
@@ -1915,7 +1915,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC4149 1366x768 280x170mm 12.9-inch  | 2         | 1.32%   |
 | MSI G32C4 MSI3DA6 1920x1080 700x390mm 31.5-inch                       | 2         | 1.32%   |
 | LG Display LCD Monitor LGD0484 1366x768 340x190mm 15.3-inch           | 2         | 1.32%   |
-| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 2         | 1.32%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 2         | 1.32%   |
 | Goldstar LG ULTRAWIDE GSM5AFB 2560x1080 800x340mm 34.2-inch           | 2         | 1.32%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch      | 2         | 1.32%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 340x190mm 15.3-inch       | 2         | 1.32%   |
@@ -2356,7 +2356,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                                          | 1         | 0.44%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                       | 1         | 0.44%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1         | 0.44%   |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                                  | 1         | 0.44%   |
+| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data                 | 1         | 0.44%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 0.44%   |
 
 Net Controller Kind
@@ -2664,11 +2664,11 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.6%    |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 2         | 0.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s  | 2         | 0.6%    |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s  | 2         | 0.6%    |
+| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s | 2         | 0.6%    |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s  | 2         | 0.6%    |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 2         | 0.6%    |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s  | 2         | 0.6%    |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s      | 2         | 0.6%    |
+| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1866MT/s      | 2         | 0.6%    |
 | Kingston RAM 99U5702-095.A00G 8GB DIMM DDR4 3200MT/s   | 2         | 0.6%    |
 | GOODRAM RAM GR2400D464L17S/8G 8GB DIMM DDR4 2400MT/s   | 2         | 0.6%    |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s            | 1         | 0.3%    |
@@ -2723,12 +2723,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 100       | 34.84%  |
-| 8192  | 82        | 28.57%  |
-| 2048  | 57        | 19.86%  |
-| 16384 | 33        | 11.5%   |
-| 1024  | 9         | 3.14%   |
-| 32768 | 6         | 2.09%   |
+| 4096  | 100       | 34.72%  |
+| 8192  | 81        | 28.13%  |
+| 2048  | 57        | 19.79%  |
+| 16384 | 35        | 12.15%  |
+| 1024  | 9         | 3.13%   |
+| 32768 | 6         | 2.08%   |
 
 Memory Speed
 ------------

@@ -941,7 +941,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| GOODRAM             | 2         | 2      | 0.71%   |
+| Goodram             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -2502,8 +2502,8 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 63        | 29.72%  |
 | 1333    | 32        | 15.09%  |
-| 2400    | 30        | 14.15%  |
-| 3200    | 14        | 6.6%    |
+| 2400    | 29        | 13.68%  |
+| 3200    | 15        | 7.08%   |
 | 2667    | 10        | 4.72%   |
 | 2133    | 10        | 4.72%   |
 | 800     | 9         | 4.25%   |
@@ -2627,11 +2627,11 @@ Camera device models
 | Model                                                | Computers | Percent |
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 6         | 6.67%   |
+| Sunplus Integrated_Webcam_HD                         | 3         | 3.33%   |
 | Realtek USB 2.0 PC Camera                            | 3         | 3.33%   |
 | Microdia Integrated_Webcam_HD                        | 3         | 3.33%   |
 | Lite-On Integrated Camera                            | 3         | 3.33%   |
 | Suyin Integrated_Webcam_HD                           | 2         | 2.22%   |
-| Sunplus Integrated_Webcam_HD                         | 2         | 2.22%   |
 | Realtek USB Camera                                   | 2         | 2.22%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.22%   |
 | Chicony UVC 1.00 device HD UVC WebCam                | 2         | 2.22%   |
@@ -2648,7 +2648,6 @@ Camera device models
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.11%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.11%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.11%   |
-| Sunplus hama C-600 Pro Webcam                        | 1         | 1.11%   |
 | Sunplus Aukey-PC-LM1E Camera                         | 1         | 1.11%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.11%   |
 | Silicon Motion Realtek USB 2.0 PC Camera             | 1         | 1.11%   |
@@ -2666,6 +2665,7 @@ Camera device models
 | Microdia Dell Integrated HD Webcam                   | 1         | 1.11%   |
 | Microdia ASUS USB 2.0 Webcam                         | 1         | 1.11%   |
 | Luxvisions Innotech Limited HP Wide Vision HD Camera | 1         | 1.11%   |
+| Logitech Webcam C310                                 | 1         | 1.11%   |
 
 Security
 --------

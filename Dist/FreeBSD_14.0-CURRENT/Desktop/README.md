@@ -492,13 +492,14 @@ Motherboard manufacture year
 | Unknown | 15       | 24.19%  |
 | 2021    | 12       | 19.35%  |
 | 2020    | 11       | 17.74%  |
-| 2019    | 8        | 12.9%   |
+| 2019    | 7        | 11.29%  |
 | 2018    | 5        | 8.06%   |
 | 2023    | 4        | 6.45%   |
 | 2022    | 4        | 6.45%   |
 | 2017    | 1        | 1.61%   |
 | 2016    | 1        | 1.61%   |
 | 2012    | 1        | 1.61%   |
+| 2011    | 1        | 1.61%   |
 
 Form Factor
 -----------
@@ -1621,42 +1622,43 @@ Controller models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 21.84%  |
-| Realtek RTL8125 2.5GbE Controller                                             | 13       | 14.94%  |
-| Intel I211 Gigabit Network Connection                                         | 7        | 8.05%   |
-| Intel Wi-Fi 6 AX200                                                           | 6        | 6.9%    |
-| Intel Ethernet Controller I225-V                                              | 5        | 5.75%   |
-| Intel 82574L Gigabit Network Connection                                       | 5        | 5.75%   |
-| Intel I210 Gigabit Network Connection                                         | 3        | 3.45%   |
-| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1        | 1.15%   |
-| TP-Link Archer T3U [Realtek RTL8812BU]                                        | 1        | 1.15%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                      | 1        | 1.15%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 1        | 1.15%   |
-| Realtek Killer E3000 2.5GbE Controller                                        | 1        | 1.15%   |
-| Ralink RT2870/RT3070 Wireless Adapter                                         | 1        | 1.15%   |
-| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                     | 1        | 1.15%   |
-| Qualcomm Atheros TP-Link TL-WN322G v3 / TL-WN422G v2 802.11g [Atheros AR9271] | 1        | 1.15%   |
-| Qualcomm Atheros AR93xx Wireless Network Adapter                              | 1        | 1.15%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                | 1        | 1.15%   |
-| Mellanox MT27500 Family [ConnectX-3]                                          | 1        | 1.15%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                 | 1        | 1.15%   |
-| Intel Wireless 8265 / 8275                                                    | 1        | 1.15%   |
-| Intel Wireless 7265                                                           | 1        | 1.15%   |
-| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 1        | 1.15%   |
-| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 1.15%   |
-| Intel I350 Gigabit Network Connection                                         | 1        | 1.15%   |
-| Intel Ethernet Controller X550                                                | 1        | 1.15%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 1        | 1.15%   |
-| Intel Ethernet Connection (2) I219-V                                          | 1        | 1.15%   |
-| Intel Ethernet Connection (14) I219-LM                                        | 1        | 1.15%   |
-| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.15%   |
-| Intel Ethernet Connection (11) I219-LM                                        | 1        | 1.15%   |
-| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 1        | 1.15%   |
-| Intel Comet Lake PCH CNVi WiFi                                                | 1        | 1.15%   |
-| Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 1.15%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.15%   |
-| ASUS Realtek 8188EUS [USB-N10 Nano]                                           | 1        | 1.15%   |
-| Arduino SA Uno R3 (CDC ACM)                                                   | 1        | 1.15%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 21.59%  |
+| Realtek RTL8125 2.5GbE Controller                                             | 13       | 14.77%  |
+| Intel I211 Gigabit Network Connection                                         | 7        | 7.95%   |
+| Intel Wi-Fi 6 AX200                                                           | 6        | 6.82%   |
+| Intel Ethernet Controller I225-V                                              | 5        | 5.68%   |
+| Intel 82574L Gigabit Network Connection                                       | 5        | 5.68%   |
+| Intel I210 Gigabit Network Connection                                         | 3        | 3.41%   |
+| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1        | 1.14%   |
+| TP-Link Archer T3U [Realtek RTL8812BU]                                        | 1        | 1.14%   |
+| Realtek USB 2.5GbE Controller                                                 | 1        | 1.14%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                      | 1        | 1.14%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                           | 1        | 1.14%   |
+| Realtek Killer E3000 2.5GbE Controller                                        | 1        | 1.14%   |
+| Ralink RT2870/RT3070 Wireless Adapter                                         | 1        | 1.14%   |
+| Ralink RT3290 Wireless 802.11n 1T/1R PCIe                                     | 1        | 1.14%   |
+| Qualcomm Atheros TP-Link TL-WN322G v3 / TL-WN422G v2 802.11g [Atheros AR9271] | 1        | 1.14%   |
+| Qualcomm Atheros AR93xx Wireless Network Adapter                              | 1        | 1.14%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)                | 1        | 1.14%   |
+| Mellanox MT27500 Family [ConnectX-3]                                          | 1        | 1.14%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter                 | 1        | 1.14%   |
+| Intel Wireless 8265 / 8275                                                    | 1        | 1.14%   |
+| Intel Wireless 7265                                                           | 1        | 1.14%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                     | 1        | 1.14%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                       | 1        | 1.14%   |
+| Intel I350 Gigabit Network Connection                                         | 1        | 1.14%   |
+| Intel Ethernet Controller X550                                                | 1        | 1.14%   |
+| Intel Ethernet Connection (7) I219-LM                                         | 1        | 1.14%   |
+| Intel Ethernet Connection (2) I219-V                                          | 1        | 1.14%   |
+| Intel Ethernet Connection (14) I219-LM                                        | 1        | 1.14%   |
+| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.14%   |
+| Intel Ethernet Connection (11) I219-LM                                        | 1        | 1.14%   |
+| Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                              | 1        | 1.14%   |
+| Intel Comet Lake PCH CNVi WiFi                                                | 1        | 1.14%   |
+| Intel Cannon Lake PCH CNVi WiFi                                               | 1        | 1.14%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.14%   |
+| ASUS Realtek 8188EUS [USB-N10 Nano]                                           | 1        | 1.14%   |
+| Arduino SA Uno R3 (CDC ACM)                                                   | 1        | 1.14%   |
 
 Wireless Vendor
 ---------------
@@ -1731,22 +1733,23 @@ Ethernet models
 
 | Model                                                                         | Desktops | Percent |
 |-------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 31.15%  |
-| Realtek RTL8125 2.5GbE Controller                                             | 12       | 19.67%  |
-| Intel I211 Gigabit Network Connection                                         | 7        | 11.48%  |
-| Intel Ethernet Controller I225-V                                              | 5        | 8.2%    |
-| Intel 82574L Gigabit Network Connection                                       | 5        | 8.2%    |
-| Intel I210 Gigabit Network Connection                                         | 3        | 4.92%   |
-| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1        | 1.64%   |
-| Realtek Killer E3000 2.5GbE Controller                                        | 1        | 1.64%   |
-| Intel I350 Gigabit Network Connection                                         | 1        | 1.64%   |
-| Intel Ethernet Controller X550                                                | 1        | 1.64%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 1        | 1.64%   |
-| Intel Ethernet Connection (2) I219-V                                          | 1        | 1.64%   |
-| Intel Ethernet Connection (14) I219-LM                                        | 1        | 1.64%   |
-| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.64%   |
-| Intel Ethernet Connection (11) I219-LM                                        | 1        | 1.64%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.64%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 19       | 30.65%  |
+| Realtek RTL8125 2.5GbE Controller                                             | 12       | 19.35%  |
+| Intel I211 Gigabit Network Connection                                         | 7        | 11.29%  |
+| Intel Ethernet Controller I225-V                                              | 5        | 8.06%   |
+| Intel 82574L Gigabit Network Connection                                       | 5        | 8.06%   |
+| Intel I210 Gigabit Network Connection                                         | 3        | 4.84%   |
+| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1        | 1.61%   |
+| Realtek USB 2.5GbE Controller                                                 | 1        | 1.61%   |
+| Realtek Killer E3000 2.5GbE Controller                                        | 1        | 1.61%   |
+| Intel I350 Gigabit Network Connection                                         | 1        | 1.61%   |
+| Intel Ethernet Controller X550                                                | 1        | 1.61%   |
+| Intel Ethernet Connection (7) I219-LM                                         | 1        | 1.61%   |
+| Intel Ethernet Connection (2) I219-V                                          | 1        | 1.61%   |
+| Intel Ethernet Connection (14) I219-LM                                        | 1        | 1.61%   |
+| Intel Ethernet Connection (11) I219-V                                         | 1        | 1.61%   |
+| Intel Ethernet Connection (11) I219-LM                                        | 1        | 1.61%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1        | 1.61%   |
 
 Net Controller Kind
 -------------------
@@ -1995,7 +1998,7 @@ Memory module models
 | Kingston RAM KHX2666C16D4/16GX 16GB DIMM DDR4 2667MT/s                 | 1        | 1.92%   |
 | Kingston RAM KHX2666C16/16G 16GB DIMM DDR4 2666MT/s                    | 1        | 1.92%   |
 | Kingston RAM KHX2133C14/16G 16GB DIMM DDR4 2133MT/s                    | 1        | 1.92%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s                      | 1        | 1.92%   |
+| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1866MT/s                      | 1        | 1.92%   |
 | Kingston RAM KF556C40-32 32GB DIMM DDR5 5200MT/s                       | 1        | 1.92%   |
 | Kingston RAM KF3000C16D4/32GX 32GB DIMM DDR4 2400MT/s                  | 1        | 1.92%   |
 | Kingston RAM 99P5700-016.A00G 16GB SODIMM DDR4 3200MT/s                | 1        | 1.92%   |

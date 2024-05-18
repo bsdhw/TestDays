@@ -149,10 +149,11 @@ Contents
 Test Cases
 ----------
 
-Total: 68
+Total: 69
 
 | Vendor     | Model                       | Form-Factor | Probe                                                     | Date         |
 |------------|-----------------------------|-------------|-----------------------------------------------------------|--------------|
+| Lenovo     | ThinkPad A485 20MU000VUS    | Notebook    | [0323476838](https://bsd-hardware.info/?probe=0323476838) | Apr 28, 2024 |
 | Supermicro | X9SCL/X9SCMA                | Desktop     | [53bdb73b74](https://bsd-hardware.info/?probe=53bdb73b74) | Feb 14, 2024 |
 | ASRock     | B550M Steel Legend          | Desktop     | [fa494be63d](https://bsd-hardware.info/?probe=fa494be63d) | Jan 26, 2024 |
 | ASUSTek    | TUF Gaming B450M-PLUS II    | Desktop     | [eda92591b5](https://bsd-hardware.info/?probe=eda92591b5) | Jan 07, 2024 |
@@ -235,32 +236,33 @@ Installed operating systems
 
 | Name              | Computers | Percent |
 |-------------------|-----------|---------|
-| MidnightBSD 3.1.0 | 5         | 10.2%   |
-| MidnightBSD 2.0.2 | 4         | 8.16%   |
-| MidnightBSD 1.2   | 4         | 8.16%   |
-| MidnightBSD 3.0.0 | 3         | 6.12%   |
-| MidnightBSD 2.2.6 | 3         | 6.12%   |
-| MidnightBSD 2.2.0 | 3         | 6.12%   |
-| MidnightBSD 2.0.1 | 3         | 6.12%   |
-| MidnightBSD 3.0.1 | 2         | 4.08%   |
-| MidnightBSD 2.1.8 | 2         | 4.08%   |
-| MidnightBSD 2.1.5 | 2         | 4.08%   |
-| MidnightBSD 2.1.1 | 2         | 4.08%   |
-| MidnightBSD 2.0.7 | 2         | 4.08%   |
-| MidnightBSD 3.1.4 | 1         | 2.04%   |
-| MidnightBSD 3.1.3 | 1         | 2.04%   |
-| MidnightBSD 3.1.2 | 1         | 2.04%   |
-| MidnightBSD 3.1.1 | 1         | 2.04%   |
-| MidnightBSD 2.2.8 | 1         | 2.04%   |
-| MidnightBSD 2.2.5 | 1         | 2.04%   |
-| MidnightBSD 2.2.2 | 1         | 2.04%   |
-| MidnightBSD 2.1.6 | 1         | 2.04%   |
-| MidnightBSD 2.1.3 | 1         | 2.04%   |
-| MidnightBSD 2.1.2 | 1         | 2.04%   |
-| MidnightBSD 2.1.0 | 1         | 2.04%   |
-| MidnightBSD 2.0   | 1         | 2.04%   |
-| MidnightBSD 1.2.9 | 1         | 2.04%   |
-| MidnightBSD 1.2.7 | 1         | 2.04%   |
+| MidnightBSD 3.1.0 | 5         | 10%     |
+| MidnightBSD 2.0.2 | 4         | 8%      |
+| MidnightBSD 1.2   | 4         | 8%      |
+| MidnightBSD 3.0.0 | 3         | 6%      |
+| MidnightBSD 2.2.6 | 3         | 6%      |
+| MidnightBSD 2.2.0 | 3         | 6%      |
+| MidnightBSD 2.0.1 | 3         | 6%      |
+| MidnightBSD 3.0.1 | 2         | 4%      |
+| MidnightBSD 2.1.8 | 2         | 4%      |
+| MidnightBSD 2.1.5 | 2         | 4%      |
+| MidnightBSD 2.1.1 | 2         | 4%      |
+| MidnightBSD 2.0.7 | 2         | 4%      |
+| MidnightBSD 3.2.0 | 1         | 2%      |
+| MidnightBSD 3.1.4 | 1         | 2%      |
+| MidnightBSD 3.1.3 | 1         | 2%      |
+| MidnightBSD 3.1.2 | 1         | 2%      |
+| MidnightBSD 3.1.1 | 1         | 2%      |
+| MidnightBSD 2.2.8 | 1         | 2%      |
+| MidnightBSD 2.2.5 | 1         | 2%      |
+| MidnightBSD 2.2.2 | 1         | 2%      |
+| MidnightBSD 2.1.6 | 1         | 2%      |
+| MidnightBSD 2.1.3 | 1         | 2%      |
+| MidnightBSD 2.1.2 | 1         | 2%      |
+| MidnightBSD 2.1.0 | 1         | 2%      |
+| MidnightBSD 2.0   | 1         | 2%      |
+| MidnightBSD 1.2.9 | 1         | 2%      |
+| MidnightBSD 1.2.7 | 1         | 2%      |
 
 OS Family
 ---------
@@ -655,7 +657,7 @@ Hard drive vendors
 | WDC                 | 6         | 26     | 13.95%  |
 | Intel               | 6         | 43     | 13.95%  |
 | Toshiba             | 3         | 7      | 6.98%   |
-| SanDisk             | 2         | 11     | 4.65%   |
+| SanDisk             | 2         | 12     | 4.65%   |
 | KIOXIA              | 2         | 3      | 4.65%   |
 | SK hynix            | 1         | 1      | 2.33%   |
 | Micron Technology   | 1         | 2      | 2.33%   |
@@ -744,7 +746,7 @@ Solid state drive vendors
 | Seagate             | 4         | 7      | 20%     |
 | Intel               | 4         | 33     | 20%     |
 | Toshiba             | 3         | 7      | 15%     |
-| SanDisk             | 1         | 6      | 5%      |
+| SanDisk             | 1         | 7      | 5%      |
 | Hewlett-Packard     | 1         | 1      | 5%      |
 
 Drive Kind
@@ -757,7 +759,7 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 13        | 97     | 40.63%  |
+| SSD  | 13        | 98     | 40.63%  |
 | NVMe | 11        | 48     | 34.38%  |
 | HDD  | 8         | 64     | 25%     |
 
@@ -771,7 +773,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 16        | 161    | 59.26%  |
+| SATA | 16        | 162    | 59.26%  |
 | NVMe | 11        | 48     | 40.74%  |
 
 Drive Size
@@ -784,7 +786,7 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 72     | 48.39%  |
+| 0.01-0.5   | 15        | 73     | 48.39%  |
 | 0.51-1.0   | 6         | 22     | 19.35%  |
 | 1.01-2.0   | 4         | 11     | 12.9%   |
 | 4.01-10.0  | 3         | 49     | 9.68%   |
@@ -898,7 +900,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 18        | 205    | 85.71%  |
+| Works    | 18        | 206    | 85.71%  |
 | Malfunc  | 2         | 3      | 9.52%   |
 | Detected | 1         | 1      | 4.76%   |
 
@@ -1661,7 +1663,7 @@ Memory module models
 | Samsung RAM Module 16GB DIMM DDR4 3200MT/s              | 1         | 3.23%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 3.23%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s  | 1         | 3.23%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s   | 1         | 3.23%   |
+| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s  | 1         | 3.23%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s   | 1         | 3.23%   |
 | Samsung RAM M391B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1         | 3.23%   |
 | PNY RAM 16GU2X08QJLL42-12-K 16GB SODIMM DDR4 3200MT/s   | 1         | 3.23%   |
@@ -1715,13 +1717,13 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 16384 | 10        | 38.46%  |
-| 32768 | 6         | 23.08%  |
-| 8192  | 5         | 19.23%  |
-| 4096  | 2         | 7.69%   |
-| 1024  | 1         | 3.85%   |
-| 256   | 1         | 3.85%   |
-| 64    | 1         | 3.85%   |
+| 16384 | 10        | 40%     |
+| 32768 | 6         | 24%     |
+| 8192  | 4         | 16%     |
+| 4096  | 2         | 8%      |
+| 1024  | 1         | 4%      |
+| 256   | 1         | 4%      |
+| 64    | 1         | 4%      |
 
 Memory Speed
 ------------

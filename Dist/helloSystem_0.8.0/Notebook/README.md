@@ -594,14 +594,14 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2022    | 12        | 8.96%   |
 | 2020    | 12        | 8.96%   |
-| 2019    | 12        | 8.96%   |
-| 2018    | 12        | 8.96%   |
+| 2019    | 11        | 8.21%   |
 | 2012    | 11        | 8.21%   |
+| 2018    | 10        | 7.46%   |
+| 2017    | 10        | 7.46%   |
 | 2016    | 10        | 7.46%   |
+| 2015    | 9         | 6.72%   |
 | 2013    | 9         | 6.72%   |
 | 2011    | 9         | 6.72%   |
-| 2017    | 8         | 5.97%   |
-| 2015    | 8         | 5.97%   |
 | 2014    | 7         | 5.22%   |
 | 2010    | 7         | 5.22%   |
 | 2021    | 6         | 4.48%   |
@@ -933,7 +933,7 @@ Hard drive models
 | WDC WD10JPVX-75JC3T0 1TB             | 1         | 0.63%   |
 | WDC WD10JPVX-22JC3T0 1TB             | 1         | 0.63%   |
 | WDC PC SN530 SDBPNPZ-512G-1027 512GB | 1         | 0.63%   |
-| Verbatim Vi550 S3 SSD 256GB          | 1         | 0.63%   |
+| Verbatim Vi550 S3 SSD 128GB          | 1         | 0.63%   |
 | Transcend TS128GMTS400S 128GB        | 1         | 0.63%   |
 | Transcend TS120GMTS420S 120GB        | 1         | 0.63%   |
 | Toshiba THNSNK128GVN8 128GB          | 1         | 0.63%   |
@@ -1628,7 +1628,7 @@ Monitor models
 |-----------------------------------------------------------------------|-----------|---------|
 | Samsung Electronics LCD Monitor SEC4149 1366x768 280x170mm 12.9-inch  | 2         | 2.41%   |
 | LG Display LCD Monitor LGD0484 1366x768 340x190mm 15.3-inch           | 2         | 2.41%   |
-| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 2         | 2.41%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 2         | 2.41%   |
 | Chimei Innolux LCD Monitor CMN15E8 1920x1080 340x190mm 15.3-inch      | 2         | 2.41%   |
 | Chimei Innolux LCD Monitor CMN15E6 1366x768 340x190mm 15.3-inch       | 2         | 2.41%   |
 | AU Optronics LCD Monitor AUO71EC 1366x768 340x190mm 15.3-inch         | 2         | 2.41%   |
@@ -1658,7 +1658,7 @@ Monitor models
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch           | 1         | 1.2%    |
 | LG Display LCD Monitor LGD02D3 1366x768 280x160mm 12.7-inch           | 1         | 1.2%    |
 | LG Display LCD Monitor LGD021D 1600x900 380x210mm 17.1-inch           | 1         | 1.2%    |
-| Hewlett-Packard LCD Monitor HWP26A4 1440x900 410x260mm 19.1-inch      | 1         | 1.2%    |
+| Hewlett-Packard Compaq WF1907 HWP26A4 1440x900 410x260mm 19.1-inch    | 1         | 1.2%    |
 | HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch             | 1         | 1.2%    |
 | Fujitsu Siemens XE17-4 FUS0674 1280x1024 340x270mm 17.1-inch          | 1         | 1.2%    |
 | Dell P2412H DELA07D 1920x1080 530x300mm 24.0-inch                     | 1         | 1.2%    |
@@ -2302,7 +2302,7 @@ Memory module models
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s              | 2         | 1.18%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s              | 2         | 1.18%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s              | 2         | 1.18%   |
+| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s             | 2         | 1.18%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s              | 2         | 1.18%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                        | 1         | 0.59%   |
@@ -2367,11 +2367,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 57        | 39.04%  |
-| 8192  | 36        | 24.66%  |
-| 2048  | 31        | 21.23%  |
-| 16384 | 16        | 10.96%  |
-| 1024  | 5         | 3.42%   |
+| 4096  | 57        | 38.78%  |
+| 8192  | 35        | 23.81%  |
+| 2048  | 31        | 21.09%  |
+| 16384 | 18        | 12.24%  |
+| 1024  | 5         | 3.4%    |
 | 32768 | 1         | 0.68%   |
 
 Memory Speed
@@ -2513,7 +2513,7 @@ Camera device models
 | Realtek EasyCamera                                          | 1         | 0.97%   |
 | Realtek Acer 640 x 480 laptop camera                        | 1         | 0.97%   |
 | Microdia Webcam                                             | 1         | 0.97%   |
-| Microdia REDRAGON  Live Camera                              | 1         | 0.97%   |
+| Microdia USB 2.0 Camera                                     | 1         | 0.97%   |
 
 Security
 --------

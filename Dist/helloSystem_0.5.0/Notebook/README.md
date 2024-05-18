@@ -540,17 +540,17 @@ Motherboard manufacture year
 | 2013 | 15        | 12.93%  |
 | 2019 | 14        | 12.07%  |
 | 2020 | 12        | 10.34%  |
-| 2012 | 11        | 9.48%   |
+| 2012 | 12        | 10.34%  |
 | 2009 | 10        | 8.62%   |
 | 2015 | 9         | 7.76%   |
 | 2011 | 9         | 7.76%   |
 | 2016 | 8         | 6.9%    |
 | 2014 | 8         | 6.9%    |
 | 2018 | 6         | 5.17%   |
-| 2021 | 3         | 2.59%   |
 | 2017 | 3         | 2.59%   |
 | 2010 | 3         | 2.59%   |
 | 2007 | 3         | 2.59%   |
+| 2021 | 2         | 1.72%   |
 | 2008 | 2         | 1.72%   |
 
 Form Factor
@@ -2218,7 +2218,7 @@ Memory module models
 | Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s        | 1         | 0.66%   |
 | Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2400MT/s | 1         | 0.66%   |
 | SK hynix RAM Module 2GB DDR3 1600MT/s                        | 1         | 0.66%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 0.66%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s         | 1         | 0.66%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
 | SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s       | 1         | 0.66%   |

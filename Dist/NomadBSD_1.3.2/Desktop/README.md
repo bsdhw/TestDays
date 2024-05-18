@@ -359,13 +359,14 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2017 | 2        | 14.29%  |
-| 2013 | 2        | 14.29%  |
 | 2009 | 2        | 14.29%  |
 | 2020 | 1        | 7.14%   |
 | 2019 | 1        | 7.14%   |
 | 2016 | 1        | 7.14%   |
+| 2013 | 1        | 7.14%   |
 | 2012 | 1        | 7.14%   |
 | 2011 | 1        | 7.14%   |
+| 2010 | 1        | 7.14%   |
 | 2008 | 1        | 7.14%   |
 | 2007 | 1        | 7.14%   |
 | 2006 | 1        | 7.14%   |
@@ -1470,7 +1471,7 @@ Memory module models
 | Micron RAM ITC 4GB DIMM DDR3 1066MT/s                     | 2        | 12.5%   |
 | Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 6.25%   |
 | SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s      | 1        | 6.25%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR2              | 1        | 6.25%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 6.25%   |
 | Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
 | Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 6.25%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |

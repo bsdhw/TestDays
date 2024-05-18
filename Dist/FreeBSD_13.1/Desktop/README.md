@@ -865,7 +865,7 @@ Hard drive models
 | Samsung SSD 850 EVO 500GB       | 3        | 1.51%   |
 | Crucial CT240BX500SSD1 240GB    | 3        | 1.51%   |
 | WDC WD5000LPLX-00ZNTT0 500GB    | 2        | 1.01%   |
-| Verbatim Vi550 S3 SSD 256GB     | 2        | 1.01%   |
+| Verbatim Vi550 S3 SSD 128GB     | 2        | 1.01%   |
 | Seagate ST4000NM0035-1V4107 4TB | 2        | 1.01%   |
 | Seagate ST4000DM000-1F2168 4TB  | 2        | 1.01%   |
 | Seagate ST2000DM008-2FR102 2TB  | 2        | 1.01%   |
@@ -2235,7 +2235,7 @@ Memory module models
 | Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s            | 1        | 1%      |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1%      |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1%      |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1%      |
+| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s                     | 1        | 1%      |
 | SK hynix RAM HMT451U6DFR8A-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1        | 1%      |

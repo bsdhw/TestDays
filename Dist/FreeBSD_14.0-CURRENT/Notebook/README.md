@@ -588,8 +588,8 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2021 | 17        | 22.67%  |
-| 2020 | 17        | 22.67%  |
+| 2020 | 18        | 24%     |
+| 2021 | 16        | 21.33%  |
 | 2022 | 12        | 16%     |
 | 2019 | 8         | 10.67%  |
 | 2017 | 4         | 5.33%   |
@@ -2152,7 +2152,7 @@ Memory module models
 | Crucial RAM BL32G32C16S4B.M16FB1 32GB SODIMM DDR4 2667MT/s     | 2         | 2.22%   |
 | Unknown RAM Module 4GB SODIMM DDR4 2667MT/s                    | 1         | 1.11%   |
 | Unknown RAM Module 1GB SODIMM DDR                              | 1         | 1.11%   |
-| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 1.11%   |
+| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s          | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 1.11%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 1.11%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1867MT/s                   | 1         | 1.11%   |
@@ -2325,10 +2325,10 @@ Camera device models
 |----------------------------------------------------------------------------|-----------|---------|
 | IMC Networks Integrated Camera                                             | 9         | 12.86%  |
 | Chicony Integrated Camera                                                  | 8         | 11.43%  |
+| Sunplus Integrated_Webcam_HD                                               | 3         | 4.29%   |
 | Lite-On Integrated Camera                                                  | 3         | 4.29%   |
 | Chicony Integrated HP HD Webcam                                            | 3         | 4.29%   |
 | Bison Integrated Camera                                                    | 3         | 4.29%   |
-| Sunplus Integrated_Webcam_HD                                               | 2         | 2.86%   |
 | Realtek USB 2.0 Webcam                                                     | 2         | 2.86%   |
 | Realtek Laptop Camera                                                      | 2         | 2.86%   |
 | Microdia USB Camera                                                        | 2         | 2.86%   |
@@ -2341,7 +2341,6 @@ Camera device models
 | Apple FaceTime HD Camera (Built-in)                                        | 2         | 2.86%   |
 | Syntek Lenovo EasyCamera                                                   | 1         | 1.43%   |
 | Syntek Integrated Camera                                                   | 1         | 1.43%   |
-| Sunplus hama C-600 Pro Webcam                                              | 1         | 1.43%   |
 | Shenzhen Kingcome Optoelectronic XiaoMi USB 2.0 Webcam                     | 1         | 1.43%   |
 | Shenzhen Kingcome Optoelectronic 720p HD Camera                            | 1         | 1.43%   |
 | Realtek USB 2.0 PC Camera                                                  | 1         | 1.43%   |

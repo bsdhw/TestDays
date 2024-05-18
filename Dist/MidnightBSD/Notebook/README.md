@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 19
+Total: 20
 
 | Vendor | Model                       | Probe                                                     | Date         |
 |--------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo | ThinkPad A485 20MU000VUS    | [0323476838](https://bsd-hardware.info/?probe=0323476838) | Apr 28, 2024 |
 | Lenovo | ThinkPad A485 20MU000VUS    | [98663cbfef](https://bsd-hardware.info/?probe=98663cbfef) | Dec 22, 2023 |
 | Lenovo | ThinkPad A485 20MU000VUS    | [8f21b7d70f](https://bsd-hardware.info/?probe=8f21b7d70f) | Nov 24, 2023 |
 | HP     | Victus by Gaming Laptop ... | [b97af82e5c](https://bsd-hardware.info/?probe=b97af82e5c) | Feb 05, 2023 |
@@ -184,16 +185,17 @@ Installed operating systems
 
 | Name              | Notebooks | Percent |
 |-------------------|-----------|---------|
-| MidnightBSD 3.1.0 | 2         | 18.18%  |
-| MidnightBSD 3.1.2 | 1         | 9.09%   |
-| MidnightBSD 3.0.0 | 1         | 9.09%   |
-| MidnightBSD 2.2.6 | 1         | 9.09%   |
-| MidnightBSD 2.2.2 | 1         | 9.09%   |
-| MidnightBSD 2.2.0 | 1         | 9.09%   |
-| MidnightBSD 2.1.5 | 1         | 9.09%   |
-| MidnightBSD 2.1.1 | 1         | 9.09%   |
-| MidnightBSD 2.0   | 1         | 9.09%   |
-| MidnightBSD 1.2   | 1         | 9.09%   |
+| MidnightBSD 3.1.0 | 2         | 16.67%  |
+| MidnightBSD 3.2.0 | 1         | 8.33%   |
+| MidnightBSD 3.1.2 | 1         | 8.33%   |
+| MidnightBSD 3.0.0 | 1         | 8.33%   |
+| MidnightBSD 2.2.6 | 1         | 8.33%   |
+| MidnightBSD 2.2.2 | 1         | 8.33%   |
+| MidnightBSD 2.2.0 | 1         | 8.33%   |
+| MidnightBSD 2.1.5 | 1         | 8.33%   |
+| MidnightBSD 2.1.1 | 1         | 8.33%   |
+| MidnightBSD 2.0   | 1         | 8.33%   |
+| MidnightBSD 1.2   | 1         | 8.33%   |
 
 OS Family
 ---------
@@ -527,7 +529,7 @@ Hard drive vendors
 |-------------------|-----------|--------|---------|
 | WDC               | 1         | 1      | 16.67%  |
 | Seagate           | 1         | 1      | 16.67%  |
-| SanDisk           | 1         | 6      | 16.67%  |
+| SanDisk           | 1         | 7      | 16.67%  |
 | Micron Technology | 1         | 2      | 16.67%  |
 | Lenovo            | 1         | 1      | 16.67%  |
 | Hewlett-Packard   | 1         | 1      | 16.67%  |
@@ -572,7 +574,7 @@ Solid state drive vendors
 
 | Vendor          | Notebooks | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| SanDisk         | 1         | 6      | 50%     |
+| SanDisk         | 1         | 7      | 50%     |
 | Hewlett-Packard | 1         | 1      | 50%     |
 
 Drive Kind
@@ -586,7 +588,7 @@ HDD or SSD
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
 | NVMe | 2         | 3      | 33.33%  |
-| SSD  | 2         | 7      | 33.33%  |
+| SSD  | 2         | 8      | 33.33%  |
 | HDD  | 2         | 2      | 33.33%  |
 
 Drive Connector
@@ -599,7 +601,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 3         | 9      | 60%     |
+| SATA | 3         | 10     | 60%     |
 | NVMe | 2         | 3      | 40%     |
 
 Drive Size
@@ -612,7 +614,7 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 3         | 9      | 100%    |
+| 0.01-0.5   | 3         | 10     | 100%    |
 
 Space Total
 -----------
@@ -693,7 +695,7 @@ Number of failed and malfunc. drives
 
 | Status | Notebooks | Drives | Percent |
 |--------|-----------|--------|---------|
-| Works  | 5         | 12     | 100%    |
+| Works  | 5         | 13     | 100%    |
 
 Storage controller
 ------------------
@@ -1285,7 +1287,7 @@ Memory module models
 | SK hynix RAM Module 1GB SODIMM DDR 667MT/s             | 1         | 12.5%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 12.5%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s | 1         | 12.5%   |
-| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s  | 1         | 12.5%   |
+| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 12.5%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s  | 1         | 12.5%   |
 | PNY RAM 16GU2X08QJLL42-12-K 16GB SODIMM DDR4 3200MT/s  | 1         | 12.5%   |
 | Micron RAM 4ATF51264HZ-2G3B2 4GB SODIMM DDR4 2400MT/s  | 1         | 12.5%   |
@@ -1327,10 +1329,10 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 16384 | 3         | 37.5%   |
-| 8192  | 2         | 25%     |
-| 4096  | 2         | 25%     |
-| 1024  | 1         | 12.5%   |
+| 16384 | 3         | 42.86%  |
+| 4096  | 2         | 28.57%  |
+| 8192  | 1         | 14.29%  |
+| 1024  | 1         | 14.29%  |
 
 Memory Speed
 ------------

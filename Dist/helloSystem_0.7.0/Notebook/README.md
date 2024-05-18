@@ -145,10 +145,11 @@ Contents
 Test Cases
 ----------
 
-Total: 259
+Total: 260
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Lenovo        | Legion Y7000P 81HC          | [3dff76a9dd](https://bsd-hardware.info/?probe=3dff76a9dd) | Apr 27, 2024 |
 | Lenovo        | IdeaPad 330-15IKB 81DE      | [20090cb5c6](https://bsd-hardware.info/?probe=20090cb5c6) | Jan 15, 2024 |
 | Acer          | Monserrat                   | [9c79dbac8b](https://bsd-hardware.info/?probe=9c79dbac8b) | Sep 10, 2023 |
 | ASUSTek       | 1015P                       | [c700224684](https://bsd-hardware.info/?probe=c700224684) | Jun 14, 2023 |
@@ -182,7 +183,7 @@ Total: 259
 | HP            | 245 G6                      | [49ce6aa725](https://bsd-hardware.info/?probe=49ce6aa725) | Dec 07, 2022 |
 | HASEE Comp... | N95XKP6                     | [0bc2996a6d](https://bsd-hardware.info/?probe=0bc2996a6d) | Dec 02, 2022 |
 | Dell          | Inspiron 3442               | [529cbab9aa](https://bsd-hardware.info/?probe=529cbab9aa) | Dec 01, 2022 |
-| Acidanther... | MacBookPro15,1              | [57c3a4005a](https://bsd-hardware.info/?probe=57c3a4005a) | Dec 01, 2022 |
+| Lenovo        | Legion Y7000P 81HC          | [57c3a4005a](https://bsd-hardware.info/?probe=57c3a4005a) | Dec 01, 2022 |
 | GPD           | P3 MAX                      | [4a467c9616](https://bsd-hardware.info/?probe=4a467c9616) | Nov 30, 2022 |
 | Lenovo        | ThinkPad T460 20FMS0XL23    | [bc7585ec56](https://bsd-hardware.info/?probe=bc7585ec56) | Nov 28, 2022 |
 | Apple         | MacBook5,1                  | [3541df7dd2](https://bsd-hardware.info/?probe=3541df7dd2) | Nov 27, 2022 |
@@ -503,8 +504,8 @@ Type of filesystem
 
 | Type   | Notebooks | Percent |
 |--------|-----------|---------|
-| Zfs    | 117       | 51.09%  |
-| Cd9660 | 112       | 48.91%  |
+| Zfs    | 118       | 51.3%   |
+| Cd9660 | 112       | 48.7%   |
 
 Part. scheme
 ------------
@@ -532,7 +533,7 @@ Motherboard manufacturer
 
 | Name                | Notebooks | Percent |
 |---------------------|-----------|---------|
-| Lenovo              | 71        | 31.42%  |
+| Lenovo              | 72        | 31.86%  |
 | Hewlett-Packard     | 37        | 16.37%  |
 | Dell                | 26        | 11.5%   |
 | Acer                | 25        | 11.06%  |
@@ -558,7 +559,6 @@ Motherboard manufacturer
 | eMachines           | 1         | 0.44%   |
 | DNS                 | 1         | 0.44%   |
 | Alienware           | 1         | 0.44%   |
-| Acidanthera         | 1         | 0.44%   |
 | Unknown             | 1         | 0.44%   |
 
 Model
@@ -632,12 +632,12 @@ Motherboard model prefix
 | Toshiba Satellite       | 5         | 2.21%   |
 | HP Laptop               | 4         | 1.77%   |
 | Apple MacBook4          | 4         | 1.77%   |
+| Lenovo Legion           | 3         | 1.33%   |
 | HP EliteBook            | 3         | 1.33%   |
 | Dell Precision          | 3         | 1.33%   |
 | Apple MacBook5          | 3         | 1.33%   |
 | TUXEDO Aura             | 2         | 0.88%   |
 | Razer Blade             | 2         | 0.88%   |
-| Lenovo Legion           | 2         | 0.88%   |
 | HP Compaq               | 2         | 0.88%   |
 | HP 2000                 | 2         | 0.88%   |
 | Fujitsu LIFEBOOK        | 2         | 0.88%   |
@@ -678,18 +678,18 @@ Motherboard manufacture year
 | 2010    | 19        | 8.41%   |
 | 2013    | 18        | 7.96%   |
 | 2011    | 18        | 7.96%   |
+| 2020    | 17        | 7.52%   |
 | 2021    | 15        | 6.64%   |
-| 2020    | 15        | 6.64%   |
-| 2018    | 15        | 6.64%   |
+| 2015    | 15        | 6.64%   |
 | 2014    | 15        | 6.64%   |
-| 2015    | 14        | 6.19%   |
+| 2017    | 14        | 6.19%   |
 | 2008    | 14        | 6.19%   |
-| 2017    | 13        | 5.75%   |
+| 2018    | 13        | 5.75%   |
 | 2009    | 13        | 5.75%   |
 | 2007    | 7         | 3.1%    |
 | 2019    | 4         | 1.77%   |
-| 2022    | 3         | 1.33%   |
 | 2006    | 2         | 0.88%   |
+| 2022    | 1         | 0.44%   |
 | Unknown | 1         | 0.44%   |
 
 Form Factor
@@ -760,10 +760,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 174       | 76.32%  |
-| 2      | 42        | 18.42%  |
-| 0      | 9         | 3.95%   |
-| 3      | 2         | 0.88%   |
+| 1      | 175       | 76.42%  |
+| 2      | 42        | 18.34%  |
+| 0      | 9         | 3.93%   |
+| 3      | 2         | 0.87%   |
 | 4      | 1         | 0.44%   |
 
 Has CD-ROM
@@ -882,10 +882,10 @@ Geographic location (city)
 
 | City             | Notebooks | Percent |
 |------------------|-----------|---------|
-| Moscow           | 4         | 1.75%   |
-| Madrid           | 3         | 1.31%   |
-| Hanoi            | 3         | 1.31%   |
-| Amsterdam        | 3         | 1.31%   |
+| Moscow           | 4         | 1.74%   |
+| Madrid           | 3         | 1.3%    |
+| Hanoi            | 3         | 1.3%    |
+| Amsterdam        | 3         | 1.3%    |
 | Yambol           | 2         | 0.87%   |
 | Warsaw           | 2         | 0.87%   |
 | Milan            | 2         | 0.87%   |
@@ -899,29 +899,29 @@ Geographic location (city)
 | Bucharest        | 2         | 0.87%   |
 | Ankara           | 2         | 0.87%   |
 | Alcobendas       | 2         | 0.87%   |
-| Zhaoqing         | 1         | 0.44%   |
-| Zaporizhzhya     | 1         | 0.44%   |
-| Zapopan          | 1         | 0.44%   |
-| Youngsville      | 1         | 0.44%   |
-| Yichun           | 1         | 0.44%   |
-| Yaphank          | 1         | 0.44%   |
-| Yangon           | 1         | 0.44%   |
-| Wroclaw          | 1         | 0.44%   |
-| Windsor          | 1         | 0.44%   |
-| West Linn        | 1         | 0.44%   |
-| Washington       | 1         | 0.44%   |
-| Vilnius          | 1         | 0.44%   |
-| Ventura          | 1         | 0.44%   |
-| VÃ¤sterÃ¥s   | 1         | 0.44%   |
-| Vaudreuil-Dorion | 1         | 0.44%   |
-| Vandalia         | 1         | 0.44%   |
-| Valencia         | 1         | 0.44%   |
-| Urnieta          | 1         | 0.44%   |
-| Ugarchin         | 1         | 0.44%   |
-| Turley           | 1         | 0.44%   |
-| Turin            | 1         | 0.44%   |
-| Tudela de Duero  | 1         | 0.44%   |
-| Tsarskoye Selo   | 1         | 0.44%   |
+| Zhaoqing         | 1         | 0.43%   |
+| Zaporizhzhya     | 1         | 0.43%   |
+| Zapopan          | 1         | 0.43%   |
+| Youngsville      | 1         | 0.43%   |
+| Yichun           | 1         | 0.43%   |
+| Yaphank          | 1         | 0.43%   |
+| Yangon           | 1         | 0.43%   |
+| Wuhan            | 1         | 0.43%   |
+| Wroclaw          | 1         | 0.43%   |
+| Windsor          | 1         | 0.43%   |
+| West Linn        | 1         | 0.43%   |
+| Washington       | 1         | 0.43%   |
+| Vilnius          | 1         | 0.43%   |
+| Ventura          | 1         | 0.43%   |
+| VÃ¤sterÃ¥s   | 1         | 0.43%   |
+| Vaudreuil-Dorion | 1         | 0.43%   |
+| Vandalia         | 1         | 0.43%   |
+| Valencia         | 1         | 0.43%   |
+| Urnieta          | 1         | 0.43%   |
+| Ugarchin         | 1         | 0.43%   |
+| Turley           | 1         | 0.43%   |
+| Turin            | 1         | 0.43%   |
+| Tudela de Duero  | 1         | 0.43%   |
 
 Drives
 ------
@@ -962,7 +962,7 @@ Hard drive vendors
 | SSSTC               | 1         | 1      | 0.38%   |
 | Smartbuy            | 1         | 1      | 0.38%   |
 | PNY                 | 1         | 1      | 0.38%   |
-| Plextor             | 1         | 1      | 0.38%   |
+| Plextor             | 1         | 2      | 0.38%   |
 | Phison              | 1         | 1      | 0.38%   |
 | Netac               | 1         | 1      | 0.38%   |
 | Mushkin             | 1         | 1      | 0.38%   |
@@ -1076,7 +1076,7 @@ Solid state drive vendors
 | Team                | 1         | 1      | 0.8%    |
 | Smartbuy            | 1         | 1      | 0.8%    |
 | PNY                 | 1         | 1      | 0.8%    |
-| Plextor             | 1         | 1      | 0.8%    |
+| Plextor             | 1         | 2      | 0.8%    |
 | Phison              | 1         | 1      | 0.8%    |
 | Netac               | 1         | 1      | 0.8%    |
 | Mushkin             | 1         | 1      | 0.8%    |
@@ -1103,7 +1103,7 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 113       | 128    | 45.75%  |
+| SSD  | 113       | 129    | 45.75%  |
 | HDD  | 98        | 112    | 39.68%  |
 | NVMe | 36        | 39     | 14.57%  |
 
@@ -1117,7 +1117,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 199       | 240    | 84.68%  |
+| SATA | 199       | 241    | 84.68%  |
 | NVMe | 36        | 39     | 15.32%  |
 
 Drive Size
@@ -1131,7 +1131,7 @@ Size of hard drive
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 165       | 192    | 78.95%  |
-| 0.51-1.0   | 39        | 43     | 18.66%  |
+| 0.51-1.0   | 39        | 44     | 18.66%  |
 | 1.01-2.0   | 4         | 4      | 1.91%   |
 | 4.01-10.0  | 1         | 1      | 0.48%   |
 
@@ -1145,13 +1145,13 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 1-20       | 108       | 47.16%  |
-| 101-250    | 58        | 25.33%  |
-| 251-500    | 35        | 15.28%  |
-| 501-1000   | 16        | 6.99%   |
-| 21-50      | 6         | 2.62%   |
-| 51-100     | 5         | 2.18%   |
-| Unknown    | 1         | 0.44%   |
+| 1-20       | 108       | 46.96%  |
+| 101-250    | 58        | 25.22%  |
+| 251-500    | 36        | 15.65%  |
+| 501-1000   | 16        | 6.96%   |
+| 21-50      | 6         | 2.61%   |
+| 51-100     | 5         | 2.17%   |
+| Unknown    | 1         | 0.43%   |
 
 Space Used
 ----------
@@ -1297,7 +1297,7 @@ Number of failed and malfunc. drives
 
 | Status   | Notebooks | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 175       | 223    | 77.09%  |
+| Works    | 175       | 224    | 77.09%  |
 | Malfunc  | 51        | 55     | 22.47%  |
 | Detected | 1         | 1      | 0.44%   |
 
@@ -1773,7 +1773,7 @@ Monitor models
 | Apple LCD Monitor APP9C5F 1280x800 290x180mm 13.4-inch                | 2         | 0.87%   |
 | Apple Color LCD APP9C5E 1280x800 290x190mm 13.6-inch                  | 2         | 0.87%   |
 | Vestel Elektronik 32W_LCD_TV VES3700 1920x1080 710x400mm 32.1-inch    | 1         | 0.43%   |
-| Toshiba TV TSB0108 1360x768 700x390mm 31.5-inch                       | 1         | 0.43%   |
+| Toshiba TV TSB0108 1360x768 890x500mm 40.2-inch                       | 1         | 0.43%   |
 | Sony LCD SNY06FA 1600x900 290x160mm 13.0-inch                         | 1         | 0.43%   |
 | SLD LCD Monitor SLD003C 1366x768 310x170mm 13.9-inch                  | 1         | 0.43%   |
 | Sharp LQ140Z1JW01 SHP1401 3200x1800 310x170mm 13.9-inch               | 1         | 0.43%   |
@@ -1784,7 +1784,7 @@ Monitor models
 | Samsung Electronics S24F350 SAM0D20 1920x1080 520x290mm 23.4-inch     | 1         | 0.43%   |
 | Samsung Electronics LCD Monitor SEC5448 1920x1080 410x230mm 18.5-inch | 1         | 0.43%   |
 | Samsung Electronics LCD Monitor SEC4E41 1366x768 350x200mm 15.9-inch  | 1         | 0.43%   |
-| Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch  | 1         | 0.43%   |
+| Samsung Electronics LCD Monitor SEC4542 1366x768 300x170mm 13.6-inch  | 1         | 0.43%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch  | 1         | 0.43%   |
 | Samsung Electronics LCD Monitor SEC384A 1366x768 340x190mm 15.3-inch  | 1         | 0.43%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch  | 1         | 0.43%   |
@@ -1836,14 +1836,13 @@ Diagonal size in inches
 | 10      | 4         | 1.74%   |
 | 24      | 3         | 1.3%    |
 | 23      | 3         | 1.3%    |
+| 40      | 2         | 0.87%   |
 | 18      | 2         | 0.87%   |
 | Unknown | 2         | 0.87%   |
 | 64      | 1         | 0.43%   |
 | 54      | 1         | 0.43%   |
 | 42      | 1         | 0.43%   |
-| 40      | 1         | 0.43%   |
 | 34      | 1         | 0.43%   |
-| 31      | 1         | 0.43%   |
 | 21      | 1         | 0.43%   |
 | 20      | 1         | 0.43%   |
 | 19      | 1         | 0.43%   |
@@ -1864,11 +1863,11 @@ Physical width
 | 351-400     | 14        | 6.09%   |
 | 501-600     | 9         | 3.91%   |
 | 401-500     | 4         | 1.74%   |
-| 601-700     | 2         | 0.87%   |
+| 801-900     | 2         | 0.87%   |
 | 1001-1500   | 2         | 0.87%   |
 | Unknown     | 2         | 0.87%   |
-| 801-900     | 1         | 0.43%   |
 | 701-800     | 1         | 0.43%   |
+| 601-700     | 1         | 0.43%   |
 | 901-1000    | 1         | 0.43%   |
 
 Aspect Ratio
@@ -1910,12 +1909,12 @@ Area in inch²
 | 41-50          | 4         | 1.74%   |
 | 301-350        | 4         | 1.74%   |
 | 131-140        | 3         | 1.3%    |
+| 501-1000       | 3         | 1.3%    |
 | More than 1000 | 2         | 0.87%   |
-| 351-500        | 2         | 0.87%   |
 | 151-200        | 2         | 0.87%   |
 | 141-150        | 2         | 0.87%   |
-| 501-1000       | 2         | 0.87%   |
 | Unknown        | 2         | 0.87%   |
+| 351-500        | 1         | 0.43%   |
 | 251-300        | 1         | 0.43%   |
 | 111-120        | 1         | 0.43%   |
 
@@ -1929,12 +1928,13 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 101-120       | 105       | 46.46%  |
-| 121-160       | 79        | 34.96%  |
-| 51-100        | 34        | 15.04%  |
-| 161-240       | 4         | 1.77%   |
+| 101-120       | 105       | 46.26%  |
+| 121-160       | 79        | 34.8%   |
+| 51-100        | 34        | 14.98%  |
+| 161-240       | 4         | 1.76%   |
 | More than 240 | 2         | 0.88%   |
 | Unknown       | 2         | 0.88%   |
+| 1-50          | 1         | 0.44%   |
 
 Multiple Monitors
 -----------------
@@ -2184,7 +2184,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v1.1 Fast Ethernet                             | 1         | 0.47%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1         | 0.47%   |
 | Qualcomm Atheros AR8131 Gigabit Ethernet                               | 1         | 0.47%   |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                          | 1         | 0.47%   |
+| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data         | 1         | 0.47%   |
 | OnePlus (Shenzhen) Android Remote NDIS Device                          | 1         | 0.47%   |
 | Marvell Group 88E8057 PCI-E Gigabit Ethernet Controller                | 1         | 0.47%   |
 | Marvell Group 88E8040T PCI-E Fast Ethernet Controller                  | 1         | 0.47%   |
@@ -2461,7 +2461,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s      | 4         | 1.42%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s      | 4         | 1.42%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s      | 4         | 1.42%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s      | 3         | 1.06%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s       | 3         | 1.06%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s     | 3         | 1.06%   |
 | SK hynix RAM HMA81GS6JJR8N-VK 8GB SODIMM DDR4 2667MT/s     | 3         | 1.06%   |
 | Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s      | 3         | 1.06%   |
@@ -2554,18 +2554,18 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 76        | 30.65%  |
-| 2667    | 27        | 10.89%  |
-| 667     | 24        | 9.68%   |
-| 1333    | 23        | 9.27%   |
-| 1334    | 18        | 7.26%   |
-| 1067    | 14        | 5.65%   |
-| 3200    | 12        | 4.84%   |
-| 2400    | 12        | 4.84%   |
-| 2133    | 12        | 4.84%   |
-| 800     | 10        | 4.03%   |
-| 1867    | 7         | 2.82%   |
-| Unknown | 6         | 2.42%   |
+| 1600    | 76        | 30.77%  |
+| 2667    | 27        | 10.93%  |
+| 667     | 24        | 9.72%   |
+| 1333    | 21        | 8.5%    |
+| 1334    | 19        | 7.69%   |
+| 1067    | 14        | 5.67%   |
+| 3200    | 12        | 4.86%   |
+| 2400    | 12        | 4.86%   |
+| 2133    | 12        | 4.86%   |
+| 800     | 10        | 4.05%   |
+| 1867    | 7         | 2.83%   |
+| Unknown | 6         | 2.43%   |
 | 975     | 3         | 1.21%   |
 | 4267    | 1         | 0.4%    |
 | 2048    | 1         | 0.4%    |

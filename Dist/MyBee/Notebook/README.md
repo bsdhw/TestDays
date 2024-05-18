@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 1
+Total: 2
 
 | Vendor | Model           | Probe                                                     | Date         |
 |--------|-----------------|-----------------------------------------------------------|--------------|
+| Lenovo | V15 G3 IAP 82TT | [202a277c32](https://bsd-hardware.info/?probe=202a277c32) | Mar 29, 2024 |
 | HP     | EliteBook 8540w | [0063369c40](https://bsd-hardware.info/?probe=0063369c40) | Jul 30, 2022 |
 
 System
@@ -164,9 +165,10 @@ Installed operating systems
 ![OS](./images/pie_chart_bsd/os_name.svg)
 
 
-| Name       | Notebooks | Percent |
-|------------|-----------|---------|
-| MyBee 13.1 | 1         | 100%    |
+| Name          | Notebooks | Percent |
+|---------------|-----------|---------|
+| MyBee 14.0-p2 | 1         | 50%     |
+| MyBee 13.1    | 1         | 50%     |
 
 OS Family
 ---------
@@ -178,7 +180,7 @@ OS without a version
 
 | Name  | Notebooks | Percent |
 |-------|-----------|---------|
-| MyBee | 1         | 100%    |
+| MyBee | 2         | 100%    |
 
 Arch
 ----
@@ -190,7 +192,7 @@ OS architecture (x86_64, i586, etc.)
 
 | Name  | Notebooks | Percent |
 |-------|-----------|---------|
-| amd64 | 1         | 100%    |
+| amd64 | 2         | 100%    |
 
 DE
 --
@@ -202,7 +204,7 @@ Desktop Environment
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Console | 1         | 100%    |
+| Console | 2         | 100%    |
 
 Display Server
 --------------
@@ -214,7 +216,7 @@ X11 or Wayland
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Console | 1         | 100%    |
+| Console | 2         | 100%    |
 
 Display Manager
 ---------------
@@ -226,7 +228,7 @@ SDDM, LightDM, etc.
 
 | Name    | Notebooks | Percent |
 |---------|-----------|---------|
-| Console | 1         | 100%    |
+| Console | 2         | 100%    |
 
 OS Lang
 -------
@@ -238,7 +240,7 @@ Language
 
 | Lang  | Notebooks | Percent |
 |-------|-----------|---------|
-| en_US | 1         | 100%    |
+| en_US | 2         | 100%    |
 
 Boot Mode
 ---------
@@ -250,7 +252,7 @@ EFI or BIOS
 
 | Mode | Notebooks | Percent |
 |------|-----------|---------|
-| BIOS | 1         | 100%    |
+| BIOS | 2         | 100%    |
 
 Filesystem
 ----------
@@ -262,7 +264,7 @@ Type of filesystem
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| Zfs  | 1         | 100%    |
+| Zfs  | 2         | 100%    |
 
 Part. scheme
 ------------
@@ -274,7 +276,7 @@ Scheme of partitioning
 
 | Type | Notebooks | Percent |
 |------|-----------|---------|
-| GPT  | 1         | 100%    |
+| GPT  | 2         | 100%    |
 
 Board
 -----
@@ -289,7 +291,8 @@ Motherboard manufacturer
 
 | Name            | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Hewlett-Packard | 1         | 100%    |
+| Lenovo          | 1         | 50%     |
+| Hewlett-Packard | 1         | 50%     |
 
 Model
 -----
@@ -299,9 +302,10 @@ Motherboard model
 ![Model](./images/pie_chart_bsd/node_model.svg)
 
 
-| Name               | Notebooks | Percent |
-|--------------------|-----------|---------|
-| HP EliteBook 8540w | 1         | 100%    |
+| Name                   | Notebooks | Percent |
+|------------------------|-----------|---------|
+| Lenovo V15 G3 IAP 82TT | 1         | 50%     |
+| HP EliteBook 8540w     | 1         | 50%     |
 
 Model Family
 ------------
@@ -313,7 +317,8 @@ Motherboard model prefix
 
 | Name         | Notebooks | Percent |
 |--------------|-----------|---------|
-| HP EliteBook | 1         | 100%    |
+| Lenovo V15   | 1         | 50%     |
+| HP EliteBook | 1         | 50%     |
 
 MFG Year
 --------
@@ -325,7 +330,8 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 1         | 100%    |
+| 2023 | 1         | 50%     |
+| 2013 | 1         | 50%     |
 
 Form Factor
 -----------
@@ -337,7 +343,7 @@ Physical design of the computer
 
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
-| Notebook | 1         | 100%    |
+| Notebook | 2         | 100%    |
 
 Coreboot
 --------
@@ -349,7 +355,7 @@ Have coreboot on board
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 1         | 100%    |
+| No   | 2         | 100%    |
 
 RAM Size
 --------
@@ -361,7 +367,8 @@ Total RAM memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 8.01-16.0  | 1         | 100%    |
+| 16.01-24.0 | 1         | 50%     |
+| 8.01-16.0  | 1         | 50%     |
 
 RAM Used
 --------
@@ -373,7 +380,8 @@ Used RAM memory
 
 | Used GB  | Notebooks | Percent |
 |----------|-----------|---------|
-| 0.51-1.0 | 1         | 100%    |
+| 1.01-2.0 | 1         | 50%     |
+| 0.51-1.0 | 1         | 50%     |
 
 Total Drives
 ------------
@@ -385,7 +393,8 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 1         | 100%    |
+| 2      | 1         | 50%     |
+| 0      | 1         | 50%     |
 
 Has CD-ROM
 ----------
@@ -397,7 +406,7 @@ Has CD-ROM on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| No        | 1         | 100%    |
+| No        | 2         | 100%    |
 
 Has Ethernet
 ------------
@@ -409,7 +418,7 @@ Has Ethernet on board
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 1         | 100%    |
+| Yes       | 2         | 100%    |
 
 Has WiFi
 --------
@@ -421,7 +430,7 @@ Has WiFi module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 1         | 100%    |
+| Yes       | 2         | 100%    |
 
 Has Bluetooth
 -------------
@@ -433,7 +442,7 @@ Has Bluetooth module
 
 | Presented | Notebooks | Percent |
 |-----------|-----------|---------|
-| Yes       | 1         | 100%    |
+| Yes       | 2         | 100%    |
 
 Location
 --------
@@ -446,9 +455,10 @@ Geographic location (country)
 ![Country](./images/pie_chart_bsd/node_location.svg)
 
 
-| Country | Notebooks | Percent |
-|---------|-----------|---------|
-| Iceland | 1         | 100%    |
+| Country  | Notebooks | Percent |
+|----------|-----------|---------|
+| Iceland  | 1         | 50%     |
+| Bulgaria | 1         | 50%     |
 
 City
 ----
@@ -460,7 +470,8 @@ Geographic location (city)
 
 | City      | Notebooks | Percent |
 |-----------|-----------|---------|
-| Reykjavik | 1         | 100%    |
+| Sofia     | 1         | 50%     |
+| Reykjavik | 1         | 50%     |
 
 Drives
 ------
@@ -554,7 +565,8 @@ Amount of disk space available on the file system
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| 101-250    | 1         | 100%    |
+| 251-500    | 1         | 50%     |
+| 101-250    | 1         | 50%     |
 
 Space Used
 ----------
@@ -566,7 +578,7 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 1-20    | 1         | 100%    |
+| 1-20    | 2         | 100%    |
 
 Malfunc. Drives
 ---------------
@@ -633,9 +645,10 @@ Storage controller vendors
 ![Storage Vendor](./images/pie_chart_bsd/storage_vendor.svg)
 
 
-| Vendor | Notebooks | Percent |
-|--------|-----------|---------|
-| Intel  | 1         | 100%    |
+| Vendor            | Notebooks | Percent |
+|-------------------|-----------|---------|
+| Intel             | 2         | 66.67%  |
+| Micron Technology | 1         | 33.33%  |
 
 Storage Model
 -------------
@@ -647,7 +660,9 @@ Storage controller models
 
 | Model                                                          | Notebooks | Percent |
 |----------------------------------------------------------------|-----------|---------|
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller | 1         | 100%    |
+| Micron 2450 NVMe SSD [HendrixV] (DRAM-less)                    | 1         | 33.33%  |
+| Intel Alder Lake-P SATA AHCI Controller                        | 1         | 33.33%  |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller | 1         | 33.33%  |
 
 Storage Kind
 ------------
@@ -659,7 +674,8 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| SATA | 1         | 100%    |
+| SATA | 2         | 66.67%  |
+| NVMe | 1         | 33.33%  |
 
 Processor
 ---------
@@ -674,7 +690,7 @@ Processor vendors
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| Intel  | 1         | 100%    |
+| Intel  | 2         | 100%    |
 
 CPU Model
 ---------
@@ -686,7 +702,8 @@ Processor models
 
 | Model                             | Notebooks | Percent |
 |-----------------------------------|-----------|---------|
-| Intel Core i7 CPU M 620 @ 2.67GHz | 1         | 100%    |
+| Intel Core i7 CPU M 620 @ 2.67GHz | 1         | 50%     |
+| Intel 12th Gen Core i3-1215U      | 1         | 50%     |
 
 CPU Model Family
 ----------------
@@ -698,7 +715,8 @@ Processor model prefix
 
 | Model         | Notebooks | Percent |
 |---------------|-----------|---------|
-| Intel Core i7 | 1         | 100%    |
+| Other         | 1         | 50%     |
+| Intel Core i7 | 1         | 50%     |
 
 CPU Cores
 ---------
@@ -710,7 +728,8 @@ Number of processor cores
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 1         | 100%    |
+| 8      | 1         | 50%     |
+| 2      | 1         | 50%     |
 
 CPU Sockets
 -----------
@@ -722,7 +741,7 @@ Number of sockets
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 1         | 100%    |
+| 1      | 2         | 100%    |
 
 CPU Threads
 -----------
@@ -734,7 +753,8 @@ Threads per core (Hyper-Threading)
 
 | Number | Notebooks | Percent |
 |--------|-----------|---------|
-| 2      | 1         | 100%    |
+| 2      | 1         | 50%     |
+| 1      | 1         | 50%     |
 
 CPU Microarch
 -------------
@@ -746,7 +766,8 @@ Microarchitecture
 
 | Name     | Notebooks | Percent |
 |----------|-----------|---------|
-| Westmere | 1         | 100%    |
+| Westmere | 1         | 50%     |
+| Unknown  | 1         | 50%     |
 
 Graphics
 --------
@@ -761,7 +782,8 @@ Vendors of graphics cards
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| AMD    | 1         | 100%    |
+| Intel  | 1         | 50%     |
+| AMD    | 1         | 50%     |
 
 GPU Model
 ---------
@@ -773,7 +795,8 @@ Graphics card models
 
 | Model                                         | Notebooks | Percent |
 |-----------------------------------------------|-----------|---------|
-| AMD Madison [Mobility Radeon HD 5730 / 6570M] | 1         | 100%    |
+| Intel Alder Lake-UP3 GT1 [UHD Graphics]       | 1         | 50%     |
+| AMD Madison [Mobility Radeon HD 5730 / 6570M] | 1         | 50%     |
 
 GPU Combo
 ---------
@@ -783,9 +806,10 @@ Combinations of graphics cards
 ![GPU Combo](./images/pie_chart_bsd/gpu_combo.svg)
 
 
-| Name    | Notebooks | Percent |
-|---------|-----------|---------|
-| 1 x AMD | 1         | 100%    |
+| Name      | Notebooks | Percent |
+|-----------|-----------|---------|
+| 1 x Intel | 1         | 50%     |
+| 1 x AMD   | 1         | 50%     |
 
 GPU Driver
 ----------
@@ -797,7 +821,7 @@ Free vs proprietary
 
 | Driver | Notebooks | Percent |
 |--------|-----------|---------|
-| Free   | 1         | 100%    |
+| Free   | 2         | 100%    |
 
 GPU Memory
 ----------
@@ -809,7 +833,7 @@ Total video memory
 
 | Size in GB | Notebooks | Percent |
 |------------|-----------|---------|
-| Unknown    | 1         | 100%    |
+| Unknown    | 2         | 100%    |
 
 Monitor
 -------
@@ -880,7 +904,7 @@ Total monitors connected
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 1         | 100%    |
+| 0     | 2         | 100%    |
 
 Network
 -------
@@ -893,10 +917,11 @@ Controller vendors
 ![Net Controller Vendor](./images/pie_chart_bsd/net_vendor.svg)
 
 
-| Vendor   | Notebooks | Percent |
-|----------|-----------|---------|
-| Intel    | 1         | 50%     |
-| Broadcom | 1         | 50%     |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Intel                 | 2         | 50%     |
+| Realtek Semiconductor | 1         | 25%     |
+| Broadcom              | 1         | 25%     |
 
 Net Controller Model
 --------------------
@@ -906,10 +931,12 @@ Controller models
 ![Net Controller Model](./images/pie_chart_bsd/net_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Intel 82577LM Gigabit Network Connection | 1         | 50%     |
-| Broadcom BCM43224 802.11a/b/g/n          | 1         | 50%     |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 25%     |
+| Intel Alder Lake-P PCH CNVi WiFi                                       | 1         | 25%     |
+| Intel 82577LM Gigabit Network Connection                               | 1         | 25%     |
+| Broadcom BCM43224 802.11a/b/g/n                                        | 1         | 25%     |
 
 Wireless Vendor
 ---------------
@@ -921,7 +948,8 @@ Wireless vendors
 
 | Vendor   | Notebooks | Percent |
 |----------|-----------|---------|
-| Broadcom | 1         | 100%    |
+| Intel    | 1         | 50%     |
+| Broadcom | 1         | 50%     |
 
 Wireless Model
 --------------
@@ -931,9 +959,10 @@ Wireless models
 ![Wireless Model](./images/pie_chart_bsd/net_wireless_model.svg)
 
 
-| Model                           | Notebooks | Percent |
-|---------------------------------|-----------|---------|
-| Broadcom BCM43224 802.11a/b/g/n | 1         | 100%    |
+| Model                            | Notebooks | Percent |
+|----------------------------------|-----------|---------|
+| Intel Alder Lake-P PCH CNVi WiFi | 1         | 50%     |
+| Broadcom BCM43224 802.11a/b/g/n  | 1         | 50%     |
 
 Ethernet Vendor
 ---------------
@@ -943,9 +972,10 @@ Ethernet vendors
 ![Ethernet Vendor](./images/pie_chart_bsd/net_ethernet_vendor.svg)
 
 
-| Vendor | Notebooks | Percent |
-|--------|-----------|---------|
-| Intel  | 1         | 100%    |
+| Vendor                | Notebooks | Percent |
+|-----------------------|-----------|---------|
+| Realtek Semiconductor | 1         | 50%     |
+| Intel                 | 1         | 50%     |
 
 Ethernet Model
 --------------
@@ -955,9 +985,10 @@ Ethernet models
 ![Ethernet Model](./images/pie_chart_bsd/net_ethernet_model.svg)
 
 
-| Model                                    | Notebooks | Percent |
-|------------------------------------------|-----------|---------|
-| Intel 82577LM Gigabit Network Connection | 1         | 100%    |
+| Model                                                                  | Notebooks | Percent |
+|------------------------------------------------------------------------|-----------|---------|
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 1         | 50%     |
+| Intel 82577LM Gigabit Network Connection                               | 1         | 50%     |
 
 Net Controller Kind
 -------------------
@@ -969,8 +1000,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Notebooks | Percent |
 |----------|-----------|---------|
-| WiFi     | 1         | 50%     |
-| Ethernet | 1         | 50%     |
+| WiFi     | 2         | 50%     |
+| Ethernet | 2         | 50%     |
 
 Used Controller
 ---------------
@@ -989,7 +1020,7 @@ Total network controllers on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 0     | 1         | 100%    |
+| 0     | 2         | 100%    |
 
 IPv6
 ----
@@ -1001,7 +1032,8 @@ IPv6 vs IPv4
 
 | Used | Notebooks | Percent |
 |------|-----------|---------|
-| No   | 1         | 100%    |
+| Yes  | 1         | 50%     |
+| No   | 1         | 50%     |
 
 Bluetooth
 ---------
@@ -1016,7 +1048,8 @@ Controller vendors
 
 | Vendor          | Notebooks | Percent |
 |-----------------|-----------|---------|
-| Hewlett-Packard | 1         | 100%    |
+| Intel           | 1         | 50%     |
+| Hewlett-Packard | 1         | 50%     |
 
 Bluetooth Model
 ---------------
@@ -1026,9 +1059,10 @@ Controller models
 ![Bluetooth Model](./images/pie_chart_bsd/bt_model.svg)
 
 
-| Model                            | Notebooks | Percent |
-|----------------------------------|-----------|---------|
-| HP Broadcom 2070 Bluetooth Combo | 1         | 100%    |
+| Model                                          | Notebooks | Percent |
+|------------------------------------------------|-----------|---------|
+| Intel Bluetooth 9460/9560 Jefferson Peak (JfP) | 1         | 50%     |
+| HP Broadcom 2070 Bluetooth Combo               | 1         | 50%     |
 
 Sound
 -----
@@ -1043,7 +1077,8 @@ Sound card vendors
 
 | Vendor | Notebooks | Percent |
 |--------|-----------|---------|
-| AMD    | 1         | 100%    |
+| Intel  | 1         | 50%     |
+| AMD    | 1         | 50%     |
 
 Sound Model
 -----------
@@ -1053,9 +1088,10 @@ Sound card models
 ![Sound Model](./images/pie_chart_bsd/snd_model.svg)
 
 
-| Model                                          | Notebooks | Percent |
-|------------------------------------------------|-----------|---------|
-| AMD Redwood HDMI Audio [Radeon HD 5000 Series] | 1         | 100%    |
+| Model                                                   | Notebooks | Percent |
+|---------------------------------------------------------|-----------|---------|
+| Intel Alder Lake PCH-P High Definition Audio Controller | 1         | 50%     |
+| AMD Redwood HDMI Audio [Radeon HD 5000 Series]          | 1         | 50%     |
 
 Memory
 ------
@@ -1068,9 +1104,10 @@ Memory module vendors
 ![Memory Vendor](./images/pie_chart_bsd/memory_vendor.svg)
 
 
-| Vendor   | Notebooks | Percent |
-|----------|-----------|---------|
-| SK hynix | 1         | 100%    |
+| Vendor             | Notebooks | Percent |
+|--------------------|-----------|---------|
+| SK hynix           | 2         | 66.67%  |
+| Ramaxel Technology | 1         | 33.33%  |
 
 Memory Model
 ------------
@@ -1080,9 +1117,11 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                  | Notebooks | Percent |
-|--------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s | 1         | 100%    |
+| Model                                                        | Notebooks | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s       | 1         | 33.33%  |
+| SK hynix RAM HMAA1GS6CJR6N-XN 8GB Row Of Chips DDR4 3200MT/s | 1         | 33.33%  |
+| Ramaxel RAM RMSA3310MF96HAF-3200 8GB SODIMM DDR4 3200MT/s    | 1         | 33.33%  |
 
 Memory Kind
 -----------
@@ -1094,7 +1133,8 @@ Memory module kinds
 
 | Kind | Notebooks | Percent |
 |------|-----------|---------|
-| DDR3 | 1         | 100%    |
+| DDR4 | 1         | 50%     |
+| DDR3 | 1         | 50%     |
 
 Memory Form Factor
 ------------------
@@ -1104,9 +1144,10 @@ Physical design of the memory module
 ![Memory Form Factor](./images/pie_chart_bsd/memory_formfactor.svg)
 
 
-| Name   | Notebooks | Percent |
-|--------|-----------|---------|
-| SODIMM | 1         | 100%    |
+| Name         | Notebooks | Percent |
+|--------------|-----------|---------|
+| SODIMM       | 2         | 66.67%  |
+| Row Of Chips | 1         | 33.33%  |
 
 Memory Size
 -----------
@@ -1118,7 +1159,8 @@ Memory module size
 
 | Size | Notebooks | Percent |
 |------|-----------|---------|
-| 4096 | 1         | 100%    |
+| 8192 | 1         | 50%     |
+| 4096 | 1         | 50%     |
 
 Memory Speed
 ------------
@@ -1130,7 +1172,8 @@ Memory module speed
 
 | Speed | Notebooks | Percent |
 |-------|-----------|---------|
-| 1333  | 1         | 100%    |
+| 3200  | 1         | 50%     |
+| 1333  | 1         | 50%     |
 
 Printers & scanners
 -------------------
@@ -1171,14 +1214,24 @@ Camera Vendor
 
 Camera device vendors
 
-Zero info for selected period =(
+![Camera Vendor](./images/pie_chart_bsd/camera_vendor.svg)
+
+
+| Vendor | Notebooks | Percent |
+|--------|-----------|---------|
+| Syntek | 1         | 100%    |
 
 Camera Model
 ------------
 
 Camera device models
 
-Zero info for selected period =(
+![Camera Model](./images/pie_chart_bsd/camera_model.svg)
+
+
+| Model                    | Notebooks | Percent |
+|--------------------------|-----------|---------|
+| Syntek Integrated Camera | 1         | 100%    |
 
 Security
 --------
@@ -1224,7 +1277,7 @@ Total unsupported devices on board
 
 | Total | Notebooks | Percent |
 |-------|-----------|---------|
-| 2     | 1         | 100%    |
+| 2     | 2         | 100%    |
 
 Unsupported Device Types
 ------------------------
@@ -1236,6 +1289,7 @@ Types of unsupported devices
 
 | Type                     | Notebooks | Percent |
 |--------------------------|-----------|---------|
-| Firewire controller      | 1         | 50%     |
-| Communication controller | 1         | 50%     |
+| Communication controller | 2         | 50%     |
+| Firewire controller      | 1         | 25%     |
+| Bluetooth                | 1         | 25%     |
 

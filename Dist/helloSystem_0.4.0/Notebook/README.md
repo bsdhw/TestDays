@@ -1502,7 +1502,7 @@ Monitor models
 | LG Display LCD Monitor LGD0258 1600x900 350x190mm 15.7-inch           | 1         | 1.32%   |
 | LG Display LCD Monitor LGD0213 1600x900 310x170mm 13.9-inch           | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.32%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.32%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 1.32%   |
@@ -2152,12 +2152,12 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 33        | 30.56%  |
-| 2400    | 15        | 13.89%  |
+| 2400    | 14        | 12.96%  |
 | 1333    | 12        | 11.11%  |
 | 667     | 8         | 7.41%   |
+| 3200    | 7         | 6.48%   |
 | 2667    | 7         | 6.48%   |
 | 1334    | 7         | 6.48%   |
-| 3200    | 6         | 5.56%   |
 | 2133    | 6         | 5.56%   |
 | 1067    | 6         | 5.56%   |
 | 1867    | 4         | 3.7%    |
@@ -2238,10 +2238,10 @@ Camera device models
 | Model                                                | Notebooks | Percent |
 |------------------------------------------------------|-----------|---------|
 | Chicony Integrated Camera                            | 6         | 8%      |
+| Sunplus Integrated_Webcam_HD                         | 3         | 4%      |
 | Microdia Integrated_Webcam_HD                        | 3         | 4%      |
 | Lite-On Integrated Camera                            | 3         | 4%      |
 | Suyin Integrated_Webcam_HD                           | 2         | 2.67%   |
-| Sunplus Integrated_Webcam_HD                         | 2         | 2.67%   |
 | Realtek USB Camera                                   | 2         | 2.67%   |
 | Realtek USB 2.0 PC Camera                            | 2         | 2.67%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.67%   |
@@ -2255,7 +2255,6 @@ Camera device models
 | Suyin Acer Crystal Eye webcam                        | 1         | 1.33%   |
 | Suyin 1.3M HD WebCam                                 | 1         | 1.33%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                 | 1         | 1.33%   |
-| Sunplus hama C-600 Pro Webcam                        | 1         | 1.33%   |
 | Silicon Motion WebCam SCB-1100N                      | 1         | 1.33%   |
 | Silicon Motion Realtek USB 2.0 PC Camera             | 1         | 1.33%   |
 | Silicon Motion ATIV Real HD Camera                   | 1         | 1.33%   |
@@ -2277,6 +2276,7 @@ Camera device models
 | IMC Networks EasyCamera                              | 1         | 1.33%   |
 | IMC Networks ASUS EasyCamera                         | 1         | 1.33%   |
 | Creative Webcam Live! Motion                         | 1         | 1.33%   |
+| Chicony USB 2.0 Camera                               | 1         | 1.33%   |
 
 Security
 --------

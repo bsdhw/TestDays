@@ -711,20 +711,20 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2021    | 33        | 21.71%  |
-| 2020    | 30        | 19.74%  |
+| 2021    | 32        | 21.05%  |
+| 2020    | 31        | 20.39%  |
 | Unknown | 20        | 13.16%  |
 | 2022    | 18        | 11.84%  |
-| 2019    | 17        | 11.18%  |
+| 2019    | 16        | 10.53%  |
 | 2018    | 9         | 5.92%   |
 | 2023    | 7         | 4.61%   |
 | 2017    | 5         | 3.29%   |
 | 2013    | 4         | 2.63%   |
 | 2015    | 3         | 1.97%   |
 | 2016    | 2         | 1.32%   |
+| 2011    | 2         | 1.32%   |
 | 2014    | 1         | 0.66%   |
 | 2012    | 1         | 0.66%   |
-| 2011    | 1         | 0.66%   |
 | 2003    | 1         | 0.66%   |
 
 Form Factor
@@ -2001,20 +2001,20 @@ Controller models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller     | 49        | 18.28%  |
-| Realtek RTL8125 2.5GbE Controller                                          | 14        | 5.22%   |
-| Intel Wi-Fi 6 AX200                                                        | 14        | 5.22%   |
-| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 7         | 2.61%   |
-| Intel I211 Gigabit Network Connection                                      | 7         | 2.61%   |
-| Intel Comet Lake PCH CNVi WiFi                                             | 7         | 2.61%   |
-| Intel Wireless 8265 / 8275                                                 | 6         | 2.24%   |
-| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                  | 6         | 2.24%   |
-| Intel Wi-Fi 6 AX201                                                        | 6         | 2.24%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 2.24%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 2.24%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 2.24%   |
-| Intel Ethernet Controller I225-V                                           | 5         | 1.87%   |
-| Intel 82574L Gigabit Network Connection                                    | 5         | 1.87%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller     | 49        | 18.22%  |
+| Realtek RTL8125 2.5GbE Controller                                          | 14        | 5.2%    |
+| Intel Wi-Fi 6 AX200                                                        | 14        | 5.2%    |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 7         | 2.6%    |
+| Intel I211 Gigabit Network Connection                                      | 7         | 2.6%    |
+| Intel Comet Lake PCH CNVi WiFi                                             | 7         | 2.6%    |
+| Intel Wireless 8265 / 8275                                                 | 6         | 2.23%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]                  | 6         | 2.23%   |
+| Intel Wi-Fi 6 AX201                                                        | 6         | 2.23%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                          | 6         | 2.23%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                               | 6         | 2.23%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                      | 6         | 2.23%   |
+| Intel Ethernet Controller I225-V                                           | 5         | 1.86%   |
+| Intel 82574L Gigabit Network Connection                                    | 5         | 1.86%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]                 | 4         | 1.49%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter                   | 4         | 1.49%   |
 | Intel Wireless 7265                                                        | 4         | 1.49%   |
@@ -2026,16 +2026,16 @@ Controller models
 | Intel Ethernet Connection (4) I219-LM                                      | 3         | 1.12%   |
 | Intel Ethernet Connection (14) I219-LM                                     | 3         | 1.12%   |
 | D-Link System AirPlus G DWL-G122 Wireless Adapter(rev.C1) [Ralink RT2571W] | 3         | 1.12%   |
-| Ralink MT7601U Wireless Adapter                                            | 2         | 0.75%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                 | 2         | 0.75%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter              | 2         | 0.75%   |
-| Intel Wireless 7260                                                        | 2         | 0.75%   |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                              | 2         | 0.75%   |
-| Intel Ethernet Connection (11) I219-LM                                     | 2         | 0.75%   |
-| Intel Ethernet Connection (10) I219-V                                      | 2         | 0.75%   |
-| Intel Cannon Lake PCH CNVi WiFi                                            | 2         | 0.75%   |
-| Intel Alder Lake-P PCH CNVi WiFi                                           | 2         | 0.75%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                           | 2         | 0.75%   |
+| Ralink MT7601U Wireless Adapter                                            | 2         | 0.74%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter                 | 2         | 0.74%   |
+| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter              | 2         | 0.74%   |
+| Intel Wireless 7260                                                        | 2         | 0.74%   |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                              | 2         | 0.74%   |
+| Intel Ethernet Connection (11) I219-LM                                     | 2         | 0.74%   |
+| Intel Ethernet Connection (10) I219-V                                      | 2         | 0.74%   |
+| Intel Cannon Lake PCH CNVi WiFi                                            | 2         | 0.74%   |
+| Intel Alder Lake-P PCH CNVi WiFi                                           | 2         | 0.74%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                           | 2         | 0.74%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                             | 1         | 0.37%   |
 | Xiaomi Mi/Redmi series (RNDIS + ADB)                                       | 1         | 0.37%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                                | 1         | 0.37%   |
@@ -2149,46 +2149,46 @@ Ethernet models
 
 | Model                                                                         | Computers | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 49        | 35.77%  |
-| Realtek RTL8125 2.5GbE Controller                                             | 13        | 9.49%   |
-| Intel I211 Gigabit Network Connection                                         | 7         | 5.11%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 6         | 4.38%   |
-| Intel Ethernet Controller I225-V                                              | 5         | 3.65%   |
-| Intel 82574L Gigabit Network Connection                                       | 5         | 3.65%   |
-| Intel I210 Gigabit Network Connection                                         | 4         | 2.92%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 3         | 2.19%   |
-| Intel Ethernet Connection (4) I219-LM                                         | 3         | 2.19%   |
-| Intel Ethernet Connection (14) I219-LM                                        | 3         | 2.19%   |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                                 | 2         | 1.46%   |
-| Intel Ethernet Connection (11) I219-LM                                        | 2         | 1.46%   |
-| Intel Ethernet Connection (10) I219-V                                         | 2         | 1.46%   |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2         | 1.46%   |
-| Xiaomi Mi/Redmi series (RNDIS)                                                | 1         | 0.73%   |
-| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1         | 0.73%   |
-| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.73%   |
-| Realtek Killer E3000 2.5GbE Controller                                        | 1         | 0.73%   |
-| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1         | 0.73%   |
-| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                    | 1         | 0.73%   |
-| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                              | 1         | 0.73%   |
-| Intel Killer E3100X 2.5 Gigabit Ethernet Controller                           | 1         | 0.73%   |
-| Intel I350 Gigabit Network Connection                                         | 1         | 0.73%   |
-| Intel Ethernet Controller X550                                                | 1         | 0.73%   |
-| Intel Ethernet Controller I225-LM                                             | 1         | 0.73%   |
-| Intel Ethernet Connection I219-LM                                             | 1         | 0.73%   |
-| Intel Ethernet Connection I218-LM                                             | 1         | 0.73%   |
-| Intel Ethernet Connection I217-LM                                             | 1         | 0.73%   |
-| Intel Ethernet Connection (7) I219-V                                          | 1         | 0.73%   |
-| Intel Ethernet Connection (7) I219-LM                                         | 1         | 0.73%   |
-| Intel Ethernet Connection (5) I219-V                                          | 1         | 0.73%   |
-| Intel Ethernet Connection (4) I219-V                                          | 1         | 0.73%   |
-| Intel Ethernet Connection (3) I218-LM                                         | 1         | 0.73%   |
-| Intel Ethernet Connection (2) I219-V                                          | 1         | 0.73%   |
-| Intel Ethernet Connection (16) I219-LM                                        | 1         | 0.73%   |
-| Intel Ethernet Connection (13) I219-V                                         | 1         | 0.73%   |
-| Intel Ethernet Connection (11) I219-V                                         | 1         | 0.73%   |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1         | 0.73%   |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1         | 0.73%   |
-| Huawei USB Device                                                             | 1         | 0.73%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller        | 49        | 35.51%  |
+| Realtek RTL8125 2.5GbE Controller                                             | 13        | 9.42%   |
+| Intel I211 Gigabit Network Connection                                         | 7         | 5.07%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                         | 6         | 4.35%   |
+| Intel Ethernet Controller I225-V                                              | 5         | 3.62%   |
+| Intel 82574L Gigabit Network Connection                                       | 5         | 3.62%   |
+| Intel I210 Gigabit Network Connection                                         | 4         | 2.9%    |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                         | 3         | 2.17%   |
+| Intel Ethernet Connection (4) I219-LM                                         | 3         | 2.17%   |
+| Intel Ethernet Connection (14) I219-LM                                        | 3         | 2.17%   |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                                 | 2         | 1.45%   |
+| Intel Ethernet Connection (11) I219-LM                                        | 2         | 1.45%   |
+| Intel Ethernet Connection (10) I219-V                                         | 2         | 1.45%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                              | 2         | 1.45%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                                | 1         | 0.72%   |
+| Xiaomi Mi/Redmi series (RNDIS + ADB)                                          | 1         | 0.72%   |
+| Realtek USB 2.5GbE Controller                                                 | 1         | 0.72%   |
+| Realtek RTL-8100/8101L/8139 PCI Fast Ethernet Adapter                         | 1         | 0.72%   |
+| Realtek Killer E3000 2.5GbE Controller                                        | 1         | 0.72%   |
+| Qualcomm Atheros Killer E2500 Gigabit Ethernet Controller                     | 1         | 0.72%   |
+| Qualcomm Atheros AR8152 v2.0 Fast Ethernet                                    | 1         | 0.72%   |
+| Lenovo ThinkPad Dock Ethernet [Realtek RTL8153B]                              | 1         | 0.72%   |
+| Intel Killer E3100X 2.5 Gigabit Ethernet Controller                           | 1         | 0.72%   |
+| Intel I350 Gigabit Network Connection                                         | 1         | 0.72%   |
+| Intel Ethernet Controller X550                                                | 1         | 0.72%   |
+| Intel Ethernet Controller I225-LM                                             | 1         | 0.72%   |
+| Intel Ethernet Connection I219-LM                                             | 1         | 0.72%   |
+| Intel Ethernet Connection I218-LM                                             | 1         | 0.72%   |
+| Intel Ethernet Connection I217-LM                                             | 1         | 0.72%   |
+| Intel Ethernet Connection (7) I219-V                                          | 1         | 0.72%   |
+| Intel Ethernet Connection (7) I219-LM                                         | 1         | 0.72%   |
+| Intel Ethernet Connection (5) I219-V                                          | 1         | 0.72%   |
+| Intel Ethernet Connection (4) I219-V                                          | 1         | 0.72%   |
+| Intel Ethernet Connection (3) I218-LM                                         | 1         | 0.72%   |
+| Intel Ethernet Connection (2) I219-V                                          | 1         | 0.72%   |
+| Intel Ethernet Connection (16) I219-LM                                        | 1         | 0.72%   |
+| Intel Ethernet Connection (13) I219-V                                         | 1         | 0.72%   |
+| Intel Ethernet Connection (11) I219-V                                         | 1         | 0.72%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                          | 1         | 0.72%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller D0/D1 (copper applications) | 1         | 0.72%   |
 
 Net Controller Kind
 -------------------
@@ -2463,7 +2463,7 @@ Memory module models
 | Unknown (000000000C01) RAM Module 32GB DIMM DDR4 3200MT/s      | 1         | 0.66%   |
 | Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s            | 1         | 0.66%   |
 | Team RAM TEAMGROUP-UD4-4133 8GB DIMM DDR4 4133MT/s             | 1         | 0.66%   |
-| Team RAM TEAMGROUP-SD4-3200 8GB SODIMM DDR4 3200MT/s           | 1         | 0.66%   |
+| Team RAM TEAMGROUP-SD4-3200 16GB SODIMM DDR4 3200MT/s          | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IWGKSEG 8GB SODIMM DDR4 2133MT/s          | 1         | 0.66%   |
 | Smart RAM SF4641G8CK8IEHLSBG 8GB SODIMM DDR4 2667MT/s          | 1         | 0.66%   |
 | Smart RAM Module 8GB DIMM DDR4 2667MT/s                        | 1         | 0.66%   |
@@ -2638,11 +2638,11 @@ Camera device models
 |--------------------------------------------------------|-----------|---------|
 | IMC Networks Integrated Camera                         | 9         | 10.84%  |
 | Chicony Integrated Camera                              | 8         | 9.64%   |
+| Sunplus Integrated_Webcam_HD                           | 3         | 3.61%   |
 | Logitech Webcam C270                                   | 3         | 3.61%   |
 | Lite-On Integrated Camera                              | 3         | 3.61%   |
 | Chicony Integrated HP HD Webcam                        | 3         | 3.61%   |
 | Bison Integrated Camera                                | 3         | 3.61%   |
-| Sunplus Integrated_Webcam_HD                           | 2         | 2.41%   |
 | Realtek USB 2.0 Webcam                                 | 2         | 2.41%   |
 | Realtek Laptop Camera                                  | 2         | 2.41%   |
 | Microdia USB Camera                                    | 2         | 2.41%   |
@@ -2658,7 +2658,6 @@ Camera device models
 | Syntek Lenovo EasyCamera                               | 1         | 1.2%    |
 | Syntek Integrated Camera                               | 1         | 1.2%    |
 | Sunplus Integrated_Webcam_FHD                          | 1         | 1.2%    |
-| Sunplus hama C-600 Pro Webcam                          | 1         | 1.2%    |
 | Shenzhen Kingcome Optoelectronic XiaoMi USB 2.0 Webcam | 1         | 1.2%    |
 | Shenzhen Kingcome Optoelectronic 720p HD Camera        | 1         | 1.2%    |
 | Realtek USB 2.0 PC Camera                              | 1         | 1.2%    |
@@ -2676,6 +2675,7 @@ Camera device models
 | IMC Networks EasyCamera                                | 1         | 1.2%    |
 | GEMBIRD Generic UVC 1.00 camera [AppoTech AX2311]      | 1         | 1.2%    |
 | Chicony USB2.0 0.3M UVC WebCam                         | 1         | 1.2%    |
+| Chicony Integrated IR Camera                           | 1         | 1.2%    |
 
 Security
 --------

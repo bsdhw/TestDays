@@ -1944,9 +1944,9 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                          | Desktops | Percent |
-|--------------------------------|----------|---------|
-| Microdia REDRAGON  Live Camera | 1        | 100%    |
+| Model                   | Desktops | Percent |
+|-------------------------|----------|---------|
+| Microdia USB 2.0 Camera | 1        | 100%    |
 
 Security
 --------

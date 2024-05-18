@@ -561,7 +561,7 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 16        | 14.68%  |
+| 2020 | 17        | 15.6%   |
 | 2018 | 14        | 12.84%  |
 | 2013 | 12        | 11.01%  |
 | 2014 | 10        | 9.17%   |
@@ -574,7 +574,6 @@ Motherboard manufacture year
 | 2008 | 4         | 3.67%   |
 | 2010 | 3         | 2.75%   |
 | 2016 | 2         | 1.83%   |
-| 2022 | 1         | 0.92%   |
 | 2021 | 1         | 0.92%   |
 | 2007 | 1         | 0.92%   |
 
@@ -1603,7 +1602,7 @@ Monitor models
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC4542 1280x800 300x190mm 14.0-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC4542 1366x768 300x170mm 13.6-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.94%   |

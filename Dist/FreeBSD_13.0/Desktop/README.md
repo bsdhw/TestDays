@@ -537,7 +537,7 @@ Motherboard manufacture year
 | Year    | Desktops | Percent |
 |---------|----------|---------|
 | 2018    | 11       | 14.1%   |
-| 2020    | 8        | 10.26%  |
+| 2020    | 10       | 12.82%  |
 | 2021    | 7        | 8.97%   |
 | 2019    | 6        | 7.69%   |
 | 2015    | 5        | 6.41%   |
@@ -548,7 +548,6 @@ Motherboard manufacture year
 | 2017    | 4        | 5.13%   |
 | 2016    | 4        | 5.13%   |
 | 2014    | 3        | 3.85%   |
-| 2022    | 2        | 2.56%   |
 | 2010    | 2        | 2.56%   |
 | 2009    | 2        | 2.56%   |
 | 2006    | 2        | 2.56%   |
@@ -869,7 +868,7 @@ Hard drive models
 | WDC WD102KRYZ-01A5AB0 10TB        | 1        | 0.56%   |
 | WDC WD100EZAZ-11TDBA0 10TB        | 1        | 0.56%   |
 | WDC WD1001FALS-00J7B0 1TB         | 1        | 0.56%   |
-| Verbatim Vi550 S3 SSD 256GB       | 1        | 0.56%   |
+| Verbatim Vi550 S3 SSD 128GB       | 1        | 0.56%   |
 | Toshiba MQ02ABD100H 1TB           | 1        | 0.56%   |
 
 HDD Vendor
@@ -1564,7 +1563,7 @@ Monitor models
 | Model                                                                 | Desktops | Percent |
 |-----------------------------------------------------------------------|----------|---------|
 | Dell U2412M DELA07B 1920x1200 520x320mm 24.0-inch                     | 2        | 3.85%   |
-| Sceptre Tech Sceptre E20 SPT080D 1600x900 410x280mm 19.5-inch         | 1        | 1.92%   |
+| Sceptre Tech Sceptre J20 SPT080D 1600x900 440x230mm 19.5-inch         | 1        | 1.92%   |
 | Samsung Electronics SyncMaster SAM060B 1920x1080 510x290mm 23.1-inch  | 1        | 1.92%   |
 | Samsung Electronics SyncMaster SAM027D 1680x1050 430x270mm 20.0-inch  | 1        | 1.92%   |
 | Samsung Electronics SyncMaster SAM0236 2560x1600 640x400mm 29.7-inch  | 1        | 1.92%   |
@@ -2178,7 +2177,7 @@ Memory module models
 | Micron RAM 16JTF1G64AZ-1G6D1 8GB DIMM DDR3 1600MT/s     | 1        | 1.22%   |
 | Micron RAM 16HTF12864AY-53ED4 1GB DIMM DDR 533MT/s      | 1        | 1.22%   |
 | Kreton RAM 51624xxxx68x45xxxx 2GB DIMM DDR2 800MT/s     | 1        | 1.22%   |
-| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 2400MT/s  | 1        | 1.22%   |
+| Kingston RAM KHX3600C17D4/16GX 16GB DIMM DDR4 3200MT/s  | 1        | 1.22%   |
 | Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s       | 1        | 1.22%   |
 | Kingston RAM KHX2400C15/16G 16GB DIMM DDR4 2400MT/s     | 1        | 1.22%   |
 | Kingston RAM KHX16LC9/8GX 8GB DIMM DDR3 1600MT/s        | 1        | 1.22%   |
@@ -2242,10 +2241,10 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 1600    | 18       | 23.68%  |
-| 3200    | 11       | 14.47%  |
+| 3200    | 12       | 15.79%  |
 | 1333    | 8        | 10.53%  |
-| 2400    | 7        | 9.21%   |
 | 800     | 7        | 9.21%   |
+| 2400    | 6        | 7.89%   |
 | 2133    | 6        | 7.89%   |
 | 3000    | 5        | 6.58%   |
 | 2667    | 3        | 3.95%   |

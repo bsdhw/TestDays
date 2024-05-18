@@ -579,13 +579,13 @@ Motherboard manufacture year
 | 2022 | 19        | 16.52%  |
 | 2020 | 16        | 13.91%  |
 | 2021 | 13        | 11.3%   |
-| 2018 | 12        | 10.43%  |
+| 2018 | 11        | 9.57%   |
 | 2019 | 8         | 6.96%   |
 | 2011 | 8         | 6.96%   |
 | 2012 | 7         | 6.09%   |
 | 2016 | 6         | 5.22%   |
 | 2017 | 5         | 4.35%   |
-| 2015 | 4         | 3.48%   |
+| 2015 | 5         | 4.35%   |
 | 2013 | 4         | 3.48%   |
 | 2010 | 4         | 3.48%   |
 | 2014 | 3         | 2.61%   |
@@ -1611,7 +1611,7 @@ Monitor models
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch     | 1         | 1.14%   |
 | Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch   | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.14%   |
-| Samsung Electronics LCD Monitor SEC3741 1280x800 330x210mm 15.4-inch  | 1         | 1.14%   |
+| Samsung Electronics LCD Monitor SEC3741 1366x768 300x170mm 13.6-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SEC3245 1280x800 330x210mm 15.4-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SDC4158 1920x1080 290x170mm 13.2-inch | 1         | 1.14%   |
@@ -1621,7 +1621,7 @@ Monitor models
 | LG Display LCD Monitor LGD060A 1920x1080 290x170mm 13.2-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD05F8 2560x1600 370x230mm 17.2-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch          | 1         | 1.14%   |
-| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 1         | 1.14%   |
+| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD03DD 1366x768 340x190mm 15.3-inch           | 1         | 1.14%   |
 | LG Display LCD Monitor LGD0395 1366x768 340x190mm 15.3-inch           | 1         | 1.14%   |
@@ -1646,15 +1646,15 @@ Monitor screen resolution
 | Resolution       | Notebooks | Percent |
 |------------------|-----------|---------|
 | 1920x1080 (FHD)  | 42        | 50.6%   |
-| 1366x768 (WXGA)  | 19        | 22.89%  |
+| 1366x768 (WXGA)  | 20        | 24.1%   |
 | 3840x2160 (4K)   | 5         | 6.02%   |
 | 2560x1440 (QHD)  | 4         | 4.82%   |
 | 1600x900 (HD+)   | 4         | 4.82%   |
 | 2560x1600        | 2         | 2.41%   |
-| 1280x800 (WXGA)  | 2         | 2.41%   |
 | 3200x1800 (QHD+) | 1         | 1.2%    |
 | 2880x1800        | 1         | 1.2%    |
 | 2560x1080        | 1         | 1.2%    |
+| 1280x800 (WXGA)  | 1         | 1.2%    |
 | 1080x2160        | 1         | 1.2%    |
 | 1024x600         | 1         | 1.2%    |
 
@@ -2249,7 +2249,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 1.4%    |
 | Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 1.4%    |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 1.4%    |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 1.4%    |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s             | 2         | 1.4%    |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 1.4%    |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.4%    |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 1.4%    |
@@ -2327,11 +2327,11 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 46        | 38.33%  |
-| 4096  | 37        | 30.83%  |
-| 16384 | 19        | 15.83%  |
-| 2048  | 14        | 11.67%  |
-| 32768 | 4         | 3.33%   |
+| 8192  | 46        | 38.02%  |
+| 4096  | 37        | 30.58%  |
+| 16384 | 20        | 16.53%  |
+| 2048  | 14        | 11.57%  |
+| 32768 | 4         | 3.31%   |
 
 Memory Speed
 ------------

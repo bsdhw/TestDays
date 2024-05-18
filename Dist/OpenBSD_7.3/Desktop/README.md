@@ -1288,7 +1288,7 @@ Monitor models
 | Goldstar LG ULTRAWIDE GSM76F9 2560x1080 800x340mm 34.2-inch           | 1        | 5.88%   |
 | BenQ GL2450 BNQ78A5 1920x1080 530x300mm 24.0-inch                     | 1        | 5.88%   |
 | ASUSTek Computer PA279 AUS2768 3840x2160 600x340mm 27.2-inch          | 1        | 5.88%   |
-| AOC 27G2G8 AOC2702 1920x1080 600x340mm 27.2-inch                      | 1        | 5.88%   |
+| AOC Q27P2W AOC2702 2560x1440 600x340mm 27.2-inch                      | 1        | 5.88%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1        | 5.88%   |
 
 Monitor Resolution
@@ -1301,9 +1301,10 @@ Monitor screen resolution
 
 | Resolution       | Desktops | Percent |
 |------------------|----------|---------|
-| 1920x1080 (FHD)  | 10       | 58.82%  |
+| 1920x1080 (FHD)  | 9        | 52.94%  |
 | 1280x1024 (SXGA) | 5        | 29.41%  |
 | 3840x2160 (4K)   | 1        | 5.88%   |
+| 2560x1440 (QHD)  | 1        | 5.88%   |
 | 2560x1080        | 1        | 5.88%   |
 
 Monitor Diagonal

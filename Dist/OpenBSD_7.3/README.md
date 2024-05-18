@@ -532,12 +532,12 @@ Motherboard manufacture year
 | 2012    | 4         | 4.88%   |
 | 2009    | 4         | 4.88%   |
 | 2021    | 3         | 3.66%   |
-| 2018    | 3         | 3.66%   |
 | 2015    | 3         | 3.66%   |
 | 2007    | 3         | 3.66%   |
 | Unknown | 3         | 3.66%   |
+| 2018    | 2         | 2.44%   |
+| 2017    | 2         | 2.44%   |
 | 2014    | 2         | 2.44%   |
-| 2017    | 1         | 1.22%   |
 | 2005    | 1         | 1.22%   |
 | 2004    | 1         | 1.22%   |
 | 2002    | 1         | 1.22%   |
@@ -769,34 +769,35 @@ Hard drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| NVMe                | 18        | 25     | 17.82%  |
-| Samsung Electronics | 12        | 18     | 11.88%  |
-| WDC                 | 10        | 10     | 9.9%    |
-| Seagate             | 7         | 9      | 6.93%   |
-| SanDisk             | 6         | 8      | 5.94%   |
-| Kingston            | 6         | 6      | 5.94%   |
-| Intel               | 6         | 6      | 5.94%   |
-| Hitachi             | 6         | 6      | 5.94%   |
-| Crucial             | 4         | 5      | 3.96%   |
-| Apacer              | 3         | 3      | 2.97%   |
-| Toshiba             | 2         | 2      | 1.98%   |
-| OPENBSD             | 2         | 2      | 1.98%   |
-| Intenso             | 2         | 2      | 1.98%   |
-| Fujitsu             | 2         | 2      | 1.98%   |
-| A-DATA Technology   | 2         | 2      | 1.98%   |
-| Verbatim            | 1         | 1      | 0.99%   |
-| Union Memory        | 1         | 1      | 0.99%   |
-| SMI                 | 1         | 1      | 0.99%   |
-| PNY                 | 1         | 2      | 0.99%   |
-| Micron Technology   | 1         | 1      | 0.99%   |
-| LSI                 | 1         | 1      | 0.99%   |
-| KIOXIA-EXCERIA      | 1         | 1      | 0.99%   |
-| JetFlash            | 1         | 1      | 0.99%   |
-| HGST                | 1         | 1      | 0.99%   |
-| Hewlett-Packard     | 1         | 1      | 0.99%   |
-| ASUSTek Computer    | 1         | 2      | 0.99%   |
-| Apple               | 1         | 1      | 0.99%   |
-| AMD                 | 1         | 1      | 0.99%   |
+| NVMe                | 18        | 25     | 17.65%  |
+| Samsung Electronics | 12        | 18     | 11.76%  |
+| WDC                 | 10        | 10     | 9.8%    |
+| Seagate             | 7         | 9      | 6.86%   |
+| SanDisk             | 6         | 8      | 5.88%   |
+| Kingston            | 6         | 6      | 5.88%   |
+| Intel               | 6         | 6      | 5.88%   |
+| Hitachi             | 6         | 6      | 5.88%   |
+| Crucial             | 4         | 5      | 3.92%   |
+| Apacer              | 3         | 3      | 2.94%   |
+| Toshiba             | 2         | 2      | 1.96%   |
+| OPENBSD             | 2         | 2      | 1.96%   |
+| Intenso             | 2         | 2      | 1.96%   |
+| Fujitsu             | 2         | 2      | 1.96%   |
+| A-DATA Technology   | 2         | 2      | 1.96%   |
+| Verbatim            | 1         | 1      | 0.98%   |
+| Union Memory        | 1         | 1      | 0.98%   |
+| SMI                 | 1         | 1      | 0.98%   |
+| PNY                 | 1         | 2      | 0.98%   |
+| Micron Technology   | 1         | 1      | 0.98%   |
+| LSI                 | 1         | 1      | 0.98%   |
+| KIOXIA-EXCERIA      | 1         | 1      | 0.98%   |
+| JetFlash            | 1         | 1      | 0.98%   |
+| HGST                | 1         | 1      | 0.98%   |
+| Hewlett-Packard     | 1         | 1      | 0.98%   |
+| Generic             | 1         | 1      | 0.98%   |
+| ASUSTek Computer    | 1         | 2      | 0.98%   |
+| Apple               | 1         | 1      | 0.98%   |
+| AMD                 | 1         | 1      | 0.98%   |
 
 Drive Model
 -----------
@@ -808,14 +809,14 @@ Hard drive models
 
 | Model                               | Computers | Percent |
 |-------------------------------------|-----------|---------|
-| Intel SSDSC2BW480H6 480GB           | 5         | 4.67%   |
-| SanDisk SSD PLUS 120GB              | 2         | 1.87%   |
-| SanDisk Extreme SSD 500GB           | 2         | 1.87%   |
-| Samsung SSD 840 EVO 250GB           | 2         | 1.87%   |
-| NVMe Samsung SSD 980 1TB            | 2         | 1.87%   |
-| NVMe SAMSUNG MZVLW256 256GB         | 2         | 1.87%   |
-| Kingston SA400S37480G 480GB         | 2         | 1.87%   |
-| Intenso SSD 256GB                   | 2         | 1.87%   |
+| Intel SSDSC2BW480H6 480GB           | 5         | 4.63%   |
+| SanDisk SSD PLUS 120GB              | 2         | 1.85%   |
+| SanDisk Extreme SSD 500GB           | 2         | 1.85%   |
+| Samsung SSD 840 EVO 250GB           | 2         | 1.85%   |
+| NVMe Samsung SSD 980 1TB            | 2         | 1.85%   |
+| NVMe SAMSUNG MZVLW256 256GB         | 2         | 1.85%   |
+| Kingston SA400S37480G 480GB         | 2         | 1.85%   |
+| Intenso SSD 256GB                   | 2         | 1.85%   |
 | WDC WD7500BPKX-00HPJT0 752GB        | 1         | 0.93%   |
 | WDC WD7500BPKT-75PK4T0 752GB        | 1         | 0.93%   |
 | WDC WD7500BPKT-00PK4T0 752GB        | 1         | 0.93%   |
@@ -859,20 +860,21 @@ Hard disk drive vendors
 
 | Vendor              | Computers | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| NVMe                | 12        | 18     | 25%     |
-| WDC                 | 10        | 10     | 20.83%  |
-| Seagate             | 7         | 9      | 14.58%  |
-| Hitachi             | 6         | 6      | 12.5%   |
-| Samsung Electronics | 2         | 2      | 4.17%   |
-| OPENBSD             | 2         | 2      | 4.17%   |
-| Fujitsu             | 2         | 2      | 4.17%   |
-| Verbatim            | 1         | 1      | 2.08%   |
-| Toshiba             | 1         | 1      | 2.08%   |
-| SMI                 | 1         | 1      | 2.08%   |
-| LSI                 | 1         | 1      | 2.08%   |
-| JetFlash            | 1         | 1      | 2.08%   |
-| HGST                | 1         | 1      | 2.08%   |
-| Hewlett-Packard     | 1         | 1      | 2.08%   |
+| NVMe                | 12        | 18     | 24.49%  |
+| WDC                 | 10        | 10     | 20.41%  |
+| Seagate             | 7         | 9      | 14.29%  |
+| Hitachi             | 6         | 6      | 12.24%  |
+| Samsung Electronics | 2         | 2      | 4.08%   |
+| OPENBSD             | 2         | 2      | 4.08%   |
+| Fujitsu             | 2         | 2      | 4.08%   |
+| Verbatim            | 1         | 1      | 2.04%   |
+| Toshiba             | 1         | 1      | 2.04%   |
+| SMI                 | 1         | 1      | 2.04%   |
+| LSI                 | 1         | 1      | 2.04%   |
+| JetFlash            | 1         | 1      | 2.04%   |
+| HGST                | 1         | 1      | 2.04%   |
+| Hewlett-Packard     | 1         | 1      | 2.04%   |
+| Generic             | 1         | 1      | 2.04%   |
 
 SSD Vendor
 ----------
@@ -912,9 +914,9 @@ HDD or SSD
 
 | Kind | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 49        | 64     | 54.44%  |
-| HDD  | 40        | 56     | 44.44%  |
-| NVMe | 1         | 1      | 1.11%   |
+| SSD  | 49        | 64     | 53.85%  |
+| HDD  | 41        | 57     | 45.05%  |
+| NVMe | 1         | 1      | 1.1%    |
 
 Drive Connector
 ---------------
@@ -926,7 +928,7 @@ SATA, SAS, NVMe, etc.
 
 | Type | Computers | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 77        | 120    | 98.72%  |
+| SATA | 77        | 121    | 98.72%  |
 | NVMe | 1         | 1      | 1.28%   |
 
 Drive Size
@@ -939,7 +941,7 @@ Size of hard drive
 
 | Size in TB      | Computers | Drives | Percent |
 |-----------------|-----------|--------|---------|
-| 0.01-0.5        | 63        | 88     | 75%     |
+| 0.01-0.5        | 63        | 89     | 75%     |
 | 0.51-1.0        | 12        | 13     | 14.29%  |
 | 1.01-2.0        | 7         | 17     | 8.33%   |
 | More than 100.0 | 1         | 1      | 1.19%   |
@@ -1072,7 +1074,7 @@ Number of failed and malfunc. drives
 
 | Status   | Computers | Drives | Percent |
 |----------|-----------|--------|---------|
-| Works    | 53        | 73     | 60.23%  |
+| Works    | 53        | 74     | 60.23%  |
 | Detected | 21        | 33     | 23.86%  |
 | Malfunc  | 14        | 15     | 15.91%  |
 
@@ -1169,8 +1171,7 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 | SATA | 51        | 56.67%  |
 | IDE  | 20        | 22.22%  |
 | NVMe | 16        | 17.78%  |
-| RAID | 1         | 1.11%   |
-| SAS  | 1         | 1.11%   |
+| RAID | 2         | 2.22%   |
 | SCSI | 1         | 1.11%   |
 
 Processor
@@ -1565,7 +1566,7 @@ Monitor models
 | ASUSTek Computer PA279 AUS2768 3840x2160 600x340mm 27.2-inch          | 1         | 2.33%   |
 | Apple Color LCD APPA010 1366x768 260x140mm 11.6-inch                  | 1         | 2.33%   |
 | Apple Color LCD APP9CDF 1440x900 290x180mm 13.4-inch                  | 1         | 2.33%   |
-| AOC 27G2G8 AOC2702 1920x1080 600x340mm 27.2-inch                      | 1         | 2.33%   |
+| AOC Q27P2W AOC2702 2560x1440 600x340mm 27.2-inch                      | 1         | 2.33%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1         | 2.33%   |
 
 Monitor Resolution
@@ -1578,15 +1579,15 @@ Monitor screen resolution
 
 | Resolution         | Computers | Percent |
 |--------------------|-----------|---------|
-| 1920x1080 (FHD)    | 17        | 40.48%  |
+| 1920x1080 (FHD)    | 16        | 38.1%   |
 | 1366x768 (WXGA)    | 9         | 21.43%  |
 | 1280x1024 (SXGA)   | 6         | 14.29%  |
+| 2560x1440 (QHD)    | 2         | 4.76%   |
 | 1600x900 (HD+)     | 2         | 4.76%   |
 | 1440x900 (WXGA+)   | 2         | 4.76%   |
 | 3840x2160 (4K)     | 1         | 2.38%   |
 | 3456x2160          | 1         | 2.38%   |
 | 2560x1600          | 1         | 2.38%   |
-| 2560x1440 (QHD)    | 1         | 2.38%   |
 | 2560x1080          | 1         | 2.38%   |
 | 1680x1050 (WSXGA+) | 1         | 2.38%   |
 

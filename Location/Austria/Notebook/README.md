@@ -147,10 +147,11 @@ Contents
 Test Cases
 ----------
 
-Total: 49
+Total: 50
 
 | Vendor        | Model                       | Probe                                                     | Date         |
 |---------------|-----------------------------|-----------------------------------------------------------|--------------|
+| Unknown       | Unknown                     | [ac12463cc2](https://bsd-hardware.info/?probe=ac12463cc2) | Apr 08, 2024 |
 | Unknown       | Unknown                     | [8854b07e12](https://bsd-hardware.info/?probe=8854b07e12) | Nov 15, 2023 |
 | Shuttle       | DS437                       | [45c2e3460c](https://bsd-hardware.info/?probe=45c2e3460c) | Oct 30, 2023 |
 | Deciso        | NetBoard-A10                | [12b5a57360](https://bsd-hardware.info/?probe=12b5a57360) | Oct 10, 2023 |
@@ -214,35 +215,36 @@ Installed operating systems
 
 | Name                 | Notebooks | Percent |
 |----------------------|-----------|---------|
-| FreeBSD 13.1         | 4         | 10.26%  |
-| FreeBSD 13.1-p5      | 3         | 7.69%   |
-| OPNsense 21.7.7      | 2         | 5.13%   |
-| FreeBSD 14.0-CURRENT | 2         | 5.13%   |
-| FreeBSD 13.0-p4      | 2         | 5.13%   |
-| FreeBSD 12.1-p8      | 2         | 5.13%   |
-| FreeBSD 12.1-p5      | 2         | 5.13%   |
-| OPNsense 23.7.8      | 1         | 2.56%   |
-| OPNsense 23.7.7      | 1         | 2.56%   |
-| OPNsense 23.7.5      | 1         | 2.56%   |
-| OPNsense 23.1.6      | 1         | 2.56%   |
-| OPNsense 23.1.10     | 1         | 2.56%   |
-| OPNsense 22.7.9      | 1         | 2.56%   |
-| OPNsense 22.4.3      | 1         | 2.56%   |
-| OPNsense 22.1.6      | 1         | 2.56%   |
-| OPNsense 22.1.2      | 1         | 2.56%   |
-| OPNsense 21.7.6      | 1         | 2.56%   |
-| OpenBSD 6.8          | 1         | 2.56%   |
-| helloSystem 0.8.2    | 1         | 2.56%   |
-| helloSystem 0.7.0    | 1         | 2.56%   |
-| helloSystem 0.5.0    | 1         | 2.56%   |
-| FreeBSD 13.2         | 1         | 2.56%   |
-| FreeBSD 13.0-CURRENT | 1         | 2.56%   |
-| FreeBSD 13.0         | 1         | 2.56%   |
-| FreeBSD 12.3         | 1         | 2.56%   |
-| FreeBSD 12.2-p5      | 1         | 2.56%   |
-| FreeBSD 12.2         | 1         | 2.56%   |
-| FreeBSD 12.1-p4      | 1         | 2.56%   |
-| FreeBSD 12.1-p10     | 1         | 2.56%   |
+| FreeBSD 13.1         | 4         | 10%     |
+| FreeBSD 13.1-p5      | 3         | 7.5%    |
+| OPNsense 21.7.7      | 2         | 5%      |
+| FreeBSD 14.0-CURRENT | 2         | 5%      |
+| FreeBSD 13.0-p4      | 2         | 5%      |
+| FreeBSD 12.1-p8      | 2         | 5%      |
+| FreeBSD 12.1-p5      | 2         | 5%      |
+| OPNsense 24.1.5      | 1         | 2.5%    |
+| OPNsense 23.7.8      | 1         | 2.5%    |
+| OPNsense 23.7.7      | 1         | 2.5%    |
+| OPNsense 23.7.5      | 1         | 2.5%    |
+| OPNsense 23.1.6      | 1         | 2.5%    |
+| OPNsense 23.1.10     | 1         | 2.5%    |
+| OPNsense 22.7.9      | 1         | 2.5%    |
+| OPNsense 22.4.3      | 1         | 2.5%    |
+| OPNsense 22.1.6      | 1         | 2.5%    |
+| OPNsense 22.1.2      | 1         | 2.5%    |
+| OPNsense 21.7.6      | 1         | 2.5%    |
+| OpenBSD 6.8          | 1         | 2.5%    |
+| helloSystem 0.8.2    | 1         | 2.5%    |
+| helloSystem 0.7.0    | 1         | 2.5%    |
+| helloSystem 0.5.0    | 1         | 2.5%    |
+| FreeBSD 13.2         | 1         | 2.5%    |
+| FreeBSD 13.0-CURRENT | 1         | 2.5%    |
+| FreeBSD 13.0         | 1         | 2.5%    |
+| FreeBSD 12.3         | 1         | 2.5%    |
+| FreeBSD 12.2-p5      | 1         | 2.5%    |
+| FreeBSD 12.2         | 1         | 2.5%    |
+| FreeBSD 12.1-p4      | 1         | 2.5%    |
+| FreeBSD 12.1-p10     | 1         | 2.5%    |
 
 OS Family
 ---------
@@ -488,9 +490,9 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2021 | 6         | 17.65%  |
-| 2019 | 6         | 17.65%  |
+| 2019 | 5         | 14.71%  |
+| 2018 | 5         | 14.71%  |
 | 2022 | 4         | 11.76%  |
-| 2018 | 4         | 11.76%  |
 | 2010 | 3         | 8.82%   |
 | 2017 | 2         | 5.88%   |
 | 2016 | 2         | 5.88%   |
@@ -568,10 +570,10 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 25        | 73.53%  |
-| 0      | 4         | 11.76%  |
-| 2      | 3         | 8.82%   |
-| 3      | 2         | 5.88%   |
+| 1      | 26        | 74.29%  |
+| 0      | 4         | 11.43%  |
+| 2      | 3         | 8.57%   |
+| 3      | 2         | 5.71%   |
 
 Has CD-ROM
 ----------
@@ -677,20 +679,21 @@ Hard drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 12        | 15     | 33.33%  |
-| Intel               | 4         | 5      | 11.11%  |
-| WDC                 | 3         | 3      | 8.33%   |
-| Transcend           | 3         | 5      | 8.33%   |
-| SanDisk             | 3         | 3      | 8.33%   |
-| SK hynix            | 2         | 2      | 5.56%   |
-| Kingston            | 2         | 5      | 5.56%   |
-| Seagate             | 1         | 1      | 2.78%   |
-| Intenso             | 1         | 1      | 2.78%   |
-| Hitachi             | 1         | 1      | 2.78%   |
-| HGST                | 1         | 1      | 2.78%   |
-| FORESEE             | 1         | 1      | 2.78%   |
-| Crucial             | 1         | 1      | 2.78%   |
-| A-DATA Technology   | 1         | 2      | 2.78%   |
+| Samsung Electronics | 12        | 15     | 32.43%  |
+| Intel               | 4         | 5      | 10.81%  |
+| WDC                 | 3         | 3      | 8.11%   |
+| Transcend           | 3         | 5      | 8.11%   |
+| SanDisk             | 3         | 3      | 8.11%   |
+| SK hynix            | 2         | 2      | 5.41%   |
+| Kingston            | 2         | 5      | 5.41%   |
+| Seagate             | 1         | 1      | 2.7%    |
+| Qunion              | 1         | 1      | 2.7%    |
+| Intenso             | 1         | 1      | 2.7%    |
+| Hitachi             | 1         | 1      | 2.7%    |
+| HGST                | 1         | 1      | 2.7%    |
+| FORESEE             | 1         | 1      | 2.7%    |
+| Crucial             | 1         | 1      | 2.7%    |
+| A-DATA Technology   | 1         | 2      | 2.7%    |
 
 Drive Model
 -----------
@@ -702,40 +705,41 @@ Hard drive models
 
 | Model                                   | Notebooks | Percent |
 |-----------------------------------------|-----------|---------|
-| Transcend TS256GMTE652T2 256GB          | 2         | 5.13%   |
-| SK hynix BC511 HFM512GDJTNI-82A0A 512GB | 2         | 5.13%   |
-| SanDisk SSD PLUS 240GB                  | 2         | 5.13%   |
-| Samsung MZALQ512HBLU-00BL1 512GB        | 2         | 5.13%   |
-| Intel SSDPEKKF512G8L 512GB              | 2         | 5.13%   |
-| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 2.56%   |
-| WDC WD20SPZX-22CRAT0 2TB                | 1         | 2.56%   |
-| WDC WD10JPLX-00MBPT0 1TB                | 1         | 2.56%   |
-| Transcend TS2TMTE220S 2TB               | 1         | 2.56%   |
-| Seagate ST1000LX015-1U7172 1TB          | 1         | 2.56%   |
-| SanDisk SD7TB3Q-128G-1006 128GB         | 1         | 2.56%   |
-| Samsung SSD PM851 mSATA 256GB           | 1         | 2.56%   |
-| Samsung SSD PM841 2.5-inch 7mm 256GB    | 1         | 2.56%   |
-| Samsung SSD 980 500GB                   | 1         | 2.56%   |
-| Samsung SSD 860 EVO 250GB               | 1         | 2.56%   |
-| Samsung SSD 850 EVO 250GB               | 1         | 2.56%   |
-| Samsung MZVLB256HAHQ-000L7 256GB        | 1         | 2.56%   |
-| Samsung MZVKW512HMJP-000H1 512GB        | 1         | 2.56%   |
-| Samsung MZALQ512HBLU-00BL2 512GB        | 1         | 2.56%   |
-| Samsung MZ7TE512HMHP-000L2 512GB        | 1         | 2.56%   |
-| Samsung MZ7PA128HMCD-010H1 128GB        | 1         | 2.56%   |
-| Samsung HM320JI 320GB                   | 1         | 2.56%   |
-| Kingston SUV500MS480G 480GB             | 1         | 2.56%   |
-| Kingston SUV500MS120G 120GB             | 1         | 2.56%   |
-| Kingston SKC600MS256G 256GB             | 1         | 2.56%   |
-| Intenso JAJM600M256C 256GB              | 1         | 2.56%   |
-| Intel SSDSCKKF256G8H 256GB              | 1         | 2.56%   |
-| Intel SSDPEKNW020T8 2TB                 | 1         | 2.56%   |
-| Hitachi HTS541040G9SA00 40GB            | 1         | 2.56%   |
-| HGST HTS545050A7E680 500GB              | 1         | 2.56%   |
-| FORESEE 64GB SSD                        | 1         | 2.56%   |
-| Crucial CT275MX300SSD4 275GB            | 1         | 2.56%   |
-| A-DATA SU650 240GB                      | 1         | 2.56%   |
-| A-DATA SU630 240GB                      | 1         | 2.56%   |
+| Transcend TS256GMTE652T2 256GB          | 2         | 5%      |
+| SK hynix BC511 HFM512GDJTNI-82A0A 512GB | 2         | 5%      |
+| SanDisk SSD PLUS 240GB                  | 2         | 5%      |
+| Samsung MZALQ512HBLU-00BL1 512GB        | 2         | 5%      |
+| Intel SSDPEKKF512G8L 512GB              | 2         | 5%      |
+| WDC WD3200BEVT-22ZCT0 320GB             | 1         | 2.5%    |
+| WDC WD20SPZX-22CRAT0 2TB                | 1         | 2.5%    |
+| WDC WD10JPLX-00MBPT0 1TB                | 1         | 2.5%    |
+| Transcend TS2TMTE220S 2TB               | 1         | 2.5%    |
+| Seagate ST1000LX015-1U7172 1TB          | 1         | 2.5%    |
+| SanDisk SD7TB3Q-128G-1006 128GB         | 1         | 2.5%    |
+| Samsung SSD PM851 mSATA 256GB           | 1         | 2.5%    |
+| Samsung SSD PM841 2.5-inch 7mm 256GB    | 1         | 2.5%    |
+| Samsung SSD 980 500GB                   | 1         | 2.5%    |
+| Samsung SSD 860 EVO 250GB               | 1         | 2.5%    |
+| Samsung SSD 850 EVO 250GB               | 1         | 2.5%    |
+| Samsung MZVLB256HAHQ-000L7 256GB        | 1         | 2.5%    |
+| Samsung MZVKW512HMJP-000H1 512GB        | 1         | 2.5%    |
+| Samsung MZALQ512HBLU-00BL2 512GB        | 1         | 2.5%    |
+| Samsung MZ7TE512HMHP-000L2 512GB        | 1         | 2.5%    |
+| Samsung MZ7PA128HMCD-010H1 128GB        | 1         | 2.5%    |
+| Samsung HM320JI 320GB                   | 1         | 2.5%    |
+| Qunion P20A 64G                         | 1         | 2.5%    |
+| Kingston SUV500MS480G 480GB             | 1         | 2.5%    |
+| Kingston SUV500MS120G 120GB             | 1         | 2.5%    |
+| Kingston SKC600MS256G 256GB             | 1         | 2.5%    |
+| Intenso JAJM600M256C 256GB              | 1         | 2.5%    |
+| Intel SSDSCKKF256G8H 256GB              | 1         | 2.5%    |
+| Intel SSDPEKNW020T8 2TB                 | 1         | 2.5%    |
+| Hitachi HTS541040G9SA00 40GB            | 1         | 2.5%    |
+| HGST HTS545050A7E680 500GB              | 1         | 2.5%    |
+| FORESEE 64GB SSD                        | 1         | 2.5%    |
+| Crucial CT275MX300SSD4 275GB            | 1         | 2.5%    |
+| A-DATA SU650 240GB                      | 1         | 2.5%    |
+| A-DATA SU630 240GB                      | 1         | 2.5%    |
 
 HDD Vendor
 ----------
@@ -763,14 +767,15 @@ Solid state drive vendors
 
 | Vendor              | Notebooks | Drives | Percent |
 |---------------------|-----------|--------|---------|
-| Samsung Electronics | 5         | 6      | 33.33%  |
-| SanDisk             | 3         | 3      | 20%     |
-| Kingston            | 2         | 5      | 13.33%  |
-| Intenso             | 1         | 1      | 6.67%   |
-| Intel               | 1         | 2      | 6.67%   |
-| FORESEE             | 1         | 1      | 6.67%   |
-| Crucial             | 1         | 1      | 6.67%   |
-| A-DATA Technology   | 1         | 2      | 6.67%   |
+| Samsung Electronics | 5         | 6      | 31.25%  |
+| SanDisk             | 3         | 3      | 18.75%  |
+| Kingston            | 2         | 5      | 12.5%   |
+| Qunion              | 1         | 1      | 6.25%   |
+| Intenso             | 1         | 1      | 6.25%   |
+| Intel               | 1         | 2      | 6.25%   |
+| FORESEE             | 1         | 1      | 6.25%   |
+| Crucial             | 1         | 1      | 6.25%   |
+| A-DATA Technology   | 1         | 2      | 6.25%   |
 
 Drive Kind
 ----------
@@ -782,9 +787,9 @@ HDD or SSD
 
 | Kind | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SSD  | 14        | 21     | 42.42%  |
-| NVMe | 13        | 18     | 39.39%  |
-| HDD  | 6         | 7      | 18.18%  |
+| SSD  | 15        | 22     | 44.12%  |
+| NVMe | 13        | 18     | 38.24%  |
+| HDD  | 6         | 7      | 17.65%  |
 
 Drive Connector
 ---------------
@@ -796,8 +801,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Notebooks | Drives | Percent |
 |------|-----------|--------|---------|
-| SATA | 17        | 28     | 56.67%  |
-| NVMe | 13        | 18     | 43.33%  |
+| SATA | 18        | 29     | 58.06%  |
+| NVMe | 13        | 18     | 41.94%  |
 
 Drive Size
 ----------
@@ -809,9 +814,9 @@ Size of hard drive
 
 | Size in TB | Notebooks | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 15        | 24     | 78.95%  |
-| 0.51-1.0   | 3         | 3      | 15.79%  |
-| 1.01-2.0   | 1         | 1      | 5.26%   |
+| 0.01-0.5   | 16        | 25     | 80%     |
+| 0.51-1.0   | 3         | 3      | 15%     |
+| 1.01-2.0   | 1         | 1      | 5%      |
 
 Space Total
 -----------
@@ -840,11 +845,11 @@ Amount of used disk space
 
 | Used GB | Notebooks | Percent |
 |---------|-----------|---------|
-| 1-20    | 29        | 82.86%  |
-| 21-50   | 3         | 8.57%   |
-| 251-500 | 1         | 2.86%   |
-| 101-250 | 1         | 2.86%   |
-| 51-100  | 1         | 2.86%   |
+| 1-20    | 29        | 80.56%  |
+| 21-50   | 4         | 11.11%  |
+| 251-500 | 1         | 2.78%   |
+| 101-250 | 1         | 2.78%   |
+| 51-100  | 1         | 2.78%   |
 
 Malfunc. Drives
 ---------------
@@ -930,8 +935,8 @@ Number of failed and malfunc. drives
 
 | Status  | Notebooks | Drives | Percent |
 |---------|-----------|--------|---------|
-| Works   | 27        | 39     | 81.82%  |
-| Malfunc | 6         | 7      | 18.18%  |
+| Works   | 28        | 40     | 82.35%  |
+| Malfunc | 6         | 7      | 17.65%  |
 
 Storage controller
 ------------------
@@ -1765,7 +1770,7 @@ Memory module models
 | Unknown RAM Module 2048MB SODIMM DDR2                          | 1         | 2.44%   |
 | Unknown RAM Module 1024MB SODIMM DDR2                          | 1         | 2.44%   |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 1         | 2.44%   |
-| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM 1333MT/s              | 1         | 2.44%   |
+| SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.44%   |
 | SK hynix RAM HMT125S6BFR8C-G7 2GB SODIMM DDR3 1067MT/s         | 1         | 2.44%   |
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s         | 1         | 2.44%   |
 | Samsung RAM Module 8GB SODIMM DDR3 1067MT/s                    | 1         | 2.44%   |
@@ -1847,16 +1852,16 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 8         | 25%     |
-| 3200    | 7         | 21.88%  |
-| 2667    | 7         | 21.88%  |
-| 2133    | 2         | 6.25%   |
-| 1334    | 2         | 6.25%   |
-| 1067    | 2         | 6.25%   |
-| 2400    | 1         | 3.13%   |
-| 1867    | 1         | 3.13%   |
-| 1333    | 1         | 3.13%   |
-| Unknown | 1         | 3.13%   |
+| 1600    | 8         | 24.24%  |
+| 3200    | 7         | 21.21%  |
+| 2667    | 7         | 21.21%  |
+| 1334    | 3         | 9.09%   |
+| 2133    | 2         | 6.06%   |
+| 1067    | 2         | 6.06%   |
+| 2400    | 1         | 3.03%   |
+| 1867    | 1         | 3.03%   |
+| 1333    | 1         | 3.03%   |
+| Unknown | 1         | 3.03%   |
 
 Printers & scanners
 -------------------

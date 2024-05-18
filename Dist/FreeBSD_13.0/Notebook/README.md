@@ -1564,7 +1564,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO71EC 1366x768 340x190mm 15.3-inch          | 3         | 3.33%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch            | 2         | 2.22%   |
 | AU Optronics LCD Monitor AUO80ED 1920x1080 340x190mm 15.3-inch         | 2         | 2.22%   |
-| Toshiba TV TSB0108 1360x768 700x390mm 31.5-inch                        | 1         | 1.11%   |
+| Toshiba TV TSB0108 1360x768 890x500mm 40.2-inch                        | 1         | 1.11%   |
 | Toshiba LCD Monitor LCD0905 1366x768 290x170mm 13.2-inch               | 1         | 1.11%   |
 | Sharp LQ134N1JW53 SHP1521 1920x1200 290x180mm 13.4-inch                | 1         | 1.11%   |
 | Sharp LCD Monitor SHP14D1 1920x1200 340x210mm 15.7-inch                | 1         | 1.11%   |
@@ -1612,7 +1612,7 @@ Monitor screen resolution
 
 | Resolution        | Notebooks | Percent |
 |-------------------|-----------|---------|
-| 1920x1080 (FHD)   | 35        | 40.7%   |
+| 1920x1080 (FHD)   | 34        | 39.53%  |
 | 1366x768 (WXGA)   | 27        | 31.4%   |
 | 1600x900 (HD+)    | 5         | 5.81%   |
 | 3840x2160 (4K)    | 4         | 4.65%   |
@@ -1620,6 +1620,7 @@ Monitor screen resolution
 | 1024x600          | 4         | 4.65%   |
 | 2560x1080         | 2         | 2.33%   |
 | 1920x1200 (WUXGA) | 2         | 2.33%   |
+| 2560x1440 (QHD)   | 1         | 1.16%   |
 | 1920x540          | 1         | 1.16%   |
 | 1280x720 (HD)     | 1         | 1.16%   |
 | 1024x768 (XGA)    | 1         | 1.16%   |
@@ -1644,8 +1645,8 @@ Diagonal size in inches
 | 27      | 2         | 2.25%   |
 | 64      | 1         | 1.12%   |
 | 49      | 1         | 1.12%   |
+| 40      | 1         | 1.12%   |
 | 34      | 1         | 1.12%   |
-| 31      | 1         | 1.12%   |
 | 29      | 1         | 1.12%   |
 | 23      | 1         | 1.12%   |
 | Unknown | 1         | 1.12%   |
@@ -1664,9 +1665,10 @@ Physical width
 | 201-300     | 20        | 22.47%  |
 | 501-600     | 6         | 6.74%   |
 | 351-400     | 3         | 3.37%   |
-| 601-700     | 2         | 2.25%   |
 | 1001-1500   | 2         | 2.25%   |
+| 801-900     | 1         | 1.12%   |
 | 701-800     | 1         | 1.12%   |
+| 601-700     | 1         | 1.12%   |
 | Unknown     | 1         | 1.12%   |
 
 Aspect Ratio
@@ -1705,8 +1707,9 @@ Area in inch²
 | 301-350        | 3         | 3.37%   |
 | 121-130        | 3         | 3.37%   |
 | More than 1000 | 2         | 2.25%   |
-| 351-500        | 2         | 2.25%   |
+| 351-500        | 1         | 1.12%   |
 | 111-120        | 1         | 1.12%   |
+| 501-1000       | 1         | 1.12%   |
 | Unknown        | 1         | 1.12%   |
 
 Pixel Density
@@ -1721,10 +1724,10 @@ Pixels per inch
 |---------------|-----------|---------|
 | 121-160       | 36        | 40.45%  |
 | 101-120       | 31        | 34.83%  |
-| 51-100        | 13        | 14.61%  |
+| 51-100        | 12        | 13.48%  |
 | 161-240       | 4         | 4.49%   |
 | More than 240 | 3         | 3.37%   |
-| 1-50          | 1         | 1.12%   |
+| 1-50          | 2         | 2.25%   |
 | Unknown       | 1         | 1.12%   |
 
 Multiple Monitors
@@ -2226,7 +2229,7 @@ Memory module models
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 0.67%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s            | 1         | 0.67%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s            | 1         | 0.67%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 1         | 0.67%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s    | 1         | 0.67%   |
 | SK hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1         | 0.67%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s  | 1         | 0.67%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1         | 0.67%   |
@@ -2300,8 +2303,8 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 30        | 22.9%   |
 | 2667    | 22        | 16.79%  |
-| 2400    | 17        | 12.98%  |
-| 2133    | 11        | 8.4%    |
+| 2400    | 18        | 13.74%  |
+| 2133    | 10        | 7.63%   |
 | 3200    | 9         | 6.87%   |
 | 1333    | 9         | 6.87%   |
 | 1067    | 6         | 4.58%   |

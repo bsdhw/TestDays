@@ -525,16 +525,16 @@ Motherboard manufacture year
 | Year | Desktops | Percent |
 |------|----------|---------|
 | 2018 | 12       | 11.88%  |
-| 2019 | 11       | 10.89%  |
-| 2013 | 10       | 9.9%    |
-| 2020 | 8        | 7.92%   |
+| 2019 | 10       | 9.9%    |
+| 2020 | 9        | 8.91%   |
+| 2013 | 9        | 8.91%   |
+| 2011 | 9        | 8.91%   |
 | 2012 | 8        | 7.92%   |
-| 2022 | 7        | 6.93%   |
 | 2021 | 7        | 6.93%   |
 | 2015 | 7        | 6.93%   |
 | 2014 | 7        | 6.93%   |
-| 2011 | 7        | 6.93%   |
 | 2010 | 7        | 6.93%   |
+| 2022 | 6        | 5.94%   |
 | 2008 | 4        | 3.96%   |
 | 2009 | 3        | 2.97%   |
 | 2016 | 2        | 1.98%   |
@@ -1141,7 +1141,7 @@ Storage controller vendors
 | Intel                        | 67       | 48.55%  |
 | AMD                          | 34       | 24.64%  |
 | Samsung Electronics          | 8        | 5.8%    |
-| SanDisk                      | 6        | 4.35%   |
+| Sandisk                      | 6        | 4.35%   |
 | JMicron Technology           | 5        | 3.62%   |
 | ASMedia Technology           | 4        | 2.9%    |
 | Silicon Motion               | 2        | 1.45%   |
@@ -1826,7 +1826,7 @@ Controller models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.7%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.7%    |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.7%    |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                          | 1        | 0.7%    |
+| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data         | 1        | 0.7%    |
 | Intel Wireless 8260                                                    | 1        | 0.7%    |
 
 Wireless Vendor
@@ -1935,7 +1935,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.95%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.95%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.95%   |
-| OPPO PGCM10 RNDIS Control RNDIS Ethernet Data                          | 1        | 0.95%   |
+| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data         | 1        | 0.95%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I219-V                                   | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I218-V                                   | 1        | 0.95%   |
@@ -2178,7 +2178,7 @@ Memory module models
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s    | 2        | 1.41%   |
 | SK hynix RAM HMT41GU6BFR8A-PB 8GB DIMM DDR3 1600MT/s  | 2        | 1.41%   |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s   | 2        | 1.41%   |
-| Kingston RAM KHX1600C10D3/ 8GB DIMM DDR3 1866MT/s     | 2        | 1.41%   |
+| Kingston RAM KHX1600C10D3/ 4GB DIMM DDR3 1866MT/s     | 2        | 1.41%   |
 | Kingston RAM 99U5702-095.A00G 8GB DIMM DDR4 3200MT/s  | 2        | 1.41%   |
 | GOODRAM RAM GR2400D464L17S/8G 8GB DIMM DDR4 2400MT/s  | 2        | 1.41%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1333MT/s           | 1        | 0.7%    |

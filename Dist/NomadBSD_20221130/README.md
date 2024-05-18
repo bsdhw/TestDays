@@ -428,12 +428,12 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
+| 2020 | 4         | 11.76%  |
 | 2018 | 4         | 11.76%  |
 | 2012 | 4         | 11.76%  |
 | 2011 | 4         | 11.76%  |
-| 2022 | 3         | 8.82%   |
-| 2020 | 3         | 8.82%   |
 | 2023 | 2         | 5.88%   |
+| 2022 | 2         | 5.88%   |
 | 2019 | 2         | 5.88%   |
 | 2015 | 2         | 5.88%   |
 | 2014 | 2         | 5.88%   |
@@ -1814,7 +1814,7 @@ Memory module models
 | Samsung RAM M471A1K43DB1-CTD 8GB SODIMM DDR4 2667MT/s        | 1         | 2.22%   |
 | Samsung RAM M425R1GB4DB0-CWMOL 16GB SODIMM DDR5 5600MT/s     | 1         | 2.22%   |
 | Samsung RAM M4 70T5663RZ3-CF7 2GB SODIMM DDR 1639MT/s        | 1         | 2.22%   |
-| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3                   | 1         | 2.22%   |
+| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3 1600MT/s          | 1         | 2.22%   |
 | Samsung RAM K4EBE304EC-EGCG 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 2.22%   |
 | Samsung RAM K4E6E304EB-EGCF 4GB Row Of Chips LPDDR3 1867MT/s | 1         | 2.22%   |
 | Ramaxel RAM RMT3170EF68F9W1600 4GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |

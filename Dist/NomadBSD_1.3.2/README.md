@@ -472,16 +472,16 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 11        | 21.15%  |
-| 2013 | 6         | 11.54%  |
 | 2019 | 5         | 9.62%   |
+| 2013 | 5         | 9.62%   |
 | 2017 | 4         | 7.69%   |
 | 2014 | 4         | 7.69%   |
 | 2018 | 3         | 5.77%   |
 | 2016 | 3         | 5.77%   |
 | 2011 | 3         | 5.77%   |
+| 2010 | 3         | 5.77%   |
 | 2008 | 3         | 5.77%   |
 | 2015 | 2         | 3.85%   |
-| 2010 | 2         | 3.85%   |
 | 2009 | 2         | 3.85%   |
 | 2012 | 1         | 1.92%   |
 | 2007 | 1         | 1.92%   |
@@ -1408,7 +1408,7 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 2.08%   |
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
@@ -1985,7 +1985,7 @@ Memory module models
 | Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR2                  | 1         | 1.64%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2161,7 +2161,7 @@ Camera device models
 
 | Model                                               | Computers | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Sunplus Integrated_Webcam_HD                        | 2         | 6.06%   |
+| Sunplus Integrated_Webcam_HD                        | 3         | 9.09%   |
 | Realtek USB 2.0 PC Camera                           | 2         | 6.06%   |
 | Realtek Lenovo EasyCamera                           | 2         | 6.06%   |
 | Chicony Integrated Camera                           | 2         | 6.06%   |
@@ -2169,7 +2169,6 @@ Camera device models
 | Suyin HD WebCam                                     | 1         | 3.03%   |
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 3.03%   |
 | Suyin Acer Crystal Eye webcam                       | 1         | 3.03%   |
-| Sunplus hama C-600 Pro Webcam                       | 1         | 3.03%   |
 | Sunplus Asus Webcam                                 | 1         | 3.03%   |
 | Silicon Motion Realtek USB 2.0 PC Camera            | 1         | 3.03%   |
 | Realtek USB Video Composite                         | 1         | 3.03%   |

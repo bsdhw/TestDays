@@ -1253,7 +1253,7 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 3.57%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 3.57%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 3.57%   |
@@ -1930,14 +1930,13 @@ Camera device models
 
 | Model                                               | Notebooks | Percent |
 |-----------------------------------------------------|-----------|---------|
-| Sunplus Integrated_Webcam_HD                        | 2         | 7.41%   |
+| Sunplus Integrated_Webcam_HD                        | 3         | 11.11%  |
 | Realtek USB 2.0 PC Camera                           | 2         | 7.41%   |
 | Chicony Integrated Camera                           | 2         | 7.41%   |
 | Cheng Uei Precision Industry (Foxlink) HP HD Webcam | 2         | 7.41%   |
 | Suyin HD WebCam                                     | 1         | 3.7%    |
 | Suyin Acer/HP Integrated Webcam [CN0314]            | 1         | 3.7%    |
 | Suyin Acer Crystal Eye webcam                       | 1         | 3.7%    |
-| Sunplus hama C-600 Pro Webcam                       | 1         | 3.7%    |
 | Sunplus Asus Webcam                                 | 1         | 3.7%    |
 | Silicon Motion Realtek USB 2.0 PC Camera            | 1         | 3.7%    |
 | Realtek USB Camera                                  | 1         | 3.7%    |

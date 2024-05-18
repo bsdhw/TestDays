@@ -1313,7 +1313,7 @@ Memory module models
 | Transcend RAM JM1333KLN-4G 4GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
 | Transcend RAM JM1333KLH-8G 8GB DIMM DDR3 1333MT/s     | 1        | 12.5%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s | 1        | 12.5%   |
-| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3            | 1        | 12.5%   |
+| Samsung RAM M391B1G73QH0-YK0 8GB DIMM DDR3 1600MT/s   | 1        | 12.5%   |
 | Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 3600MT/s   | 1        | 12.5%   |
 | Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s | 1        | 12.5%   |
 | Corsair RAM CMY16GX3M2A2133C11 8GB DIMM DDR3 1866MT/s | 1        | 12.5%   |
