@@ -653,13 +653,13 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2013 | 25        | 13.16%  |
+| 2013 | 26        | 13.68%  |
 | 2018 | 22        | 11.58%  |
 | 2020 | 18        | 9.47%   |
-| 2014 | 18        | 9.47%   |
-| 2019 | 16        | 8.42%   |
+| 2014 | 17        | 8.95%   |
+| 2019 | 15        | 7.89%   |
+| 2017 | 15        | 7.89%   |
 | 2016 | 15        | 7.89%   |
-| 2017 | 14        | 7.37%   |
 | 2012 | 14        | 7.37%   |
 | 2009 | 14        | 7.37%   |
 | 2011 | 8         | 4.21%   |
@@ -941,7 +941,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| Goodram             | 2         | 2      | 0.71%   |
+| GOODRAM             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -1057,7 +1057,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| Goodram             | 2         | 2      | 1.4%    |
+| GOODRAM             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -1108,9 +1108,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 151       | 218    | 70.56%  |
-| 0.51-1.0   | 47        | 65     | 21.96%  |
-| 1.01-2.0   | 11        | 14     | 5.14%   |
+| 0.01-0.5   | 151       | 217    | 70.23%  |
+| 0.51-1.0   | 48        | 66     | 22.33%  |
+| 1.01-2.0   | 11        | 14     | 5.12%   |
 | 3.01-4.0   | 2         | 3      | 0.93%   |
 | 4.01-10.0  | 2         | 2      | 0.93%   |
 | 2.01-3.0   | 1         | 2      | 0.47%   |
@@ -1351,7 +1351,7 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                               | 2         | 0.76%   |
 | Phison E12 NVMe Controller                                                     | 2         | 0.76%   |
 | Marvell Group 88SE9172 SATA 6Gb/s Controller                                   | 2         | 0.76%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                       | 2         | 0.76%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                     | 2         | 0.76%   |
 | Intel Mobile 4 Series Chipset PT IDER Controller                               | 2         | 0.76%   |
 | Intel HM170/QM170 Chipset SATA Controller [AHCI Mode]                          | 2         | 0.76%   |
 | Intel Comet Lake RAID Controller                                               | 2         | 0.76%   |
@@ -1615,7 +1615,7 @@ Graphics card models
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 2         | 0.92%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                        | 2         | 0.92%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 2         | 0.92%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 2         | 0.92%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                 | 2         | 0.92%   |
 | AMD Oland XT [Radeon HD 8670 / R5 340X OEM / R7 250/350/350X OEM]           | 2         | 0.92%   |
 | AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 2         | 0.92%   |
 
@@ -2320,7 +2320,7 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 8         | 2.63%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 7         | 2.3%    |
 | AMD SBx00 Azalia (Intel HDA)                                               | 7         | 2.3%    |
-| AMD Family 17h/19h HD Audio Controller                                     | 7         | 2.3%    |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 7         | 2.3%    |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 6         | 1.97%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 6         | 1.97%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 5         | 1.64%   |
@@ -2425,7 +2425,7 @@ Memory module models
 | Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s    | 2         | 0.79%   |
 | Kingston RAM 99U5471-025.A00LF 4096MB DIMM DDR3 1333MT/s | 2         | 0.79%   |
 | Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1866MT/s    | 2         | 0.79%   |
 | Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s           | 2         | 0.79%   |
 | Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
 | V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s        | 1         | 0.39%   |
@@ -2500,20 +2500,20 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 63        | 29.72%  |
-| 1333    | 32        | 15.09%  |
-| 2400    | 29        | 13.68%  |
-| 3200    | 15        | 7.08%   |
-| 2667    | 10        | 4.72%   |
-| 2133    | 10        | 4.72%   |
-| 800     | 9         | 4.25%   |
-| 667     | 9         | 4.25%   |
-| 1067    | 8         | 3.77%   |
-| 1334    | 7         | 3.3%    |
-| 1867    | 6         | 2.83%   |
-| 2666    | 3         | 1.42%   |
-| 1066    | 3         | 1.42%   |
-| 1866    | 2         | 0.94%   |
+| 1600    | 62        | 29.11%  |
+| 1333    | 32        | 15.02%  |
+| 2400    | 28        | 13.15%  |
+| 3200    | 16        | 7.51%   |
+| 2667    | 10        | 4.69%   |
+| 2133    | 10        | 4.69%   |
+| 800     | 9         | 4.23%   |
+| 667     | 9         | 4.23%   |
+| 1067    | 8         | 3.76%   |
+| 1334    | 7         | 3.29%   |
+| 1867    | 6         | 2.82%   |
+| 1866    | 4         | 1.88%   |
+| 2666    | 3         | 1.41%   |
+| 1066    | 3         | 1.41%   |
 | Unknown | 2         | 0.94%   |
 | 3600    | 1         | 0.47%   |
 | 3000    | 1         | 0.47%   |

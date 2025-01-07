@@ -259,7 +259,7 @@ Total: 139
 | Dell          | Latitude 7490               | [18215740d1](https://bsd-hardware.info/?probe=18215740d1) | Jun 05, 2022 |
 | Dell          | Latitude E5500              | [b1cb5de914](https://bsd-hardware.info/?probe=b1cb5de914) | Jun 03, 2022 |
 | ASUSTek       | X441UV                      | [c8906b438b](https://bsd-hardware.info/?probe=c8906b438b) | Jun 03, 2022 |
-| Apple         | MacBookPro11,4              | [29f1ef0cdc](https://bsd-hardware.info/?probe=29f1ef0cdc) | Jun 02, 2022 |
+| HUAWEI        | MRGFG-XX                    | [29f1ef0cdc](https://bsd-hardware.info/?probe=29f1ef0cdc) | Jun 02, 2022 |
 | Lenovo        | ThinkPad W520 4282AD4       | [40198abaa2](https://bsd-hardware.info/?probe=40198abaa2) | Jun 02, 2022 |
 | Acer          | Nitro AN515-55              | [0cf6981a98](https://bsd-hardware.info/?probe=0cf6981a98) | Jun 02, 2022 |
 | GPD           | MicroPC                     | [a448570ff9](https://bsd-hardware.info/?probe=a448570ff9) | May 31, 2022 |
@@ -458,10 +458,10 @@ Motherboard manufacturer
 | NOBLEX              | 1         | 0.87%   |
 | MSI                 | 1         | 0.87%   |
 | LG Electronics      | 1         | 0.87%   |
+| HUAWEI              | 1         | 0.87%   |
 | GPD                 | 1         | 0.87%   |
 | Fujitsu Siemens     | 1         | 0.87%   |
 | Fujitsu             | 1         | 0.87%   |
-| Apple               | 1         | 0.87%   |
 | Alienware           | 1         | 0.87%   |
 
 Model
@@ -560,11 +560,11 @@ Motherboard model prefix
 | Lenovo G50-30           | 1         | 0.87%   |
 | Lenovo G40-45           | 1         | 0.87%   |
 | Lenovo B590             | 1         | 0.87%   |
+| HUAWEI MRGFG-XX         | 1         | 0.87%   |
 | HP Pavilion             | 1         | 0.87%   |
 | HP Laptop               | 1         | 0.87%   |
 | HP ENVY                 | 1         | 0.87%   |
 | GPD MicroPC             | 1         | 0.87%   |
-| Google Stout            | 1         | 0.87%   |
 
 MFG Year
 --------
@@ -576,17 +576,17 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2022 | 19        | 16.52%  |
+| 2022 | 18        | 15.65%  |
 | 2020 | 16        | 13.91%  |
-| 2021 | 13        | 11.3%   |
+| 2021 | 14        | 12.17%  |
 | 2018 | 11        | 9.57%   |
+| 2011 | 9         | 7.83%   |
 | 2019 | 8         | 6.96%   |
-| 2011 | 8         | 6.96%   |
-| 2012 | 7         | 6.09%   |
 | 2016 | 6         | 5.22%   |
+| 2012 | 6         | 5.22%   |
 | 2017 | 5         | 4.35%   |
-| 2015 | 5         | 4.35%   |
-| 2013 | 4         | 3.48%   |
+| 2013 | 5         | 4.35%   |
+| 2015 | 4         | 3.48%   |
 | 2010 | 4         | 3.48%   |
 | 2014 | 3         | 2.61%   |
 | 2009 | 3         | 2.61%   |
@@ -887,7 +887,7 @@ Hard drive models
 | Samsung SSD 970 EVO Plus 2TB            | 2         | 1.47%   |
 | KIOXIA KBG40ZNS512G NVMe 512GB          | 2         | 1.47%   |
 | Crucial CT1000MX500SSD1 1TB             | 2         | 1.47%   |
-| XPG GAMMIX S5 1TB                       | 1         | 0.74%   |
+| XPG GAMMIX S5 256GB                     | 1         | 0.74%   |
 | WDC WDS500G3X0C-00SJG0 500GB            | 1         | 0.74%   |
 | WDC WDS480G2G0A-00JH30 480GB            | 1         | 0.74%   |
 | WDC WDS250G2B0B-00YS70 250GB            | 1         | 0.74%   |
@@ -1205,7 +1205,7 @@ Storage controller models
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                              | 4         | 2.78%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                           | 3         | 2.08%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 3         | 2.08%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 3         | 2.08%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 3         | 2.08%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 3         | 2.08%   |
 | KIOXIA NVMe SSD Controller BG4 (DRAM-less)                                     | 3         | 2.08%   |
 | Intel Volume Management Device NVMe RAID Controller                            | 3         | 2.08%   |
@@ -1466,7 +1466,7 @@ Graphics card models
 | AMD Lucienne                                                              | 4         | 2.8%    |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 3         | 2.1%    |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 2.1%    |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 3         | 2.1%    |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]               | 3         | 2.1%    |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 3         | 2.1%    |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 2         | 1.4%    |
 | Nvidia GT216GLM [Quadro FX 880M]                                          | 2         | 1.4%    |
@@ -1610,9 +1610,9 @@ Monitor models
 | Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x290mm 29.5-inch        | 1         | 1.14%   |
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch     | 1         | 1.14%   |
 | Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch   | 1         | 1.14%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.14%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SEC3741 1366x768 300x170mm 13.6-inch  | 1         | 1.14%   |
-| Samsung Electronics LCD Monitor SEC3245 1280x800 330x210mm 15.4-inch  | 1         | 1.14%   |
+| Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SDC4158 1920x1080 290x170mm 13.2-inch | 1         | 1.14%   |
 | Mi 27 NFGL XMIB004 1920x1080 600x330mm 27.0-inch                      | 1         | 1.14%   |
@@ -1923,7 +1923,7 @@ Wireless models
 | TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 0.79%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 0.79%   |
 | Sierra Wireless EM7455                                         | 1         | 0.79%   |
-| Sagem XG-76NA 802.11bg                                         | 1         | 0.79%   |
+| Sagem XG-76NA / XG-760N 802.11b/g Wireless adapter             | 1         | 0.79%   |
 | Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 0.79%   |
 | Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1         | 0.79%   |
 | Realtek RTL8192CU 802.11n WLAN Adapter                         | 1         | 0.79%   |
@@ -2157,7 +2157,7 @@ Sound card models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP HD Audio                                            | 15        | 9.43%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 13        | 8.18%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 13        | 8.18%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 11        | 6.92%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 9         | 5.66%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 7         | 4.4%    |
@@ -2247,9 +2247,9 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 2.1%    |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 1.4%    |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 1.4%    |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 2         | 1.4%    |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 1.4%    |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 1.4%    |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s             | 2         | 1.4%    |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 1.4%    |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 1.4%    |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.4%    |
 | SK hynix RAM HMA81GS6DJR8N-XN 8GB SODIMM DDR4 3200MT/s           | 2         | 1.4%    |
@@ -2260,7 +2260,7 @@ Memory module models
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s           | 2         | 1.4%    |
 | Samsung RAM M471A2K43DB1-CWE 16GB SODIMM DDR4 3200MT/s           | 2         | 1.4%    |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s            | 2         | 1.4%    |
-| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1333MT/s           | 2         | 1.4%    |
+| Micron RAM 16JSF51264HZ-1G4D1 4GB SODIMM DDR3 1334MT/s           | 2         | 1.4%    |
 | KomputerBay RAM KB_8G_D3_1333_C9 8GB SODIMM DDR3 1334MT/s        | 2         | 1.4%    |
 | Kingston RAM 99U5469-045.A00LF 4GB SODIMM DDR3 1600MT/s          | 2         | 1.4%    |
 | Unknown RAM Module 8GB SODIMM DDR3 1333MT/s                      | 1         | 0.7%    |
@@ -2327,9 +2327,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 8192  | 46        | 38.02%  |
+| 8192  | 45        | 37.19%  |
 | 4096  | 37        | 30.58%  |
-| 16384 | 20        | 16.53%  |
+| 16384 | 21        | 17.36%  |
 | 2048  | 14        | 11.57%  |
 | 32768 | 4         | 3.31%   |
 
@@ -2343,26 +2343,26 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 3200    | 26        | 21.14%  |
-| 1600    | 25        | 20.33%  |
-| 2667    | 17        | 13.82%  |
-| 2400    | 16        | 13.01%  |
-| 2133    | 9         | 7.32%   |
-| 1334    | 7         | 5.69%   |
-| 1333    | 4         | 3.25%   |
-| 4267    | 2         | 1.63%   |
-| 1867    | 2         | 1.63%   |
-| 975     | 2         | 1.63%   |
-| 800     | 2         | 1.63%   |
-| 667     | 2         | 1.63%   |
-| Unknown | 2         | 1.63%   |
-| 6400    | 1         | 0.81%   |
-| 4266    | 1         | 0.81%   |
-| 2048    | 1         | 0.81%   |
-| 1866    | 1         | 0.81%   |
-| 1596    | 1         | 0.81%   |
-| 1067    | 1         | 0.81%   |
-| 1066    | 1         | 0.81%   |
+| 3200    | 26        | 20.8%   |
+| 1600    | 25        | 20%     |
+| 2667    | 17        | 13.6%   |
+| 2400    | 16        | 12.8%   |
+| 2133    | 9         | 7.2%    |
+| 1334    | 9         | 7.2%    |
+| 1333    | 4         | 3.2%    |
+| 4267    | 2         | 1.6%    |
+| 1867    | 2         | 1.6%    |
+| 975     | 2         | 1.6%    |
+| 800     | 2         | 1.6%    |
+| 667     | 2         | 1.6%    |
+| Unknown | 2         | 1.6%    |
+| 6400    | 1         | 0.8%    |
+| 4266    | 1         | 0.8%    |
+| 2048    | 1         | 0.8%    |
+| 1866    | 1         | 0.8%    |
+| 1596    | 1         | 0.8%    |
+| 1067    | 1         | 0.8%    |
+| 1066    | 1         | 0.8%    |
 
 Printers & scanners
 -------------------

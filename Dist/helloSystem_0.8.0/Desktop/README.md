@@ -528,14 +528,14 @@ Motherboard manufacture year
 | 2019 | 10       | 9.9%    |
 | 2020 | 9        | 8.91%   |
 | 2013 | 9        | 8.91%   |
-| 2011 | 9        | 8.91%   |
 | 2012 | 8        | 7.92%   |
+| 2011 | 8        | 7.92%   |
 | 2021 | 7        | 6.93%   |
 | 2015 | 7        | 6.93%   |
 | 2014 | 7        | 6.93%   |
 | 2010 | 7        | 6.93%   |
 | 2022 | 6        | 5.94%   |
-| 2008 | 4        | 3.96%   |
+| 2008 | 5        | 4.95%   |
 | 2009 | 3        | 2.97%   |
 | 2016 | 2        | 1.98%   |
 | 2017 | 1        | 0.99%   |
@@ -1141,7 +1141,7 @@ Storage controller vendors
 | Intel                        | 67       | 48.55%  |
 | AMD                          | 34       | 24.64%  |
 | Samsung Electronics          | 8        | 5.8%    |
-| Sandisk                      | 6        | 4.35%   |
+| SanDisk                      | 6        | 4.35%   |
 | JMicron Technology           | 5        | 3.62%   |
 | ASMedia Technology           | 4        | 2.9%    |
 | Silicon Motion               | 2        | 1.45%   |
@@ -1178,7 +1178,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family Desktop SATA Controller (IDE mode, ports 0-3)                            | 5        | 2.89%   |
 | AMD 400 Series Chipset SATA Controller                                                                             | 5        | 2.89%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                                                   | 4        | 2.31%   |
-| AMD FCH SATA Controller D                                                                                          | 4        | 2.31%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                                                       | 4        | 2.31%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]                                      | 3        | 1.73%   |
 | Intel NM10/ICH7 Family SATA Controller [AHCI mode]                                                                 | 3        | 1.73%   |
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                                                      | 3        | 1.73%   |
@@ -1591,7 +1591,7 @@ Monitor models
 | Philips LCD Monitor PHL0868 1680x1050 470x290mm 21.7-inch             | 1        | 1.61%   |
 | Philips LCD Monitor PHL 243V7 3840x1080                               | 1        | 1.61%   |
 | NEC Computers LCD175VXM+ NEC66C0 1280x1024 340x270mm 17.1-inch        | 1        | 1.61%   |
-| MSI MAG342CQRV MSI3DB6 3440x1440 790x330mm 33.7-inch                  | 1        | 1.61%   |
+| MSI MAG342CQR MSI3DB6 3440x1440 790x330mm 33.7-inch                   | 1        | 1.61%   |
 | LG Electronics LCD Monitor LG TV 1920x1080                            | 1        | 1.61%   |
 | LG Electronics LCD Monitor E2441 3840x1080                            | 1        | 1.61%   |
 | Lenovo Group Limited LCD Monitor C24-25 1920x1080                     | 1        | 1.61%   |
@@ -1826,7 +1826,7 @@ Controller models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.7%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.7%    |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.7%    |
-| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data         | 1        | 0.7%    |
+| OPPO KALAMA-MTP_CID:0437_SN:B2767D06 RNDIS Control RNDIS Ethernet Data | 1        | 0.7%    |
 | Intel Wireless 8260                                                    | 1        | 0.7%    |
 
 Wireless Vendor
@@ -1935,7 +1935,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.95%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.95%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.95%   |
-| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data         | 1        | 0.95%   |
+| OPPO KALAMA-MTP_CID:0437_SN:B2767D06 RNDIS Control RNDIS Ethernet Data | 1        | 0.95%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I219-V                                   | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I218-V                                   | 1        | 0.95%   |
@@ -2085,7 +2085,7 @@ Sound card models
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller  | 10       | 5.38%   |
-| AMD Family 17h/19h HD Audio Controller                                      | 10       | 5.38%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                  | 10       | 5.38%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller            | 9        | 4.84%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                     | 9        | 4.84%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller         | 9        | 4.84%   |
@@ -2272,10 +2272,10 @@ Memory module speed
 | 1600    | 18       | 16.98%  |
 | 3200    | 13       | 12.26%  |
 | 2400    | 10       | 9.43%   |
+| 2667    | 8        | 7.55%   |
 | 800     | 8        | 7.55%   |
-| 2667    | 7        | 6.6%    |
 | 2133    | 7        | 6.6%    |
-| 2666    | 5        | 4.72%   |
+| 2666    | 4        | 3.77%   |
 | Unknown | 4        | 3.77%   |
 | 2933    | 3        | 2.83%   |
 | 667     | 3        | 2.83%   |

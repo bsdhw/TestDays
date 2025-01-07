@@ -829,7 +829,7 @@ Storage controller models
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                               | 2         | 8.7%    |
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 8.7%    |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 8.7%    |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 4.35%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)        | 1         | 4.35%   |
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                            | 1         | 4.35%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 4.35%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]    | 1         | 4.35%   |
@@ -1488,7 +1488,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 8%      |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 8%      |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 8%      |
-| AMD Family 17h/19h HD Audio Controller                                                            | 2         | 8%      |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 2         | 8%      |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 1         | 4%      |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 4%      |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1         | 4%      |
@@ -1591,9 +1591,9 @@ Memory module size
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
 | 4096  | 8         | 40%     |
-| 8192  | 5         | 25%     |
 | 2048  | 5         | 25%     |
-| 16384 | 1         | 5%      |
+| 16384 | 3         | 15%     |
+| 8192  | 3         | 15%     |
 | 1024  | 1         | 5%      |
 
 Memory Speed

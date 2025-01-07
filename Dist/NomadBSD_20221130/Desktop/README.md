@@ -1279,7 +1279,7 @@ Sound card models
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 6.25%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 6.25%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 1        | 6.25%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 6.25%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 6.25%   |
 
 Memory
 ------

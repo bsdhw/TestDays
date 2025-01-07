@@ -716,19 +716,19 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2019 | 32        | 13.06%  |
 | 2020 | 30        | 12.24%  |
+| 2019 | 30        | 12.24%  |
 | 2012 | 28        | 11.43%  |
-| 2013 | 27        | 11.02%  |
+| 2013 | 26        | 10.61%  |
 | 2018 | 18        | 7.35%   |
-| 2011 | 16        | 6.53%   |
+| 2011 | 17        | 6.94%   |
 | 2015 | 15        | 6.12%   |
 | 2014 | 15        | 6.12%   |
 | 2016 | 13        | 5.31%   |
 | 2010 | 13        | 5.31%   |
 | 2009 | 12        | 4.9%    |
 | 2021 | 9         | 3.67%   |
-| 2017 | 7         | 2.86%   |
+| 2017 | 9         | 3.67%   |
 | 2008 | 6         | 2.45%   |
 | 2007 | 4         | 1.63%   |
 
@@ -1174,9 +1174,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 177       | 251    | 67.82%  |
+| 0.01-0.5   | 176       | 250    | 67.43%  |
 | 0.51-1.0   | 60        | 75     | 22.99%  |
-| 1.01-2.0   | 13        | 17     | 4.98%   |
+| 1.01-2.0   | 14        | 18     | 5.36%   |
 | 3.01-4.0   | 5         | 6      | 1.92%   |
 | 2.01-3.0   | 3         | 6      | 1.15%   |
 | 4.01-10.0  | 3         | 5      | 1.15%   |
@@ -1727,7 +1727,7 @@ Graphics card models
 | AMD RV710 [Radeon HD 4350/4550]                                                          | 2         | 0.74%   |
 | AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 2         | 0.74%   |
 | AMD RS780L [Radeon 3000]                                                                 | 2         | 0.74%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 2         | 0.74%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 2         | 0.74%   |
 | AMD Chelsea LP [Radeon HD 7730M]                                                         | 2         | 0.74%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 2         | 0.74%   |
 
@@ -1884,7 +1884,7 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S24C350 SAM0A3A 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 480x270mm 21.7-inch    | 1         | 0.52%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 0.52%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC354C 1366x768 350x200mm 15.9-inch | 1         | 0.52%   |
 
@@ -2476,7 +2476,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 12        | 3.18%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 11        | 2.92%   |
 | Intel 8 Series HD Audio Controller                                                                | 11        | 2.92%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 10        | 2.65%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 10        | 2.65%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 9         | 2.39%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                                             | 8         | 2.12%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 7         | 1.86%   |
@@ -2615,10 +2615,10 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR3    | 122       | 49.8%   |
+| DDR3    | 123       | 50.2%   |
 | DDR4    | 80        | 32.65%  |
 | DDR2    | 16        | 6.53%   |
-| Unknown | 16        | 6.53%   |
+| Unknown | 15        | 6.12%   |
 | SDRAM   | 4         | 1.63%   |
 | LPDDR3  | 4         | 1.63%   |
 | LPDDR4  | 1         | 0.41%   |
@@ -2652,11 +2652,11 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 109       | 38.52%  |
-| 2048  | 74        | 26.15%  |
-| 8192  | 72        | 25.44%  |
-| 16384 | 19        | 6.71%   |
-| 1024  | 6         | 2.12%   |
+| 4096  | 109       | 38.65%  |
+| 2048  | 74        | 26.24%  |
+| 8192  | 71        | 25.18%  |
+| 16384 | 19        | 6.74%   |
+| 1024  | 6         | 2.13%   |
 | 32768 | 3         | 1.06%   |
 
 Memory Speed
@@ -2669,24 +2669,24 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 73        | 27.14%  |
-| 1333    | 45        | 16.73%  |
-| 2400    | 26        | 9.67%   |
-| 2667    | 24        | 8.92%   |
-| 2133    | 18        | 6.69%   |
-| 800     | 13        | 4.83%   |
-| 1334    | 12        | 4.46%   |
-| 3200    | 11        | 4.09%   |
-| 667     | 11        | 4.09%   |
-| 1867    | 7         | 2.6%    |
-| 2666    | 5         | 1.86%   |
+| 1600    | 73        | 27.24%  |
+| 1333    | 44        | 16.42%  |
+| 2400    | 25        | 9.33%   |
+| 2667    | 24        | 8.96%   |
+| 2133    | 18        | 6.72%   |
+| 3200    | 12        | 4.48%   |
+| 1334    | 12        | 4.48%   |
+| 800     | 12        | 4.48%   |
+| 667     | 11        | 4.1%    |
+| 1867    | 7         | 2.61%   |
+| 2666    | 5         | 1.87%   |
 | 1067    | 4         | 1.49%   |
 | Unknown | 4         | 1.49%   |
 | 1866    | 3         | 1.12%   |
+| 1066    | 3         | 1.12%   |
 | 533     | 3         | 1.12%   |
-| 3000    | 2         | 0.74%   |
-| 2933    | 2         | 0.74%   |
-| 1066    | 2         | 0.74%   |
+| 3000    | 2         | 0.75%   |
+| 2933    | 2         | 0.75%   |
 | 3600    | 1         | 0.37%   |
 | 2048    | 1         | 0.37%   |
 | 975     | 1         | 0.37%   |

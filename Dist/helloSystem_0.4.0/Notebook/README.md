@@ -1131,7 +1131,7 @@ Storage controller models
 | Toshiba XG4 NVMe SSD Controller                                                | 1         | 0.91%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.91%   |
 | Silicon Motion SM2262/SM2262EN SSD Controller                                  | 1         | 0.91%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1         | 0.91%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 1         | 0.91%   |
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1         | 0.91%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1         | 0.91%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 0.91%   |
@@ -1369,7 +1369,7 @@ Graphics card models
 | Intel HD Graphics 5500                                                    | 2         | 1.82%   |
 | Intel HD Graphics 530                                                     | 2         | 1.82%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 2         | 1.82%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 2         | 1.82%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]               | 2         | 1.82%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 1         | 0.91%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 1         | 0.91%   |
 | Nvidia GT216M [GeForce GT 330M]                                           | 1         | 0.91%   |
@@ -1992,7 +1992,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                         | 9         | 7.69%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 5.98%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 6         | 5.13%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 5         | 4.27%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 5         | 4.27%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 4         | 3.42%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 4         | 3.42%   |
 | Nvidia MCP79 High Definition Audio                                         | 3         | 2.56%   |

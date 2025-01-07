@@ -543,15 +543,15 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2020 | 16       | 13.91%  |
 | 2012 | 15       | 13.04%  |
-| 2019 | 13       | 11.3%   |
+| 2019 | 12       | 10.43%  |
 | 2018 | 12       | 10.43%  |
-| 2013 | 12       | 10.43%  |
+| 2013 | 11       | 9.57%   |
+| 2011 | 8        | 6.96%   |
 | 2010 | 8        | 6.96%   |
 | 2014 | 7        | 6.09%   |
-| 2011 | 7        | 6.09%   |
 | 2021 | 5        | 4.35%   |
+| 2017 | 5        | 4.35%   |
 | 2016 | 5        | 4.35%   |
-| 2017 | 4        | 3.48%   |
 | 2015 | 4        | 3.48%   |
 | 2008 | 4        | 3.48%   |
 | 2009 | 2        | 1.74%   |
@@ -1215,7 +1215,7 @@ Storage controller models
 | Nvidia MCP61 SATA Controller                                                            | 2        | 1%      |
 | Nvidia MCP61 IDE                                                                        | 2        | 1%      |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)                    | 2        | 1%      |
-| Kingston Company A2000 NVMe SSD SM2263EN                                                | 2        | 1%      |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                              | 2        | 1%      |
 | JMicron JMB363 SATA/IDE Controller                                                      | 2        | 1%      |
 | Intel SSD 660P Series                                                                   | 2        | 1%      |
 | Intel 82Q35 Express PT IDER Controller                                                  | 2        | 1%      |
@@ -2148,7 +2148,7 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                        | 8        | 3.83%   |
 | Intel 200 Series PCH HD Audio                                                     | 7        | 3.35%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 7        | 3.35%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 7        | 3.35%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                        | 7        | 3.35%   |
 | Nvidia GP108 High Definition Audio Controller                                     | 6        | 2.87%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 6        | 2.87%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 6        | 2.87%   |

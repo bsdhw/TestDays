@@ -476,19 +476,19 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2021 | 9         | 16.67%  |
 | 2019 | 9         | 16.67%  |
-| 2020 | 5         | 9.26%   |
+| 2021 | 8         | 14.81%  |
+| 2020 | 6         | 11.11%  |
 | 2017 | 5         | 9.26%   |
 | 2015 | 4         | 7.41%   |
 | 2022 | 3         | 5.56%   |
 | 2018 | 3         | 5.56%   |
 | 2013 | 3         | 5.56%   |
-| 2012 | 3         | 5.56%   |
 | 2009 | 3         | 5.56%   |
 | 2008 | 3         | 5.56%   |
+| 2012 | 2         | 3.7%    |
+| 2011 | 2         | 3.7%    |
 | 2014 | 1         | 1.85%   |
-| 2011 | 1         | 1.85%   |
 | 2010 | 1         | 1.85%   |
 | 2006 | 1         | 1.85%   |
 
@@ -1065,7 +1065,7 @@ Storage controller models
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                     | 1         | 1.23%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                    | 1         | 1.23%   |
 | Micron 2210 NVMe SSD [Cobain]                                                 | 1         | 1.23%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                      | 1         | 1.23%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                    | 1         | 1.23%   |
 | JMicron JMB360 AHCI Controller                                                | 1         | 1.23%   |
 | Intel SSD 660P Series                                                         | 1         | 1.23%   |
 | Intel SATA Controller [RAID Mode]                                             | 1         | 1.23%   |
@@ -1454,7 +1454,7 @@ Monitor models
 | Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1         | 2.17%   |
 | Goldstar LCD Monitor GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1         | 2.17%   |
 | Goldstar E2241 GSM581A 1920x1080 480x270mm 21.7-inch                     | 1         | 2.17%   |
-| Dell E196FP DELA015 1280x1024 380x300mm 19.1-inch                        | 1         | 2.17%   |
+| Dell E196FP DELA015 1280x1024 340x270mm 17.1-inch                        | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15BE 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 350x190mm 15.7-inch | 1         | 2.17%   |
@@ -1969,7 +1969,7 @@ Sound card models
 | Intel Haswell-ULT HD Audio Controller                               | 4         | 4.26%   |
 | Intel 8 Series HD Audio Controller                                  | 4         | 4.26%   |
 | AMD Kabini HDMI/DP Audio                                            | 4         | 4.26%   |
-| AMD Family 17h/19h HD Audio Controller                              | 4         | 4.26%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                          | 4         | 4.26%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller     | 3         | 3.19%   |
 | AMD Starship/Matisse HD Audio Controller                            | 3         | 3.19%   |
 | AMD Renoir Radeon High Definition Audio Controller                  | 3         | 3.19%   |
@@ -2057,7 +2057,7 @@ Memory module models
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s       | 1         | 1.47%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s   | 1         | 1.47%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s    | 1         | 1.47%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 1         | 1.47%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s    | 1         | 1.47%   |
 | SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s    | 1         | 1.47%   |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s    | 1         | 1.47%   |

@@ -1253,7 +1253,7 @@ Sound card models
 | Intel Alder Lake PCH-P High Definition Audio Controller          | 1         | 14.29%  |
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller | 1         | 14.29%  |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller              | 1         | 14.29%  |
-| AMD Family 17h/19h HD Audio Controller                           | 1         | 14.29%  |
+| AMD Family 17h/19h/1ah HD Audio Controller                       | 1         | 14.29%  |
 
 Memory
 ------
@@ -1287,7 +1287,7 @@ Memory module models
 | SK hynix RAM Module 1GB SODIMM DDR 667MT/s             | 1         | 12.5%   |
 | Samsung RAM M471B5173CB0-YK0 4GB SODIMM DDR3 1600MT/s  | 1         | 12.5%   |
 | Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s | 1         | 12.5%   |
-| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s | 1         | 12.5%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s  | 1         | 12.5%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s  | 1         | 12.5%   |
 | PNY RAM 16GU2X08QJLL42-12-K 16GB SODIMM DDR4 3200MT/s  | 1         | 12.5%   |
 | Micron RAM 4ATF51264HZ-2G3B2 4GB SODIMM DDR4 2400MT/s  | 1         | 12.5%   |
@@ -1329,10 +1329,9 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 16384 | 3         | 42.86%  |
-| 4096  | 2         | 28.57%  |
-| 8192  | 1         | 14.29%  |
-| 1024  | 1         | 14.29%  |
+| 16384 | 3         | 50%     |
+| 4096  | 2         | 33.33%  |
+| 1024  | 1         | 16.67%  |
 
 Memory Speed
 ------------

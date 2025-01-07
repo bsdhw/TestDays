@@ -1625,7 +1625,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 2.94%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 1         | 2.94%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 2.94%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1         | 2.94%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1         | 2.94%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1         | 2.94%   |
 
 Memory

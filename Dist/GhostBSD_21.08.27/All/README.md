@@ -442,16 +442,16 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 8         | 20%     |
 | 2021 | 7         | 17.5%   |
+| 2013 | 4         | 10%     |
 | 2011 | 4         | 10%     |
-| 2019 | 3         | 7.5%    |
 | 2018 | 3         | 7.5%    |
-| 2013 | 3         | 7.5%    |
 | 2012 | 3         | 7.5%    |
-| 2015 | 2         | 5%      |
+| 2019 | 2         | 5%      |
+| 2017 | 2         | 5%      |
 | 2009 | 2         | 5%      |
 | 2008 | 2         | 5%      |
-| 2017 | 1         | 2.5%    |
 | 2016 | 1         | 2.5%    |
+| 2015 | 1         | 2.5%    |
 | 2014 | 1         | 2.5%    |
 
 Form Factor
@@ -1362,7 +1362,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO1136 2560x1440 310x170mm 13.9-inch        | 1         | 2.78%   |
 | ASUSTek Computer VG259 AUS25A6 1920x1080 540x300mm 24.3-inch          | 1         | 2.78%   |
 | Apple Color LCD APPA02E 2880x1800 330x210mm 15.4-inch                 | 1         | 2.78%   |
-| AOC 24G2W1G3- AOC2402 1920x1080 530x300mm 24.0-inch                   | 1         | 2.78%   |
+| AOC 24B2W1G5 AOC2402 1920x1080 530x300mm 24.0-inch                    | 1         | 2.78%   |
 | Ancor Communications ASUS VH222 ACI22AB 1920x1080 470x260mm 21.1-inch | 1         | 2.78%   |
 
 Monitor Resolution
@@ -1799,7 +1799,7 @@ Sound card models
 |---------------------------------------------------------------------------------------------------|-----------|---------|
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 4         | 6.06%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 4         | 6.06%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 4         | 6.06%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 4         | 6.06%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 3         | 4.55%   |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 3         | 4.55%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 3         | 4.55%   |
@@ -1884,7 +1884,7 @@ Memory module models
 | Unknown                                                          | 2         | 4%      |
 | Unknown RAM Module 4GB DIMM DDR3 1333MT/s                        | 1         | 2%      |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2%      |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 2%      |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2%      |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2%      |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2%      |
@@ -1959,11 +1959,11 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 4096  | 18        | 40.91%  |
-| 8192  | 14        | 31.82%  |
-| 16384 | 5         | 11.36%  |
-| 2048  | 5         | 11.36%  |
-| 32768 | 2         | 4.55%   |
+| 4096  | 18        | 40%     |
+| 16384 | 10        | 22.22%  |
+| 8192  | 10        | 22.22%  |
+| 2048  | 5         | 11.11%  |
+| 32768 | 2         | 4.44%   |
 
 Memory Speed
 ------------

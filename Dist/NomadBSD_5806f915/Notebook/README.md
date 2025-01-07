@@ -419,15 +419,15 @@ Motherboard manufacture year
 | 2021 | 5         | 15.63%  |
 | 2019 | 5         | 15.63%  |
 | 2017 | 4         | 12.5%   |
-| 2012 | 3         | 9.38%   |
 | 2008 | 3         | 9.38%   |
 | 2022 | 2         | 6.25%   |
 | 2020 | 2         | 6.25%   |
 | 2018 | 2         | 6.25%   |
+| 2012 | 2         | 6.25%   |
+| 2011 | 2         | 6.25%   |
 | 2009 | 2         | 6.25%   |
 | 2015 | 1         | 3.13%   |
 | 2014 | 1         | 3.13%   |
-| 2011 | 1         | 3.13%   |
 | 2006 | 1         | 3.13%   |
 
 Form Factor
@@ -1706,7 +1706,7 @@ Sound card models
 | AMD FCH Azalia Controller                                           | 4         | 8.33%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller | 3         | 6.25%   |
 | AMD Kabini HDMI/DP Audio                                            | 3         | 6.25%   |
-| AMD Family 17h/19h HD Audio Controller                              | 3         | 6.25%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                          | 3         | 6.25%   |
 | Intel Cannon Point-LP High Definition Audio Controller              | 2         | 4.17%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                      | 2         | 4.17%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                      | 2         | 4.17%   |
@@ -1770,7 +1770,7 @@ Memory module models
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s         | 1         | 2.38%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s              | 1         | 2.38%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s     | 1         | 2.38%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s      | 1         | 2.38%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s     | 1         | 2.38%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s      | 1         | 2.38%   |
 | SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s      | 1         | 2.38%   |
 | SK hynix RAM HMT451S6CFR6A-PB 4GB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |

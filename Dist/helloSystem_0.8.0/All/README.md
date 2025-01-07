@@ -747,21 +747,21 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2020    | 25        | 9.84%   |
+| 2020    | 24        | 9.45%   |
 | 2019    | 24        | 9.45%   |
 | 2022    | 23        | 9.06%   |
 | 2018    | 22        | 8.66%   |
-| 2013    | 19        | 7.48%   |
-| 2012    | 19        | 7.48%   |
+| 2013    | 20        | 7.87%   |
+| 2012    | 18        | 7.09%   |
 | 2011    | 18        | 7.09%   |
 | 2021    | 17        | 6.69%   |
-| 2015    | 16        | 6.3%    |
+| 2015    | 15        | 5.91%   |
 | 2014    | 14        | 5.51%   |
 | 2010    | 14        | 5.51%   |
-| 2017    | 12        | 4.72%   |
+| 2017    | 13        | 5.12%   |
 | 2016    | 12        | 4.72%   |
 | 2009    | 8         | 3.15%   |
-| 2008    | 6         | 2.36%   |
+| 2008    | 7         | 2.76%   |
 | 2023    | 2         | 0.79%   |
 | 2007    | 2         | 0.79%   |
 | Unknown | 1         | 0.39%   |
@@ -1224,8 +1224,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 171       | 229    | 70.66%  |
-| 0.51-1.0   | 48        | 55     | 19.83%  |
+| 0.01-0.5   | 170       | 228    | 70.25%  |
+| 0.51-1.0   | 49        | 56     | 20.25%  |
 | 1.01-2.0   | 16        | 26     | 6.61%   |
 | 3.01-4.0   | 4         | 5      | 1.65%   |
 | 4.01-10.0  | 2         | 2      | 0.83%   |
@@ -1500,7 +1500,7 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                          | 4         | 1.1%    |
 | Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                          | 4         | 1.1%    |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 4         | 1.1%    |
-| AMD FCH SATA Controller D                                                               | 4         | 1.1%    |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                            | 4         | 1.1%    |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 3         | 0.82%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                             | 3         | 0.82%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 3         | 0.82%   |
@@ -1783,7 +1783,7 @@ Graphics card models
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller       | 3         | 1.02%   |
 | Intel Alder Lake-P GT2 [Iris Xe Graphics]                                     | 3         | 1.02%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller     | 3         | 1.02%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                 | 3         | 1.02%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                   | 3         | 1.02%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]          | 3         | 1.02%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                  | 3         | 1.02%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                               | 2         | 0.68%   |
@@ -1941,7 +1941,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SDC4C46 3840x2160 340x190mm 15.3-inch | 1         | 0.66%   |
 | Samsung Electronics LCD Monitor SDC4244 2160x1440 250x170mm 11.9-inch | 1         | 0.66%   |
 | Samsung Electronics LCD Monitor SAM0C26 1920x1080 700x390mm 31.5-inch | 1         | 0.66%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch | 1         | 0.66%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch | 1         | 0.66%   |
 | RS LM-1702 BTC1702 1280x1024 340x270mm 17.1-inch                      | 1         | 0.66%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch               | 1         | 0.66%   |
 | Philips LCD Monitor PHL0868 1680x1050 470x290mm 21.7-inch             | 1         | 0.66%   |
@@ -1949,7 +1949,7 @@ Monitor models
 | Philips 237EQPH PHLC091 1920x1080 510x290mm 23.1-inch                 | 1         | 0.66%   |
 | Nvidia LCD Monitor NVD0200 1920x1080 320x180mm 14.5-inch              | 1         | 0.66%   |
 | NEC Computers LCD175VXM+ NEC66C0 1280x1024 340x270mm 17.1-inch        | 1         | 0.66%   |
-| MSI MAG342CQRV MSI3DB6 3440x1440 790x330mm 33.7-inch                  | 1         | 0.66%   |
+| MSI MAG342CQR MSI3DB6 3440x1440 790x330mm 33.7-inch                   | 1         | 0.66%   |
 | LG Philips LCD Monitor LPLE300 1280x800 330x210mm 15.4-inch           | 1         | 0.66%   |
 | LG Electronics LCD Monitor LG TV 1920x1080                            | 1         | 0.66%   |
 
@@ -2068,14 +2068,14 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 91-100         | 33        | 22%     |
+| 91-100         | 32        | 21.33%  |
 | 201-250        | 25        | 16.67%  |
 | 81-90          | 18        | 12%     |
 | 351-500        | 11        | 7.33%   |
 | Unknown        | 11        | 7.33%   |
 | 61-70          | 8         | 5.33%   |
 | 151-200        | 8         | 5.33%   |
-| 101-110        | 7         | 4.67%   |
+| 101-110        | 8         | 5.33%   |
 | 301-350        | 6         | 4%      |
 | 71-80          | 5         | 3.33%   |
 | 141-150        | 5         | 3.33%   |
@@ -2356,7 +2356,7 @@ Ethernet models
 | Qualcomm Atheros AR8162 Fast Ethernet                                          | 1         | 0.44%   |
 | Qualcomm Atheros AR8161 Gigabit Ethernet                                       | 1         | 0.44%   |
 | Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1         | 0.44%   |
-| OPPO WAIPIO-MTP _SN:2EE444D0 RNDIS Control RNDIS Ethernet Data                 | 1         | 0.44%   |
+| OPPO KALAMA-MTP_CID:0437_SN:B2767D06 RNDIS Control RNDIS Ethernet Data         | 1         | 0.44%   |
 | Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1         | 0.44%   |
 
 Net Controller Kind
@@ -2542,7 +2542,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 30        | 7.79%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 19        | 4.94%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 19        | 4.94%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 17        | 4.42%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 17        | 4.42%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 12        | 3.12%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 12        | 3.12%   |
 | Intel Broadwell-U Audio Controller                                         | 12        | 3.12%   |
@@ -2664,7 +2664,7 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.6%    |
 | Samsung RAM M471A5244CB0-CWE 4GB SODIMM DDR4 3200MT/s  | 2         | 0.6%    |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s  | 2         | 0.6%    |
-| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s | 2         | 0.6%    |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s  | 2         | 0.6%    |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s  | 2         | 0.6%    |
 | Samsung RAM M378B5173QH0-CK0 4GB DIMM DDR3 1600MT/s    | 2         | 0.6%    |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s  | 2         | 0.6%    |
@@ -2744,15 +2744,15 @@ Memory module speed
 | 1333    | 35        | 12.87%  |
 | 2400    | 34        | 12.5%   |
 | 3200    | 31        | 11.4%   |
-| 2667    | 26        | 9.56%   |
+| 2667    | 27        | 9.93%   |
 | 2133    | 21        | 7.72%   |
 | 800     | 11        | 4.04%   |
 | Unknown | 9         | 3.31%   |
 | 667     | 8         | 2.94%   |
 | 1334    | 6         | 2.21%   |
-| 2666    | 5         | 1.84%   |
 | 1867    | 5         | 1.84%   |
 | 1067    | 5         | 1.84%   |
+| 2666    | 4         | 1.47%   |
 | 2933    | 3         | 1.1%    |
 | 1066    | 3         | 1.1%    |
 | 2048    | 2         | 0.74%   |

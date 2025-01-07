@@ -12,9 +12,12 @@ This report is for real hardware. Report for virtual hardware: [TestDays_VE](htt
 Contents
 --------
 
-* [ FreeBSD 14.0-CURRENT ](/Dist/FreeBSD_14.0-CURRENT)
+* [ FreeBSD 15.0-CURRENT ](/Dist/FreeBSD_15.0-CURRENT)
+* [ FreeBSD 14.1 ](/Dist/FreeBSD_14.1)
+* [ FreeBSD 14.0 ](/Dist/FreeBSD_14.0)
 * [ FreeBSD 13.1 ](/Dist/FreeBSD_13.1)
 * [ FreeBSD 13.0 ](/Dist/FreeBSD_13.0)
+* [ GhostBSD 24.01.1 ](/Dist/GhostBSD_24.01.1)
 * [ GhostBSD 21.08.27 ](/Dist/GhostBSD_21.08.27)
 * [ GhostBSD 20.04.02 ](/Dist/GhostBSD_20.04.02)
 * [ helloSystem 0.8.1 ](/Dist/helloSystem_0.8.1)
@@ -27,6 +30,9 @@ Contents
 * [ NomadBSD 5806f915 ](/Dist/NomadBSD_5806f915)
 * [ NomadBSD 1.4 ](/Dist/NomadBSD_1.4)
 * [ NomadBSD 1.3.2 ](/Dist/NomadBSD_1.3.2)
+* [ OpenBSD 7.6 ](/Dist/OpenBSD_7.6)
+* [ OpenBSD 7.5 ](/Dist/OpenBSD_7.5)
+* [ OpenBSD 7.4 ](/Dist/OpenBSD_7.4)
 * [ OpenBSD 7.3 ](/Dist/OpenBSD_7.3)
 * [ OpenBSD 7.2 ](/Dist/OpenBSD_7.2)
 * [ OpenBSD 7.1 ](/Dist/OpenBSD_7.1)

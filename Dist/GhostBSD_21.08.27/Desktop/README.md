@@ -989,7 +989,7 @@ Monitor models
 | Fujitsu Siemens P24-9 TE FUS08B8 1920x1080 530x300mm 24.0-inch      | 1        | 14.29%  |
 | BenQ BL2405 BNQ8016 1920x1080 530x300mm 24.0-inch                   | 1        | 14.29%  |
 | ASUSTek Computer VG259 AUS25A6 1920x1080 540x300mm 24.3-inch        | 1        | 14.29%  |
-| AOC 24G2W1G3- AOC2402 1920x1080 530x300mm 24.0-inch                 | 1        | 14.29%  |
+| AOC 24B2W1G5 AOC2402 1920x1080 530x300mm 24.0-inch                  | 1        | 14.29%  |
 
 Monitor Resolution
 ------------------
@@ -1306,7 +1306,7 @@ Sound card models
 | AMD Starship/Matisse HD Audio Controller                                   | 1        | 5.56%   |
 | AMD Renoir Radeon High Definition Audio Controller                         | 1        | 5.56%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 5.56%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 5.56%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 5.56%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 5.56%   |
 
 Memory

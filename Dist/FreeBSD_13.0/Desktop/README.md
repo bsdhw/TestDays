@@ -234,7 +234,7 @@ Total: 110
 | ASUSTek       | TUF GAMING X570-PLUS        | [cbbf4f86cd](https://bsd-hardware.info/?probe=cbbf4f86cd) | May 03, 2021 |
 | ASUSTek       | TUF GAMING X570-PLUS        | [7fc73d2db3](https://bsd-hardware.info/?probe=7fc73d2db3) | May 03, 2021 |
 | ASUSTek       | Z97-K                       | [d8ecc7077a](https://bsd-hardware.info/?probe=d8ecc7077a) | May 02, 2021 |
-| GVC           | DR 738                      | [9ff0fb7df4](https://bsd-hardware.info/?probe=9ff0fb7df4) | May 01, 2021 |
+| Unknown       | Unknown                     | [9ff0fb7df4](https://bsd-hardware.info/?probe=9ff0fb7df4) | May 01, 2021 |
 | Gigabyte      | H81M-S2PV                   | [2713d38658](https://bsd-hardware.info/?probe=2713d38658) | May 01, 2021 |
 | Beckhoff A... | CB3056 G4                   | [120665d4d3](https://bsd-hardware.info/?probe=120665d4d3) | Apr 30, 2021 |
 | Dell          | 0FJ030                      | [91418a4965](https://bsd-hardware.info/?probe=91418a4965) | Apr 30, 2021 |
@@ -410,14 +410,13 @@ Motherboard manufacturer
 | Dell                | 5        | 6.41%   |
 | Hewlett-Packard     | 4        | 5.13%   |
 | Beckhoff Automation | 3        | 3.85%   |
+| Unknown             | 3        | 3.85%   |
 | Shuttle             | 2        | 2.56%   |
-| Unknown             | 2        | 2.56%   |
 | Wistron             | 1        | 1.28%   |
 | Supermicro          | 1        | 1.28%   |
 | Pegatron            | 1        | 1.28%   |
 | Medion              | 1        | 1.28%   |
 | Huanan              | 1        | 1.28%   |
-| GVC                 | 1        | 1.28%   |
 | Fujitsu             | 1        | 1.28%   |
 | Firefly             | 1        | 1.28%   |
 | EVGA                | 1        | 1.28%   |
@@ -435,11 +434,11 @@ Motherboard model
 | Name                               | Desktops | Percent |
 |------------------------------------|----------|---------|
 | ASUS All Series                    | 3        | 3.85%   |
+| Unknown                            | 3        | 3.85%   |
 | Dell OptiPlex 7040                 | 2        | 2.56%   |
 | Beckhoff Automation Industrial PC  | 2        | 2.56%   |
 | ASUS TUF GAMING X570-PLUS          | 2        | 2.56%   |
 | ASRock B450M Pro4                  | 2        | 2.56%   |
-| Unknown                            | 2        | 2.56%   |
 | Wistron ProLiant ML110 G6          | 1        | 1.28%   |
 | Supermicro X7SPA-HF                | 1        | 1.28%   |
 | Shuttle SH87R                      | 1        | 1.28%   |
@@ -457,7 +456,6 @@ Motherboard model
 | HP ProLiant MicroServer Gen8       | 1        | 1.28%   |
 | HP ProLiant MicroServer            | 1        | 1.28%   |
 | HP Compaq dc5800 Small Form Factor | 1        | 1.28%   |
-| GVC EQUIUM 3200M                   | 1        | 1.28%   |
 | Gigabyte X58A-UD5                  | 1        | 1.28%   |
 | Gigabyte X570 I AORUS PRO WIFI     | 1        | 1.28%   |
 | Gigabyte X570 AORUS ULTRA          | 1        | 1.28%   |
@@ -474,6 +472,7 @@ Motherboard model
 | Firefly roc-rk3399-pc-plus         | 1        | 1.28%   |
 | EVGA X299 FTW K                    | 1        | 1.28%   |
 | Dell Precision Tower 3620          | 1        | 1.28%   |
+| Dell OptiPlex 7010                 | 1        | 1.28%   |
 
 Model Family
 ------------
@@ -489,6 +488,7 @@ Motherboard model prefix
 | ASUS TUF                       | 3        | 3.85%   |
 | ASUS ROG                       | 3        | 3.85%   |
 | ASUS All                       | 3        | 3.85%   |
+| Unknown                        | 3        | 3.85%   |
 | HP ProLiant                    | 2        | 2.56%   |
 | Gigabyte X570                  | 2        | 2.56%   |
 | Beckhoff Automation Industrial | 2        | 2.56%   |
@@ -496,7 +496,6 @@ Motherboard model prefix
 | ASUS P5K                       | 2        | 2.56%   |
 | ASRock X570                    | 2        | 2.56%   |
 | ASRock B450M                   | 2        | 2.56%   |
-| Unknown                        | 2        | 2.56%   |
 | Wistron ProLiant               | 1        | 1.28%   |
 | Supermicro X7SPA-HF            | 1        | 1.28%   |
 | Shuttle SH87R                  | 1        | 1.28%   |
@@ -512,7 +511,6 @@ Motherboard model prefix
 | Huanan X99-F8D                 | 1        | 1.28%   |
 | HP Z220                        | 1        | 1.28%   |
 | HP Compaq                      | 1        | 1.28%   |
-| GVC EQUIUM                     | 1        | 1.28%   |
 | Gigabyte X58A-UD5              | 1        | 1.28%   |
 | Gigabyte X470                  | 1        | 1.28%   |
 | Gigabyte OFFICEPRO             | 1        | 1.28%   |
@@ -525,6 +523,7 @@ Motherboard model prefix
 | Gigabyte A320M-S2H             | 1        | 1.28%   |
 | Fujitsu D3417-B2               | 1        | 1.28%   |
 | Firefly roc-rk3399-pc-plus     | 1        | 1.28%   |
+| EVGA X299                      | 1        | 1.28%   |
 
 MFG Year
 --------
@@ -536,19 +535,19 @@ Motherboard manufacture year
 
 | Year    | Desktops | Percent |
 |---------|----------|---------|
-| 2018    | 11       | 14.1%   |
-| 2020    | 10       | 12.82%  |
+| 2018    | 10       | 12.82%  |
+| 2020    | 9        | 11.54%  |
 | 2021    | 7        | 8.97%   |
 | 2019    | 6        | 7.69%   |
-| 2015    | 5        | 6.41%   |
-| 2013    | 5        | 6.41%   |
+| 2013    | 6        | 7.69%   |
+| 2008    | 6        | 7.69%   |
 | 2012    | 5        | 6.41%   |
-| 2011    | 5        | 6.41%   |
-| 2008    | 5        | 6.41%   |
 | 2017    | 4        | 5.13%   |
 | 2016    | 4        | 5.13%   |
-| 2014    | 3        | 3.85%   |
-| 2010    | 2        | 2.56%   |
+| 2014    | 4        | 5.13%   |
+| 2011    | 4        | 5.13%   |
+| 2010    | 4        | 5.13%   |
+| 2015    | 3        | 3.85%   |
 | 2009    | 2        | 2.56%   |
 | 2006    | 2        | 2.56%   |
 | 2005    | 1        | 1.28%   |
@@ -1180,8 +1179,8 @@ Storage controller models
 | ADATA XPG SX8200 Pro PCIe Gen3x4 M.2 2280 Solid State Drive                    | 2        | 1.44%   |
 | Silicon Integrated Systems [SiS] RAID bus controller 180 SATA/PATA  [SiS]      | 1        | 0.72%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1        | 0.72%   |
-| Seagate FireCuda 530 SSD                                                       | 1        | 0.72%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1        | 0.72%   |
+| Seagate E18 PCIe SSD                                                           | 1        | 0.72%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 1        | 0.72%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 0.72%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1        | 0.72%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 0.72%   |
@@ -1190,7 +1189,7 @@ Storage controller models
 | Marvell Group 88SE9123 PCIe SATA 6.0 Gb/s controller                           | 1        | 0.72%   |
 | Marvell Group 88SE6101/6102 single-port PATA133 interface                      | 1        | 0.72%   |
 | Lite-On M8Pe Series NVMe SSD                                                   | 1        | 0.72%   |
-| Kingston Company DC1000B NVMe SSD E12DC                                        | 1        | 0.72%   |
+| Kingston Company DC1000B NVMe SSD [E12DC]                                      | 1        | 0.72%   |
 
 Storage Kind
 ------------
@@ -2067,7 +2066,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                                       | 5        | 4.2%    |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                                       | 5        | 4.2%    |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                           | 5        | 4.2%    |
-| AMD Family 17h/19h HD Audio Controller                                                                    | 4        | 3.36%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                                | 4        | 3.36%   |
 | Nvidia High Definition Audio Controller                                                                   | 3        | 2.52%   |
 | Nvidia GP108 High Definition Audio Controller                                                             | 3        | 2.52%   |
 | Nvidia GF119 HDMI Audio Controller                                                                        | 3        | 2.52%   |
@@ -2169,7 +2168,7 @@ Memory module models
 | Samsung RAM M393A2G40EB1-CPB 16GB DIMM DDR4 2133MT/s    | 1        | 1.22%   |
 | Samsung RAM M391A4G43MB1-CTD 32GB DIMM DDR4 3200MT/s    | 1        | 1.22%   |
 | Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s     | 1        | 1.22%   |
-| Samsung RAM M378B5273CH0-CH9 4096MB DIMM DDR3 1333MT/s  | 1        | 1.22%   |
+| Samsung RAM M378B5273CH0-CH9 4GB DIMM DDR3 1333MT/s     | 1        | 1.22%   |
 | Samsung RAM M378A1K43BB1-CPB 8GB DIMM DDR4 3000MT/s     | 1        | 1.22%   |
 | Micron RAM 8ATF51264AZ-2G1A2 4GB DIMM DDR4 2133MT/s     | 1        | 1.22%   |
 | Micron RAM 8ATF1G64AZ-3G2J1 8GB DIMM DDR4 3200MT/s      | 1        | 1.22%   |
@@ -2240,9 +2239,9 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 18       | 23.68%  |
+| 1600    | 17       | 22.37%  |
 | 3200    | 12       | 15.79%  |
-| 1333    | 8        | 10.53%  |
+| 1333    | 9        | 11.84%  |
 | 800     | 7        | 9.21%   |
 | 2400    | 6        | 7.89%   |
 | 2133    | 6        | 7.89%   |
@@ -2252,8 +2251,8 @@ Memory module speed
 | 400     | 2        | 2.63%   |
 | 3600    | 1        | 1.32%   |
 | 2666    | 1        | 1.32%   |
+| 1866    | 1        | 1.32%   |
 | 1332    | 1        | 1.32%   |
-| 1067    | 1        | 1.32%   |
 | 667     | 1        | 1.32%   |
 | 533     | 1        | 1.32%   |
 | Unknown | 1        | 1.32%   |

@@ -811,7 +811,7 @@ Hard drive models
 |-------------------------------------|-----------|---------|
 | Intel SSDSC2BW480H6 480GB           | 5         | 4.63%   |
 | SanDisk SSD PLUS 120GB              | 2         | 1.85%   |
-| SanDisk Extreme SSD 500GB           | 2         | 1.85%   |
+| SanDisk Extreme SSD 1TB             | 2         | 1.85%   |
 | Samsung SSD 840 EVO 250GB           | 2         | 1.85%   |
 | NVMe Samsung SSD 980 1TB            | 2         | 1.85%   |
 | NVMe SAMSUNG MZVLW256 256GB         | 2         | 1.85%   |
@@ -831,7 +831,7 @@ Hard drive models
 | Union Memory RTOTJ128VGD2EYX 128GB  | 1         | 0.93%   |
 | Toshiba MK8007GAH 80GB              | 1         | 0.93%   |
 | Toshiba KSG60ZMV256G M.2 2280 256GB | 1         | 0.93%   |
-| SMI USB DISK 18302PB                | 1         | 0.93%   |
+| SMI USB DISK 16GB                   | 1         | 0.93%   |
 | Seagate USB 480GB                   | 1         | 0.93%   |
 | Seagate ST9160821A 160GB            | 1         | 0.93%   |
 | Seagate ST500LM012 HN-M500MBB 500GB | 1         | 0.93%   |
@@ -842,7 +842,7 @@ Hard drive models
 | Seagate ST320011A 20GB              | 1         | 0.93%   |
 | SanDisk X400 M.2 2280 512GB         | 1         | 0.93%   |
 | SanDisk SSD PLUS 240GB              | 1         | 0.93%   |
-| SanDisk Cruzer Blade 64GB           | 1         | 0.93%   |
+| SanDisk Cruzer Blade 16GB           | 1         | 0.93%   |
 | Samsung SSD 870 QVO 2TB             | 1         | 0.93%   |
 | Samsung SSD 870 EVO 500GB           | 1         | 0.93%   |
 | Samsung SSD 870 EVO 250GB           | 1         | 0.93%   |
@@ -939,13 +939,12 @@ Size of hard drive
 ![Drive Size](./All/images/pie_chart_bsd/drive_size.svg)
 
 
-| Size in TB      | Computers | Drives | Percent |
-|-----------------|-----------|--------|---------|
-| 0.01-0.5        | 63        | 89     | 75%     |
-| 0.51-1.0        | 12        | 13     | 14.29%  |
-| 1.01-2.0        | 7         | 17     | 8.33%   |
-| More than 100.0 | 1         | 1      | 1.19%   |
-| 4.01-10.0       | 1         | 1      | 1.19%   |
+| Size in TB | Computers | Drives | Percent |
+|------------|-----------|--------|---------|
+| 0.01-0.5   | 63        | 90     | 75%     |
+| 0.51-1.0   | 13        | 14     | 15.48%  |
+| 1.01-2.0   | 7         | 16     | 8.33%   |
+| 4.01-10.0  | 1         | 1      | 1.19%   |
 
 Space Total
 -----------
@@ -1145,9 +1144,9 @@ Storage controller models
 | Phison E16 PCIe4 NVMe Controller                                              | 1         | 1.01%   |
 | Nvidia CK804 Serial ATA Controller                                            | 1         | 1.01%   |
 | Nvidia CK804 IDE                                                              | 1         | 1.01%   |
-| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                            | 1         | 1.01%   |
-| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                            | 1         | 1.01%   |
-| Kingston Company NV1 NVMe SSD E13T (DRAM-less)                                | 1         | 1.01%   |
+| Kingston Company NV2 NVMe SSD [SM2267XT] (DRAM-less)                          | 1         | 1.01%   |
+| Kingston Company NV1 NVMe SSD [SM2263XT] (DRAM-less)                          | 1         | 1.01%   |
+| Kingston Company NV1 NVMe SSD [E13T] (DRAM-less)                              | 1         | 1.01%   |
 | Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                    | 1         | 1.01%   |
 | Intel Tiger Lake-LP SATA Controller                                           | 1         | 1.01%   |
 | Intel SSD 670p Series [Keystone Harbor]                                       | 1         | 1.01%   |
@@ -1405,7 +1404,7 @@ Graphics card models
 | Intel Core Processor Integrated Graphics Controller                           | 4         | 4.65%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 3         | 3.49%   |
 | Intel HD Graphics 5500                                                        | 3         | 3.49%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                 | 3         | 3.49%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                   | 3         | 3.49%   |
 | Nvidia GK208B [GeForce GT 710]                                                | 2         | 2.33%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 2.33%   |
 | Intel Mobile 915GM/GMS/910GML Express Graphics Controller                     | 2         | 2.33%   |
@@ -1566,7 +1565,7 @@ Monitor models
 | ASUSTek Computer PA279 AUS2768 3840x2160 600x340mm 27.2-inch          | 1         | 2.33%   |
 | Apple Color LCD APPA010 1366x768 260x140mm 11.6-inch                  | 1         | 2.33%   |
 | Apple Color LCD APP9CDF 1440x900 290x180mm 13.4-inch                  | 1         | 2.33%   |
-| AOC Q27P2W AOC2702 2560x1440 600x340mm 27.2-inch                      | 1         | 2.33%   |
+| AOC Q27G2WG4 AOC2702 2560x1440 600x340mm 27.2-inch                    | 1         | 2.33%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1         | 2.33%   |
 
 Monitor Resolution
@@ -2052,7 +2051,7 @@ Sound card models
 |----------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP HD Audio                                            | 8         | 8.6%    |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 7.53%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 7         | 7.53%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 7         | 7.53%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 6         | 6.45%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 5         | 5.38%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 5         | 5.38%   |
@@ -2145,7 +2144,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s    | 1         | 2.38%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s   | 1         | 2.38%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s   | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 2.38%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s   | 1         | 2.38%   |

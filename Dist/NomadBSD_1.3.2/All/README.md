@@ -1925,7 +1925,7 @@ Sound card models
 | C-Media Electronics Audio Adapter                                                                 | 1         | 1.39%   |
 | Blue Microphones Yeti Stereo Microphone                                                           | 1         | 1.39%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 1         | 1.39%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 1         | 1.39%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 1         | 1.39%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1         | 1.39%   |
 
 Memory
@@ -1982,7 +1982,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 1.64%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 1.64%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 1.64%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
@@ -2049,10 +2049,10 @@ Memory module size
 | Size  | Computers | Percent |
 |-------|-----------|---------|
 | 4096  | 19        | 32.76%  |
-| 8192  | 17        | 29.31%  |
+| 8192  | 16        | 27.59%  |
 | 2048  | 9         | 15.52%  |
 | 1024  | 6         | 10.34%  |
-| 16384 | 4         | 6.9%    |
+| 16384 | 5         | 8.62%   |
 | 32768 | 1         | 1.72%   |
 | 512   | 1         | 1.72%   |
 | 128   | 1         | 1.72%   |

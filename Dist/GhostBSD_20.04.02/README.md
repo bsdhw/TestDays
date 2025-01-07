@@ -561,20 +561,19 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2020 | 17        | 15.6%   |
+| 2020 | 18        | 16.51%  |
 | 2018 | 14        | 12.84%  |
 | 2013 | 12        | 11.01%  |
 | 2014 | 10        | 9.17%   |
-| 2012 | 10        | 9.17%   |
 | 2019 | 9         | 8.26%   |
+| 2012 | 9         | 8.26%   |
 | 2017 | 8         | 7.34%   |
 | 2015 | 7         | 6.42%   |
-| 2011 | 6         | 5.5%    |
+| 2011 | 7         | 6.42%   |
 | 2009 | 5         | 4.59%   |
 | 2008 | 4         | 3.67%   |
 | 2010 | 3         | 2.75%   |
 | 2016 | 2         | 1.83%   |
-| 2021 | 1         | 0.92%   |
 | 2007 | 1         | 0.92%   |
 
 Form Factor
@@ -1200,13 +1199,13 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2         | 1.32%   |
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 2         | 1.32%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                                       | 2         | 1.32%   |
-| AMD FCH SATA Controller D                                                               | 2         | 1.32%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                            | 2         | 1.32%   |
 | Toshiba XG5 NVMe SSD Controller                                                         | 1         | 0.66%   |
 | Toshiba XG4 NVMe SSD Controller                                                         | 1         | 0.66%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1         | 0.66%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1         | 0.66%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1         | 0.66%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1         | 0.66%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)               | 1         | 0.66%   |
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                                   | 1         | 0.66%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1         | 0.66%   |
 | Samsung NVMe SSD Controller SM951/PM951                                                 | 1         | 0.66%   |
@@ -1601,14 +1600,14 @@ Monitor models
 | Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch     | 1         | 0.94%   |
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 300x170mm 13.6-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3047 1366x768 280x160mm 12.7-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM0DF7 3840x2160 1020x570mm 46.0-inch | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch  | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch  | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SAM02A4 1360x768                       | 1         | 0.94%   |
 | Pixio PX247 PNS0247 1920x1080 520x310mm 23.8-inch                      | 1         | 0.94%   |
 | Philips PHL BDM4065 PHL08E1 3840x2160 880x490mm 39.7-inch              | 1         | 0.94%   |
@@ -2159,7 +2158,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                                    | 9         | 4.95%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                                   | 8         | 4.4%    |
 | AMD Starship/Matisse HD Audio Controller                                              | 7         | 3.85%   |
-| AMD Family 17h/19h HD Audio Controller                                                | 7         | 3.85%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                            | 7         | 3.85%   |
 | AMD FCH Azalia Controller                                                             | 6         | 3.3%    |
 | Nvidia GK107 HDMI Audio Controller                                                    | 5         | 2.75%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                   | 5         | 2.75%   |
@@ -2242,7 +2241,7 @@ Memory module models
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 2.19%   |
 | G.Skill RAM F4-3200C16-8GVKB 8GB DIMM DDR4 3200MT/s              | 3         | 2.19%   |
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |
@@ -2258,7 +2257,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 0.73%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 0.73%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 0.73%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 0.73%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 0.73%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 0.73%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 0.73%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 0.73%   |
@@ -2321,12 +2320,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 51        | 42.86%  |
-| 4096  | 44        | 36.97%  |
-| 16384 | 12        | 10.08%  |
-| 2048  | 10        | 8.4%    |
-| 32768 | 1         | 0.84%   |
-| 1024  | 1         | 0.84%   |
+| 8192  | 48        | 40.68%  |
+| 4096  | 44        | 37.29%  |
+| 16384 | 14        | 11.86%  |
+| 2048  | 10        | 8.47%   |
+| 32768 | 1         | 0.85%   |
+| 1024  | 1         | 0.85%   |
 
 Memory Speed
 ------------
@@ -2338,22 +2337,23 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 40        | 33.61%  |
-| 2400    | 19        | 15.97%  |
-| 2667    | 13        | 10.92%  |
-| 3200    | 9         | 7.56%   |
-| 1333    | 9         | 7.56%   |
-| 2133    | 7         | 5.88%   |
-| 1334    | 6         | 5.04%   |
-| 1067    | 4         | 3.36%   |
-| 800     | 4         | 3.36%   |
-| Unknown | 2         | 1.68%   |
-| 3600    | 1         | 0.84%   |
-| 3066    | 1         | 0.84%   |
-| 2933    | 1         | 0.84%   |
-| 2666    | 1         | 0.84%   |
-| 1867    | 1         | 0.84%   |
-| 667     | 1         | 0.84%   |
+| 1600    | 39        | 32.5%   |
+| 2400    | 19        | 15.83%  |
+| 2667    | 13        | 10.83%  |
+| 3200    | 10        | 8.33%   |
+| 1333    | 9         | 7.5%    |
+| 2133    | 7         | 5.83%   |
+| 1334    | 6         | 5%      |
+| 1067    | 4         | 3.33%   |
+| 800     | 4         | 3.33%   |
+| Unknown | 2         | 1.67%   |
+| 3600    | 1         | 0.83%   |
+| 3066    | 1         | 0.83%   |
+| 2933    | 1         | 0.83%   |
+| 2666    | 1         | 0.83%   |
+| 1867    | 1         | 0.83%   |
+| 1866    | 1         | 0.83%   |
+| 667     | 1         | 0.83%   |
 
 Printers & scanners
 -------------------

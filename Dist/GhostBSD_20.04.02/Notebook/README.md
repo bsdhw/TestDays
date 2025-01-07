@@ -472,11 +472,11 @@ Motherboard manufacture year
 | 2013 | 9         | 15.52%  |
 | 2014 | 7         | 12.07%  |
 | 2017 | 6         | 10.34%  |
-| 2011 | 5         | 8.62%   |
+| 2011 | 6         | 10.34%  |
 | 2015 | 4         | 6.9%    |
-| 2012 | 4         | 6.9%    |
 | 2009 | 4         | 6.9%    |
 | 2019 | 3         | 5.17%   |
+| 2012 | 3         | 5.17%   |
 | 2018 | 2         | 3.45%   |
 | 2010 | 2         | 3.45%   |
 | 2016 | 1         | 1.72%   |
@@ -1374,7 +1374,7 @@ Monitor models
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 470x300mm 22.0-inch | 1         | 1.89%   |
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch | 1         | 1.89%   |
-| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
+| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 300x170mm 13.6-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch | 1         | 1.89%   |
@@ -1863,7 +1863,7 @@ Sound card models
 | Intel Sunrise Point-LP HD Audio                                            | 8         | 10%     |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 8.75%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 4         | 5%      |
-| AMD Family 17h/19h HD Audio Controller                                     | 4         | 5%      |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 4         | 5%      |
 | Nvidia MCP79 High Definition Audio                                         | 3         | 3.75%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 3.75%   |
 | Intel Broadwell-U Audio Controller                                         | 3         | 3.75%   |
@@ -1931,7 +1931,7 @@ Memory module models
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s           | 4         | 5.13%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 4         | 5.13%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 3         | 3.85%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
 | Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 2.56%   |
@@ -1941,7 +1941,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR2 800MT/s                       | 1         | 1.28%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 1.28%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 1.28%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 1.28%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 1.28%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 1.28%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 1.28%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 1.28%   |
@@ -2009,8 +2009,8 @@ Memory module size
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
 | 4096  | 32        | 47.76%  |
-| 8192  | 26        | 38.81%  |
-| 16384 | 4         | 5.97%   |
+| 8192  | 24        | 35.82%  |
+| 16384 | 6         | 8.96%   |
 | 2048  | 4         | 5.97%   |
 | 1024  | 1         | 1.49%   |
 
@@ -2024,15 +2024,16 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 25        | 39.06%  |
-| 2400    | 10        | 15.63%  |
-| 2667    | 9         | 14.06%  |
-| 1334    | 6         | 9.38%   |
-| 1333    | 4         | 6.25%   |
-| 2133    | 3         | 4.69%   |
-| 1067    | 3         | 4.69%   |
-| 800     | 2         | 3.13%   |
-| Unknown | 2         | 3.13%   |
+| 1600    | 25        | 38.46%  |
+| 2400    | 10        | 15.38%  |
+| 2667    | 9         | 13.85%  |
+| 1334    | 6         | 9.23%   |
+| 1333    | 4         | 6.15%   |
+| 2133    | 3         | 4.62%   |
+| 1067    | 3         | 4.62%   |
+| 800     | 2         | 3.08%   |
+| Unknown | 2         | 3.08%   |
+| 3200    | 1         | 1.54%   |
 
 Printers & scanners
 -------------------

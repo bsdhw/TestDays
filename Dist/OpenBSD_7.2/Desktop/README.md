@@ -690,7 +690,7 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| OPENBSD SR RAID 1 2TB           | 4        | 5.13%   |
+| OPENBSD SR RAID 1 128GB         | 4        | 5.13%   |
 | NVMe Samsung SSD 980 1TB        | 4        | 5.13%   |
 | Kingston SEDC500M480G 480GB     | 2        | 2.56%   |
 | WDC WD7500AACS-00ZJB0 752GB     | 1        | 1.28%   |
@@ -722,7 +722,7 @@ Hard drive models
 | Seagate BUP Portable 5TB        | 1        | 1.28%   |
 | SanDisk Ultra Fit 128GB         | 1        | 1.28%   |
 | SanDisk Gaming Xbox 360 8GB     | 1        | 1.28%   |
-| SanDisk Cruzer Blade 64GB       | 1        | 1.28%   |
+| SanDisk Cruzer Blade 16GB       | 1        | 1.28%   |
 | Samsung SSD 870 QVO 2TB         | 1        | 1.28%   |
 | Samsung SSD 860 EVO M.2 1TB     | 1        | 1.28%   |
 | Samsung SSD 860 EVO 1TB         | 1        | 1.28%   |
@@ -811,11 +811,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 23       | 32     | 41.07%  |
-| 0.51-1.0   | 16       | 22     | 28.57%  |
-| 1.01-2.0   | 8        | 28     | 14.29%  |
-| 4.01-10.0  | 5        | 13     | 8.93%   |
-| 3.01-4.0   | 4        | 6      | 7.14%   |
+| 0.01-0.5   | 24       | 37     | 43.64%  |
+| 0.51-1.0   | 16       | 22     | 29.09%  |
+| 1.01-2.0   | 6        | 23     | 10.91%  |
+| 4.01-10.0  | 5        | 13     | 9.09%   |
+| 3.01-4.0   | 4        | 6      | 7.27%   |
 
 Space Total
 -----------
@@ -965,7 +965,7 @@ Storage controller vendors
 | AMD                       | 12       | 24%     |
 | Samsung Electronics       | 6        | 12%     |
 | Broadcom / LSI            | 5        | 10%     |
-| Sandisk                   | 2        | 4%      |
+| SanDisk                   | 2        | 4%      |
 | Toshiba                   | 1        | 2%      |
 | Silicon Motion            | 1        | 2%      |
 | Seagate Technology        | 1        | 2%      |
@@ -994,7 +994,7 @@ Storage controller models
 | Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                 | 1        | 2%      |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 2%      |
 | Seagate FireCuda 520/IronWolf 525 SSD                                          | 1        | 2%      |
-| Sandisk PC SN735 NVMe SSD (DRAM-less)                                          | 1        | 2%      |
+| Sandisk PC SN735 / WD_BLACK SN750 SE NVMe SSD (DRAM-less)                      | 1        | 2%      |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1        | 2%      |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1        | 2%      |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                    | 1        | 2%      |
@@ -1802,7 +1802,7 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]           | 1        | 2.04%   |
 | AMD Navi 10 HDMI Audio                                                            | 1        | 2.04%   |
 | AMD Kabini HDMI/DP Audio                                                          | 1        | 2.04%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 1        | 2.04%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                        | 1        | 2.04%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                        | 1        | 2.04%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                      | 1        | 2.04%   |
 
@@ -1944,9 +1944,9 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                   | Desktops | Percent |
-|-------------------------|----------|---------|
-| Microdia USB 2.0 Camera | 1        | 100%    |
+| Model                     | Desktops | Percent |
+|---------------------------|----------|---------|
+| Microdia USB  Live camera | 1        | 100%    |
 
 Security
 --------

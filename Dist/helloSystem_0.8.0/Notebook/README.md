@@ -595,13 +595,13 @@ Motherboard manufacture year
 | 2022    | 12        | 8.96%   |
 | 2020    | 12        | 8.96%   |
 | 2019    | 11        | 8.21%   |
-| 2012    | 11        | 8.21%   |
 | 2018    | 10        | 7.46%   |
 | 2017    | 10        | 7.46%   |
 | 2016    | 10        | 7.46%   |
-| 2015    | 9         | 6.72%   |
-| 2013    | 9         | 6.72%   |
-| 2011    | 9         | 6.72%   |
+| 2013    | 10        | 7.46%   |
+| 2012    | 10        | 7.46%   |
+| 2011    | 10        | 7.46%   |
+| 2015    | 8         | 5.97%   |
 | 2014    | 7         | 5.22%   |
 | 2010    | 7         | 5.22%   |
 | 2021    | 6         | 4.48%   |
@@ -1250,7 +1250,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                  | 2         | 1.23%   |
 | Realtek RTS5763DL NVMe SSD Controller (DRAM-less)                              | 2         | 1.23%   |
 | Micron/Crucial P2 [Nick P2] / P3 / P3 Plus NVMe PCIe SSD (DRAM-less)           | 2         | 1.23%   |
-| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                             | 2         | 1.23%   |
+| Kingston Company NV2 NVMe SSD [SM2267XT] (DRAM-less)                           | 2         | 1.23%   |
 | Intel SATA Controller [RAID mode]                                              | 2         | 1.23%   |
 | Intel Comet Lake SATA AHCI Controller                                          | 2         | 1.23%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                         | 2         | 1.23%   |
@@ -1265,7 +1265,7 @@ Storage controller models
 | SK hynix BC511 NVMe SSD                                                        | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] SATA Controller / IDE mode                    | 1         | 0.62%   |
 | Silicon Integrated Systems [SiS] 5513 IDE Controller                           | 1         | 0.62%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 1         | 0.62%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 1         | 0.62%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.62%   |
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 0.62%   |
 | Phison E18 PCIe4 NVMe Controller                                               | 1         | 0.62%   |
@@ -1509,7 +1509,7 @@ Graphics card models
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 3         | 1.75%   |
 | Intel TigerLake-H GT1 [UHD Graphics]                                                     | 3         | 1.75%   |
 | Intel Alder Lake-P GT2 [Iris Xe Graphics]                                                | 3         | 1.75%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 3         | 1.75%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 3         | 1.75%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 2         | 1.17%   |
 | Nvidia GM206GLM [Quadro M2200 Mobile]                                                    | 2         | 1.17%   |
 | Nvidia GM107GLM [Quadro M2000M]                                                          | 2         | 1.17%   |
@@ -1641,7 +1641,7 @@ Monitor models
 | Sharp LCD Monitor SHP143A 3840x2160 350x190mm 15.7-inch               | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 1.2%    |
 | Samsung Electronics LCD Monitor SDC4C46 3840x2160 340x190mm 15.3-inch | 1         | 1.2%    |
-| Samsung Electronics LCD Monitor SAM0902 1920x1080 890x500mm 40.2-inch | 1         | 1.2%    |
+| Samsung Electronics LCD Monitor SAM0902 1920x1080 700x390mm 31.5-inch | 1         | 1.2%    |
 | Nvidia LCD Monitor NVD0200 1920x1080 320x180mm 14.5-inch              | 1         | 1.2%    |
 | LG Philips LCD Monitor LPLE300 1280x800 330x210mm 15.4-inch           | 1         | 1.2%    |
 | LG Display LCD Monitor LGD06AA 3840x2400 340x210mm 15.7-inch          | 1         | 1.2%    |
@@ -1759,10 +1759,10 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 91-100         | 33        | 39.76%  |
+| 91-100         | 32        | 38.55%  |
 | 81-90          | 17        | 20.48%  |
 | 61-70          | 7         | 8.43%   |
-| 101-110        | 6         | 7.23%   |
+| 101-110        | 7         | 8.43%   |
 | 71-80          | 5         | 6.02%   |
 | 41-50          | 3         | 3.61%   |
 | 51-60          | 2         | 2.41%   |
@@ -2199,7 +2199,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                                                | 7         | 3.98%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 7         | 3.98%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 6         | 3.41%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 6         | 3.41%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 6         | 3.41%   |
 | Nvidia MCP79 High Definition Audio                                                                | 5         | 2.84%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                                       | 4         | 2.27%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 4         | 2.27%   |
@@ -2226,11 +2226,11 @@ Sound card models
 | Silicon Integrated Systems [SiS] Azalia Audio Controller                                          | 1         | 0.57%   |
 | Nvidia High Definition Audio Controller                                                           | 1         | 0.57%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 0.57%   |
+| Nvidia GA107 High Definition Audio Controller                                                     | 1         | 0.57%   |
 | Kingston Technology HyperX 7.1 Audio                                                              | 1         | 0.57%   |
 | Intel USB2.0 Device                                                                               | 1         | 0.57%   |
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 1         | 0.57%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1         | 0.57%   |
-| Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller                        | 1         | 0.57%   |
 
 Memory
 ------
@@ -2302,7 +2302,7 @@ Memory module models
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s              | 2         | 1.18%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s              | 2         | 1.18%   |
 | Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
-| Samsung RAM M471A1K43EB1-CWE 16GB SODIMM DDR4 3200MT/s             | 2         | 1.18%   |
+| Samsung RAM M471A1K43EB1-CWE 8GB SODIMM DDR4 3200MT/s              | 2         | 1.18%   |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s              | 2         | 1.18%   |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s              | 2         | 1.18%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                        | 1         | 0.59%   |
@@ -2513,7 +2513,7 @@ Camera device models
 | Realtek EasyCamera                                          | 1         | 0.97%   |
 | Realtek Acer 640 x 480 laptop camera                        | 1         | 0.97%   |
 | Microdia Webcam                                             | 1         | 0.97%   |
-| Microdia USB 2.0 Camera                                     | 1         | 0.97%   |
+| Microdia USB  Live camera                                   | 1         | 0.97%   |
 
 Security
 --------

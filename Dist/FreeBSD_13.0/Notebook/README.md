@@ -567,15 +567,15 @@ Motherboard manufacture year
 | 2020 | 15        | 13.51%  |
 | 2019 | 14        | 12.61%  |
 | 2011 | 13        | 11.71%  |
-| 2018 | 11        | 9.91%   |
+| 2018 | 10        | 9.01%   |
 | 2010 | 10        | 9.01%   |
 | 2021 | 8         | 7.21%   |
 | 2017 | 7         | 6.31%   |
 | 2015 | 6         | 5.41%   |
 | 2012 | 6         | 5.41%   |
+| 2014 | 5         | 4.5%    |
 | 2008 | 5         | 4.5%    |
 | 2016 | 4         | 3.6%    |
-| 2014 | 4         | 3.6%    |
 | 2013 | 4         | 3.6%    |
 | 2009 | 2         | 1.8%    |
 | 2022 | 1         | 0.9%    |
@@ -1184,7 +1184,7 @@ Storage controller models
 | Toshiba XG4 NVMe SSD Controller                                                  | 1         | 0.77%   |
 | Toshiba BG3 x2 NVMe SSD Controller (DRAM-less)                                   | 1         | 0.77%   |
 | SK hynix BC501 NVMe Solid State Drive                                            | 1         | 0.77%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 0.77%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)        | 1         | 0.77%   |
 | SanDisk PC SN520 x2 M.2 2230 NVMe SSD                                            | 1         | 0.77%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD             | 1         | 0.77%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                    | 1         | 0.77%   |
@@ -1450,7 +1450,7 @@ Graphics card models
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 2         | 1.41%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 2         | 1.41%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                                 | 2         | 1.41%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                            | 2         | 1.41%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 2         | 1.41%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                                          | 1         | 0.7%    |
 | Nvidia TU117GLM [Quadro T2000 Mobile / Max-Q]                                            | 1         | 0.7%    |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                               | 1         | 0.7%    |
@@ -2122,7 +2122,7 @@ Sound card models
 | Intel Broadwell-U Audio Controller                                                                | 7         | 4.55%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 7         | 4.55%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 6         | 3.9%    |
-| AMD Family 17h/19h HD Audio Controller                                                            | 6         | 3.9%    |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 6         | 3.9%    |
 | Intel Haswell-ULT HD Audio Controller                                                             | 5         | 3.25%   |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 5         | 3.25%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                                                    | 5         | 3.25%   |
@@ -2151,10 +2151,10 @@ Sound card models
 | Nvidia MCP79 High Definition Audio                                                                | 1         | 0.65%   |
 | Nvidia GF116 High Definition Audio Controller                                                     | 1         | 0.65%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 0.65%   |
+| Nvidia GA107 High Definition Audio Controller                                                     | 1         | 0.65%   |
 | Lenovo ThinkPad OneLink Pro Dock                                                                  | 1         | 0.65%   |
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 1         | 0.65%   |
 | Intel CM238 HD Audio Controller                                                                   | 1         | 0.65%   |
-| Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 1         | 0.65%   |
 
 Memory
 ------
@@ -2229,7 +2229,7 @@ Memory module models
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s    | 1         | 0.67%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s            | 1         | 0.67%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s            | 1         | 0.67%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR 975MT/s    | 1         | 0.67%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 1         | 0.67%   |
 | SK hynix RAM HMT451S6AFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1         | 0.67%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s  | 1         | 0.67%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s  | 1         | 0.67%   |
@@ -2284,12 +2284,12 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 44        | 34.11%  |
-| 8192  | 43        | 33.33%  |
-| 2048  | 20        | 15.5%   |
-| 16384 | 13        | 10.08%  |
-| 1024  | 7         | 5.43%   |
-| 32768 | 2         | 1.55%   |
+| 4096  | 44        | 33.85%  |
+| 8192  | 40        | 30.77%  |
+| 2048  | 20        | 15.38%  |
+| 16384 | 17        | 13.08%  |
+| 1024  | 7         | 5.38%   |
+| 32768 | 2         | 1.54%   |
 
 Memory Speed
 ------------

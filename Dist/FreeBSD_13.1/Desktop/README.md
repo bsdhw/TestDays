@@ -201,7 +201,7 @@ Total: 118
 | ASRock        | H110M-DGS R3.0              | [0c654b6c34](https://bsd-hardware.info/?probe=0c654b6c34) | Aug 11, 2022 |
 | Dell          | 042P49 A00                  | [a38375fa97](https://bsd-hardware.info/?probe=a38375fa97) | Aug 08, 2022 |
 | Dell          | 042P49 A00                  | [81a5e313cd](https://bsd-hardware.info/?probe=81a5e313cd) | Aug 08, 2022 |
-| GVC           | DR 738                      | [ea08102a81](https://bsd-hardware.info/?probe=ea08102a81) | Aug 06, 2022 |
+| Unknown       | Unknown                     | [ea08102a81](https://bsd-hardware.info/?probe=ea08102a81) | Aug 06, 2022 |
 | Gigabyte      | H97M-HD3                    | [4a7705414f](https://bsd-hardware.info/?probe=4a7705414f) | Aug 06, 2022 |
 | Gigabyte      | H81M-DS2                    | [5b88dea745](https://bsd-hardware.info/?probe=5b88dea745) | Aug 06, 2022 |
 | Gigabyte      | P85-D3                      | [7f077abed9](https://bsd-hardware.info/?probe=7f077abed9) | Aug 02, 2022 |
@@ -261,7 +261,7 @@ Total: 118
 | ASRockRack    | E3C242D4U2-2T               | [d35f1fb7e0](https://bsd-hardware.info/?probe=d35f1fb7e0) | May 25, 2022 |
 | Dell          | 055H3G A01                  | [cc1c76afc0](https://bsd-hardware.info/?probe=cc1c76afc0) | May 24, 2022 |
 | ASUSTek       | ROG STRIX B550-F GAMING     | [a74913bffa](https://bsd-hardware.info/?probe=a74913bffa) | May 23, 2022 |
-| GVC           | DR 738                      | [938866fb80](https://bsd-hardware.info/?probe=938866fb80) | May 21, 2022 |
+| Unknown       | Unknown                     | [938866fb80](https://bsd-hardware.info/?probe=938866fb80) | May 21, 2022 |
 | Gigabyte      | H61MA-D3V                   | [f369e09063](https://bsd-hardware.info/?probe=f369e09063) | May 19, 2022 |
 | Gigabyte      | X470 AORUS GAMING 7 WIFI... | [9c459aae41](https://bsd-hardware.info/?probe=9c459aae41) | May 19, 2022 |
 | Dell          | 0DXJD9 A01                  | [be13c9069c](https://bsd-hardware.info/?probe=be13c9069c) | May 18, 2022 |
@@ -420,9 +420,9 @@ Motherboard manufacturer
 | ASUSTek Computer    | 19       | 19.79%  |
 | Gigabyte Technology | 11       | 11.46%  |
 | Dell                | 11       | 11.46%  |
+| Unknown             | 9        | 9.38%   |
 | Hewlett-Packard     | 8        | 8.33%   |
 | ASRock              | 8        | 8.33%   |
-| Unknown             | 8        | 8.33%   |
 | MSI                 | 7        | 7.29%   |
 | Intel               | 4        | 4.17%   |
 | Acer                | 4        | 4.17%   |
@@ -436,7 +436,6 @@ Motherboard manufacturer
 | MouseComputer       | 1        | 1.04%   |
 | Lenovo              | 1        | 1.04%   |
 | Huanan              | 1        | 1.04%   |
-| GVC                 | 1        | 1.04%   |
 | Google              | 1        | 1.04%   |
 | Foxconn             | 1        | 1.04%   |
 | AMI                 | 1        | 1.04%   |
@@ -451,7 +450,7 @@ Motherboard model
 
 | Name                               | Desktops | Percent |
 |------------------------------------|----------|---------|
-| Unknown                            | 8        | 8.33%   |
+| Unknown                            | 9        | 9.38%   |
 | ASUS All Series                    | 4        | 4.17%   |
 | MSI MS-7817                        | 2        | 2.08%   |
 | Dell Precision T3600               | 2        | 2.08%   |
@@ -480,7 +479,6 @@ Motherboard model
 | HP Desktop M01-F0xxx               | 1        | 1.04%   |
 | HP Compaq Pro 6300 MT              | 1        | 1.04%   |
 | HP Compaq dc7900 Small Form Factor | 1        | 1.04%   |
-| GVC EQUIUM 3200M                   | 1        | 1.04%   |
 | Google Zako                        | 1        | 1.04%   |
 | Gigabyte Z370M D3H                 | 1        | 1.04%   |
 | Gigabyte X470 AORUS GAMING 7 WIFI  | 1        | 1.04%   |
@@ -491,6 +489,7 @@ Motherboard model
 | Gigabyte GB-BSi3-1115G4            | 1        | 1.04%   |
 | Gigabyte F2A75M-D3H                | 1        | 1.04%   |
 | Gigabyte B550M AORUS PRO-P         | 1        | 1.04%   |
+| Gigabyte B450M DS3H                | 1        | 1.04%   |
 
 Model Family
 ------------
@@ -502,7 +501,7 @@ Motherboard model prefix
 
 | Name                          | Desktops | Percent |
 |-------------------------------|----------|---------|
-| Unknown                       | 8        | 8.33%   |
+| Unknown                       | 9        | 9.38%   |
 | Dell OptiPlex                 | 7        | 7.29%   |
 | ASUS All                      | 4        | 4.17%   |
 | ASUS ROG                      | 3        | 3.13%   |
@@ -534,7 +533,6 @@ Motherboard model prefix
 | HP ProLiant                   | 1        | 1.04%   |
 | HP ProDesk                    | 1        | 1.04%   |
 | HP Desktop                    | 1        | 1.04%   |
-| GVC EQUIUM                    | 1        | 1.04%   |
 | Google Zako                   | 1        | 1.04%   |
 | Gigabyte Z370M                | 1        | 1.04%   |
 | Gigabyte X470                 | 1        | 1.04%   |
@@ -542,6 +540,7 @@ Motherboard model prefix
 | Gigabyte H97M-HD3             | 1        | 1.04%   |
 | Gigabyte H61MA-D3V            | 1        | 1.04%   |
 | Gigabyte H61M-S2V-B3          | 1        | 1.04%   |
+| Gigabyte GB-BSi3-1115G4       | 1        | 1.04%   |
 
 MFG Year
 --------
@@ -554,15 +553,15 @@ Motherboard manufacture year
 | Year    | Desktops | Percent |
 |---------|----------|---------|
 | 2020    | 13       | 13.54%  |
-| 2021    | 12       | 12.5%   |
+| 2021    | 11       | 11.46%  |
 | 2014    | 9        | 9.38%   |
 | Unknown | 9        | 9.38%   |
+| 2019    | 8        | 8.33%   |
 | 2018    | 8        | 8.33%   |
-| 2019    | 7        | 7.29%   |
 | 2013    | 7        | 7.29%   |
-| 2022    | 6        | 6.25%   |
+| 2012    | 6        | 6.25%   |
+| 2022    | 5        | 5.21%   |
 | 2016    | 5        | 5.21%   |
-| 2012    | 5        | 5.21%   |
 | 2011    | 4        | 4.17%   |
 | 2008    | 4        | 4.17%   |
 | 2017    | 3        | 3.13%   |
@@ -680,8 +679,8 @@ Has Ethernet on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 86       | 89.58%  |
-| No        | 10       | 10.42%  |
+| Yes       | 87       | 90.63%  |
+| No        | 9        | 9.38%   |
 
 Has WiFi
 --------
@@ -1201,7 +1200,7 @@ Storage controller models
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                  | 3        | 2.05%   |
 | AMD 400 Series Chipset SATA Controller                                         | 3        | 2.05%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 2        | 1.37%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                      | 2        | 1.37%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)      | 2        | 1.37%   |
 | Intel NM10/ICH7 Family SATA Controller [IDE mode]                              | 2        | 1.37%   |
 | Intel C610/X99 series chipset sSATA Controller [AHCI mode]                     | 2        | 1.37%   |
 | Intel Atom Processor E3800 Series SATA AHCI Controller                         | 2        | 1.37%   |
@@ -1618,7 +1617,7 @@ Monitor models
 | Pioneer Electronic LCD Monitor SC-1223 1920x1080                       | 1        | 1.92%   |
 | Philips PHL 240V5 PHLC10A 1920x1080 530x300mm 24.0-inch                | 1        | 1.92%   |
 | Philips PHL 223V5 PHLC0CF 1920x1080 480x270mm 21.7-inch                | 1        | 1.92%   |
-| Panasonic TV MEIA296 1920x1080 1280x720mm 57.8-inch                    | 1        | 1.92%   |
+| Panasonic TV MEIA296 3840x2160 1280x720mm 57.8-inch                    | 1        | 1.92%   |
 | Mi 27 NFGL XMIB004 1920x1080 600x330mm 27.0-inch                       | 1        | 1.92%   |
 | LG Electronics LCD Monitor LG HDR QHD 2560x1440                        | 1        | 1.92%   |
 | LG Electronics LCD Monitor 23MP55 1920x1080                            | 1        | 1.92%   |
@@ -1654,20 +1653,20 @@ Monitor screen resolution
 
 | Resolution         | Desktops | Percent |
 |--------------------|----------|---------|
-| 1920x1080 (FHD)    | 24       | 50%     |
-| 2560x1440 (QHD)    | 5        | 10.42%  |
-| 1920x1200 (WUXGA)  | 4        | 8.33%   |
-| 1280x1024 (SXGA)   | 3        | 6.25%   |
-| 3840x2160 (4K)     | 2        | 4.17%   |
-| 1680x1050 (WSXGA+) | 2        | 4.17%   |
-| 3440x1440          | 1        | 2.08%   |
-| 2560x1080          | 1        | 2.08%   |
-| 2048x1152          | 1        | 2.08%   |
-| 1920x540           | 1        | 2.08%   |
-| 1600x900 (HD+)     | 1        | 2.08%   |
-| 1366x768 (WXGA)    | 1        | 2.08%   |
-| 1024x768 (XGA)     | 1        | 2.08%   |
-| Unknown            | 1        | 2.08%   |
+| 1920x1080 (FHD)    | 24       | 48.98%  |
+| 2560x1440 (QHD)    | 5        | 10.2%   |
+| 1920x1200 (WUXGA)  | 4        | 8.16%   |
+| 3840x2160 (4K)     | 3        | 6.12%   |
+| 1280x1024 (SXGA)   | 3        | 6.12%   |
+| 1680x1050 (WSXGA+) | 2        | 4.08%   |
+| 3440x1440          | 1        | 2.04%   |
+| 2560x1080          | 1        | 2.04%   |
+| 2048x1152          | 1        | 2.04%   |
+| 1920x540           | 1        | 2.04%   |
+| 1600x900 (HD+)     | 1        | 2.04%   |
+| 1366x768 (WXGA)    | 1        | 2.04%   |
+| 1024x768 (XGA)     | 1        | 2.04%   |
+| Unknown            | 1        | 2.04%   |
 
 Monitor Diagonal
 ----------------
@@ -1936,13 +1935,13 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Intel                    | 50       | 50.51%  |
-| Realtek Semiconductor    | 44       | 44.44%  |
-| Xiaomi                   | 1        | 1.01%   |
-| Marvell Technology Group | 1        | 1.01%   |
-| D-Link System            | 1        | 1.01%   |
-| Broadcom                 | 1        | 1.01%   |
-| American Megatrends      | 1        | 1.01%   |
+| Intel                    | 50       | 50%     |
+| Realtek Semiconductor    | 45       | 45%     |
+| Xiaomi                   | 1        | 1%      |
+| Marvell Technology Group | 1        | 1%      |
+| D-Link System            | 1        | 1%      |
+| Broadcom                 | 1        | 1%      |
+| American Megatrends      | 1        | 1%      |
 
 Ethernet Model
 --------------
@@ -1954,45 +1953,45 @@ Ethernet models
 
 | Model                                                                  | Desktops | Percent |
 |------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 37       | 33.33%  |
-| Intel I211 Gigabit Network Connection                                  | 10       | 9.01%   |
-| Intel 82574L Gigabit Network Connection                                | 6        | 5.41%   |
-| Intel Ethernet Controller I225-V                                       | 5        | 4.5%    |
-| Intel Ethernet Connection (2) I219-V                                   | 5        | 4.5%    |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 5        | 4.5%    |
-| Realtek RTL8125 2.5GbE Controller                                      | 3        | 2.7%    |
-| Intel Ethernet Controller X550                                         | 3        | 2.7%    |
-| Intel Ethernet Connection I217-LM                                      | 3        | 2.7%    |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 1.8%    |
-| Intel Ethernet Connection (2) I219-LM                                  | 2        | 1.8%    |
-| Intel Ethernet Connection (2) I218-V                                   | 2        | 1.8%    |
-| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 1.8%    |
-| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 0.9%    |
-| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.9%    |
-| Realtek Killer E2500 Gigabit Ethernet Controller                       | 1        | 0.9%    |
-| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                | 1        | 0.9%    |
-| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1        | 0.9%    |
-| Intel I350 Gigabit Network Connection                                  | 1        | 0.9%    |
-| Intel I210 Gigabit Network Connection                                  | 1        | 0.9%    |
-| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 1        | 0.9%    |
-| Intel Ethernet Connection I217-V                                       | 1        | 0.9%    |
-| Intel Ethernet Connection (7) I219-V                                   | 1        | 0.9%    |
-| Intel Ethernet Connection (5) I219-LM                                  | 1        | 0.9%    |
-| Intel Ethernet Connection (17) I219-V                                  | 1        | 0.9%    |
-| Intel Ethernet Connection (13) I219-V                                  | 1        | 0.9%    |
-| Intel Ethernet Connection (11) I219-V                                  | 1        | 0.9%    |
-| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                   | 1        | 0.9%    |
-| Intel 82599 Ethernet Controller Virtual Function                       | 1        | 0.9%    |
-| Intel 82599 10 Gigabit Network Connection                              | 1        | 0.9%    |
-| Intel 82579V Gigabit Network Connection                                | 1        | 0.9%    |
-| Intel 82578DM Gigabit Network Connection                               | 1        | 0.9%    |
-| Intel 82578DC Gigabit Network Connection                               | 1        | 0.9%    |
-| Intel 82575GB Gigabit Network Connection                               | 1        | 0.9%    |
-| Intel 82575EB Gigabit Network Connection                               | 1        | 0.9%    |
-| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)             | 1        | 0.9%    |
-| D-Link System DGE-528T Gigabit Ethernet Adapter                        | 1        | 0.9%    |
-| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 1        | 0.9%    |
-| American Megatrends Virtual Ethernet                                   | 1        | 0.9%    |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller | 37       | 32.74%  |
+| Intel I211 Gigabit Network Connection                                  | 10       | 8.85%   |
+| Intel 82574L Gigabit Network Connection                                | 6        | 5.31%   |
+| Realtek RTL8125 2.5GbE Controller                                      | 5        | 4.42%   |
+| Intel Ethernet Controller I225-V                                       | 5        | 4.42%   |
+| Intel Ethernet Connection (2) I219-V                                   | 5        | 4.42%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                  | 5        | 4.42%   |
+| Intel Ethernet Controller X550                                         | 3        | 2.65%   |
+| Intel Ethernet Connection I217-LM                                      | 3        | 2.65%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                  | 2        | 1.77%   |
+| Intel Ethernet Connection (2) I219-LM                                  | 2        | 1.77%   |
+| Intel Ethernet Connection (2) I218-V                                   | 2        | 1.77%   |
+| Intel 82567LM-3 Gigabit Network Connection                             | 2        | 1.77%   |
+| Xiaomi Mi/Redmi series (RNDIS)                                         | 1        | 0.88%   |
+| Realtek RTL8169 PCI Gigabit Ethernet Controller                        | 1        | 0.88%   |
+| Realtek Killer E2500 Gigabit Ethernet Controller                       | 1        | 0.88%   |
+| Marvell Group 88E8056 PCI-E Gigabit Ethernet Controller                | 1        | 0.88%   |
+| Marvell Group 88E8001 Gigabit Ethernet Controller                      | 1        | 0.88%   |
+| Intel I350 Gigabit Network Connection                                  | 1        | 0.88%   |
+| Intel I210 Gigabit Network Connection                                  | 1        | 0.88%   |
+| Intel Ethernet Controller 10-Gigabit X540-AT2                          | 1        | 0.88%   |
+| Intel Ethernet Connection I217-V                                       | 1        | 0.88%   |
+| Intel Ethernet Connection (7) I219-V                                   | 1        | 0.88%   |
+| Intel Ethernet Connection (5) I219-LM                                  | 1        | 0.88%   |
+| Intel Ethernet Connection (17) I219-V                                  | 1        | 0.88%   |
+| Intel Ethernet Connection (13) I219-V                                  | 1        | 0.88%   |
+| Intel Ethernet Connection (11) I219-V                                  | 1        | 0.88%   |
+| Intel 82599ES 10-Gigabit SFI/SFP+ Network Connection                   | 1        | 0.88%   |
+| Intel 82599 Ethernet Controller Virtual Function                       | 1        | 0.88%   |
+| Intel 82599 10 Gigabit Network Connection                              | 1        | 0.88%   |
+| Intel 82579V Gigabit Network Connection                                | 1        | 0.88%   |
+| Intel 82578DM Gigabit Network Connection                               | 1        | 0.88%   |
+| Intel 82578DC Gigabit Network Connection                               | 1        | 0.88%   |
+| Intel 82575GB Gigabit Network Connection                               | 1        | 0.88%   |
+| Intel 82575EB Gigabit Network Connection                               | 1        | 0.88%   |
+| Intel 82571EB/82571GB Gigabit Ethernet Controller (Copper)             | 1        | 0.88%   |
+| D-Link System DGE-528T Gigabit Ethernet Adapter                        | 1        | 0.88%   |
+| Broadcom NetXtreme BCM5720 Gigabit Ethernet PCIe                       | 1        | 0.88%   |
+| American Megatrends Virtual Ethernet                                   | 1        | 0.88%   |
 
 Net Controller Kind
 -------------------
@@ -2004,10 +2003,10 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 87       | 70.73%  |
-| WiFi     | 32       | 26.02%  |
-| Unknown  | 3        | 2.44%   |
-| Modem    | 1        | 0.81%   |
+| Ethernet | 88       | 72.13%  |
+| WiFi     | 32       | 26.23%  |
+| Modem    | 1        | 0.82%   |
+| Unknown  | 1        | 0.82%   |
 
 Used Controller
 ---------------
@@ -2147,7 +2146,7 @@ Sound card models
 | Intel C600/X79 series chipset High Definition Audio Controller                    | 4        | 2.8%    |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                         | 4        | 2.8%    |
 | AMD Renoir Radeon High Definition Audio Controller                                | 4        | 2.8%    |
-| AMD Family 17h/19h HD Audio Controller                                            | 4        | 2.8%    |
+| AMD Family 17h/19h/1ah HD Audio Controller                                        | 4        | 2.8%    |
 | Nvidia GP108 High Definition Audio Controller                                     | 3        | 2.1%    |
 | Nvidia GP106 High Definition Audio Controller                                     | 3        | 2.1%    |
 | Nvidia GF108 High Definition Audio Controller                                     | 3        | 2.1%    |
@@ -2232,10 +2231,10 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 800MT/s                                 | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM 1333MT/s                                    | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM                                             | 1        | 1%      |
-| Unknown (ABCD) RAM 123456789012345678 4GB DIMM DDR4 2400MT/s            | 1        | 1%      |
+| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s          | 1        | 1%      |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1%      |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1%      |
-| Team RAM TEAMGROUP-UD4-3600 16GB DIMM DDR4 3600MT/s                     | 1        | 1%      |
+| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1%      |
 | SK hynix RAM HMT451U6DFR8A-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1        | 1%      |
@@ -2324,23 +2323,24 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1600    | 24       | 26.97%  |
-| 3200    | 12       | 13.48%  |
-| 2133    | 11       | 12.36%  |
-| 2400    | 10       | 11.24%  |
-| 1333    | 10       | 11.24%  |
-| 3600    | 4        | 4.49%   |
-| 2667    | 4        | 4.49%   |
-| 800     | 3        | 3.37%   |
-| 3000    | 2        | 2.25%   |
-| 1334    | 2        | 2.25%   |
-| 4800    | 1        | 1.12%   |
-| 3400    | 1        | 1.12%   |
-| 1067    | 1        | 1.12%   |
-| 1066    | 1        | 1.12%   |
-| 933     | 1        | 1.12%   |
-| 533     | 1        | 1.12%   |
-| Unknown | 1        | 1.12%   |
+| 1600    | 25       | 27.78%  |
+| 3200    | 11       | 12.22%  |
+| 2133    | 11       | 12.22%  |
+| 2400    | 10       | 11.11%  |
+| 1333    | 9        | 10%     |
+| 3600    | 5        | 5.56%   |
+| 2667    | 4        | 4.44%   |
+| 800     | 3        | 3.33%   |
+| 3000    | 2        | 2.22%   |
+| 1334    | 2        | 2.22%   |
+| 4800    | 1        | 1.11%   |
+| 3400    | 1        | 1.11%   |
+| 1866    | 1        | 1.11%   |
+| 1067    | 1        | 1.11%   |
+| 1066    | 1        | 1.11%   |
+| 933     | 1        | 1.11%   |
+| 533     | 1        | 1.11%   |
+| Unknown | 1        | 1.11%   |
 
 Printers & scanners
 -------------------

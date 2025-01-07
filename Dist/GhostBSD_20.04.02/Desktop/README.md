@@ -457,13 +457,12 @@ Motherboard manufacture year
 | 2018 | 11       | 24.44%  |
 | 2019 | 6        | 13.33%  |
 | 2012 | 6        | 13.33%  |
-| 2020 | 4        | 8.89%   |
+| 2020 | 5        | 11.11%  |
 | 2014 | 3        | 6.67%   |
 | 2013 | 3        | 6.67%   |
 | 2008 | 3        | 6.67%   |
 | 2017 | 2        | 4.44%   |
 | 2015 | 2        | 4.44%   |
-| 2021 | 1        | 2.22%   |
 | 2016 | 1        | 2.22%   |
 | 2011 | 1        | 2.22%   |
 | 2010 | 1        | 2.22%   |
@@ -1031,16 +1030,16 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 2        | 2.56%   |
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 2        | 2.56%   |
 | AMD FCH SATA Controller [IDE mode]                                                      | 2        | 2.56%   |
-| AMD FCH SATA Controller D                                                               | 2        | 2.56%   |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                            | 2        | 2.56%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                       | 1        | 1.28%   |
 | SanDisk WD PC SN810 / Black SN850 NVMe SSD                                              | 1        | 1.28%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 1        | 1.28%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)               | 1        | 1.28%   |
 | Samsung NVMe SSD Controller SM961/PM961/SM963                                           | 1        | 1.28%   |
 | Phison E12 NVMe Controller                                                              | 1        | 1.28%   |
 | Nvidia GeForce 7100/nForce 630i SATA                                                    | 1        | 1.28%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton2]                                              | 1        | 1.28%   |
 | Marvell Group 88SE9215 PCIe 2.0 x1 4-port SATA 6 Gb/s Controller                        | 1        | 1.28%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                                | 1        | 1.28%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                              | 1        | 1.28%   |
 | Intel Sunrise Point-LP SATA Controller [AHCI mode]                                      | 1        | 1.28%   |
 | Intel SSD 660P Series                                                                   | 1        | 1.28%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 1        | 1.28%   |
@@ -1879,7 +1878,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 2        | 2.13%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 2.13%   |
 | Intel 200 Series PCH HD Audio                                                                   | 2        | 2.13%   |
-| AMD Family 17h/19h HD Audio Controller                                                          | 2        | 2.13%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                      | 2        | 2.13%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                    | 2        | 2.13%   |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller                     | 1        | 1.06%   |
 | Nvidia TU116 High Definition Audio Controller                                                   | 1        | 1.06%   |
@@ -2015,11 +2014,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 8192  | 22       | 47.83%  |
-| 4096  | 11       | 23.91%  |
-| 16384 | 6        | 13.04%  |
-| 2048  | 6        | 13.04%  |
-| 32768 | 1        | 2.17%   |
+| 8192  | 21       | 46.67%  |
+| 4096  | 11       | 24.44%  |
+| 16384 | 6        | 13.33%  |
+| 2048  | 6        | 13.33%  |
+| 32768 | 1        | 2.22%   |
 
 Memory Speed
 ------------
@@ -2031,7 +2030,7 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 1600  | 15       | 30.61%  |
+| 1600  | 14       | 28.57%  |
 | 3200  | 9        | 18.37%  |
 | 2400  | 7        | 14.29%  |
 | 1333  | 5        | 10.2%   |
@@ -2043,6 +2042,7 @@ Memory module speed
 | 2933  | 1        | 2.04%   |
 | 2666  | 1        | 2.04%   |
 | 1867  | 1        | 2.04%   |
+| 1866  | 1        | 2.04%   |
 | 1067  | 1        | 2.04%   |
 | 667   | 1        | 2.04%   |
 

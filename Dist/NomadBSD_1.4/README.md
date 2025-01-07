@@ -871,7 +871,7 @@ Storage controller models
 | Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [AHCI mode]                   | 2         | 6.67%   |
 | Intel 82801G (ICH7 Family) IDE Controller                                        | 2         | 6.67%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 6.67%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 1         | 3.33%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)        | 1         | 3.33%   |
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                            | 1         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                    | 1         | 3.33%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 1         | 3.33%   |
@@ -1583,7 +1583,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 6.25%   |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 6.25%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 6.25%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 2         | 6.25%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 2         | 6.25%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 1         | 3.13%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 3.13%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1         | 3.13%   |
@@ -1636,7 +1636,7 @@ Memory module models
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 1         | 3.23%   |
 | Unknown (09D5) RAM Module 16GB SODIMM DDR4 2400MT/s                       | 1         | 3.23%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s                      | 1         | 3.23%   |
-| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM 1600MT/s                           | 1         | 3.23%   |
+| SK hynix RAM HMT351U6CFR8C-PB 4GB DIMM DDR3 1600MT/s                      | 1         | 3.23%   |
 | SK hynix RAM HMT112U6AFP8C-G7 1GB DIMM 1066MT/s                           | 1         | 3.23%   |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s                    | 1         | 3.23%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s                     | 1         | 3.23%   |
@@ -1700,8 +1700,8 @@ Memory module size
 |-------|-----------|---------|
 | 4096  | 9         | 32.14%  |
 | 2048  | 8         | 28.57%  |
-| 8192  | 6         | 21.43%  |
-| 16384 | 3         | 10.71%  |
+| 16384 | 5         | 17.86%  |
+| 8192  | 4         | 14.29%  |
 | 1024  | 2         | 7.14%   |
 
 Memory Speed

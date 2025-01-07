@@ -366,12 +366,12 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2021 | 4        | 22.22%  |
 | 2019 | 4        | 22.22%  |
+| 2021 | 3        | 16.67%  |
 | 2015 | 3        | 16.67%  |
+| 2020 | 2        | 11.11%  |
 | 2013 | 2        | 11.11%  |
 | 2022 | 1        | 5.56%   |
-| 2020 | 1        | 5.56%   |
 | 2018 | 1        | 5.56%   |
 | 2010 | 1        | 5.56%   |
 | 2009 | 1        | 5.56%   |
@@ -846,7 +846,7 @@ Storage controller models
 | SanDisk PC SN520 x2 M.2 2242 NVMe SSD                                          | 1        | 2.86%   |
 | Micron/Crucial P5 NVMe PCIe SSD[SlashP5]                                       | 1        | 2.86%   |
 | Micron/Crucial P1 NVMe PCIe SSD[Frampton]                                      | 1        | 2.86%   |
-| Kingston Company A2000 NVMe SSD SM2263EN                                       | 1        | 2.86%   |
+| Kingston Company A2000 NVMe SSD [SM2263EN]                                     | 1        | 2.86%   |
 | Intel SSD 660P Series                                                          | 1        | 2.86%   |
 | Intel SATA Controller [RAID Mode]                                              | 1        | 2.86%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]  | 1        | 2.86%   |
@@ -1049,7 +1049,7 @@ Graphics card models
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
 | AMD Vega 20 [Radeon VII]                                                  | 1        | 5.26%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]             | 1        | 5.26%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]               | 1        | 5.26%   |
 | AMD Pitcairn XT GL [FirePro W7000]                                        | 1        | 5.26%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                       | 1        | 5.26%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                   | 1        | 5.26%   |
@@ -1541,7 +1541,7 @@ Sound card models
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 2.38%   |
 | AMD Kabini HDMI/DP Audio                                                   | 1        | 2.38%   |
 | AMD FCH Azalia Controller                                                  | 1        | 2.38%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 2.38%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 2.38%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 2.38%   |
 
 Memory

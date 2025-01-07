@@ -402,14 +402,14 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2021 | 6         | 20.69%  |
 | 2020 | 6         | 20.69%  |
-| 2013 | 3         | 10.34%  |
+| 2013 | 4         | 13.79%  |
 | 2018 | 2         | 6.9%    |
-| 2015 | 2         | 6.9%    |
 | 2012 | 2         | 6.9%    |
 | 2011 | 2         | 6.9%    |
 | 2019 | 1         | 3.45%   |
 | 2017 | 1         | 3.45%   |
 | 2016 | 1         | 3.45%   |
+| 2015 | 1         | 3.45%   |
 | 2014 | 1         | 3.45%   |
 | 2009 | 1         | 3.45%   |
 | 2008 | 1         | 3.45%   |
@@ -1624,7 +1624,7 @@ Sound card models
 | Intel Comet Lake PCH-LP cAVS                                                                      | 3         | 6.98%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3         | 6.98%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 3         | 6.98%   |
-| AMD Family 17h/19h HD Audio Controller                                                            | 3         | 6.98%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 3         | 6.98%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 2         | 4.65%   |
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 2         | 4.65%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 2         | 4.65%   |
@@ -1686,7 +1686,7 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB SODIMM LPDDR4 2400MT/s | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
 | SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s            | 1         | 2.63%   |
@@ -1753,10 +1753,10 @@ Memory module size
 
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
-| 4096  | 14        | 42.42%  |
-| 8192  | 12        | 36.36%  |
-| 2048  | 4         | 12.12%  |
-| 16384 | 3         | 9.09%   |
+| 4096  | 14        | 41.18%  |
+| 16384 | 8         | 23.53%  |
+| 8192  | 8         | 23.53%  |
+| 2048  | 4         | 11.76%  |
 
 Memory Speed
 ------------

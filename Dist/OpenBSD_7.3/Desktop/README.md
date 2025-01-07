@@ -653,14 +653,14 @@ Hard drive models
 | Seagate ST320011A 20GB         | 1        | 2.22%   |
 | SanDisk SSD PLUS 240GB         | 1        | 2.22%   |
 | SanDisk SSD PLUS 120GB         | 1        | 2.22%   |
-| SanDisk Cruzer Blade 64GB      | 1        | 2.22%   |
+| SanDisk Cruzer Blade 16GB      | 1        | 2.22%   |
 | Samsung SSD 870 QVO 2TB        | 1        | 2.22%   |
 | Samsung SSD 870 EVO 500GB      | 1        | 2.22%   |
 | Samsung SSD 870 EVO 250GB      | 1        | 2.22%   |
 | Samsung HD161HJ 160GB          | 1        | 2.22%   |
 | Samsung Flash Drive FIT 32GB   | 1        | 2.22%   |
 | OPENBSD SR RAID 5 9.9TB        | 1        | 2.22%   |
-| OPENBSD SR RAID 1 2TB          | 1        | 2.22%   |
+| OPENBSD SR RAID 1 128GB        | 1        | 2.22%   |
 | NVMe WDBRPG5000ANC-WR 500GB    | 1        | 2.22%   |
 | NVMe TOSHIBA-RC100 240GB       | 1        | 2.22%   |
 | NVMe Samsung SSD 990 2TB       | 1        | 2.22%   |
@@ -757,8 +757,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 40     | 77.42%  |
-| 1.01-2.0   | 4        | 13     | 12.9%   |
+| 0.01-0.5   | 24       | 41     | 77.42%  |
+| 1.01-2.0   | 4        | 12     | 12.9%   |
 | 0.51-1.0   | 2        | 2      | 6.45%   |
 | 4.01-10.0  | 1        | 1      | 3.23%   |
 
@@ -1190,7 +1190,7 @@ Graphics card models
 | AMD RV770 [Radeon HD 4850]                                             | 1        | 3.45%   |
 | AMD RV250 [Radeon 9000 Series]                                         | 1        | 3.45%   |
 | AMD RV200 [Radeon 7500/7500 LE]                                        | 1        | 3.45%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]          | 1        | 3.45%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 3.45%   |
 | AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]          | 1        | 3.45%   |
 | AMD ES1000                                                             | 1        | 3.45%   |
 | AMD Caicos PRO [Radeon HD 7450]                                        | 1        | 3.45%   |
@@ -1288,7 +1288,7 @@ Monitor models
 | Goldstar LG ULTRAWIDE GSM76F9 2560x1080 800x340mm 34.2-inch           | 1        | 5.88%   |
 | BenQ GL2450 BNQ78A5 1920x1080 530x300mm 24.0-inch                     | 1        | 5.88%   |
 | ASUSTek Computer PA279 AUS2768 3840x2160 600x340mm 27.2-inch          | 1        | 5.88%   |
-| AOC Q27P2W AOC2702 2560x1440 600x340mm 27.2-inch                      | 1        | 5.88%   |
+| AOC Q27G2WG4 AOC2702 2560x1440 600x340mm 27.2-inch                    | 1        | 5.88%   |
 | Ancor Communications ASUS VS247 ACI249A 1920x1080 520x290mm 23.4-inch | 1        | 5.88%   |
 
 Monitor Resolution
@@ -1647,7 +1647,7 @@ Sound card models
 | Model                                                                             | Desktops | Percent |
 |-----------------------------------------------------------------------------------|----------|---------|
 | Nvidia GK208 HDMI/DP Audio Controller                                             | 3        | 8.82%   |
-| AMD Family 17h/19h HD Audio Controller                                            | 3        | 8.82%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                        | 3        | 8.82%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 2        | 5.88%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                           | 2        | 5.88%   |
 | AMD Starship/Matisse HD Audio Controller                                          | 2        | 5.88%   |

@@ -341,7 +341,7 @@ Total: 283
 | Gigabyte      | X470 AORUS GAMING 5 WIFI... | Desktop     | [f035aab141](https://bsd-hardware.info/?probe=f035aab141) | May 24, 2021 |
 | ASRock        | X570 Phantom Gaming-ITX/... | Desktop     | [4d15a3ffe3](https://bsd-hardware.info/?probe=4d15a3ffe3) | May 23, 2021 |
 | Dell          | Latitude D620               | Notebook    | [1bd280a155](https://bsd-hardware.info/?probe=1bd280a155) | May 23, 2021 |
-| Unknown       | Raspberry Pi                | Soc         | [951c3e534c](https://bsd-hardware.info/?probe=951c3e534c) | May 23, 2021 |
+| Raspberry ... | Raspberry Pi                | Soc         | [951c3e534c](https://bsd-hardware.info/?probe=951c3e534c) | May 23, 2021 |
 | MSI           | H61I-E35/W8                 | Desktop     | [d07ad10827](https://bsd-hardware.info/?probe=d07ad10827) | May 22, 2021 |
 | HP            | ProLiant MicroServer Gen... | Desktop     | [80cf566074](https://bsd-hardware.info/?probe=80cf566074) | May 21, 2021 |
 | Notebook      | N7x0WU                      | Notebook    | [70760365d0](https://bsd-hardware.info/?probe=70760365d0) | May 20, 2021 |
@@ -376,7 +376,7 @@ Total: 283
 | Pegatron      | T12Ah                       | Notebook    | [ce8d45af17](https://bsd-hardware.info/?probe=ce8d45af17) | May 03, 2021 |
 | Lenovo        | ThinkPad T440p 20AW0049L... | Notebook    | [7660f9b6db](https://bsd-hardware.info/?probe=7660f9b6db) | May 02, 2021 |
 | ASUSTek       | Z97-K                       | Desktop     | [d8ecc7077a](https://bsd-hardware.info/?probe=d8ecc7077a) | May 02, 2021 |
-| GVC           | DR 738                      | Desktop     | [9ff0fb7df4](https://bsd-hardware.info/?probe=9ff0fb7df4) | May 01, 2021 |
+| Unknown       | Unknown                     | Desktop     | [9ff0fb7df4](https://bsd-hardware.info/?probe=9ff0fb7df4) | May 01, 2021 |
 | Gigabyte      | H81M-S2PV                   | Desktop     | [2713d38658](https://bsd-hardware.info/?probe=2713d38658) | May 01, 2021 |
 | Beckhoff A... | CB3056 G4                   | Desktop     | [120665d4d3](https://bsd-hardware.info/?probe=120665d4d3) | Apr 30, 2021 |
 | HP            | Laptop 17-by0xxx            | Notebook    | [47221a4d1d](https://bsd-hardware.info/?probe=47221a4d1d) | Apr 30, 2021 |
@@ -599,8 +599,8 @@ Motherboard manufacturer
 | MSI                     | 9         | 4.04%   |
 | Acer                    | 9         | 4.04%   |
 | Unknown                 | 9         | 4.04%   |
+| Raspberry Pi Foundation | 6         | 2.69%   |
 | Toshiba                 | 5         | 2.24%   |
-| Raspberry Pi Foundation | 5         | 2.24%   |
 | Intel                   | 4         | 1.79%   |
 | Cisco Systems           | 4         | 1.79%   |
 | Apple                   | 4         | 1.79%   |
@@ -616,7 +616,6 @@ Motherboard manufacturer
 | Sony                    | 1         | 0.45%   |
 | Medion                  | 1         | 0.45%   |
 | Huanan                  | 1         | 0.45%   |
-| GVC                     | 1         | 0.45%   |
 | Google                  | 1         | 0.45%   |
 | Fujitsu                 | 1         | 0.45%   |
 | Framework               | 1         | 0.45%   |
@@ -636,7 +635,7 @@ Motherboard model
 | Name                              | Computers | Percent |
 |-----------------------------------|-----------|---------|
 | Unknown                           | 9         | 4.04%   |
-| RPi Raspberry Pi                  | 5         | 2.24%   |
+| RPi Raspberry Pi                  | 6         | 2.69%   |
 | ASUS All Series                   | 3         | 1.35%   |
 | Dell OptiPlex 7040                | 2         | 0.9%    |
 | Cisco Systems UCSC-C240-M4L       | 2         | 0.9%    |
@@ -690,8 +689,8 @@ Motherboard model prefix
 | Dell Latitude                  | 13        | 5.83%   |
 | Dell Inspiron                  | 9         | 4.04%   |
 | Unknown                        | 9         | 4.04%   |
+| RPi Raspberry                  | 6         | 2.69%   |
 | Acer Aspire                    | 6         | 2.69%   |
-| RPi Raspberry                  | 5         | 2.24%   |
 | Lenovo IdeaPad                 | 4         | 1.79%   |
 | ASUS ROG                       | 4         | 1.79%   |
 | HP ProLiant                    | 3         | 1.35%   |
@@ -737,20 +736,20 @@ Motherboard manufacture year
 
 | Year    | Computers | Percent |
 |---------|-----------|---------|
-| 2020    | 32        | 14.35%  |
-| 2018    | 27        | 12.11%  |
+| 2020    | 31        | 13.9%   |
+| 2018    | 25        | 11.21%  |
 | 2021    | 24        | 10.76%  |
 | 2019    | 20        | 8.97%   |
-| 2011    | 18        | 8.07%   |
-| 2015    | 13        | 5.83%   |
-| 2010    | 12        | 5.38%   |
+| 2011    | 17        | 7.62%   |
+| 2010    | 14        | 6.28%   |
 | 2017    | 11        | 4.93%   |
+| 2015    | 11        | 4.93%   |
 | 2012    | 11        | 4.93%   |
+| 2008    | 11        | 4.93%   |
 | Unknown | 11        | 4.93%   |
-| 2008    | 10        | 4.48%   |
-| 2013    | 9         | 4.04%   |
+| 2013    | 10        | 4.48%   |
+| 2014    | 9         | 4.04%   |
 | 2016    | 8         | 3.59%   |
-| 2014    | 7         | 3.14%   |
 | 2009    | 5         | 2.24%   |
 | 2006    | 3         | 1.35%   |
 | 2022    | 1         | 0.45%   |
@@ -1214,8 +1213,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 129       | 182    | 53.31%  |
-| 0.51-1.0   | 61        | 88     | 25.21%  |
+| 0.01-0.5   | 128       | 180    | 52.89%  |
+| 0.51-1.0   | 62        | 90     | 25.62%  |
 | 1.01-2.0   | 17        | 36     | 7.02%   |
 | 3.01-4.0   | 12        | 29     | 4.96%   |
 | 4.01-10.0  | 11        | 55     | 4.55%   |
@@ -1473,7 +1472,7 @@ Storage controller models
 | Intel 200 Series PCH SATA controller [AHCI mode]                                 | 3         | 0.99%   |
 | Broadcom / LSI SAS2008 PCI-Express Fusion-MPT SAS-2 [Falcon]                     | 3         | 0.99%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                | 2         | 0.66%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                        | 2         | 0.66%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)        | 2         | 0.66%   |
 | Phison E16 PCIe4 NVMe Controller                                                 | 2         | 0.66%   |
 | Phison E12 NVMe Controller                                                       | 2         | 0.66%   |
 | Nvidia MCP79 AHCI Controller                                                     | 2         | 0.66%   |
@@ -2510,7 +2509,7 @@ Sound card models
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 10        | 3.41%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 10        | 3.41%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 10        | 3.41%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 10        | 3.41%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 10        | 3.41%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 9         | 3.07%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 8         | 2.73%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 8         | 2.73%   |
@@ -2571,7 +2570,7 @@ Memory module vendors
 | Unknown             | 4         | 1.69%   |
 | Team                | 2         | 0.84%   |
 | Smart               | 2         | 0.84%   |
-| Goodram             | 2         | 0.84%   |
+| GOODRAM             | 2         | 0.84%   |
 | Transcend           | 1         | 0.42%   |
 | Teikon              | 1         | 0.42%   |
 | Silicon Power       | 1         | 0.42%   |
@@ -2681,12 +2680,12 @@ Memory module size
 
 | Size  | Computers | Percent |
 |-------|-----------|---------|
-| 8192  | 80        | 34.93%  |
-| 4096  | 61        | 26.64%  |
-| 2048  | 33        | 14.41%  |
-| 16384 | 32        | 13.97%  |
-| 1024  | 12        | 5.24%   |
-| 32768 | 11        | 4.8%    |
+| 8192  | 77        | 33.48%  |
+| 4096  | 61        | 26.52%  |
+| 16384 | 36        | 15.65%  |
+| 2048  | 33        | 14.35%  |
+| 1024  | 12        | 5.22%   |
+| 32768 | 11        | 4.78%   |
 
 Memory Speed
 ------------
@@ -2698,14 +2697,14 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 52        | 22.51%  |
+| 1600    | 51        | 22.08%  |
 | 2400    | 30        | 12.99%  |
 | 2667    | 26        | 11.26%  |
 | 3200    | 23        | 9.96%   |
 | 2133    | 20        | 8.66%   |
-| 1333    | 19        | 8.23%   |
-| 1067    | 9         | 3.9%    |
+| 1333    | 20        | 8.66%   |
 | 800     | 9         | 3.9%    |
+| 1067    | 8         | 3.46%   |
 | 667     | 7         | 3.03%   |
 | 3000    | 5         | 2.16%   |
 | 1334    | 5         | 2.16%   |
@@ -2719,6 +2718,7 @@ Memory module speed
 | 400     | 2         | 0.87%   |
 | 4800    | 1         | 0.43%   |
 | 3600    | 1         | 0.43%   |
+| 1866    | 1         | 0.43%   |
 | 1332    | 1         | 0.43%   |
 | 1066    | 1         | 0.43%   |
 

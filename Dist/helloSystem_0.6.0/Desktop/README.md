@@ -470,20 +470,20 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
+| 2013 | 7        | 11.48%  |
 | 2021 | 6        | 9.84%   |
 | 2019 | 6        | 9.84%   |
-| 2013 | 6        | 9.84%   |
 | 2010 | 6        | 9.84%   |
 | 2020 | 5        | 8.2%    |
 | 2018 | 5        | 8.2%    |
-| 2015 | 5        | 8.2%    |
 | 2012 | 5        | 8.2%    |
 | 2016 | 4        | 6.56%   |
 | 2011 | 4        | 6.56%   |
 | 2017 | 3        | 4.92%   |
+| 2015 | 3        | 4.92%   |
 | 2014 | 3        | 4.92%   |
+| 2009 | 2        | 3.28%   |
 | 2007 | 2        | 3.28%   |
-| 2009 | 1        | 1.64%   |
 
 Form Factor
 -----------
@@ -580,8 +580,7 @@ Has Ethernet on board
 
 | Presented | Desktops | Percent |
 |-----------|----------|---------|
-| Yes       | 60       | 98.36%  |
-| No        | 1        | 1.64%   |
+| Yes       | 61       | 100%    |
 
 Has WiFi
 --------
@@ -870,8 +869,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 75     | 57.14%  |
-| 0.51-1.0   | 22       | 26     | 26.19%  |
+| 0.01-0.5   | 47       | 74     | 55.95%  |
+| 0.51-1.0   | 23       | 27     | 27.38%  |
 | 1.01-2.0   | 6        | 7      | 7.14%   |
 | 2.01-3.0   | 4        | 6      | 4.76%   |
 | 3.01-4.0   | 3        | 3      | 3.57%   |
@@ -1057,7 +1056,7 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller           | 3        | 3.19%   |
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                           | 3        | 3.19%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [IDE mode]                                        | 3        | 3.19%   |
-| SanDisk Ultra 3D / WD Blue SN550 NVMe SSD                                               | 2        | 2.13%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)               | 2        | 2.13%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 2        | 2.13%   |
 | Intel 82801JI (ICH10 Family) SATA AHCI Controller                                       | 2        | 2.13%   |
 | Intel 200 Series PCH SATA controller [AHCI mode]                                        | 2        | 2.13%   |
@@ -1335,7 +1334,7 @@ Graphics card models
 | AMD RS880 [Radeon HD 4250]                                                  | 1        | 1.54%   |
 | AMD RS780L [Radeon 3000]                                                    | 1        | 1.54%   |
 | AMD Richland [Radeon HD 8470D]                                              | 1        | 1.54%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]               | 1        | 1.54%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                 | 1        | 1.54%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]            | 1        | 1.54%   |
 | AMD Oland [Radeon HD 8570 / R5 430 OEM / R7 240/340 / Radeon 520 OEM]       | 1        | 1.54%   |
 | AMD Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]                              | 1        | 1.54%   |
@@ -1737,12 +1736,12 @@ Ethernet vendors
 
 | Vendor                   | Desktops | Percent |
 |--------------------------|----------|---------|
-| Realtek Semiconductor    | 33       | 53.23%  |
-| Intel                    | 22       | 35.48%  |
-| Broadcom                 | 3        | 4.84%   |
-| Qualcomm Atheros         | 2        | 3.23%   |
-| Marvell Technology Group | 1        | 1.61%   |
-| Aquantia                 | 1        | 1.61%   |
+| Realtek Semiconductor    | 34       | 53.97%  |
+| Intel                    | 22       | 34.92%  |
+| Broadcom                 | 3        | 4.76%   |
+| Qualcomm Atheros         | 2        | 3.17%   |
+| Marvell Technology Group | 1        | 1.59%   |
+| Aquantia                 | 1        | 1.59%   |
 
 Ethernet Model
 --------------
@@ -1754,26 +1753,27 @@ Ethernet models
 
 | Model                                                                          | Desktops | Percent |
 |--------------------------------------------------------------------------------|----------|---------|
-| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 31       | 50%     |
-| Intel I211 Gigabit Network Connection                                          | 6        | 9.68%   |
-| Intel Ethernet Connection (7) I219-V                                           | 3        | 4.84%   |
-| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 3        | 4.84%   |
-| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 2        | 3.23%   |
-| Intel Ethernet Connection I217-V                                               | 2        | 3.23%   |
-| Intel Ethernet Connection I217-LM                                              | 2        | 3.23%   |
-| Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1        | 1.61%   |
-| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                 | 1        | 1.61%   |
-| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1        | 1.61%   |
-| Intel Ethernet Connection (2) I219-V                                           | 1        | 1.61%   |
-| Intel Ethernet Connection (2) I219-LM                                          | 1        | 1.61%   |
-| Intel Ethernet Connection (11) I219-V                                          | 1        | 1.61%   |
-| Intel 82583V Gigabit Network Connection                                        | 1        | 1.61%   |
-| Intel 82574L Gigabit Network Connection                                        | 1        | 1.61%   |
-| Intel 82567LM-3 Gigabit Network Connection                                     | 1        | 1.61%   |
-| Broadcom NetXtreme II BCM5708 Gigabit Ethernet                                 | 1        | 1.61%   |
-| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 1        | 1.61%   |
-| Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                  | 1        | 1.61%   |
-| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 1.61%   |
+| Realtek RTL8111/8168/8211/8411 PCI Express Gigabit Ethernet Controller         | 31       | 49.21%  |
+| Intel I211 Gigabit Network Connection                                          | 6        | 9.52%   |
+| Intel Ethernet Connection (7) I219-V                                           | 3        | 4.76%   |
+| Intel 82579LM Gigabit Network Connection (Lewisville)                          | 3        | 4.76%   |
+| Realtek RTL810xE PCI Express Fast Ethernet controller                          | 2        | 3.17%   |
+| Intel Ethernet Connection I217-V                                               | 2        | 3.17%   |
+| Intel Ethernet Connection I217-LM                                              | 2        | 3.17%   |
+| Realtek RTL8125 2.5GbE Controller                                              | 1        | 1.59%   |
+| Qualcomm Atheros AR8151 v1.0 Gigabit Ethernet                                  | 1        | 1.59%   |
+| Qualcomm Atheros AR8121/AR8113/AR8114 Gigabit or Fast Ethernet                 | 1        | 1.59%   |
+| Marvell Group Yukon Optima 88E8059 [PCIe Gigabit Ethernet Controller with AVB] | 1        | 1.59%   |
+| Intel Ethernet Connection (2) I219-V                                           | 1        | 1.59%   |
+| Intel Ethernet Connection (2) I219-LM                                          | 1        | 1.59%   |
+| Intel Ethernet Connection (11) I219-V                                          | 1        | 1.59%   |
+| Intel 82583V Gigabit Network Connection                                        | 1        | 1.59%   |
+| Intel 82574L Gigabit Network Connection                                        | 1        | 1.59%   |
+| Intel 82567LM-3 Gigabit Network Connection                                     | 1        | 1.59%   |
+| Broadcom NetXtreme II BCM5708 Gigabit Ethernet                                 | 1        | 1.59%   |
+| Broadcom NetXtreme BCM5755 Gigabit Ethernet PCI Express                        | 1        | 1.59%   |
+| Broadcom NetXtreme BCM5705_2 Gigabit Ethernet                                  | 1        | 1.59%   |
+| Aquantia AQtion AQC107 NBase-T/IEEE 802.3an Ethernet Controller [Atlantic 10G] | 1        | 1.59%   |
 
 Net Controller Kind
 -------------------
@@ -1785,9 +1785,8 @@ Ethernet, WiFi or modem
 
 | Kind     | Desktops | Percent |
 |----------|----------|---------|
-| Ethernet | 60       | 73.17%  |
+| Ethernet | 61       | 74.39%  |
 | WiFi     | 21       | 25.61%  |
-| Unknown  | 1        | 1.22%   |
 
 Used Controller
 ---------------
@@ -1921,7 +1920,7 @@ Sound card models
 | Nvidia TU116 High Definition Audio Controller                              | 3        | 2.52%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.52%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3        | 2.52%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 3        | 2.52%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3        | 2.52%   |
 | Texas Instruments PCM2902 Audio Codec                                      | 2        | 1.68%   |
 | Nvidia High Definition Audio Controller                                    | 2        | 1.68%   |
 | Nvidia GM206 High Definition Audio Controller                              | 2        | 1.68%   |
@@ -2009,7 +2008,7 @@ Memory module models
 | Samsung RAM Module 8GB DIMM DDR4 2133MT/s               | 1        | 1.37%   |
 | Samsung RAM Module 2GB DIMM DDR3 400MT/s                | 1        | 1.37%   |
 | Samsung RAM Module 16GB DIMM DDR3 1333MT/s              | 1        | 1.37%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1        | 1.37%   |
 | Samsung RAM M393B1K70DH0 8GB DIMM DDR3 1600MT/s         | 1        | 1.37%   |
 | Samsung RAM M378B5273DH0-CK0 4GB DIMM DDR3 1600MT/s     | 1        | 1.37%   |

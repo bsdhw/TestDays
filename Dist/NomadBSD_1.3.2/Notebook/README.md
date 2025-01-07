@@ -1767,7 +1767,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR-NUD 4096MB SODIMM LPDDR3 1867MT/s | 1         | 2.38%   |
 | SK hynix RAM H5TC8G63AMR-PBA 4096MB 1600MT/s                  | 1         | 2.38%   |
 | Samsung RAM M471B5673FH0-CF8 2GB SODIMM DDR3 1067MT/s         | 1         | 2.38%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5273CH0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
@@ -1834,9 +1834,9 @@ Memory module size
 | Size  | Notebooks | Percent |
 |-------|-----------|---------|
 | 4096  | 14        | 35.9%   |
-| 8192  | 11        | 28.21%  |
+| 8192  | 10        | 25.64%  |
 | 2048  | 6         | 15.38%  |
-| 16384 | 3         | 7.69%   |
+| 16384 | 4         | 10.26%  |
 | 1024  | 2         | 5.13%   |
 | 32768 | 1         | 2.56%   |
 | 512   | 1         | 2.56%   |

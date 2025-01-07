@@ -818,7 +818,7 @@ Storage controller models
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 1        | 3.7%    |
 | AMD SB600 Non-Raid-5 SATA                                                     | 1        | 3.7%    |
 | AMD SB600 IDE                                                                 | 1        | 3.7%    |
-| AMD FCH SATA Controller D                                                     | 1        | 3.7%    |
+| AMD A320 Chipset SATA Controller [AHCI mode]                                  | 1        | 3.7%    |
 | AMD 300 Series Chipset SATA Controller                                        | 1        | 3.7%    |
 
 Storage Kind
@@ -1432,7 +1432,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 4.76%   |
 | C-Media Electronics Audio Adapter                                          | 1        | 4.76%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 4.76%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 1        | 4.76%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 4.76%   |
 
 Memory
 ------

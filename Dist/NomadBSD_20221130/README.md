@@ -1736,7 +1736,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2         | 4%      |
 | Intel 8 Series HD Audio Controller                                         | 2         | 4%      |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2         | 4%      |
-| AMD Family 17h/19h HD Audio Controller                                     | 2         | 4%      |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 2         | 4%      |
 | Nvidia MCP89 High Definition Audio                                         | 1         | 2%      |
 | Nvidia MCP79 High Definition Audio                                         | 1         | 2%      |
 | Nvidia MCP61 High Definition Audio                                         | 1         | 2%      |

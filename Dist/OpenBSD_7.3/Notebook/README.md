@@ -717,7 +717,7 @@ Hard drive models
 
 | Model                                | Notebooks | Percent |
 |--------------------------------------|-----------|---------|
-| SanDisk Extreme SSD 500GB            | 2         | 3.23%   |
+| SanDisk Extreme SSD 1TB              | 2         | 3.23%   |
 | NVMe SAMSUNG MZVLW256 256GB          | 2         | 3.23%   |
 | Intenso SSD 256GB                    | 2         | 3.23%   |
 | WDC WD7500BPKX-00HPJT0 752GB         | 1         | 1.61%   |
@@ -731,7 +731,7 @@ Hard drive models
 | Union Memory RTOTJ128VGD2EYX 128GB   | 1         | 1.61%   |
 | Toshiba MK8007GAH 80GB               | 1         | 1.61%   |
 | Toshiba KSG60ZMV256G M.2 2280 256GB  | 1         | 1.61%   |
-| SMI USB DISK 18302PB                 | 1         | 1.61%   |
+| SMI USB DISK 16GB                    | 1         | 1.61%   |
 | Seagate ST9160821A 160GB             | 1         | 1.61%   |
 | Seagate ST500LM012 HN-M500MBB 500GB  | 1         | 1.61%   |
 | SanDisk X400 M.2 2280 512GB          | 1         | 1.61%   |
@@ -742,7 +742,7 @@ Hard drive models
 | Samsung MZ7PC128HAFU-000L1 128GB     | 1         | 1.61%   |
 | Samsung MMCRE28GFMXP-MVB 128GB       | 1         | 1.61%   |
 | PNY CS900 1TB SSD                    | 1         | 1.61%   |
-| NVMe WDC PC SN730 SDB 512GB          | 1         | 1.61%   |
+| NVMe WDC PC SN730 SDB 256GB          | 1         | 1.61%   |
 | NVMe SSSTC CL1-4D256 256GB           | 1         | 1.61%   |
 | NVMe SKHynix_HFS512GD 512GB          | 1         | 1.61%   |
 | NVMe Sabrent SB-1342- 1TB            | 1         | 1.61%   |
@@ -841,12 +841,11 @@ Size of hard drive
 ![Drive Size](./images/pie_chart_bsd/drive_size.svg)
 
 
-| Size in TB      | Notebooks | Drives | Percent |
-|-----------------|-----------|--------|---------|
-| 0.01-0.5        | 38        | 48     | 73.08%  |
-| 0.51-1.0        | 10        | 11     | 19.23%  |
-| 1.01-2.0        | 3         | 4      | 5.77%   |
-| More than 100.0 | 1         | 1      | 1.92%   |
+| Size in TB | Notebooks | Drives | Percent |
+|------------|-----------|--------|---------|
+| 0.01-0.5   | 38        | 48     | 73.08%  |
+| 0.51-1.0   | 11        | 12     | 21.15%  |
+| 1.01-2.0   | 3         | 4      | 5.77%   |
 
 Space Total
 -----------
@@ -1000,9 +999,9 @@ Storage controller models
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD                   | 1         | 1.82%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                         | 1         | 1.82%   |
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                    | 1         | 1.82%   |
-| Kingston Company NV2 NVMe SSD SM2267XT (DRAM-less)                                     | 1         | 1.82%   |
-| Kingston Company NV1 NVMe SSD SM2263XT (DRAM-less)                                     | 1         | 1.82%   |
-| Kingston Company NV1 NVMe SSD E13T (DRAM-less)                                         | 1         | 1.82%   |
+| Kingston Company NV2 NVMe SSD [SM2267XT] (DRAM-less)                                   | 1         | 1.82%   |
+| Kingston Company NV1 NVMe SSD [SM2263XT] (DRAM-less)                                   | 1         | 1.82%   |
+| Kingston Company NV1 NVMe SSD [E13T] (DRAM-less)                                       | 1         | 1.82%   |
 | Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller                             | 1         | 1.82%   |
 | Intel Tiger Lake-LP SATA Controller                                                    | 1         | 1.82%   |
 | Intel SSD 670p Series [Keystone Harbor]                                                | 1         | 1.82%   |
@@ -1234,7 +1233,7 @@ Graphics card models
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 3.57%   |
 | Intel Mobile 915GM/GMS/910GML Express Graphics Controller                     | 2         | 3.57%   |
 | Intel GeminiLake [UHD Graphics 600]                                           | 2         | 3.57%   |
-| AMD Renoir [Radeon RX Vega 6 (Ryzen 4000/5000 Mobile Series)]                 | 2         | 3.57%   |
+| AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                   | 2         | 3.57%   |
 | Nvidia GT216M [GeForce GT 330M]                                               | 1         | 1.79%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                       | 1         | 1.79%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 1         | 1.79%   |
@@ -1788,7 +1787,7 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 11.86%  |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 6         | 10.17%  |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 5         | 8.47%   |
-| AMD Family 17h/19h HD Audio Controller                                     | 4         | 6.78%   |
+| AMD Family 17h/19h/1ah HD Audio Controller                                 | 4         | 6.78%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 5.08%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3         | 5.08%   |
 | Intel Broadwell-U Audio Controller                                         | 3         | 5.08%   |
@@ -1860,7 +1859,7 @@ Memory module models
 | SK hynix RAM H9CCNNNBJTMLAR 4GB Chip LPDDR3 1867MT/s    | 1         | 3.13%   |
 | Samsung RAM M471B5773DH0-CH9 2GB SODIMM DDR3 1334MT/s   | 1         | 3.13%   |
 | Samsung RAM M471B5673EH1-CF8 2GB SODIMM DDR3 1067MT/s   | 1         | 3.13%   |
-| Samsung RAM M471B5273DH0-CK0 4GB SODIMM DDR3 1600MT/s   | 1         | 3.13%   |
+| Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s   | 1         | 3.13%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 3.13%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 3.13%   |
 | Samsung RAM M471A1K43BB0-CPB 8GB SODIMM DDR4 2133MT/s   | 1         | 3.13%   |
