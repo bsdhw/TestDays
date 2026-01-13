@@ -1070,7 +1070,7 @@ Graphics card models
 
 | Model                                                                                    | Computers | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
-| Intel HD Graphics 620                                                                    | 2         | 7.69%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 2         | 7.69%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 7.69%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 7.69%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 2         | 7.69%   |
@@ -1078,10 +1078,10 @@ Graphics card models
 | Nvidia GK106GLM [Quadro K2100M]                                                          | 1         | 3.85%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 1         | 3.85%   |
 | Nvidia G72M [GeForce Go 7400]                                                            | 1         | 3.85%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 1         | 3.85%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 1         | 3.85%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                               | 1         | 3.85%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 1         | 3.85%   |
-| Intel HD Graphics 630                                                                    | 1         | 3.85%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 1         | 3.85%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 3.85%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1         | 3.85%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 3.85%   |
@@ -1172,17 +1172,17 @@ Monitor models
 
 | Model                                                                | Computers | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 2         | 9.52%   |
+| Panasonic LCD Monitor MEI96A2 2880x1620 340x190mm 15.3-inch          | 2         | 9.52%   |
 | Sony TV SNY5D01 1360x768                                             | 1         | 4.76%   |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 220x130mm 10.1-inch | 1         | 4.76%   |
 | Samsung Electronics LCD Monitor SDC4D42 1366x768 310x170mm 13.9-inch | 1         | 4.76%   |
 | LG Display LCD Monitor LGD0532 1920x1080 340x190mm 15.3-inch         | 1         | 4.76%   |
 | LG Display LCD Monitor LGD0414 1920x1080 280x160mm 12.7-inch         | 1         | 4.76%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 4.76%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch              | 1         | 4.76%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 350x190mm 15.7-inch              | 1         | 4.76%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 1         | 4.76%   |
 | Dell S2309W DELA041 1920x1080 510x290mm 23.1-inch                    | 1         | 4.76%   |
-| Dell LCD Monitor DEL93F2 1920x1080 480x270mm 21.7-inch               | 1         | 4.76%   |
+| Dell OptiPlex 5260 DEL93F2 1920x1080 480x270mm 21.7-inch             | 1         | 4.76%   |
 | CPT LCD Monitor CPT04C4 1024x600 230x140mm 10.6-inch                 | 1         | 4.76%   |
 | BOE LCD Monitor BOE0812 1920x1080 340x190mm 15.3-inch                | 1         | 4.76%   |
 | BOE LCD Monitor BOE06A4 1366x768 340x190mm 15.3-inch                 | 1         | 4.76%   |
@@ -1272,7 +1272,7 @@ Area in inch²
 
 | Area in inch² | Computers | Percent |
 |----------------|-----------|---------|
-| 91-100         | 8         | 38.1%   |
+| 91-100         | 7         | 33.33%  |
 | 201-250        | 3         | 14.29%  |
 | 61-70          | 2         | 9.52%   |
 | 41-50          | 2         | 9.52%   |
@@ -1280,6 +1280,7 @@ Area in inch²
 | 81-90          | 1         | 4.76%   |
 | 301-350        | 1         | 4.76%   |
 | 141-150        | 1         | 4.76%   |
+| 101-110        | 1         | 4.76%   |
 | Unknown        | 1         | 4.76%   |
 
 Pixel Density
@@ -1292,9 +1293,9 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 101-120       | 9         | 42.86%  |
+| 101-120       | 8         | 38.1%   |
 | 121-160       | 4         | 19.05%  |
-| 51-100        | 3         | 14.29%  |
+| 51-100        | 4         | 19.05%  |
 | More than 240 | 2         | 9.52%   |
 | 161-240       | 2         | 9.52%   |
 | Unknown       | 1         | 4.76%   |
@@ -1582,8 +1583,8 @@ Sound card models
 | Intel 82801JI (ICH10 Family) HD Audio Controller                                                  | 2         | 6.25%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 6.25%   |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 6.25%   |
+| AMD Ryzen HD Audio Controller                                                                     | 2         | 6.25%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 6.25%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 2         | 6.25%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 1         | 3.13%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 3.13%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1         | 3.13%   |
@@ -1628,8 +1629,8 @@ Memory module models
 
 | Model                                                                     | Computers | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 2         | 6.45%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 6.45%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s                     | 2         | 6.45%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s                     | 2         | 6.45%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 3.23%   |
 | Unknown RAM Module 2GB SODIMM DDR2                                        | 1         | 3.23%   |
 | Unknown RAM Module 2GB DIMM DDR2 800MT/s                                  | 1         | 3.23%   |
@@ -1656,7 +1657,7 @@ Memory module models
 | Elpida RAM EBJ21UE8BAFA-AE-E 2GB DIMM 1066MT/s                            | 1         | 3.23%   |
 | Crucial RAM CT16G4DFD824A.M16FE 16GB DIMM DDR4 2400MT/s                   | 1         | 3.23%   |
 | Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1867MT/s                   | 1         | 3.23%   |
-| 48spaces RAM 012345678901234567890123456789012345 1GB SODIMM DDR2 800MT/s | 1         | 3.23%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 3.23%   |
 
 Memory Kind
 -----------
@@ -1715,12 +1716,12 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 6         | 23.08%  |
-| 2667    | 5         | 19.23%  |
+| 3200    | 5         | 19.23%  |
 | 2400    | 4         | 15.38%  |
 | 1867    | 2         | 7.69%   |
 | 1334    | 2         | 7.69%   |
 | 800     | 2         | 7.69%   |
-| 3200    | 1         | 3.85%   |
+| 2667    | 1         | 3.85%   |
 | 1333    | 1         | 3.85%   |
 | 1066    | 1         | 3.85%   |
 | 667     | 1         | 3.85%   |

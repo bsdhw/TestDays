@@ -473,17 +473,17 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 11        | 21.15%  |
 | 2019 | 5         | 9.62%   |
-| 2013 | 5         | 9.62%   |
 | 2017 | 4         | 7.69%   |
 | 2014 | 4         | 7.69%   |
+| 2013 | 4         | 7.69%   |
 | 2018 | 3         | 5.77%   |
 | 2016 | 3         | 5.77%   |
 | 2011 | 3         | 5.77%   |
 | 2010 | 3         | 5.77%   |
 | 2008 | 3         | 5.77%   |
 | 2015 | 2         | 3.85%   |
+| 2012 | 2         | 3.85%   |
 | 2009 | 2         | 3.85%   |
-| 2012 | 1         | 1.92%   |
 | 2007 | 1         | 1.92%   |
 | 2006 | 1         | 1.92%   |
 | 2004 | 1         | 1.92%   |
@@ -733,7 +733,7 @@ Hard drive models
 | Model                                     | Computers | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 3.39%   |
-| SanDisk pSSD 16GB                         | 2         | 3.39%   |
+| SanDisk pSSD 32GB                         | 2         | 3.39%   |
 | Samsung MZVLB256HBHQ-000L7 256GB          | 2         | 3.39%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 1.69%   |
 | WDC WD2004FBYZ-01YCBB1 2TB                | 1         | 1.69%   |
@@ -1263,14 +1263,14 @@ Graphics card models
 
 | Model                                                                                    | Computers | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 4         | 6.9%    |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 4         | 6.9%    |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 4         | 6.9%    |
-| Intel UHD Graphics 620                                                                   | 3         | 5.17%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 3         | 5.17%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 3         | 5.17%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 3         | 5.17%   |
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                                      | 2         | 3.45%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 2         | 3.45%   |
-| Intel HD Graphics 620                                                                    | 2         | 3.45%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 2         | 3.45%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 3.45%   |
 | AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]                                         | 2         | 3.45%   |
 | S3 Graphics SuperSavage IX/C SDR                                                         | 1         | 1.72%   |
@@ -1284,14 +1284,14 @@ Graphics card models
 | Nvidia G98M [GeForce 9300M GS]                                                           | 1         | 1.72%   |
 | Nvidia G72 [GeForce 7300 LE]                                                             | 1         | 1.72%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller                         | 1         | 1.72%   |
+| Intel Skylake-Y GT2 [HD Graphics 515]                                                    | 1         | 1.72%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                                    | 1         | 1.72%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 1         | 1.72%   |
-| Intel HD Graphics 6000                                                                   | 1         | 1.72%   |
-| Intel HD Graphics 530                                                                    | 1         | 1.72%   |
-| Intel HD Graphics 515                                                                    | 1         | 1.72%   |
-| Intel HD Graphics                                                                        | 1         | 1.72%   |
 | Intel Crystal Well Integrated Graphics Controller                                        | 1         | 1.72%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 1.72%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1         | 1.72%   |
+| Intel Broadwell-U GT3 [HD Graphics 6000]                                                 | 1         | 1.72%   |
+| Intel Broadwell-U GT1 [HD Graphics]                                                      | 1         | 1.72%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 1.72%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 1         | 1.72%   |
 | Intel 82Q35 Express Integrated Graphics Controller                                       | 1         | 1.72%   |
@@ -1408,7 +1408,7 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 2.08%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 2.08%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 2.08%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 2.08%   |
 | Hewlett-Packard vs17 HWP2647 1280x1024 340x270mm 17.1-inch                | 1         | 2.08%   |
 | Hewlett-Packard L1710 HWP26EB 1280x1024 340x270mm 17.1-inch               | 1         | 2.08%   |
@@ -1420,7 +1420,7 @@ Monitor models
 | Dell U2414H DELA0A2 1920x1080 530x300mm 24.0-inch                         | 1         | 2.08%   |
 | Dell U2412M DELA07A 1920x1200 520x320mm 24.0-inch                         | 1         | 2.08%   |
 | Dell P1917S DELD091 1280x1024 380x300mm 19.1-inch                         | 1         | 2.08%   |
-| Dell LCD Monitor DEL93F2 1920x1080 480x270mm 21.7-inch                    | 1         | 2.08%   |
+| Dell OptiPlex 5260 DEL93F2 1920x1080 480x270mm 21.7-inch                  | 1         | 2.08%   |
 | Dell E2014H DELD03B 1600x900 430x240mm 19.4-inch                          | 1         | 2.08%   |
 | Dell E1715S DELD062 1280x1024 340x270mm 17.1-inch                         | 1         | 2.08%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 2.08%   |
@@ -1924,8 +1924,8 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 1         | 1.39%   |
 | C-Media Electronics Audio Adapter                                                                 | 1         | 1.39%   |
 | Blue Microphones Yeti Stereo Microphone                                                           | 1         | 1.39%   |
+| AMD Ryzen HD Audio Controller                                                                     | 1         | 1.39%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 1         | 1.39%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 1         | 1.39%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                      | 1         | 1.39%   |
 
 Memory
@@ -1993,8 +1993,8 @@ Memory module models
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 1.64%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 1.64%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 1.64%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s          | 1         | 1.64%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s         | 1         | 1.64%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 800MT/s             | 1         | 1.64%   |
 | Micron RAM MT52L1G32D4PG-093 8GB Row Of Chips LPDDR3 2133MT/s | 1         | 1.64%   |
 | Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 1.64%   |
 | Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s            | 1         | 1.64%   |
@@ -2002,7 +2002,7 @@ Memory module models
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 1.64%   |
 | Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s          | 1         | 1.64%   |
 | Micron RAM 16ATF2G64HZ-2G6E1 16GB SODIMM DDR4 2667MT/s        | 1         | 1.64%   |
-| Magnum Tech RAM MAGNUMTECH 2GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
+| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 1.64%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 1.64%   |
 
 Memory Kind
@@ -2069,11 +2069,11 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 17        | 32.08%  |
 | 2400    | 7         | 13.21%  |
-| 2667    | 5         | 9.43%   |
+| 2667    | 4         | 7.55%   |
 | 800     | 4         | 7.55%   |
+| 3200    | 3         | 5.66%   |
 | 1333    | 3         | 5.66%   |
 | Unknown | 3         | 5.66%   |
-| 3200    | 2         | 3.77%   |
 | 1867    | 2         | 3.77%   |
 | 1066    | 2         | 3.77%   |
 | 667     | 2         | 3.77%   |

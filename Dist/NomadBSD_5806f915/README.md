@@ -213,9 +213,9 @@ Total: 67
 | ASUSTek       | ROG STRIX X299-E GAMING     | Desktop     | [e91dc55970](https://bsd-hardware.info/?probe=e91dc55970) | Jun 22, 2021 |
 | Apple         | MacBookAir6,1               | Notebook    | [46bf9edc63](https://bsd-hardware.info/?probe=46bf9edc63) | Jun 17, 2021 |
 | Apple         | MacBookAir6,1               | Notebook    | [dbda48cff7](https://bsd-hardware.info/?probe=dbda48cff7) | Jun 17, 2021 |
-| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Convertible | [dab0ca2417](https://bsd-hardware.info/?probe=dab0ca2417) | Jun 01, 2021 |
+| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Notebook    | [dab0ca2417](https://bsd-hardware.info/?probe=dab0ca2417) | Jun 01, 2021 |
 | ASUSTek       | TUF GAMING B550M-PLUS       | Desktop     | [c6a1c1fa15](https://bsd-hardware.info/?probe=c6a1c1fa15) | May 25, 2021 |
-| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Convertible | [96cc0c27b0](https://bsd-hardware.info/?probe=96cc0c27b0) | May 25, 2021 |
+| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Notebook    | [96cc0c27b0](https://bsd-hardware.info/?probe=96cc0c27b0) | May 25, 2021 |
 | ASUSTek       | V-P7H55E                    | Desktop     | [8cf113ac55](https://bsd-hardware.info/?probe=8cf113ac55) | May 22, 2021 |
 | Toshiba       | STI 005492G                 | Desktop     | [9a8e4a1328](https://bsd-hardware.info/?probe=9a8e4a1328) | May 17, 2021 |
 
@@ -480,15 +480,15 @@ Motherboard manufacture year
 | 2021 | 8         | 14.81%  |
 | 2020 | 6         | 11.11%  |
 | 2017 | 5         | 9.26%   |
-| 2015 | 4         | 7.41%   |
 | 2022 | 3         | 5.56%   |
 | 2018 | 3         | 5.56%   |
+| 2015 | 3         | 5.56%   |
 | 2013 | 3         | 5.56%   |
 | 2009 | 3         | 5.56%   |
 | 2008 | 3         | 5.56%   |
+| 2014 | 2         | 3.7%    |
 | 2012 | 2         | 3.7%    |
 | 2011 | 2         | 3.7%    |
-| 2014 | 1         | 1.85%   |
 | 2010 | 1         | 1.85%   |
 | 2006 | 1         | 1.85%   |
 
@@ -502,9 +502,9 @@ Physical design of the computer
 
 | Name        | Computers | Percent |
 |-------------|-----------|---------|
-| Notebook    | 32        | 59.26%  |
+| Notebook    | 33        | 61.11%  |
 | Desktop     | 18        | 33.33%  |
-| Convertible | 2         | 3.7%    |
+| Convertible | 1         | 1.85%   |
 | Mini pc     | 1         | 1.85%   |
 | Server      | 1         | 1.85%   |
 
@@ -1052,7 +1052,7 @@ Storage controller models
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                 | 2         | 2.47%   |
 | AMD 500 Series Chipset SATA Controller                                        | 2         | 2.47%   |
 | VIA VT82C586A/B/VT82C686/A/B/VT823x/A/C PIPC Bus Master IDE                   | 1         | 1.23%   |
-| VIA VT8237A SATA 2-Port Controller                                            | 1         | 1.23%   |
+| VIA VT8237A Integrated SATA RAID Controller                                   | 1         | 1.23%   |
 | Toshiba XG5 NVMe SSD Controller                                               | 1         | 1.23%   |
 | SK hynix PC601 NVMe Solid State Drive                                         | 1         | 1.23%   |
 | SK hynix BC511 NVMe SSD                                                       | 1         | 1.23%   |
@@ -1297,11 +1297,11 @@ Graphics card models
 |-------------------------------------------------------------------------------|-----------|---------|
 | Intel Haswell-ULT Integrated Graphics Controller                              | 4         | 6.45%   |
 | AMD Mullins [Radeon R4/R5 Graphics]                                           | 4         | 6.45%   |
-| Intel UHD Graphics 620                                                        | 3         | 4.84%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                      | 3         | 4.84%   |
 | Intel 3rd Gen Core processor Graphics Controller                              | 3         | 4.84%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller              | 2         | 3.23%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 2         | 3.23%   |
-| Intel Skylake GT2 [HD Graphics 520]                                           | 2         | 3.23%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                         | 2         | 3.23%   |
 | AMD Navi 21 [Radeon RX 6800/6800 XT / 6900 XT]                                | 2         | 3.23%   |
 | AMD Lucienne                                                                  | 2         | 3.23%   |
 | VIA Technologies CN896/VN896/P4M900 [Chrome 9 HC]                             | 1         | 1.61%   |
@@ -1319,15 +1319,15 @@ Graphics card models
 | Matrox Electronics Systems MGA G200eW WPCM450                                 | 1         | 1.61%   |
 | Intel UHD Graphics 617                                                        | 1         | 1.61%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 1         | 1.61%   |
+| Intel Skylake-U GT3 [Iris Graphics 540]                                       | 1         | 1.61%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                         | 1         | 1.61%   |
+| Intel Skylake-DT/H GT2 [HD Graphics P530]                                     | 1         | 1.61%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 1.61%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 1.61%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 1.61%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 1         | 1.61%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 1         | 1.61%   |
-| Intel Iris Graphics 540                                                       | 1         | 1.61%   |
-| Intel HD Graphics P530                                                        | 1         | 1.61%   |
-| Intel HD Graphics 630                                                         | 1         | 1.61%   |
-| Intel HD Graphics 530                                                         | 1         | 1.61%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                       | 1         | 1.61%   |
 | Intel GeminiLake [UHD Graphics 605]                                           | 1         | 1.61%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller     | 1         | 1.61%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 1         | 1.61%   |
@@ -1446,7 +1446,7 @@ Monitor models
 | LG Display LCD Monitor LGD040A 1920x1080 310x170mm 13.9-inch             | 1         | 2.17%   |
 | LG Display LCD Monitor LGD034D 1366x768 340x190mm 15.3-inch              | 1         | 2.17%   |
 | LG Display LCD Monitor LGD01F7 1366x768 290x160mm 13.0-inch              | 1         | 2.17%   |
-| Hewlett-Packard 24fw HPN3545 1920x1080 530x300mm 24.0-inch               | 1         | 2.17%   |
+| Hewlett-Packard 24f HPN3545 1920x1080 530x300mm 24.0-inch                | 1         | 2.17%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                | 1         | 2.17%   |
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                     | 1         | 2.17%   |
 | Goldstar W1943 GSM4BAD 1360x768 410x230mm 18.5-inch                      | 1         | 2.17%   |
@@ -1454,7 +1454,7 @@ Monitor models
 | Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch                | 1         | 2.17%   |
 | Goldstar LCD Monitor GSM5AB7 1920x1080 480x270mm 21.7-inch               | 1         | 2.17%   |
 | Goldstar E2241 GSM581A 1920x1080 480x270mm 21.7-inch                     | 1         | 2.17%   |
-| Dell E196FP DELA015 1280x1024 340x270mm 17.1-inch                        | 1         | 2.17%   |
+| Dell E196FP DELA015 1280x1024 380x300mm 19.1-inch                        | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15CA 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
 | Chimei Innolux LCD Monitor CMN15BE 1366x768 340x190mm 15.3-inch          | 1         | 2.17%   |
 | Chi Mei Optoelectronics LCD Monitor CMO15A3 1366x768 350x190mm 15.7-inch | 1         | 2.17%   |
@@ -1968,11 +1968,11 @@ Sound card models
 | AMD FCH Azalia Controller                                           | 5         | 5.32%   |
 | Intel Haswell-ULT HD Audio Controller                               | 4         | 4.26%   |
 | Intel 8 Series HD Audio Controller                                  | 4         | 4.26%   |
+| AMD Ryzen HD Audio Controller                                       | 4         | 4.26%   |
 | AMD Kabini HDMI/DP Audio                                            | 4         | 4.26%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                          | 4         | 4.26%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller     | 3         | 3.19%   |
 | AMD Starship/Matisse HD Audio Controller                            | 3         | 3.19%   |
-| AMD Renoir Radeon High Definition Audio Controller                  | 3         | 3.19%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                         | 3         | 3.19%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller             | 2         | 2.13%   |
 | Intel Cannon Point-LP High Definition Audio Controller              | 2         | 2.13%   |
 | Intel Cannon Lake PCH cAVS                                          | 2         | 2.13%   |
@@ -2056,7 +2056,7 @@ Memory module models
 | Transcend RAM TS512MSK64V1N 4GB SODIMM 800MT/s          | 1         | 1.47%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s       | 1         | 1.47%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1600MT/s            | 1         | 1.47%   |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s   | 1         | 1.47%   |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s    | 1         | 1.47%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s   | 1         | 1.47%   |
 | SK hynix RAM HMT851S6AMR6R-PB 4GB Chip DDR3 1600MT/s    | 1         | 1.47%   |
 | SK hynix RAM HMT851S6AMR6A-PB 4GB Chip DDR3 1600MT/s    | 1         | 1.47%   |
@@ -2074,7 +2074,7 @@ Memory module models
 | Samsung RAM M471B5173EB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 1.47%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s   | 1         | 1.47%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s   | 1         | 1.47%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s   | 1         | 1.47%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s   | 1         | 1.47%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s   | 1         | 1.47%   |
 | Samsung RAM M471A4G43AB1-CWE 32GB SODIMM DDR4 3200MT/s  | 1         | 1.47%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s   | 1         | 1.47%   |
@@ -2144,11 +2144,11 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 14        | 23.73%  |
-| 3200    | 9         | 15.25%  |
+| 3200    | 10        | 16.95%  |
 | 2400    | 7         | 11.86%  |
 | 2133    | 7         | 11.86%  |
-| 2667    | 5         | 8.47%   |
 | 1333    | 5         | 8.47%   |
+| 2667    | 4         | 6.78%   |
 | 1334    | 2         | 3.39%   |
 | 667     | 2         | 3.39%   |
 | Unknown | 2         | 3.39%   |

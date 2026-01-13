@@ -398,16 +398,17 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2020 | 3         | 11.11%  |
-| 2018 | 3         | 11.11%  |
 | 2012 | 3         | 11.11%  |
 | 2011 | 3         | 11.11%  |
 | 2023 | 2         | 7.41%   |
 | 2022 | 2         | 7.41%   |
 | 2019 | 2         | 7.41%   |
+| 2018 | 2         | 7.41%   |
 | 2014 | 2         | 7.41%   |
 | 2010 | 2         | 7.41%   |
 | 2009 | 2         | 7.41%   |
 | 2021 | 1         | 3.7%    |
+| 2017 | 1         | 3.7%    |
 | 2016 | 1         | 3.7%    |
 | 2015 | 1         | 3.7%    |
 
@@ -643,7 +644,7 @@ Hard drive models
 | Seagate ST500LT012-1DG142 500GB   | 1         | 3.7%    |
 | SanDisk X400 M.2 2280 256GB       | 1         | 3.7%    |
 | SanDisk SDSSDA240G 240GB          | 1         | 3.7%    |
-| SanDisk pSSD 16GB                 | 1         | 3.7%    |
+| SanDisk pSSD 32GB                 | 1         | 3.7%    |
 | Samsung SSD PM851 2.5 7mm 256GB   | 1         | 3.7%    |
 | Samsung SSD 860 EVO M.2 250GB     | 1         | 3.7%    |
 | Samsung SSD 850 EVO 2TB           | 1         | 3.7%    |
@@ -820,7 +821,7 @@ Failed drive models
 
 | Model             | Notebooks | Drives | Percent |
 |-------------------|-----------|--------|---------|
-| SanDisk pSSD 16GB | 1         | 1      | 100%    |
+| SanDisk pSSD 32GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -890,7 +891,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                   | 2         | 6.67%   |
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 3.33%   |
 | Shenzhen Unionmemory Information System AM611 PCIe 3.0 x2 NVMe SSD 256GB       | 1         | 3.33%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1         | 3.33%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                   | 1         | 3.33%   |
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                  | 1         | 3.33%   |
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                            | 1         | 3.33%   |
 | Nvidia MCP89 SATA Controller (AHCI mode)                                       | 1         | 3.33%   |
@@ -1097,14 +1098,14 @@ Graphics card models
 | Nvidia GF108M [GeForce GT 620M/630M/635M/640M LE]                         | 1         | 3.13%   |
 | Nvidia GF108GLM [Quadro 1000M]                                            | 1         | 3.13%   |
 | Nvidia C79 [GeForce G102M]                                                | 1         | 3.13%   |
-| Intel UHD Graphics 620                                                    | 1         | 3.13%   |
 | Intel Tiger Lake-UP4 GT2 [Iris Xe Graphics]                               | 1         | 3.13%   |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 1         | 3.13%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 1         | 3.13%   |
 | Intel Raptor Lake-P [UHD Graphics]                                        | 1         | 3.13%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 1         | 3.13%   |
-| Intel Iris Plus Graphics 640                                              | 1         | 3.13%   |
-| Intel HD Graphics 620                                                     | 1         | 3.13%   |
-| Intel HD Graphics 615                                                     | 1         | 3.13%   |
+| Intel Kaby Lake-Y GT2 [HD Graphics 615]                                   | 1         | 3.13%   |
+| Intel Kaby Lake-U GT3 [Iris Plus Graphics 640]                            | 1         | 3.13%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 1         | 3.13%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 1         | 3.13%   |
 | Intel Alder Lake-UP3 GT2 [Iris Xe Graphics]                               | 1         | 3.13%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 1         | 3.13%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1         | 3.13%   |
@@ -1624,8 +1625,8 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 1         | 2.94%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 2.94%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 1         | 2.94%   |
+| AMD Ryzen HD Audio Controller                                              | 1         | 2.94%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 2.94%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1         | 2.94%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1         | 2.94%   |
 
 Memory
@@ -1690,12 +1691,12 @@ Memory module models
 | Micron RAM Module 2GB Row Of Chips LPDDR4 4267MT/s                        | 1         | 2.7%    |
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s                     | 1         | 2.7%    |
 | Kingston RAM ACR21D4S15HAG/4G 4GB SODIMM DDR4 2133MT/s                    | 1         | 2.7%    |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 2400MT/s                   | 1         | 2.7%    |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR4 2400MT/s                   | 1         | 2.7%    |
 | Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s                   | 1         | 2.7%    |
 | Kingston RAM 9905428-105.A00G 8GB SODIMM DDR3 1333MT/s                    | 1         | 2.7%    |
 | A-DATA RAM Module 8GB SODIMM DDR3 1333MT/s                                | 1         | 2.7%    |
 | A-DATA RAM MIOVE1B163BZ 2GB SODIMM SDRAM 1639MT/s                         | 1         | 2.7%    |
-| 48spaces RAM 012345678901234567890123456789012345 1GB SODIMM DDR2 800MT/s | 1         | 2.7%    |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 2.7%    |
 
 Memory Kind
 -----------

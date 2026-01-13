@@ -994,7 +994,7 @@ Graphics card models
 | Nvidia GM107 [GeForce GTX 750 Ti]                                         | 1        | 6.67%   |
 | Nvidia G72 [GeForce 7300 LE]                                              | 1        | 6.67%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller          | 1        | 6.67%   |
-| Intel HD Graphics 530                                                     | 1        | 6.67%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                     | 1        | 6.67%   |
 | Intel 82Q35 Express Integrated Graphics Controller                        | 1        | 6.67%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1        | 6.67%   |
 | AMD RV620 PRO [Radeon HD 3470]                                            | 1        | 6.67%   |
@@ -1431,8 +1431,8 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 4.76%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 4.76%   |
 | C-Media Electronics Audio Adapter                                          | 1        | 4.76%   |
+| AMD Ryzen HD Audio Controller                                              | 1        | 4.76%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1        | 4.76%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 4.76%   |
 
 Memory
 ------
@@ -1466,23 +1466,23 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                     | Desktops | Percent |
-|-----------------------------------------------------------|----------|---------|
-| Micron RAM ITC 4GB DIMM DDR3 1066MT/s                     | 2        | 12.5%   |
-| Unknown RAM Module 1024MB DIMM DDR2 533MT/s               | 1        | 6.25%   |
-| SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s      | 1        | 6.25%   |
-| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s     | 1        | 6.25%   |
-| Nanya RAM NT1GT64U88D0BY-AD 1024MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
-| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s        | 1        | 6.25%   |
-| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s      | 1        | 6.25%   |
-| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s         | 1        | 6.25%   |
-| Kingston RAM KHX2400C15D4/8G 8192MB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
-| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s    | 1        | 6.25%   |
-| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s     | 1        | 6.25%   |
-| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s     | 1        | 6.25%   |
-| Crucial RAM BLS8G4D240FSEK.8FBD 8192MB DIMM DDR4 2400MT/s | 1        | 6.25%   |
-| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s    | 1        | 6.25%   |
-| Corsair RAM CM2X2048-6400C5 2048MB DIMM DDR2 800MT/s      | 1        | 6.25%   |
+| Model                                                  | Desktops | Percent |
+|--------------------------------------------------------|----------|---------|
+| Micron RAM ITC 4GB DIMM DDR3 1066MT/s                  | 2        | 12.5%   |
+| Unknown RAM Module 1024MB DIMM DDR2 533MT/s            | 1        | 6.25%   |
+| SK hynix RAM HMT125U6AFP8C-G7 2GB DIMM DDR3 1066MT/s   | 1        | 6.25%   |
+| Samsung RAM M471B5273CH0-CK0 4GB SODIMM DDR3 1600MT/s  | 1        | 6.25%   |
+| Nanya RAM NT1GT64U88D0BY-AD 1GB DIMM DDR2 800MT/s      | 1        | 6.25%   |
+| Micron RAM 8HTF12864AZ-800H1 1GB DIMM DDR2 800MT/s     | 1        | 6.25%   |
+| Micron RAM 16JTF51264AZ-1G4M1 4GB DIMM DDR3 1333MT/s   | 1        | 6.25%   |
+| Kingston RAM KHX2666C16/8G 8GB DIMM DDR4 2933MT/s      | 1        | 6.25%   |
+| Kingston RAM KHX2400C15D4/8G 8GB DIMM DDR4 2400MT/s    | 1        | 6.25%   |
+| G.Skill RAM F4-3600C18-8GTZN 8192MB DIMM DDR4 3600MT/s | 1        | 6.25%   |
+| G.Skill RAM F4-2400C17-8GVR 8192MB DIMM DDR4 2400MT/s  | 1        | 6.25%   |
+| Elpida RAM EBE11UD8AJWA-6E-E 1024MB DIMM DDR2 667MT/s  | 1        | 6.25%   |
+| Crucial RAM BLS8G4D240FSEK.8FBD 8GB DIMM DDR4 2400MT/s | 1        | 6.25%   |
+| Corsair RAM CMZ4GX3M2A1600C9 2048MB DIMM DDR3 1333MT/s | 1        | 6.25%   |
+| Corsair RAM CM2X2048-6400C5 2GB DIMM DDR2 800MT/s      | 1        | 6.25%   |
 
 Memory Kind
 -----------

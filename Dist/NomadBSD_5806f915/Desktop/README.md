@@ -1044,7 +1044,7 @@ Graphics card models
 | Nvidia GP104 [GeForce GTX 1070 Ti]                                        | 1        | 5.26%   |
 | Nvidia GK208B [GeForce GT 710]                                            | 1        | 5.26%   |
 | Nvidia GA104 [GeForce RTX 3070]                                           | 1        | 5.26%   |
-| Intel HD Graphics 630                                                     | 1        | 5.26%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                   | 1        | 5.26%   |
 | Intel GeminiLake [UHD Graphics 605]                                       | 1        | 5.26%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 1        | 5.26%   |
@@ -1537,11 +1537,11 @@ Sound card models
 | C-Media Electronics Audio Device                                           | 1        | 2.38%   |
 | Audio-Technica AT2020USB+                                                  | 1        | 2.38%   |
 | AMD Vega 20 HDMI Audio [Radeon VII]                                        | 1        | 2.38%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 2.38%   |
+| AMD Ryzen HD Audio Controller                                              | 1        | 2.38%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1        | 2.38%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 2.38%   |
 | AMD Kabini HDMI/DP Audio                                                   | 1        | 2.38%   |
 | AMD FCH Azalia Controller                                                  | 1        | 2.38%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 2.38%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 1        | 2.38%   |
 
 Memory

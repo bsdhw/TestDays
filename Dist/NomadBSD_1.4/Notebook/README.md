@@ -1015,17 +1015,17 @@ Graphics card models
 
 | Model                                                                                    | Notebooks | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
-| Intel HD Graphics 620                                                                    | 2         | 9.52%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 2         | 9.52%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 9.52%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 2         | 9.52%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 2         | 9.52%   |
 | Nvidia GK106GLM [Quadro K2100M]                                                          | 1         | 4.76%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 1         | 4.76%   |
 | Nvidia G72M [GeForce Go 7400]                                                            | 1         | 4.76%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 1         | 4.76%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 1         | 4.76%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                               | 1         | 4.76%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 1         | 4.76%   |
-| Intel HD Graphics 630                                                                    | 1         | 4.76%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 1         | 4.76%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 4.76%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 1         | 4.76%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 4.76%   |
@@ -1109,13 +1109,13 @@ Monitor models
 
 | Model                                                                | Notebooks | Percent |
 |----------------------------------------------------------------------|-----------|---------|
-| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 2         | 11.76%  |
+| Panasonic LCD Monitor MEI96A2 2880x1620 340x190mm 15.3-inch          | 2         | 11.76%  |
 | Samsung Electronics LCD Monitor SEC3030 1024x600 220x130mm 10.1-inch | 1         | 5.88%   |
 | Samsung Electronics LCD Monitor SDC4D42 1366x768 310x170mm 13.9-inch | 1         | 5.88%   |
 | LG Display LCD Monitor LGD0532 1920x1080 340x190mm 15.3-inch         | 1         | 5.88%   |
 | LG Display LCD Monitor LGD0414 1920x1080 280x160mm 12.7-inch         | 1         | 5.88%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch          | 1         | 5.88%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch              | 1         | 5.88%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 350x190mm 15.7-inch              | 1         | 5.88%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch           | 1         | 5.88%   |
 | CPT LCD Monitor CPT04C4 1024x600 230x140mm 10.6-inch                 | 1         | 5.88%   |
 | BOE LCD Monitor BOE0812 1920x1080 340x190mm 15.3-inch                | 1         | 5.88%   |
@@ -1197,13 +1197,14 @@ Area in inch²
 
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
-| 91-100         | 8         | 47.06%  |
+| 91-100         | 7         | 41.18%  |
 | 61-70          | 2         | 11.76%  |
 | 41-50          | 2         | 11.76%  |
 | 121-130        | 2         | 11.76%  |
 | 81-90          | 1         | 5.88%   |
 | 301-350        | 1         | 5.88%   |
 | 201-250        | 1         | 5.88%   |
+| 101-110        | 1         | 5.88%   |
 
 Pixel Density
 -------------
@@ -1215,11 +1216,11 @@ Pixels per inch
 
 | Density       | Notebooks | Percent |
 |---------------|-----------|---------|
-| 101-120       | 8         | 47.06%  |
+| 101-120       | 7         | 41.18%  |
 | 121-160       | 4         | 23.53%  |
 | More than 240 | 2         | 11.76%  |
 | 161-240       | 2         | 11.76%  |
-| 51-100        | 1         | 5.88%   |
+| 51-100        | 2         | 11.76%  |
 
 Multiple Monitors
 -----------------
@@ -1487,8 +1488,8 @@ Sound card models
 | Intel Haswell-ULT HD Audio Controller                                                             | 2         | 8%      |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 8%      |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 8%      |
+| AMD Ryzen HD Audio Controller                                                                     | 2         | 8%      |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 2         | 8%      |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 2         | 8%      |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 1         | 4%      |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 1         | 4%      |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 1         | 4%      |
@@ -1530,8 +1531,8 @@ Memory module models
 
 | Model                                                                     | Notebooks | Percent |
 |---------------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s                     | 2         | 8.7%    |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s                     | 2         | 8.7%    |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s                     | 2         | 8.7%    |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
 | Unknown RAM Module 2GB SODIMM DDR2                                        | 1         | 4.35%   |
 | Unknown RAM Module 1GB SODIMM DDR2 667MT/s                                | 1         | 4.35%   |
@@ -1550,7 +1551,7 @@ Memory module models
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s                     | 1         | 4.35%   |
 | Elpida RAM Module 4GB SODIMM DDR3 1600MT/s                                | 1         | 4.35%   |
 | Crucial RAM BLS8G3N18AES4.16FE 8GB SODIMM DDR3 1867MT/s                   | 1         | 4.35%   |
-| 48spaces RAM 012345678901234567890123456789012345 1GB SODIMM DDR2 800MT/s | 1         | 4.35%   |
+| 48spaces RAM 012345678901234567890123456789012345 2GB SODIMM DDR2 800MT/s | 1         | 4.35%   |
 
 Memory Kind
 -----------
@@ -1607,7 +1608,7 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 5         | 26.32%  |
-| 2667    | 4         | 21.05%  |
+| 3200    | 4         | 21.05%  |
 | 2400    | 3         | 15.79%  |
 | 1867    | 2         | 10.53%  |
 | 1334    | 2         | 10.53%  |

@@ -147,10 +147,16 @@ Contents
 Test Cases
 ----------
 
-Total: 43
+Total: 49
 
 | Vendor        | Model                    | Probe                                                     | Date         |
 |---------------|--------------------------|-----------------------------------------------------------|--------------|
+| ASUSTek       | P8Z77-V LE               | [831ec0cbe0](https://bsd-hardware.info/?probe=831ec0cbe0) | Apr 02, 2025 |
+| MSI           | PRO H610M-B DDR4         | [b967512f0a](https://bsd-hardware.info/?probe=b967512f0a) | Jan 18, 2025 |
+| MSI           | PRO H610M-B DDR4         | [155ce60e10](https://bsd-hardware.info/?probe=155ce60e10) | Jan 17, 2025 |
+| Gigabyte      | A320M-H-CF               | [e6b2d88f4a](https://bsd-hardware.info/?probe=e6b2d88f4a) | Jan 12, 2025 |
+| ASUSTek       | PRIME B550-PLUS          | [1df8618482](https://bsd-hardware.info/?probe=1df8618482) | Jan 07, 2025 |
+| ASUSTek       | PRIME B550-PLUS          | [ae63b0d957](https://bsd-hardware.info/?probe=ae63b0d957) | Jan 07, 2025 |
 | ASUSTek       | PRIME B550-PLUS          | [6a1b59c063](https://bsd-hardware.info/?probe=6a1b59c063) | Jan 06, 2025 |
 | ASUSTek       | PRIME B550-PLUS          | [ca1c97cf99](https://bsd-hardware.info/?probe=ca1c97cf99) | Dec 05, 2024 |
 | Dell          | 0K240Y A02               | [83b15fc400](https://bsd-hardware.info/?probe=83b15fc400) | Dec 01, 2024 |
@@ -208,24 +214,24 @@ Installed operating systems
 
 | Name               | Desktops | Percent |
 |--------------------|----------|---------|
-| MyBee 13.2         | 5        | 15.63%  |
-| MyBee 13.1         | 4        | 12.5%   |
-| MyBee 14.0-p2      | 3        | 9.38%   |
-| MyBee 13.1-p7      | 3        | 9.38%   |
-| MyBee 14.1-p6      | 2        | 6.25%   |
-| MyBee 14.0-CURRENT | 2        | 6.25%   |
-| MyBee 13.1-p1      | 2        | 6.25%   |
-| MyBee 14.2         | 1        | 3.13%   |
-| MyBee 14.1-p4      | 1        | 3.13%   |
-| MyBee 14.0-p6      | 1        | 3.13%   |
-| MyBee 14.0-BETA3   | 1        | 3.13%   |
-| MyBee 14.0-BETA2   | 1        | 3.13%   |
-| MyBee 14.0         | 1        | 3.13%   |
-| MyBee 13.2-RC5     | 1        | 3.13%   |
-| MyBee 13.2-RC4     | 1        | 3.13%   |
-| MyBee 13.2-RC2     | 1        | 3.13%   |
-| MyBee 13.1-p5      | 1        | 3.13%   |
-| MyBee 13.1-p3      | 1        | 3.13%   |
+| MyBee 13.2         | 5        | 14.71%  |
+| MyBee 13.1         | 4        | 11.76%  |
+| MyBee 14.2         | 3        | 8.82%   |
+| MyBee 14.0-p2      | 3        | 8.82%   |
+| MyBee 13.1-p7      | 3        | 8.82%   |
+| MyBee 14.1-p6      | 2        | 5.88%   |
+| MyBee 14.0-CURRENT | 2        | 5.88%   |
+| MyBee 13.1-p1      | 2        | 5.88%   |
+| MyBee 14.1-p4      | 1        | 2.94%   |
+| MyBee 14.0-p6      | 1        | 2.94%   |
+| MyBee 14.0-BETA3   | 1        | 2.94%   |
+| MyBee 14.0-BETA2   | 1        | 2.94%   |
+| MyBee 14.0         | 1        | 2.94%   |
+| MyBee 13.2-RC5     | 1        | 2.94%   |
+| MyBee 13.2-RC4     | 1        | 2.94%   |
+| MyBee 13.2-RC2     | 1        | 2.94%   |
+| MyBee 13.1-p5      | 1        | 2.94%   |
+| MyBee 13.1-p3      | 1        | 2.94%   |
 
 OS Family
 ---------
@@ -482,13 +488,13 @@ Total RAM memory
 
 | Size in GB  | Desktops | Percent |
 |-------------|----------|---------|
-| 64.01-256.0 | 10       | 40%     |
-| 8.01-16.0   | 7        | 28%     |
-| 32.01-64.0  | 3        | 12%     |
-| 16.01-24.0  | 2        | 8%      |
-| 4.01-8.0    | 1        | 4%      |
-| 3.01-4.0    | 1        | 4%      |
-| 24.01-32.0  | 1        | 4%      |
+| 64.01-256.0 | 10       | 38.46%  |
+| 8.01-16.0   | 7        | 26.92%  |
+| 32.01-64.0  | 3        | 11.54%  |
+| 24.01-32.0  | 2        | 7.69%   |
+| 16.01-24.0  | 2        | 7.69%   |
+| 4.01-8.0    | 1        | 3.85%   |
+| 3.01-4.0    | 1        | 3.85%   |
 
 RAM Used
 --------
@@ -500,12 +506,12 @@ Used RAM memory
 
 | Used GB    | Desktops | Percent |
 |------------|----------|---------|
-| 0.51-1.0   | 10       | 40%     |
-| 2.01-3.0   | 5        | 20%     |
-| 1.01-2.0   | 4        | 16%     |
-| 4.01-8.0   | 3        | 12%     |
-| 16.01-24.0 | 2        | 8%      |
-| 0.01-0.5   | 1        | 4%      |
+| 0.51-1.0   | 10       | 38.46%  |
+| 2.01-3.0   | 5        | 19.23%  |
+| 1.01-2.0   | 5        | 19.23%  |
+| 4.01-8.0   | 3        | 11.54%  |
+| 16.01-24.0 | 2        | 7.69%   |
+| 0.01-0.5   | 1        | 3.85%   |
 
 Total Drives
 ------------
@@ -517,13 +523,13 @@ Number of drives on board
 
 | Drives | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 11       | 39.29%  |
-| 2      | 8        | 28.57%  |
-| 3      | 3        | 10.71%  |
-| 5      | 2        | 7.14%   |
-| 0      | 2        | 7.14%   |
-| 6      | 1        | 3.57%   |
-| 4      | 1        | 3.57%   |
+| 1      | 11       | 37.93%  |
+| 2      | 9        | 31.03%  |
+| 3      | 3        | 10.34%  |
+| 5      | 2        | 6.9%    |
+| 0      | 2        | 6.9%    |
+| 6      | 1        | 3.45%   |
+| 4      | 1        | 3.45%   |
 
 Has CD-ROM
 ----------
@@ -606,20 +612,20 @@ Geographic location (city)
 
 | City                | Desktops | Percent |
 |---------------------|----------|---------|
-| St Petersburg       | 9        | 36%     |
-| Moscow              | 3        | 12%     |
-| Khabarovsk          | 2        | 8%      |
-| Vladivostok         | 1        | 4%      |
-| Ulan-Ude            | 1        | 4%      |
-| Tosno               | 1        | 4%      |
-| Remscheid           | 1        | 4%      |
-| Naberezhnyye Chelny | 1        | 4%      |
-| Montreal            | 1        | 4%      |
-| Mermoz Boabab       | 1        | 4%      |
-| Irkutsk             | 1        | 4%      |
-| Helsinki            | 1        | 4%      |
-| Falkenstein         | 1        | 4%      |
-| Clearwater          | 1        | 4%      |
+| St Petersburg       | 9        | 34.62%  |
+| Moscow              | 3        | 11.54%  |
+| Tosno               | 2        | 7.69%   |
+| Khabarovsk          | 2        | 7.69%   |
+| Vladivostok         | 1        | 3.85%   |
+| Ulan-Ude            | 1        | 3.85%   |
+| Remscheid           | 1        | 3.85%   |
+| Naberezhnyye Chelny | 1        | 3.85%   |
+| Montreal            | 1        | 3.85%   |
+| Mermoz Boabab       | 1        | 3.85%   |
+| Irkutsk             | 1        | 3.85%   |
+| Helsinki            | 1        | 3.85%   |
+| Falkenstein         | 1        | 3.85%   |
+| Clearwater          | 1        | 3.85%   |
 
 Drives
 ------
@@ -634,20 +640,20 @@ Hard drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Toshiba             | 6        | 28     | 18.75%  |
-| Seagate             | 5        | 14     | 15.63%  |
-| Samsung Electronics | 5        | 7      | 15.63%  |
-| WDC                 | 3        | 3      | 9.38%   |
-| Kingston            | 3        | 3      | 9.38%   |
-| KingSpec            | 2        | 2      | 6.25%   |
-| Silicon Motion      | 1        | 2      | 3.13%   |
-| Phison              | 1        | 1      | 3.13%   |
-| Micron Technology   | 1        | 2      | 3.13%   |
-| Intel               | 1        | 1      | 3.13%   |
-| Hitachi             | 1        | 2      | 3.13%   |
-| GOODRAM             | 1        | 1      | 3.13%   |
-| Crucial             | 1        | 1      | 3.13%   |
-| A-DATA Technology   | 1        | 2      | 3.13%   |
+| Toshiba             | 6        | 28     | 17.65%  |
+| Seagate             | 6        | 17     | 17.65%  |
+| Samsung Electronics | 5        | 7      | 14.71%  |
+| Kingston            | 4        | 4      | 11.76%  |
+| WDC                 | 3        | 3      | 8.82%   |
+| KingSpec            | 2        | 2      | 5.88%   |
+| Silicon Motion      | 1        | 2      | 2.94%   |
+| Phison              | 1        | 1      | 2.94%   |
+| Micron Technology   | 1        | 2      | 2.94%   |
+| Intel               | 1        | 1      | 2.94%   |
+| Hitachi             | 1        | 2      | 2.94%   |
+| GOODRAM             | 1        | 1      | 2.94%   |
+| Crucial             | 1        | 1      | 2.94%   |
+| A-DATA Technology   | 1        | 2      | 2.94%   |
 
 Drive Model
 -----------
@@ -659,35 +665,36 @@ Hard drive models
 
 | Model                            | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Toshiba MG07ACA12TE 12TB         | 2        | 6.06%   |
-| Seagate ST1000DM010-2EP102 1TB   | 2        | 6.06%   |
-| Samsung SSD 980 1TB              | 2        | 6.06%   |
-| Samsung SSD 870 EVO 1TB          | 2        | 6.06%   |
-| WDC WDS120G2G0A-00JH30 120GB     | 1        | 3.03%   |
-| WDC WD30EJRX-89AKWY0 3TB         | 1        | 3.03%   |
-| WDC WD2500AAKS-22VSA0 250GB      | 1        | 3.03%   |
-| Toshiba MG06ACA800E 8TB          | 1        | 3.03%   |
-| Toshiba KXG50ZNV512G 512GB       | 1        | 3.03%   |
-| Toshiba HDWD110 1TB              | 1        | 3.03%   |
-| Toshiba DT01ACA100 1TB           | 1        | 3.03%   |
-| Silicon Motion PCIe SSD 256GB    | 1        | 3.03%   |
-| Seagate ST500LT012-1DG142 500GB  | 1        | 3.03%   |
-| Seagate ST500DM002-1SB10A 500GB  | 1        | 3.03%   |
-| Seagate ST2000DM008-2UB102 2TB   | 1        | 3.03%   |
-| Samsung SSD 970 EVO Plus 1TB     | 1        | 3.03%   |
-| Phison PCIe SSD 128GB            | 1        | 3.03%   |
-| Micron 1100_MTFDDAK512TBN 512GB  | 1        | 3.03%   |
-| Kingston SA400S37960G 960GB      | 1        | 3.03%   |
-| Kingston SA400S37480G 480GB      | 1        | 3.03%   |
-| Kingston SA400S37120G 120GB      | 1        | 3.03%   |
-| KingSpec P3-256 256GB            | 1        | 3.03%   |
-| KingSpec MT-1TB                  | 1        | 3.03%   |
-| Intel SSDPEKNW010T8 1TB          | 1        | 3.03%   |
-| Hitachi HDS721010KLA330 1TB      | 1        | 3.03%   |
-| Hitachi HDE721010SLA330 1TB      | 1        | 3.03%   |
-| GOODRAM SSDPR-PX500-256-80 256GB | 1        | 3.03%   |
-| Crucial CT1000MX500SSD1 1TB      | 1        | 3.03%   |
-| A-DATA SX8200PNP 1TB             | 1        | 3.03%   |
+| Toshiba MG07ACA12TE 12TB         | 2        | 5.71%   |
+| Seagate ST1000DM010-2EP102 1TB   | 2        | 5.71%   |
+| Samsung SSD 980 1TB              | 2        | 5.71%   |
+| Samsung SSD 870 EVO 1TB          | 2        | 5.71%   |
+| Kingston SA400S37120G 120GB      | 2        | 5.71%   |
+| WDC WDS120G2G0A-00JH30 120GB     | 1        | 2.86%   |
+| WDC WD30EJRX-89AKWY0 3TB         | 1        | 2.86%   |
+| WDC WD2500AAKS-22VSA0 250GB      | 1        | 2.86%   |
+| Toshiba MG06ACA800E 8TB          | 1        | 2.86%   |
+| Toshiba KXG50ZNV512G 512GB       | 1        | 2.86%   |
+| Toshiba HDWD110 1TB              | 1        | 2.86%   |
+| Toshiba DT01ACA100 1TB           | 1        | 2.86%   |
+| Silicon Motion PCIe SSD 256GB    | 1        | 2.86%   |
+| Seagate ST500LT012-1DG142 500GB  | 1        | 2.86%   |
+| Seagate ST500DM002-1SB10A 500GB  | 1        | 2.86%   |
+| Seagate ST2000DM008-2UB102 2TB   | 1        | 2.86%   |
+| Seagate ST2000DM006-2DM164 2TB   | 1        | 2.86%   |
+| Samsung SSD 970 EVO Plus 1TB     | 1        | 2.86%   |
+| Phison PCIe SSD 2TB              | 1        | 2.86%   |
+| Micron 1100_MTFDDAK512TBN 512GB  | 1        | 2.86%   |
+| Kingston SA400S37960G 960GB      | 1        | 2.86%   |
+| Kingston SA400S37480G 480GB      | 1        | 2.86%   |
+| KingSpec P3-256 256GB            | 1        | 2.86%   |
+| KingSpec MT-1TB                  | 1        | 2.86%   |
+| Intel SSDPEKNW010T8 1TB          | 1        | 2.86%   |
+| Hitachi HDS721010KLA330 1TB      | 1        | 2.86%   |
+| Hitachi HDE721010SLA330 1TB      | 1        | 2.86%   |
+| GOODRAM SSDPR-PX500-256-80 256GB | 1        | 2.86%   |
+| Crucial CT1000MX500SSD1 1TB      | 1        | 2.86%   |
+| A-DATA SX8200PNP 1TB             | 1        | 2.86%   |
 
 HDD Vendor
 ----------
@@ -699,10 +706,10 @@ Hard disk drive vendors
 
 | Vendor  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Toshiba | 5        | 26     | 38.46%  |
-| Seagate | 5        | 14     | 38.46%  |
-| WDC     | 2        | 2      | 15.38%  |
-| Hitachi | 1        | 2      | 7.69%   |
+| Seagate | 6        | 17     | 42.86%  |
+| Toshiba | 5        | 26     | 35.71%  |
+| WDC     | 2        | 2      | 14.29%  |
+| Hitachi | 1        | 2      | 7.14%   |
 
 SSD Vendor
 ----------
@@ -714,12 +721,12 @@ Solid state drive vendors
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Kingston            | 3        | 3      | 30%     |
-| Samsung Electronics | 2        | 3      | 20%     |
-| KingSpec            | 2        | 2      | 20%     |
-| WDC                 | 1        | 1      | 10%     |
-| Micron Technology   | 1        | 2      | 10%     |
-| Crucial             | 1        | 1      | 10%     |
+| Kingston            | 4        | 4      | 36.36%  |
+| Samsung Electronics | 2        | 3      | 18.18%  |
+| KingSpec            | 2        | 2      | 18.18%  |
+| WDC                 | 1        | 1      | 9.09%   |
+| Micron Technology   | 1        | 2      | 9.09%   |
+| Crucial             | 1        | 1      | 9.09%   |
 
 Drive Kind
 ----------
@@ -731,9 +738,9 @@ HDD or SSD
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| HDD  | 12       | 44     | 40%     |
-| NVMe | 9        | 13     | 30%     |
-| SSD  | 9        | 12     | 30%     |
+| HDD  | 13       | 47     | 40.63%  |
+| SSD  | 10       | 13     | 31.25%  |
+| NVMe | 9        | 13     | 28.13%  |
 
 Drive Connector
 ---------------
@@ -745,8 +752,8 @@ SATA, SAS, NVMe, etc.
 
 | Type | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SATA | 19       | 56     | 67.86%  |
-| NVMe | 9        | 13     | 32.14%  |
+| SATA | 20       | 60     | 68.97%  |
+| NVMe | 9        | 13     | 31.03%  |
 
 Drive Size
 ----------
@@ -758,12 +765,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.51-1.0   | 8        | 21     | 38.1%   |
-| 0.01-0.5   | 7        | 7      | 33.33%  |
-| 10.01-20.0 | 2        | 20     | 9.52%   |
-| 1.01-2.0   | 2        | 3      | 9.52%   |
-| 2.01-3.0   | 1        | 1      | 4.76%   |
-| 4.01-10.0  | 1        | 4      | 4.76%   |
+| 0.51-1.0   | 9        | 24     | 39.13%  |
+| 0.01-0.5   | 8        | 8      | 34.78%  |
+| 10.01-20.0 | 2        | 20     | 8.7%    |
+| 1.01-2.0   | 2        | 3      | 8.7%    |
+| 2.01-3.0   | 1        | 1      | 4.35%   |
+| 4.01-10.0  | 1        | 4      | 4.35%   |
 
 Space Total
 -----------
@@ -775,12 +782,12 @@ Amount of disk space available on the file system
 
 | Size in GB     | Desktops | Percent |
 |----------------|----------|---------|
-| 501-1000       | 11       | 40.74%  |
-| 101-250        | 5        | 18.52%  |
-| More than 3000 | 4        | 14.81%  |
-| 251-500        | 4        | 14.81%  |
-| 1001-2000      | 2        | 7.41%   |
-| 2001-3000      | 1        | 3.7%    |
+| 501-1000       | 12       | 41.38%  |
+| 101-250        | 5        | 17.24%  |
+| More than 3000 | 4        | 13.79%  |
+| 251-500        | 4        | 13.79%  |
+| 1001-2000      | 3        | 10.34%  |
+| 2001-3000      | 1        | 3.45%   |
 
 Space Used
 ----------
@@ -805,8 +812,9 @@ Drive models with a malfunction
 
 | Model                                      | Desktops | Drives | Percent |
 |--------------------------------------------|----------|--------|---------|
-| Samsung Electronics SSD 870 EVO 1TB        | 2        | 3      | 66.67%  |
-| Micron Technology 1100_MTFDDAK512TBN 512GB | 1        | 2      | 33.33%  |
+| Samsung Electronics SSD 870 EVO 1TB        | 2        | 3      | 50%     |
+| Micron Technology 1100_MTFDDAK512TBN 512GB | 1        | 2      | 25%     |
+| Kingston SA400S37120G 120GB                | 1        | 1      | 25%     |
 
 Malfunc. Drive Vendor
 ---------------------
@@ -818,8 +826,9 @@ Vendors of faulty drives
 
 | Vendor              | Desktops | Drives | Percent |
 |---------------------|----------|--------|---------|
-| Samsung Electronics | 2        | 3      | 66.67%  |
-| Micron Technology   | 1        | 2      | 33.33%  |
+| Samsung Electronics | 2        | 3      | 50%     |
+| Micron Technology   | 1        | 2      | 25%     |
+| Kingston            | 1        | 1      | 25%     |
 
 Malfunc. HDD Vendor
 -------------------
@@ -838,7 +847,7 @@ Kinds of faulty drives
 
 | Kind | Desktops | Drives | Percent |
 |------|----------|--------|---------|
-| SSD  | 3        | 5      | 100%    |
+| SSD  | 4        | 6      | 100%    |
 
 Failed Drives
 -------------
@@ -864,8 +873,8 @@ Number of failed and malfunc. drives
 
 | Status  | Desktops | Drives | Percent |
 |---------|----------|--------|---------|
-| Works   | 23       | 64     | 88.46%  |
-| Malfunc | 3        | 5      | 11.54%  |
+| Works   | 23       | 67     | 85.19%  |
+| Malfunc | 4        | 6      | 14.81%  |
 
 Storage controller
 ------------------
@@ -1023,13 +1032,13 @@ Number of processor cores
 
 | Number | Desktops | Percent |
 |--------|----------|---------|
-| 4      | 10       | 38.46%  |
-| 6      | 7        | 26.92%  |
-| 12     | 5        | 19.23%  |
-| 32     | 1        | 3.85%   |
-| 24     | 1        | 3.85%   |
-| 18     | 1        | 3.85%   |
-| 8      | 1        | 3.85%   |
+| 4      | 11       | 40.74%  |
+| 6      | 7        | 25.93%  |
+| 12     | 5        | 18.52%  |
+| 32     | 1        | 3.7%    |
+| 24     | 1        | 3.7%    |
+| 18     | 1        | 3.7%    |
+| 8      | 1        | 3.7%    |
 
 CPU Sockets
 -----------
@@ -1053,8 +1062,8 @@ Threads per core (Hyper-Threading)
 
 | Number | Desktops | Percent |
 |--------|----------|---------|
-| 1      | 13       | 52%     |
-| 2      | 12       | 48%     |
+| 2      | 13       | 50%     |
+| 1      | 13       | 50%     |
 
 CPU Microarch
 -------------
@@ -1109,7 +1118,7 @@ Graphics card models
 
 | Model                                                                | Desktops | Percent |
 |----------------------------------------------------------------------|----------|---------|
-| Intel HD Graphics 630                                                | 3        | 12%     |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                              | 3        | 12%     |
 | Intel Alder Lake-S GT1 [UHD Graphics 730]                            | 2        | 8%      |
 | ASPEED Technology ASPEED Graphics Family                             | 2        | 8%      |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]          | 2        | 8%      |
@@ -1121,12 +1130,12 @@ Graphics card models
 | Nvidia GK104GL [Quadro K4200]                                        | 1        | 4%      |
 | Nvidia GF119 [GeForce GT 610]                                        | 1        | 4%      |
 | Nvidia G96C [GeForce 9500 GT]                                        | 1        | 4%      |
-| Intel UHD Graphics 620                                               | 1        | 4%      |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                             | 1        | 4%      |
 | Intel IvyBridge GT2 [HD Graphics 4000]                               | 1        | 4%      |
-| Intel HD Graphics 500                                                | 1        | 4%      |
 | Intel CometLake-S GT2 [UHD Graphics 630]                             | 1        | 4%      |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display         | 1        | 4%      |
-| Intel AlderLake-S GT1                                                | 1        | 4%      |
+| Intel Apollo Lake GT1 [HD Graphics 500]                              | 1        | 4%      |
+| Intel Alder Lake-S GT1 [UHD Graphics 770]                            | 1        | 4%      |
 | AMD RS880 [Radeon HD 4250]                                           | 1        | 4%      |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series] | 1        | 4%      |
 
@@ -1506,10 +1515,10 @@ Sound card models
 |----------------------------------------------------------------------------|----------|---------|
 | AMD Starship/Matisse HD Audio Controller                                   | 4        | 12.12%  |
 | Intel Alder Lake-S HD Audio Controller                                     | 3        | 9.09%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3        | 9.09%   |
+| AMD Ryzen HD Audio Controller                                              | 3        | 9.09%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 2        | 6.06%   |
 | AMD SBx00 Azalia (Intel HDA)                                               | 2        | 6.06%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 2        | 6.06%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 2        | 6.06%   |
 | Nvidia High Definition Audio Controller                                    | 1        | 3.03%   |
 | Nvidia GP108 High Definition Audio Controller                              | 1        | 3.03%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 1        | 3.03%   |
@@ -1541,18 +1550,20 @@ Memory module vendors
 
 | Vendor                                  | Desktops | Percent |
 |-----------------------------------------|----------|---------|
-| Kingston                                | 7        | 28%     |
-| Crucial                                 | 5        | 20%     |
-| SK hynix                                | 2        | 8%      |
-| Silicon Power Computer & Communications | 2        | 8%      |
-| Samsung Electronics                     | 2        | 8%      |
-| Unknown (ABCD)                          | 1        | 4%      |
-| Unknown                                 | 1        | 4%      |
-| Transcend                               | 1        | 4%      |
-| Patriot                                 | 1        | 4%      |
-| Micron Technology                       | 1        | 4%      |
-| A-DATA Technology                       | 1        | 4%      |
-| Unknown                                 | 1        | 4%      |
+| Kingston                                | 7        | 25%     |
+| Crucial                                 | 5        | 17.86%  |
+| Samsung Electronics                     | 3        | 10.71%  |
+| SK hynix                                | 2        | 7.14%   |
+| Silicon Power Computer & Communications | 2        | 7.14%   |
+| Unknown (ABCD)                          | 1        | 3.57%   |
+| Unknown                                 | 1        | 3.57%   |
+| Transcend                               | 1        | 3.57%   |
+| Patriot                                 | 1        | 3.57%   |
+| Micron Technology                       | 1        | 3.57%   |
+| G.Skill                                 | 1        | 3.57%   |
+| CSX                                     | 1        | 3.57%   |
+| A-DATA Technology                       | 1        | 3.57%   |
+| Unknown                                 | 1        | 3.57%   |
 
 Memory Model
 ------------
@@ -1562,33 +1573,36 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Desktops | Percent |
-|----------------------------------------------------------------|----------|---------|
-| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s              | 2        | 7.14%   |
-| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s          | 2        | 7.14%   |
-| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s       | 2        | 7.14%   |
-| Unknown RAM Module 8GB DIMM 1333MT/s                           | 1        | 3.57%   |
-| Unknown RAM Module 2GB DIMM 1333MT/s                           | 1        | 3.57%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s | 1        | 3.57%   |
-| Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s            | 1        | 3.57%   |
-| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s           | 1        | 3.57%   |
-| SK hynix RAM HMA451R7MFR8N-TF 4GB RIMM DDR4 2133MT/s           | 1        | 3.57%   |
-| Samsung RAM Module 2GB DIMM DDR3 400MT/s                       | 1        | 3.57%   |
-| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s           | 1        | 3.57%   |
-| Samsung RAM M393A4K40BB1-CRC 32GB DIMM 2400MT/s                | 1        | 3.57%   |
-| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s            | 1        | 3.57%   |
-| Micron RAM 16ATF4G64AZ-3G2F1 32GB DIMM DDR4 3200MT/s           | 1        | 3.57%   |
-| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s         | 1        | 3.57%   |
-| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s        | 1        | 3.57%   |
-| Kingston RAM 9905782-018.A00G 32GB DIMM DDR5 4800MT/s          | 1        | 3.57%   |
-| Kingston RAM 9905702-082.B00G 8GB DIMM DDR4 2666MT/s           | 1        | 3.57%   |
-| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s          | 1        | 3.57%   |
-| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s        | 1        | 3.57%   |
-| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s        | 1        | 3.57%   |
-| Crucial RAM CT32G4DFD832A.C16FE 32GB DIMM DDR4 3200MT/s        | 1        | 3.57%   |
-| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s        | 1        | 3.57%   |
-| A-DATA RAM Module 4GB DIMM DDR3 1600MT/s                       | 1        | 3.57%   |
-| Unknown                                                        | 1        | 3.57%   |
+| Model                                                        | Desktops | Percent |
+|--------------------------------------------------------------|----------|---------|
+| Silicon Power & RAM Module 8GB DIMM DDR4 3200MT/s            | 2        | 6.45%   |
+| Kingston RAM 9965745-026.A00G 16GB DIMM DDR4 3200MT/s        | 2        | 6.45%   |
+| Crucial RAM CT16G4DFD824A.C16FHD 16GB DIMM DDR4 2400MT/s     | 2        | 6.45%   |
+| Unknown RAM Module 8GB DIMM 1333MT/s                         | 1        | 3.23%   |
+| Unknown RAM Module 2GB DIMM 1333MT/s                         | 1        | 3.23%   |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s | 1        | 3.23%   |
+| Transcend RAM JM2666HLE-32G 32GB DIMM DDR4 2666MT/s          | 1        | 3.23%   |
+| SK hynix RAM HMA81GU6DJR8N-XN 8GB DIMM DDR4 2933MT/s         | 1        | 3.23%   |
+| SK hynix RAM HMA451R7MFR8N-TF 4GB RIMM DDR4 2133MT/s         | 1        | 3.23%   |
+| Samsung RAM Module 2GB DIMM DDR3 400MT/s                     | 1        | 3.23%   |
+| Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 3.23%   |
+| Samsung RAM M393A4K40BB1-CRC 32GB DIMM DDR4 2400MT/s         | 1        | 3.23%   |
+| Samsung RAM M378B5273DH0-YK0 4GB DIMM DDR3 1600MT/s          | 1        | 3.23%   |
+| Patriot RAM 1600 CL10 Series 8GB DIMM DDR3 1600MT/s          | 1        | 3.23%   |
+| Micron RAM 16ATF4G64AZ-3G2F1 32GB DIMM DDR4 3200MT/s         | 1        | 3.23%   |
+| Kingston RAM KHX3200C16D4/32GX 32GB DIMM DDR4 3200MT/s       | 1        | 3.23%   |
+| Kingston RAM KHX2400C14S4/16G 16GB SODIMM DDR4 2400MT/s      | 1        | 3.23%   |
+| Kingston RAM 9905782-018.A00G 32GB DIMM DDR5 4800MT/s        | 1        | 3.23%   |
+| Kingston RAM 9905702-082.B00G 8GB DIMM DDR4 2666MT/s         | 1        | 3.23%   |
+| Kingston RAM 9905474-050.A00LF 4GB DIMM DDR3 1333MT/s        | 1        | 3.23%   |
+| G.Skill RAM F4-3200C16-16GTZR 16GB DIMM DDR4 2133MT/s        | 1        | 3.23%   |
+| CSX RAM V01L3L84GB52852816 4GB DIMM DDR3 1600MT/s            | 1        | 3.23%   |
+| Crucial RAM CT32G4DFD832A.M16FF 32GB DIMM DDR4 3200MT/s      | 1        | 3.23%   |
+| Crucial RAM CT32G4DFD832A.C16FF 32GB DIMM DDR4 3200MT/s      | 1        | 3.23%   |
+| Crucial RAM CT32G4DFD832A.C16FE 32GB DIMM DDR4 3200MT/s      | 1        | 3.23%   |
+| Crucial RAM CT32G4DFD8266.C16FB 32GB DIMM DDR4 2666MT/s      | 1        | 3.23%   |
+| A-DATA RAM Module 4GB DIMM DDR3 1600MT/s                     | 1        | 3.23%   |
+| Unknown                                                      | 1        | 3.23%   |
 
 Memory Kind
 -----------
@@ -1600,11 +1614,11 @@ Memory module kinds
 
 | Kind    | Desktops | Percent |
 |---------|----------|---------|
-| DDR4    | 16       | 66.67%  |
-| DDR3    | 4        | 16.67%  |
-| Unknown | 2        | 8.33%   |
-| LPDDR4  | 1        | 4.17%   |
-| DDR5    | 1        | 4.17%   |
+| DDR4    | 16       | 64%     |
+| DDR3    | 5        | 20%     |
+| Unknown | 2        | 8%      |
+| LPDDR4  | 1        | 4%      |
+| DDR5    | 1        | 4%      |
 
 Memory Form Factor
 ------------------
@@ -1616,9 +1630,9 @@ Physical design of the memory module
 
 | Name   | Desktops | Percent |
 |--------|----------|---------|
-| DIMM   | 22       | 91.67%  |
-| SODIMM | 1        | 4.17%   |
-| RIMM   | 1        | 4.17%   |
+| DIMM   | 23       | 92%     |
+| SODIMM | 1        | 4%      |
+| RIMM   | 1        | 4%      |
 
 Memory Size
 -----------
@@ -1630,11 +1644,11 @@ Memory module size
 
 | Size  | Desktops | Percent |
 |-------|----------|---------|
-| 32768 | 7        | 28%     |
-| 16384 | 6        | 24%     |
-| 8192  | 6        | 24%     |
-| 4096  | 4        | 16%     |
-| 2048  | 2        | 8%      |
+| 32768 | 7        | 25.93%  |
+| 16384 | 7        | 25.93%  |
+| 8192  | 6        | 22.22%  |
+| 4096  | 5        | 18.52%  |
+| 2048  | 2        | 7.41%   |
 
 Memory Speed
 ------------
@@ -1646,16 +1660,16 @@ Memory module speed
 
 | Speed | Desktops | Percent |
 |-------|----------|---------|
-| 3200  | 7        | 29.17%  |
-| 2400  | 5        | 20.83%  |
-| 2666  | 3        | 12.5%   |
-| 1600  | 2        | 8.33%   |
-| 1333  | 2        | 8.33%   |
-| 4800  | 1        | 4.17%   |
-| 2933  | 1        | 4.17%   |
-| 2133  | 1        | 4.17%   |
-| 1066  | 1        | 4.17%   |
-| 400   | 1        | 4.17%   |
+| 3200  | 7        | 26.92%  |
+| 2400  | 5        | 19.23%  |
+| 2666  | 3        | 11.54%  |
+| 1600  | 3        | 11.54%  |
+| 2133  | 2        | 7.69%   |
+| 1333  | 2        | 7.69%   |
+| 4800  | 1        | 3.85%   |
+| 2933  | 1        | 3.85%   |
+| 1066  | 1        | 3.85%   |
+| 400   | 1        | 3.85%   |
 
 Printers & scanners
 -------------------

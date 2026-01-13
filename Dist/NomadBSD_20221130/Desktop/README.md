@@ -897,7 +897,7 @@ Graphics card models
 
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
-| Nvidia GP102 [TITAN X]                                                      | 1        | 14.29%  |
+| Nvidia GP102 [TITAN X Pascal]                                               | 1        | 14.29%  |
 | Nvidia GF108 [GeForce GT 630]                                               | 1        | 14.29%  |
 | Nvidia C61 [GeForce 7025 / nForce 630a]                                     | 1        | 14.29%  |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1        | 14.29%  |
@@ -929,8 +929,8 @@ Free vs proprietary
 
 | Driver      | Desktops | Percent |
 |-------------|----------|---------|
-| Free        | 5        | 71.43%  |
-| Proprietary | 2        | 28.57%  |
+| Free        | 6        | 85.71%  |
+| Proprietary | 1        | 14.29%  |
 
 GPU Memory
 ----------
@@ -1276,10 +1276,10 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1        | 6.25%   |
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1        | 6.25%   |
 | BEHRINGER International UMC 202HD 192k                                     | 1        | 6.25%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 6.25%   |
+| AMD Ryzen HD Audio Controller                                              | 1        | 6.25%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1        | 6.25%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 6.25%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 1        | 6.25%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 6.25%   |
 
 Memory
 ------

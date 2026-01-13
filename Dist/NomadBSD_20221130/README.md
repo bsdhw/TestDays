@@ -429,9 +429,9 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 4         | 11.76%  |
-| 2018 | 4         | 11.76%  |
 | 2012 | 4         | 11.76%  |
 | 2011 | 4         | 11.76%  |
+| 2018 | 3         | 8.82%   |
 | 2023 | 2         | 5.88%   |
 | 2022 | 2         | 5.88%   |
 | 2019 | 2         | 5.88%   |
@@ -441,6 +441,7 @@ Motherboard manufacture year
 | 2010 | 2         | 5.88%   |
 | 2009 | 2         | 5.88%   |
 | 2021 | 1         | 2.94%   |
+| 2017 | 1         | 2.94%   |
 | 2016 | 1         | 2.94%   |
 
 Form Factor
@@ -693,7 +694,7 @@ Hard drive models
 | Seagate ST1000DM010-2EP102 1TB    | 1         | 2.56%   |
 | SanDisk X400 M.2 2280 256GB       | 1         | 2.56%   |
 | SanDisk SDSSDA240G 240GB          | 1         | 2.56%   |
-| SanDisk pSSD 16GB                 | 1         | 2.56%   |
+| SanDisk pSSD 32GB                 | 1         | 2.56%   |
 | Samsung SSD PM851 2.5 7mm 256GB   | 1         | 2.56%   |
 | Samsung SSD 970 EVO Plus 2TB      | 1         | 2.56%   |
 | Samsung SSD 970 EVO Plus 1TB      | 1         | 2.56%   |
@@ -882,7 +883,7 @@ Failed drive models
 
 | Model             | Computers | Drives | Percent |
 |-------------------|-----------|--------|---------|
-| SanDisk pSSD 16GB | 1         | 1      | 100%    |
+| SanDisk pSSD 32GB | 1         | 1      | 100%    |
 
 Failed Drive Vendor
 -------------------
@@ -955,7 +956,7 @@ Storage controller models
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                            | 2         | 4.44%   |
 | SK hynix BC501 NVMe Solid State Drive                                                   | 1         | 2.22%   |
 | Shenzhen Unionmemory Information System AM611 PCIe 3.0 x2 NVMe SSD 256GB                | 1         | 2.22%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 1         | 2.22%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                            | 1         | 2.22%   |
 | Phison PS5021-E21 PCIe4 NVMe Controller (DRAM-less)                                     | 1         | 2.22%   |
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                                     | 1         | 2.22%   |
 | Nvidia MCP89 SATA Controller (AHCI mode)                                                | 1         | 2.22%   |
@@ -1180,7 +1181,7 @@ Graphics card models
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller     | 2         | 5.13%   |
 | Nvidia MCP89 [GeForce 320M]                                                 | 1         | 2.56%   |
 | Nvidia GT216M [GeForce GT 240M]                                             | 1         | 2.56%   |
-| Nvidia GP102 [TITAN X]                                                      | 1         | 2.56%   |
+| Nvidia GP102 [TITAN X Pascal]                                               | 1         | 2.56%   |
 | Nvidia GM107 [GeForce 940MX]                                                | 1         | 2.56%   |
 | Nvidia GK106GLM [Quadro K2100M]                                             | 1         | 2.56%   |
 | Nvidia GF108M [GeForce GT 620M/630M/635M/640M LE]                           | 1         | 2.56%   |
@@ -1190,14 +1191,14 @@ Graphics card models
 | Nvidia C61 [GeForce 7025 / nForce 630a]                                     | 1         | 2.56%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1         | 2.56%   |
 | Intel Xeon E3-1200 v3 Processor Integrated Graphics Controller              | 1         | 2.56%   |
-| Intel UHD Graphics 620                                                      | 1         | 2.56%   |
 | Intel Tiger Lake-UP4 GT2 [Iris Xe Graphics]                                 | 1         | 2.56%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 1         | 2.56%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 1         | 2.56%   |
 | Intel Raptor Lake-P [UHD Graphics]                                          | 1         | 2.56%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 1         | 2.56%   |
-| Intel Iris Plus Graphics 640                                                | 1         | 2.56%   |
-| Intel HD Graphics 620                                                       | 1         | 2.56%   |
-| Intel HD Graphics 615                                                       | 1         | 2.56%   |
+| Intel Kaby Lake-Y GT2 [HD Graphics 615]                                     | 1         | 2.56%   |
+| Intel Kaby Lake-U GT3 [Iris Plus Graphics 640]                              | 1         | 2.56%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 1         | 2.56%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 1         | 2.56%   |
 | Intel Alder Lake-UP3 GT2 [Iris Xe Graphics]                                 | 1         | 2.56%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                 | 1         | 2.56%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 1         | 2.56%   |
@@ -1232,8 +1233,8 @@ Free vs proprietary
 
 | Driver      | Computers | Percent |
 |-------------|-----------|---------|
-| Free        | 30        | 88.24%  |
-| Proprietary | 3         | 8.82%   |
+| Free        | 31        | 91.18%  |
+| Proprietary | 2         | 5.88%   |
 | Unknown     | 1         | 2.94%   |
 
 GPU Memory
@@ -1736,7 +1737,7 @@ Sound card models
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2         | 4%      |
 | Intel 8 Series HD Audio Controller                                         | 2         | 4%      |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2         | 4%      |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 2         | 4%      |
+| AMD Ryzen HD Audio Controller                                              | 2         | 4%      |
 | Nvidia MCP89 High Definition Audio                                         | 1         | 2%      |
 | Nvidia MCP79 High Definition Audio                                         | 1         | 2%      |
 | Nvidia MCP61 High Definition Audio                                         | 1         | 2%      |
@@ -1750,7 +1751,7 @@ Sound card models
 | Creative Labs EMU10k2/CA0100/CA0102/CA10200 [Sound Blaster Audigy Series]  | 1         | 2%      |
 | BEHRINGER International UMC 202HD 192k                                     | 1         | 2%      |
 | AMD SBx00 Azalia (Intel HDA)                                               | 1         | 2%      |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1         | 2%      |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1         | 2%      |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                        | 1         | 2%      |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1         | 2%      |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 1         | 2%      |
@@ -1825,7 +1826,7 @@ Memory module models
 | Micron RAM 4ATF51264HZ-2G6E1 4GB SODIMM DDR4 2667MT/s        | 1         | 2.22%   |
 | Kingston RAM KF3600C17D4/8GX 8GB DIMM DDR4 3600MT/s          | 1         | 2.22%   |
 | Kingston RAM ACR21D4S15HAG/4G 4GB SODIMM DDR4 2133MT/s       | 1         | 2.22%   |
-| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR3 2400MT/s      | 1         | 2.22%   |
+| Kingston RAM 99U5428-063.A00LF 8GB SODIMM DDR4 2400MT/s      | 1         | 2.22%   |
 | Kingston RAM 99U5428-018.A00LF 8GB SODIMM DDR3 1600MT/s      | 1         | 2.22%   |
 | Kingston RAM 9965525-138.A00LF 8GB DIMM DDR3 1600MT/s        | 1         | 2.22%   |
 | Kingston RAM 9905428-105.A00G 8GB SODIMM DDR3 1333MT/s       | 1         | 2.22%   |

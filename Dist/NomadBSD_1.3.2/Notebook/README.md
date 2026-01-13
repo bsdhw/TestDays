@@ -422,15 +422,16 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 8         | 23.53%  |
 | 2014 | 4         | 11.76%  |
-| 2013 | 4         | 11.76%  |
 | 2019 | 3         | 8.82%   |
 | 2018 | 3         | 8.82%   |
+| 2013 | 3         | 8.82%   |
 | 2016 | 2         | 5.88%   |
 | 2015 | 2         | 5.88%   |
 | 2011 | 2         | 5.88%   |
 | 2010 | 2         | 5.88%   |
 | 2008 | 2         | 5.88%   |
 | 2017 | 1         | 2.94%   |
+| 2012 | 1         | 2.94%   |
 | 2004 | 1         | 2.94%   |
 
 Form Factor
@@ -662,7 +663,7 @@ Hard drive models
 | Model                                     | Notebooks | Percent |
 |-------------------------------------------|-----------|---------|
 | Toshiba MQ01ABD100 1TB                    | 2         | 5.71%   |
-| SanDisk pSSD 16GB                         | 2         | 5.71%   |
+| SanDisk pSSD 32GB                         | 2         | 5.71%   |
 | WDC WD2500LPCX-24C6HT0 250GB              | 1         | 2.86%   |
 | WDC WD10SPZX-00Z10T0 1TB                  | 1         | 2.86%   |
 | WDC WD10JPVX-22JC3T0 1TB                  | 1         | 2.86%   |
@@ -684,7 +685,7 @@ Hard drive models
 | OCZ AGILITY3 120GB                        | 1         | 2.86%   |
 | Micron MTFDDAK256MAM-1K12 256GB           | 1         | 2.86%   |
 | Kingston SA400S37240G 240GB               | 1         | 2.86%   |
-| KingDian S280 120GB                       | 1         | 2.86%   |
+| KingDian S280-120GB                       | 1         | 2.86%   |
 | Intel SSDSC2BF180A5H REF 180GB            | 1         | 2.86%   |
 | Hitachi HTS545032B9A302 320GB             | 1         | 2.86%   |
 | Hitachi HTS543232L9A300 320GB             | 1         | 2.86%   |
@@ -1135,7 +1136,7 @@ Graphics card models
 
 | Model                                                                                    | Notebooks | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 4         | 10.53%  |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 4         | 10.53%  |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 3         | 7.89%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 3         | 7.89%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 3         | 7.89%   |
@@ -1147,14 +1148,14 @@ Graphics card models
 | Nvidia GK107M [GeForce GT 750M Mac Edition]                                              | 1         | 2.63%   |
 | Nvidia GF116M [GeForce GT 555M/635M]                                                     | 1         | 2.63%   |
 | Nvidia G98M [GeForce 9300M GS]                                                           | 1         | 2.63%   |
-| Intel UHD Graphics 620                                                                   | 1         | 2.63%   |
+| Intel Skylake-Y GT2 [HD Graphics 515]                                                    | 1         | 2.63%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 1         | 2.63%   |
-| Intel HD Graphics 620                                                                    | 1         | 2.63%   |
-| Intel HD Graphics 6000                                                                   | 1         | 2.63%   |
-| Intel HD Graphics 515                                                                    | 1         | 2.63%   |
-| Intel HD Graphics                                                                        | 1         | 2.63%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 1         | 2.63%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 1         | 2.63%   |
 | Intel Crystal Well Integrated Graphics Controller                                        | 1         | 2.63%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 1         | 2.63%   |
+| Intel Broadwell-U GT3 [HD Graphics 6000]                                                 | 1         | 2.63%   |
+| Intel Broadwell-U GT1 [HD Graphics]                                                      | 1         | 2.63%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 2.63%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller                  | 1         | 2.63%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 1         | 2.63%   |
@@ -1253,7 +1254,7 @@ Monitor models
 | LG Display LCD Monitor LGD6301 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD0456 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
 | LG Display LCD Monitor LGD02DC 1366x768 340x190mm 15.3-inch               | 1         | 3.57%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch                   | 1         | 3.57%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch                   | 1         | 3.57%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch                   | 1         | 3.57%   |
 | HannStar LCD Monitor HSD03E9 1024x600 220x130mm 10.1-inch                 | 1         | 3.57%   |
 | Chimei Innolux LCD Monitor CMN1734 1600x900 380x210mm 17.1-inch           | 1         | 3.57%   |
@@ -1777,11 +1778,11 @@ Memory module models
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s         | 1         | 2.38%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s         | 1         | 2.38%   |
 | Samsung RAM M471A4G43MB1-CTD 32GB SODIMM DDR4 2667MT/s        | 1         | 2.38%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s         | 1         | 2.38%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s         | 1         | 2.38%   |
 | Micron RAM Module 8192MB SODIMM DDR3 1600MT/s                 | 1         | 2.38%   |
 | Micron RAM 4KTF25664HZ-1G6E1 2048MB DDR3 1600MT/s             | 1         | 2.38%   |
 | Micron RAM 4ATS1G64HZ-2G6E1 8GB SODIMM DDR4 2667MT/s          | 1         | 2.38%   |
-| Magnum Tech RAM MAGNUMTECH 2GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
+| Magnum Tech RAM MAGNUMTECH 4GB SODIMM DDR3 1600MT/s           | 1         | 2.38%   |
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s              | 1         | 2.38%   |
 | Kingston RAM ACR16D3LS1KNG/4G 4GB SODIMM DDR3 1600MT/s        | 1         | 2.38%   |
 | Kingston RAM ACR16D3LFS1KBG/2G 2GB SODIMM DDR3 1600MT/s       | 1         | 2.38%   |
@@ -1853,10 +1854,10 @@ Memory module speed
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
 | 1600    | 16        | 45.71%  |
-| 2667    | 4         | 11.43%  |
+| 3200    | 3         | 8.57%   |
+| 2667    | 3         | 8.57%   |
 | 2400    | 3         | 8.57%   |
 | Unknown | 3         | 8.57%   |
-| 3200    | 2         | 5.71%   |
 | 1867    | 2         | 5.71%   |
 | 1334    | 1         | 2.86%   |
 | 1333    | 1         | 2.86%   |
