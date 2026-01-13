@@ -473,10 +473,10 @@ Motherboard manufacture year
 | 2013 | 7        | 11.48%  |
 | 2021 | 6        | 9.84%   |
 | 2019 | 6        | 9.84%   |
+| 2012 | 6        | 9.84%   |
 | 2010 | 6        | 9.84%   |
 | 2020 | 5        | 8.2%    |
-| 2018 | 5        | 8.2%    |
-| 2012 | 5        | 8.2%    |
+| 2018 | 4        | 6.56%   |
 | 2016 | 4        | 6.56%   |
 | 2011 | 4        | 6.56%   |
 | 2017 | 3        | 4.92%   |
@@ -869,8 +869,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 47       | 74     | 55.95%  |
-| 0.51-1.0   | 23       | 27     | 27.38%  |
+| 0.01-0.5   | 48       | 75     | 57.14%  |
+| 0.51-1.0   | 22       | 26     | 26.19%  |
 | 1.01-2.0   | 6        | 7      | 7.14%   |
 | 2.01-3.0   | 4        | 6      | 4.76%   |
 | 3.01-4.0   | 3        | 3      | 3.57%   |
@@ -1306,8 +1306,8 @@ Graphics card models
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 3        | 4.62%   |
 | Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 2        | 3.08%   |
 | Nvidia GM206 [GeForce GTX 950]                                              | 2        | 3.08%   |
-| Intel HD Graphics 630                                                       | 2        | 3.08%   |
-| Intel HD Graphics 530                                                       | 2        | 3.08%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 2        | 3.08%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 2        | 3.08%   |
 | AMD Oland PRO [Radeon R7 240/340 / Radeon 520]                              | 2        | 3.08%   |
 | AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                              | 2        | 3.08%   |
 | Nvidia TU116 [GeForce GTX 1660]                                             | 1        | 1.54%   |
@@ -1919,8 +1919,8 @@ Sound card models
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 4        | 3.36%   |
 | Nvidia TU116 High Definition Audio Controller                              | 3        | 2.52%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3        | 2.52%   |
+| AMD Ryzen HD Audio Controller                                              | 3        | 2.52%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3        | 2.52%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3        | 2.52%   |
 | Texas Instruments PCM2902 Audio Codec                                      | 2        | 1.68%   |
 | Nvidia High Definition Audio Controller                                    | 2        | 1.68%   |
 | Nvidia GM206 High Definition Audio Controller                              | 2        | 1.68%   |
@@ -1991,7 +1991,7 @@ Memory module models
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s     | 2        | 2.74%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s   | 2        | 2.74%   |
-| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s    | 2        | 2.74%   |
+| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 3066MT/s    | 2        | 2.74%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                    | 1        | 1.37%   |
 | Unknown RAM Module 4GB FB-DIMM DDR2 667MT/s             | 1        | 1.37%   |
 | Unknown RAM Module 4GB DIMM DDR3 800MT/s                | 1        | 1.37%   |
@@ -2089,9 +2089,10 @@ Memory module speed
 | 1333  | 15       | 23.08%  |
 | 2400  | 6        | 9.23%   |
 | 3200  | 5        | 7.69%   |
-| 2667  | 5        | 7.69%   |
 | 2133  | 5        | 7.69%   |
+| 2667  | 3        | 4.62%   |
 | 2666  | 3        | 4.62%   |
+| 3066  | 2        | 3.08%   |
 | 400   | 2        | 3.08%   |
 | 3000  | 1        | 1.54%   |
 | 2933  | 1        | 1.54%   |

@@ -542,10 +542,10 @@ Motherboard manufacture year
 | 2020 | 12        | 10.34%  |
 | 2012 | 12        | 10.34%  |
 | 2009 | 10        | 8.62%   |
-| 2015 | 9         | 7.76%   |
+| 2014 | 9         | 7.76%   |
 | 2011 | 9         | 7.76%   |
 | 2016 | 8         | 6.9%    |
-| 2014 | 8         | 6.9%    |
+| 2015 | 8         | 6.9%    |
 | 2018 | 6         | 5.17%   |
 | 2017 | 3         | 2.59%   |
 | 2010 | 3         | 2.59%   |
@@ -1427,19 +1427,19 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                                         | 18        | 13.24%  |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 12        | 8.82%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 9         | 6.62%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 8         | 5.88%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 8         | 5.88%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 8         | 5.88%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 5         | 3.68%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 5         | 3.68%   |
-| Intel HD Graphics 620                                                                    | 4         | 2.94%   |
-| Intel HD Graphics 5500                                                                   | 4         | 2.94%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 4         | 2.94%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 4         | 2.94%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 4         | 2.94%   |
 | Nvidia GP107M [GeForce GTX 1050 Ti Mobile]                                               | 3         | 2.21%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 3         | 2.21%   |
-| Intel HD Graphics 530                                                                    | 3         | 2.21%   |
-| Intel HD Graphics 500                                                                    | 2         | 1.47%   |
+| Intel Skylake-H GT2 [HD Graphics 530]                                                    | 3         | 2.21%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 1.47%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 2         | 1.47%   |
+| Intel Apollo Lake GT1 [HD Graphics 500]                                                  | 2         | 1.47%   |
 | AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 2         | 1.47%   |
 | AMD Chelsea LP [Radeon HD 7730M]                                                         | 2         | 1.47%   |
 | Silicon Integrated Systems [SiS] 771/671 PCIE VGA Display Adapter                        | 1         | 0.74%   |
@@ -1459,11 +1459,11 @@ Graphics card models
 | Nvidia G96CM [GeForce 9600M GT]                                                          | 1         | 0.74%   |
 | Nvidia G86M [Quadro NVS 140M]                                                            | 1         | 0.74%   |
 | Nvidia G84M [GeForce 8600M GT]                                                           | 1         | 0.74%   |
-| Intel UHD Graphics 620                                                                   | 1         | 0.74%   |
-| Intel HD Graphics 630                                                                    | 1         | 0.74%   |
-| Intel HD Graphics 6000                                                                   | 1         | 0.74%   |
-| Intel HD Graphics                                                                        | 1         | 0.74%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 1         | 0.74%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                                  | 1         | 0.74%   |
 | Intel Haswell-ULT Integrated Graphics Controller [HD Graphics]                           | 1         | 0.74%   |
+| Intel GeminiLake [UHD Graphics 605]                                                      | 1         | 0.74%   |
+| Intel CometLake-H GT2 [UHD Graphics]                                                     | 1         | 0.74%   |
 
 GPU Combo
 ---------
@@ -1493,9 +1493,9 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 95        | 81.9%   |
+| Free        | 96        | 82.76%  |
 | Unknown     | 19        | 16.38%  |
-| Proprietary | 2         | 1.72%   |
+| Proprietary | 1         | 0.86%   |
 
 GPU Memory
 ----------
@@ -1561,7 +1561,7 @@ Monitor models
 | AU Optronics LCD Monitor AUO22EC 1366x768 340x190mm 15.3-inch        | 2         | 2.17%   |
 | Sony SDM-HS95P SNY2500 1280x1024 380x300mm 19.1-inch                 | 1         | 1.09%   |
 | Samsung Electronics SyncMaster SAM03E4 1680x1050 470x300mm 22.0-inch | 1         | 1.09%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 1.09%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SEC354C 1366x768 350x200mm 15.9-inch | 1         | 1.09%   |
 | Samsung Electronics LCD Monitor SDC4C51 1366x768 340x190mm 15.3-inch | 1         | 1.09%   |
@@ -2108,15 +2108,15 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                                        | 4         | 2.63%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 4         | 2.63%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 3         | 1.97%   |
+| AMD Ryzen HD Audio Controller                                                                     | 3         | 1.97%   |
 | AMD FCH Azalia Controller                                                                         | 3         | 1.97%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 3         | 1.97%   |
 | Nvidia GT216 HDMI Audio Controller                                                                | 2         | 1.32%   |
 | Intel Comet Lake PCH-LP cAVS                                                                      | 2         | 1.32%   |
 | Intel Celeron N3350/Pentium N4200/Atom E3900 Series Audio Cluster                                 | 2         | 1.32%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 2         | 1.32%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                                                    | 2         | 1.32%   |
 | AMD RS880 HDMI Audio [Radeon HD 4200 Series]                                                      | 2         | 1.32%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 2         | 1.32%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 2         | 1.32%   |
 | AMD Kabini HDMI/DP Audio                                                                          | 2         | 1.32%   |
 | Silicon Integrated Systems [SiS] Azalia Audio Controller                                          | 1         | 0.66%   |
 | Nvidia TU116 High Definition Audio Controller                                                     | 1         | 0.66%   |
@@ -2181,48 +2181,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                          | Notebooks | Percent |
-|----------------------------------------------------------------|-----------|---------|
-| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s         | 4         | 2.65%   |
-| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s          | 3         | 1.99%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s         | 3         | 1.99%   |
-| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s          | 3         | 1.99%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s          | 3         | 1.99%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s          | 3         | 1.99%   |
-| Unknown                                                        | 3         | 1.99%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                    | 2         | 1.32%   |
-| SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                   | 2         | 1.32%   |
-| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s         | 2         | 1.32%   |
-| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s         | 2         | 1.32%   |
-| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s          | 2         | 1.32%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s          | 2         | 1.32%   |
-| Samsung RAM M471A5143EB0-CPB 4GB SODIMM DDR4 2133MT/s          | 2         | 1.32%   |
-| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s         | 2         | 1.32%   |
-| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s          | 2         | 1.32%   |
-| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s          | 2         | 1.32%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                    | 1         | 0.66%   |
-| Unknown RAM Module 8GB SODIMM DDR3 1333MT/s                    | 1         | 0.66%   |
-| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                    | 1         | 0.66%   |
-| Unknown RAM Module 4GB SODIMM DDR3                             | 1         | 0.66%   |
-| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                     | 1         | 0.66%   |
-| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                     | 1         | 0.66%   |
-| Unknown RAM Module 2048MB SODIMM 800MT/s                       | 1         | 0.66%   |
-| Unknown RAM Module 2048MB SODIMM 667MT/s                       | 1         | 0.66%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s | 1         | 0.66%   |
-| Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s         | 1         | 0.66%   |
-| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s           | 1         | 0.66%   |
-| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s            | 1         | 0.66%   |
-| Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s      | 1         | 0.66%   |
-| Teikon RAM TML251S6EFR8A-PBHC 4GB SODIMM DDR3 1600MT/s         | 1         | 0.66%   |
-| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s          | 1         | 0.66%   |
-| Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s          | 1         | 0.66%   |
-| Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2400MT/s   | 1         | 0.66%   |
-| SK hynix RAM Module 2GB DDR3 1600MT/s                          | 1         | 0.66%   |
-| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s          | 1         | 0.66%   |
-| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 0.66%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s         | 1         | 0.66%   |
-| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s         | 1         | 0.66%   |
-| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s         | 1         | 0.66%   |
+| Model                                                        | Notebooks | Percent |
+|--------------------------------------------------------------|-----------|---------|
+| SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s       | 4         | 2.65%   |
+| Smart RAM SH564568FH8NZPHSCR 2GB SODIMM DDR3 1334MT/s        | 3         | 1.99%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 3         | 1.99%   |
+| Samsung RAM M471B5773CHS-CH9 2GB SODIMM DDR3 1333MT/s        | 3         | 1.99%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s        | 3         | 1.99%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s        | 3         | 1.99%   |
+| Unknown                                                      | 3         | 1.99%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1333MT/s                  | 2         | 1.32%   |
+| SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                 | 2         | 1.32%   |
+| SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1334MT/s       | 2         | 1.32%   |
+| SK hynix RAM HMA81GS6CJR8N-VK 8GB SODIMM DDR4 2667MT/s       | 2         | 1.32%   |
+| Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s        | 2         | 1.32%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s        | 2         | 1.32%   |
+| Samsung RAM M471A5143EB0-CPB 4GB SODIMM DDR4 2133MT/s        | 2         | 1.32%   |
+| Samsung RAM M471A2K43CB1-CTD 16GB SODIMM DDR4 2667MT/s       | 2         | 1.32%   |
+| Micron RAM 8KTF51264HZ-1G6E1 4GB SODIMM DDR3 1600MT/s        | 2         | 1.32%   |
+| Micron RAM 4ATF51264HZ-2G3B1 4GB SODIMM DDR4 2400MT/s        | 2         | 1.32%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                  | 1         | 0.66%   |
+| Unknown RAM Module 8GB SODIMM DDR3 1333MT/s                  | 1         | 0.66%   |
+| Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                  | 1         | 0.66%   |
+| Unknown RAM Module 4GB SODIMM DDR3                           | 1         | 0.66%   |
+| Unknown RAM Module 4GB SODIMM DDR2 667MT/s                   | 1         | 0.66%   |
+| Unknown RAM Module 2GB SODIMM DDR2 667MT/s                   | 1         | 0.66%   |
+| Unknown RAM Module 2048MB SODIMM 800MT/s                     | 1         | 0.66%   |
+| Unknown RAM Module 2048MB SODIMM 667MT/s                     | 1         | 0.66%   |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s | 1         | 0.66%   |
+| Transcend RAM JM1600KSH-8G 8192MB SODIMM DDR3 1333MT/s       | 1         | 0.66%   |
+| Toshiba RAM 8HTF12864HDY-800G1 2048MB SODIMM 800MT/s         | 1         | 0.66%   |
+| Toshiba RAM 64T128020EDL2.5C2 2048MB SODIMM 800MT/s          | 1         | 0.66%   |
+| Teikon RAM TMT451S6BFR8A-PBSC 4096MB SODIMM DDR3 1600MT/s    | 1         | 0.66%   |
+| Teikon RAM TML251S6EFR8A-PBHC 4GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
+| Smart RAM SH564568FH8NWPHSFR 2GB SODIMM DDR3 1333MT/s        | 1         | 0.66%   |
+| Smart RAM SH564128FJ8NZRNSDR 4GB SODIMM DDR3 1600MT/s        | 1         | 0.66%   |
+| Smart Brazil RAM SMS4TDC3C0K0446SCG 4GB SODIMM DDR4 2400MT/s | 1         | 0.66%   |
+| SK hynix RAM Module 2GB DDR3 1600MT/s                        | 1         | 0.66%   |
+| SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s        | 1         | 0.66%   |
+| SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
+| SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s       | 1         | 0.66%   |
+| SK hynix RAM HMT325S6CFR8C-PB 2GB SODIMM DDR3 1600MT/s       | 1         | 0.66%   |
 
 Memory Kind
 -----------
@@ -2284,18 +2284,18 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 42        | 33.33%  |
-| 1333    | 18        | 14.29%  |
-| 2667    | 12        | 9.52%   |
-| 1334    | 12        | 9.52%   |
-| 2400    | 8         | 6.35%   |
-| 2133    | 7         | 5.56%   |
-| 800     | 6         | 4.76%   |
-| 3200    | 5         | 3.97%   |
-| 1067    | 4         | 3.17%   |
-| 1867    | 3         | 2.38%   |
-| 667     | 3         | 2.38%   |
-| Unknown | 2         | 1.59%   |
+| 1600    | 42        | 33.07%  |
+| 1333    | 18        | 14.17%  |
+| 1334    | 12        | 9.45%   |
+| 2667    | 11        | 8.66%   |
+| 2400    | 8         | 6.3%    |
+| 3200    | 7         | 5.51%   |
+| 2133    | 7         | 5.51%   |
+| 800     | 6         | 4.72%   |
+| 1067    | 4         | 3.15%   |
+| 1867    | 3         | 2.36%   |
+| 667     | 3         | 2.36%   |
+| Unknown | 2         | 1.57%   |
 | 1866    | 1         | 0.79%   |
 | 1066    | 1         | 0.79%   |
 | 975     | 1         | 0.79%   |

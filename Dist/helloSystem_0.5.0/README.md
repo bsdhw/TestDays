@@ -717,18 +717,18 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 30        | 12.24%  |
-| 2019 | 30        | 12.24%  |
+| 2019 | 29        | 11.84%  |
 | 2012 | 28        | 11.43%  |
-| 2013 | 26        | 10.61%  |
+| 2013 | 27        | 11.02%  |
 | 2018 | 18        | 7.35%   |
 | 2011 | 17        | 6.94%   |
-| 2015 | 15        | 6.12%   |
-| 2014 | 15        | 6.12%   |
-| 2016 | 13        | 5.31%   |
+| 2014 | 16        | 6.53%   |
+| 2015 | 14        | 5.71%   |
 | 2010 | 13        | 5.31%   |
+| 2016 | 12        | 4.9%    |
 | 2009 | 12        | 4.9%    |
+| 2017 | 10        | 4.08%   |
 | 2021 | 9         | 3.67%   |
-| 2017 | 9         | 3.67%   |
 | 2008 | 6         | 2.45%   |
 | 2007 | 4         | 1.63%   |
 
@@ -1176,8 +1176,8 @@ Size of hard drive
 |------------|-----------|--------|---------|
 | 0.01-0.5   | 176       | 250    | 67.43%  |
 | 0.51-1.0   | 60        | 75     | 22.99%  |
-| 1.01-2.0   | 14        | 18     | 5.36%   |
-| 3.01-4.0   | 5         | 6      | 1.92%   |
+| 1.01-2.0   | 13        | 17     | 4.98%   |
+| 3.01-4.0   | 6         | 7      | 2.3%    |
 | 2.01-3.0   | 3         | 6      | 1.15%   |
 | 4.01-10.0  | 3         | 5      | 1.15%   |
 
@@ -1693,15 +1693,14 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                                         | 20        | 7.35%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 19        | 6.99%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 10        | 3.68%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 9         | 3.31%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 9         | 3.31%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 9         | 3.31%   |
 | Nvidia GK208B [GeForce GT 710]                                                           | 7         | 2.57%   |
 | Nvidia GP108 [GeForce GT 1030]                                                           | 6         | 2.21%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 5         | 1.84%   |
-| Intel HD Graphics 620                                                                    | 5         | 1.84%   |
-| Intel HD Graphics 5500                                                                   | 5         | 1.84%   |
-| Intel HD Graphics 530                                                                    | 5         | 1.84%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 5         | 1.84%   |
 | Intel Core Processor Integrated Graphics Controller                                      | 5         | 1.84%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 5         | 1.84%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]                     | 5         | 1.84%   |
 | Nvidia GT218 [GeForce 210]                                                               | 4         | 1.47%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 4         | 1.47%   |
@@ -1712,7 +1711,7 @@ Graphics card models
 | Nvidia GF119 [GeForce GT 610]                                                            | 3         | 1.1%    |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 3         | 1.1%    |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller                         | 3         | 1.1%    |
-| Intel HD Graphics 630                                                                    | 3         | 1.1%    |
+| Intel Skylake-H GT2 [HD Graphics 530]                                                    | 3         | 1.1%    |
 | Nvidia TU116 [GeForce GTX 1660 SUPER]                                                    | 2         | 0.74%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                                       | 2         | 0.74%   |
 | Nvidia GP106 [GeForce GTX 1060 6GB]                                                      | 2         | 0.74%   |
@@ -1721,15 +1720,16 @@ Graphics card models
 | Nvidia GM204 [GeForce GTX 970]                                                           | 2         | 0.74%   |
 | Nvidia G92 [GeForce GTS 250]                                                             | 2         | 0.74%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller              | 2         | 0.74%   |
-| Intel HD Graphics 500                                                                    | 2         | 0.74%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                                    | 2         | 0.74%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 2         | 0.74%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 2         | 0.74%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 2         | 0.74%   |
+| Intel Apollo Lake GT1 [HD Graphics 500]                                                  | 2         | 0.74%   |
 | AMD RV710 [Radeon HD 4350/4550]                                                          | 2         | 0.74%   |
 | AMD RS880M [Mobility Radeon HD 4225/4250]                                                | 2         | 0.74%   |
 | AMD RS780L [Radeon 3000]                                                                 | 2         | 0.74%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 2         | 0.74%   |
 | AMD Chelsea LP [Radeon HD 7730M]                                                         | 2         | 0.74%   |
-| AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 2         | 0.74%   |
 
 GPU Combo
 ---------
@@ -1761,9 +1761,9 @@ Free vs proprietary
 
 | Driver      | Computers | Percent |
 |-------------|-----------|---------|
-| Free        | 177       | 71.95%  |
-| Proprietary | 38        | 15.45%  |
-| Unknown     | 31        | 12.6%   |
+| Free        | 181       | 72.98%  |
+| Proprietary | 36        | 14.52%  |
+| Unknown     | 31        | 12.5%   |
 
 GPU Memory
 ----------
@@ -1884,7 +1884,7 @@ Monitor models
 | Samsung Electronics S24D300 SAM0B43 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S24C350 SAM0A3A 1920x1080 530x300mm 24.0-inch    | 1         | 0.52%   |
 | Samsung Electronics S22D390 SAM0B63 1920x1080 480x270mm 21.7-inch    | 1         | 0.52%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch | 1         | 0.52%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC3847 1440x900 370x230mm 17.2-inch | 1         | 0.52%   |
 | Samsung Electronics LCD Monitor SEC354C 1366x768 350x200mm 15.9-inch | 1         | 0.52%   |
 
@@ -2476,7 +2476,7 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                   | 12        | 3.18%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 11        | 2.92%   |
 | Intel 8 Series HD Audio Controller                                                                | 11        | 2.92%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 10        | 2.65%   |
+| AMD Ryzen HD Audio Controller                                                                     | 10        | 2.65%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                                          | 9         | 2.39%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                                             | 8         | 2.12%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 7         | 1.86%   |
@@ -2498,7 +2498,7 @@ Sound card models
 | Intel Comet Lake PCH-V cAVS                                                                       | 4         | 1.06%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Series High Definition Audio Controller | 4         | 1.06%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                                         | 4         | 1.06%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 4         | 1.06%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 4         | 1.06%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                                        | 4         | 1.06%   |
 | Nvidia High Definition Audio Controller                                                           | 3         | 0.8%    |
 | Nvidia GP106 High Definition Audio Controller                                                     | 3         | 0.8%    |
@@ -2669,25 +2669,26 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 73        | 27.24%  |
-| 1333    | 44        | 16.42%  |
-| 2400    | 25        | 9.33%   |
-| 2667    | 24        | 8.96%   |
-| 2133    | 18        | 6.72%   |
-| 3200    | 12        | 4.48%   |
-| 1334    | 12        | 4.48%   |
-| 800     | 12        | 4.48%   |
-| 667     | 11        | 4.1%    |
-| 1867    | 7         | 2.61%   |
-| 2666    | 5         | 1.87%   |
+| 1600    | 73        | 27.14%  |
+| 1333    | 44        | 16.36%  |
+| 2400    | 25        | 9.29%   |
+| 2667    | 22        | 8.18%   |
+| 2133    | 18        | 6.69%   |
+| 3200    | 14        | 5.2%    |
+| 1334    | 12        | 4.46%   |
+| 800     | 12        | 4.46%   |
+| 667     | 11        | 4.09%   |
+| 1867    | 7         | 2.6%    |
+| 2666    | 5         | 1.86%   |
 | 1067    | 4         | 1.49%   |
 | Unknown | 4         | 1.49%   |
 | 1866    | 3         | 1.12%   |
 | 1066    | 3         | 1.12%   |
 | 533     | 3         | 1.12%   |
-| 3000    | 2         | 0.75%   |
-| 2933    | 2         | 0.75%   |
+| 3000    | 2         | 0.74%   |
+| 2933    | 2         | 0.74%   |
 | 3600    | 1         | 0.37%   |
+| 3066    | 1         | 0.37%   |
 | 2048    | 1         | 0.37%   |
 | 975     | 1         | 0.37%   |
 | 333     | 1         | 0.37%   |

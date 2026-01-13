@@ -489,16 +489,16 @@ Motherboard manufacture year
 | 2013 | 11        | 14.86%  |
 | 2012 | 10        | 13.51%  |
 | 2011 | 9         | 12.16%  |
+| 2019 | 7         | 9.46%   |
 | 2015 | 7         | 9.46%   |
 | 2014 | 7         | 9.46%   |
 | 2010 | 7         | 9.46%   |
-| 2019 | 6         | 8.11%   |
-| 2020 | 4         | 5.41%   |
 | 2009 | 4         | 5.41%   |
 | 2016 | 3         | 4.05%   |
 | 2008 | 3         | 4.05%   |
+| 2020 | 2         | 2.7%    |
+| 2018 | 2         | 2.7%    |
 | 2021 | 1         | 1.35%   |
-| 2018 | 1         | 1.35%   |
 | 2017 | 1         | 1.35%   |
 
 Form Factor
@@ -1309,8 +1309,8 @@ Graphics card models
 | Intel Haswell-ULT Integrated Graphics Controller                          | 5         | 6.1%    |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]      | 3         | 3.66%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 3         | 3.66%   |
-| Intel HD Graphics 620                                                     | 3         | 3.66%   |
-| Intel HD Graphics 5500                                                    | 3         | 3.66%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 3         | 3.66%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                  | 3         | 3.66%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display              | 3         | 3.66%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 3.66%   |
 | Nvidia G84M [GeForce 8600M GT]                                            | 2         | 2.44%   |
@@ -1326,13 +1326,13 @@ Graphics card models
 | Nvidia C79 [GeForce 9400M]                                                | 1         | 1.22%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 1         | 1.22%   |
 | Intel Whiskey Lake-U GT1 [UHD Graphics 610]                               | 1         | 1.22%   |
-| Intel UHD Graphics 620                                                    | 1         | 1.22%   |
 | Intel UHD Graphics 615                                                    | 1         | 1.22%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                 | 1         | 1.22%   |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 1         | 1.22%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 1         | 1.22%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)       | 1         | 1.22%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)         | 1         | 1.22%   |
-| Intel HD Graphics 5300                                                    | 1         | 1.22%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 1         | 1.22%   |
+| Intel Broadwell-Y GT2 [HD Graphics 5300]                                  | 1         | 1.22%   |
 | AMD Wrestler [Radeon HD 6320]                                             | 1         | 1.22%   |
 | AMD Wrestler [Radeon HD 6310]                                             | 1         | 1.22%   |
 | AMD Wrestler [Radeon HD 6290]                                             | 1         | 1.22%   |
@@ -2017,9 +2017,9 @@ Memory module models
 | Model                                                           | Notebooks | Percent |
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 3.06%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 3         | 3.06%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 2.04%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 2.04%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 2.04%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 2.04%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 2.04%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 2.04%   |
@@ -2051,11 +2051,11 @@ Memory module models
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT41GS6AFR8A-PB 8GB SODIMM DDR3 1600MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT351S6EFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.02%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1333MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT351S6CFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT351S6CFR8A-PB 4GB SODIMM DDR3 1333MT/s          | 1         | 1.02%   |
 | SK hynix RAM HMT351S6BFR8C-H9 4GB SODIMM DDR3 1333MT/s          | 1         | 1.02%   |
+| SK hynix RAM HMA851S6AFR6N-UH 4GB SODIMM DDR4 2400MT/s          | 1         | 1.02%   |
 
 Memory Kind
 -----------
@@ -2112,16 +2112,17 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 32        | 39.02%  |
-| 1333    | 14        | 17.07%  |
+| 1600    | 33        | 40.24%  |
+| 1333    | 13        | 15.85%  |
 | 1067    | 11        | 13.41%  |
 | 1334    | 7         | 8.54%   |
 | 667     | 5         | 6.1%    |
 | 2400    | 3         | 3.66%   |
-| 2667    | 2         | 2.44%   |
 | 2133    | 2         | 2.44%   |
 | Unknown | 2         | 2.44%   |
 | 4267    | 1         | 1.22%   |
+| 3200    | 1         | 1.22%   |
+| 2667    | 1         | 1.22%   |
 | 1867    | 1         | 1.22%   |
 | 1066    | 1         | 1.22%   |
 | 800     | 1         | 1.22%   |
@@ -2203,7 +2204,7 @@ Camera device models
 | Realtek USB 2.0 PC Camera                                      | 2         | 3.7%    |
 | Tripath 2M Front Camera                                        | 1         | 1.85%   |
 | Syntek EasyCamera                                              | 1         | 1.85%   |
-| Suyin Integrated_Webcam_HD                                     | 1         | 1.85%   |
+| Suyin Laptop_Integrated_Webcam_HD                              | 1         | 1.85%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand)    | 1         | 1.85%   |
 | Sunplus Lenovo EasyCamera                                      | 1         | 1.85%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                           | 1         | 1.85%   |

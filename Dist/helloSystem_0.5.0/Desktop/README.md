@@ -544,14 +544,14 @@ Motherboard manufacture year
 | 2020 | 16       | 13.91%  |
 | 2012 | 15       | 13.04%  |
 | 2019 | 12       | 10.43%  |
-| 2018 | 12       | 10.43%  |
-| 2013 | 11       | 9.57%   |
+| 2013 | 12       | 10.43%  |
+| 2018 | 11       | 9.57%   |
 | 2011 | 8        | 6.96%   |
 | 2010 | 8        | 6.96%   |
 | 2014 | 7        | 6.09%   |
+| 2017 | 6        | 5.22%   |
 | 2021 | 5        | 4.35%   |
-| 2017 | 5        | 4.35%   |
-| 2016 | 5        | 4.35%   |
+| 2016 | 4        | 3.48%   |
 | 2015 | 4        | 3.48%   |
 | 2008 | 4        | 3.48%   |
 | 2009 | 2        | 1.74%   |
@@ -1478,7 +1478,7 @@ Graphics card models
 | Nvidia GM204 [GeForce GTX 970]                                              | 2        | 1.67%   |
 | Nvidia G92 [GeForce GTS 250]                                                | 2        | 1.67%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 2        | 1.67%   |
-| Intel HD Graphics 630                                                       | 2        | 1.67%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 2        | 1.67%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 2        | 1.67%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 2        | 1.67%   |
 | AMD RV710 [Radeon HD 4350/4550]                                             | 2        | 1.67%   |
@@ -1530,9 +1530,9 @@ Free vs proprietary
 
 | Driver      | Desktops | Percent |
 |-------------|----------|---------|
-| Free        | 69       | 59.48%  |
-| Proprietary | 36       | 31.03%  |
-| Unknown     | 11       | 9.48%   |
+| Free        | 72       | 61.02%  |
+| Proprietary | 35       | 29.66%  |
+| Unknown     | 11       | 9.32%   |
 
 GPU Memory
 ----------
@@ -2148,7 +2148,7 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                        | 8        | 3.83%   |
 | Intel 200 Series PCH HD Audio                                                     | 7        | 3.35%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                   | 7        | 3.35%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                        | 7        | 3.35%   |
+| AMD Ryzen HD Audio Controller                                                     | 7        | 3.35%   |
 | Nvidia GP108 High Definition Audio Controller                                     | 6        | 2.87%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller               | 6        | 2.87%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller               | 6        | 2.87%   |
@@ -2331,7 +2331,7 @@ Memory module speed
 | 1600    | 27       | 21.09%  |
 | 1333    | 23       | 17.97%  |
 | 2400    | 14       | 10.94%  |
-| 2667    | 12       | 9.38%   |
+| 2667    | 11       | 8.59%   |
 | 2133    | 10       | 7.81%   |
 | 3200    | 7        | 5.47%   |
 | 667     | 7        | 5.47%   |
@@ -2345,6 +2345,7 @@ Memory module speed
 | 1066    | 2        | 1.56%   |
 | Unknown | 2        | 1.56%   |
 | 3600    | 1        | 0.78%   |
+| 3066    | 1        | 0.78%   |
 | 2048    | 1        | 0.78%   |
 
 Printers & scanners

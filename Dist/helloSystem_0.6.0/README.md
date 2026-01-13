@@ -586,15 +586,15 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2013 | 18        | 12.77%  |
-| 2012 | 15        | 10.64%  |
+| 2012 | 16        | 11.35%  |
 | 2019 | 14        | 9.93%   |
 | 2011 | 13        | 9.22%   |
 | 2010 | 13        | 9.22%   |
-| 2020 | 10        | 7.09%   |
 | 2015 | 10        | 7.09%   |
 | 2014 | 10        | 7.09%   |
 | 2021 | 8         | 5.67%   |
-| 2018 | 7         | 4.96%   |
+| 2020 | 8         | 5.67%   |
+| 2018 | 8         | 5.67%   |
 | 2016 | 7         | 4.96%   |
 | 2009 | 6         | 4.26%   |
 | 2017 | 5         | 3.55%   |
@@ -1032,8 +1032,8 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 105       | 143    | 64.42%  |
-| 0.51-1.0   | 42        | 46     | 25.77%  |
+| 0.01-0.5   | 106       | 144    | 65.03%  |
+| 0.51-1.0   | 41        | 45     | 25.15%  |
 | 1.01-2.0   | 8         | 9      | 4.91%   |
 | 2.01-3.0   | 4         | 6      | 2.45%   |
 | 3.01-4.0   | 3         | 3      | 1.84%   |
@@ -1519,20 +1519,20 @@ Graphics card models
 | Nvidia GK208B [GeForce GT 710]                                              | 4         | 2.61%   |
 | Nvidia GF119 [GeForce GT 610]                                               | 4         | 2.61%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 4         | 2.61%   |
-| Intel HD Graphics 5500                                                      | 4         | 2.61%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                    | 4         | 2.61%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]        | 3         | 1.96%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 3         | 1.96%   |
-| Intel HD Graphics 620                                                       | 3         | 1.96%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 3         | 1.96%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 3         | 1.96%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller   | 3         | 1.96%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                 | 3         | 1.96%   |
 | Nvidia TU116 [GeForce GTX 1660 SUPER]                                       | 2         | 1.31%   |
 | Nvidia GM206 [GeForce GTX 950]                                              | 2         | 1.31%   |
 | Nvidia G84M [GeForce 8600M GT]                                              | 2         | 1.31%   |
-| Intel UHD Graphics 620                                                      | 2         | 1.31%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 2         | 1.31%   |
-| Intel HD Graphics 630                                                       | 2         | 1.31%   |
-| Intel HD Graphics 530                                                       | 2         | 1.31%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 2         | 1.31%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 2         | 1.31%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 2         | 1.31%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 2         | 1.31%   |
 | Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller     | 2         | 1.31%   |
 | AMD Wrestler [Radeon HD 6320]                                               | 2         | 1.31%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                    | 2         | 1.31%   |
@@ -2261,8 +2261,8 @@ Sound card models
 | Nvidia GF108 High Definition Audio Controller                              | 3         | 1.34%   |
 | Intel Cannon Point-LP High Definition Audio Controller                     | 3         | 1.34%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series High Definition Audio Controller | 3         | 1.34%   |
+| AMD Ryzen HD Audio Controller                                              | 3         | 1.34%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 3         | 1.34%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3         | 1.34%   |
 | Nvidia GM206 High Definition Audio Controller                              | 2         | 0.89%   |
 | Nvidia GK104 HDMI Audio Controller                                         | 2         | 0.89%   |
 | Intel Cannon Lake PCH cAVS                                                 | 2         | 0.89%   |
@@ -2326,17 +2326,17 @@ Memory module models
 |-----------------------------------------------------------------|-----------|---------|
 | Unknown                                                         | 5         | 2.81%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                      | 3         | 1.69%   |
+| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 3         | 1.69%   |
 | Team RAM TEAMGROUP-UD4-3200 8GB DIMM DDR4 3200MT/s              | 2         | 1.12%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.12%   |
 | SK hynix RAM HMT451S6BCFR8A-PB 4GB DIMM DDR3 1600MT/s           | 2         | 1.12%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.12%   |
-| SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s          | 2         | 1.12%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s          | 2         | 1.12%   |
 | Samsung RAM M471B5673FH0-CH9 2GB SODIMM DDR3 1334MT/s           | 2         | 1.12%   |
 | Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.12%   |
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s           | 2         | 1.12%   |
 | Samsung RAM M471B1G73DB0-YK0 8GB SODIMM DDR3 1600MT/s           | 2         | 1.12%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s           | 2         | 1.12%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s           | 2         | 1.12%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s           | 2         | 1.12%   |
 | Samsung RAM M378B5673FH0-CH9 2GB DIMM DDR3 1333MT/s             | 2         | 1.12%   |
 | Ramaxel RAM RMR5030MN68F9F1600 4GB DIMM DDR3 1600MT/s           | 2         | 1.12%   |
@@ -2344,7 +2344,7 @@ Memory module models
 | Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s           | 2         | 1.12%   |
 | Micron RAM 8ATF1G64HZ-2G3H1 8GB SODIMM DDR4 2400MT/s            | 2         | 1.12%   |
 | Crucial RAM Module 8GB SODIMM DDR3 1600MT/s                     | 2         | 1.12%   |
-| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 2667MT/s            | 2         | 1.12%   |
+| Crucial RAM CT8G4DFS8266.M8FD 8GB DIMM DDR4 3066MT/s            | 2         | 1.12%   |
 | Unknown RAM Module 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.56%   |
 | Unknown RAM Module 8GB DIMM 1600MT/s                            | 1         | 0.56%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1600MT/s                     | 1         | 0.56%   |
@@ -2427,16 +2427,17 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 50        | 32.68%  |
-| 1333    | 29        | 18.95%  |
+| 1600    | 51        | 33.33%  |
+| 1333    | 28        | 18.3%   |
 | 2400    | 11        | 7.19%   |
 | 1067    | 11        | 7.19%   |
-| 2667    | 9         | 5.88%   |
+| 3200    | 7         | 4.58%   |
 | 2133    | 7         | 4.58%   |
 | 1334    | 7         | 4.58%   |
 | 667     | 6         | 3.92%   |
-| 3200    | 5         | 3.27%   |
+| 2667    | 5         | 3.27%   |
 | 2666    | 3         | 1.96%   |
+| 3066    | 2         | 1.31%   |
 | 1066    | 2         | 1.31%   |
 | 800     | 2         | 1.31%   |
 | 400     | 2         | 1.31%   |
@@ -2543,7 +2544,7 @@ Camera device models
 | Z-Star A4 TECH USB2.0 PC Camera J                           | 1         | 1.56%   |
 | Tripath 2M Front Camera                                     | 1         | 1.56%   |
 | Syntek EasyCamera                                           | 1         | 1.56%   |
-| Suyin Integrated_Webcam_HD                                  | 1         | 1.56%   |
+| Suyin Laptop_Integrated_Webcam_HD                           | 1         | 1.56%   |
 | Suyin 1.3M WebCam (notebook emachines E730, Acer sub-brand) | 1         | 1.56%   |
 | Sunplus Lenovo EasyCamera                                   | 1         | 1.56%   |
 | Sunplus Laptop_Integrated_Webcam_FHD                        | 1         | 1.56%   |

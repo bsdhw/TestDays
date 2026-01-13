@@ -526,8 +526,8 @@ Motherboard manufacture year
 |------|----------|---------|
 | 2018 | 12       | 11.88%  |
 | 2019 | 10       | 9.9%    |
+| 2013 | 10       | 9.9%    |
 | 2020 | 9        | 8.91%   |
-| 2013 | 9        | 8.91%   |
 | 2012 | 8        | 7.92%   |
 | 2011 | 8        | 7.92%   |
 | 2021 | 7        | 6.93%   |
@@ -537,8 +537,8 @@ Motherboard manufacture year
 | 2022 | 6        | 5.94%   |
 | 2008 | 5        | 4.95%   |
 | 2009 | 3        | 2.97%   |
-| 2016 | 2        | 1.98%   |
 | 2017 | 1        | 0.99%   |
+| 2016 | 1        | 0.99%   |
 
 Form Factor
 -----------
@@ -865,7 +865,7 @@ Hard drive models
 | WDC WD3003FZEX-00Z4SA0 3TB      | 1        | 0.53%   |
 | WDC WD2500BEVT-75A23T0 250GB    | 1        | 0.53%   |
 | WDC WD20EZAZ-22L9GB0 2TB        | 1        | 0.53%   |
-| WDC WD20EFRX-68EUZN0 2TB        | 1        | 0.53%   |
+| WDC WD20EFRX-68EUZN0 1TB        | 1        | 0.53%   |
 
 HDD Vendor
 ----------
@@ -961,8 +961,8 @@ Size of hard drive
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
 | 0.01-0.5   | 78       | 117    | 62.4%   |
-| 0.51-1.0   | 26       | 32     | 20.8%   |
-| 1.01-2.0   | 15       | 25     | 12%     |
+| 0.51-1.0   | 27       | 33     | 21.6%   |
+| 1.01-2.0   | 14       | 24     | 11.2%   |
 | 3.01-4.0   | 3        | 4      | 2.4%    |
 | 4.01-10.0  | 2        | 2      | 1.6%    |
 | 2.01-3.0   | 1        | 2      | 0.8%    |
@@ -1184,8 +1184,8 @@ Storage controller models
 | ASMedia ASM1061/ASM1062 Serial ATA Controller                                                                      | 3        | 1.73%   |
 | AMD 500 Series Chipset SATA Controller                                                                             | 3        | 1.73%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers                                                  | 2        | 1.16%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                                                       | 2        | 1.16%   |
 | SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                                                              | 2        | 1.16%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                                            | 2        | 1.16%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                                                        | 2        | 1.16%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                                                     | 2        | 1.16%   |
 | JMicron JMB363 SATA/IDE Controller                                                                                 | 2        | 1.16%   |
@@ -1453,7 +1453,7 @@ Graphics card models
 | Nvidia GP108 [GeForce GT 1030]                                              | 2        | 1.94%   |
 | Nvidia GM206 [GeForce GTX 950]                                              | 2        | 1.94%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 2        | 1.94%   |
-| Intel HD Graphics 530                                                       | 2        | 1.94%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 2        | 1.94%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 2        | 1.94%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 2        | 1.94%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                | 2        | 1.94%   |
@@ -1826,7 +1826,7 @@ Controller models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.7%    |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.7%    |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.7%    |
-| OPPO KALAMA-MTP_CID:0437_SN:B2767D06 RNDIS Control RNDIS Ethernet Data | 1        | 0.7%    |
+| OPPO OPPO Find X3 Neo 5G RNDIS Control RNDIS Ethernet Data             | 1        | 0.7%    |
 | Intel Wireless 8260                                                    | 1        | 0.7%    |
 
 Wireless Vendor
@@ -1935,7 +1935,7 @@ Ethernet models
 | Qualcomm Atheros AR8152 v2.0 Fast Ethernet                             | 1        | 0.95%   |
 | Qualcomm Atheros AR8151 v2.0 Gigabit Ethernet                          | 1        | 0.95%   |
 | Qualcomm Atheros AR8132 Fast Ethernet                                  | 1        | 0.95%   |
-| OPPO KALAMA-MTP_CID:0437_SN:B2767D06 RNDIS Control RNDIS Ethernet Data | 1        | 0.95%   |
+| OPPO OPPO Find X3 Neo 5G RNDIS Control RNDIS Ethernet Data             | 1        | 0.95%   |
 | Intel Ethernet Connection (7) I219-LM                                  | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I219-V                                   | 1        | 0.95%   |
 | Intel Ethernet Connection (2) I218-V                                   | 1        | 0.95%   |
@@ -2085,7 +2085,7 @@ Sound card models
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller  | 10       | 5.38%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                  | 10       | 5.38%   |
+| AMD Ryzen HD Audio Controller                                               | 10       | 5.38%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller            | 9        | 4.84%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                     | 9        | 4.84%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller         | 9        | 4.84%   |
@@ -2103,7 +2103,7 @@ Sound card models
 | Nvidia GM206 High Definition Audio Controller                               | 3        | 1.61%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                       | 3        | 1.61%   |
 | Intel C610/X99 series chipset HD Audio Controller                           | 3        | 1.61%   |
-| AMD Renoir Radeon High Definition Audio Controller                          | 3        | 1.61%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                 | 3        | 1.61%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller              | 2        | 1.08%   |
 | Nvidia GP108 High Definition Audio Controller                               | 2        | 1.08%   |
 | Nvidia GM107 High Definition Audio Controller [GeForce 940MX]               | 2        | 1.08%   |
@@ -2268,24 +2268,24 @@ Memory module speed
 
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
-| 1333    | 19       | 17.92%  |
-| 1600    | 18       | 16.98%  |
-| 3200    | 13       | 12.26%  |
-| 2400    | 10       | 9.43%   |
-| 2667    | 8        | 7.55%   |
-| 800     | 8        | 7.55%   |
-| 2133    | 7        | 6.6%    |
-| 2666    | 4        | 3.77%   |
-| Unknown | 4        | 3.77%   |
-| 2933    | 3        | 2.83%   |
-| 667     | 3        | 2.83%   |
-| 1866    | 2        | 1.89%   |
-| 1066    | 2        | 1.89%   |
-| 3000    | 1        | 0.94%   |
-| 2866    | 1        | 0.94%   |
-| 1867    | 1        | 0.94%   |
-| 1067    | 1        | 0.94%   |
-| 400     | 1        | 0.94%   |
+| 1600    | 19       | 17.76%  |
+| 1333    | 19       | 17.76%  |
+| 3200    | 13       | 12.15%  |
+| 2400    | 10       | 9.35%   |
+| 2667    | 8        | 7.48%   |
+| 800     | 8        | 7.48%   |
+| 2133    | 7        | 6.54%   |
+| 2666    | 4        | 3.74%   |
+| Unknown | 4        | 3.74%   |
+| 2933    | 3        | 2.8%    |
+| 667     | 3        | 2.8%    |
+| 1866    | 2        | 1.87%   |
+| 1066    | 2        | 1.87%   |
+| 3000    | 1        | 0.93%   |
+| 2866    | 1        | 0.93%   |
+| 1867    | 1        | 0.93%   |
+| 1067    | 1        | 0.93%   |
+| 400     | 1        | 0.93%   |
 
 Printers & scanners
 -------------------
