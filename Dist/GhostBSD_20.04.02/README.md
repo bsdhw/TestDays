@@ -224,7 +224,7 @@ Total: 136
 | Notebook      | N85_N87,HJ,HJ1,HK1          | Notebook    | [3d18f3f8a9](https://bsd-hardware.info/?probe=3d18f3f8a9) | Jan 23, 2021 |
 | Dell          | 0NW6H5 A00                  | Desktop     | [f6df3820b5](https://bsd-hardware.info/?probe=f6df3820b5) | Jan 18, 2021 |
 | Dell          | Inspiron 3542               | Notebook    | [3c41c474ad](https://bsd-hardware.info/?probe=3c41c474ad) | Jan 16, 2021 |
-| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Convertible | [9e58a182a8](https://bsd-hardware.info/?probe=9e58a182a8) | Jan 16, 2021 |
+| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Notebook    | [9e58a182a8](https://bsd-hardware.info/?probe=9e58a182a8) | Jan 16, 2021 |
 | MSI           | Z97 GAMING 5                | Desktop     | [9ef0da6093](https://bsd-hardware.info/?probe=9ef0da6093) | Jan 16, 2021 |
 | HP            | OMEN by HP Laptop           | Notebook    | [14857eb6b7](https://bsd-hardware.info/?probe=14857eb6b7) | Jan 15, 2021 |
 | ASUSTek       | X550LC                      | Notebook    | [f7c32488e9](https://bsd-hardware.info/?probe=f7c32488e9) | Jan 15, 2021 |
@@ -248,7 +248,7 @@ Total: 136
 | Panasonic     | CF-19AHNC8FN                | Notebook    | [04a42812bb](https://bsd-hardware.info/?probe=04a42812bb) | Dec 11, 2020 |
 | Lenovo        | ThinkPad X220 42872VU       | Notebook    | [c843b5d271](https://bsd-hardware.info/?probe=c843b5d271) | Dec 10, 2020 |
 | ASUSTek       | TUF GAMING B550M-PLUS       | Desktop     | [464223cefe](https://bsd-hardware.info/?probe=464223cefe) | Dec 07, 2020 |
-| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Convertible | [a6b923675d](https://bsd-hardware.info/?probe=a6b923675d) | Dec 07, 2020 |
+| Lenovo        | ThinkPad X380 Yoga 20LJ0... | Notebook    | [a6b923675d](https://bsd-hardware.info/?probe=a6b923675d) | Dec 07, 2020 |
 | Lenovo        | ThinkPad X1 Yoga 3rd 20L... | Convertible | [6c55fc2866](https://bsd-hardware.info/?probe=6c55fc2866) | Dec 05, 2020 |
 | ASRock        | B450 Gaming-ITX/ac          | Desktop     | [53bf449015](https://bsd-hardware.info/?probe=53bf449015) | Dec 02, 2020 |
 | Quanta        | 2AF5 011                    | Desktop     | [172f23efac](https://bsd-hardware.info/?probe=172f23efac) | Nov 29, 2020 |
@@ -562,16 +562,16 @@ Motherboard manufacture year
 | Year | Computers | Percent |
 |------|-----------|---------|
 | 2020 | 18        | 16.51%  |
-| 2018 | 14        | 12.84%  |
-| 2013 | 12        | 11.01%  |
-| 2014 | 10        | 9.17%   |
+| 2018 | 13        | 11.93%  |
+| 2013 | 11        | 10.09%  |
+| 2012 | 10        | 9.17%   |
 | 2019 | 9         | 8.26%   |
-| 2012 | 9         | 8.26%   |
-| 2017 | 8         | 7.34%   |
+| 2017 | 9         | 8.26%   |
+| 2014 | 9         | 8.26%   |
 | 2015 | 7         | 6.42%   |
 | 2011 | 7         | 6.42%   |
 | 2009 | 5         | 4.59%   |
-| 2008 | 4         | 3.67%   |
+| 2008 | 5         | 4.59%   |
 | 2010 | 3         | 2.75%   |
 | 2016 | 2         | 1.83%   |
 | 2007 | 1         | 0.92%   |
@@ -586,10 +586,10 @@ Physical design of the computer
 
 | Name        | Computers | Percent |
 |-------------|-----------|---------|
-| Notebook    | 58        | 53.21%  |
+| Notebook    | 59        | 54.13%  |
 | Desktop     | 45        | 41.28%  |
-| Convertible | 3         | 2.75%   |
 | Mini pc     | 3         | 2.75%   |
+| Convertible | 2         | 1.83%   |
 
 Coreboot
 --------
@@ -1439,22 +1439,21 @@ Graphics card models
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 10        | 7.94%   |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 9         | 7.14%   |
 | Intel 3rd Gen Core processor Graphics Controller                          | 9         | 7.14%   |
-| Intel HD Graphics 620                                                     | 5         | 3.97%   |
-| Intel UHD Graphics 620                                                    | 4         | 3.17%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 5         | 3.97%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 4         | 3.17%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 4         | 3.17%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                        | 3         | 2.38%   |
 | Nvidia GM206 [GeForce GTX 960]                                            | 3         | 2.38%   |
 | Nvidia GK107 [GeForce GTX 650]                                            | 3         | 2.38%   |
 | Nvidia C79 [GeForce 9400M]                                                | 3         | 2.38%   |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 3         | 2.38%   |
-| Intel HD Graphics 5500                                                    | 3         | 2.38%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 3         | 2.38%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                  | 3         | 2.38%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                   | 3         | 2.38%   |
 | Nvidia GP108 [GeForce GT 1030]                                            | 2         | 1.59%   |
 | Nvidia GP104 [GeForce GTX 1070 Ti]                                        | 2         | 1.59%   |
 | Nvidia GM107 [GeForce GTX 750 Ti]                                         | 2         | 1.59%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]      | 2         | 1.59%   |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                    | 2         | 1.59%   |
-| Intel HD Graphics 630                                                     | 2         | 1.59%   |
 | AMD Stoney [Radeon R2/R3/R4/R5 Graphics]                                  | 2         | 1.59%   |
 | Nvidia TU116 [GeForce GTX 1660 Ti]                                        | 1         | 0.79%   |
 | Nvidia TU106 [GeForce RTX 2060 SUPER]                                     | 1         | 0.79%   |
@@ -1476,6 +1475,7 @@ Graphics card models
 | Nvidia GF108GLM [NVS 5200M]                                               | 1         | 0.79%   |
 | Nvidia GF108GL [Quadro 600]                                               | 1         | 0.79%   |
 | Nvidia GF100GL [Quadro 4000]                                              | 1         | 0.79%   |
+| Nvidia GA104 [GeForce RTX 3070]                                           | 1         | 0.79%   |
 
 GPU Combo
 ---------
@@ -1599,8 +1599,8 @@ Monitor models
 | Samsung Electronics SyncMaster SAM010B 1280x1024 340x270mm 17.1-inch   | 1         | 0.94%   |
 | Samsung Electronics SMBX2231 SAM076D 1920x1080 480x270mm 21.7-inch     | 1         | 0.94%   |
 | Samsung Electronics SA300/SA350 SAM078F 1920x1080 480x270mm 21.7-inch  | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC544B 1600x900 310x170mm 13.9-inch   | 1         | 0.94%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC544B 1600x900 340x190mm 15.3-inch   | 1         | 0.94%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4542 1366x768 300x170mm 13.6-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC4251 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
 | Samsung Electronics LCD Monitor SEC3150 1366x768 340x190mm 15.3-inch   | 1         | 0.94%   |
@@ -1615,7 +1615,7 @@ Monitor models
 | Philips LCD Monitor PHL 240V5 1920x1080                                | 1         | 0.94%   |
 | Philips FTV PHL01EA 1920x1080 1440x810mm 65.0-inch                     | 1         | 0.94%   |
 | PANDA LCD Monitor NCP0040 1920x1080 340x190mm 15.3-inch                | 1         | 0.94%   |
-| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch            | 1         | 0.94%   |
+| Panasonic LCD Monitor MEI96A2 2880x1620 340x190mm 15.3-inch            | 1         | 0.94%   |
 | OEM 32W_LCD_TV OEM3700 1920x540                                        | 1         | 0.94%   |
 | LG Electronics LCD Monitor W1952 2806x900                              | 1         | 0.94%   |
 | LG Electronics LCD Monitor LG ULTRAWIDE 2560x1080                      | 1         | 0.94%   |
@@ -1662,8 +1662,8 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 25        | 24.51%  |
-| 13      | 16        | 15.69%  |
+| 15      | 26        | 25.49%  |
+| 13      | 15        | 14.71%  |
 | Unknown | 9         | 8.82%   |
 | 27      | 7         | 6.86%   |
 | 21      | 6         | 5.88%   |
@@ -1735,16 +1735,16 @@ Area in inch²
 |----------------|-----------|---------|
 | 91-100         | 22        | 21.57%  |
 | 201-250        | 18        | 17.65%  |
-| 81-90          | 14        | 13.73%  |
+| 81-90          | 13        | 12.75%  |
 | Unknown        | 9         | 8.82%   |
 | 301-350        | 7         | 6.86%   |
 | 351-500        | 5         | 4.9%    |
 | 151-200        | 5         | 4.9%    |
 | 121-130        | 4         | 3.92%   |
+| 101-110        | 4         | 3.92%   |
 | 501-1000       | 4         | 3.92%   |
 | 71-80          | 3         | 2.94%   |
 | 61-70          | 3         | 2.94%   |
-| 101-110        | 3         | 2.94%   |
 | More than 1000 | 2         | 1.96%   |
 | 141-150        | 2         | 1.96%   |
 | 131-140        | 1         | 0.98%   |
@@ -1760,8 +1760,8 @@ Pixels per inch
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
 | 101-120       | 33        | 32.67%  |
-| 51-100        | 30        | 29.7%   |
-| 121-160       | 20        | 19.8%   |
+| 51-100        | 31        | 30.69%  |
+| 121-160       | 19        | 18.81%  |
 | Unknown       | 9         | 8.91%   |
 | 161-240       | 5         | 4.95%   |
 | More than 240 | 2         | 1.98%   |
@@ -2158,7 +2158,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                                    | 9         | 4.95%   |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                                   | 8         | 4.4%    |
 | AMD Starship/Matisse HD Audio Controller                                              | 7         | 3.85%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                            | 7         | 3.85%   |
+| AMD Ryzen HD Audio Controller                                                         | 7         | 3.85%   |
 | AMD FCH Azalia Controller                                                             | 6         | 3.3%    |
 | Nvidia GK107 HDMI Audio Controller                                                    | 5         | 2.75%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                   | 5         | 2.75%   |
@@ -2182,7 +2182,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                   | 2         | 1.1%    |
 | Intel 200 Series PCH HD Audio                                                         | 2         | 1.1%    |
 | AMD SBx00 Azalia (Intel HDA)                                                          | 2         | 1.1%    |
-| AMD Renoir Radeon High Definition Audio Controller                                    | 2         | 1.1%    |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                           | 2         | 1.1%    |
 | AMD High Definition Audio Controller                                                  | 2         | 1.1%    |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                          | 2         | 1.1%    |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller           | 1         | 0.55%   |
@@ -2243,9 +2243,9 @@ Memory module models
 | Corsair RAM CMK16GX4M2B3200C16 8GB DIMM DDR4 3200MT/s            | 3         | 2.19%   |
 | Samsung RAM M471B5273DH0-CK0 8GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 2         | 1.46%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s            | 2         | 1.46%   |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s            | 2         | 1.46%   |
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 2         | 1.46%   |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s            | 2         | 1.46%   |
 | Unknown SODIMM 4GB SODIMM 800MT/s                                | 1         | 0.73%   |
 | Unknown RAM Module 4GB SODIMM DDR3 1067MT/s                      | 1         | 0.73%   |
 | Unknown RAM Module 4GB DIMM DDR3 1600MT/s                        | 1         | 0.73%   |
@@ -2257,7 +2257,7 @@ Memory module models
 | Unknown RAM Module 2048MB DIMM DDR2 800MT/s                      | 1         | 0.73%   |
 | Unknown RAM Module 1024MB SODIMM DDR                             | 1         | 0.73%   |
 | Unknown RAM GD2.09293S.001 16GB SODIMM DDR4 2400MT/s             | 1         | 0.73%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 0.73%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 0.73%   |
 | Team RAM TEAMGROUP-SD3-1600 8GB SODIMM DDR3 1600MT/s             | 1         | 0.73%   |
 | Smart RAM SH564128FH8NZPHSCR 4GB SODIMM DDR3 1333MT/s            | 1         | 0.73%   |
 | SK hynix RAM Module 4GB SODIMM DDR3 1067MT/s                     | 1         | 0.73%   |
@@ -2339,8 +2339,8 @@ Memory module speed
 |---------|-----------|---------|
 | 1600    | 39        | 32.5%   |
 | 2400    | 19        | 15.83%  |
-| 2667    | 13        | 10.83%  |
-| 3200    | 10        | 8.33%   |
+| 3200    | 14        | 11.67%  |
+| 2667    | 9         | 7.5%    |
 | 1333    | 9         | 7.5%    |
 | 2133    | 7         | 5.83%   |
 | 1334    | 6         | 5%      |
@@ -2445,7 +2445,6 @@ Camera device models
 | Microdia Integrated_Webcam_HD                                  | 2         | 3.57%   |
 | Microdia Integrated Webcam                                     | 2         | 3.57%   |
 | Chicony HD WebCam                                              | 2         | 3.57%   |
-| Alcor Micro USB 2.0 Camera                                     | 2         | 3.57%   |
 | Xiongmai web camera                                            | 1         | 1.79%   |
 | Trust Trust USB Camera                                         | 1         | 1.79%   |
 | Suyin Integrated_Webcam_HD                                     | 1         | 1.79%   |
@@ -2476,7 +2475,8 @@ Camera device models
 | Chicony Chicony USB2.0 Camera                                  | 1         | 1.79%   |
 | Cheng Uei Precision Industry (Foxlink) HP TrueVision HD Camera | 1         | 1.79%   |
 | Bison ThinkPad Integrated Camera                               | 1         | 1.79%   |
-| Alcor Micro HP WebCam-101                                      | 1         | 1.79%   |
+| Alcor Micro WebCam-HM1355                                      | 1         | 1.79%   |
+| Alcor Micro USB 2.0 Camera                                     | 1         | 1.79%   |
 
 Security
 --------

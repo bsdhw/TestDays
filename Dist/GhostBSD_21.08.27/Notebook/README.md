@@ -889,7 +889,7 @@ Storage controller models
 | Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                 | 3         | 8.57%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 8.57%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 2         | 5.71%   |
-| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD                                   | 2         | 5.71%   |
+| Kingston Company A1000/U-SNS8154P3 x2 NVMe SSD [E8]                              | 2         | 5.71%   |
 | Intel Wildcat Point-LP SATA Controller [AHCI Mode]                               | 2         | 5.71%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 2         | 5.71%   |
 | Intel 8 Series SATA Controller 1 [AHCI mode]                                     | 2         | 5.71%   |
@@ -1099,21 +1099,21 @@ Graphics card models
 | Intel CometLake-U GT2 [UHD Graphics]                                                     | 3         | 8.11%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 3         | 8.11%   |
 | Intel Iris Plus Graphics G1 (Ice Lake)                                                   | 2         | 5.41%   |
-| Intel HD Graphics 5500                                                                   | 2         | 5.41%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 5.41%   |
 | Intel CometLake-H GT2 [UHD Graphics]                                                     | 2         | 5.41%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 2         | 5.41%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 2         | 5.41%   |
 | Nvidia TU104M [GeForce RTX 2070 SUPER Mobile / Max-Q]                                    | 1         | 2.7%    |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 1         | 2.7%    |
 | Nvidia GP107GLM [Quadro P2000 Mobile]                                                    | 1         | 2.7%    |
 | Nvidia GF119M [Quadro NVS 4200M]                                                         | 1         | 2.7%    |
 | Nvidia GF108M [GeForce GT 525M]                                                          | 1         | 2.7%    |
 | Nvidia GA104M [GeForce RTX 3080 Mobile / Max-Q 8GB/16GB]                                 | 1         | 2.7%    |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 1         | 2.7%    |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 1         | 2.7%    |
+| Intel Skylake-H GT2 [HD Graphics 530]                                                    | 1         | 2.7%    |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 1         | 2.7%    |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 1         | 2.7%    |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 1         | 2.7%    |
-| Intel HD Graphics 530                                                                    | 1         | 2.7%    |
 | Intel Crystal Well Integrated Graphics Controller                                        | 1         | 2.7%    |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1         | 2.7%    |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                              | 1         | 2.7%    |
@@ -1151,8 +1151,8 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 26        | 89.66%  |
-| Proprietary | 3         | 10.34%  |
+| Free        | 27        | 93.1%   |
+| Proprietary | 2         | 6.9%    |
 
 GPU Memory
 ----------
@@ -1201,7 +1201,7 @@ Monitor models
 |----------------------------------------------------------------------|-----------|---------|
 | Chimei Innolux LCD Monitor CMN14D5 1920x1080 310x170mm 13.9-inch     | 2         | 8%      |
 | Samsung Electronics LCD Monitor SEC4457 1440x900 300x190mm 14.0-inch | 1         | 4%      |
-| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 1         | 4%      |
+| Panasonic LCD Monitor MEI96A2 2880x1620 340x190mm 15.3-inch          | 1         | 4%      |
 | LG Display LCD Monitor LGD066E 1920x1080 340x190mm 15.3-inch         | 1         | 4%      |
 | LG Display LCD Monitor LGD03CD 1366x768 280x160mm 12.7-inch          | 1         | 4%      |
 | LG Display LCD Monitor LGD0353 1366x768 350x190mm 15.7-inch          | 1         | 4%      |
@@ -1624,7 +1624,7 @@ Sound card models
 | Intel Comet Lake PCH-LP cAVS                                                                      | 3         | 6.98%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 3         | 6.98%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 3         | 6.98%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 3         | 6.98%   |
+| AMD Ryzen HD Audio Controller                                                                     | 3         | 6.98%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 2         | 4.65%   |
 | Intel Ice Lake-LP Smart Sound Technology Audio Controller                                         | 2         | 4.65%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 2         | 4.65%   |
@@ -1634,7 +1634,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                               | 2         | 4.65%   |
 | Intel 8 Series HD Audio Controller                                                                | 2         | 4.65%   |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                                         | 2         | 4.65%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 2         | 4.65%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 2         | 4.65%   |
 | Nvidia TU104 HD Audio Controller                                                                  | 1         | 2.33%   |
 | Nvidia GF108 High Definition Audio Controller                                                     | 1         | 2.33%   |
 | Nvidia GA104 High Definition Audio Controller                                                     | 1         | 2.33%   |
@@ -1682,14 +1682,14 @@ Memory module models
 
 | Model                                                            | Notebooks | Percent |
 |------------------------------------------------------------------|-----------|---------|
-| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 2667MT/s            | 5         | 13.16%  |
+| Samsung RAM M471A1K43CB1-CTD 8GB SODIMM DDR4 3200MT/s            | 5         | 13.16%  |
 | SK hynix RAM HMT41GS6BFR8A-PB 8GB SODIMM DDR3 1600MT/s           | 2         | 5.26%   |
 | Samsung RAM M471B5273DH0-CH9 4GB SODIMM DDR3 1334MT/s            | 2         | 5.26%   |
 | Unknown RAM Module 2GB SODIMM DDR3                               | 1         | 2.63%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 2.63%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 2.63%   |
 | Transcend RAM JM800QSU-2G 2GB SODIMM DDR2 667MT/s                | 1         | 2.63%   |
 | SK hynix RAM Module 2GB SODIMM DDR3 1600MT/s                     | 1         | 2.63%   |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s            | 1         | 2.63%   |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s             | 1         | 2.63%   |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 1         | 2.63%   |
 | SK hynix RAM HMT351S6CFR8C-PB 4GB SODIMM DDR3 1600MT/s           | 1         | 2.63%   |
@@ -1701,7 +1701,7 @@ Memory module models
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s            | 1         | 2.63%   |
 | Samsung RAM M471B1G73QH0-YK0 8GB SODIMM DDR3 1867MT/s            | 1         | 2.63%   |
 | Samsung RAM M471B1G73EB0-YK0 8GB SODIMM DDR3 1600MT/s            | 1         | 2.63%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 1         | 2.63%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s            | 1         | 2.63%   |
 | Samsung RAM M471A5244CB0-CTD 4GB Row Of Chips DDR4 2667MT/s      | 1         | 2.63%   |
 | Samsung RAM M471A1G44AB0-CWE 8GB Row Of Chips DDR4 3200MT/s      | 1         | 2.63%   |
 | Micron RAM Module 8GB SODIMM DDR3 1600MT/s                       | 1         | 2.63%   |
@@ -1710,7 +1710,7 @@ Memory module models
 | Micron RAM 16ATF1G64HZ-2G1B1 8GB SODIMM DDR4 2133MT/s            | 1         | 2.63%   |
 | Kingston RAM Module 4GB SODIMM DDR4 2667MT/s                     | 1         | 2.63%   |
 | GOODRAM RAM GR1333S364L9S/4G 4GB SODIMM DDR3 1333MT/s            | 1         | 2.63%   |
-| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s            | 1         | 2.63%   |
+| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3                     | 1         | 2.63%   |
 | Crucial RAM CT51264BF160B.C16F 4GB SODIMM DDR3 1600MT/s          | 1         | 2.63%   |
 | Crucial RAM CT16G4SFRA32A.C8FB 16GB SODIMM DDR4 3200MT/s         | 1         | 2.63%   |
 | 09490000802C RAM V2D4SF16GB1G81G82666 16GB SODIMM DDR4 2667MT/s  | 1         | 2.63%   |
@@ -1768,16 +1768,16 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 2667    | 9         | 27.27%  |
-| 1600    | 9         | 27.27%  |
-| 3200    | 4         | 12.12%  |
-| 1334    | 3         | 9.09%   |
-| 2133    | 2         | 6.06%   |
-| 1333    | 2         | 6.06%   |
-| 2400    | 1         | 3.03%   |
-| 1867    | 1         | 3.03%   |
-| 667     | 1         | 3.03%   |
-| Unknown | 1         | 3.03%   |
+| 3200    | 10        | 28.57%  |
+| 1600    | 9         | 25.71%  |
+| 2667    | 5         | 14.29%  |
+| 1334    | 3         | 8.57%   |
+| 2133    | 2         | 5.71%   |
+| 1333    | 2         | 5.71%   |
+| 2400    | 1         | 2.86%   |
+| 1867    | 1         | 2.86%   |
+| 667     | 1         | 2.86%   |
+| Unknown | 1         | 2.86%   |
 
 Printers & scanners
 -------------------

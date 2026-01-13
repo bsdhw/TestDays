@@ -368,7 +368,7 @@ Motherboard manufacture year
 |------|-----------|---------|
 | 2020 | 2         | 22.22%  |
 | 2017 | 2         | 22.22%  |
-| 2024 | 1         | 11.11%  |
+| 2023 | 1         | 11.11%  |
 | 2015 | 1         | 11.11%  |
 | 2013 | 1         | 11.11%  |
 | 2011 | 1         | 11.11%  |
@@ -1367,8 +1367,8 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 1         | 6.67%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 1         | 6.67%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 1         | 6.67%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                      | 1         | 6.67%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1         | 6.67%   |
+| AMD Ryzen HD Audio Controller                                              | 1         | 6.67%   |
+| AMD Radeon High Definition Audio Controller                                | 1         | 6.67%   |
 
 Memory
 ------

@@ -458,11 +458,11 @@ Motherboard manufacture year
 | 2019 | 6        | 13.33%  |
 | 2012 | 6        | 13.33%  |
 | 2020 | 5        | 11.11%  |
-| 2014 | 3        | 6.67%   |
+| 2008 | 4        | 8.89%   |
 | 2013 | 3        | 6.67%   |
-| 2008 | 3        | 6.67%   |
 | 2017 | 2        | 4.44%   |
 | 2015 | 2        | 4.44%   |
+| 2014 | 2        | 4.44%   |
 | 2016 | 1        | 2.22%   |
 | 2011 | 1        | 2.22%   |
 | 2010 | 1        | 2.22%   |
@@ -1285,8 +1285,8 @@ Graphics card models
 | Nvidia GF108GL [Quadro 600]                                               | 1        | 2.08%   |
 | Nvidia GF100GL [Quadro 4000]                                              | 1        | 2.08%   |
 | Nvidia GA104 [GeForce RTX 3070]                                           | 1        | 2.08%   |
-| Intel HD Graphics 630                                                     | 1        | 2.08%   |
-| Intel HD Graphics 620                                                     | 1        | 2.08%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 1        | 2.08%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                   | 1        | 2.08%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                 | 1        | 2.08%   |
 | Intel 4th Generation Core Processor Family Integrated Graphics Controller | 1        | 2.08%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                     | 1        | 2.08%   |
@@ -1423,7 +1423,7 @@ Monitor models
 | Goldstar W2261 GSM56CF 1920x1080 530x300mm 24.0-inch                   | 1        | 2.04%   |
 | Goldstar W1934 GSM4B7A 1440x900 410x260mm 19.1-inch                    | 1        | 2.04%   |
 | Goldstar LG ULTRAWIDE GSM76FA 2560x1080 800x340mm 34.2-inch            | 1        | 2.04%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 580x240mm 24.7-inch            | 1        | 2.04%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch            | 1        | 2.04%   |
 | Goldstar LG Ultra HD GSM5B09 3840x2160 600x340mm 27.2-inch             | 1        | 2.04%   |
 | Goldstar LG FULL HD GSM5B55 1920x1080 480x270mm 21.7-inch              | 1        | 2.04%   |
 | Goldstar E2241 GSM5818 1920x1080 480x270mm 21.7-inch                   | 1        | 2.04%   |
@@ -1878,7 +1878,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                             | 2        | 2.13%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                             | 2        | 2.13%   |
 | Intel 200 Series PCH HD Audio                                                                   | 2        | 2.13%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                      | 2        | 2.13%   |
+| AMD Ryzen HD Audio Controller                                                                   | 2        | 2.13%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                                    | 2        | 2.13%   |
 | VIA Technologies VT1720/24 [Envy24PT/HT] PCI Multi-Channel Audio Controller                     | 1        | 1.06%   |
 | Nvidia TU116 High Definition Audio Controller                                                   | 1        | 1.06%   |

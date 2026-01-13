@@ -366,16 +366,15 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2021 | 3        | 18.75%  |
-| 2020 | 2        | 12.5%   |
-| 2013 | 2        | 12.5%   |
+| 2020 | 3        | 18.75%  |
+| 2013 | 3        | 18.75%  |
+| 2021 | 2        | 12.5%   |
 | 2011 | 2        | 12.5%   |
 | 2022 | 1        | 6.25%   |
 | 2019 | 1        | 6.25%   |
 | 2018 | 1        | 6.25%   |
 | 2017 | 1        | 6.25%   |
 | 2016 | 1        | 6.25%   |
-| 2014 | 1        | 6.25%   |
 | 2010 | 1        | 6.25%   |
 
 Form Factor
@@ -818,8 +817,8 @@ Storage controller models
 | Intel 6 Series/C200 Series Chipset Family 6 port Desktop SATA AHCI Controller | 2        | 6.45%   |
 | AMD SB7x0/SB8x0/SB9x0 SATA Controller [AHCI mode]                             | 2        | 6.45%   |
 | AMD FCH SATA Controller [AHCI mode]                                           | 2        | 6.45%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                  | 1        | 3.23%   |
 | SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                    | 1        | 3.23%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD       | 1        | 3.23%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                   | 1        | 3.23%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                   | 1        | 3.23%   |
 | Micron/Crucial P5 Plus NVMe PCIe SSD                                          | 1        | 3.23%   |
@@ -1014,7 +1013,7 @@ Graphics card models
 | Nvidia GF119 [GeForce GT 610]                                | 1        | 5.88%   |
 | Matrox Electronics Systems MGA G200EH                        | 1        | 5.88%   |
 | Intel RocketLake-S GT1 [UHD Graphics 730]                    | 1        | 5.88%   |
-| Intel HD Graphics 630                                        | 1        | 5.88%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                      | 1        | 5.88%   |
 | AMD Wani [Radeon R5/R6/R7 Graphics]                          | 1        | 5.88%   |
 | AMD Juniper XT [Radeon HD 5770]                              | 1        | 5.88%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series] | 1        | 5.88%   |
@@ -1459,8 +1458,8 @@ Sound card models
 
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 4        | 12.9%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 3        | 9.68%   |
+| AMD Ryzen HD Audio Controller                                              | 4        | 12.9%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 3        | 9.68%   |
 | Intel Cannon Lake PCH cAVS                                                 | 2        | 6.45%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 2        | 6.45%   |
 | Tenx Technology USB  AUDIO                                                 | 1        | 3.23%   |
@@ -1521,7 +1520,7 @@ Memory module models
 | Model                                                     | Desktops | Percent |
 |-----------------------------------------------------------|----------|---------|
 | Unknown RAM Module 8GB DIMM DDR4 2400MT/s                 | 1        | 5%      |
-| Team RAM TEAMGROUP-UD4-2400 8GB DIMM DDR4 2667MT/s        | 1        | 5%      |
+| Team RAM TEAMGROUP-UD4-2400 4GB DIMM DDR4 2667MT/s        | 1        | 5%      |
 | SK hynix RAM HMT351U6CFR8C 4GB DIMM DDR3 667MT/s          | 1        | 5%      |
 | SK hynix RAM HMA81GS6AFR8N-UH 8GB SODIMM DDR4 2400MT/s    | 1        | 5%      |
 | Samsung RAM Module 4GB DIMM DDR3 1333MT/s                 | 1        | 5%      |
@@ -1533,7 +1532,7 @@ Memory module models
 | Kingston RAM Module 2GB DIMM DDR2 800MT/s                 | 1        | 5%      |
 | Kingston RAM KF3200C16D4/32GX 32GB DIMM DDR4 3200MT/s     | 1        | 5%      |
 | Kingston RAM 99U5584-007.A 4GB DIMM DDR3 667MT/s          | 1        | 5%      |
-| Kingston RAM 99U5474-028.A00LF 4GB DIMM 1333MT/s          | 1        | 5%      |
+| Kingston RAM 99U5474-028.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | Kingston RAM 99U5474-016.A00LF 4GB DIMM DDR3 1333MT/s     | 1        | 5%      |
 | HP RAM 669237-071 2GB DIMM DDR3 1600MT/s                  | 1        | 5%      |
 | G.Skill RAM F4-3200C16-8GTZRX 8GB DIMM DDR4 2133MT/s      | 1        | 5%      |

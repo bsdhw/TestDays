@@ -329,10 +329,10 @@ Motherboard manufacture year
 
 | Year | Desktops | Percent |
 |------|----------|---------|
-| 2020 | 2        | 25%     |
+| 2018 | 2        | 25%     |
 | 2011 | 2        | 25%     |
 | 2021 | 1        | 12.5%   |
-| 2018 | 1        | 12.5%   |
+| 2020 | 1        | 12.5%   |
 | 2012 | 1        | 12.5%   |
 | 2008 | 1        | 12.5%   |
 
@@ -741,7 +741,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                 | 2        | 15.38%  |
 | AMD FCH SATA Controller [AHCI mode]                                           | 2        | 15.38%  |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 1        | 7.69%   |
-| Marvell Group 88SE91A3 SATA-600 Controller                                    | 1        | 7.69%   |
+| Marvell Group 88SE9128 PCIe SATA 6 Gb/s controller [IDE mode]                 | 1        | 7.69%   |
 | JMicron JMB362 SATA Controller                                                | 1        | 7.69%   |
 | Intel SATA Controller [RAID mode]                                             | 1        | 7.69%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode] | 1        | 7.69%   |
@@ -905,8 +905,8 @@ Graphics card models
 | Nvidia GP106 [GeForce GTX 1060 6GB]                          | 1        | 10%     |
 | Nvidia GP104 [GeForce GTX 1080]                              | 1        | 10%     |
 | Nvidia GM107 [GeForce GTX 750 Ti]                            | 1        | 10%     |
-| Intel HD Graphics 630                                        | 1        | 10%     |
-| Intel HD Graphics 530                                        | 1        | 10%     |
+| Intel Skylake-S GT2 [HD Graphics 530]                        | 1        | 10%     |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                      | 1        | 10%     |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series] | 1        | 10%     |
 | AMD Cedar [Radeon HD 5000/6000/7350/8350 Series]             | 1        | 10%     |
 | AMD Cape Verde XT [Radeon HD 7770/8760 / R7 250X]            | 1        | 10%     |
@@ -989,7 +989,7 @@ Monitor models
 | Fujitsu Siemens P24-9 TE FUS08B8 1920x1080 530x300mm 24.0-inch      | 1        | 14.29%  |
 | BenQ BL2405 BNQ8016 1920x1080 530x300mm 24.0-inch                   | 1        | 14.29%  |
 | ASUSTek Computer VG259 AUS25A6 1920x1080 540x300mm 24.3-inch        | 1        | 14.29%  |
-| AOC 24B2W1G5 AOC2402 1920x1080 530x300mm 24.0-inch                  | 1        | 14.29%  |
+| AOC 24G2W1G4 AOC2402 1920x1080 530x300mm 24.0-inch                  | 1        | 14.29%  |
 
 Monitor Resolution
 ------------------
@@ -1304,9 +1304,9 @@ Sound card models
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1        | 5.56%   |
 | C-Media Electronics CMI8788 [Oxygen HD Audio]                              | 1        | 5.56%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 1        | 5.56%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 5.56%   |
+| AMD Ryzen HD Audio Controller                                              | 1        | 5.56%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1        | 5.56%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 5.56%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 1        | 5.56%   |
 | AMD Cedar HDMI Audio [Radeon HD 5400/6300/7300 Series]                     | 1        | 5.56%   |
 
 Memory
