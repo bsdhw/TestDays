@@ -196,7 +196,7 @@ Total: 48
 | ASUSTek       | P7P55D                      | [9eab94b4f7](https://bsd-hardware.info/?probe=9eab94b4f7) | Nov 18, 2023 |
 | ASUSTek       | TUF Gaming B560M-PLUS WI... | [cfbda53125](https://bsd-hardware.info/?probe=cfbda53125) | Nov 18, 2023 |
 | ASUSTek       | Pro WS X570-ACE             | [ee4c8ddddc](https://bsd-hardware.info/?probe=ee4c8ddddc) | Nov 13, 2023 |
-| Unknown       | Unknown                     | [c535fae89f](https://bsd-hardware.info/?probe=c535fae89f) | Nov 10, 2023 |
+| Win Elemen... | M9                          | [c535fae89f](https://bsd-hardware.info/?probe=c535fae89f) | Nov 10, 2023 |
 
 System
 ------
@@ -337,10 +337,11 @@ Motherboard manufacturer
 | ASUSTek Computer    | 11       | 27.5%   |
 | ASRock              | 6        | 15%     |
 | MSI                 | 4        | 10%     |
-| Unknown             | 4        | 10%     |
 | Dell                | 3        | 7.5%    |
+| Unknown             | 3        | 7.5%    |
 | Gigabyte Technology | 2        | 5%      |
 | ZOTAC               | 1        | 2.5%    |
+| Win Element         | 1        | 2.5%    |
 | TYAN Computer       | 1        | 2.5%    |
 | Silicom             | 1        | 2.5%    |
 | Samsung Electronics | 1        | 2.5%    |
@@ -361,7 +362,8 @@ Motherboard model
 
 | Name                             | Desktops | Percent |
 |----------------------------------|----------|---------|
-| Unknown                          | 5        | 12.5%   |
+| Unknown                          | 4        | 10%     |
+| Win Element M9                   | 1        | 2.5%    |
 | TYAN Intel 440BX/GX Rev. 4       | 1        | 2.5%    |
 | Silicom 6200                     | 1        | 2.5%    |
 | Samsung DeskTop System           | 1        | 2.5%    |
@@ -408,10 +410,11 @@ Motherboard model prefix
 
 | Name                    | Desktops | Percent |
 |-------------------------|----------|---------|
-| Unknown                 | 5        | 12.5%   |
+| Unknown                 | 4        | 10%     |
 | ASUS TUF                | 3        | 7.5%    |
 | ASUS PRIME              | 3        | 7.5%    |
 | Dell OptiPlex           | 2        | 5%      |
+| Win Element M9          | 1        | 2.5%    |
 | TYAN Intel              | 1        | 2.5%    |
 | Silicom 6200            | 1        | 2.5%    |
 | Samsung DeskTop         | 1        | 2.5%    |
@@ -1009,7 +1012,7 @@ Storage controller models
 | Samsung NVMe SSD Controller SM981/PM981/PM983                                           | 4        | 6.45%   |
 | AMD 500 Series Chipset SATA Controller                                                  | 4        | 6.45%   |
 | AMD 400 Series Chipset SATA Controller                                                  | 4        | 6.45%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD                 | 2        | 3.23%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                            | 2        | 3.23%   |
 | Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]           | 2        | 3.23%   |
 | Intel Alder Lake-N SATA AHCI Controller                                                 | 2        | 3.23%   |
 | Intel 7 Series/C210 Series Chipset Family 6-port SATA Controller [AHCI mode]            | 2        | 3.23%   |
@@ -1257,7 +1260,7 @@ Graphics card models
 | Model                                                                                    | Desktops | Percent |
 |------------------------------------------------------------------------------------------|----------|---------|
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 3        | 7.5%    |
-| Intel HD Graphics 630                                                                    | 2        | 5%      |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 2        | 5%      |
 | Intel Alder Lake-N [UHD Graphics]                                                        | 2        | 5%      |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 2        | 5%      |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 2        | 5%      |
@@ -1274,9 +1277,9 @@ Graphics card models
 | Nvidia GA104 [GeForce RTX 3070 Ti]                                                       | 1        | 2.5%    |
 | Nvidia G96C [GeForce 9400 GT]                                                            | 1        | 2.5%    |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller              | 1        | 2.5%    |
+| Intel Skylake-S GT2 [HD Graphics 530]                                                    | 1        | 2.5%    |
 | Intel JasperLake [UHD Graphics]                                                          | 1        | 2.5%    |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                                   | 1        | 2.5%    |
-| Intel HD Graphics 530                                                                    | 1        | 2.5%    |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 1        | 2.5%    |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                                | 1        | 2.5%    |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 1        | 2.5%    |
@@ -1385,7 +1388,7 @@ Monitor models
 | Samsung Electronics LCD Monitor S19B150                       | 1        | 5.26%   |
 | Hewlett-Packard LA2405x HWP301E 1920x1200 520x320mm 24.0-inch | 1        | 5.26%   |
 | Hewlett-Packard E221 HWP3060 1920x1080 500x290mm 22.8-inch    | 1        | 5.26%   |
-| Goldstar LG ULTRAFINE GSM5BC1 3840x2160 600x340mm 27.2-inch   | 1        | 5.26%   |
+| Goldstar LG ULTRAFINE GSM5BC1 3840x2160 700x400mm 31.7-inch   | 1        | 5.26%   |
 | Goldstar LG HD GSM5ACD 1366x768 410x230mm 18.5-inch           | 1        | 5.26%   |
 | Gateway HD2201 GWY08AF 1680x1050 470x300mm 22.0-inch          | 1        | 5.26%   |
 | Dell U2717D DEL40EB 2560x1440 600x340mm 27.2-inch             | 1        | 5.26%   |
@@ -1423,13 +1426,14 @@ Diagonal size in inches
 
 | Inches  | Desktops | Percent |
 |---------|----------|---------|
-| 27      | 3        | 16.67%  |
+| 27      | 2        | 11.11%  |
 | 22      | 2        | 11.11%  |
 | 21      | 2        | 11.11%  |
 | 18      | 2        | 11.11%  |
 | Unknown | 2        | 11.11%  |
 | 33      | 1        | 5.56%   |
 | 32      | 1        | 5.56%   |
+| 31      | 1        | 5.56%   |
 | 28      | 1        | 5.56%   |
 | 24      | 1        | 5.56%   |
 | 23      | 1        | 5.56%   |
@@ -1447,11 +1451,11 @@ Physical width
 | Width in mm | Desktops | Percent |
 |-------------|----------|---------|
 | 401-500     | 6        | 33.33%  |
-| 501-600     | 5        | 27.78%  |
+| 501-600     | 4        | 22.22%  |
 | 701-800     | 2        | 11.11%  |
+| 601-700     | 2        | 11.11%  |
 | 201-300     | 2        | 11.11%  |
 | Unknown     | 2        | 11.11%  |
-| 601-700     | 1        | 5.56%   |
 
 Aspect Ratio
 ------------
@@ -1479,8 +1483,8 @@ Area in inch²
 | Area in inch² | Desktops | Percent |
 |----------------|----------|---------|
 | 201-250        | 5        | 27.78%  |
-| 351-500        | 3        | 16.67%  |
-| 301-350        | 3        | 16.67%  |
+| 351-500        | 4        | 22.22%  |
+| 301-350        | 2        | 11.11%  |
 | 141-150        | 2        | 11.11%  |
 | Unknown        | 2        | 11.11%  |
 | 71-80          | 1        | 5.56%   |
@@ -1499,9 +1503,9 @@ Pixels per inch
 |---------|----------|---------|
 | 51-100  | 8        | 44.44%  |
 | 101-120 | 4        | 22.22%  |
-| 161-240 | 2        | 11.11%  |
-| 121-160 | 2        | 11.11%  |
+| 121-160 | 3        | 16.67%  |
 | Unknown | 2        | 11.11%  |
+| 161-240 | 1        | 5.56%   |
 
 Multiple Monitors
 -----------------
@@ -1556,7 +1560,7 @@ Controller models
 | Intel Ethernet Controller I225-V                                           | 4        | 6.06%   |
 | Intel Tiger Lake PCH CNVi WiFi                                             | 2        | 3.03%   |
 | Intel Ethernet Connection (5) I219-LM                                      | 2        | 3.03%   |
-| Intel CNVi: Wi-Fi                                                          | 2        | 3.03%   |
+| Intel Alder Lake-N PCH CNVi WiFi                                           | 2        | 3.03%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1        | 1.52%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                   | 1        | 1.52%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                           | 1        | 1.52%   |
@@ -1564,9 +1568,9 @@ Controller models
 | Mellanox MT27500 Family [ConnectX-3]                                       | 1        | 1.52%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                    | 1        | 1.52%   |
 | Intel Wireless 3160                                                        | 1        | 1.52%   |
-| Intel Wi-Fi 6 AX201 160MHz                                                 | 1        | 1.52%   |
 | Intel Wi-Fi 6 AX200                                                        | 1        | 1.52%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 1        | 1.52%   |
+| Intel Jasper Lake PCH CNVi WiFi                                            | 1        | 1.52%   |
 | Intel I350 Gigabit Network Connection                                      | 1        | 1.52%   |
 | Intel Ethernet Controller I226-V                                           | 1        | 1.52%   |
 | Intel Ethernet Controller 10G X550T                                        | 1        | 1.52%   |
@@ -1610,16 +1614,16 @@ Wireless models
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
 | Intel Tiger Lake PCH CNVi WiFi                                             | 2        | 12.5%   |
-| Intel CNVi: Wi-Fi                                                          | 2        | 12.5%   |
+| Intel Alder Lake-N PCH CNVi WiFi                                           | 2        | 12.5%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter                   | 1        | 6.25%   |
 | Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter                   | 1        | 6.25%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                           | 1        | 6.25%   |
 | Micro Star International MS-3871 802.11bgn Wireless Module [Ralink RT8070] | 1        | 6.25%   |
 | MediaTek MT7921K (RZ608) Wi-Fi 6E 80MHz                                    | 1        | 6.25%   |
 | Intel Wireless 3160                                                        | 1        | 6.25%   |
-| Intel Wi-Fi 6 AX201 160MHz                                                 | 1        | 6.25%   |
 | Intel Wi-Fi 6 AX200                                                        | 1        | 6.25%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                    | 1        | 6.25%   |
+| Intel Jasper Lake PCH CNVi WiFi                                            | 1        | 6.25%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                           | 1        | 6.25%   |
 | ASUS USB-AC53 Nano USB Wieless Adapter                                     | 1        | 6.25%   |
 | ASUS Realtek 8188EUS [USB-N10 Nano]                                        | 1        | 6.25%   |
@@ -1796,9 +1800,9 @@ Sound card models
 
 | Model                                                                                                            | Desktops | Percent |
 |------------------------------------------------------------------------------------------------------------------|----------|---------|
-| AMD Family 17h/19h/1ah HD Audio Controller                                                                       | 8        | 13.11%  |
+| AMD Ryzen HD Audio Controller                                                                                    | 8        | 13.11%  |
 | AMD Starship/Matisse HD Audio Controller                                                                         | 5        | 8.2%    |
-| AMD Renoir Radeon High Definition Audio Controller                                                               | 4        | 6.56%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                                      | 4        | 6.56%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                                              | 3        | 4.92%   |
 | Intel Alder Lake-N PCH High Definition Audio Controller                                                          | 2        | 3.28%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                                              | 2        | 3.28%   |

@@ -1125,9 +1125,9 @@ Storage controller models
 | SK hynix PC601 NVMe Solid State Drive                                         | 1         | 1.01%   |
 | SK hynix BC501 NVMe Solid State Drive                                         | 1         | 1.01%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers             | 1         | 1.01%   |
-| Shenzhen Longsys Lexar NM790 NVME SSD (DRAM-less)                             | 1         | 1.01%   |
+| Shenzhen Longsys Lexar NM790 / Patriot Viper VP4300 Lite NVMe SSD (DRAM-less) | 1         | 1.01%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                  | 1         | 1.01%   |
 | SanDisk WD Blue SN500 / PC SN520 x2 M.2 2280 NVMe SSD                         | 1         | 1.01%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD       | 1         | 1.01%   |
 | SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)     | 1         | 1.01%   |
 | SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                         | 1         | 1.01%   |
 | SanDisk PC SN530 NVMe SSD (DRAM-less)                                         | 1         | 1.01%   |
@@ -1137,7 +1137,7 @@ Storage controller models
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                | 1         | 1.01%   |
 | Phison PS5013-E13 PCIe3 NVMe Controller (DRAM-less)                           | 1         | 1.01%   |
 | Phison E12 NVMe Controller                                                    | 1         | 1.01%   |
-| Netac PCIe 4 INNOGRIT based NVMe SSD                                          | 1         | 1.01%   |
+| Netac NV7000 NVMe SSD                                                         | 1         | 1.01%   |
 | Micron/Crucial T500 NVMe PCIe SSD                                             | 1         | 1.01%   |
 | Micron 2550 NVMe SSD (DRAM-less)                                              | 1         | 1.01%   |
 
@@ -1354,14 +1354,14 @@ Graphics card models
 | Model                                                                                    | Notebooks | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 7         | 7.14%   |
-| Intel HD Graphics 5500                                                                   | 6         | 6.12%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 6         | 6.12%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 5         | 5.1%    |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 5         | 5.1%    |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 5         | 5.1%    |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 5         | 5.1%    |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 4         | 4.08%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 4         | 4.08%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 3         | 3.06%   |
-| Intel UHD Graphics 620                                                                   | 3         | 3.06%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 3         | 3.06%   |
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 2         | 2.04%   |
 | Intel Raptor Lake-S UHD Graphics                                                         | 2         | 2.04%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 2         | 2.04%   |
@@ -1383,16 +1383,16 @@ Graphics card models
 | Nvidia AD104M [GeForce RTX 4080 Max-Q / Mobile]                                          | 1         | 1.02%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                               | 1         | 1.02%   |
 | Intel Tiger Lake-LP GT2 [UHD Graphics G4]                                                | 1         | 1.02%   |
+| Intel Skylake-H GT2 [HD Graphics 530]                                                    | 1         | 1.02%   |
 | Intel Raptor Lake-P [Iris Xe Graphics]                                                   | 1         | 1.02%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)                      | 1         | 1.02%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)                        | 1         | 1.02%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                                  | 1         | 1.02%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                                  | 1         | 1.02%   |
 | Intel JasperLake [UHD Graphics]                                                          | 1         | 1.02%   |
 | Intel Iris Plus Graphics G7                                                              | 1         | 1.02%   |
 | Intel Iris Plus Graphics G1 (Ice Lake)                                                   | 1         | 1.02%   |
-| Intel HD Graphics 630                                                                    | 1         | 1.02%   |
-| Intel HD Graphics 620                                                                    | 1         | 1.02%   |
-| Intel HD Graphics 530                                                                    | 1         | 1.02%   |
-| Intel HD Graphics                                                                        | 1         | 1.02%   |
+| Intel GeminiLake [UHD Graphics 600]                                                      | 1         | 1.02%   |
 
 GPU Combo
 ---------
@@ -1489,10 +1489,10 @@ Monitor models
 | LG Display LCD Monitor LGD0362 1600x900 310x170mm 13.9-inch           | 1         | 1.89%   |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch           | 1         | 1.89%   |
 | LG Display LCD Monitor LGD02D3 1366x768 280x160mm 12.7-inch           | 1         | 1.89%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.89%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.89%   |
 | Lenovo LCD Monitor LEN40A0 1366x768 310x170mm 13.9-inch               | 1         | 1.89%   |
 | Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 1.89%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 580x240mm 24.7-inch           | 1         | 1.89%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch           | 1         | 1.89%   |
 | Goldstar 22EN43 GSM59D9 1920x1080 480x270mm 21.7-inch                 | 1         | 1.89%   |
 | Chimei Innolux LCD Monitor CMN15F5 1920x1080 340x190mm 15.3-inch      | 1         | 1.89%   |
 | Chimei Innolux LCD Monitor CMN15CC 1366x768 340x190mm 15.3-inch       | 1         | 1.89%   |
@@ -1702,7 +1702,6 @@ Controller models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                | 2         | 1.39%   |
 | Intel Wireless 3160                                                    | 2         | 1.39%   |
 | Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 2         | 1.39%   |
-| Intel Raptor Lake-S PCH CNVi WiFi                                      | 2         | 1.39%   |
 | Intel Raptor Lake PCH CNVi WiFi                                        | 2         | 1.39%   |
 | Intel Ethernet Connection I219-LM                                      | 2         | 1.39%   |
 | Intel Ethernet Connection I218-LM                                      | 2         | 1.39%   |
@@ -1710,6 +1709,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                        | 2         | 1.39%   |
 | Intel Centrino Ultimate-N 6300                                         | 2         | 1.39%   |
 | Intel Cannon Lake PCH CNVi WiFi                                        | 2         | 1.39%   |
+| Intel 700 Series Chipset CNVi WiFi                                     | 2         | 1.39%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter           | 2         | 1.39%   |
 | ZyXEL NWD2105 802.11bgn Wireless Adapter [Ralink RT3070]               | 1         | 0.69%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                         | 1         | 0.69%   |
@@ -1771,11 +1771,11 @@ Wireless models
 | Realtek RTL8188CUS 802.11n WLAN Adapter                        | 2         | 2.3%    |
 | Intel Wireless 3160                                            | 2         | 2.3%    |
 | Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]      | 2         | 2.3%    |
-| Intel Raptor Lake-S PCH CNVi WiFi                              | 2         | 2.3%    |
 | Intel Raptor Lake PCH CNVi WiFi                                | 2         | 2.3%    |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                | 2         | 2.3%    |
 | Intel Centrino Ultimate-N 6300                                 | 2         | 2.3%    |
 | Intel Cannon Lake PCH CNVi WiFi                                | 2         | 2.3%    |
+| Intel 700 Series Chipset CNVi WiFi                             | 2         | 2.3%    |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 2         | 2.3%    |
 | ZyXEL NWD2105 802.11bgn Wireless Adapter [Ralink RT3070]       | 1         | 1.15%   |
 | TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 1.15%   |
@@ -1796,8 +1796,8 @@ Wireless models
 | Qualcomm Atheros AR9462 Wireless Network Adapter               | 1         | 1.15%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 1         | 1.15%   |
 | Intel WiFi Link 5100                                           | 1         | 1.15%   |
-| Intel Wi-Fi 6 AX201 160MHz                                     | 1         | 1.15%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 1         | 1.15%   |
+| Intel PRO/Wireless 5100 AGN [Shiloh] Network Connection        | 1         | 1.15%   |
 
 Ethernet Vendor
 ---------------
@@ -1998,7 +1998,7 @@ Sound card models
 
 | Model                                                                                             | Notebooks | Percent |
 |---------------------------------------------------------------------------------------------------|-----------|---------|
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 10        | 8.85%   |
+| AMD Ryzen HD Audio Controller                                                                     | 10        | 8.85%   |
 | Intel Sunrise Point-LP HD Audio                                                                   | 9         | 7.96%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 7         | 6.19%   |
 | Intel Haswell-ULT HD Audio Controller                                                             | 7         | 6.19%   |
@@ -2007,7 +2007,7 @@ Sound card models
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 7         | 6.19%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                                       | 6         | 5.31%   |
 | Intel Cannon Lake PCH cAVS                                                                        | 5         | 4.42%   |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 4         | 3.54%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 4         | 3.54%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller                        | 3         | 2.65%   |
 | AMD Raven/Raven2/Fenghuang HDMI/DP Audio Controller                                               | 3         | 2.65%   |
 | Nvidia AD107 High Definition Audio Controller                                                     | 2         | 1.77%   |
@@ -2036,7 +2036,7 @@ Sound card models
 | AMD Wrestler HDMI Audio                                                                           | 1         | 0.88%   |
 | AMD Trinity HDMI Audio Controller                                                                 | 1         | 0.88%   |
 | AMD SBx00 Azalia (Intel HDA)                                                                      | 1         | 0.88%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                                             | 1         | 0.88%   |
+| AMD Radeon High Definition Audio Controller                                                       | 1         | 0.88%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]                           | 1         | 0.88%   |
 
 Memory
@@ -2115,7 +2115,7 @@ Memory module models
 | Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s            | 1         | 1.05%   |
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.05%   |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s            | 1         | 1.05%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s            | 1         | 1.05%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s            | 1         | 1.05%   |
 
 Memory Kind
 -----------
@@ -2177,20 +2177,20 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 26        | 32.5%   |
-| 2667    | 15        | 18.75%  |
-| 3200    | 10        | 12.5%   |
-| 2400    | 5         | 6.25%   |
-| 1333    | 5         | 6.25%   |
-| 2133    | 4         | 5%      |
-| 1867    | 4         | 5%      |
-| 6400    | 2         | 2.5%    |
-| 5600    | 2         | 2.5%    |
-| 1334    | 2         | 2.5%    |
-| 667     | 2         | 2.5%    |
-| 4800    | 1         | 1.25%   |
-| 3733    | 1         | 1.25%   |
-| Unknown | 1         | 1.25%   |
+| 1600    | 26        | 32.1%   |
+| 2667    | 14        | 17.28%  |
+| 3200    | 12        | 14.81%  |
+| 2400    | 5         | 6.17%   |
+| 1333    | 5         | 6.17%   |
+| 2133    | 4         | 4.94%   |
+| 1867    | 4         | 4.94%   |
+| 6400    | 2         | 2.47%   |
+| 5600    | 2         | 2.47%   |
+| 1334    | 2         | 2.47%   |
+| 667     | 2         | 2.47%   |
+| 4800    | 1         | 1.23%   |
+| 3733    | 1         | 1.23%   |
+| Unknown | 1         | 1.23%   |
 
 Printers & scanners
 -------------------

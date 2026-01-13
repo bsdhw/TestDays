@@ -759,20 +759,20 @@ Motherboard manufacture year
 | Year    | Computers | Percent |
 |---------|-----------|---------|
 | 2021    | 33        | 13.98%  |
-| 2020    | 33        | 13.98%  |
+| 2020    | 32        | 13.56%  |
 | 2022    | 26        | 11.02%  |
-| 2018    | 21        | 8.9%    |
+| 2018    | 20        | 8.47%   |
 | 2019    | 16        | 6.78%   |
+| 2016    | 14        | 5.93%   |
 | 2011    | 14        | 5.93%   |
-| 2016    | 13        | 5.51%   |
-| 2014    | 13        | 5.51%   |
 | 2013    | 13        | 5.51%   |
-| 2012    | 12        | 5.08%   |
+| 2012    | 13        | 5.51%   |
+| 2014    | 12        | 5.08%   |
 | 2017    | 9         | 3.81%   |
 | Unknown | 9         | 3.81%   |
+| 2008    | 7         | 2.97%   |
 | 2015    | 6         | 2.54%   |
 | 2010    | 6         | 2.54%   |
-| 2008    | 6         | 2.54%   |
 | 2009    | 4         | 1.69%   |
 | 2023    | 2         | 0.85%   |
 
@@ -1243,13 +1243,13 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 109       | 149    | 50.7%   |
-| 0.51-1.0   | 64        | 93     | 29.77%  |
-| 1.01-2.0   | 19        | 38     | 8.84%   |
-| 3.01-4.0   | 8         | 13     | 3.72%   |
-| 4.01-10.0  | 6         | 46     | 2.79%   |
-| 2.01-3.0   | 5         | 20     | 2.33%   |
-| 10.01-20.0 | 4         | 26     | 1.86%   |
+| 0.01-0.5   | 109       | 148    | 50.46%  |
+| 0.51-1.0   | 64        | 93     | 29.63%  |
+| 1.01-2.0   | 20        | 39     | 9.26%   |
+| 3.01-4.0   | 8         | 13     | 3.7%    |
+| 4.01-10.0  | 6         | 46     | 2.78%   |
+| 2.01-3.0   | 5         | 20     | 2.31%   |
+| 10.01-20.0 | 4         | 26     | 1.85%   |
 
 Space Total
 -----------
@@ -1772,13 +1772,13 @@ Graphics card models
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                  | 7         | 2.68%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                        | 7         | 2.68%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                   | 7         | 2.68%   |
-| Intel UHD Graphics 620                                                      | 6         | 2.3%    |
-| Intel HD Graphics 620                                                       | 5         | 1.92%   |
-| Intel HD Graphics 5500                                                      | 5         | 1.92%   |
-| Intel HD Graphics 530                                                       | 5         | 1.92%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 6         | 2.3%    |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                    | 5         | 1.92%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                             | 4         | 1.53%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 4         | 1.53%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 4         | 1.53%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 4         | 1.53%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 4         | 1.53%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 4         | 1.53%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 4         | 1.53%   |
 | Intel GeminiLake [UHD Graphics 600]                                         | 4         | 1.53%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 4         | 1.53%   |
@@ -1790,8 +1790,8 @@ Graphics card models
 | Nvidia GP107 [GeForce GTX 1050]                                             | 3         | 1.15%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 3         | 1.15%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 3         | 1.15%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 3         | 1.15%   |
 | Intel JasperLake [UHD Graphics]                                             | 3         | 1.15%   |
-| Intel HD Graphics 630                                                       | 3         | 1.15%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 3         | 1.15%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                 | 3         | 1.15%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 3         | 1.15%   |
@@ -1840,8 +1840,8 @@ Free vs proprietary
 
 | Driver      | Computers | Percent |
 |-------------|-----------|---------|
-| Free        | 191       | 80.59%  |
-| Proprietary | 33        | 13.92%  |
+| Free        | 192       | 81.01%  |
+| Proprietary | 32        | 13.5%   |
 | Unknown     | 13        | 5.49%   |
 
 GPU Memory
@@ -1950,7 +1950,7 @@ Monitor models
 | Samsung Electronics LCD Monitor T27C370 1920x1080                      | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SyncMaster 1920x1200                   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SyncMaster 1280x1024                   | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch   | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3741 1366x768 300x170mm 13.6-inch   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch   | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch  | 1         | 0.67%   |
@@ -2217,7 +2217,7 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 3         | 0.74%   |
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 3         | 0.74%   |
 | Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)         | 3         | 0.74%   |
-| Intel Wi-Fi 6 AX201 160MHz                                             | 3         | 0.74%   |
+| Intel Jasper Lake PCH CNVi WiFi                                        | 3         | 0.74%   |
 | Intel I350 Gigabit Network Connection                                  | 3         | 0.74%   |
 | Intel I210 Gigabit Network Connection                                  | 3         | 0.74%   |
 | Intel Ethernet Controller X550                                         | 3         | 0.74%   |
@@ -2260,48 +2260,48 @@ Wireless models
 ![Wireless Model](./All/images/pie_chart_bsd/net_wireless_model.svg)
 
 
-| Model                                                          | Computers | Percent |
-|----------------------------------------------------------------|-----------|---------|
-| Intel Wireless 8265 / 8275                                     | 10        | 5.75%   |
-| Intel Wi-Fi 6 AX200                                            | 10        | 5.75%   |
-| Intel Wi-Fi 6 AX201                                            | 8         | 4.6%    |
-| Intel Comet Lake PCH-LP CNVi WiFi                              | 7         | 4.02%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 6         | 3.45%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 6         | 3.45%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 5         | 2.87%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 5         | 2.87%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 4         | 2.3%    |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 4         | 2.3%    |
-| Qualcomm Atheros AR9462 Wireless Network Adapter               | 4         | 2.3%    |
-| Intel Wireless 8260                                            | 4         | 2.3%    |
-| Intel Wireless 7265                                            | 4         | 2.3%    |
-| Intel Wireless 7260                                            | 4         | 2.3%    |
-| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 4         | 2.3%    |
-| Intel Cannon Lake PCH CNVi WiFi                                | 4         | 2.3%    |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 3         | 1.72%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 3         | 1.72%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 3         | 1.72%   |
-| Intel Wi-Fi 6 AX201 160MHz                                     | 3         | 1.72%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 3         | 1.72%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 2         | 1.15%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 2         | 1.15%   |
-| Realtek RTL8188EE Wireless Network Adapter                     | 2         | 1.15%   |
-| Realtek Bluetooth Adapter                                      | 2         | 1.15%   |
-| Realtek 8811CU Wireless LAN 802.11ac USB NIC                   | 2         | 1.15%   |
-| Ralink RT5370 Wireless Adapter                                 | 2         | 1.15%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2         | 1.15%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter  | 2         | 1.15%   |
-| Intel Wireless 3160                                            | 2         | 1.15%   |
-| Intel WiFi Link 5100                                           | 2         | 1.15%   |
-| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]      | 2         | 1.15%   |
-| Intel Tiger Lake PCH CNVi WiFi                                 | 2         | 1.15%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                | 2         | 1.15%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 2         | 1.15%   |
-| Intel Centrino Ultimate-N 6300                                 | 2         | 1.15%   |
-| Intel Alder Lake-P PCH CNVi WiFi                               | 2         | 1.15%   |
-| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter   | 2         | 1.15%   |
-| Broadcom BCM43228 802.11a/b/g/n                                | 2         | 1.15%   |
-| Broadcom BCM43224 802.11a/b/g/n                                | 2         | 1.15%   |
+| Model                                                                | Computers | Percent |
+|----------------------------------------------------------------------|-----------|---------|
+| Intel Wireless 8265 / 8275                                           | 10        | 5.75%   |
+| Intel Wi-Fi 6 AX200                                                  | 10        | 5.75%   |
+| Intel Wi-Fi 6 AX201                                                  | 8         | 4.6%    |
+| Intel Comet Lake PCH-LP CNVi WiFi                                    | 7         | 4.02%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter           | 6         | 3.45%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                         | 6         | 3.45%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 5         | 2.87%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                             | 5         | 2.87%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 4         | 2.3%    |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                     | 4         | 2.3%    |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                     | 4         | 2.3%    |
+| Intel Wireless 8260                                                  | 4         | 2.3%    |
+| Intel Wireless 7265                                                  | 4         | 2.3%    |
+| Intel Wireless 7260                                                  | 4         | 2.3%    |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]              | 4         | 2.3%    |
+| Intel Cannon Lake PCH CNVi WiFi                                      | 4         | 2.3%    |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 3         | 1.72%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter           | 3         | 1.72%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)       | 3         | 1.72%   |
+| Intel Jasper Lake PCH CNVi WiFi                                      | 3         | 1.72%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 3         | 1.72%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                         | 2         | 1.15%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter             | 2         | 1.15%   |
+| Realtek RTL8188EE Wireless Network Adapter                           | 2         | 1.15%   |
+| Realtek Bluetooth Adapter                                            | 2         | 1.15%   |
+| Realtek 8811CU Wireless LAN 802.11ac USB NIC                         | 2         | 1.15%   |
+| Ralink RT5370 Wireless Adapter                                       | 2         | 1.15%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)       | 2         | 1.15%   |
+| MediaTek MT7921 802.11ax PCIe Wireless Network Adapter [Filogic 330] | 2         | 1.15%   |
+| Intel Wireless 3160                                                  | 2         | 1.15%   |
+| Intel WiFi Link 5100                                                 | 2         | 1.15%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]            | 2         | 1.15%   |
+| Intel Tiger Lake PCH CNVi WiFi                                       | 2         | 1.15%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                      | 2         | 1.15%   |
+| Intel Comet Lake PCH CNVi WiFi                                       | 2         | 1.15%   |
+| Intel Centrino Ultimate-N 6300                                       | 2         | 1.15%   |
+| Intel Alder Lake-P PCH CNVi WiFi                                     | 2         | 1.15%   |
+| Broadcom BCM4352 802.11ac Dual Band Wireless Network Adapter         | 2         | 1.15%   |
+| Broadcom BCM43228 802.11a/b/g/n                                      | 2         | 1.15%   |
+| Broadcom BCM43224 802.11a/b/g/n                                      | 2         | 1.15%   |
 
 Ethernet Vendor
 ---------------
@@ -2563,14 +2563,14 @@ Sound card models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 17        | 5.25%   |
+| AMD Ryzen HD Audio Controller                                              | 17        | 5.25%   |
 | Intel Sunrise Point-LP HD Audio                                            | 16        | 4.94%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 16        | 4.94%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 13        | 4.01%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 12        | 3.7%    |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 11        | 3.4%    |
 | Intel Cannon Lake PCH cAVS                                                 | 11        | 3.4%    |
-| AMD Renoir Radeon High Definition Audio Controller                         | 11        | 3.4%    |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 11        | 3.4%    |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 9         | 2.78%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 8         | 2.47%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 8         | 2.47%   |
@@ -2665,8 +2665,8 @@ Memory module models
 | Unknown RAM Module 4GB DIMM 1333MT/s                             | 2         | 0.72%   |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 0.72%   |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 0.72%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 0.72%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s   | 2         | 0.72%   |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s     | 2         | 0.72%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 2         | 0.72%   |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 0.72%   |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 0.72%   |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 0.72%   |
@@ -2694,7 +2694,7 @@ Memory module models
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s    | 1         | 0.36%   |
 | Transcend RAM TS2GSH64V1B 16GB SODIMM DDR4 2133MT/s              | 1         | 0.36%   |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s              | 1         | 0.36%   |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s               | 1         | 0.36%   |
+| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s              | 1         | 0.36%   |
 | SK hynix RAM Module 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.36%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR4 3200MT/s             | 1         | 0.36%   |
 | SK hynix RAM Module 8GB Row Of Chips LPDDR3 2133MT/s             | 1         | 0.36%   |
@@ -2764,10 +2764,10 @@ Memory module speed
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
 | 1600    | 56        | 23.14%  |
-| 3200    | 43        | 17.77%  |
+| 3200    | 45        | 18.6%   |
 | 2400    | 29        | 11.98%  |
-| 2667    | 25        | 10.33%  |
-| 2133    | 23        | 9.5%    |
+| 2667    | 23        | 9.5%    |
+| 2133    | 22        | 9.09%   |
 | 1333    | 16        | 6.61%   |
 | 1334    | 11        | 4.55%   |
 | 3600    | 5         | 2.07%   |
@@ -2784,6 +2784,7 @@ Memory module speed
 | 6400    | 1         | 0.41%   |
 | 4800    | 1         | 0.41%   |
 | 4266    | 1         | 0.41%   |
+| 3733    | 1         | 0.41%   |
 | 3400    | 1         | 0.41%   |
 | 2048    | 1         | 0.41%   |
 | 1596    | 1         | 0.41%   |

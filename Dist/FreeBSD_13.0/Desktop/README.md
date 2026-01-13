@@ -179,7 +179,7 @@ Total: 110
 | Supermicro    | X7SPA-HF                    | [0ed5f516f4](https://bsd-hardware.info/?probe=0ed5f516f4) | Nov 21, 2021 |
 | Firefly       | roc-rk3399-pc-plus          | [39c78ac754](https://bsd-hardware.info/?probe=39c78ac754) | Oct 19, 2021 |
 | Firefly       | roc-rk3399-pc-plus          | [5173ffc13b](https://bsd-hardware.info/?probe=5173ffc13b) | Oct 17, 2021 |
-| ASUSTek       | P5Q-E                       | [da31eaf836](https://bsd-hardware.info/?probe=da31eaf836) | Oct 17, 2021 |
+| MSI           | H81M-P33                    | [da31eaf836](https://bsd-hardware.info/?probe=da31eaf836) | Oct 17, 2021 |
 | Dell          | 0Y7WYT A00                  | [1de7ed2a67](https://bsd-hardware.info/?probe=1de7ed2a67) | Oct 16, 2021 |
 | ASUSTek       | ROG STRIX X470-F GAMING     | [6ceda5d7b4](https://bsd-hardware.info/?probe=6ceda5d7b4) | Oct 15, 2021 |
 | ASUSTek       | H81M-E                      | [0cc0d2dcb1](https://bsd-hardware.info/?probe=0cc0d2dcb1) | Oct 01, 2021 |
@@ -249,7 +249,7 @@ Total: 110
 | ASRock        | J4105-ITX                   | [66eee76b50](https://bsd-hardware.info/?probe=66eee76b50) | Apr 21, 2021 |
 | ASRock        | H110M-STX                   | [c98cb0e438](https://bsd-hardware.info/?probe=c98cb0e438) | Apr 19, 2021 |
 | Supermicro    | X7SPA-HF                    | [418cc1382c](https://bsd-hardware.info/?probe=418cc1382c) | Apr 18, 2021 |
-| ASUSTek       | P5Q-E                       | [be1821da8a](https://bsd-hardware.info/?probe=be1821da8a) | Apr 18, 2021 |
+| MSI           | H81M-P33                    | [be1821da8a](https://bsd-hardware.info/?probe=be1821da8a) | Apr 18, 2021 |
 | MSI           | H81M-P33                    | [3a81fe2ee4](https://bsd-hardware.info/?probe=3a81fe2ee4) | Apr 18, 2021 |
 | Unknown       | Unknown                     | [48090193c1](https://bsd-hardware.info/?probe=48090193c1) | Apr 17, 2021 |
 | Unknown       | Unknown                     | [1c4a81b9a5](https://bsd-hardware.info/?probe=1c4a81b9a5) | Apr 17, 2021 |
@@ -403,10 +403,10 @@ Motherboard manufacturer
 
 | Name                | Desktops | Percent |
 |---------------------|----------|---------|
-| ASUSTek Computer    | 21       | 26.92%  |
+| ASUSTek Computer    | 20       | 25.64%  |
 | Gigabyte Technology | 12       | 15.38%  |
 | ASRock              | 12       | 15.38%  |
-| MSI                 | 6        | 7.69%   |
+| MSI                 | 7        | 8.97%   |
 | Dell                | 5        | 6.41%   |
 | Hewlett-Packard     | 4        | 5.13%   |
 | Beckhoff Automation | 3        | 3.85%   |
@@ -435,6 +435,7 @@ Motherboard model
 |------------------------------------|----------|---------|
 | ASUS All Series                    | 3        | 3.85%   |
 | Unknown                            | 3        | 3.85%   |
+| MSI MS-7817                        | 2        | 2.56%   |
 | Dell OptiPlex 7040                 | 2        | 2.56%   |
 | Beckhoff Automation Industrial PC  | 2        | 2.56%   |
 | ASUS TUF GAMING X570-PLUS          | 2        | 2.56%   |
@@ -448,7 +449,6 @@ Motherboard model
 | MSI MS-7C39                        | 1        | 1.28%   |
 | MSI MS-7C02                        | 1        | 1.28%   |
 | MSI MS-7B09                        | 1        | 1.28%   |
-| MSI MS-7817                        | 1        | 1.28%   |
 | MSI MS-7677                        | 1        | 1.28%   |
 | Medion MS-7616                     | 1        | 1.28%   |
 | Huanan X99-F8D V2.4                | 1        | 1.28%   |
@@ -489,6 +489,7 @@ Motherboard model prefix
 | ASUS ROG                       | 3        | 3.85%   |
 | ASUS All                       | 3        | 3.85%   |
 | Unknown                        | 3        | 3.85%   |
+| MSI MS-7817                    | 2        | 2.56%   |
 | HP ProLiant                    | 2        | 2.56%   |
 | Gigabyte X570                  | 2        | 2.56%   |
 | Beckhoff Automation Industrial | 2        | 2.56%   |
@@ -505,7 +506,6 @@ Motherboard model prefix
 | MSI MS-7C39                    | 1        | 1.28%   |
 | MSI MS-7C02                    | 1        | 1.28%   |
 | MSI MS-7B09                    | 1        | 1.28%   |
-| MSI MS-7817                    | 1        | 1.28%   |
 | MSI MS-7677                    | 1        | 1.28%   |
 | Medion MS-7616                 | 1        | 1.28%   |
 | Huanan X99-F8D                 | 1        | 1.28%   |
@@ -538,16 +538,16 @@ Motherboard manufacture year
 | 2018    | 10       | 12.82%  |
 | 2020    | 9        | 11.54%  |
 | 2021    | 7        | 8.97%   |
+| 2008    | 7        | 8.97%   |
 | 2019    | 6        | 7.69%   |
 | 2013    | 6        | 7.69%   |
-| 2008    | 6        | 7.69%   |
 | 2012    | 5        | 6.41%   |
+| 2010    | 5        | 6.41%   |
 | 2017    | 4        | 5.13%   |
 | 2016    | 4        | 5.13%   |
-| 2014    | 4        | 5.13%   |
-| 2011    | 4        | 5.13%   |
-| 2010    | 4        | 5.13%   |
 | 2015    | 3        | 3.85%   |
+| 2014    | 3        | 3.85%   |
+| 2011    | 3        | 3.85%   |
 | 2009    | 2        | 2.56%   |
 | 2006    | 2        | 2.56%   |
 | 2005    | 1        | 1.28%   |
@@ -833,7 +833,7 @@ Hard drive models
 | Seagate ST4000DM000-1F2168 4TB    | 4        | 2.26%   |
 | Kingston SA400S37120G 120GB       | 3        | 1.69%   |
 | WDC WD80EFAX-68LHPN0 8TB          | 2        | 1.13%   |
-| WDC WD20EFRX-68EUZN0 2TB          | 2        | 1.13%   |
+| WDC WD20EFRX-68EUZN0 1TB          | 2        | 1.13%   |
 | Seagate ST8000VN004-2M2101 8TB    | 2        | 1.13%   |
 | Seagate ST4000VN000-1H4168 4TB    | 2        | 1.13%   |
 | Seagate ST4000DM004-2CV104 4TB    | 2        | 1.13%   |
@@ -954,13 +954,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 48       | 81     | 40.68%  |
-| 0.51-1.0   | 28       | 43     | 23.73%  |
-| 3.01-4.0   | 12       | 29     | 10.17%  |
-| 1.01-2.0   | 11       | 23     | 9.32%   |
-| 4.01-10.0  | 10       | 49     | 8.47%   |
-| 2.01-3.0   | 5        | 18     | 4.24%   |
-| 10.01-20.0 | 4        | 19     | 3.39%   |
+| 0.01-0.5   | 48       | 81     | 40.34%  |
+| 0.51-1.0   | 30       | 47     | 25.21%  |
+| 3.01-4.0   | 12       | 29     | 10.08%  |
+| 1.01-2.0   | 10       | 19     | 8.4%    |
+| 4.01-10.0  | 10       | 49     | 8.4%    |
+| 2.01-3.0   | 5        | 18     | 4.2%    |
+| 10.01-20.0 | 4        | 19     | 3.36%   |
 
 Space Total
 -----------
@@ -1427,14 +1427,14 @@ Graphics card models
 |-----------------------------------------------------------------------------|----------|---------|
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 7        | 8.54%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 5        | 6.1%    |
-| Intel HD Graphics 530                                                       | 5        | 6.1%    |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 5        | 6.1%    |
 | Nvidia GP108 [GeForce GT 1030]                                              | 3        | 3.66%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 3        | 3.66%   |
 | Nvidia GT218 [GeForce 210]                                                  | 2        | 2.44%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 2        | 2.44%   |
 | Nvidia GF119 [GeForce GT 610]                                               | 2        | 2.44%   |
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)           | 2        | 2.44%   |
-| Intel UHD Graphics 620                                                      | 2        | 2.44%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 2        | 2.44%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 2        | 2.44%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 2        | 2.44%   |
 | AMD Baffin [Radeon RX 550 640SP / RX 560/560X]                              | 2        | 2.44%   |
@@ -1459,12 +1459,12 @@ Graphics card models
 | Nvidia G72 [GeForce 7200 GS / 7300 SE]                                      | 1        | 1.22%   |
 | NVidia / SGS Thomson (Joint Venture) Riva128                                | 1        | 1.22%   |
 | Matrox Electronics Systems MGA G200EH                                       | 1        | 1.22%   |
+| Intel Skylake-DT/H GT2 [HD Graphics P530]                                   | 1        | 1.22%   |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 1        | 1.22%   |
-| Intel HD Graphics P530                                                      | 1        | 1.22%   |
-| Intel HD Graphics 500                                                       | 1        | 1.22%   |
 | Intel GeminiLake [UHD Graphics 600]                                         | 1        | 1.22%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 1        | 1.22%   |
 | Intel Comet Lake-U GT2 [UHD Graphics 620]                                   | 1        | 1.22%   |
+| Intel Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller     | 1        | 1.22%   |
 
 GPU Combo
 ---------
@@ -1497,8 +1497,8 @@ Free vs proprietary
 
 | Driver      | Desktops | Percent |
 |-------------|----------|---------|
-| Free        | 59       | 75.64%  |
-| Proprietary | 17       | 21.79%  |
+| Free        | 60       | 76.92%  |
+| Proprietary | 16       | 20.51%  |
 | Unknown     | 2        | 2.56%   |
 
 GPU Memory
@@ -2066,7 +2066,7 @@ Sound card models
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller                                       | 5        | 4.2%    |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                                       | 5        | 4.2%    |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller                                           | 5        | 4.2%    |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                                | 4        | 3.36%   |
+| AMD Ryzen HD Audio Controller                                                                             | 4        | 3.36%   |
 | Nvidia High Definition Audio Controller                                                                   | 3        | 2.52%   |
 | Nvidia GP108 High Definition Audio Controller                                                             | 3        | 2.52%   |
 | Nvidia GF119 HDMI Audio Controller                                                                        | 3        | 2.52%   |
@@ -2240,12 +2240,12 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 1600    | 17       | 22.37%  |
-| 3200    | 12       | 15.79%  |
+| 3200    | 13       | 17.11%  |
 | 1333    | 9        | 11.84%  |
 | 800     | 7        | 9.21%   |
 | 2400    | 6        | 7.89%   |
-| 2133    | 6        | 7.89%   |
 | 3000    | 5        | 6.58%   |
+| 2133    | 5        | 6.58%   |
 | 2667    | 3        | 3.95%   |
 | 2933    | 2        | 2.63%   |
 | 400     | 2        | 2.63%   |

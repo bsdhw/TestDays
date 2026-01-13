@@ -577,12 +577,12 @@ Motherboard manufacture year
 | Year | Notebooks | Percent |
 |------|-----------|---------|
 | 2022 | 18        | 15.65%  |
-| 2020 | 16        | 13.91%  |
+| 2020 | 15        | 13.04%  |
 | 2021 | 14        | 12.17%  |
 | 2018 | 11        | 9.57%   |
 | 2011 | 9         | 7.83%   |
 | 2019 | 8         | 6.96%   |
-| 2016 | 6         | 5.22%   |
+| 2016 | 7         | 6.09%   |
 | 2012 | 6         | 5.22%   |
 | 2017 | 5         | 4.35%   |
 | 2013 | 5         | 4.35%   |
@@ -1226,7 +1226,7 @@ Storage controller models
 | Shenzhen Unionmemory Information System AM620 PCIe 3.0 NVMe SSD 512GB          | 1         | 0.69%   |
 | SanDisk WD Green SN350 240GB (DRAM-less) / SN560E NVMe SSD                     | 1         | 0.69%   |
 | SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 1         | 0.69%   |
-| SanDisk IX SN530 NVMe SSD (DRAM-less)                                          | 1         | 0.69%   |
+| SanDisk IX SN530 NVMe SSD / microSD Express Card (DRAM-less)                   | 1         | 0.69%   |
 | Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                     | 1         | 0.69%   |
 | Samsung NVMe SSD Controller SM951/PM951                                        | 1         | 0.69%   |
 | Samsung NVMe SSD Controller PM9A1/PM9A3/980PRO                                 | 1         | 0.69%   |
@@ -1455,15 +1455,15 @@ Graphics card models
 | Intel 3rd Gen Core processor Graphics Controller                          | 8         | 5.59%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                 | 7         | 4.9%    |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 6         | 4.2%    |
-| Intel UHD Graphics 620                                                    | 6         | 4.2%    |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 6         | 4.2%    |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 6         | 4.2%    |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                 | 6         | 4.2%    |
-| Intel HD Graphics 5500                                                    | 5         | 3.5%    |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                  | 5         | 3.5%    |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 4         | 2.8%    |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 4         | 2.8%    |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 4         | 2.8%    |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 4         | 2.8%    |
-| Intel HD Graphics 620                                                     | 4         | 2.8%    |
 | AMD Lucienne                                                              | 4         | 2.8%    |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 3         | 2.1%    |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 3         | 2.1%    |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 2.1%    |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]               | 3         | 2.1%    |
@@ -1522,8 +1522,8 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 105       | 91.3%   |
-| Proprietary | 10        | 8.7%    |
+| Free        | 106       | 92.17%  |
+| Proprietary | 9         | 7.83%   |
 
 GPU Memory
 ----------
@@ -1610,7 +1610,7 @@ Monitor models
 | Sceptre Tech Sceptre P30 SPT0BCC 2560x1080 690x290mm 29.5-inch        | 1         | 1.14%   |
 | Samsung Electronics U28E590 SAM0C4E 3840x2160 610x350mm 27.7-inch     | 1         | 1.14%   |
 | Samsung Electronics LS24A40xU SAM71D1 1920x1080 530x300mm 24.0-inch   | 1         | 1.14%   |
-| Samsung Electronics LCD Monitor SEC5441 1280x800 330x210mm 15.4-inch  | 1         | 1.14%   |
+| Samsung Electronics LCD Monitor SEC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SEC3741 1366x768 300x170mm 13.6-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SEC3245 1366x768 340x190mm 15.3-inch  | 1         | 1.14%   |
 | Samsung Electronics LCD Monitor SDC8B4F 1920x1080 340x190mm 15.3-inch | 1         | 1.14%   |
@@ -1621,7 +1621,7 @@ Monitor models
 | LG Display LCD Monitor LGD060A 1920x1080 290x170mm 13.2-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD05F8 2560x1600 370x230mm 17.2-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD05E5 1920x1080 340x190mm 15.3-inch          | 1         | 1.14%   |
-| LG Display LCD Monitor LGD046F 1920x1080 350x190mm 15.7-inch          | 1         | 1.14%   |
+| LG Display LCD Monitor LGD046F 1920x1080 340x190mm 15.3-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD0408 1920x1080 280x160mm 12.7-inch          | 1         | 1.14%   |
 | LG Display LCD Monitor LGD03DD 1366x768 340x190mm 15.3-inch           | 1         | 1.14%   |
 | LG Display LCD Monitor LGD0395 1366x768 340x190mm 15.3-inch           | 1         | 1.14%   |
@@ -1844,10 +1844,10 @@ Controller models
 | Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter             | 2         | 0.92%   |
 | Qualcomm Atheros AR9485 Wireless Network Adapter                       | 2         | 0.92%   |
 | Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)         | 2         | 0.92%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter          | 2         | 0.92%   |
+| MediaTek MT7921 802.11ax PCIe Wireless Network Adapter [Filogic 330]   | 2         | 0.92%   |
 | Intel Wireless 3160                                                    | 2         | 0.92%   |
 | Intel WiFi Link 5100                                                   | 2         | 0.92%   |
-| Intel Wi-Fi 6 AX201 160MHz                                             | 2         | 0.92%   |
+| Intel Jasper Lake PCH CNVi WiFi                                        | 2         | 0.92%   |
 | Intel Ice Lake-LP PCH CNVi WiFi                                        | 2         | 0.92%   |
 | Intel Ethernet Connection (4) I219-V                                   | 2         | 0.92%   |
 | Intel Comet Lake PCH CNVi WiFi                                         | 2         | 0.92%   |
@@ -1888,48 +1888,48 @@ Wireless models
 ![Wireless Model](./images/pie_chart_bsd/net_wireless_model.svg)
 
 
-| Model                                                          | Notebooks | Percent |
-|----------------------------------------------------------------|-----------|---------|
-| Intel Wireless 8265 / 8275                                     | 9         | 7.09%   |
-| Intel Wi-Fi 6 AX201                                            | 6         | 4.72%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                              | 6         | 4.72%   |
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 6         | 4.72%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 5         | 3.94%   |
-| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter     | 5         | 3.94%   |
-| Intel Cannon Point-LP CNVi [Wireless-AC]                       | 5         | 3.94%   |
-| Intel Wireless 8260                                            | 4         | 3.15%   |
-| Intel Wireless 7265                                            | 4         | 3.15%   |
-| Intel Wi-Fi 6 AX200                                            | 4         | 3.15%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 3         | 2.36%   |
-| Qualcomm Atheros AR9462 Wireless Network Adapter               | 3         | 2.36%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 3         | 2.36%   |
-| Intel Wireless 7260                                            | 3         | 2.36%   |
-| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 3         | 2.36%   |
-| Intel Cannon Lake PCH CNVi WiFi                                | 3         | 2.36%   |
-| Ralink RT5370 Wireless Adapter                                 | 2         | 1.57%   |
-| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter     | 2         | 1.57%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 2         | 1.57%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 2         | 1.57%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter  | 2         | 1.57%   |
-| Intel Wireless 3160                                            | 2         | 1.57%   |
-| Intel WiFi Link 5100                                           | 2         | 1.57%   |
-| Intel Wi-Fi 6 AX201 160MHz                                     | 2         | 1.57%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                | 2         | 1.57%   |
-| Intel Comet Lake PCH CNVi WiFi                                 | 2         | 1.57%   |
-| Intel Centrino Ultimate-N 6300                                 | 2         | 1.57%   |
-| Intel Alder Lake-P PCH CNVi WiFi                               | 2         | 1.57%   |
-| Broadcom BCM43228 802.11a/b/g/n                                | 2         | 1.57%   |
-| Broadcom BCM43224 802.11a/b/g/n                                | 2         | 1.57%   |
-| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                   | 1         | 0.79%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 0.79%   |
-| Sierra Wireless EM7455                                         | 1         | 0.79%   |
-| Sagem XG-76NA / XG-760N 802.11b/g Wireless adapter             | 1         | 0.79%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 0.79%   |
-| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                | 1         | 0.79%   |
-| Realtek RTL8192CU 802.11n WLAN Adapter                         | 1         | 0.79%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 0.79%   |
-| Realtek RTL8188EE Wireless Network Adapter                     | 1         | 0.79%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1         | 0.79%   |
+| Model                                                                | Notebooks | Percent |
+|----------------------------------------------------------------------|-----------|---------|
+| Intel Wireless 8265 / 8275                                           | 9         | 7.09%   |
+| Intel Wi-Fi 6 AX201                                                  | 6         | 4.72%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                    | 6         | 4.72%   |
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                         | 6         | 4.72%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter           | 5         | 3.94%   |
+| Qualcomm Atheros QCA9377 802.11ac Wireless Network Adapter           | 5         | 3.94%   |
+| Intel Cannon Point-LP CNVi [Wireless-AC]                             | 5         | 3.94%   |
+| Intel Wireless 8260                                                  | 4         | 3.15%   |
+| Intel Wireless 7265                                                  | 4         | 3.15%   |
+| Intel Wi-Fi 6 AX200                                                  | 4         | 3.15%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 3         | 2.36%   |
+| Qualcomm Atheros AR9462 Wireless Network Adapter                     | 3         | 2.36%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)       | 3         | 2.36%   |
+| Intel Wireless 7260                                                  | 3         | 2.36%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]              | 3         | 2.36%   |
+| Intel Cannon Lake PCH CNVi WiFi                                      | 3         | 2.36%   |
+| Ralink RT5370 Wireless Adapter                                       | 2         | 1.57%   |
+| Qualcomm Atheros QCA6174 802.11ac Wireless Network Adapter           | 2         | 1.57%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                     | 2         | 1.57%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)       | 2         | 1.57%   |
+| MediaTek MT7921 802.11ax PCIe Wireless Network Adapter [Filogic 330] | 2         | 1.57%   |
+| Intel Wireless 3160                                                  | 2         | 1.57%   |
+| Intel WiFi Link 5100                                                 | 2         | 1.57%   |
+| Intel Jasper Lake PCH CNVi WiFi                                      | 2         | 1.57%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                      | 2         | 1.57%   |
+| Intel Comet Lake PCH CNVi WiFi                                       | 2         | 1.57%   |
+| Intel Centrino Ultimate-N 6300                                       | 2         | 1.57%   |
+| Intel Alder Lake-P PCH CNVi WiFi                                     | 2         | 1.57%   |
+| Broadcom BCM43228 802.11a/b/g/n                                      | 2         | 1.57%   |
+| Broadcom BCM43224 802.11a/b/g/n                                      | 2         | 1.57%   |
+| TP-Link TL-WN722N v2/v3 [Realtek RTL8188EUS]                         | 1         | 0.79%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]           | 1         | 0.79%   |
+| Sierra Wireless EM7455                                               | 1         | 0.79%   |
+| Sagem XG-76NA / XG-760N 802.11b/g Wireless adapter                   | 1         | 0.79%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter             | 1         | 0.79%   |
+| Realtek RTL8822BE 802.11a/b/g/n/ac WiFi adapter                      | 1         | 0.79%   |
+| Realtek RTL8192CU 802.11n WLAN Adapter                               | 1         | 0.79%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1         | 0.79%   |
+| Realtek RTL8188EE Wireless Network Adapter                           | 1         | 0.79%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                              | 1         | 0.79%   |
 
 Ethernet Vendor
 ---------------
@@ -2157,11 +2157,11 @@ Sound card models
 | Model                                                                      | Notebooks | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP HD Audio                                            | 15        | 9.43%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 13        | 8.18%   |
+| AMD Ryzen HD Audio Controller                                              | 13        | 8.18%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 11        | 6.92%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 9         | 5.66%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 7         | 4.4%    |
-| AMD Renoir Radeon High Definition Audio Controller                         | 7         | 4.4%    |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 7         | 4.4%    |
 | Intel Comet Lake PCH-LP cAVS                                               | 6         | 3.77%   |
 | Intel Cannon Point-LP High Definition Audio Controller                     | 6         | 3.77%   |
 | Intel Cannon Lake PCH cAVS                                                 | 6         | 3.77%   |
@@ -2247,7 +2247,7 @@ Memory module models
 | SK hynix RAM HMAA1GS6CJR6N-XN 8GB SODIMM DDR4 3200MT/s           | 3         | 2.1%    |
 | Unknown RAM Module 2GB SODIMM DDR2 667MT/s                       | 2         | 1.4%    |
 | Unknown RAM Module 2GB SODIMM DDR2                               | 2         | 1.4%    |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 2         | 1.4%    |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 2         | 1.4%    |
 | SK hynix RAM Module 16GB SODIMM DDR4 3200MT/s                    | 2         | 1.4%    |
 | SK hynix RAM HYMP125S64CP8-S6 2GB SODIMM DDR2 975MT/s            | 2         | 1.4%    |
 | SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s           | 2         | 1.4%    |
@@ -2343,10 +2343,10 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 3200    | 26        | 20.8%   |
+| 3200    | 28        | 22.4%   |
 | 1600    | 25        | 20%     |
-| 2667    | 17        | 13.6%   |
 | 2400    | 16        | 12.8%   |
+| 2667    | 15        | 12%     |
 | 2133    | 9         | 7.2%    |
 | 1334    | 9         | 7.2%    |
 | 1333    | 4         | 3.2%    |

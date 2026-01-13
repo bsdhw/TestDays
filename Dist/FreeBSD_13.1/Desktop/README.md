@@ -554,16 +554,16 @@ Motherboard manufacture year
 |---------|----------|---------|
 | 2020    | 13       | 13.54%  |
 | 2021    | 11       | 11.46%  |
-| 2014    | 9        | 9.38%   |
 | Unknown | 9        | 9.38%   |
 | 2019    | 8        | 8.33%   |
-| 2018    | 8        | 8.33%   |
+| 2014    | 8        | 8.33%   |
+| 2018    | 7        | 7.29%   |
 | 2013    | 7        | 7.29%   |
-| 2012    | 6        | 6.25%   |
+| 2012    | 7        | 7.29%   |
 | 2022    | 5        | 5.21%   |
 | 2016    | 5        | 5.21%   |
+| 2008    | 5        | 5.21%   |
 | 2011    | 4        | 4.17%   |
-| 2008    | 4        | 4.17%   |
 | 2017    | 3        | 3.13%   |
 | 2010    | 2        | 2.08%   |
 | 2023    | 1        | 1.04%   |
@@ -990,13 +990,13 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 51       | 78     | 41.8%   |
-| 0.51-1.0   | 38       | 56     | 31.15%  |
-| 1.01-2.0   | 13       | 32     | 10.66%  |
-| 3.01-4.0   | 8        | 13     | 6.56%   |
-| 2.01-3.0   | 5        | 20     | 4.1%    |
-| 4.01-10.0  | 4        | 29     | 3.28%   |
-| 10.01-20.0 | 3        | 11     | 2.46%   |
+| 0.01-0.5   | 51       | 77     | 41.46%  |
+| 0.51-1.0   | 38       | 56     | 30.89%  |
+| 1.01-2.0   | 14       | 33     | 11.38%  |
+| 3.01-4.0   | 8        | 13     | 6.5%    |
+| 2.01-3.0   | 5        | 20     | 4.07%   |
+| 4.01-10.0  | 4        | 29     | 3.25%   |
+| 10.01-20.0 | 3        | 11     | 2.44%   |
 
 Space Total
 -----------
@@ -1213,7 +1213,7 @@ Storage controller models
 | Intel 4 Series Chipset PT IDER Controller                                      | 2        | 1.37%   |
 | Silicon Image SiI 3124 PCI-X Serial ATA Controller                             | 1        | 0.68%   |
 | Seagate BarraCuda Q5 NVMe SSD (DRAM-less)                                      | 1        | 0.68%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1        | 0.68%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                   | 1        | 0.68%   |
 | SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                          | 1        | 0.68%   |
 | SanDisk PC SN520 x2 M.2 2230 NVMe SSD                                          | 1        | 0.68%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1        | 0.68%   |
@@ -1462,12 +1462,12 @@ Graphics card models
 | Model                                                                       | Desktops | Percent |
 |-----------------------------------------------------------------------------|----------|---------|
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 9        | 9.57%   |
-| Intel HD Graphics 530                                                       | 4        | 4.26%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 4        | 4.26%   |
 | Nvidia GP108 [GeForce GT 1030]                                              | 3        | 3.19%   |
 | Nvidia GP107 [GeForce GTX 1050]                                             | 3        | 3.19%   |
 | Nvidia GK208B [GeForce GT 710]                                              | 3        | 3.19%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 3        | 3.19%   |
-| Intel HD Graphics 630                                                       | 3        | 3.19%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 3        | 3.19%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 3        | 3.19%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 3        | 3.19%   |
 | Nvidia TU117 [GeForce GTX 1650]                                             | 2        | 2.13%   |
@@ -1497,10 +1497,10 @@ Graphics card models
 | Matrox Electronics Systems MGA G200eW WPCM450                               | 1        | 1.06%   |
 | Matrox Electronics Systems MGA G200EH                                       | 1        | 1.06%   |
 | Intel Tiger Lake-LP GT2 [UHD Graphics G4]                                   | 1        | 1.06%   |
-| Intel HD Graphics 6000                                                      | 1        | 1.06%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 1        | 1.06%   |
 | Intel GeminiLake [UHD Graphics 600]                                         | 1        | 1.06%   |
 | Intel Core Processor Integrated Graphics Controller                         | 1        | 1.06%   |
+| Intel CoffeeLake-S GT1 [UHD Graphics 610]                                   | 1        | 1.06%   |
 
 GPU Combo
 ---------
@@ -2145,8 +2145,8 @@ Sound card models
 | Intel Cannon Lake PCH cAVS                                                        | 4        | 2.8%    |
 | Intel C600/X79 series chipset High Definition Audio Controller                    | 4        | 2.8%    |
 | AMD Turks HDMI Audio [Radeon HD 6500/6600 / 6700M Series]                         | 4        | 2.8%    |
-| AMD Renoir Radeon High Definition Audio Controller                                | 4        | 2.8%    |
-| AMD Family 17h/19h/1ah HD Audio Controller                                        | 4        | 2.8%    |
+| AMD Ryzen HD Audio Controller                                                     | 4        | 2.8%    |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                       | 4        | 2.8%    |
 | Nvidia GP108 High Definition Audio Controller                                     | 3        | 2.1%    |
 | Nvidia GP106 High Definition Audio Controller                                     | 3        | 2.1%    |
 | Nvidia GF108 High Definition Audio Controller                                     | 3        | 2.1%    |
@@ -2231,10 +2231,10 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR 800MT/s                                 | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM 1333MT/s                                    | 1        | 1%      |
 | Unknown RAM Module 2GB DIMM                                             | 1        | 1%      |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s          | 1        | 1%      |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s            | 1        | 1%      |
 | Unknown (8A5D) RAM SKIHOTAR-8GB-2666 8GB SODIMM DDR4 2133MT/s           | 1        | 1%      |
 | Transcend RAM JM1333KSN-2G 2GB SODIMM DDR3 1066MT/s                     | 1        | 1%      |
-| Team RAM TEAMGROUP-UD4-3600 8GB DIMM DDR4 3600MT/s                      | 1        | 1%      |
+| Team RAM TEAMGROUP-UD4-3600 32GB DIMM DDR4 3600MT/s                     | 1        | 1%      |
 | SK hynix RAM HMT451U6DFR8A-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451U6AFR8C-PB 4GB DIMM DDR3 1600MT/s                    | 1        | 1%      |
 | SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s                  | 1        | 1%      |
@@ -2325,8 +2325,8 @@ Memory module speed
 |---------|----------|---------|
 | 1600    | 25       | 27.78%  |
 | 3200    | 11       | 12.22%  |
-| 2133    | 11       | 12.22%  |
 | 2400    | 10       | 11.11%  |
+| 2133    | 10       | 11.11%  |
 | 1333    | 9        | 10%     |
 | 3600    | 5        | 5.56%   |
 | 2667    | 4        | 4.44%   |
@@ -2334,6 +2334,7 @@ Memory module speed
 | 3000    | 2        | 2.22%   |
 | 1334    | 2        | 2.22%   |
 | 4800    | 1        | 1.11%   |
+| 3733    | 1        | 1.11%   |
 | 3400    | 1        | 1.11%   |
 | 1866    | 1        | 1.11%   |
 | 1067    | 1        | 1.11%   |

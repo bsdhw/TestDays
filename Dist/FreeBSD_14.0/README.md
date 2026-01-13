@@ -309,7 +309,7 @@ Total: 160
 | HP            | Pavilion Gaming Laptop 1... | Notebook    | [0e4ea9ccbf](https://bsd-hardware.info/?probe=0e4ea9ccbf) | Nov 15, 2023 |
 | Dell          | G5 5505                     | Notebook    | [088aea32c0](https://bsd-hardware.info/?probe=088aea32c0) | Nov 15, 2023 |
 | ASUSTek       | Pro WS X570-ACE             | Desktop     | [ee4c8ddddc](https://bsd-hardware.info/?probe=ee4c8ddddc) | Nov 13, 2023 |
-| Unknown       | Unknown                     | Desktop     | [c535fae89f](https://bsd-hardware.info/?probe=c535fae89f) | Nov 10, 2023 |
+| Win Elemen... | M9                          | Desktop     | [c535fae89f](https://bsd-hardware.info/?probe=c535fae89f) | Nov 10, 2023 |
 | Intel         | NUC7JYB J67969-404          | Mini pc     | [81e93afe2e](https://bsd-hardware.info/?probe=81e93afe2e) | Nov 10, 2023 |
 
 System
@@ -472,16 +472,17 @@ Motherboard manufacturer
 | Hewlett-Packard         | 11        | 8.15%   |
 | ASRock                  | 6         | 4.44%   |
 | Raspberry Pi Foundation | 5         | 3.7%    |
-| Unknown                 | 5         | 3.7%    |
 | MSI                     | 4         | 2.96%   |
 | Google                  | 4         | 2.96%   |
 | Apple                   | 4         | 2.96%   |
+| Unknown                 | 4         | 2.96%   |
 | Samsung Electronics     | 2         | 1.48%   |
 | Panasonic               | 2         | 1.48%   |
 | Gigabyte Technology     | 2         | 1.48%   |
 | Chuwi                   | 2         | 1.48%   |
 | AZW                     | 2         | 1.48%   |
 | ZOTAC                   | 1         | 0.74%   |
+| Win Element             | 1         | 0.74%   |
 | TYAN Computer           | 1         | 0.74%   |
 | TUXEDO                  | 1         | 0.74%   |
 | TULPAR                  | 1         | 0.74%   |
@@ -514,10 +515,11 @@ Motherboard model
 
 | Name                                     | Computers | Percent |
 |------------------------------------------|-----------|---------|
-| Unknown                                  | 6         | 4.44%   |
 | RPi Raspberry Pi                         | 5         | 3.7%    |
+| Unknown                                  | 5         | 3.7%    |
 | ASUS MINIPC PN50-E1                      | 2         | 1.48%   |
 | Apple MacBookPro11,1                     | 2         | 1.48%   |
+| Win Element M9                           | 1         | 0.74%   |
 | TYAN Intel 440BX/GX Rev. 4               | 1         | 0.74%   |
 | TUXEDO Pulse 15 Gen1                     | 1         | 0.74%   |
 | TULPAR A5 V20.3                          | 1         | 0.74%   |
@@ -553,7 +555,6 @@ Motherboard model
 | Lenovo ThinkPad P1 20MD002MUS            | 1         | 0.74%   |
 | Lenovo ThinkPad E550 20DF005VRT          | 1         | 0.74%   |
 | Lenovo ThinkPad E14 Gen 3 20Y7003QGE     | 1         | 0.74%   |
-| Lenovo Legion Y9000X 2020 81TH           | 1         | 0.74%   |
 
 Model Family
 ------------
@@ -566,8 +567,8 @@ Motherboard model prefix
 | Name                   | Computers | Percent |
 |------------------------|-----------|---------|
 | Lenovo ThinkPad        | 18        | 13.33%  |
-| Unknown                | 6         | 4.44%   |
 | RPi Raspberry          | 5         | 3.7%    |
+| Unknown                | 5         | 3.7%    |
 | Dell Inspiron          | 4         | 2.96%   |
 | ASUS VivoBook          | 4         | 2.96%   |
 | Lenovo Legion          | 3         | 2.22%   |
@@ -584,6 +585,7 @@ Motherboard model prefix
 | Dell OptiPlex          | 2         | 1.48%   |
 | ASUS MINIPC            | 2         | 1.48%   |
 | Apple MacBookPro11     | 2         | 1.48%   |
+| Win Element M9         | 1         | 0.74%   |
 | TYAN Intel             | 1         | 0.74%   |
 | TUXEDO Pulse           | 1         | 0.74%   |
 | TULPAR A5              | 1         | 0.74%   |
@@ -604,7 +606,6 @@ Motherboard model prefix
 | Lenovo G50-80          | 1         | 0.74%   |
 | Irbis NB131            | 1         | 0.74%   |
 | Intel NUC12WSHi3       | 1         | 0.74%   |
-| Infinix INBook         | 1         | 0.74%   |
 
 MFG Year
 --------
@@ -619,8 +620,8 @@ Motherboard manufacture year
 | 2023    | 21        | 15.56%  |
 | 2021    | 17        | 12.59%  |
 | 2022    | 14        | 10.37%  |
-| 2019    | 12        | 8.89%   |
-| 2020    | 10        | 7.41%   |
+| 2019    | 13        | 9.63%   |
+| 2020    | 9         | 6.67%   |
 | Unknown | 9         | 6.67%   |
 | 2016    | 7         | 5.19%   |
 | 2015    | 7         | 5.19%   |
@@ -1235,7 +1236,7 @@ Storage controller vendors
 | Intel                          | 75        | 44.64%  |
 | AMD                            | 27        | 16.07%  |
 | Samsung Electronics            | 15        | 8.93%   |
-| SanDisk                        | 10        | 5.95%   |
+| Sandisk                        | 10        | 5.95%   |
 | SK hynix                       | 5         | 2.98%   |
 | Toshiba                        | 4         | 2.38%   |
 | Kingston Technology Company    | 4         | 2.38%   |
@@ -1279,14 +1280,14 @@ Storage controller models
 | Intel 82801 Mobile SATA Controller [RAID mode]                                   | 4         | 2.21%   |
 | AMD 500 Series Chipset SATA Controller                                           | 4         | 2.21%   |
 | AMD 400 Series Chipset SATA Controller                                           | 4         | 2.21%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD          | 3         | 1.66%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                     | 3         | 1.66%   |
 | Samsung NVMe SSD Controller 980 (DRAM-less)                                      | 3         | 1.66%   |
 | Intel Celeron/Pentium Silver Processor SATA Controller                           | 3         | 1.66%   |
 | Intel Cannon Lake Mobile PCH SATA AHCI Controller                                | 3         | 1.66%   |
 | Intel Alder Lake-N SATA AHCI Controller                                          | 3         | 1.66%   |
 | Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller     | 3         | 1.66%   |
 | SK hynix Gold P31/BC711/PC711 NVMe Solid State Drive                             | 2         | 1.1%    |
-| Shenzhen Longsys Lexar NM790 NVME SSD (DRAM-less)                                | 2         | 1.1%    |
+| Shenzhen Longsys Lexar NM790 / Patriot Viper VP4300 Lite NVMe SSD (DRAM-less)    | 2         | 1.1%    |
 | SanDisk Ultra 3D / WD Blue SN570 NVMe SSD (DRAM-less)                            | 2         | 1.1%    |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                      | 2         | 1.1%    |
 | Phison E12 NVMe Controller                                                       | 2         | 1.1%    |
@@ -1544,16 +1545,15 @@ Graphics card models
 |------------------------------------------------------------------------------------------|-----------|---------|
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 7         | 4.64%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 7         | 4.64%   |
-| Intel HD Graphics 5500                                                                   | 6         | 3.97%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 6         | 3.97%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 5         | 3.31%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 5         | 3.31%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 5         | 3.31%   |
 | Intel 3rd Gen Core processor Graphics Controller                                         | 5         | 3.31%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 4         | 2.65%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 4         | 2.65%   |
 | AMD Cezanne [Radeon Vega Series / Radeon Vega Mobile Series]                             | 4         | 2.65%   |
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]                     | 3         | 1.99%   |
-| Intel UHD Graphics 620                                                                   | 3         | 1.99%   |
-| Intel HD Graphics 630                                                                    | 3         | 1.99%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 3         | 1.99%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 3         | 1.99%   |
 | Intel Alder Lake-N [UHD Graphics]                                                        | 3         | 1.99%   |
 | AMD Raven Ridge [Radeon Vega Series / Radeon Vega Mobile Series]                         | 3         | 1.99%   |
@@ -1561,8 +1561,8 @@ Graphics card models
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                                  | 2         | 1.32%   |
 | Intel Raptor Lake-S UHD Graphics                                                         | 2         | 1.32%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 2         | 1.32%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 2         | 1.32%   |
 | Intel JasperLake [UHD Graphics]                                                          | 2         | 1.32%   |
-| Intel HD Graphics 530                                                                    | 2         | 1.32%   |
 | Intel GeminiLake [UHD Graphics 600]                                                      | 2         | 1.32%   |
 | AMD Phoenix1                                                                             | 2         | 1.32%   |
 | AMD Navi 22 [Radeon RX 6700/6700 XT/6750 XT / 6800M/6850M XT]                            | 2         | 1.32%   |
@@ -1582,6 +1582,7 @@ Graphics card models
 | Nvidia GK106 [GeForce GTX 645 OEM]                                                       | 1         | 0.66%   |
 | Nvidia GF116 [GeForce GTX 550 Ti]                                                        | 1         | 0.66%   |
 | Nvidia GF108M [GeForce GT 620M]                                                          | 1         | 0.66%   |
+| Nvidia GA107M [GeForce RTX 3050 Mobile]                                                  | 1         | 0.66%   |
 
 GPU Combo
 ---------
@@ -1706,14 +1707,14 @@ Monitor models
 | LG Display LCD Monitor LGD0362 1600x900 310x170mm 13.9-inch           | 1         | 1.3%    |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch           | 1         | 1.3%    |
 | LG Display LCD Monitor LGD02D3 1366x768 280x160mm 12.7-inch           | 1         | 1.3%    |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.3%    |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.3%    |
 | Lenovo LCD Monitor LEN40A0 1366x768 310x170mm 13.9-inch               | 1         | 1.3%    |
 | Lenovo LCD Monitor LEN4031 1280x800 300x190mm 14.0-inch               | 1         | 1.3%    |
 | Hewlett-Packard LA2405x HWP301E 1920x1200 520x320mm 24.0-inch         | 1         | 1.3%    |
 | Hewlett-Packard E221 HWP3060 1920x1080 500x290mm 22.8-inch            | 1         | 1.3%    |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 580x240mm 24.7-inch           | 1         | 1.3%    |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch           | 1         | 1.3%    |
 | Goldstar LG ULTRAGEAR GSM5B70 1920x1080 600x340mm 27.2-inch           | 1         | 1.3%    |
-| Goldstar LG ULTRAFINE GSM5BC1 3840x2160 600x340mm 27.2-inch           | 1         | 1.3%    |
+| Goldstar LG ULTRAFINE GSM5BC1 3840x2160 700x400mm 31.7-inch           | 1         | 1.3%    |
 | Goldstar LG HD GSM5ACD 1366x768 410x230mm 18.5-inch                   | 1         | 1.3%    |
 | Goldstar 22EN43 GSM59D9 1920x1080 480x270mm 21.7-inch                 | 1         | 1.3%    |
 | Gateway HD2201 GWY08AF 1680x1050 470x300mm 22.0-inch                  | 1         | 1.3%    |
@@ -1763,18 +1764,18 @@ Diagonal size in inches
 | 15      | 24        | 31.58%  |
 | 13      | 18        | 23.68%  |
 | 14      | 5         | 6.58%   |
-| 27      | 4         | 5.26%   |
+| 27      | 3         | 3.95%   |
 | 21      | 3         | 3.95%   |
 | 12      | 3         | 3.95%   |
 | 11      | 3         | 3.95%   |
 | Unknown | 3         | 3.95%   |
+| 31      | 2         | 2.63%   |
 | 23      | 2         | 2.63%   |
 | 22      | 2         | 2.63%   |
 | 18      | 2         | 2.63%   |
 | 34      | 1         | 1.32%   |
 | 33      | 1         | 1.32%   |
 | 32      | 1         | 1.32%   |
-| 31      | 1         | 1.32%   |
 | 28      | 1         | 1.32%   |
 | 24      | 1         | 1.32%   |
 | 17      | 1         | 1.32%   |
@@ -1791,11 +1792,11 @@ Physical width
 |-------------|-----------|---------|
 | 301-350     | 37        | 48.68%  |
 | 201-300     | 16        | 21.05%  |
-| 501-600     | 7         | 9.21%   |
 | 401-500     | 7         | 9.21%   |
+| 501-600     | 6         | 7.89%   |
 | 701-800     | 3         | 3.95%   |
+| 601-700     | 3         | 3.95%   |
 | Unknown     | 3         | 3.95%   |
-| 601-700     | 2         | 2.63%   |
 | 351-400     | 1         | 1.32%   |
 
 Aspect Ratio
@@ -1828,11 +1829,11 @@ Area in inch²
 | 81-90          | 19        | 25%     |
 | 91-100         | 19        | 25%     |
 | 201-250        | 7         | 9.21%   |
+| 351-500        | 6         | 7.89%   |
 | 101-110        | 6         | 7.89%   |
-| 351-500        | 5         | 6.58%   |
-| 301-350        | 4         | 5.26%   |
 | 61-70          | 3         | 3.95%   |
 | 51-60          | 3         | 3.95%   |
+| 301-350        | 3         | 3.95%   |
 | Unknown        | 3         | 3.95%   |
 | 71-80          | 2         | 2.63%   |
 | 141-150        | 2         | 2.63%   |
@@ -1850,10 +1851,10 @@ Pixels per inch
 
 | Density       | Computers | Percent |
 |---------------|-----------|---------|
-| 121-160       | 34        | 44.74%  |
+| 121-160       | 35        | 46.05%  |
 | 101-120       | 17        | 22.37%  |
 | 51-100        | 13        | 17.11%  |
-| 161-240       | 7         | 9.21%   |
+| 161-240       | 6         | 7.89%   |
 | Unknown       | 3         | 3.95%   |
 | More than 240 | 2         | 2.63%   |
 
@@ -1933,7 +1934,7 @@ Controller models
 | Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]              | 3         | 1.27%   |
 | Intel Ethernet Connection (5) I219-LM                                  | 3         | 1.27%   |
 | Intel Ethernet Connection (3) I218-LM                                  | 3         | 1.27%   |
-| Intel CNVi: Wi-Fi                                                      | 3         | 1.27%   |
+| Intel Alder Lake-N PCH CNVi WiFi                                       | 3         | 1.27%   |
 | Xiaomi Mi/Redmi series (RNDIS)                                         | 2         | 0.84%   |
 | Sierra Wireless EM7455                                                 | 2         | 0.84%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter               | 2         | 0.84%   |
@@ -1941,11 +1942,10 @@ Controller models
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter                    | 2         | 0.84%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                                | 2         | 0.84%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter                       | 2         | 0.84%   |
-| Intel Wi-Fi 6 AX201 160MHz                                             | 2         | 0.84%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]                | 2         | 0.84%   |
 | Intel Tiger Lake PCH CNVi WiFi                                         | 2         | 0.84%   |
-| Intel Raptor Lake-S PCH CNVi WiFi                                      | 2         | 0.84%   |
 | Intel Raptor Lake PCH CNVi WiFi                                        | 2         | 0.84%   |
+| Intel Jasper Lake PCH CNVi WiFi                                        | 2         | 0.84%   |
 | Intel I350 Gigabit Network Connection                                  | 2         | 0.84%   |
 | Intel Ethernet Connection I219-LM                                      | 2         | 0.84%   |
 | Intel Ethernet Connection I218-LM                                      | 2         | 0.84%   |
@@ -1953,6 +1953,7 @@ Controller models
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth                        | 2         | 0.84%   |
 | Intel Centrino Ultimate-N 6300                                         | 2         | 0.84%   |
 | Intel Cannon Lake PCH CNVi WiFi                                        | 2         | 0.84%   |
+| Intel 700 Series Chipset CNVi WiFi                                     | 2         | 0.84%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter           | 2         | 0.84%   |
 | ZyXEL NWD2105 802.11bgn Wireless Adapter [Ralink RT3070]               | 1         | 0.42%   |
 
@@ -2001,21 +2002,21 @@ Wireless models
 | Intel Wireless 8265 / 8275                                   | 3         | 2.59%   |
 | Intel Wireless 3160                                          | 3         | 2.59%   |
 | Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]    | 3         | 2.59%   |
-| Intel CNVi: Wi-Fi                                            | 3         | 2.59%   |
+| Intel Alder Lake-N PCH CNVi WiFi                             | 3         | 2.59%   |
 | Sierra Wireless EM7455                                       | 2         | 1.72%   |
 | Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter     | 2         | 1.72%   |
 | Realtek RTL8723BE PCIe Wireless Network Adapter              | 2         | 1.72%   |
 | Realtek RTL8188EUS 802.11n Wireless Network Adapter          | 2         | 1.72%   |
 | Realtek RTL8188CUS 802.11n WLAN Adapter                      | 2         | 1.72%   |
 | Qualcomm Atheros AR9462 Wireless Network Adapter             | 2         | 1.72%   |
-| Intel Wi-Fi 6 AX201 160MHz                                   | 2         | 1.72%   |
 | Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]      | 2         | 1.72%   |
 | Intel Tiger Lake PCH CNVi WiFi                               | 2         | 1.72%   |
-| Intel Raptor Lake-S PCH CNVi WiFi                            | 2         | 1.72%   |
 | Intel Raptor Lake PCH CNVi WiFi                              | 2         | 1.72%   |
+| Intel Jasper Lake PCH CNVi WiFi                              | 2         | 1.72%   |
 | Intel Dual Band Wireless-AC 3165 Plus Bluetooth              | 2         | 1.72%   |
 | Intel Centrino Ultimate-N 6300                               | 2         | 1.72%   |
 | Intel Cannon Lake PCH CNVi WiFi                              | 2         | 1.72%   |
+| Intel 700 Series Chipset CNVi WiFi                           | 2         | 1.72%   |
 | Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter | 2         | 1.72%   |
 | ZyXEL NWD2105 802.11bgn Wireless Adapter [Ralink RT3070]     | 1         | 0.86%   |
 | TP-Link TL-WN823N v2/v3 [Realtek RTL8192EU]                  | 1         | 0.86%   |
@@ -2268,8 +2269,8 @@ Sound card models
 
 | Model                                                                                                            | Computers | Percent |
 |------------------------------------------------------------------------------------------------------------------|-----------|---------|
-| AMD Family 17h/19h/1ah HD Audio Controller                                                                       | 21        | 11.11%  |
-| AMD Renoir Radeon High Definition Audio Controller                                                               | 11        | 5.82%   |
+| AMD Ryzen HD Audio Controller                                                                                    | 21        | 11.11%  |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                                      | 11        | 5.82%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                                              | 10        | 5.29%   |
 | Intel Sunrise Point-LP HD Audio                                                                                  | 9         | 4.76%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                                          | 7         | 3.7%    |
@@ -2366,8 +2367,8 @@ Memory module models
 | Unknown RAM Module 4GB SODIMM DDR3                               | 1         | 0.64%   |
 | Unknown RAM Module 4GB DIMM DDR 1333MT/s                         | 1         | 0.64%   |
 | Unknown RAM Module 2GB DIMM DDR3 1067MT/s                        | 1         | 0.64%   |
-| Unknown (ABCD) RAM 123456789012345678 4GB SODIMM LPDDR4 2400MT/s | 1         | 0.64%   |
-| Unknown (ABCD) RAM 123456789012345678 2GB DIMM LPDDR4 2133MT/s   | 1         | 0.64%   |
+| Unknown (ABCD) RAM 123456789012345678 8GB DIMM DDR4 2400MT/s     | 1         | 0.64%   |
+| Unknown (ABCD) RAM 123456789012345678 1GB SODIMM LPDDR4 2400MT/s | 1         | 0.64%   |
 | Smart RAM SH564128FJ8NWRNSQG 4GB SODIMM DDR3 1600MT/s            | 1         | 0.64%   |
 | SK hynix RAM Module 8GB SODIMM DDR4 2667MT/s                     | 1         | 0.64%   |
 | SK hynix RAM Module 8GB SODIMM DDR3 1600MT/s                     | 1         | 0.64%   |
@@ -2402,11 +2403,11 @@ Memory module kinds
 
 | Kind    | Computers | Percent |
 |---------|-----------|---------|
-| DDR4    | 60        | 47.24%  |
+| DDR4    | 59        | 46.46%  |
 | DDR3    | 43        | 33.86%  |
 | LPDDR4  | 6         | 4.72%   |
+| DDR5    | 6         | 4.72%   |
 | LPDDR3  | 5         | 3.94%   |
-| DDR5    | 5         | 3.94%   |
 | LPDDR5  | 3         | 2.36%   |
 | DDR2    | 3         | 2.36%   |
 | DDR     | 1         | 0.79%   |
@@ -2456,26 +2457,26 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 32        | 24.24%  |
-| 3200    | 21        | 15.91%  |
-| 2667    | 21        | 15.91%  |
-| 2400    | 13        | 9.85%   |
-| 1333    | 9         | 6.82%   |
-| 2133    | 8         | 6.06%   |
-| 1867    | 5         | 3.79%   |
-| 6400    | 3         | 2.27%   |
-| 5600    | 3         | 2.27%   |
-| 4800    | 2         | 1.52%   |
-| 2933    | 2         | 1.52%   |
-| 2666    | 2         | 1.52%   |
-| 1334    | 2         | 1.52%   |
-| 667     | 2         | 1.52%   |
-| Unknown | 2         | 1.52%   |
-| 3733    | 1         | 0.76%   |
-| 3600    | 1         | 0.76%   |
-| 1866    | 1         | 0.76%   |
-| 1067    | 1         | 0.76%   |
-| 800     | 1         | 0.76%   |
+| 1600    | 32        | 24.06%  |
+| 3200    | 23        | 17.29%  |
+| 2667    | 19        | 14.29%  |
+| 2400    | 13        | 9.77%   |
+| 1333    | 9         | 6.77%   |
+| 2133    | 8         | 6.02%   |
+| 1867    | 5         | 3.76%   |
+| 6400    | 3         | 2.26%   |
+| 5600    | 3         | 2.26%   |
+| 4800    | 3         | 2.26%   |
+| 2933    | 2         | 1.5%    |
+| 2666    | 2         | 1.5%    |
+| 1334    | 2         | 1.5%    |
+| 667     | 2         | 1.5%    |
+| Unknown | 2         | 1.5%    |
+| 3733    | 1         | 0.75%   |
+| 3600    | 1         | 0.75%   |
+| 1866    | 1         | 0.75%   |
+| 1067    | 1         | 0.75%   |
+| 800     | 1         | 0.75%   |
 
 Printers & scanners
 -------------------
