@@ -653,18 +653,18 @@ Motherboard manufacture year
 
 | Year | Computers | Percent |
 |------|-----------|---------|
-| 2013 | 26        | 13.68%  |
-| 2018 | 22        | 11.58%  |
+| 2013 | 27        | 14.21%  |
+| 2018 | 20        | 10.53%  |
 | 2020 | 18        | 9.47%   |
 | 2014 | 17        | 8.95%   |
 | 2019 | 15        | 7.89%   |
 | 2017 | 15        | 7.89%   |
-| 2016 | 15        | 7.89%   |
-| 2012 | 14        | 7.37%   |
+| 2012 | 15        | 7.89%   |
+| 2016 | 14        | 7.37%   |
 | 2009 | 14        | 7.37%   |
+| 2015 | 8         | 4.21%   |
 | 2011 | 8         | 4.21%   |
 | 2010 | 8         | 4.21%   |
-| 2015 | 7         | 3.68%   |
 | 2008 | 6         | 3.16%   |
 | 2021 | 2         | 1.05%   |
 | 2007 | 2         | 1.05%   |
@@ -743,8 +743,8 @@ Number of drives on board
 
 | Drives | Computers | Percent |
 |--------|-----------|---------|
-| 1      | 115       | 60.21%  |
-| 2      | 33        | 17.28%  |
+| 1      | 114       | 59.69%  |
+| 2      | 34        | 17.8%   |
 | 3      | 19        | 9.95%   |
 | 4      | 12        | 6.28%   |
 | 0      | 5         | 2.62%   |
@@ -941,7 +941,7 @@ Hard drive vendors
 | OCZ                 | 2         | 3      | 0.71%   |
 | LITEON              | 2         | 2      | 0.71%   |
 | Intenso             | 2         | 3      | 0.71%   |
-| GOODRAM             | 2         | 2      | 0.71%   |
+| Goodram             | 2         | 2      | 0.71%   |
 | Gigabyte Technology | 2         | 3      | 0.71%   |
 | Corsair             | 2         | 2      | 0.71%   |
 | A-DATA Technology   | 2         | 2      | 0.71%   |
@@ -957,7 +957,7 @@ Hard drive vendors
 | Hikvision           | 1         | 1      | 0.36%   |
 | Fujitsu             | 1         | 1      | 0.36%   |
 | Enmotus             | 1         | 1      | 0.36%   |
-| EMTEC               | 1         | 1      | 0.36%   |
+| Emtec               | 1         | 1      | 0.36%   |
 | Colorful            | 1         | 1      | 0.36%   |
 | China               | 1         | 1      | 0.36%   |
 | Apple               | 1         | 1      | 0.36%   |
@@ -983,7 +983,7 @@ Hard drive models
 | Toshiba MQ01ABD100 1TB              | 3         | 0.94%   |
 | Toshiba DT01ACA100 1TB              | 3         | 0.94%   |
 | Seagate ST500DM002-1BD142 500GB     | 3         | 0.94%   |
-| SanDisk pSSD 16GB                   | 3         | 0.94%   |
+| SanDisk pSSD 32GB                   | 3         | 0.94%   |
 | Samsung SSD 860 EVO 250GB           | 3         | 0.94%   |
 | Samsung SSD 840 EVO 1TB             | 3         | 0.94%   |
 | WDC WDS100T2B0A-00SM50 1TB          | 2         | 0.63%   |
@@ -1057,7 +1057,7 @@ Solid state drive vendors
 | OCZ                 | 2         | 3      | 1.4%    |
 | LITEON              | 2         | 2      | 1.4%    |
 | Intenso             | 2         | 3      | 1.4%    |
-| GOODRAM             | 2         | 2      | 1.4%    |
+| Goodram             | 2         | 2      | 1.4%    |
 | A-DATA Technology   | 2         | 2      | 1.4%    |
 | SK hynix            | 1         | 1      | 0.7%    |
 | Pioneer             | 1         | 1      | 0.7%    |
@@ -1067,7 +1067,7 @@ Solid state drive vendors
 | KingDian            | 1         | 1      | 0.7%    |
 | Hoodisk             | 1         | 1      | 0.7%    |
 | Hikvision           | 1         | 1      | 0.7%    |
-| EMTEC               | 1         | 1      | 0.7%    |
+| Emtec               | 1         | 1      | 0.7%    |
 | China               | 1         | 1      | 0.7%    |
 | Apple               | 1         | 1      | 0.7%    |
 
@@ -1108,9 +1108,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 151       | 217    | 70.23%  |
-| 0.51-1.0   | 48        | 66     | 22.33%  |
-| 1.01-2.0   | 11        | 14     | 5.12%   |
+| 0.01-0.5   | 151       | 218    | 70.56%  |
+| 0.51-1.0   | 47        | 65     | 21.96%  |
+| 1.01-2.0   | 11        | 14     | 5.14%   |
 | 3.01-4.0   | 2         | 3      | 0.93%   |
 | 4.01-10.0  | 2         | 2      | 0.93%   |
 | 2.01-3.0   | 1         | 2      | 0.47%   |
@@ -1580,23 +1580,22 @@ Graphics card models
 |-----------------------------------------------------------------------------|-----------|---------|
 | Intel 3rd Gen Core processor Graphics Controller                            | 15        | 6.88%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller   | 15        | 6.88%   |
-| Intel HD Graphics 620                                                       | 10        | 4.59%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                     | 10        | 4.59%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 10        | 4.59%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 8         | 3.67%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                | 8         | 3.67%   |
 | Intel Core Processor Integrated Graphics Controller                         | 7         | 3.21%   |
-| Intel Skylake GT2 [HD Graphics 520]                                         | 6         | 2.75%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                       | 6         | 2.75%   |
 | AMD Ellesmere [Radeon RX 470/480/570/570X/580/580X/590]                     | 6         | 2.75%   |
-| Intel UHD Graphics 620                                                      | 4         | 1.83%   |
-| Intel HD Graphics 630                                                       | 4         | 1.83%   |
-| Intel HD Graphics 530                                                       | 4         | 1.83%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                    | 4         | 1.83%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 4         | 1.83%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]        | 4         | 1.83%   |
 | Nvidia GP107 [GeForce GTX 1050 Ti]                                          | 3         | 1.38%   |
 | Nvidia GM107 [GeForce GTX 750 Ti]                                           | 3         | 1.38%   |
 | Nvidia GK208B [GeForce GT 730]                                              | 3         | 1.38%   |
 | Intel Xeon E3-1200 v2/3rd Gen Core processor Graphics Controller            | 3         | 1.38%   |
-| Intel HD Graphics 5500                                                      | 3         | 1.38%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 3         | 1.38%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                    | 3         | 1.38%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                 | 3         | 1.38%   |
 | AMD Navi 10 [Radeon RX 5600 OEM/5600 XT / 5700/5700 XT]                     | 3         | 1.38%   |
 | Nvidia GP108 [GeForce GT 1030]                                              | 2         | 0.92%   |
@@ -1612,12 +1611,13 @@ Graphics card models
 | Nvidia G92 [GeForce 9800 GT]                                                | 2         | 0.92%   |
 | Nvidia G84M [GeForce 8600M GT]                                              | 2         | 0.92%   |
 | Nvidia C79 [GeForce 9400M]                                                  | 2         | 0.92%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 2         | 0.92%   |
+| Intel Skylake-H GT2 [HD Graphics 530]                                       | 2         | 0.92%   |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 2         | 0.92%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                        | 2         | 0.92%   |
 | Intel 4 Series Chipset Integrated Graphics Controller                       | 2         | 0.92%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                 | 2         | 0.92%   |
 | AMD Oland XT [Radeon HD 8670 / R5 340X OEM / R7 250/350/350X OEM]           | 2         | 0.92%   |
-| AMD Lexa PRO [Radeon 540/540X/550/550X / RX 540X/550/550X]                  | 2         | 0.92%   |
 
 GPU Combo
 ---------
@@ -1648,8 +1648,8 @@ Free vs proprietary
 
 | Driver      | Computers | Percent |
 |-------------|-----------|---------|
-| Free        | 147       | 77.37%  |
-| Proprietary | 33        | 17.37%  |
+| Free        | 148       | 77.89%  |
+| Proprietary | 32        | 16.84%  |
 | Unknown     | 10        | 5.26%   |
 
 GPU Memory
@@ -1748,7 +1748,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch  | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch  | 1         | 0.67%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 0.67%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 380x210mm 17.1-inch | 1         | 0.67%   |
 | Samsung Electronics LCD Monitor SAM03A2 1440x900 410x260mm 19.1-inch  | 1         | 0.67%   |
 | PRI LED-MONITOR PRI0828 3840x2160 1150x650mm 52.0-inch                | 1         | 0.67%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch               | 1         | 0.67%   |
@@ -1802,16 +1802,16 @@ Diagonal size in inches
 
 | Inches  | Computers | Percent |
 |---------|-----------|---------|
-| 15      | 33        | 22.15%  |
+| 15      | 32        | 21.48%  |
 | 13      | 29        | 19.46%  |
 | 27      | 15        | 10.07%  |
 | 24      | 14        | 9.4%    |
 | 21      | 13        | 8.72%   |
 | 23      | 10        | 6.71%   |
 | 19      | 6         | 4.03%   |
+| 17      | 5         | 3.36%   |
 | 12      | 5         | 3.36%   |
 | 34      | 4         | 2.68%   |
-| 17      | 4         | 2.68%   |
 | 14      | 4         | 2.68%   |
 | Unknown | 3         | 2.01%   |
 | 42      | 2         | 1.34%   |
@@ -1832,12 +1832,12 @@ Physical width
 
 | Width in mm | Computers | Percent |
 |-------------|-----------|---------|
-| 301-350     | 53        | 35.81%  |
+| 301-350     | 52        | 35.14%  |
 | 501-600     | 35        | 23.65%  |
 | 401-500     | 23        | 15.54%  |
 | 201-300     | 20        | 13.51%  |
+| 351-400     | 5         | 3.38%   |
 | 701-800     | 4         | 2.7%    |
-| 351-400     | 4         | 2.7%    |
 | 601-700     | 3         | 2.03%   |
 | Unknown     | 3         | 2.03%   |
 | 901-1000    | 2         | 1.35%   |
@@ -1871,17 +1871,17 @@ Area in inch²
 |----------------|-----------|---------|
 | 201-250        | 32        | 21.77%  |
 | 81-90          | 26        | 17.69%  |
-| 91-100         | 23        | 15.65%  |
+| 91-100         | 21        | 14.29%  |
 | 301-350        | 15        | 10.2%   |
-| 101-110        | 10        | 6.8%    |
+| 101-110        | 11        | 7.48%   |
 | 71-80          | 7         | 4.76%   |
 | 151-200        | 7         | 4.76%   |
 | 251-300        | 6         | 4.08%   |
 | 61-70          | 5         | 3.4%    |
 | 351-500        | 5         | 3.4%    |
 | 141-150        | 3         | 2.04%   |
+| 121-130        | 3         | 2.04%   |
 | Unknown        | 3         | 2.04%   |
-| 121-130        | 2         | 1.36%   |
 | 501-1000       | 2         | 1.36%   |
 | More than 1000 | 1         | 0.68%   |
 
@@ -1895,8 +1895,8 @@ Pixels per inch
 
 | Density | Computers | Percent |
 |---------|-----------|---------|
-| 51-100  | 54        | 36.49%  |
-| 101-120 | 53        | 35.81%  |
+| 51-100  | 55        | 37.16%  |
+| 101-120 | 52        | 35.14%  |
 | 121-160 | 31        | 20.95%  |
 | 161-240 | 7         | 4.73%   |
 | Unknown | 3         | 2.03%   |
@@ -2320,7 +2320,7 @@ Sound card models
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 8         | 2.63%   |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 7         | 2.3%    |
 | AMD SBx00 Azalia (Intel HDA)                                               | 7         | 2.3%    |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 7         | 2.3%    |
+| AMD Ryzen HD Audio Controller                                              | 7         | 2.3%    |
 | AMD Family 17h (Models 00h-0fh) HD Audio Controller                        | 6         | 1.97%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                 | 6         | 1.97%   |
 | Nvidia GK107 HDMI Audio Controller                                         | 5         | 1.64%   |
@@ -2396,48 +2396,48 @@ Memory module models
 ![Memory Model](./images/pie_chart_bsd/memory_model.svg)
 
 
-| Model                                                    | Computers | Percent |
-|----------------------------------------------------------|-----------|---------|
-| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s            | 4         | 1.57%   |
-| Unknown RAM Module 2048MB DIMM DDR2 800MT/s              | 3         | 1.18%   |
-| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 3         | 1.18%   |
-| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s    | 3         | 1.18%   |
-| Unknown RAM Module 4096MB DIMM 1600MT/s                  | 2         | 0.79%   |
-| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.79%   |
-| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s   | 2         | 0.79%   |
-| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s   | 2         | 0.79%   |
-| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s     | 2         | 0.79%   |
-| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s   | 2         | 0.79%   |
-| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s   | 2         | 0.79%   |
-| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s    | 2         | 0.79%   |
-| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
-| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s    | 2         | 0.79%   |
-| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s      | 2         | 0.79%   |
-| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
-| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s    | 2         | 0.79%   |
-| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s     | 2         | 0.79%   |
-| Kingston RAM Module 2048MB DIMM DDR2 800MT/s             | 2         | 0.79%   |
-| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s     | 2         | 0.79%   |
-| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
-| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s    | 2         | 0.79%   |
-| Kingston RAM 99U5471-025.A00LF 4096MB DIMM DDR3 1333MT/s | 2         | 0.79%   |
-| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s            | 2         | 0.79%   |
-| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1866MT/s    | 2         | 0.79%   |
-| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s           | 2         | 0.79%   |
-| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s      | 2         | 0.79%   |
-| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s        | 1         | 0.39%   |
-| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s                | 1         | 0.39%   |
-| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s                | 1         | 0.39%   |
-| Unknown RAM Module 8192MB DIMM 1600MT/s                  | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s           | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s            | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s           | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM DDR2                    | 1         | 0.39%   |
-| Unknown RAM Module 4096MB SODIMM 1066MT/s                | 1         | 0.39%   |
-| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s             | 1         | 0.39%   |
+| Model                                                  | Computers | Percent |
+|--------------------------------------------------------|-----------|---------|
+| Unknown RAM Module 2048MB SODIMM DDR2 667MT/s          | 4         | 1.57%   |
+| Unknown RAM Module 2048MB DIMM DDR2 800MT/s            | 3         | 1.18%   |
+| SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 3         | 1.18%   |
+| Samsung RAM M471B5273CH0-CH9 4GB SODIMM DDR3 1334MT/s  | 3         | 1.18%   |
+| Unknown RAM Module 4096MB DIMM 1600MT/s                | 2         | 0.79%   |
+| SK hynix RAM HMT451S6BFR8A-PB 4GB SODIMM DDR3 1600MT/s | 2         | 0.79%   |
+| SK hynix RAM HMT451S6AFR8A-PB 4GB SODIMM DDR3 1600MT/s | 2         | 0.79%   |
+| SK hynix RAM HMT425S6AFR6A-PB 2GB SODIMM DDR3 3200MT/s | 2         | 0.79%   |
+| SK hynix RAM HMT325U6CFR8C-H9 2GB DIMM DDR3 1333MT/s   | 2         | 0.79%   |
+| SK hynix RAM HMA451S6AFR8N-TF 4GB SODIMM DDR4 2133MT/s | 2         | 0.79%   |
+| SK hynix RAM HMA41GS6AFR8N-TF 8GB SODIMM DDR4 2667MT/s | 2         | 0.79%   |
+| Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
+| Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
+| Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s  | 2         | 0.79%   |
+| Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s  | 2         | 0.79%   |
+| Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s  | 2         | 0.79%   |
+| Samsung RAM M378B5273DH0-CH9 4GB DIMM DDR3 1333MT/s    | 2         | 0.79%   |
+| Micron RAM Module 4096MB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Micron RAM 8KTF51264HZ-1G6N1 4GB SODIMM DDR3 1600MT/s  | 2         | 0.79%   |
+| Micron RAM 8ATF1G64HZ-3G2J1 8GB SODIMM DDR4 3200MT/s   | 2         | 0.79%   |
+| Kingston RAM Module 2048MB DIMM DDR2 800MT/s           | 2         | 0.79%   |
+| Kingston RAM KHX3200C16D4/8GX 8GB DIMM DDR4 3200MT/s   | 2         | 0.79%   |
+| Kingston RAM KHX1600C10D3/8G 8GB DIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| Kingston RAM 99U5584-010.A00LF 4GB DIMM DDR3 1866MT/s  | 2         | 0.79%   |
+| Kingston RAM 99U5471-025.A00LF 4GB DIMM DDR3 1333MT/s  | 2         | 0.79%   |
+| Elpida RAM Module 4096MB SODIMM DDR3 1600MT/s          | 2         | 0.79%   |
+| Crucial RAM BLS8G3D1609DS1S00. 8GB DIMM DDR3 1866MT/s  | 2         | 0.79%   |
+| Corsair RAM Module 4096MB SODIMM DDR3 1067MT/s         | 2         | 0.79%   |
+| Corsair RAM CMZ8GX3M2A1600C9 4GB DIMM DDR3 1600MT/s    | 2         | 0.79%   |
+| V-GeN RAM D4R8GS24A8R 8192MB SODIMM DDR4 2133MT/s      | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 667MT/s              | 1         | 0.39%   |
+| Unknown SODIMM 2048MB SODIMM DDR2 533MT/s              | 1         | 0.39%   |
+| Unknown RAM Module 8192MB DIMM 1600MT/s                | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR4 2133MT/s         | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 667MT/s          | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR3 1067MT/s         | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM DDR2                  | 1         | 0.39%   |
+| Unknown RAM Module 4096MB SODIMM 1066MT/s              | 1         | 0.39%   |
+| Unknown RAM Module 4096MB DIMM DDR3 1067MT/s           | 1         | 0.39%   |
 
 Memory Kind
 -----------
@@ -2500,22 +2500,23 @@ Memory module speed
 
 | Speed   | Computers | Percent |
 |---------|-----------|---------|
-| 1600    | 62        | 29.11%  |
-| 1333    | 32        | 15.02%  |
-| 2400    | 28        | 13.15%  |
-| 3200    | 16        | 7.51%   |
-| 2667    | 10        | 4.69%   |
-| 2133    | 10        | 4.69%   |
-| 800     | 9         | 4.23%   |
-| 667     | 9         | 4.23%   |
-| 1067    | 8         | 3.76%   |
-| 1334    | 7         | 3.29%   |
-| 1867    | 6         | 2.82%   |
-| 1866    | 4         | 1.88%   |
-| 2666    | 3         | 1.41%   |
-| 1066    | 3         | 1.41%   |
+| 1600    | 62        | 29.25%  |
+| 1333    | 32        | 15.09%  |
+| 2400    | 28        | 13.21%  |
+| 3200    | 17        | 8.02%   |
+| 2133    | 10        | 4.72%   |
+| 800     | 9         | 4.25%   |
+| 667     | 9         | 4.25%   |
+| 1067    | 8         | 3.77%   |
+| 2667    | 7         | 3.3%    |
+| 1334    | 7         | 3.3%    |
+| 1867    | 6         | 2.83%   |
+| 1866    | 4         | 1.89%   |
+| 2666    | 3         | 1.42%   |
+| 1066    | 3         | 1.42%   |
 | Unknown | 2         | 0.94%   |
 | 3600    | 1         | 0.47%   |
+| 3066    | 1         | 0.47%   |
 | 3000    | 1         | 0.47%   |
 | 2933    | 1         | 0.47%   |
 | 533     | 1         | 0.47%   |
@@ -2631,7 +2632,7 @@ Camera device models
 | Realtek USB 2.0 PC Camera                            | 3         | 3.33%   |
 | Microdia Integrated_Webcam_HD                        | 3         | 3.33%   |
 | Lite-On Integrated Camera                            | 3         | 3.33%   |
-| Suyin Integrated_Webcam_HD                           | 2         | 2.22%   |
+| Suyin Laptop_Integrated_Webcam_HD                    | 2         | 2.22%   |
 | Realtek USB Camera                                   | 2         | 2.22%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.22%   |
 | Chicony UVC 1.00 device HD UVC WebCam                | 2         | 2.22%   |

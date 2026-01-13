@@ -519,17 +519,17 @@ Motherboard manufacture year
 
 | Year | Notebooks | Percent |
 |------|-----------|---------|
-| 2013 | 19        | 20.65%  |
+| 2013 | 18        | 19.57%  |
 | 2017 | 10        | 10.87%  |
 | 2009 | 10        | 10.87%  |
+| 2014 | 8         | 8.7%    |
 | 2020 | 7         | 7.61%   |
 | 2016 | 7         | 7.61%   |
-| 2014 | 7         | 7.61%   |
 | 2019 | 6         | 6.52%   |
 | 2018 | 6         | 6.52%   |
+| 2012 | 5         | 5.43%   |
 | 2010 | 5         | 5.43%   |
-| 2015 | 4         | 4.35%   |
-| 2012 | 4         | 4.35%   |
+| 2015 | 3         | 3.26%   |
 | 2008 | 3         | 3.26%   |
 | 2011 | 2         | 2.17%   |
 | 2007 | 2         | 2.17%   |
@@ -599,8 +599,8 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 75        | 81.52%  |
-| 2      | 13        | 14.13%  |
+| 1      | 74        | 80.43%  |
+| 2      | 14        | 15.22%  |
 | 0      | 4         | 4.35%   |
 
 Has CD-ROM
@@ -1352,10 +1352,10 @@ Graphics card models
 |---------------------------------------------------------------------------|-----------|---------|
 | Intel 3rd Gen Core processor Graphics Controller                          | 14        | 12.73%  |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller | 11        | 10%     |
-| Intel HD Graphics 620                                                     | 9         | 8.18%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                   | 9         | 8.18%   |
 | Intel Haswell-ULT Integrated Graphics Controller                          | 9         | 8.18%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller              | 8         | 7.27%   |
-| Intel Skylake GT2 [HD Graphics 520]                                       | 6         | 5.45%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                     | 6         | 5.45%   |
 | Intel Core Processor Integrated Graphics Controller                       | 6         | 5.45%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller               | 3         | 2.73%   |
 | AMD Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]      | 3         | 2.73%   |
@@ -1364,11 +1364,10 @@ Graphics card models
 | Nvidia GF117M [GeForce 610M/710M/810M/820M / GT 620M/625M/630M/720M]      | 2         | 1.82%   |
 | Nvidia G84M [GeForce 8600M GT]                                            | 2         | 1.82%   |
 | Nvidia C79 [GeForce 9400M]                                                | 2         | 1.82%   |
-| Intel UHD Graphics 620                                                    | 2         | 1.82%   |
-| Intel HD Graphics 630                                                     | 2         | 1.82%   |
-| Intel HD Graphics 5500                                                    | 2         | 1.82%   |
-| Intel HD Graphics 530                                                     | 2         | 1.82%   |
+| Intel Skylake-H GT2 [HD Graphics 530]                                     | 2         | 1.82%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                  | 2         | 1.82%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                      | 2         | 1.82%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                  | 2         | 1.82%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]               | 2         | 1.82%   |
 | Nvidia TU117M [GeForce GTX 1650 Mobile / Max-Q]                           | 1         | 0.91%   |
 | Nvidia TU116M [GeForce GTX 1660 Ti Mobile]                                | 1         | 0.91%   |
@@ -1384,7 +1383,9 @@ Graphics card models
 | Nvidia G72M [Quadro NVS 110M/GeForce Go 7300]                             | 1         | 0.91%   |
 | Nvidia C79 [GeForce 9400M G]                                              | 1         | 0.91%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                | 1         | 0.91%   |
-| Intel HD Graphics 5300                                                    | 1         | 0.91%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                   | 1         | 0.91%   |
+| Intel Kaby Lake-H GT2 [HD Graphics 630]                                   | 1         | 0.91%   |
+| Intel Broadwell-Y GT2 [HD Graphics 5300]                                  | 1         | 0.91%   |
 | Intel Apollo Lake [HD Graphics 505]                                       | 1         | 0.91%   |
 | AMD Thames [Radeon HD 7550M/7570M/7650M]                                  | 1         | 0.91%   |
 | AMD Sun LE [Radeon HD 8550M / R5 M230]                                    | 1         | 0.91%   |
@@ -1418,9 +1419,9 @@ Free vs proprietary
 
 | Driver      | Notebooks | Percent |
 |-------------|-----------|---------|
-| Free        | 81        | 88.04%  |
+| Free        | 82        | 89.13%  |
 | Unknown     | 9         | 9.78%   |
-| Proprietary | 2         | 2.17%   |
+| Proprietary | 1         | 1.09%   |
 
 GPU Memory
 ----------
@@ -1482,7 +1483,7 @@ Monitor models
 | Samsung Electronics LCD Monitor SEC5442 1440x900 300x190mm 14.0-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SEC324A 1366x768 340x190mm 15.3-inch  | 1         | 1.32%   |
 | Samsung Electronics LCD Monitor SDC5441 1366x768 340x190mm 15.3-inch  | 1         | 1.32%   |
-| Samsung Electronics LCD Monitor SDC4C48 1920x1080 340x190mm 15.3-inch | 1         | 1.32%   |
+| Samsung Electronics LCD Monitor SDC4C48 1920x1080 380x210mm 17.1-inch | 1         | 1.32%   |
 | Philips PHL 328E1 PHLC204 3840x2160 700x390mm 31.5-inch               | 1         | 1.32%   |
 | PANDA LM156LF1L03 NCP001C 1920x1080 340x190mm 15.3-inch               | 1         | 1.32%   |
 | LG Display LCD Monitor LGDCF01 1366x768 340x190mm 15.3-inch           | 1         | 1.32%   |
@@ -1502,8 +1503,8 @@ Monitor models
 | LG Display LCD Monitor LGD0258 1600x900 350x190mm 15.7-inch           | 1         | 1.32%   |
 | LG Display LCD Monitor LGD0213 1600x900 310x170mm 13.9-inch           | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN40BA 1920x1080 340x190mm 15.3-inch              | 1         | 1.32%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.32%   |
-| Lenovo LCD Monitor LEN40B0 1366x768 340x190mm 15.3-inch               | 1         | 1.32%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.32%   |
+| Lenovo LCD Monitor LEN40B0 1366x768 350x190mm 15.7-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.32%   |
 | Lenovo LCD Monitor LEN4010 1280x800 260x160mm 12.0-inch               | 1         | 1.32%   |
 | InfoVision LCD Monitor IVO0533 1366x768 290x170mm 13.2-inch           | 1         | 1.32%   |
@@ -1544,12 +1545,12 @@ Diagonal size in inches
 
 | Inches | Notebooks | Percent |
 |--------|-----------|---------|
-| 15     | 32        | 42.11%  |
+| 15     | 31        | 40.79%  |
 | 13     | 28        | 36.84%  |
 | 12     | 5         | 6.58%   |
 | 14     | 4         | 5.26%   |
+| 17     | 3         | 3.95%   |
 | 24     | 2         | 2.63%   |
-| 17     | 2         | 2.63%   |
 | 31     | 1         | 1.32%   |
 | 22     | 1         | 1.32%   |
 | 21     | 1         | 1.32%   |
@@ -1564,11 +1565,11 @@ Physical width
 
 | Width in mm | Notebooks | Percent |
 |-------------|-----------|---------|
-| 301-350     | 50        | 65.79%  |
+| 301-350     | 49        | 64.47%  |
 | 201-300     | 19        | 25%     |
+| 351-400     | 3         | 3.95%   |
 | 501-600     | 2         | 2.63%   |
 | 401-500     | 2         | 2.63%   |
-| 351-400     | 2         | 2.63%   |
 | 601-700     | 1         | 1.32%   |
 
 Aspect Ratio
@@ -1595,12 +1596,12 @@ Area in inch²
 | Area in inch² | Notebooks | Percent |
 |----------------|-----------|---------|
 | 81-90          | 26        | 34.21%  |
-| 91-100         | 22        | 28.95%  |
-| 101-110        | 10        | 13.16%  |
+| 91-100         | 20        | 26.32%  |
+| 101-110        | 11        | 14.47%  |
 | 71-80          | 6         | 7.89%   |
 | 61-70          | 5         | 6.58%   |
 | 201-250        | 3         | 3.95%   |
-| 121-130        | 2         | 2.63%   |
+| 121-130        | 3         | 3.95%   |
 | 351-500        | 1         | 1.32%   |
 | 251-300        | 1         | 1.32%   |
 
@@ -1614,9 +1615,9 @@ Pixels per inch
 
 | Density | Notebooks | Percent |
 |---------|-----------|---------|
-| 101-120 | 32        | 42.67%  |
+| 101-120 | 31        | 41.33%  |
 | 121-160 | 29        | 38.67%  |
-| 51-100  | 9         | 12%     |
+| 51-100  | 10        | 13.33%  |
 | 161-240 | 5         | 6.67%   |
 
 Multiple Monitors
@@ -1992,7 +1993,7 @@ Sound card models
 | Intel 8 Series HD Audio Controller                                         | 9         | 7.69%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 5.98%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 6         | 5.13%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 5         | 4.27%   |
+| AMD Ryzen HD Audio Controller                                              | 5         | 4.27%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 4         | 3.42%   |
 | Intel 8 Series/C220 Series Chipset High Definition Audio Controller        | 4         | 3.42%   |
 | Nvidia MCP79 High Definition Audio                                         | 3         | 2.56%   |
@@ -2064,7 +2065,7 @@ Memory module models
 | Samsung RAM M471B5173QH0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471B5173DB0-YK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
 | Samsung RAM M471B5173BH0-CK0 4GB SODIMM DDR3 1600MT/s       | 2         | 1.6%    |
-| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 2667MT/s       | 2         | 1.6%    |
+| Samsung RAM M471A5244CB0-CTD 4GB SODIMM DDR4 3200MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A5244CB0-CRC 4GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
 | Samsung RAM M471A1K43BB1-CRC 8GB SODIMM DDR4 2400MT/s       | 2         | 1.6%    |
 | Micron RAM Module 4096MB SODIMM DDR3 1600MT/s               | 2         | 1.6%    |
@@ -2151,16 +2152,16 @@ Memory module speed
 
 | Speed   | Notebooks | Percent |
 |---------|-----------|---------|
-| 1600    | 33        | 30.56%  |
-| 2400    | 14        | 12.96%  |
-| 1333    | 12        | 11.11%  |
-| 667     | 8         | 7.41%   |
-| 3200    | 7         | 6.48%   |
-| 2667    | 7         | 6.48%   |
-| 1334    | 7         | 6.48%   |
-| 2133    | 6         | 5.56%   |
-| 1067    | 6         | 5.56%   |
-| 1867    | 4         | 3.7%    |
+| 1600    | 33        | 30.84%  |
+| 2400    | 14        | 13.08%  |
+| 1333    | 12        | 11.21%  |
+| 3200    | 8         | 7.48%   |
+| 667     | 8         | 7.48%   |
+| 1334    | 7         | 6.54%   |
+| 2133    | 6         | 5.61%   |
+| 1067    | 6         | 5.61%   |
+| 2667    | 5         | 4.67%   |
+| 1867    | 4         | 3.74%   |
 | 1066    | 1         | 0.93%   |
 | 800     | 1         | 0.93%   |
 | 533     | 1         | 0.93%   |
@@ -2241,7 +2242,7 @@ Camera device models
 | Sunplus Integrated_Webcam_HD                         | 3         | 4%      |
 | Microdia Integrated_Webcam_HD                        | 3         | 4%      |
 | Lite-On Integrated Camera                            | 3         | 4%      |
-| Suyin Integrated_Webcam_HD                           | 2         | 2.67%   |
+| Suyin Laptop_Integrated_Webcam_HD                    | 2         | 2.67%   |
 | Realtek USB Camera                                   | 2         | 2.67%   |
 | Realtek USB 2.0 PC Camera                            | 2         | 2.67%   |
 | IMC Networks Realtek PC Camera                       | 2         | 2.67%   |

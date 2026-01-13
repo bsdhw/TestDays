@@ -937,7 +937,7 @@ Storage controller vendors
 | Samsung Electronics                     | 6         | 15%     |
 | Solid State Storage Technology          | 1         | 2.5%    |
 | Shenzhen Unionmemory Information System | 1         | 2.5%    |
-| SanDisk                                 | 1         | 2.5%    |
+| Sandisk                                 | 1         | 2.5%    |
 | Phison Electronics                      | 1         | 2.5%    |
 | Nvidia                                  | 1         | 2.5%    |
 | Kingston Technology Company             | 1         | 2.5%    |
@@ -951,36 +951,36 @@ Storage controller models
 ![Storage Model](./images/pie_chart_bsd/storage_model.svg)
 
 
-| Model                                                                                         | Notebooks | Percent |
-|-----------------------------------------------------------------------------------------------|-----------|---------|
-| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                            | 5         | 11.9%   |
-| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                            | 4         | 9.52%   |
-| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                                | 3         | 7.14%   |
-| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                                    | 2         | 4.76%   |
-| Samsung NVMe SSD Controller 980 (DRAM-less)                                                   | 2         | 4.76%   |
-| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                                 | 2         | 4.76%   |
-| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                              | 2         | 4.76%   |
-| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller                  | 2         | 4.76%   |
-| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                                | 1         | 2.38%   |
-| Shenzhen Unionmemory Information System RPEYJ1T24MKN2QWY PCIe 4.0 NVMe SSD 1024GB (DRAM-less) | 1         | 2.38%   |
-| Sandisk WD Blue SN580 NVMe SSD (DRAM-less)                                                    | 1         | 2.38%   |
-| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)                     | 1         | 2.38%   |
-| Samsung NVMe SSD Controller SM981/PM981/PM983                                                 | 1         | 2.38%   |
-| Samsung NVMe SSD Controller SM961/PM961/SM963                                                 | 1         | 2.38%   |
-| Phison E12 NVMe Controller                                                                    | 1         | 2.38%   |
-| Nvidia MCP89 SATA Controller (AHCI mode)                                                      | 1         | 2.38%   |
-| Kingston Company NV2 NVMe SSD [E19T] (DRAM-less)                                              | 1         | 2.38%   |
-| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]                 | 1         | 2.38%   |
-| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                             | 1         | 2.38%   |
-| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]                         | 1         | 2.38%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                                 | 1         | 2.38%   |
-| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                              | 1         | 2.38%   |
-| Intel 82801FBM (ICH6M) SATA Controller                                                        | 1         | 2.38%   |
-| Intel 82801DBM (ICH4-M) IDE Controller                                                        | 1         | 2.38%   |
-| Intel 82801CAM IDE U100 Controller                                                            | 1         | 2.38%   |
-| Intel 8 Series SATA Controller 1 [AHCI mode]                                                  | 1         | 2.38%   |
-| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                                | 1         | 2.38%   |
-| AMD FCH SATA Controller [AHCI mode]                                                           | 1         | 2.38%   |
+| Model                                                                              | Notebooks | Percent |
+|------------------------------------------------------------------------------------|-----------|---------|
+| Intel Sunrise Point-LP SATA Controller [AHCI mode]                                 | 5         | 11.9%   |
+| Intel Wildcat Point-LP SATA Controller [AHCI Mode]                                 | 4         | 9.52%   |
+| Intel 5 Series/3400 Series Chipset 6 port SATA AHCI Controller                     | 3         | 7.14%   |
+| Samsung S4LN058A01[SSUBX] AHCI SSD Controller (Apple slot)                         | 2         | 4.76%   |
+| Samsung NVMe SSD Controller 980 (DRAM-less)                                        | 2         | 4.76%   |
+| Intel 82801GBM/GHM (ICH7-M Family) SATA Controller [IDE mode]                      | 2         | 4.76%   |
+| Intel 7 Series Chipset Family 6-port SATA Controller [AHCI mode]                   | 2         | 4.76%   |
+| Intel 6 Series/C200 Series Chipset Family 6 port Mobile SATA AHCI Controller       | 2         | 4.76%   |
+| Solid State Storage CL1-3D256-Q11 NVMe SSD M.2                                     | 1         | 2.38%   |
+| Shenzhen Unionmemory Information System AM6A1 PCIe 4.0 NVMe SSD 1024GB (DRAM-less) | 1         | 2.38%   |
+| Sandisk WD Blue SN580 NVMe SSD (DRAM-less)                                         | 1         | 2.38%   |
+| SanDisk Ultra 3D / WD PC SN530, IX SN530, Blue SN550 NVMe SSD (DRAM-less)          | 1         | 2.38%   |
+| Samsung NVMe SSD Controller SM981/PM981/PM983                                      | 1         | 2.38%   |
+| Samsung NVMe SSD Controller SM961/PM961/SM963                                      | 1         | 2.38%   |
+| Phison E12 NVMe Controller                                                         | 1         | 2.38%   |
+| Nvidia MCP89 SATA Controller (AHCI mode)                                           | 1         | 2.38%   |
+| Kingston Company NV2 NVMe SSD [E19T] (DRAM-less)                                   | 1         | 2.38%   |
+| Intel Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]      | 1         | 2.38%   |
+| Intel NM10/ICH7 Family SATA Controller [IDE mode]                                  | 1         | 2.38%   |
+| Intel 82801IBM/IEM (ICH9M/ICH9M-E) 4 port SATA Controller [AHCI mode]              | 1         | 2.38%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) SATA Controller [AHCI mode]                      | 1         | 2.38%   |
+| Intel 82801HM/HEM (ICH8M/ICH8M-E) IDE Controller                                   | 1         | 2.38%   |
+| Intel 82801FBM (ICH6M) SATA Controller                                             | 1         | 2.38%   |
+| Intel 82801DBM (ICH4-M) IDE Controller                                             | 1         | 2.38%   |
+| Intel 82801CAM IDE U100 Controller                                                 | 1         | 2.38%   |
+| Intel 8 Series SATA Controller 1 [AHCI mode]                                       | 1         | 2.38%   |
+| Intel 5 Series/3400 Series Chipset 4 port SATA AHCI Controller                     | 1         | 2.38%   |
+| AMD FCH SATA Controller [AHCI mode]                                                | 1         | 2.38%   |
 
 Storage Kind
 ------------
@@ -1181,11 +1181,11 @@ Graphics card models
 
 | Model                                                                         | Notebooks | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                           | 4         | 9.09%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                         | 4         | 9.09%   |
 | Intel Core Processor Integrated Graphics Controller                           | 4         | 9.09%   |
-| Intel HD Graphics 5500                                                        | 3         | 6.82%   |
-| Intel UHD Graphics 620                                                        | 2         | 4.55%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                      | 3         | 6.82%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 2         | 4.55%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                      | 2         | 4.55%   |
 | Intel 3rd Gen Core processor Graphics Controller                              | 2         | 4.55%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 2         | 4.55%   |
 | Nvidia MCP89 [GeForce 320M]                                                   | 1         | 2.27%   |
@@ -1193,18 +1193,18 @@ Graphics card models
 | Nvidia GM107GLM [Quadro M600M]                                                | 1         | 2.27%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 1         | 2.27%   |
 | Intel Tiger Lake-UP4 GT2 [Iris Xe Graphics]                                   | 1         | 2.27%   |
+| Intel Skylake-DT/H GT2 [HD Graphics P530]                                     | 1         | 2.27%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 2.27%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 2.27%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 2.27%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 1         | 2.27%   |
 | Intel Mobile 915GM/GMS/910GML Express Graphics Controller                     | 1         | 2.27%   |
-| Intel Iris Graphics 6100                                                      | 1         | 2.27%   |
-| Intel HD Graphics P530                                                        | 1         | 2.27%   |
-| Intel HD Graphics 620                                                         | 1         | 2.27%   |
-| Intel HD Graphics 6000                                                        | 1         | 2.27%   |
-| Intel HD Graphics 5300                                                        | 1         | 2.27%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                       | 1         | 2.27%   |
 | Intel Haswell-ULT Integrated Graphics Controller                              | 1         | 2.27%   |
 | Intel GeminiLake [UHD Graphics 600]                                           | 1         | 2.27%   |
+| Intel Broadwell-Y GT2 [HD Graphics 5300]                                      | 1         | 2.27%   |
+| Intel Broadwell-U GT3 [Iris Graphics 6100]                                    | 1         | 2.27%   |
+| Intel Broadwell-U GT3 [HD Graphics 6000]                                      | 1         | 2.27%   |
 | Intel Atom Processor D2xxx/N2xxx Integrated Graphics Controller               | 1         | 2.27%   |
 | Intel Alder Lake-P GT2 [Iris Xe Graphics]                                     | 1         | 2.27%   |
 | Intel 82852/855GM Integrated Graphics Device                                  | 1         | 2.27%   |
@@ -1293,7 +1293,7 @@ Monitor models
 | Sharp LCD Monitor SHP1526 1920x1280 270x180mm 12.8-inch              | 1         | 4%      |
 | Samsung Electronics LCD Monitor SEC304C 1366x768 310x170mm 13.9-inch | 1         | 4%      |
 | Philips PHL 240B9 PHL0966 1920x1200 520x320mm 24.0-inch              | 1         | 4%      |
-| Panasonic LCD Monitor MEI96A2 3840x2160 380x210mm 17.1-inch          | 1         | 4%      |
+| Panasonic LCD Monitor MEI96A2 2880x1620 340x190mm 15.3-inch          | 1         | 4%      |
 | LG Display LCD Monitor LGD062E 1920x1080 340x190mm 15.3-inch         | 1         | 4%      |
 | LG Display LCD Monitor LGD05A2 1920x1080 310x170mm 13.9-inch         | 1         | 4%      |
 | LG Display LCD Monitor LGD045E 1366x768 310x170mm 13.9-inch          | 1         | 4%      |
@@ -1733,7 +1733,7 @@ Sound card models
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 4.17%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 2         | 4.17%   |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 2         | 4.17%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 2         | 4.17%   |
+| AMD Ryzen HD Audio Controller                                              | 2         | 4.17%   |
 | Nvidia MCP89 High Definition Audio                                         | 1         | 2.08%   |
 | Nvidia High Definition Audio Controller                                    | 1         | 2.08%   |
 | Intel Haswell-ULT HD Audio Controller                                      | 1         | 2.08%   |
@@ -1746,8 +1746,8 @@ Sound card models
 | Intel 82801CA/CAM AC'97 Audio Controller                                   | 1         | 2.08%   |
 | Intel 8 Series HD Audio Controller                                         | 1         | 2.08%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 1         | 2.08%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1         | 2.08%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                      | 1         | 2.08%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1         | 2.08%   |
+| AMD Radeon High Definition Audio Controller                                | 1         | 2.08%   |
 | AMD Navi 31 HDMI/DP Audio                                                  | 1         | 2.08%   |
 
 Memory
@@ -1787,7 +1787,7 @@ Memory module models
 | Unknown RAM Module 2GB SODIMM DDR3 1067MT/s            | 1         | 4.55%   |
 | Unknown RAM Module 1GB SODIMM DDR2                     | 1         | 4.55%   |
 | Unknown RAM Module 1GB SODIMM DDR                      | 1         | 4.55%   |
-| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR2 667MT/s  | 1         | 4.55%   |
+| SK hynix RAM HYMP125S64CP8-Y5 2GB SODIMM DDR 667MT/s   | 1         | 4.55%   |
 | SK hynix RAM HMT351S6EFR8A-PB 4GB SODIMM DDR3 1600MT/s | 1         | 4.55%   |
 | SK hynix RAM HMT325S6BFR8C-H9 2GB SODIMM DDR3 1333MT/s | 1         | 4.55%   |
 | SK hynix RAM H9CCNNNBJTMLAR 4GB SODIMM LPDDR3 1867MT/s | 1         | 4.55%   |
@@ -1799,7 +1799,7 @@ Memory module models
 | Samsung RAM M471A2K43CB1-CRC 16GB SODIMM DDR4 2400MT/s | 1         | 4.55%   |
 | Samsung RAM M471A1K43CB1-CRC 8GB SODIMM DDR4 2667MT/s  | 1         | 4.55%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s  | 1         | 4.55%   |
-| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s  | 1         | 4.55%   |
+| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3           | 1         | 4.55%   |
 
 Memory Kind
 -----------

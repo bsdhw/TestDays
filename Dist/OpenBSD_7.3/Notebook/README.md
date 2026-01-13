@@ -460,19 +460,20 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2011    | 7         | 13.46%  |
 | 2010    | 6         | 11.54%  |
-| 2020    | 4         | 7.69%   |
 | 2019    | 4         | 7.69%   |
 | 2023    | 3         | 5.77%   |
 | 2022    | 3         | 5.77%   |
-| 2015    | 3         | 5.77%   |
+| 2020    | 3         | 5.77%   |
 | 2013    | 3         | 5.77%   |
 | 2012    | 3         | 5.77%   |
 | 2009    | 3         | 5.77%   |
 | 2006    | 3         | 5.77%   |
 | 2021    | 2         | 3.85%   |
-| 2017    | 2         | 3.85%   |
+| 2018    | 2         | 3.85%   |
 | 2016    | 2         | 3.85%   |
-| 2018    | 1         | 1.92%   |
+| 2015    | 2         | 3.85%   |
+| 2014    | 2         | 3.85%   |
+| 2017    | 1         | 1.92%   |
 | 2007    | 1         | 1.92%   |
 | 2002    | 1         | 1.92%   |
 | Unknown | 1         | 1.92%   |
@@ -1224,12 +1225,12 @@ Graphics card models
 
 | Model                                                                         | Notebooks | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                           | 7         | 12.5%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                         | 7         | 12.5%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 7         | 12.5%   |
 | Intel 3rd Gen Core processor Graphics Controller                              | 6         | 10.71%  |
 | Intel Core Processor Integrated Graphics Controller                           | 4         | 7.14%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 3         | 5.36%   |
-| Intel HD Graphics 5500                                                        | 3         | 5.36%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                      | 3         | 5.36%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 3.57%   |
 | Intel Mobile 915GM/GMS/910GML Express Graphics Controller                     | 2         | 3.57%   |
 | Intel GeminiLake [UHD Graphics 600]                                           | 2         | 3.57%   |
@@ -1238,12 +1239,12 @@ Graphics card models
 | Nvidia GP107M [GeForce GTX 1050 Mobile]                                       | 1         | 1.79%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 1         | 1.79%   |
 | Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 1.79%   |
-| Intel UHD Graphics 620                                                        | 1         | 1.79%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 1         | 1.79%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 1.79%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 1.79%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 1.79%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 1         | 1.79%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                      | 1         | 1.79%   |
 | Intel Haswell-ULT Integrated Graphics Controller                              | 1         | 1.79%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 1.79%   |
 | Intel Alder Lake-P GT2 [Iris Xe Graphics]                                     | 1         | 1.79%   |
@@ -1787,11 +1788,11 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 11.86%  |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 6         | 10.17%  |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 5         | 8.47%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 4         | 6.78%   |
+| AMD Ryzen HD Audio Controller                                              | 4         | 6.78%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 5.08%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 3         | 5.08%   |
 | Intel Broadwell-U Audio Controller                                         | 3         | 5.08%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 3         | 5.08%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 3         | 5.08%   |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 3.39%   |
 | Nvidia GT216 HDMI Audio Controller                                         | 1         | 1.69%   |
 | Intel US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller            | 1         | 1.69%   |
@@ -1805,7 +1806,7 @@ Sound card models
 | Intel 82801FB/FBM/FR/FW/FRW (ICH6 Family) AC'97 Audio Controller           | 1         | 1.69%   |
 | Intel 82801CA/CAM AC'97 Audio Controller                                   | 1         | 1.69%   |
 | Intel 8 Series HD Audio Controller                                         | 1         | 1.69%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                      | 1         | 1.69%   |
+| AMD Radeon High Definition Audio Controller                                | 1         | 1.69%   |
 | AMD Kabini HDMI/DP Audio                                                   | 1         | 1.69%   |
 | AMD FCH Azalia Controller                                                  | 1         | 1.69%   |
 

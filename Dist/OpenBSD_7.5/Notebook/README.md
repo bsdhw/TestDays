@@ -449,19 +449,19 @@ Motherboard manufacture year
 |---------|-----------|---------|
 | 2011    | 7         | 15.56%  |
 | 2020    | 4         | 8.89%   |
-| 2018    | 4         | 8.89%   |
 | 2016    | 4         | 8.89%   |
 | 2022    | 3         | 6.67%   |
 | 2021    | 3         | 6.67%   |
-| 2015    | 3         | 6.67%   |
+| 2018    | 3         | 6.67%   |
+| 2017    | 3         | 6.67%   |
 | 2009    | 3         | 6.67%   |
 | 2024    | 2         | 4.44%   |
-| 2017    | 2         | 4.44%   |
+| 2015    | 2         | 4.44%   |
+| 2013    | 2         | 4.44%   |
 | 2012    | 2         | 4.44%   |
 | 2010    | 2         | 4.44%   |
 | 2019    | 1         | 2.22%   |
 | 2014    | 1         | 2.22%   |
-| 2013    | 1         | 2.22%   |
 | 2006    | 1         | 2.22%   |
 | 2002    | 1         | 2.22%   |
 | Unknown | 1         | 2.22%   |
@@ -534,8 +534,8 @@ Number of drives on board
 
 | Drives | Notebooks | Percent |
 |--------|-----------|---------|
-| 1      | 27        | 60%     |
-| 2      | 15        | 33.33%  |
+| 1      | 28        | 62.22%  |
+| 2      | 14        | 31.11%  |
 | 3      | 2         | 4.44%   |
 | 0      | 1         | 2.22%   |
 
@@ -711,48 +711,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                                                | Notebooks | Percent |
-|------------------------------------------------------|-----------|---------|
-| Seagate ST320LT007-9ZV142 320GB                      | 2         | 3.77%   |
-| NVMe SAMSUNG MZVLW256 256GB                          | 2         | 3.77%   |
-| Kingston SA400S37240G 240GB                          | 2         | 3.77%   |
-| WDC WD7500BPKX-00HPJT0 752GB                         | 1         | 1.89%   |
-| WDC WD7500BPKT-75PK4T0 752GB                         | 1         | 1.89%   |
-| WDC WD7500BPKT-00PK4T0 752GB                         | 1         | 1.89%   |
-| WDC WD5000LPLX-00ZNTT0 500GB                         | 1         | 1.89%   |
-| WDC WD3200BEVE-00A0HT0 320GB                         | 1         | 1.89%   |
-| WDC WD10JPLX-00MBPT0 1TB                             | 1         | 1.89%   |
-| WDC PC SN520 SDAPNUW-128G-1014 128GB                 | 1         | 1.89%   |
-| Toshiba MK6465GSX 640GB                              | 1         | 1.89%   |
-| Seagate ST9500420AS 500GB                            | 1         | 1.89%   |
-| Seagate ST9160821A 160GB                             | 1         | 1.89%   |
-| SanDisk SD8SN8U-256G-1006 256GB                      | 1         | 1.89%   |
-| SanDisk 3.2 Gen1 128GB                               | 1         | 1.89%   |
-| Samsung SSD PM871 mSATA 256GB                        | 1         | 1.89%   |
-| Samsung SSD 960 EVO 500GB                            | 1         | 1.89%   |
-| Samsung SSD 870 EVO 250GB                            | 1         | 1.89%   |
-| Samsung SSD 860 EVO 1TB                              | 1         | 1.89%   |
-| Product:              USB DISK 2.0 USB DISK 2.0 16GB | 1         | 1.89%   |
-| PNY CS900 1TB SSD                                    | 1         | 1.89%   |
-| Patriot Burst 120GB                                  | 1         | 1.89%   |
-| NVMe WDC PC SN730 SDB 256GB                          | 1         | 1.89%   |
-| NVMe WD PC SN810 SDCQ 512GB                          | 1         | 1.89%   |
-| NVMe WD PC SN540 SDDP 512GB                          | 1         | 1.89%   |
-| NVMe Samsung SSD 980 1TB                             | 1         | 1.89%   |
-| NVMe Samsung SSD 970 500GB                           | 1         | 1.89%   |
-| NVMe SAMSUNG MZVLB512 512GB                          | 1         | 1.89%   |
-| NVMe SAMSUNG MZVLB256 256GB                          | 1         | 1.89%   |
-| NVMe INTEL SSDPEKNW51 512GB                          | 1         | 1.89%   |
-| Micron M600_MTFDDAV256MBF 256GB                      | 1         | 1.89%   |
-| LITEONIT LCS-256M6S 2.5 7mm 256GB                    | 1         | 1.89%   |
-| Kingston SA400S37480G 480GB                          | 1         | 1.89%   |
-| KingSpec MT-128 128GB                                | 1         | 1.89%   |
-| Kingchuxing SSD 64GB                                 | 1         | 1.89%   |
-| JetFlash Transcend 16GB                              | 1         | 1.89%   |
-| Intenso External USB 3.0 1TB                         | 1         | 1.89%   |
-| Intel SSDSCKKF256G8L 256GB                           | 1         | 1.89%   |
-| Intel SSDSC2KF180H6L 180GB                           | 1         | 1.89%   |
-| Hitachi HTS725032A9A364 320GB                        | 1         | 1.89%   |
+| Model                                               | Notebooks | Percent |
+|-----------------------------------------------------|-----------|---------|
+| Seagate ST320LT007-9ZV142 320GB                     | 2         | 3.77%   |
+| NVMe SAMSUNG MZVLW256 256GB                         | 2         | 3.77%   |
+| Kingston SA400S37240G 240GB                         | 2         | 3.77%   |
+| WDC WD7500BPKX-00HPJT0 752GB                        | 1         | 1.89%   |
+| WDC WD7500BPKT-75PK4T0 752GB                        | 1         | 1.89%   |
+| WDC WD7500BPKT-00PK4T0 752GB                        | 1         | 1.89%   |
+| WDC WD5000LPLX-00ZNTT0 500GB                        | 1         | 1.89%   |
+| WDC WD3200BEVE-00A0HT0 320GB                        | 1         | 1.89%   |
+| WDC WD10JPLX-00MBPT0 1TB                            | 1         | 1.89%   |
+| WDC PC SN520 SDAPNUW-128G-1014 128GB                | 1         | 1.89%   |
+| Toshiba MK6465GSX 640GB                             | 1         | 1.89%   |
+| Seagate ST9500420AS 500GB                           | 1         | 1.89%   |
+| Seagate ST9160821A 160GB                            | 1         | 1.89%   |
+| SanDisk SD8SN8U-256G-1006 256GB                     | 1         | 1.89%   |
+| SanDisk 3.2 Gen1 128GB                              | 1         | 1.89%   |
+| Samsung SSD PM871 mSATA 256GB                       | 1         | 1.89%   |
+| Samsung SSD 960 EVO 500GB                           | 1         | 1.89%   |
+| Samsung SSD 870 EVO 250GB                           | 1         | 1.89%   |
+| Samsung SSD 860 EVO 1TB                             | 1         | 1.89%   |
+| Product:              USB DISK 2.0 USB DISK 2.0 8GB | 1         | 1.89%   |
+| PNY CS900 1TB SSD                                   | 1         | 1.89%   |
+| Patriot Burst 120GB                                 | 1         | 1.89%   |
+| NVMe WDC PC SN730 SDB 256GB                         | 1         | 1.89%   |
+| NVMe WD PC SN810 SDCQ 512GB                         | 1         | 1.89%   |
+| NVMe WD PC SN540 SDDP 512GB                         | 1         | 1.89%   |
+| NVMe Samsung SSD 980 1TB                            | 1         | 1.89%   |
+| NVMe Samsung SSD 970 500GB                          | 1         | 1.89%   |
+| NVMe SAMSUNG MZVLB512 512GB                         | 1         | 1.89%   |
+| NVMe SAMSUNG MZVLB256 256GB                         | 1         | 1.89%   |
+| NVMe INTEL SSDPEKNW51 512GB                         | 1         | 1.89%   |
+| Micron M600_MTFDDAV256MBF 256GB                     | 1         | 1.89%   |
+| LITEONIT LCS-256M6S 2.5 7mm 256GB                   | 1         | 1.89%   |
+| Kingston SA400S37480G 480GB                         | 1         | 1.89%   |
+| KingSpec MT-128 128GB                               | 1         | 1.89%   |
+| Kingchuxing SSD 64GB                                | 1         | 1.89%   |
+| JetFlash Transcend 16GB                             | 1         | 1.89%   |
+| Intenso External USB 3.0 1TB                        | 1         | 1.89%   |
+| Intel SSDSCKKF256G8L 256GB                          | 1         | 1.89%   |
+| Intel SSDSC2KF180H6L 180GB                          | 1         | 1.89%   |
+| Hitachi HTS725032A9A364 320GB                       | 1         | 1.89%   |
 
 HDD Vendor
 ----------
@@ -1211,12 +1211,12 @@ Graphics card models
 
 | Model                                                                         | Notebooks | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                           | 7         | 14.29%  |
+| Intel Skylake-U GT2 [HD Graphics 520]                                         | 7         | 14.29%  |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 5         | 10.2%   |
 | Intel 3rd Gen Core processor Graphics Controller                              | 4         | 8.16%   |
-| Intel UHD Graphics 620                                                        | 3         | 6.12%   |
-| Intel HD Graphics 5500                                                        | 3         | 6.12%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                      | 3         | 6.12%   |
 | Intel Core Processor Integrated Graphics Controller                           | 3         | 6.12%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                      | 3         | 6.12%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 2         | 4.08%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 2         | 4.08%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 2         | 4.08%   |
@@ -1227,12 +1227,12 @@ Graphics card models
 | Intel Raptor Lake-P [Iris Xe Graphics]                                        | 1         | 2.04%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 2.04%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 1         | 2.04%   |
-| Intel HD Graphics 620                                                         | 1         | 2.04%   |
-| Intel HD Graphics 6000                                                        | 1         | 2.04%   |
-| Intel HD Graphics 5300                                                        | 1         | 2.04%   |
+| Intel Kaby Lake-U GT2 [HD Graphics 620]                                       | 1         | 2.04%   |
 | Intel Haswell-ULT Integrated Graphics Controller                              | 1         | 2.04%   |
 | Intel CometLake-U GT2 [UHD Graphics]                                          | 1         | 2.04%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 2.04%   |
+| Intel Broadwell-Y GT2 [HD Graphics 5300]                                      | 1         | 2.04%   |
+| Intel Broadwell-U GT3 [HD Graphics 6000]                                      | 1         | 2.04%   |
 | Intel 4th Gen Core Processor Integrated Graphics Controller                   | 1         | 2.04%   |
 | AMD RV200/M7 [Mobility Radeon 7500]                                           | 1         | 2.04%   |
 | AMD RS880M [Mobility Radeon HD 4225/4250]                                     | 1         | 2.04%   |
@@ -1770,11 +1770,11 @@ Sound card models
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 5         | 8.93%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 4         | 7.14%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 3         | 5.36%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 3         | 5.36%   |
+| AMD Ryzen HD Audio Controller                                              | 3         | 5.36%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                | 2         | 3.57%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 2         | 3.57%   |
 | Intel 82801I (ICH9 Family) HD Audio Controller                             | 2         | 3.57%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 2         | 3.57%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 2         | 3.57%   |
 | Nvidia TU107 GeForce GTX 1650 High Definition Audio Controller             | 1         | 1.79%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller           | 1         | 1.79%   |
 | Intel Raptor Lake-P/U/H cAVS                                               | 1         | 1.79%   |

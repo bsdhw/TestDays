@@ -690,7 +690,7 @@ Hard drive models
 
 | Model                           | Desktops | Percent |
 |---------------------------------|----------|---------|
-| OPENBSD SR RAID 1 128GB         | 4        | 5.13%   |
+| OPENBSD SR RAID 1 2TB           | 4        | 5.13%   |
 | NVMe Samsung SSD 980 1TB        | 4        | 5.13%   |
 | Kingston SEDC500M480G 480GB     | 2        | 2.56%   |
 | WDC WD7500AACS-00ZJB0 752GB     | 1        | 1.28%   |
@@ -811,11 +811,11 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 37     | 43.64%  |
-| 0.51-1.0   | 16       | 22     | 29.09%  |
-| 1.01-2.0   | 6        | 23     | 10.91%  |
-| 4.01-10.0  | 5        | 13     | 9.09%   |
-| 3.01-4.0   | 4        | 6      | 7.27%   |
+| 0.01-0.5   | 23       | 32     | 41.07%  |
+| 0.51-1.0   | 16       | 22     | 28.57%  |
+| 1.01-2.0   | 8        | 28     | 14.29%  |
+| 4.01-10.0  | 5        | 13     | 8.93%   |
+| 3.01-4.0   | 4        | 6      | 7.14%   |
 
 Space Total
 -----------
@@ -1227,7 +1227,7 @@ Graphics card models
 |-----------------------------------------------------------------------------|----------|---------|
 | Matrox Electronics Systems MGA G200eW WPCM450                               | 2        | 5.88%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 2        | 5.88%   |
-| Intel HD Graphics 530                                                       | 2        | 5.88%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                       | 2        | 5.88%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                    | 2        | 5.88%   |
 | ASPEED Technology ASPEED Graphics Family                                    | 2        | 5.88%   |
 | AMD Navi 23 [Radeon RX 6600/6600 XT/6600M]                                  | 2        | 5.88%   |
@@ -1236,9 +1236,9 @@ Graphics card models
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)           | 1        | 2.94%   |
 | Matrox Electronics Systems G200eR2                                          | 1        | 2.94%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                   | 1        | 2.94%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 1        | 2.94%   |
 | Intel JasperLake [UHD Graphics]                                             | 1        | 2.94%   |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                      | 1        | 2.94%   |
-| Intel HD Graphics 630                                                       | 1        | 2.94%   |
 | Intel CoffeeLake-S GT2 [UHD Graphics 630]                                   | 1        | 2.94%   |
 | AMD Trinity [Radeon HD 7660D]                                               | 1        | 2.94%   |
 | AMD Trinity 2 [Radeon HD 7520G]                                             | 1        | 2.94%   |
@@ -1797,12 +1797,12 @@ Sound card models
 | Dell AC511 Sound Bar                                                              | 1        | 2.04%   |
 | C-Media Electronics FX-AUDIO                                                      | 1        | 2.04%   |
 | C-Media Electronics CM108 Audio Controller                                        | 1        | 2.04%   |
-| AMD Renoir Radeon High Definition Audio Controller                                | 1        | 2.04%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                             | 1        | 2.04%   |
+| AMD Ryzen HD Audio Controller                                                     | 1        | 2.04%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                       | 1        | 2.04%   |
+| AMD Radeon High Definition Audio Controller                                       | 1        | 2.04%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]           | 1        | 2.04%   |
 | AMD Navi 10 HDMI Audio                                                            | 1        | 2.04%   |
 | AMD Kabini HDMI/DP Audio                                                          | 1        | 2.04%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                        | 1        | 2.04%   |
 | AMD Ellesmere HDMI Audio [Radeon RX 470/480 / 570/580/590]                        | 1        | 2.04%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]                      | 1        | 2.04%   |
 
@@ -1834,7 +1834,7 @@ Memory module models
 |--------------------------------------------------------|----------|---------|
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1        | 25%     |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1        | 25%     |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s  | 1        | 25%     |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s  | 1        | 25%     |
 | Corsair RAM CMK64GX5M2B5200C40 32GB DIMM DDR5 4800MT/s | 1        | 25%     |
 
 Memory Kind
@@ -1887,7 +1887,7 @@ Memory module speed
 | Speed | Desktops | Percent |
 |-------|----------|---------|
 | 4800  | 1        | 33.33%  |
-| 3000  | 1        | 33.33%  |
+| 3600  | 1        | 33.33%  |
 | 2400  | 1        | 33.33%  |
 
 Printers & scanners
@@ -1932,9 +1932,10 @@ Camera device vendors
 ![Camera Vendor](./images/pie_chart_bsd/camera_vendor.svg)
 
 
-| Vendor   | Desktops | Percent |
-|----------|----------|---------|
-| Microdia | 1        | 100%    |
+| Vendor          | Desktops | Percent |
+|-----------------|----------|---------|
+| Microdia        | 1        | 50%     |
+| Asuscom Network | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1944,9 +1945,10 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                     | Desktops | Percent |
-|---------------------------|----------|---------|
-| Microdia USB  Live camera | 1        | 100%    |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| Microdia USB  Live camera       | 1        | 50%     |
+| Asuscom Network Depstech webcam | 1        | 50%     |
 
 Security
 --------

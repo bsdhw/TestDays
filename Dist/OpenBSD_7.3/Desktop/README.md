@@ -660,7 +660,7 @@ Hard drive models
 | Samsung HD161HJ 160GB          | 1        | 2.22%   |
 | Samsung Flash Drive FIT 32GB   | 1        | 2.22%   |
 | OPENBSD SR RAID 5 9.9TB        | 1        | 2.22%   |
-| OPENBSD SR RAID 1 128GB        | 1        | 2.22%   |
+| OPENBSD SR RAID 1 2TB          | 1        | 2.22%   |
 | NVMe WDBRPG5000ANC-WR 500GB    | 1        | 2.22%   |
 | NVMe TOSHIBA-RC100 240GB       | 1        | 2.22%   |
 | NVMe Samsung SSD 990 2TB       | 1        | 2.22%   |
@@ -757,8 +757,8 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 24       | 41     | 77.42%  |
-| 1.01-2.0   | 4        | 12     | 12.9%   |
+| 0.01-0.5   | 24       | 40     | 77.42%  |
+| 1.01-2.0   | 4        | 13     | 12.9%   |
 | 0.51-1.0   | 2        | 2      | 6.45%   |
 | 4.01-10.0  | 1        | 1      | 3.23%   |
 
@@ -968,11 +968,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Desktops | Percent |
 |------|----------|---------|
-| SATA | 17       | 45.95%  |
-| IDE  | 12       | 32.43%  |
-| NVMe | 6        | 16.22%  |
-| RAID | 1        | 2.7%    |
-| SCSI | 1        | 2.7%    |
+| SATA | 16       | 44.44%  |
+| IDE  | 12       | 33.33%  |
+| NVMe | 6        | 16.67%  |
+| RAID | 1        | 2.78%   |
+| SCSI | 1        | 2.78%   |
 
 Processor
 ---------
@@ -1181,7 +1181,7 @@ Graphics card models
 | Nvidia G72 [GeForce 7300 LE]                                           | 1        | 3.45%   |
 | Matrox Electronics Systems MGA G200eW WPCM450                          | 1        | 3.45%   |
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)      | 1        | 3.45%   |
-| Intel HD Graphics 630                                                  | 1        | 3.45%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                | 1        | 3.45%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                               | 1        | 3.45%   |
 | Intel 82Q963/Q965 Integrated Graphics Controller                       | 1        | 3.45%   |
 | Intel 82915G/GV/910GL Integrated Graphics Controller                   | 1        | 3.45%   |
@@ -1647,12 +1647,12 @@ Sound card models
 | Model                                                                             | Desktops | Percent |
 |-----------------------------------------------------------------------------------|----------|---------|
 | Nvidia GK208 HDMI/DP Audio Controller                                             | 3        | 8.82%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                        | 3        | 8.82%   |
+| AMD Ryzen HD Audio Controller                                                     | 3        | 8.82%   |
 | Nvidia GA104 High Definition Audio Controller                                     | 2        | 5.88%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                           | 2        | 5.88%   |
 | AMD Starship/Matisse HD Audio Controller                                          | 2        | 5.88%   |
 | AMD SBx00 Azalia (Intel HDA)                                                      | 2        | 5.88%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                             | 2        | 5.88%   |
+| AMD Radeon High Definition Audio Controller                                       | 2        | 5.88%   |
 | VIA Technologies VT8233/A/8235/8237 AC97 Audio Controller                         | 1        | 2.94%   |
 | Nvidia GP106 High Definition Audio Controller                                     | 1        | 2.94%   |
 | Nvidia CK804 AC'97 Audio Controller                                               | 1        | 2.94%   |
@@ -1666,7 +1666,7 @@ Sound card models
 | Intel 631xESB/632xESB High Definition Audio Controller                            | 1        | 2.94%   |
 | Intel 200 Series PCH HD Audio                                                     | 1        | 2.94%   |
 | AMD RV770 HDMI Audio [Radeon HD 4850/4870]                                        | 1        | 2.94%   |
-| AMD Renoir Radeon High Definition Audio Controller                                | 1        | 2.94%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                       | 1        | 2.94%   |
 | AMD Navi 21/23 HDMI/DP Audio Controller                                           | 1        | 2.94%   |
 | AMD FCH Azalia Controller                                                         | 1        | 2.94%   |
 | AMD Caicos HDMI Audio [Radeon HD 6450 / 7450/8450/8490 OEM / R5 230/235/235X OEM] | 1        | 2.94%   |
@@ -1705,7 +1705,7 @@ Memory module models
 | Unknown RAM Module 2GB DIMM DDR2 667MT/s              | 1        | 11.11%  |
 | Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s  | 1        | 11.11%  |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s     | 1        | 11.11%  |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s | 1        | 11.11%  |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s | 1        | 11.11%  |
 | Kingston RAM 9905316-005.A04LF 1GB DIMM DDR2 667MT/s  | 1        | 11.11%  |
 
 Memory Kind
@@ -1765,7 +1765,7 @@ Memory module speed
 | 2400    | 2        | 22.22%  |
 | 667     | 2        | 22.22%  |
 | Unknown | 2        | 22.22%  |
-| 3000    | 1        | 11.11%  |
+| 3600    | 1        | 11.11%  |
 | 1332    | 1        | 11.11%  |
 | 800     | 1        | 11.11%  |
 
@@ -1813,7 +1813,8 @@ Camera device vendors
 
 | Vendor                 | Desktops | Percent |
 |------------------------|----------|---------|
-| Generalplus Technology | 1        | 100%    |
+| Generalplus Technology | 1        | 50%     |
+| Asuscom Network        | 1        | 50%     |
 
 Camera Model
 ------------
@@ -1823,9 +1824,10 @@ Camera device models
 ![Camera Model](./images/pie_chart_bsd/camera_model.svg)
 
 
-| Model                 | Desktops | Percent |
-|-----------------------|----------|---------|
-| Generalplus HD Webcam | 1        | 100%    |
+| Model                           | Desktops | Percent |
+|---------------------------------|----------|---------|
+| Generalplus HD Webcam           | 1        | 50%     |
+| Asuscom Network Depstech webcam | 1        | 50%     |
 
 Security
 --------

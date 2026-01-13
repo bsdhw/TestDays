@@ -646,48 +646,48 @@ Hard drive models
 ![Drive Model](./images/pie_chart_bsd/drive_model.svg)
 
 
-| Model                                                | Desktops | Percent |
-|------------------------------------------------------|----------|---------|
-| WDC WD5003ABYZ-011FA0 500GB                          | 2        | 4.35%   |
-| WDC WD10EZEX-00BN5A0 1TB                             | 2        | 4.35%   |
-| Product:              USB DISK 2.0 USB DISK 2.0 16GB | 2        | 4.35%   |
-| OPENBSD SR RAID 1 128GB                              | 2        | 4.35%   |
-| A-DATA SU900 256GB                                   | 2        | 4.35%   |
-| WDC WD10EZEX-21WN4A0 1TB                             | 1        | 2.17%   |
-| WDC WD10EZEX-08WN4A0 1TB                             | 1        | 2.17%   |
-| Transcend TSITHSD512-004G                            | 1        | 2.17%   |
-| Toshiba External USB 3.0 1TB                         | 1        | 2.17%   |
-| SK hynix HFS128G39TND-N210A 128GB                    | 1        | 2.17%   |
-| Seagate ST750LM022 HN-M750MBB 752GB                  | 1        | 2.17%   |
-| Seagate ST2000DM008-2FR102 2TB                       | 1        | 2.17%   |
-| SanDisk SSD PLUS 120 GB                              | 1        | 2.17%   |
-| SanDisk SDSSDA480G 480GB                             | 1        | 2.17%   |
-| SanDisk Cruzer Blade 16GB                            | 1        | 2.17%   |
-| Samsung SSD PM871 mSATA 128GB                        | 1        | 2.17%   |
-| Samsung SSD 870 QVO 2TB                              | 1        | 2.17%   |
-| Samsung SSD 870 EVO 250GB                            | 1        | 2.17%   |
-| Samsung SSD 840 EVO 250GB                            | 1        | 2.17%   |
-| PNY CS900 480GB SSD                                  | 1        | 2.17%   |
-| PNY CS900 1TB SSD                                    | 1        | 2.17%   |
-| OPENBSD SR RAID 5 9.9TB                              | 1        | 2.17%   |
-| NVMe YSO256GTLCW-E3C- 256GB                          | 1        | 2.17%   |
-| NVMe WD_BLACK SN770 2 2TB                            | 1        | 2.17%   |
-| NVMe WDBRPG5000ANC-WR 500GB                          | 1        | 2.17%   |
-| NVMe Samsung SSD 990 2TB                             | 1        | 2.17%   |
-| NVMe Samsung SSD 980 1TB                             | 1        | 2.17%   |
-| NVMe Sabrent Rocket 4 500GB                          | 1        | 2.17%   |
-| NVMe KINGSTON SNV2S50 500GB                          | 1        | 2.17%   |
-| NVMe KINGSTON SKC3000 2TB                            | 1        | 2.17%   |
-| NVMe INTENSO SSD 500GB                               | 1        | 2.17%   |
-| NVMe CT500P3SSD8 500GB                               | 1        | 2.17%   |
-| NVMe CT500P3PSSD8 500GB                              | 1        | 2.17%   |
-| NVMe CT500P2SSD8 500GB                               | 1        | 2.17%   |
-| NVMe 512GB SSD                                       | 1        | 2.17%   |
-| LITEONIT LCM-128M3S 2.5-inch 7mm 128GB               | 1        | 2.17%   |
-| Kingston DT 101 G2 8GB                               | 1        | 2.17%   |
-| Intel SSDSC2BB120G6 120GB                            | 1        | 2.17%   |
-| HGST HMS5C4040BLE640 4TB                             | 1        | 2.17%   |
-| China SATA SSD 64GB                                  | 1        | 2.17%   |
+| Model                                               | Desktops | Percent |
+|-----------------------------------------------------|----------|---------|
+| WDC WD5003ABYZ-011FA0 500GB                         | 2        | 4.35%   |
+| WDC WD10EZEX-00BN5A0 1TB                            | 2        | 4.35%   |
+| Product:              USB DISK 2.0 USB DISK 2.0 8GB | 2        | 4.35%   |
+| OPENBSD SR RAID 1 2TB                               | 2        | 4.35%   |
+| A-DATA SU900 256GB                                  | 2        | 4.35%   |
+| WDC WD10EZEX-21WN4A0 1TB                            | 1        | 2.17%   |
+| WDC WD10EZEX-08WN4A0 1TB                            | 1        | 2.17%   |
+| Transcend TSITHSD512-004G                           | 1        | 2.17%   |
+| Toshiba External USB 3.0 1TB                        | 1        | 2.17%   |
+| SK hynix HFS128G39TND-N210A 128GB                   | 1        | 2.17%   |
+| Seagate ST750LM022 HN-M750MBB 752GB                 | 1        | 2.17%   |
+| Seagate ST2000DM008-2FR102 2TB                      | 1        | 2.17%   |
+| SanDisk SSD PLUS 120 GB                             | 1        | 2.17%   |
+| SanDisk SDSSDA480G 480GB                            | 1        | 2.17%   |
+| SanDisk Cruzer Blade 16GB                           | 1        | 2.17%   |
+| Samsung SSD PM871 mSATA 128GB                       | 1        | 2.17%   |
+| Samsung SSD 870 QVO 2TB                             | 1        | 2.17%   |
+| Samsung SSD 870 EVO 250GB                           | 1        | 2.17%   |
+| Samsung SSD 840 EVO 250GB                           | 1        | 2.17%   |
+| PNY CS900 480GB SSD                                 | 1        | 2.17%   |
+| PNY CS900 1TB SSD                                   | 1        | 2.17%   |
+| OPENBSD SR RAID 5 9.9TB                             | 1        | 2.17%   |
+| NVMe YSO256GTLCW-E3C- 256GB                         | 1        | 2.17%   |
+| NVMe WD_BLACK SN770 2 2TB                           | 1        | 2.17%   |
+| NVMe WDBRPG5000ANC-WR 500GB                         | 1        | 2.17%   |
+| NVMe Samsung SSD 990 2TB                            | 1        | 2.17%   |
+| NVMe Samsung SSD 980 1TB                            | 1        | 2.17%   |
+| NVMe Sabrent Rocket 4 500GB                         | 1        | 2.17%   |
+| NVMe KINGSTON SNV2S50 500GB                         | 1        | 2.17%   |
+| NVMe KINGSTON SKC3000 2TB                           | 1        | 2.17%   |
+| NVMe INTENSO SSD 500GB                              | 1        | 2.17%   |
+| NVMe CT500P3SSD8 500GB                              | 1        | 2.17%   |
+| NVMe CT500P3PSSD8 500GB                             | 1        | 2.17%   |
+| NVMe CT500P2SSD8 500GB                              | 1        | 2.17%   |
+| NVMe 512GB SSD                                      | 1        | 2.17%   |
+| LITEONIT LCM-128M3S 2.5-inch 7mm 128GB              | 1        | 2.17%   |
+| Kingston DT 101 G2 8GB                              | 1        | 2.17%   |
+| Intel SSDSC2BB120G6 120GB                           | 1        | 2.17%   |
+| HGST HMS5C4040BLE640 4TB                            | 1        | 2.17%   |
+| China SATA SSD 64GB                                 | 1        | 2.17%   |
 
 HDD Vendor
 ----------
@@ -764,12 +764,12 @@ Size of hard drive
 
 | Size in TB | Desktops | Drives | Percent |
 |------------|----------|--------|---------|
-| 0.01-0.5   | 20       | 33     | 58.82%  |
-| 0.51-1.0   | 7        | 11     | 20.59%  |
-| 1.01-2.0   | 4        | 9      | 11.76%  |
-| 3.01-4.0   | 1        | 1      | 2.94%   |
-| 2.01-3.0   | 1        | 1      | 2.94%   |
-| 4.01-10.0  | 1        | 1      | 2.94%   |
+| 0.01-0.5   | 20       | 31     | 55.56%  |
+| 0.51-1.0   | 7        | 11     | 19.44%  |
+| 1.01-2.0   | 6        | 11     | 16.67%  |
+| 3.01-4.0   | 1        | 1      | 2.78%   |
+| 2.01-3.0   | 1        | 1      | 2.78%   |
+| 4.01-10.0  | 1        | 1      | 2.78%   |
 
 Space Total
 -----------
@@ -931,7 +931,7 @@ Storage controller models
 | AMD FCH SATA Controller [AHCI mode]                                            | 2        | 4.76%   |
 | AMD 500 Series Chipset SATA Controller                                         | 2        | 4.76%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1        | 2.38%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1        | 2.38%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                   | 1        | 2.38%   |
 | SanDisk Extreme Pro / WD Black SN750 / PC SN730 / Red SN700 NVMe SSD           | 1        | 2.38%   |
 | Samsung NVMe SSD Controller S4LV008[Pascal]                                    | 1        | 2.38%   |
 | Samsung NVMe SSD Controller PM9C1a (DRAM-less)                                 | 1        | 2.38%   |
@@ -1157,10 +1157,10 @@ Graphics card models
 | Nvidia GP108 [GeForce GT 1030]                                              | 1        | 3.45%   |
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)           | 1        | 3.45%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller | 1        | 3.45%   |
-| Intel HD Graphics 630                                                       | 1        | 3.45%   |
-| Intel HD Graphics 610                                                       | 1        | 3.45%   |
-| Intel HD Graphics 6000                                                      | 1        | 3.45%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                     | 1        | 3.45%   |
+| Intel Kaby Lake-S GT1 [HD Graphics 610]                                     | 1        | 3.45%   |
 | Intel Haswell-ULT Integrated Graphics Controller                            | 1        | 3.45%   |
+| Intel Broadwell-U GT3 [HD Graphics 6000]                                    | 1        | 3.45%   |
 | Intel Atom Processor Z36xxx/Z37xxx Series Graphics & Display                | 1        | 3.45%   |
 | Intel Alder Lake-S GT1 [UHD Graphics 730]                                   | 1        | 3.45%   |
 | AMD Oland GL [FirePro W2100]                                                | 1        | 3.45%   |
@@ -1259,7 +1259,7 @@ Monitor models
 | Lenovo LEN L174 LEN240B 1280x1024 340x270mm 17.1-inch             | 1        | 5.56%   |
 | Iiyama PL3294Q IVM762D 2560x1440 700x390mm 31.5-inch              | 1        | 5.56%   |
 | Huion GS1562 HAT1560 1920x1080 340x200mm 15.5-inch                | 1        | 5.56%   |
-| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 580x240mm 24.7-inch       | 1        | 5.56%   |
+| Goldstar LG ULTRAWIDE GSM59F1 2560x1080 670x280mm 28.6-inch       | 1        | 5.56%   |
 | Goldstar LG IPS FULLHD GSM5AB8 1920x1080 480x270mm 21.7-inch      | 1        | 5.56%   |
 | Goldstar LG FHD GSM5BCA 1920x1080 600x340mm 27.2-inch             | 1        | 5.56%   |
 | Eizo EV2795 ENC3149 2560x1440 600x340mm 27.2-inch                 | 1        | 5.56%   |
@@ -1432,7 +1432,6 @@ Controller models
 | Intel Wireless 7265                                                    | 1        | 2.38%   |
 | Intel Wireless 7260                                                    | 1        | 2.38%   |
 | Intel Tiger Lake PCH CNVi WiFi                                         | 1        | 2.38%   |
-| Intel Raptor Lake-S PCH CNVi WiFi                                      | 1        | 2.38%   |
 | Intel I350 Gigabit Network Connection                                  | 1        | 2.38%   |
 | Intel I211 Gigabit Network Connection                                  | 1        | 2.38%   |
 | Intel I210 Gigabit Network Connection                                  | 1        | 2.38%   |
@@ -1445,7 +1444,8 @@ Controller models
 | Intel Ethernet Connection (7) I219-V                                   | 1        | 2.38%   |
 | Intel Ethernet Connection (2) I219-V                                   | 1        | 2.38%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]                       | 1        | 2.38%   |
-| Intel CNVi: Wi-Fi                                                      | 1        | 2.38%   |
+| Intel Alder Lake-N PCH CNVi WiFi                                       | 1        | 2.38%   |
+| Intel 700 Series Chipset CNVi WiFi                                     | 1        | 2.38%   |
 | Broadcom NetXtreme BCM5719 Gigabit Ethernet PCIe                       | 1        | 2.38%   |
 | American Megatrends Virtual Ethernet                                   | 1        | 2.38%   |
 
@@ -1482,9 +1482,9 @@ Wireless models
 | Intel Wireless 7265                                         | 1        | 7.69%   |
 | Intel Wireless 7260                                         | 1        | 7.69%   |
 | Intel Tiger Lake PCH CNVi WiFi                              | 1        | 7.69%   |
-| Intel Raptor Lake-S PCH CNVi WiFi                           | 1        | 7.69%   |
 | Intel Dual Band Wireless-AC 3168NGW [Stone Peak]            | 1        | 7.69%   |
-| Intel CNVi: Wi-Fi                                           | 1        | 7.69%   |
+| Intel Alder Lake-N PCH CNVi WiFi                            | 1        | 7.69%   |
+| Intel 700 Series Chipset CNVi WiFi                          | 1        | 7.69%   |
 
 Ethernet Vendor
 ---------------
@@ -1654,11 +1654,11 @@ Sound card models
 | Model                                                                      | Desktops | Percent |
 |----------------------------------------------------------------------------|----------|---------|
 | AMD Navi 21/23 HDMI/DP Audio Controller                                    | 6        | 13.64%  |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 4        | 9.09%   |
+| AMD Ryzen HD Audio Controller                                              | 4        | 9.09%   |
 | AMD Starship/Matisse HD Audio Controller                                   | 3        | 6.82%   |
 | Intel Alder Lake-N PCH High Definition Audio Controller                    | 2        | 4.55%   |
 | Intel 100 Series/C230 Series Chipset Family HD Audio Controller            | 2        | 4.55%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                      | 2        | 4.55%   |
+| AMD Radeon High Definition Audio Controller                                | 2        | 4.55%   |
 | AMD Baffin HDMI/DP Audio [Radeon RX 550 640SP / RX 560/560X]               | 2        | 4.55%   |
 | Samson Technologies GoMic compact condenser mic                            | 1        | 2.27%   |
 | Nvidia GP108 High Definition Audio Controller                              | 1        | 2.27%   |
@@ -1677,7 +1677,7 @@ Sound card models
 | Creative Technology Sound BlasterX G6                                      | 1        | 2.27%   |
 | C-Media Electronics C-Media USB Audio Device                               | 1        | 2.27%   |
 | C-Media Electronics Audio Adapter (Unitek Y-247A)                          | 1        | 2.27%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 1        | 2.27%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 1        | 2.27%   |
 | AMD Oland/Hainan/Cape Verde/Pitcairn HDMI Audio [Radeon HD 7000 Series]    | 1        | 2.27%   |
 | AMD Navi 31 HDMI/DP Audio                                                  | 1        | 2.27%   |
 | AMD Navi 10 HDMI Audio                                                     | 1        | 2.27%   |
@@ -1713,7 +1713,7 @@ Memory module models
 |-------------------------------------------------------|----------|---------|
 | SK hynix RAM HMA84GR7DJR4N-XN 32GB DIMM DDR4 3200MT/s | 1        | 25%     |
 | Kingston RAM KF560C36-16 16GB DIMM DDR5 4800MT/s      | 1        | 25%     |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s | 1        | 25%     |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s | 1        | 25%     |
 | Unknown                                               | 1        | 25%     |
 
 Memory Kind
@@ -1767,8 +1767,8 @@ Memory module speed
 | Speed   | Desktops | Percent |
 |---------|----------|---------|
 | 4800    | 1        | 25%     |
+| 3600    | 1        | 25%     |
 | 3200    | 1        | 25%     |
-| 3000    | 1        | 25%     |
 | Unknown | 1        | 25%     |
 
 Printers & scanners

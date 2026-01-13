@@ -527,17 +527,17 @@ Motherboard manufacture year
 | 2019    | 5         | 6.1%    |
 | 2016    | 5         | 6.1%    |
 | 2006    | 5         | 6.1%    |
-| 2020    | 4         | 4.88%   |
+| 2014    | 4         | 4.88%   |
 | 2013    | 4         | 4.88%   |
 | 2012    | 4         | 4.88%   |
 | 2009    | 4         | 4.88%   |
 | 2021    | 3         | 3.66%   |
-| 2015    | 3         | 3.66%   |
+| 2020    | 3         | 3.66%   |
+| 2018    | 3         | 3.66%   |
 | 2007    | 3         | 3.66%   |
 | Unknown | 3         | 3.66%   |
-| 2018    | 2         | 2.44%   |
-| 2017    | 2         | 2.44%   |
-| 2014    | 2         | 2.44%   |
+| 2015    | 2         | 2.44%   |
+| 2017    | 1         | 1.22%   |
 | 2005    | 1         | 1.22%   |
 | 2004    | 1         | 1.22%   |
 | 2002    | 1         | 1.22%   |
@@ -941,9 +941,9 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 63        | 90     | 75%     |
+| 0.01-0.5   | 63        | 89     | 75%     |
 | 0.51-1.0   | 13        | 14     | 15.48%  |
-| 1.01-2.0   | 7         | 16     | 8.33%   |
+| 1.01-2.0   | 7         | 17     | 8.33%   |
 | 4.01-10.0  | 1         | 1      | 1.19%   |
 
 Space Total
@@ -1167,11 +1167,11 @@ Kind of storage controller (IDE, SATA, NVMe, SAS, ...)
 
 | Kind | Computers | Percent |
 |------|-----------|---------|
-| SATA | 51        | 56.67%  |
-| IDE  | 20        | 22.22%  |
-| NVMe | 16        | 17.78%  |
-| RAID | 2         | 2.22%   |
-| SCSI | 1         | 1.11%   |
+| SATA | 50        | 56.18%  |
+| IDE  | 20        | 22.47%  |
+| NVMe | 16        | 17.98%  |
+| RAID | 2         | 2.25%   |
+| SCSI | 1         | 1.12%   |
 
 Processor
 ---------
@@ -1398,12 +1398,12 @@ Graphics card models
 
 | Model                                                                         | Computers | Percent |
 |-------------------------------------------------------------------------------|-----------|---------|
-| Intel Skylake GT2 [HD Graphics 520]                                           | 7         | 8.14%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                         | 7         | 8.14%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller     | 7         | 8.14%   |
 | Intel 3rd Gen Core processor Graphics Controller                              | 6         | 6.98%   |
 | Intel Core Processor Integrated Graphics Controller                           | 4         | 4.65%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller | 3         | 3.49%   |
-| Intel HD Graphics 5500                                                        | 3         | 3.49%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                      | 3         | 3.49%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                   | 3         | 3.49%   |
 | Nvidia GK208B [GeForce GT 710]                                                | 2         | 2.33%   |
 | Intel Mobile 945GM/GMS, 943/940GML Express Integrated Graphics Controller     | 2         | 2.33%   |
@@ -1426,13 +1426,13 @@ Graphics card models
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)             | 1         | 1.16%   |
 | Intel WhiskeyLake-U GT2 [UHD Graphics 620]                                    | 1         | 1.16%   |
 | Intel US15W/US15X SCH [Poulsbo] Graphics Controller                           | 1         | 1.16%   |
-| Intel UHD Graphics 620                                                        | 1         | 1.16%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                     | 1         | 1.16%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (secondary)           | 1         | 1.16%   |
 | Intel Mobile GM965/GL960 Integrated Graphics Controller (primary)             | 1         | 1.16%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                    | 1         | 1.16%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                  | 1         | 1.16%   |
-| Intel HD Graphics 630                                                         | 1         | 1.16%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                       | 1         | 1.16%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                      | 1         | 1.16%   |
 | Intel Haswell-ULT Integrated Graphics Controller                              | 1         | 1.16%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                      | 1         | 1.16%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                     | 1         | 1.16%   |
@@ -2051,15 +2051,15 @@ Sound card models
 |----------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP HD Audio                                            | 8         | 8.6%    |
 | Intel 6 Series/C200 Series Chipset Family High Definition Audio Controller | 7         | 7.53%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                 | 7         | 7.53%   |
+| AMD Ryzen HD Audio Controller                                              | 7         | 7.53%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller        | 6         | 6.45%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                    | 5         | 5.38%   |
 | Intel 5 Series/3400 Series Chipset High Definition Audio                   | 5         | 5.38%   |
-| AMD Renoir Radeon High Definition Audio Controller                         | 4         | 4.3%    |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                | 4         | 4.3%    |
 | Nvidia GK208 HDMI/DP Audio Controller                                      | 3         | 3.23%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                    | 3         | 3.23%   |
 | Intel Broadwell-U Audio Controller                                         | 3         | 3.23%   |
-| AMD Rembrandt Radeon High Definition Audio Controller                      | 3         | 3.23%   |
+| AMD Radeon High Definition Audio Controller                                | 3         | 3.23%   |
 | Nvidia GA104 High Definition Audio Controller                              | 2         | 2.15%   |
 | Intel Celeron/Pentium Silver Processor High Definition Audio               | 2         | 2.15%   |
 | Intel 82801H (ICH8 Family) HD Audio Controller                             | 2         | 2.15%   |
@@ -2151,7 +2151,7 @@ Memory module models
 | Samsung RAM M393A4K40CB1-CRC 32GB DIMM DDR4 2400MT/s    | 1         | 2.38%   |
 | Micron RAM 16KTF1G64HZ-1G6E1 8GB SODIMM DDR3 1600MT/s   | 1         | 2.38%   |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s       | 1         | 2.38%   |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s   | 1         | 2.38%   |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s   | 1         | 2.38%   |
 | Kingston RAM 9905316-005.A04LF 1GB DIMM DDR2 667MT/s    | 1         | 2.38%   |
 | HP RAM 809083-091 32GB DIMM DDR4 2400MT/s               | 1         | 2.38%   |
 | A-DATA RAM AM1L16BC4R1-B1PS 4GB SODIMM DDR3 1600MT/s    | 1         | 2.38%   |
@@ -2223,8 +2223,8 @@ Memory module speed
 | 2400    | 3         | 7.89%   |
 | 1067    | 3         | 7.89%   |
 | 667     | 3         | 7.89%   |
+| 3600    | 1         | 2.63%   |
 | 3200    | 1         | 2.63%   |
-| 3000    | 1         | 2.63%   |
 | 2667    | 1         | 2.63%   |
 | 2133    | 1         | 2.63%   |
 | 1867    | 1         | 2.63%   |
@@ -2277,21 +2277,22 @@ Camera device vendors
 
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
-| Chicony Electronics                    | 13        | 34.21%  |
-| Lite-On Technology                     | 5         | 13.16%  |
-| Bison Electronics                      | 5         | 13.16%  |
-| Tripath Technology                     | 2         | 5.26%   |
-| Lenovo                                 | 2         | 5.26%   |
-| IMC Networks                           | 2         | 5.26%   |
-| SunplusIT                              | 1         | 2.63%   |
-| Ricoh                                  | 1         | 2.63%   |
-| Realtek Semiconductor                  | 1         | 2.63%   |
-| Microdia                               | 1         | 2.63%   |
-| Jiangxi Shinetech Optical              | 1         | 2.63%   |
-| Genesys Logic                          | 1         | 2.63%   |
-| Generalplus Technology                 | 1         | 2.63%   |
-| Cheng Uei Precision Industry (Foxlink) | 1         | 2.63%   |
-| Apple                                  | 1         | 2.63%   |
+| Chicony Electronics                    | 13        | 33.33%  |
+| Lite-On Technology                     | 5         | 12.82%  |
+| Bison Electronics                      | 5         | 12.82%  |
+| Tripath Technology                     | 2         | 5.13%   |
+| Lenovo                                 | 2         | 5.13%   |
+| IMC Networks                           | 2         | 5.13%   |
+| SunplusIT                              | 1         | 2.56%   |
+| Ricoh                                  | 1         | 2.56%   |
+| Realtek Semiconductor                  | 1         | 2.56%   |
+| Microdia                               | 1         | 2.56%   |
+| Jiangxi Shinetech Optical              | 1         | 2.56%   |
+| Genesys Logic                          | 1         | 2.56%   |
+| Generalplus Technology                 | 1         | 2.56%   |
+| Cheng Uei Precision Industry (Foxlink) | 1         | 2.56%   |
+| Asuscom Network                        | 1         | 2.56%   |
+| Apple                                  | 1         | 2.56%   |
 
 Camera Model
 ------------
@@ -2303,34 +2304,35 @@ Camera device models
 
 | Model                                                    | Computers | Percent |
 |----------------------------------------------------------|-----------|---------|
-| Lite-On Integrated Camera                                | 4         | 10.53%  |
-| Chicony Integrated Camera                                | 3         | 7.89%   |
-| Bison Integrated Camera                                  | 3         | 7.89%   |
-| Tripath USB Camera                                       | 2         | 5.26%   |
-| IMC Networks Integrated Camera                           | 2         | 5.26%   |
-| Chicony Integrated Camera [ThinkPad]                     | 2         | 5.26%   |
-| SunplusIT USB camera                                     | 1         | 2.63%   |
-| Ricoh Laptop_Integrated_Webcam_FHD                       | 1         | 2.63%   |
-| Realtek Integrated Webcam HD                             | 1         | 2.63%   |
-| Microdia Integrated Webcam                               | 1         | 2.63%   |
-| Lite-On Realtek DMFT RGB                                 | 1         | 2.63%   |
-| Lenovo Integrated Webcam [R5U877]                        | 1         | 2.63%   |
-| Lenovo Integrated Webcam                                 | 1         | 2.63%   |
-| Jiangxi Shinetech Optical Realtek PC Camera              | 1         | 2.63%   |
-| Genesys Logic ASUS USB 2.0 UVC 1.3M WebCam               | 1         | 2.63%   |
-| Generalplus HD Webcam                                    | 1         | 2.63%   |
-| Chicony thinkpad t430s camera                            | 1         | 2.63%   |
-| Chicony Sonix ST50220 USB Video Camera                   | 1         | 2.63%   |
-| Chicony Ltd., USB 2.0 Camera                             | 1         | 2.63%   |
-| Chicony Lenovo Integrated Camera (0.3MP)                 | 1         | 2.63%   |
-| Chicony Lenovo EasyCamera                                | 1         | 2.63%   |
-| Chicony Integrated Camera (1280x720@30)                  | 1         | 2.63%   |
-| Chicony FJ Camera                                        | 1         | 2.63%   |
-| Chicony 2.0M UVC Webcam / CNF7129                        | 1         | 2.63%   |
-| Cheng Uei Precision Industry (Foxlink) Realtek PC Camera | 1         | 2.63%   |
-| Bison USB HD Webcam                                      | 1         | 2.63%   |
-| Bison Lenovo Integrated Webcam                           | 1         | 2.63%   |
-| Apple FaceTime Camera                                    | 1         | 2.63%   |
+| Lite-On Integrated Camera                                | 4         | 10.26%  |
+| Chicony Integrated Camera                                | 3         | 7.69%   |
+| Bison Integrated Camera                                  | 3         | 7.69%   |
+| Tripath USB Camera                                       | 2         | 5.13%   |
+| IMC Networks Integrated Camera                           | 2         | 5.13%   |
+| Chicony Integrated Camera [ThinkPad]                     | 2         | 5.13%   |
+| SunplusIT USB camera                                     | 1         | 2.56%   |
+| Ricoh Laptop_Integrated_Webcam_FHD                       | 1         | 2.56%   |
+| Realtek Integrated Webcam HD                             | 1         | 2.56%   |
+| Microdia Integrated Webcam                               | 1         | 2.56%   |
+| Lite-On Realtek DMFT RGB                                 | 1         | 2.56%   |
+| Lenovo Integrated Webcam [R5U877]                        | 1         | 2.56%   |
+| Lenovo Integrated Webcam                                 | 1         | 2.56%   |
+| Jiangxi Shinetech Optical Realtek PC Camera              | 1         | 2.56%   |
+| Genesys Logic ASUS USB 2.0 UVC 1.3M WebCam               | 1         | 2.56%   |
+| Generalplus HD Webcam                                    | 1         | 2.56%   |
+| Chicony thinkpad t430s camera                            | 1         | 2.56%   |
+| Chicony Sonix ST50220 USB Video Camera                   | 1         | 2.56%   |
+| Chicony Ltd., USB 2.0 Camera                             | 1         | 2.56%   |
+| Chicony Lenovo Integrated Camera (0.3MP)                 | 1         | 2.56%   |
+| Chicony Lenovo EasyCamera                                | 1         | 2.56%   |
+| Chicony Integrated Camera (1280x720@30)                  | 1         | 2.56%   |
+| Chicony FJ Camera                                        | 1         | 2.56%   |
+| Chicony 2.0M UVC Webcam / CNF7129                        | 1         | 2.56%   |
+| Cheng Uei Precision Industry (Foxlink) Realtek PC Camera | 1         | 2.56%   |
+| Bison USB HD Webcam                                      | 1         | 2.56%   |
+| Bison Lenovo Integrated Webcam                           | 1         | 2.56%   |
+| Asuscom Network Depstech webcam                          | 1         | 2.56%   |
+| Apple FaceTime Camera                                    | 1         | 2.56%   |
 
 Security
 --------

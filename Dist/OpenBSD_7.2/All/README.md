@@ -844,7 +844,7 @@ Hard drive models
 | Model                          | Computers | Percent |
 |--------------------------------|-----------|---------|
 | NVMe Samsung SSD 980 1TB       | 8         | 5.56%   |
-| OPENBSD SR RAID 1 128GB        | 4         | 2.78%   |
+| OPENBSD SR RAID 1 2TB          | 4         | 2.78%   |
 | Seagate ST1000LM035-1RK172 1TB | 2         | 1.39%   |
 | Samsung SSD 860 EVO M.2 1TB    | 2         | 1.39%   |
 | Samsung SSD 860 EVO 1TB        | 2         | 1.39%   |
@@ -977,11 +977,11 @@ Size of hard drive
 
 | Size in TB | Computers | Drives | Percent |
 |------------|-----------|--------|---------|
-| 0.01-0.5   | 54        | 70     | 45.76%  |
-| 0.51-1.0   | 43        | 50     | 36.44%  |
-| 1.01-2.0   | 12        | 31     | 10.17%  |
-| 4.01-10.0  | 5         | 13     | 4.24%   |
-| 3.01-4.0   | 4         | 6      | 3.39%   |
+| 0.01-0.5   | 53        | 65     | 44.54%  |
+| 0.51-1.0   | 43        | 50     | 36.13%  |
+| 1.01-2.0   | 14        | 36     | 11.76%  |
+| 4.01-10.0  | 5         | 13     | 4.2%    |
+| 3.01-4.0   | 4         | 6      | 3.36%   |
 
 Space Total
 -----------
@@ -1138,7 +1138,7 @@ Storage controller vendors
 | Intel                     | 58        | 47.93%  |
 | Samsung Electronics       | 18        | 14.88%  |
 | AMD                       | 15        | 12.4%   |
-| SanDisk                   | 7         | 5.79%   |
+| Sandisk                   | 7         | 5.79%   |
 | Broadcom / LSI            | 5         | 4.13%   |
 | Micron/Crucial Technology | 3         | 2.48%   |
 | Marvell Technology Group  | 3         | 2.48%   |
@@ -1190,9 +1190,9 @@ Storage controller models
 | SK hynix BC501 NVMe Solid State Drive                                          | 1         | 0.81%   |
 | Silicon Motion SM2263EN/SM2263XT (DRAM-less) NVMe SSD Controllers              | 1         | 0.81%   |
 | Seagate FireCuda 520/IronWolf 525 SSD                                          | 1         | 0.81%   |
+| Sandisk WD SN560/SN740/SN770/SN5000 NVMe SSD                                   | 1         | 0.81%   |
 | Sandisk WD Blue SN570 NVMe SSD 2TB                                             | 1         | 0.81%   |
 | Sandisk WD Black SN850X NVMe SSD                                               | 1         | 0.81%   |
-| Sandisk WD Black SN770 / PC SN740 256GB / PC SN560 (DRAM-less) NVMe SSD        | 1         | 0.81%   |
 | Sandisk PC SN735 / WD_BLACK SN750 SE NVMe SSD (DRAM-less)                      | 1         | 0.81%   |
 | SanDisk Extreme Pro / WD Black 2018/SN750/PC SN720 NVMe SSD                    | 1         | 0.81%   |
 | Samsung S4LN053X01 AHCI SSD Controller(Apple slot)                             | 1         | 0.81%   |
@@ -1438,7 +1438,7 @@ Graphics card models
 | Model                                                                                    | Computers | Percent |
 |------------------------------------------------------------------------------------------|-----------|---------|
 | Intel 3rd Gen Core processor Graphics Controller                                         | 6         | 5.77%   |
-| Intel Skylake GT2 [HD Graphics 520]                                                      | 5         | 4.81%   |
+| Intel Skylake-U GT2 [HD Graphics 520]                                                    | 5         | 4.81%   |
 | Intel TigerLake-LP GT2 [Iris Xe Graphics]                                                | 4         | 3.85%   |
 | Intel Mobile 945GM/GMS/GME, 943/940GML Express Integrated Graphics Controller            | 4         | 3.85%   |
 | Intel 2nd Generation Core Processor Family Integrated Graphics Controller                | 4         | 3.85%   |
@@ -1450,13 +1450,13 @@ Graphics card models
 | Matrox Electronics Systems MGA G200eW WPCM450                                            | 2         | 1.92%   |
 | Matrox Electronics Systems MGA G200e [Pilot] ServerEngines (SEP1)                        | 2         | 1.92%   |
 | Intel Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller              | 2         | 1.92%   |
-| Intel UHD Graphics 620                                                                   | 2         | 1.92%   |
-| Intel HD Graphics 5500                                                                   | 2         | 1.92%   |
-| Intel HD Graphics 530                                                                    | 2         | 1.92%   |
+| Intel Skylake-S GT2 [HD Graphics 530]                                                    | 2         | 1.92%   |
+| Intel Kaby Lake-R GT2 [UHD Graphics 620]                                                 | 2         | 1.92%   |
 | Intel Haswell-ULT Integrated Graphics Controller                                         | 2         | 1.92%   |
 | Intel GeminiLake [UHD Graphics 600]                                                      | 2         | 1.92%   |
 | Intel CometLake-S GT2 [UHD Graphics 630]                                                 | 2         | 1.92%   |
 | Intel CoffeeLake-H GT2 [UHD Graphics 630]                                                | 2         | 1.92%   |
+| Intel Broadwell-U GT2 [HD Graphics 5500]                                                 | 2         | 1.92%   |
 | Intel Atom/Celeron/Pentium Processor x5-E8000/J3xxx/N3xxx Integrated Graphics Controller | 2         | 1.92%   |
 | Intel Alder Lake-P GT2 [Iris Xe Graphics]                                                | 2         | 1.92%   |
 | AMD Renoir [Radeon Vega Series / Radeon Vega Mobile Series]                              | 2         | 1.92%   |
@@ -1471,12 +1471,12 @@ Graphics card models
 | Matrox Electronics Systems G200eR2                                                       | 1         | 0.96%   |
 | Intel Mobile 945GSE Express Integrated Graphics Controller                               | 1         | 0.96%   |
 | Intel Mobile 4 Series Chipset Integrated Graphics Controller                             | 1         | 0.96%   |
+| Intel Kaby Lake-U GT3 [Iris Plus Graphics 640]                                           | 1         | 0.96%   |
+| Intel Kaby Lake-S GT2 [HD Graphics 630]                                                  | 1         | 0.96%   |
 | Intel JasperLake [UHD Graphics]                                                          | 1         | 0.96%   |
 | Intel IvyBridge GT2 [HD Graphics 4000]                                                   | 1         | 0.96%   |
 | Intel Iris Plus Graphics G1 (Ice Lake)                                                   | 1         | 0.96%   |
-| Intel Iris Plus Graphics 640                                                             | 1         | 0.96%   |
-| Intel Iris Graphics 6100                                                                 | 1         | 0.96%   |
-| Intel HD Graphics 630                                                                    | 1         | 0.96%   |
+| Intel GeminiLake [UHD Graphics 605]                                                      | 1         | 0.96%   |
 
 GPU Combo
 ---------
@@ -1594,7 +1594,7 @@ Monitor models
 | LG Display LCD Monitor LGD02EB 1366x768 310x170mm 13.9-inch           | 1         | 1.69%   |
 | LG Display LCD Monitor LGD02D8 1366x768 280x160mm 12.7-inch           | 1         | 1.69%   |
 | LG Display LCD Monitor LGD0215 1920x1080 350x190mm 15.7-inch          | 1         | 1.69%   |
-| Lenovo LCD Monitor LEN40B1 1600x900 350x190mm 15.7-inch               | 1         | 1.69%   |
+| Lenovo LCD Monitor LEN40B1 1600x900 340x190mm 15.3-inch               | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4035 1280x800 300x190mm 14.0-inch               | 1         | 1.69%   |
 | Lenovo LCD Monitor LEN4011 1280x800 260x160mm 12.0-inch               | 1         | 1.69%   |
 | Eizo EV2450 ENC2531 1920x1080 530x300mm 24.0-inch                     | 1         | 1.69%   |
@@ -1866,48 +1866,48 @@ Wireless models
 ![Wireless Model](./images/pie_chart_bsd/net_wireless_model.svg)
 
 
-| Model                                                          | Computers | Percent |
-|----------------------------------------------------------------|-----------|---------|
-| Intel Centrino Advanced-N 6205 [Taylor Peak]                   | 8         | 10.53%  |
-| Intel Wireless 8260                                            | 5         | 6.58%   |
-| Intel Wi-Fi 6 AX201                                            | 4         | 5.26%   |
-| Intel Wireless 8265 / 8275                                     | 3         | 3.95%   |
-| Intel Wireless 7265                                            | 3         | 3.95%   |
-| Intel Wi-Fi 6 AX200                                            | 3         | 3.95%   |
-| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter   | 3         | 3.95%   |
-| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express) | 2         | 2.63%   |
-| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter  | 2         | 2.63%   |
-| Intel Wireless 7260                                            | 2         | 2.63%   |
-| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]      | 2         | 2.63%   |
-| Intel Comet Lake PCH-LP CNVi WiFi                              | 2         | 2.63%   |
-| Intel Centrino Advanced-N 6200                                 | 2         | 2.63%   |
-| Broadcom BCM43602 802.11ac Wireless LAN SoC                    | 2         | 2.63%   |
-| TP-Link Archer T2U PLUS [RTL8821AU]                            | 1         | 1.32%   |
-| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]     | 1         | 1.32%   |
-| Sierra Wireless EM7455                                         | 1         | 1.32%   |
-| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter       | 1         | 1.32%   |
-| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter       | 1         | 1.32%   |
-| Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter       | 1         | 1.32%   |
-| Realtek RTL8723DE Wireless Network Adapter                     | 1         | 1.32%   |
-| Realtek RTL8723BE PCIe Wireless Network Adapter                | 1         | 1.32%   |
-| Realtek RTL8723AE PCIe Wireless Network Adapter                | 1         | 1.32%   |
-| Realtek RTL8191SEvB Wireless LAN Controller                    | 1         | 1.32%   |
-| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter          | 1         | 1.32%   |
-| Realtek RTL8188EUS 802.11n Wireless Network Adapter            | 1         | 1.32%   |
-| Realtek RTL8188ETV Wireless LAN 802.11n Network Adapter        | 1         | 1.32%   |
-| Realtek RTL8188CUS 802.11n WLAN Adapter                        | 1         | 1.32%   |
-| Realtek Realtek Bluetooth 4.2 Adapter                          | 1         | 1.32%   |
-| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter     | 1         | 1.32%   |
-| Qualcomm Atheros AR9271 802.11n                                | 1         | 1.32%   |
-| Qualcomm Atheros AR9485 Wireless Network Adapter               | 1         | 1.32%   |
-| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express) | 1         | 1.32%   |
-| Qualcomm Atheros AR5212 802.11abg NIC                          | 1         | 1.32%   |
-| MediaTek MT7921 802.11ax PCI Express Wireless Network Adapter  | 1         | 1.32%   |
-| Intel Wireless 3160                                            | 1         | 1.32%   |
-| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]        | 1         | 1.32%   |
-| Intel PRO/Wireless 3945ABG [Golan] Network Connection          | 1         | 1.32%   |
-| Intel Ice Lake-LP PCH CNVi WiFi                                | 1         | 1.32%   |
-| Intel Gemini Lake PCH CNVi WiFi                                | 1         | 1.32%   |
+| Model                                                                | Computers | Percent |
+|----------------------------------------------------------------------|-----------|---------|
+| Intel Centrino Advanced-N 6205 [Taylor Peak]                         | 8         | 10.53%  |
+| Intel Wireless 8260                                                  | 5         | 6.58%   |
+| Intel Wi-Fi 6 AX201                                                  | 4         | 5.26%   |
+| Intel Wireless 8265 / 8275                                           | 3         | 3.95%   |
+| Intel Wireless 7265                                                  | 3         | 3.95%   |
+| Intel Wi-Fi 6 AX200                                                  | 3         | 3.95%   |
+| Broadcom BCM4360 802.11ac Dual Band Wireless Network Adapter         | 3         | 3.95%   |
+| Qualcomm Atheros AR928X Wireless Network Adapter (PCI-Express)       | 2         | 2.63%   |
+| MediaTek MT7922 802.11ax PCI Express Wireless Network Adapter        | 2         | 2.63%   |
+| Intel Wireless 7260                                                  | 2         | 2.63%   |
+| Intel Wi-Fi 6E(802.11ax) AX210/AX1675* 2x2 [Typhoon Peak]            | 2         | 2.63%   |
+| Intel Comet Lake PCH-LP CNVi WiFi                                    | 2         | 2.63%   |
+| Intel Centrino Advanced-N 6200                                       | 2         | 2.63%   |
+| Broadcom BCM43602 802.11ac Wireless LAN SoC                          | 2         | 2.63%   |
+| TP-Link Archer T2U PLUS [RTL8821AU]                                  | 1         | 1.32%   |
+| TP-Link AC600 wireless Realtek RTL8811AU [Archer T2U Nano]           | 1         | 1.32%   |
+| Sierra Wireless EM7455                                               | 1         | 1.32%   |
+| Realtek RTL8822CE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.32%   |
+| Realtek RTL8821CE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.32%   |
+| Realtek RTL8812AE 802.11ac PCIe Wireless Network Adapter             | 1         | 1.32%   |
+| Realtek RTL8723DE Wireless Network Adapter                           | 1         | 1.32%   |
+| Realtek RTL8723BE PCIe Wireless Network Adapter                      | 1         | 1.32%   |
+| Realtek RTL8723AE PCIe Wireless Network Adapter                      | 1         | 1.32%   |
+| Realtek RTL8191SEvB Wireless LAN Controller                          | 1         | 1.32%   |
+| Realtek RTL8188FTV 802.11b/g/n 1T1R 2.4G WLAN Adapter                | 1         | 1.32%   |
+| Realtek RTL8188EUS 802.11n Wireless Network Adapter                  | 1         | 1.32%   |
+| Realtek RTL8188ETV Wireless LAN 802.11n Network Adapter              | 1         | 1.32%   |
+| Realtek RTL8188CUS 802.11n WLAN Adapter                              | 1         | 1.32%   |
+| Realtek Realtek Bluetooth 4.2 Adapter                                | 1         | 1.32%   |
+| Qualcomm Atheros QCA9565 / AR9565 Wireless Network Adapter           | 1         | 1.32%   |
+| Qualcomm Atheros AR9271 802.11n                                      | 1         | 1.32%   |
+| Qualcomm Atheros AR9485 Wireless Network Adapter                     | 1         | 1.32%   |
+| Qualcomm Atheros AR9285 Wireless Network Adapter (PCI-Express)       | 1         | 1.32%   |
+| Qualcomm Atheros AR5212 802.11abg NIC                                | 1         | 1.32%   |
+| MediaTek MT7921 802.11ax PCIe Wireless Network Adapter [Filogic 330] | 1         | 1.32%   |
+| Intel Wireless 3160                                                  | 1         | 1.32%   |
+| Intel Wi-Fi 5(802.11ac) Wireless-AC 9x6x [Thunder Peak]              | 1         | 1.32%   |
+| Intel PRO/Wireless 3945ABG [Golan] Network Connection                | 1         | 1.32%   |
+| Intel Ice Lake-LP PCH CNVi WiFi                                      | 1         | 1.32%   |
+| Intel Gemini Lake PCH CNVi WiFi                                      | 1         | 1.32%   |
 
 Ethernet Vendor
 ---------------
@@ -2136,9 +2136,9 @@ Sound card models
 | Model                                                                                             | Computers | Percent |
 |---------------------------------------------------------------------------------------------------|-----------|---------|
 | Intel Sunrise Point-LP HD Audio                                                                   | 8         | 6.5%    |
-| AMD Renoir Radeon High Definition Audio Controller                                                | 7         | 5.69%   |
+| AMD Renoir/Cezanne HDMI/DP Audio Controller                                                       | 7         | 5.69%   |
 | Intel 7 Series/C216 Chipset Family High Definition Audio Controller                               | 6         | 4.88%   |
-| AMD Family 17h/19h/1ah HD Audio Controller                                                        | 6         | 4.88%   |
+| AMD Ryzen HD Audio Controller                                                                     | 6         | 4.88%   |
 | Intel Wildcat Point-LP High Definition Audio Controller                                           | 4         | 3.25%   |
 | Intel Tiger Lake-LP Smart Sound Technology Audio Controller                                       | 4         | 3.25%   |
 | Intel NM10/ICH7 Family High Definition Audio Controller                                           | 4         | 3.25%   |
@@ -2227,8 +2227,8 @@ Memory module models
 | Kingston RAM KHYXPX-MIE 8GB SODIMM DDR4 2667MT/s       | 1         | 4%      |
 | Kingston RAM KHX2400C15D4/4G 4GB DIMM DDR4 2400MT/s    | 1         | 4%      |
 | Kingston RAM KHX2400C15/8G 8GB DIMM DDR4 2400MT/s      | 1         | 4%      |
-| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3000MT/s  | 1         | 4%      |
-| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3 1334MT/s  | 1         | 4%      |
+| Kingston RAM KF3600C18D4/32GX 32GB DIMM DDR4 3600MT/s  | 1         | 4%      |
+| Elpida RAM EBJ41UF8BCS0-DJ-F 4GB SODIMM DDR3           | 1         | 4%      |
 | Elpida RAM EBJ21UE8BDS0-AE-F 2GB SODIMM DDR3 1067MT/s  | 1         | 4%      |
 | Corsair RAM CMK64GX5M2B5200C40 32GB DIMM DDR5 4800MT/s | 1         | 4%      |
 | Unknown                                                | 1         | 4%      |
@@ -2299,7 +2299,7 @@ Memory module speed
 | 1600    | 2         | 9.52%   |
 | 1333    | 2         | 9.52%   |
 | 4800    | 1         | 4.76%   |
-| 3000    | 1         | 4.76%   |
+| 3600    | 1         | 4.76%   |
 | 2400    | 1         | 4.76%   |
 | 2133    | 1         | 4.76%   |
 | 1867    | 1         | 4.76%   |
@@ -2348,20 +2348,21 @@ Camera device vendors
 
 | Vendor                                 | Computers | Percent |
 |----------------------------------------|-----------|---------|
-| Chicony Electronics                    | 10        | 26.32%  |
-| Bison Electronics                      | 6         | 15.79%  |
-| Microdia                               | 4         | 10.53%  |
-| IMC Networks                           | 4         | 10.53%  |
-| Sunplus Innovation Technology          | 2         | 5.26%   |
-| Realtek Semiconductor                  | 2         | 5.26%   |
-| Lite-On Technology                     | 2         | 5.26%   |
-| Lenovo                                 | 2         | 5.26%   |
-| Tripath Technology                     | 1         | 2.63%   |
-| Ricoh                                  | 1         | 2.63%   |
-| Quanta                                 | 1         | 2.63%   |
-| Foxconn / Hon Hai                      | 1         | 2.63%   |
-| Cheng Uei Precision Industry (Foxlink) | 1         | 2.63%   |
-| Apple                                  | 1         | 2.63%   |
+| Chicony Electronics                    | 10        | 25.64%  |
+| Bison Electronics                      | 6         | 15.38%  |
+| Microdia                               | 4         | 10.26%  |
+| IMC Networks                           | 4         | 10.26%  |
+| Sunplus Innovation Technology          | 2         | 5.13%   |
+| Realtek Semiconductor                  | 2         | 5.13%   |
+| Lite-On Technology                     | 2         | 5.13%   |
+| Lenovo                                 | 2         | 5.13%   |
+| Tripath Technology                     | 1         | 2.56%   |
+| Ricoh                                  | 1         | 2.56%   |
+| Quanta                                 | 1         | 2.56%   |
+| Foxconn / Hon Hai                      | 1         | 2.56%   |
+| Cheng Uei Precision Industry (Foxlink) | 1         | 2.56%   |
+| Asuscom Network                        | 1         | 2.56%   |
+| Apple                                  | 1         | 2.56%   |
 
 Camera Model
 ------------
@@ -2373,36 +2374,37 @@ Camera device models
 
 | Model                                                                      | Computers | Percent |
 |----------------------------------------------------------------------------|-----------|---------|
-| Bison Integrated Camera                                                    | 5         | 12.5%   |
-| Chicony Integrated Camera                                                  | 3         | 7.5%    |
-| Microdia Integrated_Webcam_HD                                              | 2         | 5%      |
-| Lite-On Integrated Camera                                                  | 2         | 5%      |
-| Lenovo Integrated Webcam [R5U877]                                          | 2         | 5%      |
-| Bison SunplusIT Integrated Camera                                          | 2         | 5%      |
-| Tripath USB Camera                                                         | 1         | 2.5%    |
-| Sunplus Integrated_Webcam_FHD                                              | 1         | 2.5%    |
-| Sunplus HP TrueVision HD Camera                                            | 1         | 2.5%    |
-| Ricoh Laptop_Integrated_Webcam_FHD                                         | 1         | 2.5%    |
-| Realtek Laptop Camera                                                      | 1         | 2.5%    |
-| Realtek Integrated_Webcam_HD                                               | 1         | 2.5%    |
-| Quanta HP Universal Camera                                                 | 1         | 2.5%    |
-| Microdia USB 2.0 Camera                                                    | 1         | 2.5%    |
-| Microdia USB  Live camera                                                  | 1         | 2.5%    |
-| IMC Networks USB2.0 VGA UVC WebCam                                         | 1         | 2.5%    |
-| IMC Networks Realtek PC Camera                                             | 1         | 2.5%    |
-| IMC Networks Realtek DMFT RGB                                              | 1         | 2.5%    |
-| IMC Networks Integrated Camera                                             | 1         | 2.5%    |
-| Foxconn / Hon Hai USB2.0 Camera                                            | 1         | 2.5%    |
-| Chicony Ltd., Chicony USB 2.0 Camera                                       | 1         | 2.5%    |
-| Chicony Lenovo Integrated Camera (0.3MP)                                   | 1         | 2.5%    |
-| Chicony Integrated IR Camera                                               | 1         | 2.5%    |
-| Chicony Integrated Camera [ThinkPad]                                       | 1         | 2.5%    |
-| Chicony FJ Camera                                                          | 1         | 2.5%    |
-| Chicony Chicony USB2.0 Camera                                              | 1         | 2.5%    |
-| Chicony 2.0M UVC Webcam / CNF7129                                          | 1         | 2.5%    |
-| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.5%    |
-| Bison Lenovo EasyCamera                                                    | 1         | 2.5%    |
-| Apple FaceTime HD Camera (Built-in)                                        | 1         | 2.5%    |
+| Bison Integrated Camera                                                    | 5         | 12.2%   |
+| Chicony Integrated Camera                                                  | 3         | 7.32%   |
+| Microdia Integrated_Webcam_HD                                              | 2         | 4.88%   |
+| Lite-On Integrated Camera                                                  | 2         | 4.88%   |
+| Lenovo Integrated Webcam [R5U877]                                          | 2         | 4.88%   |
+| Bison SunplusIT Integrated Camera                                          | 2         | 4.88%   |
+| Tripath USB Camera                                                         | 1         | 2.44%   |
+| Sunplus Integrated_Webcam_FHD                                              | 1         | 2.44%   |
+| Sunplus HP TrueVision HD Camera                                            | 1         | 2.44%   |
+| Ricoh Laptop_Integrated_Webcam_FHD                                         | 1         | 2.44%   |
+| Realtek Laptop Camera                                                      | 1         | 2.44%   |
+| Realtek Integrated_Webcam_HD                                               | 1         | 2.44%   |
+| Quanta HP Universal Camera                                                 | 1         | 2.44%   |
+| Microdia USB 2.0 Camera                                                    | 1         | 2.44%   |
+| Microdia USB  Live camera                                                  | 1         | 2.44%   |
+| IMC Networks USB2.0 VGA UVC WebCam                                         | 1         | 2.44%   |
+| IMC Networks Realtek PC Camera                                             | 1         | 2.44%   |
+| IMC Networks Realtek DMFT RGB                                              | 1         | 2.44%   |
+| IMC Networks Integrated Camera                                             | 1         | 2.44%   |
+| Foxconn / Hon Hai USB2.0 Camera                                            | 1         | 2.44%   |
+| Chicony Ltd., Chicony USB 2.0 Camera                                       | 1         | 2.44%   |
+| Chicony Lenovo Integrated Camera (0.3MP)                                   | 1         | 2.44%   |
+| Chicony Integrated IR Camera                                               | 1         | 2.44%   |
+| Chicony Integrated Camera [ThinkPad]                                       | 1         | 2.44%   |
+| Chicony FJ Camera                                                          | 1         | 2.44%   |
+| Chicony Chicony USB2.0 Camera                                              | 1         | 2.44%   |
+| Chicony 2.0M UVC Webcam / CNF7129                                          | 1         | 2.44%   |
+| Cheng Uei Precision Industry (Foxlink) HP Wide Vision HD Integrated Webcam | 1         | 2.44%   |
+| Bison Lenovo EasyCamera                                                    | 1         | 2.44%   |
+| Asuscom Network Depstech webcam                                            | 1         | 2.44%   |
+| Apple FaceTime HD Camera (Built-in)                                        | 1         | 2.44%   |
 
 Security
 --------
